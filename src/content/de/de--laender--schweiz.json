@@ -1,0 +1,196 @@
+{
+  "route": "/de/laender/schweiz/",
+  "lang": "de",
+  "title": "Schweiz als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/switzerland/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-f6a2369ad85f0a"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-c4b886b7b0ffbb"
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Schweiz als Familienbasis: Rechte und Vorbereitung | EXOBASIS",
+  "description": "Schweiz als persönliche Ausweichoption prüfen. Wohnrecht, Kanton, Versicherung, Versorgung und organisierte Ankunft von Bank- und Verwahrungsaufgaben trennen.",
+  "intro": "<p>Du willst deine Familie und dein Erarbeitetes neu aufstellen und dabei handlungsfähig bleiben. Die Schweiz kann Wohn-, Vermögens- oder Fachleistungsort sein. Diese Rollen werden getrennt geprüft: Ein Konto schafft keinen Wohnsitz, und räumliche Nähe braucht eine eigene Krisenabwägung.</p>",
+  "primary": {
+    "label": "Vorbereitung für die Schweiz anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "countryContext": "/de/laender/schweiz/",
+  "country": {
+    "name": "Schweiz",
+    "slug": "schweiz",
+    "region": "Europa",
+    "map": "countries/schweiz-locator.svg",
+    "imageAlt": "Lagegrafik: Schweiz. Hervorhebung zur geografischen Orientierung, keine Sicherheitsbewertung.",
+    "caption": "Geografische Orientierung. Keine Reise-, Sicherheits- oder Grenzbewertung.",
+    "summary": [
+      [
+        "Wohnrecht ist kein Konto",
+        "Familienbasis und finanzielle Fachaufgabe getrennt planen."
+      ],
+      [
+        "Kanton und Alltag",
+        "Sprache, Schule, Versicherung und Wege konkret verbinden."
+      ],
+      [
+        "Nähe bewusst einordnen",
+        "Europäische Lage am persönlichen Szenario messen."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Passende Ausgangslage",
+      "body": "<p>Die Schweiz kann eine nahe Familien- oder Fachleistungsbasis mit eigenem Rechtsrahmen sein. Wohnort, Bankbeziehung und Verwahrung erfüllen dabei unterschiedliche Aufgaben. Für eine vorbereitete Lebensgrundlage brauchst du ein passendes Wohnrecht, nutzbare Unterkunft und geklärte Versorgung. Ein Konto allein verschafft diese Voraussetzungen nicht.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Krisenbasis und Rückkehr",
+      "body": "<p>Die Nähe kann eine vorbereitete Verlagerung und regelmäßige Nutzung erleichtern. Geografisch bleibt die Schweiz im europäischen Umfeld. Welche Abhängigkeiten der Standort für dich verändert, wird daher mit deinem konkreten Szenario verglichen und nicht aus einem allgemeinen Ruf abgeleitet. Eine nahe Grenze erleichtert Erkundung und Rückkehr, ersetzt aber weder das persönliche Einreiserecht noch eine nutzbare Wohnung. Wenn das befürchtete Szenario ganz Europa betrifft, ist die räumliche Nähe auch eine gemeinsame Abhängigkeit. Lege fest, welche Pflichten und Zugänge im bisherigen Land während eines Schweizer Aufenthalts erhalten bleiben.</p><p>Plane Zugang aller Angehörigen, die tatsächliche Ankunft, Unterkunft und notwendige Zahlungen zusammen. Auch Rückkehr und fortbestehende Pflichten werden berücksichtigt. Ein Fachleistungsstandort kann sinnvoll sein, selbst wenn die geeignete Wohnbasis deiner Familie in einem anderen Land liegt.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Dauerhafte Zukunft für die Familie",
+      "body": "<p>Dauerhaftes Familienleben wird nach den Rechten und Bedürfnissen aller Personen geplant. Aufenthaltsweg, Versicherungsanschluss, Haushalt und die kantonale beziehungsweise örtliche Zuständigkeit müssen zusammenpassen. Die Fähigkeit, eine Wohnung zu bezahlen, ist nicht die einzige Frage. Bei einer Familienverlagerung klären wir zuerst die EU-/EFTA-Berechtigung jeder Person und die für Nichterwerbstätige erforderlichen Mittel und Versicherungen. Der tatsächlich zuständige Kanton, Schule und Wohnraum müssen dazu passen. Angehörige mit anderer Staatsangehörigkeit werden nicht ungeprüft dem Recht der Hauptperson gleichgestellt.</p><p>Region, Sprache, Schulweg, Versorgung und Arbeit bestimmen den Alltag. Eine vorbereitete Erkundung hilft, diese Anforderungen am tatsächlichen Wohnort zu klären. Die Schweiz als Zielland wird hier betrachtet; die eigene Wissensseite zum Wegzug aus der Schweiz hat eine andere Aufgabe.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Mobile Nutzung",
+      "body": "<p>Eine schweizerische Bankverbindung und die rechtmäßige Nutzung eines Wohnorts sind getrennte Themen. Für zeitweise Aufenthalte müssen tatsächliche Nutzung, Status und beabsichtigte Tätigkeit zusammenpassen. Ein häufiges Ein- und Ausreisen ersetzt keine passende aufenthaltsrechtliche Grundlage.</p><p>Organisiere außerdem, wer die Unterkunft und notwendige Korrespondenz betreut. Die fortlaufenden Aufgaben können sich je nach persönlichem Status und Ort unterscheiden. Ein Modell mit mehreren Ländern braucht einen abgestimmten Überblick, nicht mehrere voneinander unabhängige Adressen.</p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Vorhandene Rechte und passende Wege",
+      "body": "<p>Das Staatssekretariat für Migration erläutert die Freizügigkeitsregeln für EU/EFTA-Angehörige und deren konkrete Voraussetzungen. Für nichterwerbstätige Berechtigte gehören ausreichende Mittel sowie eine passende Kranken- und Unfallversicherung zu den maßgeblichen Punkten. Andere Staatsangehörigkeiten werden nicht automatisch unter dieselben Regeln eingeordnet. Das SEM unterscheidet EU-/EFTA-Erwerbstätige und berechtigte Nichterwerbstätige mit ausreichenden Mitteln und Kranken- sowie Unfallversicherung. Für Drittstaatsangehörige gelten nicht automatisch dieselben Freizügigkeitsregeln. Eine Schweizer Bankverbindung, Eigentum oder Verwahrung ersetzt keine Aufenthaltsbewilligung.</p><p>Wir klären deshalb zuerst die betroffenen Personen, Tätigkeit und familiäre Konstellation mit der zuständigen Stelle. Kantonal zuständige Aufgaben, Nachweise und Wohnentscheidung werden verbunden. Ein Aufenthaltsrecht, eine Verwahrungsbeziehung und ein Steuerbezug bleiben jeweils getrennt zu prüfen.</p><p class=\"exb-source-note\"><a href=\"https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta/eu-efta_buerger_schweiz/faq.html\" rel=\"noreferrer\">Staatssekretariat für Migration, Schweiz</a> <span>Quelle geprüft: 26.09.2026</span></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fschweiz%2F#kurzanfrage\">Vorbereitung für die Schweiz anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Regionen und Wohnen",
+      "body": "<p>Wähle Kanton und Wohnort nach Sprache, Haushalt, Schule, Behandlung und Arbeitsplatz. Kurze Entfernung auf einer Karte sagt noch wenig darüber aus, ob deine regelmäßigen Wege praktikabel sind. Die laufenden Wohn- und Versicherungskosten werden mit dem tatsächlichen Familienbedarf zusammen betrachtet.</p><p>Eine Erkundung kann konkrete Wohnoptionen und notwendige Termine verbinden. Nach der Auswahl organisieren wir im vereinbarten Umfang Besichtigungen, Übergabe und Ankunft. Fachleistungsanbieter werden unabhängig davon nach der jeweiligen Aufgabe ausgewählt.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Ankunft im Zielland organisieren</a></p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Gesundheit und Pflege",
+      "body": "<h3>Kinder und Angehörige</h3><p>Familienrechte, Unterrichtssprache und lokale Schulorganisation werden zusammen geplant. Welche Unterlagen gebraucht werden und wann die Aufnahme möglich ist, wird am tatsächlichen Wohnort geklärt. Ein gemeinsamer Haushalt ist keine pauschale Antwort für jede Aufenthaltskonstellation. Schulorganisation, Sprache und Zuständigkeit hängen am Wohnort; ein bloßer Kantonname bestätigt noch keine Aufnahme. Bei medizinischem Bedarf prüfen wir Versicherungsanforderungen und tatsächlich erreichbare Behandlung. Für pflegebedürftige Angehörige braucht es eine gesonderte Betreuungslösung, nicht nur die Police der Hauptperson.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a></p>\n<h3>Versicherung und Behandlung</h3><p>Der erforderliche Versicherungsanschluss und die konkrete Behandlung werden getrennt geklärt. Für laufende Termine zählen erreichbare Einrichtung, Aufnahme und Zahlung. Bestehende ausländische Absicherung wird nicht ohne Prüfung als gleichwertige dauerhafte Lösung angenommen.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a></p>\n<h3>Pflege und Begleitung</h3><p>Bei Pflege, Medikamenten oder regelmäßiger Begleitung wird die fachliche Übergabe mit den verantwortlichen Stellen vorbereitet. Der gewählte Wohnort und die laufende Finanzierung müssen diese Versorgung tragen können.</p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Einkommen, Geld und Arbeitsplatz",
+      "body": "<p>Ein Konto oder eine Verwahrung in der Schweiz kann eine bestimmte finanzielle Aufgabe erfüllen. Eigentum, berechtigter Zugriff, Annahmebedingungen und tatsächliche Zahlungen bleiben dabei zu klären. Aus dem Standort einer Bank folgt weder ein Wohnrecht noch pauschale Zugriffsfreiheit gegenüber jeder Behörde. Ausreichende Mittel können den Aufenthaltsweg eines Nichterwerbstätigen stützen; dennoch müssen Miete, Versicherung, Schule und Pflege tatsächlich bezahlt werden. Verwahrung löst weder Zugriff im Alltag noch Überweisung oder Nachfolge aus sich heraus. Auch wer in der Schweiz wohnt, muss die steuerliche Anknüpfung im bisherigen Staat eigenständig prüfen.</p><p>Für die Lebensgrundlage werden laufendes Einkommen, Haushaltsbudget, Tätigkeit und Herkunftspflichten getrennt behandelt. Wir verbinden die erforderliche Fachprüfung mit praktischen Aufgaben, damit Wohnentscheidung, Arbeitsmodell und Zahlungswege nicht aneinander vorbeilaufen.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Dokumente und Vorlauf",
+      "body": "<p>Zuerst werden vorhandene Rechte, Familienkonstellation und die zuständige kantonale Stelle bestimmt. Danach ordnen wir Identitäts-, Familien-, Mittel- und Versicherungsnachweise den tatsächlich benötigten Schritten zu. Anerkannte Fassungen und persönliche Termine werden passend vorbereitet. Wir ordnen Pass, Familienbeziehung, finanzielle Mittel und passende Versicherungsnachweise dem richtigen Weg und der zuständigen kantonalen Stelle zu. Für eine berufliche Tätigkeit werden Beschäftigung und nötige Meldung gesondert behandelt. Erst danach werden Wohnungs- und Ankunftstermine verbindlich aufeinander abgestimmt.</p><p>Bereits vorhandene Dokumente und Facharbeit werden genutzt, soweit sie für diesen Zweck verwendbar sind. Die Unterkunfts- und Ankunftsorganisation orientiert sich am geklärten Stand. Private Vermögens- oder Gesundheitsunterlagen gehören nicht in das öffentliche Länderprofil.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a></p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Laufende Pflichten",
+      "body": "<p>Die Vorbereitung bleibt nur nutzbar, wenn Aufenthalt, Versicherung, Unterlagen und tatsächliche Unterkunft zum aktuellen Haushalt passen. Ein Wechsel des Kantons, der Tätigkeit oder des Familienbedarfs kann neue organisatorische und fachliche Aufgaben auslösen. Wenn der Kanton oder die Erwerbssituation wechselt, prüfen wir Aufenthalts- und Versicherungslage erneut. Eine zeitweise ungenutzte Schweizer Wohnung behält laufende Kosten und Verwaltung. Für die Rückkehr ins bisherige Land müssen dessen Wohn-, Familien- und Steuerfragen neben der Schweizer Bewilligung geplant bleiben.</p><p>Die vereinbarte Betreuung hält diese Punkte und die notwendigen nächsten Schritte nach. Bank- oder Verwahrungsbetreuung wird nicht automatisch zur Betreuung des Wohnorts. Der Umfang wird so festgelegt, dass konkrete Verantwortung statt eines pauschalen Bereitschaftsversprechens entsteht.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a></p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Konkrete Vorbereitung",
+      "body": "<p>EXOBASIS organisiert die abgestimmte Schweizer Vorbereitung: Rechte und Zuständigkeiten klären, geeignete Wohnorte nach Familienbedarf vergleichen, Dokumente und Fachstellen koordinieren sowie Unterkunft und Ankunft vorbereiten. Eine separate Bank- oder Verwahrungsaufgabe kann ergänzend beauftragt werden.</p><p>Der Zweck ist eine tatsächlich nutzbare Basis, nicht nur eine finanzielle Auslandsverbindung. Du kannst einen passenden Einzelauftrag direkt anfragen oder die Schweiz zunächst mit anderen Wohnoptionen vergleichen. Bestehende Berater und bereits geklärte Voraussetzungen bleiben eingebunden.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fschweiz%2F#kurzanfrage\">Vorbereitung für die Schweiz anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div><div class=\"exb-country-comparisons\"><h3>Zwei andere Antworten auf dieselbe Frage</h3><article><p><a class=\"exb-text-link\" href=\"/de/laender/portugal/\">Portugal als persönliche Ausweichoption</a></p><p>Portugal: Vergleiche eine andere europäische Familienbasis nach vorhandenen Rechten, Haushalt und tatsächlicher Versorgung.</p></article><article><p><a class=\"exb-text-link\" href=\"/de/laender/irland/\">Irland als persönliche Ausweichoption</a></p><p>Irland: Prüfe eine englischsprachige europäische Option mit eigenen Wohn- und Gesundheitsanforderungen.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Reicht eine Schweizer Bankverbindung für meine Familienbasis?",
+    "answer": "Die Bankverbindung erfüllt eine finanzielle Aufgabe. Wohnrecht, Unterkunft, Versicherung und Familienversorgung werden gesondert vorbereitet."
+  },
+  "editorialSources": [
+    "ch"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 1148,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1150,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1151,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1152,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1153,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1154,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1155,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1156,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1157,
+      "target": "/en/countries/switzerland/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1484,
+      "target": "/de/laender/portugal/",
+      "label": "Portugal als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1486,
+      "target": "/de/laender/irland/",
+      "label": "Irland als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ]
+}

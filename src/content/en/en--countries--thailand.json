@@ -1,0 +1,206 @@
+{
+  "route": "/en/countries/thailand/",
+  "lang": "en",
+  "title": "Thailand as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/thailand/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-d5c4d2eea0bd82",
+      "startLine": 14723
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-66cef29b50af12",
+      "startLine": 18728
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Thailand as your Plan B | EXOBASIS",
+  "description": "Assess Thailand for your family: residence routes, housing, essential services and practical preparation with EXOBASIS.",
+  "intro": "<p>You want to establish a base for your family that is more than an extended stay. Thailand needs a plan for the appropriate residence basis, dependant rights and a workable home and working life. The region is chosen around your needs.</p>",
+  "countryContext": "/en/countries/thailand/",
+  "linkPlan": [
+    {
+      "sourceLine": 1358,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1360,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1361,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1362,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1363,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1364,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1365,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1366,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1367,
+      "target": "/de/laender/thailand/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1525,
+      "target": "/en/countries/malaysia/",
+      "label": "Malaysia as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1527,
+      "target": "/en/countries/mauritius/",
+      "label": "Mauritius as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Thailand Board of Investment: Long-Term Resident Visa",
+      "url": "https://ltr.boi.go.th/",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Ask us to prepare your Thailand option",
+    "intent": "General enquiry"
+  },
+  "country": {
+    "name": "Thailand",
+    "slug": "thailand",
+    "region": "Asia",
+    "map": "countries/thailand-locator.svg",
+    "imageAlt": "Locator map: Thailand. Geographic orientation, not a safety assessment.",
+    "caption": "Geographic orientation. Not a travel, safety or border assessment.",
+    "summary": [
+      [
+        "Start with the purpose",
+        "Family residence and mobile use require appropriate conditions of their own."
+      ],
+      [
+        "A specific category",
+        "Assess LTR and other routes against work, income and family eligibility."
+      ],
+      [
+        "A workable local base",
+        "Choose the home, education, healthcare and workplace together."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "Your starting point",
+      "body": "<p>Thailand may suit a family base when residence eligibility and daily life align. An extended stay is not yet an established livelihood. The people concerned need an appropriate status, a workable area and a clear work arrangement. Preparation therefore starts with your household’s requirements and intended use rather than a favourite destination.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "Contingency base and return",
+      "body": "<p>A prepared location should be reachable before the scenario concerned makes travel harder. Plan arrival, housing and essential services along with a return route or an extended stay if delayed. Distance from home does not establish future flights, treatment or payment access. Assess the base through its actual requirements rather than the reputation of a holiday location. A prepared refuge must work beyond the long flight, from the airport to an accessible home. Keep documents, funds and continuing tasks in the former country ready for a return. Future re-entry to Thailand depends on the specific status, not on the number of previous visits.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "A lasting future for your family",
+      "body": "<p>Compare areas for education, language, care and work. Check the legal inclusion of partners and children as well. A suitable status for one applicant may not cover every relative or activity. Exploration, admissions and available homes should inform one decision before your existing family routine is dismantled. The BOI LTR framework may cover a main applicant and certain dependants; it does not itself deliver a school place or care arrangement. Assess the region against teaching language, reachable treatment and working life. A pension route and a work-related category pose different questions for the same family.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Mobile living",
+      "body": "<p>Mobile use requires attention to return, permitted activity, insurance and continuing evidence. Repeated tourist stays are not a universal basis for permanent family life or every kind of work. Match the actual pattern to business and family commitments. A second home also needs maintenance and reachable assistance while you are away.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Existing rights and suitable routes",
+      "body": "<p>Thailand’s Board of Investment describes distinct Long-Term Resident Visa categories, including eligible wealthy individuals, certain pensioners, qualifying overseas remote professionals and highly skilled specialists. Each has its own requirements. Family eligibility, insurance and the actual activity also need assessment. LTR is therefore a potentially suitable route, not an identical offer for everyone wishing to live in Thailand. The Board of Investment names separate LTR categories for wealthy people, certain pensioners, qualifying overseas remote professionals and highly skilled specialists. Assess income, professional role, cover and dependants under the route that actually fits. The programme name grants neither everyone a right to work nor a decision on individual qualifications.</p><p class=\"exb-citation\">Source: <a href=\"https://ltr.boi.go.th/\" rel=\"noreferrer\">Thailand Board of Investment: Long-Term Resident Visa</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fthailand%2F#short-enquiry\">Ask us to prepare your Thailand option</a><p>A defined task can be requested directly. Personal documents follow only through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Regions and housing",
+      "body": "<p>Choose the area around real journeys to school, medicine and work. Tourism appeal and a sustainable household are different measures. Check housing, internet, transport and assistance at the actual property. Prepared viewings and appointments help settle the choice before arrival; a general description of the location cannot replace that examination.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Arrange your arrival abroad</a></p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schooling, healthcare and care",
+      "body": "<h3>Children and relatives</h3><p>Connect residence eligibility, school admission and care needs for each person. For children, residence eligibility, actual school admission and the daily journey belong together. Establish whether cover and the relevant clinic will support the treatment needed. For ongoing care or medication, a reachable backup near the selected home matters more than a general reputation for hospitals.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare to move abroad with children and family</a></p><h3>Cover and treatment</h3><p>Check immigration insurance requirements alongside care at the proposed location. Coverage, exclusions and acceptance are different questions.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and care abroad</a></p><h3>Care and medication</h3><p>Arrange regular assistance and replenishment before an extended stay.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Income, money and work",
+      "body": "<p>Connect income evidence, work and usable funds without treating their legal purposes as identical. The relevant category may impose particular income, employer or qualification requirements. Tax treatment follows your actual circumstances. Budget separately for the household, setup and specialist fees so that a longer preparation period remains financially manageable. Wealth or income evidence required by an LTR category is not necessarily cash available for the household. An overseas employer does not establish which activity is permitted from Thailand under your status. A home, work activity and tax residence follow different rules and require distinct professional reviews.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Documents and preparation time",
+      "body": "<p>Establish the category, relatives included and responsible application channel first. Assemble the income, qualification, family and insurance evidence that route requires. Translations, certification and appointments follow the actual procedure. Base travel and housing handover on confirmed conditions, not an assumption that a submitted assessment completes every subsequent step. Once the LTR category is selected, match income, employment, family and insurance evidence to the official process. If LTR does not fit, do not silently substitute visitor stays as a permanent solution. Only a viable route provides the right sequence for housing and education.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a></p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Ongoing obligations",
+      "body": "<p>Maintain the continuing conditions of your status, including required reporting and further checks. Changes in employer, income or family circumstances belong in that review. Housing, treatment, payments and recovery access remain practical obligations alongside immigration. Agreed maintenance connects them without promising automatic renewal or unlimited availability. A change of employer, work pattern or family circumstances may affect the original category. Keep documents, reporting and access to treatment current during absences. A return also leaves business and tax duties in the former country to resolve.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Review and maintain your preparations</a></p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Practical preparation",
+      "body": "<p>EXOBASIS can compare Thailand for your household and coordinate the agreed preparation. We connect residence and documents with regional choice, organised appointments and arrival. A defined task can be commissioned directly. The value is coordinated execution and clear next steps, not simply naming a visa.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Choose suitable countries and locations</a></p><h3>Options to compare</h3><div class=\"exb-country-related\"><article><a class=\"exb-text-link\" href=\"/en/countries/malaysia/\">Malaysia as a personal alternative</a><p>Malaysia has different programme, capital and presence conditions. Compare the suitable route together with family life.</p></article><article><a class=\"exb-text-link\" href=\"/en/countries/mauritius/\">Mauritius as a personal alternative</a><p>Mauritius raises different questions about island services, work and longer-term family residence.</p></article></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fthailand%2F#short-enquiry\">Ask us to prepare your Thailand option</a><p>A defined task can be requested directly. Personal documents follow only through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Is LTR suitable for anyone wanting a longer stay?",
+    "answer": "No. Its categories address particular personal and professional situations. Eligibility, relatives and the intended daily life must be assessed together."
+  }
+}

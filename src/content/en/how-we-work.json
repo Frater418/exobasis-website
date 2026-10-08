@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/how-we-work/",
+  "lang": "en",
+  "title": "How EXOBASIS works",
+  "kind": "trust",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-23879e92ac56b6"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-b460814415ba95"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "EXOBASIS / Working with you",
+  "seoTitle": "How EXOBASIS works: from decisions to practical preparation",
+  "description": "Commission the preparation your family needs: a personal plan, specific practical work or ongoing care, with clear responsibility and a usable handover.",
+  "intro": "<p>You want a way out before war, repression or a restriction on your freedom forces the decision. You also have a life to run: family, work, property and commitments that cannot simply be abandoned. EXOBASIS turns the preparation into work you can delegate.</p><p>Raphael Rechberger is your first point of contact. We establish what you want to achieve, carry out the agreed work and organise the specialist contributions it needs. You keep control of the decisions, expenditure and people involved.</p>",
+  "heroImage": "raphael-rechberger-original.png",
+  "heroAlt": "Raphael Rechberger, founder of EXOBASIS.",
+  "primary": {
+    "label": "Request an orientation call",
+    "intent": "Orientation call"
+  },
+  "sections": [
+    {
+      "id": "w-auftrag",
+      "title": "Start with the work you actually need",
+      "body": "<p>You may need a complete family departure plan. You may already know that the missing piece is an accepted residence application, usable banking or a home ready for your arrival. Both are valid starting points.</p><p>A free 20-minute orientation call helps establish fit and the appropriate assignment. If you need a considered assessment of your situation, the <a href=\"/en/services/initial-assessment/\">personal initial assessment</a> is a separate paid service with preparation, a 60-minute conversation and a decision brief. A defined practical task can be commissioned directly through our <a href=\"/en/services/\">services</a>.</p><p>We begin with the preparations and advisers you already have. Useful work stays in place. The first task is to identify the gaps that matter to your family, rather than sell you the same preparation twice.</p>",
+      "layout": "prose",
+      "callToAction": true
+    },
+    {
+      "id": "w-umfang",
+      "title": "Know the result, responsibilities and costs before you commit",
+      "body": "<p>Your proposal describes the work, the intended result, your contribution and the information needed to begin. For a document assignment, that might be obtaining a specified certificate, completing the agreed authentication steps and delivering it for its stated use. For a larger assignment, it is a sequence of connected results.</p><p>EXOBASIS fees, professional mandates, official charges, travel and continuing costs are shown separately. Funds transferred, a rental deposit or the price of a property remain your capital commitments. Additional work and expenditure are agreed before they proceed. The proposal and <a href=\"/en/service-terms/\">service and contract terms</a> establish the terms of your assignment.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "w-ausfuehrung",
+      "title": "One point of contact, with the right people doing the work",
+      "body": "<p>EXOBASIS carries out research, planning, organisation, agreed technical setup and continuing care. Where the task calls for legal, tax or local professional work, we organise that contribution and connect it to the rest of your preparation.</p><p>For a property purchase, for example, the work can include defining your needs and location, arranging a search and viewings, commissioning independent title and purchase checks, coordinating the contract and completion, and organising handover and care. The local lawyer, notary, register and other professionals perform their respective functions. We keep their work connected to your intended use of the home and the approvals you need to give.</p><p>You know who has been commissioned, who can decide and who needs your signature. Existing advisers can remain involved. Banks and authorities communicate their own acceptance or decision; we follow the outstanding steps through to the agreed handover.</p>",
+      "layout": "prose",
+      "roles": [
+        [
+          "EXOBASIS",
+          "Manages your assignment, coordinates the work and checks the agreed results."
+        ],
+        [
+          "Specialists",
+          "Deliver the legal, tax or local professional work specifically commissioned."
+        ],
+        [
+          "Authorities and institutions",
+          "Make decisions on their procedures, acceptance and own products."
+        ]
+      ],
+      "after": "<p>Where you need your own contract with a bank, insurer or professional, that relationship stays clear. <a href=\"/en/collaboration/\">Collaboration for advisers and specialist providers</a> explains the separate professional role.</p>"
+    },
+    {
+      "id": "w-arbeitsabschnitte",
+      "title": "Larger assignments move through clear stages",
+      "body": "<p>A country decision may have to precede a residence application. A receiving account may need to be accepted before a transfer. Property purchase checks belong before a binding commitment. We organise the order so that one task does not undermine another.</p><p>Each stage has an agreed scope, payment arrangement and result. At a decision point, you receive the information needed to authorise the next work. If a finding changes the plan, we explain the practical consequence, the available choices and any additional cost before continuing.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "w-uebergabe",
+      "title": "A handover you can use",
+      "body": "<p>You receive the completed work, the evidence behind it and the instructions needed to use it. A document handover identifies the originals and their intended recipient. A banking handover records the accepted account and the access actually tested. An accommodation handover identifies the booking or contract, keys and arrival arrangements.</p><p>Outstanding matters remain visible with the responsible person and next action. If a residence application is awaiting a decision, you receive its submission and follow-up record. When a permission is granted, its validity and conditions become part of your preparation. You can see exactly where you stand without reconstructing months of correspondence.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "w-pflege",
+      "title": "Keep the option usable while life moves on",
+      "body": "<p>Passports expire, children acquire different needs, banks change terms and properties need attention while you are away. Through <a href=\"/en/services/maintain-preparations/\">ongoing preparation and maintenance</a>, we agree what is checked, when it is checked and which corrections we carry out.</p><p>The work may include renewal follow-up, access tests, contact checks or a commissioned local inspection. You receive the findings and completed actions. A new country, a different family arrangement or a major new purchase becomes a defined additional task.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "w-aktivierung",
+      "title": "Agree support before you need to activate it",
+      "body": "<p>If you want help carrying out a plan when a specified situation occurs, we define that support in advance: who can call it into action, how identity is confirmed, which contact windows apply, who provides cover and what spending can be authorised.</p><p><a href=\"/en/services/activation-emergency-coordination/\">Activation and emergency coordination</a> connects that agreement to the people and providers required for the case. Staffed response windows and specialist acceptance must be confirmed in that assignment. Existing clients use their agreed contact route.</p>",
+      "layout": "prose"
+    }
+  ],
+  "faq": {
+    "question": "Do I have to buy a consultation first?",
+    "answer": "No. Where your task is sufficiently clear, you can enquire directly about the work. We agree its scope and result before you commission it."
+  },
+  "closing": {
+    "id": "your-assignment",
+    "title": "Which work would make your option real?",
+    "body": "Tell us what you want prepared and what is already in place. A broad outline is enough for the first enquiry; detailed family and financial information follows through the protected working channel."
+  },
+  "nextWork": {
+    "title": "The next practical step",
+    "body": "<p>The <a href=\"/en/services/departure-contingency-plan/\">personal departure and contingency plan</a> joins family, destination, money and business preparation into one sequence. For a smaller task, choose the relevant <a href=\"/en/services/\">service</a>. <a href=\"/en/discretion/\">Discretion and protected collaboration</a> explains how detailed personal information enters the work.</p>"
+  },
+  "displayTitle": "Your Plan B, prepared and carried through"
+}

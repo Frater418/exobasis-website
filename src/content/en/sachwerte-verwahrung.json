@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/tangible-asset-custody/",
+  "lang": "en",
+  "title": "Arrange custody and access to tangible assets",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-02ecf41391ebe4"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-7302e245d30087"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Ownership, storage and authorised release",
+  "seoTitle": "Tangible-asset custody and allocated gold storage | EXOBASIS",
+  "description": "Organise tangible-asset custody around proven ownership, storage terms, insurance, authorised release and succession. Connect the vault with practical access.",
+  "intro": "<p>An asset can be yours and still be out of reach when you need it. The vault may require a particular instruction, the proceeds may go to an old bank account, or the person helping your family may lack accepted authority. Those details matter as much as the country of storage.</p><p>EXOBASIS organises custody and access for a defined tangible-asset requirement. We connect ownership records, provider selection, contracts, release arrangements and the people entitled to act. Existing holdings and custody arrangements can be the starting point.</p>",
+  "primary": {
+    "label": "Discuss custody and access",
+    "intent": "Arrange custody and access to tangible assets"
+  },
+  "summary": {
+    "kicker": "Follow the asset from ownership to release",
+    "title": "Know what you own, where it is and how you reach it.",
+    "image": "einstieg-laender.webp",
+    "imageAlt": "World map with a compass.",
+    "facts": [
+      [
+        "Establish",
+        "Asset identity, ownership and source records"
+      ],
+      [
+        "Arrange",
+        "Custody, insurance and provider acceptance"
+      ],
+      [
+        "Connect",
+        "Release, payment destination and representation"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Start with the asset and the evidence of ownership",
+      "layout": "prose",
+      "body": "<p>We identify the asset, its present location, the legal owner and the records that prove the holding. Depending on the asset, that may mean purchase records, serial numbers, a bar list, valuation documents, existing custody statements or company and trust records.</p><p>For allocated gold storage, the practical question is what the allocation means under the actual contract. Ownership of identified whole bars, a recorded share of a pooled holding and a claim against a provider are different positions. We obtain the terms and records needed for the appointed specialist to establish the position before any transfer.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Choose the custody model and location around access",
+      "layout": "prose",
+      "body": "<p>If you are considering gold storage in Switzerland, offshore gold storage elsewhere or private vault storage, we compare more than the vault address. The comparison covers who contracts with you, who operates the vault, how holdings are identified, how records are checked and which law governs the relationship.</p><p>The contract determines the rights. As one concrete example, BullionVault’s terms distinguish its general custody arrangements from the option to reserve specific whole bars, with a separate reservation process and charges. That distinction is useful when comparing an advertised storage product with the ownership arrangement you actually want. <a href=\"https://www.bullionvault.com/help/terms_and_conditions.html\">BullionVault terms: individual bar ownership and storage agreements</a>.</p><p>For a base intended to remain usable during war or serious disruption, we also examine the access route. Would you need to travel to the vault, instruct the intermediary remotely or sell and receive proceeds through a named bank? Geographic separation can be useful, but each additional institution creates a dependency to organise.</p><p>Where choosing a custody model also involves deciding who should own or control the assets, we connect the comparison with <a href=\"/en/services/asset-structures/\">asset structures, custody and succession</a>. We organise the defined ownership or succession work with the appropriate specialists alongside the custody decision.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Read the insurance and contract as part of the decision",
+      "layout": "prose",
+      "body": "<p>We obtain the proposed custody agreement, insurance evidence and charges. The review covers the insured interest, covered events, exclusions, valuation basis, excess and claims route, as well as what happens during transport or transfer to another custodian. We put unclear terms to the provider and the relevant specialist before commissioning.</p><p>Storage fees, transaction costs, physical withdrawal charges, transport and insurance can be separate. We organise a cost comparison for your intended use: long-term storage, occasional sale, physical collection or authorised transfer. An arrangement that suits one use may be expensive or cumbersome for another.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Make the release route explicit",
+      "layout": "prose",
+      "body": "<p>We establish who may request release, what identification is required, the accepted instruction channel, available delivery forms and any notice or processing requirements. If the purpose is access to money, we also establish how a sale is instructed and where the proceeds may be paid.</p><p>BullionVault’s terms, for example, require withdrawal through BullionVault rather than a direct claim to the vault operator. They also impose identification requirements and metal-specific withdrawal conditions. Those are that provider’s terms, not a universal rule for all vaults. <a href=\"https://www.bullionvault.com/help/terms_and_conditions.html\">BullionVault: general right of bullion withdrawal</a>.</p><p>The release plan must work for the authorised person. A representative may need institution-accepted authority and further evidence of entitlement. A bank closure can affect the proceeds route even when the stored asset is intact. We connect this with <a href=\"/en/services/banking-liquidity/\">banking access</a> and <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">representation and succession</a>.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Put the agreed arrangement in place",
+      "layout": "prose",
+      "body": "<p>Once you approve the provider and terms, we organise onboarding documents, specialist responses and the authorised custody or <a href=\"/en/services/asset-transfers/\">transfer instructions</a>. Transport, valuation and insurance work are commissioned where required. You approve movements and expenditure; the relevant providers execute their agreed roles.</p><p>If the arrangement involves physical movement, we agree a separate coordination task for the declarations and export, transit and import treatment along the actual route. We establish the countries of origin, transit and destination with the responsible providers and specialists, and organise the required documents and responsibilities before the movement is authorised.</p><p>The handover brings together the contract, ownership confirmation, custody location, provider contacts, release procedure and applicable charges. We verify the documentary sequence and any agreed practical test. Where a physical movement would add cost or risk, the scope states exactly which confirmations will demonstrate completion instead.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Keep succession and access current",
+      "layout": "prose",
+      "body": "<p>Your family needs to know that the asset exists, where its records are held and how the authorised person contacts the custodian. We organise that information alongside the legal work, without handing trading or release authority to someone merely because they know the login.</p><p>Residence changes, a new bank, a changed trustee, provider amendments and revised insurance terms can affect the arrangement. An agreed <a href=\"/en/services/maintain-preparations/\">maintenance assignment</a> keeps those dependencies visible and current. Broader ownership questions connect to <a href=\"/en/services/asset-structures/\">asset structures</a>.</p>"
+    }
+  ],
+  "working": {
+    "title": "One organised assignment across the required providers",
+    "body": "<p>EXOBASIS manages the agreed selection, documents and follow-up. Custodians, insurers, transport providers and legal or tax specialists perform their respective work. You retain the decisions about the asset and the chosen arrangement.</p>"
+  },
+  "nextWork": {
+    "title": "Connect storage with the rest of your preparation",
+    "body": "<p>The next useful step may be a usable bank destination, an accepted representative or a wider ownership structure. We connect that work to the custody arrangement rather than leave each provider’s process isolated.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "What do you hold, and what access do you need?",
+    "body": "Describe the asset type, current arrangement and intended use in broad terms. Detailed holdings and documents can follow through the agreed exchange."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "596",
+        "label": "Arrange asset structures, custody and succession",
+        "target": "/en/services/asset-structures/",
+        "position": "Kernabschnitt 2: Custody model and location",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "597",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 4: Release and authorised representation",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "598",
+        "label": "Transfer assets and retain lawful access",
+        "target": "/en/services/asset-transfers/",
+        "position": "Kernabschnitt 5: Putting the arrangement in place",
+        "purpose": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren."
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "scope": {
+    "id": "scope",
+    "title": "Commission custody around a defined purpose",
+    "body": "<p>We can organise a provider comparison, a new custody arrangement, a transfer or improvements to access and representation for an existing holding. The starting brief identifies the asset and what you want to be able to do with it.</p><p>You receive the agreed documentary and practical handover, with ownership, responsibilities and release steps connected.</p>",
+    "items": [
+      [
+        "Compare",
+        "Ownership form, location, terms and complete costs"
+      ],
+      [
+        "Arrange",
+        "Provider acceptance, contracts and authorised execution"
+      ],
+      [
+        "Access",
+        "Release instructions, payment route and representation"
+      ]
+    ],
+    "costs": "The proposal separates organisation, specialist review, custody fees, insurance, valuation, transport and release charges. The asset’s value and any decision to buy or sell it are treated separately from the custody assignment."
+  },
+  "displayTitle": "Allocated gold storage and tangible-asset custody"
+}

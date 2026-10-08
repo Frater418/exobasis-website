@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/",
+  "lang": "de",
+  "title": "Konkrete Hilfe",
+  "kind": "catalogue",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-9bc0d761ab786b"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-1f0a01d2104715"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Konkrete Hilfe / Von der Entscheidung zur Ausführung",
+  "seoTitle": "Plan B im Ausland: Planung und Umsetzung | EXOBASIS",
+  "description": "EXOBASIS plant, organisiert und betreut deinen Plan B: Aufenthalt, Immobilienkauf, Geldzugang, Familie und Unternehmen. Auch als direkter Einzelauftrag.",
+  "intro": "<p>Du willst deiner Familie einen Ausweg offenhalten, dein Erarbeitetes schützen oder dein Geschäft aus einem anderen Land weiterführen. Vielleicht drängen dich Kriegssorge, mögliche Einberufung oder Repression zum Handeln. Vielleicht steht deine Entscheidung längst fest und es fehlt die Zeit für die Umsetzung.</p><p>EXOBASIS übernimmt die vereinbarte Vorbereitung, Einrichtung und Betreuung. Wir führen eigene Arbeit und erforderliche Fachausführung zusammen: vom persönlichen Plan über Unterkunft und Immobilienkauf bis zu Bankzugang, Dokumenten und funktionierenden Übergaben.</p><p>Du kannst mit einer klaren Einzelaufgabe beginnen. Wenn mehrere Entscheidungen voneinander abhängen, bringen wir sie in eine sinnvolle Reihenfolge. Ein bereits gewähltes Zielland oder eine vorher gekaufte Erstklärung ist dafür keine Voraussetzung.</p>",
+  "groups": [
+    {
+      "id": "plan-klaerung",
+      "title": "Entscheiden und den eigenen Plan aufbauen",
+      "intro": "Du weißt, dass du handeln möchtest, aber noch nicht, welche Entscheidung zuerst kommen muss. Die Erstklärung bearbeitet eine zentrale Frage. Der persönliche Flucht- und Notfallplan verbindet Familie, Zieloption, Zeitbedarf, Geld und Geschäft zu einer konkreten Vorbereitung.",
+      "items": [
+        {
+          "route": "/de/leistungen/erstklaerung/",
+          "title": "Persönliche Erstklärung",
+          "description": "Eine zentrale Frage fachlich vorbereiten, im persönlichen Gespräch bearbeiten und mit einer begründeten Entscheidungsempfehlung abschließen."
+        },
+        {
+          "route": "/de/leistungen/flucht-notfallplan/",
+          "title": "Persönlicher Flucht- und Notfallplan",
+          "description": "Einen konkreten Ausweg für Familie und Geschäft vorbereiten: mit Abhängigkeiten, Entscheidungen, Aufgaben und der richtigen Reihenfolge."
+        }
+      ]
+    },
+    {
+      "id": "laender-dokumente",
+      "title": "Land, Standort und Aufenthaltsweg vorbereiten",
+      "intro": "Aus deiner Situation wird eine passende Ortsentscheidung. Dabei zählen nutzbarer Aufenthalt, Wohnbedarf, Schule, Versorgung und die Möglichkeit zu arbeiten. Soll eine Immobilie gekauft werden, beginnt hier die Auswahl von Region und Standort; Suche, unabhängige Kaufprüfung, Abschluss und Übergabe werden mit der Ankunftsleistung verbunden.",
+      "items": [
+        {
+          "route": "/de/leistungen/laender-standortauswahl/",
+          "title": "Passende Länder und Standortoptionen",
+          "description": "Länder und Orte nach Aufenthalt, Familie, Versorgung und Arbeit vergleichen; Miet- oder Kaufstandort und Anforderungen an die Immobilie eingrenzen."
+        },
+        {
+          "route": "/de/leistungen/dokumente-aufenthalt/",
+          "title": "Dokumente und Aufenthalt vorbereiten",
+          "description": "Die Unterlagen und Fachschritte für deinen benannten Aufenthaltsweg organisieren, Termine abstimmen und Rückfragen nachhalten."
+        },
+        {
+          "route": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+          "title": "Apostillen, Übersetzungen und Urkunden organisieren",
+          "description": "Benötigte Urkunden beschaffen und die passenden Apostillen, Beglaubigungen und Übersetzungen für den konkreten Verwendungszweck organisieren."
+        },
+        {
+          "route": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+          "title": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+          "description": "Notfallunterlagen für deine Familie einrichten lassen: mit wichtigen Dokumenten, festgehaltenen Befugnissen und einer verständlichen Anleitung. Gemeinsam mit den berechtigten Angehörigen testen wir die Nutzung in der Praxis."
+        }
+      ],
+      "context": "<p>Ist der Ort noch offen, hilft dir <a href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen</a>, die Auswahl auf deinen tatsächlichen Aufenthalt und Alltag auszurichten. Für den gewählten Weg kannst du <a href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a> beauftragen. Fehlen einzelne Nachweise oder deren passende Form, führt <a href=\"/de/leistungen/apostillen-uebersetzungen-urkunden/\">Apostillen, Übersetzungen und Urkunden organisieren</a> zur gezielten Beschaffung für den vorgesehenen Empfänger.</p>"
+    },
+    {
+      "id": "geld-strukturen",
+      "title": "Geld, Eigentum und Zugriff organisieren",
+      "intro": "Ein Konto hilft bei Zahlungen, eine Vollmacht bei Vertretung und eine Verwahrung bei einem bestimmten Bestand. Wir organisieren die Arbeit entlang deines Bedarfs: Mittel rechtmäßig verfügbar machen, Eigentum und Nachfolge ordnen oder einen Nutzungsweg aus dem Ausland einrichten.",
+      "items": [
+        {
+          "route": "/de/leistungen/bankzugang-liquiditaet/",
+          "title": "Bankzugang und Liquidität vorbereiten",
+          "description": "Passende Bank- und Zahlungswege vorbereiten, Aufnahmeunterlagen zusammenführen und den vereinbarten Geldzugang einrichten."
+        },
+        {
+          "route": "/de/leistungen/vermoegensstrukturen/",
+          "title": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+          "description": "Eigentum, Vermögensort, persönliche Bindungen und tatsächlichen Zugriff zusammenführen; die gewählte Struktur- oder Nachfolgelösung organisieren."
+        },
+        {
+          "route": "/de/leistungen/vermoegen-uebertragen/",
+          "title": "Vermögen übertragen und legal verfügbar halten",
+          "description": "Eine konkrete rechtmäßige Übertragung mit Herkunftsnachweisen, beteiligten Instituten und verfügbarem Geld am Ziel vorbereiten und koordinieren."
+        },
+        {
+          "route": "/de/leistungen/trust-struktur/",
+          "title": "Eine Trust-Struktur organisieren",
+          "description": "Zweck, Rollen, Verfügung und Steuerbezüge fachlich klären; Trustee-Auswahl, Dokumente, Übertragung und Verwaltung organisieren."
+        },
+        {
+          "route": "/de/leistungen/stiftung-liechtenstein/",
+          "title": "Eine Stiftung in Liechtenstein organisieren",
+          "description": "Zweck, Rechte und Verwaltung einer Stiftung mit den zuständigen Fachpersonen ausarbeiten und die beauftragte Errichtung organisieren."
+        },
+        {
+          "route": "/de/leistungen/sachwerte-verwahrung/",
+          "title": "Verwahrung und Zugriff auf Sachwerte organisieren",
+          "description": "Gold oder andere Sachwerte verwahren lassen und Fernverkauf, Auszahlung, Herausgabe sowie berechtigte Vertretung organisatorisch verbinden."
+        }
+      ],
+      "context": "<p>Wenn du aus dem Ausland zahlen können willst, ist <a href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität vorbereiten</a> der passende Einrichtungsauftrag. Soll dafür ein bestimmter Vermögensbestand den Ort oder Inhaber wechseln, verbindet <a href=\"/de/leistungen/vermoegen-uebertragen/\">Vermögen übertragen und legal verfügbar halten</a> die Übertragung mit dem Geldzugang am Ziel.</p><p>Geht es darum, wer Vermögen hält, darüber verfügt und es später übernimmt, setzt <a href=\"/de/leistungen/vermoegensstrukturen/\">Vermögensstrukturen, Verwahrung und Nachfolge organisieren</a> bei dieser Strukturentscheidung an. Daraus können die gezielten Aufträge <a href=\"/de/leistungen/trust-struktur/\">Eine Trust-Struktur organisieren</a> oder <a href=\"/de/leistungen/stiftung-liechtenstein/\">Eine Stiftung in Liechtenstein organisieren</a> hervorgehen. Für Gold und andere physische Bestände verbindet <a href=\"/de/leistungen/sachwerte-verwahrung/\">Verwahrung und Zugriff auf Sachwerte organisieren</a> die Lagerung mit Verkauf, Auszahlung und Herausgabe.</p>"
+    },
+    {
+      "id": "familie-geschaeft",
+      "title": "Familie, Wohnen und Unternehmen weiterführen",
+      "intro": "Wer kümmert sich um Angehörige und zurückbleibendes Eigentum? Was muss am neuen Ort stehen? Wir organisieren Übergaben und örtliche Arbeit. Dazu gehört auch ein Immobilienkauf: Bedarf und Suchauftrag, Besichtigungen, unabhängige Titel- und Kaufprüfung, Vertrags- und Abschlusskoordination, Übergabe und auf Wunsch laufende Betreuung.",
+      "items": [
+        {
+          "route": "/de/leistungen/familie-unternehmen/",
+          "title": "Familie und Unternehmen handlungsfähig halten",
+          "description": "Versorgung, Eigentumsbetreuung und kritische Geschäftsabläufe übergeben; Befugnisse und technische Zugänge im vereinbarten Test zusammenführen."
+        },
+        {
+          "route": "/de/leistungen/ankunft-organisieren/",
+          "title": "Ankunft im Zielland organisieren",
+          "description": "Erkundung, Unterkunft, Miete oder Immobilienkauf organisieren: von Suche und Besichtigungen bis unabhängiger Fachprüfung, Übergabe und erstem Alltag."
+        },
+        {
+          "route": "/de/leistungen/auslandsgesellschaft/",
+          "title": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+          "description": "Eine zum tatsächlichen Geschäft passende Auslandsgründung organisieren und Register, Bankvorbereitung sowie laufende Pflichten verbinden."
+        }
+      ],
+      "context": "<p>Was während eines Ortswechsels weiterlaufen muss, organisieren wir im Auftrag <a href=\"/de/leistungen/familie-unternehmen/\">Familie und Unternehmen handlungsfähig halten</a>: Versorgung, Zahlungen und betriebliche Aufgaben brauchen klare Übergaben. Parallel bringt <a href=\"/de/leistungen/ankunft-organisieren/\">Ankunft im Zielland organisieren</a> Unterkunft und den Start vor Ort in die Vorbereitung ein. Braucht dein Geschäft eine eigene Gesellschaft im Ausland, verbindet <a href=\"/de/leistungen/auslandsgesellschaft/\">Auslandsgesellschaft und laufende Verwaltung organisieren</a> die Gründung mit der späteren Verwaltung.</p>"
+    },
+    {
+      "id": "digitale-handlungsfaehigkeit",
+      "title": "Kommunikation und Wiederzugang einrichten",
+      "intro": "Telefon, E-Mail, Identitätsprüfung und Bankzugang hängen oft voneinander ab. Wir richten die vereinbarten Ersatzwege ein und testen kontrolliert, wie du ohne Hauptgerät weiterkommst. Berechtigte Angehörige erhalten die Anleitung und Zugänge, die zu ihrer Aufgabe passen.",
+      "items": [
+        {
+          "route": "/de/leistungen/kommunikation-wiederzugang/",
+          "title": "Diskrete Kommunikation und Wiederzugang einrichten",
+          "description": "Geschützte Kommunikation und berechtigte Ersatzwege einrichten; den Wiederzugang ohne Haupttelefon und Haupt-E-Mail kontrolliert erproben."
+        }
+      ],
+      "context": "<p>Beginne mit den Zugängen, deren Ausfall deine nächsten Schritte blockieren würde: beim Bezahlen, beim Nachweis deiner Identität oder im Geschäft. Im Auftrag <a href=\"/de/leistungen/kommunikation-wiederzugang/\">Diskrete Kommunikation und Wiederzugang einrichten</a> verbinden wir diese Abhängigkeiten mit passenden Ersatzwegen und einer kontrollierten Probe für die vorgesehenen Nutzer.</p>"
+    },
+    {
+      "id": "betreuung-aktivierung",
+      "title": "Vorbereitung betreuen und vereinbart aktivieren",
+      "intro": "Dokumente laufen ab, Ansprechpartner wechseln, Regeln ändern sich. Betreuung hält die beauftragten Vorkehrungen aktuell. Für eine spätere Aktivierung werden Anlass, Befugnisse, Kontaktfenster und verfügbare Ausführung gesondert vereinbart.",
+      "items": [
+        {
+          "route": "/de/leistungen/vorbereitung-betreuen/",
+          "title": "Vorbereitung prüfen und aktuell halten",
+          "description": "Vereinbarte Fristen, Unterlagen, Kontakte und örtliche Vorkehrungen nachhalten, Änderungen bearbeiten und die Vorbereitung nutzbar halten."
+        },
+        {
+          "route": "/de/leistungen/aktivierung-notfallkoordination/",
+          "title": "Vereinbarte Aktivierung und Notfallkoordination",
+          "description": "Den konkreten Aktivierungsauftrag mit Auslösern, Befugnissen, Erreichbarkeit und verfügbarer Durchführung vorbereiten und abstimmen."
+        }
+      ],
+      "context": "<p>Wenn deine Vorkehrungen bereits stehen, kannst du mit dem Auftrag <a href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a> ihre laufende Pflege abgeben. Soll aus dieser Vorbereitung bei einem bestimmten Anlass eine abgestimmte Handlung werden, verbindet <a href=\"/de/leistungen/aktivierung-notfallkoordination/\">Vereinbarte Aktivierung und Notfallkoordination</a> den Auslöser mit den zuvor festgelegten Zuständigkeiten und Schritten.</p>"
+    }
+  ],
+  "scope": {
+    "id": "auftrag-und-kosten",
+    "title": "Ein Auftrag mit nachvollziehbarem Ergebnis und Kosten",
+    "body": "<p>Für eine bekannte Aufgabe kannst du direkt anfragen. Wir klären Ziel, vorhandene Vorarbeit und die Arbeit, die EXOBASIS übernehmen soll. Wenn du noch nicht weißt, welche Leistung passt, dient die kostenlose 20-Minuten-Orientierung der ersten Zuordnung. Eine vertiefte persönliche Erstklärung ist ein eigenständiger bezahlter Auftrag.</p><p>Vor Beauftragung erhältst du den Leistungsumfang mit Ergebnis, Mitwirkung und Übergabe. Unser Honorar wird von Fremd- und Behördenkosten, Reisen und wiederkehrenden Ausgaben getrennt. Bei einem Immobilienkauf gehören Kaufpreis und Erwerbsnebenkosten in die Finanzierung; bei einer Gesellschafts- oder Vermögensstruktur zusätzlich die späteren Verwaltungs- und Fachpflichten.</p><p>Planung, Einrichtung und laufende Betreuung lassen sich passend verbinden. Zusätzliche Arbeit wird mit dir abgestimmt. Du behältst die Entscheidungen über größere Bindungen, Verträge und Ausgaben.</p>",
+    "items": [
+      [
+        "Direkt beginnen",
+        "Eine umrissene Aufgabe kann ohne vorherigen Gesamtplan angefragt werden."
+      ],
+      [
+        "Vorarbeit einbeziehen",
+        "Verwendbare Unterlagen und bestehende Berater werden in den Auftrag eingebunden."
+      ],
+      [
+        "Ergebnis übernehmen",
+        "Du erhältst die vereinbarten Unterlagen, Kontakte und nachvollziehbaren Übergaben."
+      ]
+    ]
+  },
+  "primary": {
+    "label": "Konkrete Arbeit anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "closing": {
+    "id": "direkter-auftrag",
+    "title": "Welche Arbeit möchtest du abgeben?",
+    "body": "Beschreibe, was erledigt werden soll und welche Vorbereitung schon besteht. Wir klären den passenden Auftrag und den nächsten konkreten Schritt.",
+    "context": "<p>Eine bekannte Aufgabe kannst du direkt anfragen. Steht dir noch eine konkrete Entscheidung im Weg, hilft die <a href=\"/de/leistungen/erstklaerung/\">Persönliche Erstklärung</a> bei dieser Hauptfrage. Der Auftrag <a href=\"/de/leistungen/flucht-notfallplan/\">Persönlicher Flucht- und Notfallplan</a> verbindet dagegen die Vorbereitung von Familie, Vermögen und Geschäft, wenn du einen zusammenhängenden Ausweg aufbauen möchtest.</p>"
+  },
+  "displayTitle": "Konkrete Hilfe für deinen Plan B im Ausland"
+}

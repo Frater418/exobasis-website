@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/trust-structure/",
+  "lang": "en",
+  "title": "Arrange a trust structure",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-480f9ea4514b27"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-dd3a4d19dd987f"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Ownership, provision and succession",
+  "seoTitle": "Trust formation and setup coordination | EXOBASIS",
+  "description": "Organise trust assessment and formation around your family, assets and residence: control, trustees, transfers, tax obligations and continuing administration.",
+  "intro": "<p>You want the assets you have built to serve your family, including when you are abroad, ill or no longer there to make decisions. A trust can organise who holds assets, who benefits and how decisions are taken. Its usefulness depends on those terms and on the laws connected to your family.</p><p>EXOBASIS brings the legal, tax and practical work into one managed assignment. We organise the suitability assessment, specialist appointments and agreed trust formation, including the steps needed to fund and administer the arrangement.</p>",
+  "primary": {
+    "label": "Discuss a trust arrangement",
+    "intent": "Arrange a trust structure"
+  },
+  "summary": {
+    "kicker": "Start with the purpose",
+    "title": "Know who can decide, who can benefit and how access works.",
+    "image": "einstieg-laender.webp",
+    "imageAlt": "World map with a compass.",
+    "facts": [
+      [
+        "Purpose",
+        "Family provision, ownership or succession"
+      ],
+      [
+        "Decision",
+        "Control, recognition, tax and lifetime costs"
+      ],
+      [
+        "Delivery",
+        "Specialist work, establishment and administration"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "What should the trust achieve?",
+      "layout": "prose",
+      "body": "<p>A trust for children, an arrangement for a vulnerable relative and a structure intended to continue beyond the founder’s lifetime need different terms. We start with the people to be provided for, the assets involved and the decisions that must remain possible. Your household’s accessible living funds belong in that discussion too.</p><p>This produces a clear specialist brief: the objective, existing ownership, family and residence connections, present commitments and the control you want to retain. We compare the proposed trust with simpler arrangements and with the wider <a href=\"/en/services/asset-structures/\">asset-structure options</a> before establishment.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Settlor, trustee and beneficiary: the roles that matter",
+      "layout": "prose",
+      "body": "<p>The settlor puts assets into the arrangement; the trustee holds and manages them under its terms; the beneficiaries are the people who may benefit. The rights differ by trust type and wording. In a discretionary arrangement, for example, the trustee’s discretion matters directly to how and when a beneficiary receives a distribution. <a href=\"https://www.gov.uk/trusts-taxes/types-of-trust\">GOV.UK: trusts and taxes</a>.</p><p>We have the professionals explain the decisions in plain language: who appoints or replaces the trustee, who can request money, which powers are reserved, how disagreements are handled and what happens if a key person becomes unavailable. These answers connect the document to <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">practical representation and succession</a>.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "UK asset-protection claims and overseas trust law",
+      "layout": "prose",
+      "body": "<p>If you are considering an asset protection trust in the UK because of care fees, the relevant care-funding rules belong in the assessment. In England, deliberate deprivation of assets can lead a local authority to assess you as if you still held the asset or seek recovery from the recipient within the applicable limits. Moving the property into a trust does not remove that question. <a href=\"https://www.gov.uk/government/publications/care-act-statutory-guidance/care-and-support-statutory-guidance\">Care and Support Statutory Guidance, paragraphs 8.27-8.28</a>.</p><p>A Nevada asset protection trust raises a different, jurisdiction-specific question. Nevada law sets conditions for a self-settled spendthrift trust, including an irrevocable written arrangement, restrictions on required distributions to the settlor and a qualifying trustee. It also addresses transfers intended to hinder, delay or defraud known creditors. Those provisions must be assessed alongside the laws affecting you and the assets. <a href=\"https://www.leg.state.nv.us/NRS/NRS-166.html\">Nevada Revised Statutes, sections 166.015 and 166.040</a>.</p><p>For a UK-connected family now living in the UAE, the residence history and location of the assets remain part of the tax brief. We arrange the relevant <a href=\"/en/knowledge/business-and-income/departure-tax/\">departure and tax assessment</a> alongside trust law. A <a href=\"/en/services/liechtenstein-foundation/\">Liechtenstein foundation</a> may enter the comparison where its legal form suits the purpose.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Select the people who will carry the responsibility",
+      "layout": "prose",
+      "body": "<p>Trustee selection concerns more than the initial fee. We obtain the proposed service terms, decision process, reporting arrangements, contacts and replacement provisions. We also identify which lawyers and tax advisers cover the trust jurisdiction and the family’s other legal connections.</p><p>Each professional receives the information required for their part. The appointments state who drafts, who advises on tax and recognition, who administers and who reports to you. Existing advisers can participate without leaving you to reconcile separate pieces of advice alone.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Establish and fund the agreed arrangement",
+      "layout": "prose",
+      "body": "<p>After you approve the recommendation and costs, we organise documents, signatures, professional instructions and the establishment sequence. Any registration and institution onboarding required for the chosen arrangement is followed through with the responsible provider.</p><p>Funding is a distinct step. The asset must be capable of transfer, the receiving institution must accept the arrangement and any tax, lender or contractual consequence must be addressed before the authorised transfer. We bring the confirmations together so that you can distinguish a signed deed from assets actually held under it.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Understand the continuing commitment",
+      "layout": "prose",
+      "body": "<p>The cost comparison includes assessment, drafting and establishment; trustee and administration charges; accounts, tax and reporting work; and charges for distributions, changes or closure where applicable. Assets contributed to the trust are separate from those service costs.</p><p>The administration plan states which records you provide, who monitors deadlines and how changes in residence, family circumstances or assets reach the relevant advisers. You receive an agreed contact and reporting process for the life of the commissioned arrangement.</p>"
+    },
+    {
+      "id": "section-7",
+      "title": "How your family reaches the right person",
+      "layout": "prose",
+      "body": "<p>The handover gives the relevant people a usable route to the trustee or administrator, with the documents needed to establish their identity and role. It explains how a distribution request is made, what information is needed and who decides it under the agreed terms.</p><p>Where tangible assets are involved, the legal structure and <a href=\"/en/services/tangible-asset-custody/\">custody and release arrangements</a> must work together. We also organise the agreed substitute contacts and document access so that a loss of your phone or your availability does not erase the family’s knowledge of the arrangement.</p>"
+    }
+  ],
+  "working": {
+    "title": "Keep the legal decision and practical delivery together",
+    "body": "<p>We assemble the relevant facts, manage document requests and track the agreed specialist work. Questions about control, tax or recognition are resolved by the responsible professional before the connected implementation step proceeds.</p>"
+  },
+  "nextWork": {
+    "title": "Connect the trust to the rest of your preparation",
+    "body": "<p>Transfers, custody, powers of representation and family access may be separate parts of the same objective. We connect the work you commission and make the continuing responsibilities clear.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "What should a trust make possible for your family?",
+    "body": "Describe the purpose and relevant countries in broad terms. We will clarify the assessment and implementation work before you commit assets."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "564",
+        "label": "Arrange asset structures, custody and succession",
+        "target": "/en/services/asset-structures/",
+        "position": "Kernabschnitt 1: The purpose of your trust",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "565",
+        "label": "Arrange a Liechtenstein foundation",
+        "target": "/en/services/liechtenstein-foundation/",
+        "position": "Kernabschnitt 3: Home-country and trust law",
+        "purpose": "Eine Stiftungsaufgabe mit liechtensteinischer Fachzuständigkeit und Herkunftsrecht abstimmen."
+      },
+      {
+        "line": "566",
+        "label": "Arrange custody and access to tangible assets",
+        "target": "/en/services/tangible-asset-custody/",
+        "position": "Kernabschnitt 7: Access and succession",
+        "purpose": "Eigentum, Verwahrstelle, Herausgabe und berechtigten Zugriff organisatorisch verbinden."
+      },
+      {
+        "line": "567",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 2: Participants and control",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "568",
+        "label": "Departure, tax and business obligations",
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "position": "Kernabschnitt 3: Home-country and trust law",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "scope": {
+    "id": "scope",
+    "title": "From the family objective to an administered arrangement",
+    "body": "<p>Commission suitability assessment and coordination, establishment of an agreed structure or a defined improvement to an existing arrangement. The scope identifies the assets, people and jurisdictions involved.</p><p>EXOBASIS organises the assignment and its follow-through. Appointed specialists produce the legal and tax work; you approve the structure and the commitments it creates.</p>",
+    "items": [
+      [
+        "Understand",
+        "Purpose, retained control and beneficiary rights"
+      ],
+      [
+        "Establish",
+        "Professional documents, acceptance and authorised transfers"
+      ],
+      [
+        "Operate",
+        "Contacts, records, reporting and continuing responsibilities"
+      ]
+    ],
+    "costs": "Assessment, establishment, trustee services, administration, tax work and changes are costed separately. The proposal identifies one-off and recurring charges before you commit."
+  },
+  "displayTitle": "Trust formation around your family’s needs"
+}

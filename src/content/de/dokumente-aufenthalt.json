@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/dokumente-aufenthalt/",
+  "lang": "de",
+  "title": "Dokumente und Aufenthalt vorbereiten",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-6fcabe787b612e"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-825f30ea215f1f"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-327568101d023a"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Dokumente und Aufenthalt / Rechtzeitig verwendbar",
+  "seoTitle": "Aufenthalt und Dokumente organisieren | EXOBASIS",
+  "description": "Ein passender Aufenthaltsweg braucht verwendbare Unterlagen. EXOBASIS organisiert Familienakte, Beschaffung, Fachprüfung, Termine und Nachverfolgung.",
+  "intro": "<p>Du willst rechtzeitig einen nutzbaren Aufenthalt vorbereiten. Dafür müssen die Rechte deiner Familie und die verlangten Unterlagen zusammenpassen: Wer darf einreisen, wer kann bleiben, welche Dokumente fehlen und welcher Schritt muss vor der Abreise erledigt sein?</p><p>EXOBASIS organisiert deinen Dokumenten- und Aufenthaltsauftrag. Wir führen die persönlichen Voraussetzungen, die Anforderungen der zuständigen Stellen und die praktische Erledigung in einer geordneten Familienakte zusammen.</p>",
+  "primary": {
+    "label": "Dokumenten- und Aufenthaltsvorbereitung anfragen",
+    "intent": "Dokumente und Aufenthalt vorbereiten"
+  },
+  "summary": {
+    "kicker": "Aufenthalt praktisch vorbereiten",
+    "title": "Die richtige Unterlage am richtigen Verfahrensschritt.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift auf einem Tisch als Sinnbild für Vorbereitung.",
+    "facts": [
+      [
+        "Grundlage",
+        "Person, Staatsangehörigkeit, Wohnsitz und Aufenthaltszweck"
+      ],
+      [
+        "Ausführung",
+        "Unterlagen, Beschaffung, Fachbeiträge, Termine und Rückfragen"
+      ],
+      [
+        "Übergabe",
+        "Nachvollziehbarer Verfahrensstand mit Dokumenten und Fristen"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Einreise, Aufenthalt und Erwerbstätigkeit getrennt klären",
+      "layout": "prose",
+      "body": "<p>Ein visumfreier Besuch beantwortet noch nicht, wie du länger mit deiner Familie wohnen oder im Zielland arbeiten kannst. Wir betrachten deshalb für jede Person den vorgesehenen Zweck und die passende rechtliche Grundlage. Staatsangehörigkeit, bereits vorhandene Aufenthaltstitel und Wohnsitz werden getrennt aufgenommen.</p><p>Auch bei Paaren können verschiedene Wege nötig sein. Der Aufenthaltsanspruch eines EU-Bürgers wird nicht einfach auf jeden mitreisenden Angehörigen übertragen. Aus dem gewählten Verfahren ergeben sich die konkreten Nachweise, Termine und zulässigen nächsten Schritte.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\" data-route=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\"><span>Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/laender/\" data-route=\"/de/laender/\" data-link-description=\"Öffentliche Länderprofile lesen, Voraussetzungen kennenlernen und dir selbst einen Überblick verschaffen.\"><span>Länder und Möglichkeiten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-2",
+      "title": "Eine Akte für jede Person, ein gemeinsamer Familienstand",
+      "layout": "prose",
+      "body": "<p>Wir ordnen Reisepässe, Geburts- und Heiratsurkunden, Namensänderungen, Aufenthaltsnachweise und vorhandene Vollmachten personengenau. Ergänzend gehören je Verfahren etwa Einkommens- oder Versicherungsnachweise dazu. Abweichende Namen und fehlende Originale werden früh sichtbar.</p><p>Bei Kindern werden Sorgeberechtigung, mitreisende Erwachsene und Reisegenehmigungen zusammen geprüft. Nach <a href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/travel-documents-minors/index_de.htm\">Your Europe zu Reisedokumenten für Minderjährige</a> gibt es keine einheitliche EU-Regel für zusätzliche Einverständniserklärungen. Herkunfts-, Transit- und Zielland sowie die Fluggesellschaft können unterschiedliche Nachweise verlangen. Wir organisieren die passenden Unterlagen für eure tatsächliche Route.</p>"
+    },
+    {
+      "id": "kern-3",
+      "title": "Beschaffung und Fachklärung laufen auf denselben Zweck zu",
+      "layout": "prose",
+      "body": "<p>Wir lassen fehlende Urkunden beschaffen und stimmen Apostillen, Beglaubigungen und Übersetzungen auf das Zielverfahren ab. Dadurch wird nicht erst nach einer fertigen Übersetzung entdeckt, dass eine andere Ausfertigung oder eine zusätzliche Bestätigung gebraucht wird.</p><p>Bei einer besonderen Sorge-, Vertretungs- oder aufenthaltsrechtlichen Frage organisieren wir die zuständige fachliche Klärung mit den relevanten Unterlagen. Das Ergebnis geht in die Familienakte und den weiteren Ablauf ein. Gesetzliche Pflichten und vorhandene Bescheide werden dabei ebenso berücksichtigt wie das gewünschte Reiseziel.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/apostillen-uebersetzungen-urkunden/\" data-route=\"/de/leistungen/apostillen-uebersetzungen-urkunden/\" data-link-description=\"Urkunden, Beglaubigungen und Übersetzungen für ihren vorgesehenen Einsatz organisieren.\"><span>Apostillen, Übersetzungen und Urkunden organisieren</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-4",
+      "title": "Termine so vorbereiten, dass die Unterlagen zusammenpassen",
+      "layout": "prose",
+      "body": "<p>Wir stimmen Reihenfolge, persönliche Anwesenheit, notwendige Originale und den Bearbeitungsstand ab. Vor einer Einreichung wird die Zusammenstellung gegen die Anforderungen der konkreten Stelle kontrolliert. Du weißt, was du selbst unterschreibst oder vorlegst und was ein beauftragter Vertreter übernimmt.</p><p>Nach der Einreichung werden Eingangsbestätigung, Aktenzeichen und nächster Kontaktpunkt festgehalten. Reise- oder Wohnentscheidungen knüpfen an den tatsächlich erreichten Status an: Ein eingereichter Antrag und ein erteiltes Aufenthaltsrecht eröffnen unterschiedliche Möglichkeiten.</p>"
+    },
+    {
+      "id": "kern-5",
+      "title": "Bescheide, Auslandsstatus und Rückkehrfragen nachhalten",
+      "layout": "prose",
+      "body": "<p>Behördliche Rückfragen werden nach Person, Frist und gefordertem Nachweis geordnet. Ändern sich Wohnsitz, Pass oder Familiensituation während des Verfahrens, stimmen wir die erforderliche Aktualisierung ab.</p><p>Wenn Wehrpflicht deine Vorbereitung betrifft, wird eine eigene Statusakte angelegt: Staatsangehörigkeiten, tatsächlicher Lebensmittelpunkt, vorhandene Bescheide und Behördenkommunikation. Für deutsche Fälle wird der Bezug zu <a href=\"/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/\">Einberufung und Ausreise</a> hergestellt. Für die <a href=\"/de/wissen/ausweg-vorbereiten/aus-schweiz/\">Schweiz</a> gehören militärischer Auslandurlaub, Dienststatus und Rückkehrfragen in die zuständige Klärung. Die bloße Abmeldung ist für diese verschiedenen Aufgaben kein vollständiger Nachweis.</p>"
+    },
+    {
+      "id": "kern-6",
+      "title": "Du erhältst Dokumente und eine verständliche Übergabe",
+      "layout": "prose",
+      "body": "<p>Wir übergeben die vereinbarten Originale und Kopien, den Stand der Verfahren, erhaltene Bescheide und die maßgeblichen Folgefristen. Bei einem erteilten Titel werden seine dokumentierten Bedingungen, Verlängerung und für den Fall relevante Abwesenheiten in die weitere Planung übernommen.</p><p>Die Akte soll auch einem berechtigten Angehörigen helfen: Was wird für die nächste Reise gebraucht, wo liegt es und wer kann bei einer Rückfrage handeln? In der laufenden Betreuung können diese Unterlagen und Fristen weiter aktuell gehalten werden.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\" data-route=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\" data-link-description=\"Unterlagen und Befugnisse so vorbereiten, dass Angehörige sie tatsächlich nutzen können.\"><span>Notfallunterlagen, die Angehörige tatsächlich nutzen können</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/leistungen/vorbereitung-betreuen/\" data-route=\"/de/leistungen/vorbereitung-betreuen/\" data-link-description=\"Vereinbarte Unterlagen, Kontakte und Vorkehrungen regelmäßig prüfen und nachführen.\"><span>Vorbereitung prüfen und aktuell halten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    }
+  ],
+  "working": {
+    "title": "So arbeiten wir zusammen",
+    "body": "<p>Wir beginnen mit Herkunfts- und Zielland, Familienkonstellation, vorhandenem Status und zeitlichem Ziel. Persönliche Dokumente werden anschließend über den abgestimmten geschützten Weg aufgenommen. Unterschriften, persönliche Termine und verbindliche Angaben bleiben klar den berechtigten Personen zugeordnet.</p>"
+  },
+  "nextWork": {
+    "title": "So geht es danach weiter",
+    "body": "<p>Wenn der Aufenthaltsweg noch offen ist, führt die <a href=\"/de/leistungen/laender-standortauswahl/\">persönliche Länder- und Standortauswahl</a> zur passenden Option. Steht er fest, kannst du die Dokumentenarbeit direkt anfragen.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Bereiten wir euren Aufenthalt geordnet vor.",
+    "body": "Beschreibe, für wen und in welchem Land ein Verfahren vorbereitet werden soll. Wir klären den Umfang anhand des vorhandenen Stands."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [
+      "D14",
+      "D19",
+      "D16"
+    ],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "249",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "position": "Kernabschnitt 1: Berechtigung und Verwendung",
+        "purpose": "Vorhandene Rechte zuerst nutzen und zusätzliche Aufenthalts-/Staatsangehörigkeitswege richtig einordnen."
+      },
+      {
+        "line": "250",
+        "label": "Apostillen, Übersetzungen und Urkunden organisieren",
+        "target": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+        "position": "Kernabschnitt 3: Beschaffung und Fachprüfung",
+        "purpose": "Konkrete Urkunden für die tatsächliche Verwendung vorbereiten und beschaffen lassen."
+      },
+      {
+        "line": "251",
+        "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+        "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+        "position": "Kernabschnitt 6: dokumentierte Übergabe",
+        "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+      },
+      {
+        "line": "252",
+        "label": "Länder und Möglichkeiten",
+        "target": "/de/laender/",
+        "position": "Kernabschnitt 1: Berechtigung und Verwendung",
+        "purpose": "Szenariogerechte Optionen vergleichen, ohne vorher ein Land gewählt haben zu müssen."
+      },
+      {
+        "line": "253",
+        "label": "Vorbereitung prüfen und aktuell halten",
+        "target": "/de/leistungen/vorbereitung-betreuen/",
+        "position": "Kernabschnitt 6: dokumentierte Übergabe",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seedingSupporting": [],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages.",
+    "redaction": {
+      "package": "leistungen-a-de",
+      "seeding": [],
+      "sourceScope": "Eigenständige DACH-Neuredaktion nach PB-D65; Quellen und Abschnittsbelege in SEITEN-DE.jsonl.",
+      "mappedLinks": [
+        {
+          "line": "249",
+          "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+          "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+          "position": "Kernabschnitt 1: Berechtigung und Verwendung",
+          "purpose": "Vorhandene Rechte zuerst nutzen und zusätzliche Aufenthalts-/Staatsangehörigkeitswege richtig einordnen."
+        },
+        {
+          "line": "250",
+          "label": "Apostillen, Übersetzungen und Urkunden organisieren",
+          "target": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+          "position": "Kernabschnitt 3: Beschaffung und Fachprüfung",
+          "purpose": "Konkrete Urkunden für die tatsächliche Verwendung vorbereiten und beschaffen lassen."
+        },
+        {
+          "line": "251",
+          "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+          "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+          "position": "Kernabschnitt 6: dokumentierte Übergabe",
+          "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+        },
+        {
+          "line": "252",
+          "label": "Länder und Möglichkeiten",
+          "target": "/de/laender/",
+          "position": "Kernabschnitt 1: Berechtigung und Verwendung",
+          "purpose": "Szenariogerechte Optionen vergleichen, ohne vorher ein Land gewählt haben zu müssen."
+        },
+        {
+          "line": "253",
+          "label": "Vorbereitung prüfen und aktuell halten",
+          "target": "/de/leistungen/vorbereitung-betreuen/",
+          "position": "Kernabschnitt 6: dokumentierte Übergabe",
+          "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+        }
+      ],
+      "seedingSupporting": [
+        "D14",
+        "D16",
+        "D19"
+      ],
+      "seedingScope": "Direktzuordnung und unterstützende Anwendung im deutschen Seitenjournal dokumentiert."
+    }
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Was wir für dich übernehmen",
+    "body": "<p>Wir erfassen die vorhandenen Unterlagen, klären die Anforderungen für das benannte Verfahren und organisieren die vereinbarten Beschaffungs- und Einreichungsschritte. Für jede betroffene Person bleibt sichtbar, welche Voraussetzung erfüllt ist und welche Handlung noch aussteht.</p>",
+    "items": [
+      [
+        "Familienakte",
+        "Pässe, Personenstand, Sorge, Aufenthalt und relevante Nachweise zusammenführen."
+      ],
+      [
+        "Verfahren",
+        "Anforderungen, Termine, Fachausführung und Einreichung abstimmen."
+      ],
+      [
+        "Nachverfolgung",
+        "Rückfragen bearbeiten und Entscheidungen mit ihren Bedingungen übergeben."
+      ]
+    ],
+    "costs": "Dein Angebot unterscheidet unsere Organisationsarbeit, Dokumentenbeschaffung, Übersetzung, Behördengebühren, Fachmandate und notwendige Reisen. Die Zahl der Personen, Verfahren und bereits vorhandenen Unterlagen bestimmt den Umfang."
+  },
+  "displayTitle": "Dokumente und Aufenthalt für deine Familie vorbereiten"
+}

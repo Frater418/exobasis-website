@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/arrange-arrival/",
+  "lang": "en",
+  "title": "Arrange your arrival abroad",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0d35c4088828ec"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-60a02e4164d95a"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Arrival and settling-in services",
+  "seoTitle": "Arrival, settling-in and property purchase help | EXOBASIS",
+  "description": "Prepare your arrival abroad with EXOBASIS: accommodation searches, property purchase coordination, handover, connectivity and the services your family needs.",
+  "intro": "<p>A flight gets you to another country. It does not give your children a place to sleep, make a rental contract workable or put someone at the door with the keys. If you are preparing to leave because of war, political pressure or fear for your family, those details belong in the preparation, not in a frantic first week.</p><p>We organise exploratory visits and arrival arrangements around your actual needs. You can commission a rental search, a property purchase, the setup of an existing home or a connected family arrival. We carry the agreed work through from requirements and local appointments to handover.</p>",
+  "primary": {
+    "label": "Enquire about arrival arrangements",
+    "intent": "Arrange your arrival abroad"
+  },
+  "summary": {
+    "kicker": "A place you can actually use",
+    "title": "Prepare the home, the handover and the first days.",
+    "image": "einstieg-ausweg.webp",
+    "imageAlt": "Coastal landscape illustrating a possible base abroad.",
+    "facts": [
+      [
+        "Your use",
+        "An exploratory stay, a second base or a permanent move"
+      ],
+      [
+        "Your home",
+        "Short stay, long-term rental or property purchase"
+      ],
+      [
+        "Your arrival",
+        "Keys, essential services and named contacts"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "An exploratory visit, a second base or a permanent move?",
+      "layout": "prose",
+      "body": "<p>For an exploratory visit, the aim is to test a place before committing: suitable neighbourhoods, school journeys, medical access and the kind of home you would actually live in. We organise appointments and viewings around those questions. For an agreed move, the work is more exact: dates, occupants, access, essential supplies and the first appointments.</p><p>A base kept ready for a possible departure needs a different arrangement again. You need to know how it is maintained while empty and what must happen before arrival. Its usefulness also depends on the family's entry and residence rights, available money and a route you can use. The <a href=\"/en/countries/\">country profiles</a> provide the starting comparison; <a href=\"/en/services/country-location-selection/\">country and location selection</a> can establish the right place before a property search begins.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Choose the neighbourhood around daily life",
+      "layout": "prose",
+      "body": "<p>A low asking price can become an expensive compromise if the school is an hour away or a family member cannot reach the care they need. We turn your priorities into search criteria: journey times, access needs, language, workspace, transport, essential services and the costs of keeping the home running.</p><p>The budget separates the amount available for the home from the amount needed for settling in and ongoing life. For a purchase, this includes transaction costs and future maintenance. For a rental, it includes the deposit, advance payments, furnishings and any overlapping accommodation.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Find accommodation and see what matters",
+      "layout": "prose",
+      "body": "<p>A furnished short stay gives you a landing place while you learn the area. A longer tenancy provides continuity for school and work. Buying can create a base you control over time, provided the ownership rights and local obligations fit your plans. We help you choose the search that serves your intended use.</p><p>The search brief sets the area, budget, must-have features and acceptable compromises. We organise a shortlist and viewings, in person or through an agreed local viewing arrangement. The record covers condition, access, noise, utilities, connectivity and the practical questions left open. You receive something you can decide on, rather than a stream of advertisements.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Rent or buy with the checks done before commitment",
+      "layout": "prose",
+      "body": "<p><strong>For a tenancy,</strong> we bring together the proposed contract, the landlord or agent's authority to let, the inventory, deposit arrangements, payment schedule, permitted use and termination terms. If you expect to leave the home empty for months, that needs to fit the contract and insurance. We organise local legal input where the terms or language require it.</p><p><strong>For a property purchase,</strong> we coordinate the chosen property and independent local professional review before the relevant contractual commitment. The lawyer or other competent local professional establishes your purchase rights, the seller's title, registered charges, permitted use and the transfer process. A surveyor addresses the building's condition. The responsible land registry or equivalent office provides the ownership record; the lawyer or notary handles the legal completion steps required locally.</p><p>The <a href=\"https://www.gov.uk/guidance/guidance-for-buying-property-abroad\">FCDO guide to buying property abroad</a> specifically identifies title, charges, outstanding bills, connected utilities and independent legal advice as essential checks. Its cost categories also show why purchase price and total commitment differ. We organise that work around your transaction, including translations, transfer arrangements, completion appointments and evidence of registration. Local purchase eligibility and residence permission are separate questions.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Connect completion, keys and arrival",
+      "layout": "prose",
+      "body": "<p>The handover needs to work at the time you reach the property. We coordinate the responsible contact, access instructions, keys, an inventory or condition record, meter readings and the agreed utilities. For a purchase, the completion and possession dates must line up with those arrangements.</p><p>Transfers, luggage, pets and removals are included where commissioned. International moving costs depend on the consignment, route, packing, storage, customs work and insurance. We obtain the appropriate logistics scope and connect it to the arrival timetable, while the transport provider carries out the move.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Make the home a place you can work from",
+      "layout": "prose",
+      "body": "<p>An advertised internet connection says little about whether you can take a client call from the room you will use. We organise the agreed connectivity checks, installation appointments, equipment and workspace setup. If uninterrupted access matters, the brief includes a practical backup route and the devices that must work.</p><p>We also connect ordinary household needs: electricity and water accounts, essential furnishings and access for an authorised repair or maintenance contact. The handover identifies what is active, what has been ordered and which appointment is still outstanding.</p>"
+    },
+    {
+      "id": "section-7",
+      "title": "Put school and care alongside the housing decision",
+      "layout": "prose",
+      "body": "<p>For a family relocation, the home search belongs beside the school and care work. We coordinate enquiries, document requests, visits and appointments around your children's needs and the family's language and timetable. A school application and an accepted place are recorded separately so that the arrival plan rests on the actual position.</p><p>For treatment or care, we connect the clinical provider, admission requirements, medication continuity, transport and the way care will be paid for. <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and actual access to care</a> are different parts of that preparation. Where a relative has continuing needs, the <a href=\"/en/knowledge/family-life-abroad/care-medication/\">care and medication arrangements</a> help determine the location itself. <a href=\"/en/knowledge/family-life-abroad/children-family/\">Preparing a move with children</a> also includes the consent and family documents needed for the journey.</p>"
+    },
+    {
+      "id": "section-8",
+      "title": "Keep the base ready after the first arrival",
+      "layout": "prose",
+      "body": "<p>Once the keys are handed over, someone still needs to notice a leak, a failed payment or a change in the access arrangement. We can organise defined property care: inspections, authorised repairs, utility checks, a keyholder and a readiness visit before your return.</p><p>For a home left empty, the inspection schedule and permitted use must fit the insurance and property agreement. We record who reports problems and what they may authorise. <a href=\"/en/services/maintain-preparations/\">Ongoing review and maintenance</a> can keep those tasks connected to the rest of your preparation.</p>"
+    }
+  ],
+  "working": {
+    "title": "One assignment, connected local work",
+    "body": "<p>You give us the household priorities, intended dates, budget and decisions already made. EXOBASIS organises the agreed search and practical delivery, follows up local work and brings the results together. Property agents, independent lawyers, surveyors and other specialists are identified for the roles they actually perform.</p><p>You receive the shortlist and decision points during the work, then the agreed contracts or professional records, handover details, contacts and outstanding dates. That makes it clear what your family can rely on when they arrive.</p>"
+  },
+  "nextWork": {
+    "title": "A home that remains part of your Plan B",
+    "body": "<p>After arrival, maintenance and family or business support can continue under an agreed scope. If you are preparing a fallback home rather than moving now, we establish what keeps it usable between visits and what must be checked before you activate the plan.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "What should be ready when you arrive?",
+    "body": "Tell us where you are considering, who the home must work for and whether you want to explore, rent, buy or prepare a property you already own. We will clarify the work and the next decision."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "685",
+        "label": "Countries and options",
+        "target": "/en/countries/",
+        "position": "Kernabschnitt 1: An exploratory visit or a confirmed destination",
+        "purpose": "Szenariogerechte Optionen vergleichen, ohne vorher ein Land gewählt haben zu müssen."
+      },
+      {
+        "line": "686",
+        "label": "Choose suitable countries and locations",
+        "target": "/en/services/country-location-selection/",
+        "position": "Kernabschnitt 1: An exploratory visit or a confirmed destination",
+        "purpose": "Benannte Länder und Orte anhand der tatsächlichen Familien-/Unternehmensaufgabe vergleichen lassen."
+      },
+      {
+        "line": "687",
+        "label": "Prepare to move abroad with children and family",
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "position": "Kernabschnitt 7: School and essential services",
+        "purpose": "Reise, Sorge, Schule und Unterstützung für alle betroffenen Personen vorbereiten."
+      },
+      {
+        "line": "688",
+        "label": "Health cover and care abroad",
+        "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+        "position": "Kernabschnitt 7: School and essential services",
+        "purpose": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden."
+      },
+      {
+        "line": "689",
+        "label": "Care needs, medication and medical dependencies when moving",
+        "target": "/en/knowledge/family-life-abroad/care-medication/",
+        "position": "Kernabschnitt 7: School and essential services",
+        "purpose": "Kontinuierliche Versorgung für pflege- oder behandlungsabhängige Angehörige organisieren."
+      },
+      {
+        "line": "690",
+        "label": "Review and maintain your preparations",
+        "target": "/en/services/maintain-preparations/",
+        "position": "Kernabschnitt 8: Questions after arrival",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "scope": {
+    "id": "scope",
+    "title": "The work you can put in our hands",
+    "body": "<p>We agree the destination or search area, budget, household needs and intended use. We then organise the commissioned search, viewings, local professional work, contracts and arrival sequence. A property purchase can include independent title and contract checks, completion coordination, possession and subsequent care.</p><p>You approve the home and financial commitments. We bring you the information and coordinate the people needed to make those decisions. An existing property, adviser or local contact can be part of the assignment.</p>",
+    "items": [
+      [
+        "Find the right home",
+        "Translate the household brief into a search, shortlist and meaningful viewings."
+      ],
+      [
+        "Take the decision through to handover",
+        "Coordinate professional checks, agreed contract steps, keys and essential services."
+      ],
+      [
+        "Keep it usable",
+        "Arrange the agreed inspections, maintenance and readiness checks while you are away."
+      ]
+    ],
+    "costs": "The proposal separates our search and coordination, local professional fees, viewings and travel. Rent, deposits, purchase funds, taxes, registration, surveys, insurance, removals, utilities and ongoing property care are distinct costs. We agree the work and spending approvals before commitments are made."
+  },
+  "displayTitle": "Arrive to a home and a working daily life"
+}

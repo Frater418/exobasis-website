@@ -1,0 +1,287 @@
+{
+  "route": "/en/countries/iceland/",
+  "lang": "en",
+  "title": "Iceland as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/island/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-51703179c82199",
+      "startLine": 6252
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-658034109f0d0a",
+      "startLine": 8045
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Moving to Iceland: residence, homes and family life | EXOBASIS",
+  "description": "Prepare your move or second home in Iceland: UK and EEA residence routes, property rules, schools, healthcare, winter access and practical support.",
+  "intro": "<p>Moving to Iceland can put the North Atlantic between your family and the pressures you want to leave behind. If war, coercion or a shrinking opportunity to leave is driving your decision, the useful question is how to establish a home you can reach and lawfully use.</p><p>For some families, Iceland is a permanent future. For others, it is a prepared place to go while keeping a life elsewhere. Those choices require different residence rights, housing commitments and healthcare arrangements. A British passport, an EEA passport and residence in the UAE lead to different starting points.</p>",
+  "countryContext": "/en/countries/iceland/",
+  "linkPlan": [
+    {
+      "sourceLine": 1198,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1200,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1201,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1202,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1203,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1204,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1205,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1206,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1207,
+      "target": "/de/laender/island/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1493,
+      "target": "/en/countries/ireland/",
+      "label": "Ireland as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1495,
+      "target": "/en/countries/new-zealand/",
+      "label": "New Zealand as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Registers Iceland: EEA/EFTA registration",
+      "url": "https://island.is/en/registration-of-eea-efta-foreign-nationals",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "firecrawl_live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "UK government: living in Iceland",
+      "url": "https://www.gov.uk/guidance/living-in-iceland",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "firecrawl_live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "Iceland: foreign nationals and property ownership",
+      "url": "https://www.government.is/topics/foreign-nationals/foreign-nationals-real-property-rights/",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "firecrawl_live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "HMS: rental agreements",
+      "url": "https://island.is/en/gerd-og-skraning-husaleigusamninga",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "firecrawl_live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "Iceland Health: cover after moving",
+      "url": "https://island.is/en/apply-for-health-insurance",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "firecrawl_live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "City of Reykjavik: starting school",
+      "url": "https://reykjavik.is/en/starting-school",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Landspitali: hospital and emergency departments",
+      "url": "https://www.landspitali.is/um-landspitala/languages/landspitali-university-hospital/",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Skatturinn: individual tax liability",
+      "url": "https://www.skatturinn.is/english/individuals/tax-liability/",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Landsbankinn: electronic identification",
+      "url": "https://www.landsbankinn.is/en/personal/service-and-advice/welcome-to-landsbankinn",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Iceland: property transactions",
+      "url": "https://island.is/en/property-transactions",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Iceland: volcanic activity on Reykjanes",
+      "url": "https://www.government.is/topics/public-safety-and-security/volcanic-activity-in-reykjanes/",
+      "section": 2,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Ask us to prepare your Iceland option",
+    "intent": "General enquiry"
+  },
+  "country": {
+    "name": "Iceland",
+    "slug": "island",
+    "region": "Europe",
+    "map": "countries/island-locator.svg",
+    "imageAlt": "Map showing Iceland in Europe",
+    "caption": "Iceland: geographic location.",
+    "summary": [
+      [
+        "Residence comes first",
+        "Establish the route for every family member before committing to a home."
+      ],
+      [
+        "A home through winter",
+        "Match the address to school, treatment, road access and upkeep."
+      ],
+      [
+        "Preparation you can commission",
+        "Residence coordination, viewings, purchase support and a working arrival."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "What kind of home are you preparing?",
+      "body": "<p>Iceland makes most sense when you actively want its climate, scale and daily life, not merely its distance from continental Europe. A household that needs frequent international travel or specialist treatment has a different location brief from one seeking a settled family home.</p><p>A prepared refuge needs accommodation available before you need it, lawful entry and enough permitted time to use it. A second home needs an absence-care arrangement and repeatable access. Permanent relocation adds school integration, income, taxation and an ordinary social life. Choose the intended use first: it determines whether a short tenancy is enough or whether establishing Icelandic domicile belongs in the project.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "A refuge you can reach before travel becomes difficult",
+      "body": "<p>Iceland is an island, so the timing of arrival matters. Your plan should identify the departure point, usable flights and the journey from the airport to the home. If your concern is war or widespread transport disruption, waiting until flights are cancelled leaves the most important part of the plan unresolved. Agree in advance what would trigger an earlier departure and how the family would travel if separated.</p><p>At the destination, volcanic hazards are location-specific. The official Reykjanes information brings together eruption updates, hazard maps and civil-protection advice. Use it to assess an address and its access roads, rather than treating the whole island as either safe or unsafe. A house near the airport may be convenient but still needs its own hazard and access assessment.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.government.is/topics/public-safety-and-security/volcanic-activity-in-reykjanes/\" rel=\"noreferrer\">Iceland: volcanic activity on Reykjanes</a></p><p>Keep essential medication, payment access and a second means of contacting the person holding your keys ready before departure. A return to the UK or UAE is a separate journey with its own documents and residence conditions.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Moving to Iceland with children: choose the daily routine",
+      "body": "<p>For a lasting move, spend time in the area during the darker, colder part of the year. Test the school run, grocery trip and journey to a medical appointment. A summer viewing does not show what the same household will need in winter.</p><p>Reykjavik and its surrounding municipalities are the practical starting point when you want to combine services, work and hospital access. Compare a specific school catchment and commute before comparing floor space. Akureyri is a separate northern option worth a reconnaissance visit if a smaller urban setting appeals; the additional travel to services or appointments elsewhere must fit your family.</p><p>Children need an education transition, not just a place on a passenger list. Take school reports, language needs and any learning-support plan into the location brief. An English-speaking workplace does not settle the teaching language or support available at the child's school.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Using Iceland for part of the year",
+      "body": "<p>Periodic stays need a lawful pattern of entry, work and absence. For a new British visitor, short-stay Schengen permission and a right to settle are different things. If you already held protected residence rights in Iceland before 2021, start with that status instead of treating yourself as a new applicant.</p><p>A foreign employer or a UAE residence card does not itself authorise work from Iceland. Establish which permission covers the work you intend to do and how long you can remain before extending a scouting visit into working life.</p><p>Match the tenancy to the actual pattern: who may occupy the home, when it is available, whether you can keep belongings there and who responds to a leak while you are away. Residence registration and public services must reflect where you genuinely live.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Iceland residency: your passport changes the route",
+      "body": "<h3>EU/EEA and EFTA nationals</h3><p>Registers Iceland states that EEA/EFTA nationals staying longer than three months must register. The registration connects your identity and legal domicile and includes an Icelandic identification number, the kennitala. For financially self-sufficient EEA/EFTA citizens, however, the dedicated guidance allows legal-domicile registration from a planned stay of three months and makes it compulsory from six months. Both descriptions concern legal domicile, so they leave the registration deadline for a four- or five-month stay unclear. Before travelling, ask Registers Iceland to confirm the deadline and application for your citizenship, planned stay and self-sufficient residence grounds. Nordic citizens use a separate registration procedure. Establish the applicable grounds for residence and the position of accompanying relatives alongside registration.</p><p class=\"exb-citation\">Sources: <a href=\"https://island.is/en/registration-of-eea-efta-foreign-nationals\" rel=\"noreferrer\">Registers Iceland: EEA/EFTA registration</a>; <a href=\"https://www.skra.is/english/people/change-of-address/moving-to-iceland/i-am-an-eea-efta-citizen/staying-more-than-6-months/self-sufficient-individuals/\" rel=\"noreferrer\">Registers Iceland: self-sufficient individuals</a></p><h3>British citizens</h3><p>If you have been legally living in Iceland since before 1 January 2021, the UK-EEA EFTA Separation Agreement may protect your residence and family rights. Keep the residence card that demonstrates that status. A new move by a British citizen normally needs an applicable route such as work, study or family residence. Buying a property is a separate legal transaction.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.gov.uk/guidance/living-in-iceland\" rel=\"noreferrer\">UK government: living in Iceland</a></p><h3>Families arriving from the UAE or elsewhere</h3><p>Start with each person's citizenship and existing family rights. A British citizen in Dubai is not an EEA citizen; an Irish citizen in Dubai may have a different route from their non-EEA spouse. We organise the residence and document work around those actual relationships, including the permissions needed by accompanying children.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Ficeland%2F#short-enquiry\">Ask us to prepare your Iceland option</a><p>Tell us who would move, where you live now and what you want ready. If you are unsure which service fits, start with a free 20-minute orientation.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Where to live, rent or buy in Iceland",
+      "body": "<h3>Start with an address that works</h3><p>A furnished arrival rental gives you time to test the neighbourhood before a long lease or purchase. Around Reykjavik, compare access to school and Landspitali with the daily commute. For a coastal town or rural house, make heating, road access, connectivity and someone able to attend the property part of the search brief. A low advertised price cannot compensate for a home that is difficult to reach when you need it.</p><h3>Renting</h3><p>From January 2026, the HMS Rent Register obligation applies to everyone renting out residential premises. Agreements signed electronically through island.is enter the register when fully signed; a signed paper lease can be submitted to HMS. The agreement must record the condition of the home and fire-safety provisions.</p><p>Put the term, rent, deposit or other security, included utilities and termination arrangements in writing. For a reserve home, agree access during absence and who may inspect or act for you. Record the condition, meter readings and keys at handover.</p><p class=\"exb-citation\">Sources: <a href=\"https://island.is/en/gerd-og-skraning-husaleigusamninga\" rel=\"noreferrer\">HMS: rental agreements</a></p><h3>Buying as a foreign national</h3><p>Icelandic citizens and foreign nationals domiciled in Iceland may own property. Eligible EEA/EFTA buyers can use specified treaty rights when their conditions are met. A non-domiciled British or other third-country buyer may need permission from the Minister of Justice. That permission concerns a specific property, so resolve the buyer's route before making an unconditional commitment.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.government.is/topics/foreign-nationals/foreign-nationals-real-property-rights/\" rel=\"noreferrer\">Iceland: foreign nationals and property ownership</a></p><p>Commission an independent assessment of the home and its legal position: ownership, mortgages and other encumbrances, boundaries, permitted use and shared obligations. Iceland's guidance reserves mediation of property transactions to certified estate agents and attorneys. Offers can be binding, so necessary conditions belong in the offer before it is signed. The sale contract, mortgage documents and title deed are registered with the district magistrate for the property's district.</p><p>Budget separately for the price, inspection and professional fees, registration, applicable transaction taxes, borrowing and continuing property charges. EXOBASIS organises the search brief and viewings, commissions independent title and contract work, coordinates completion and prepares the home for handover. The local authorised professionals carry out the relevant regulated work.</p><p class=\"exb-citation\">Sources: <a href=\"https://island.is/en/property-transactions\" rel=\"noreferrer\">Iceland: property transactions</a></p><p><a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Arrange your Iceland home and arrival</a>.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schools, health cover and treatment",
+      "body": "<h3>School places follow the household</h3><p>In Reykjavik, children start compulsory school in the year they turn six. Each address belongs to a catchment school; parents confirm enrolment, while an out-of-catchment place requires a separate application. After-school care is also a separate enrolment. Those details make the home address and your working hours part of the same decision.</p><p class=\"exb-citation\">Sources: <a href=\"https://reykjavik.is/en/starting-school\" rel=\"noreferrer\">City of Reykjavik: starting school</a></p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare the move with children and dependent relatives</a>.</p><h3>Arrange the insurance transition</h3><p>Iceland Health asks you to apply one day after Registers Iceland has recorded your new legal domicile. The current general waiting period is three months. Previous public insurance in the EEA, UK or Switzerland can support an earlier entitlement decision; private insurance alone is not equivalent. Obtain the prior-insurance evidence and arrange cover for the interval before your entitlement is confirmed. Keep invoices if treatment is paid for while the decision is pending.</p><p class=\"exb-citation\">Sources: <a href=\"https://island.is/en/apply-for-health-insurance\" rel=\"noreferrer\">Iceland Health: cover after moving</a></p><h3>Confirm the treatment you need</h3><p>Landspitali's Fossvogur emergency department treats serious illness and injury, with separate specialist emergency services including paediatrics. For recurring treatment, ask the receiving service about referrals, records, appointments and medication before selecting a distant address. Insurance covers an agreed risk; the clinician and facility must still be available for the care you need.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.landspitali.is/um-landspitala/languages/landspitali-university-hospital/\" rel=\"noreferrer\">Landspitali: hospital and emergency departments</a></p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Organise healthcare, insurance and continuing care</a>.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Banking, income and work from Iceland",
+      "body": "<p>The kennitala and working electronic identification are practical dependencies for everyday services. Landsbankinn says electronic ID can be activated at a branch with valid personal identification. Prepare the bank's requested identity, address, tax-residence and source-of-funds records, then test transfers, card use and recovery if your usual phone is lost. Keep a second lawful payment route while local onboarding is underway.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.landsbankinn.is/en/personal/service-and-advice/welcome-to-landsbankinn\" rel=\"noreferrer\">Landsbankinn: electronic identification</a></p><p>A local account still leaves a gap if both payment routes depend on the same phone. Our <a class=\"exb-text-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\">banking and payments guide</a> explains how to separate those dependencies. Through <a class=\"exb-text-link\" href=\"/en/services/banking-liquidity/\">banking and liquidity preparation</a>, we organise the account documentation, access checks and payment tests for your Iceland move.</p><p>For income tax, Skatturinn distinguishes a stay shorter than six months in a twelve-month period from a stay of six months or longer. The latter can create unlimited tax liability from arrival, covering worldwide income; a shorter stay can still create liability on Icelandic-source income. Keeping your salary or clients abroad does not answer where work is taxable.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.skatturinn.is/english/individuals/tax-liability/\" rel=\"noreferrer\">Skatturinn: individual tax liability</a></p><p>Before working from the new home, align immigration permission with payroll, social-security and tax treatment. For a business owner, include who makes decisions, who can approve payments if you are unavailable and which functions remain in the UK, UAE or another country. Retain liquid funds for travel, school, insurance and a period of overlapping homes.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Put the preparations in the right order",
+      "body": "<ol><li><strong>Establish each person's route.</strong> Record citizenship, protected rights where relevant, family relationships, intended stay and work.</li><li><strong>Assemble usable documents.</strong> Coordinate passports, relationship records, residence evidence and required translations or certifications for the actual application.</li><li><strong>Choose the area and secure arrival housing.</strong> Include school and treatment appointments in the reconnaissance visit.</li><li><strong>Complete the linked registrations.</strong> Coordinate legal domicile, kennitala, insurance application and bank identification rather than assuming one completes the others.</li><li><strong>Test the home.</strong> Check keys, heat, communications, payments and the journey from the airport before relying on it.</li></ol><p>EXOBASIS carries out the agreed coordination, appointment and preparation work and commissions the necessary specialist tasks. <a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a>.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep the home usable while you are away",
+      "body": "<p>A northern home needs a named response to heating faults, leaks and access problems. Agree inspection intervals, key holding, spending authority and a record of what was checked. Before each return, confirm heat, water, internet, essential supplies and the current transport route.</p><p>Review residence, insurance and tax assumptions when your time in Iceland, work or family circumstances change. Renewals and genuine residence conditions belong in the same calendar as property care. If a relative's treatment changes, revisit the address rather than simply renewing the old plan.</p><p><a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Arrange continuing checks and preparation updates</a>.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Ask EXOBASIS to prepare your Iceland base",
+      "body": "<p>You can commission a defined task directly: compare locations, organise residence documents, prepare a reconnaissance visit, find and set up a rental, or coordinate a property purchase through to handover. We agree the scope, responsibilities, outside professional work and fees before proceeding.</p><p>For a complete base, we connect those tasks into one sequence and maintain the agreed arrangements afterwards. You receive the work and preparation you commissioned: an assessed location, organised procedures, completed appointments and a home ready for its intended use.</p><p><a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Compare countries and locations for your family</a>.</p><h3>Two different comparisons</h3><div class=\"exb-country-related\"><article><a class=\"exb-text-link\" href=\"/en/countries/ireland/\">Ireland: compare English-language family life and access</a><p>Compare the household's actual rights, education and housing needs against a different northern European setting.</p></article><article><a class=\"exb-text-link\" href=\"/en/countries/new-zealand/\">New Zealand: compare a more distant family base</a><p>Assess whether the longer journey and different residence preparation fit the purpose of your alternative home.</p></article></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Ficeland%2F#short-enquiry\">Ask us to prepare your Iceland option</a><p>Tell us who would move, where you live now and what you want ready. If you are unsure which service fits, start with a free 20-minute orientation.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Can a British citizen buy a second home and then live in Iceland?",
+    "answer": "Property ownership and residence are separate. A British buyer who is not domiciled in Iceland may need property-specific permission from the Minister of Justice. A new long-term move also needs an applicable residence route; protected rights for people legally resident before 2021 must be assessed separately."
+  },
+  "displayTitle": "Moving to Iceland: prepare a home your family can use"
+}

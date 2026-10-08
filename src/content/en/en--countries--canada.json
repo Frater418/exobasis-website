@@ -1,0 +1,197 @@
+{
+  "route": "/en/countries/canada/",
+  "lang": "en",
+  "title": "Canada as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/kanada/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-bfed48d3e0568a"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-bb9a2f19ea818f"
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Moving to Canada: residence, homes and family preparation | EXOBASIS",
+  "description": "Plan your move to Canada around a viable residence route, provincial housing rules, school, healthcare and usable money. Commission practical preparation.",
+  "intro": "<p>Moving to Canada can give your family a different future and a place to turn to before pressure becomes urgency. Make it a place you can actually enter, live in and pay for. We help you connect the right residence route with a chosen region, a home and the practical arrangements that let your family arrive.</p>",
+  "primary": {
+    "label": "Ask us to prepare your Canada option",
+    "intent": "General enquiry"
+  },
+  "countryContext": "/en/countries/canada/",
+  "country": {
+    "name": "Canada",
+    "slug": "kanada",
+    "region": "North America",
+    "map": "countries/kanada-locator.svg",
+    "imageAlt": "Map showing the location of Canada.",
+    "caption": "Canada in its geographical region.",
+    "summary": [
+      [
+        "A place to live",
+        "Separate a reserve base, part-year stays and permanent relocation."
+      ],
+      [
+        "Rights before purchase",
+        "Establish immigration and home-buying eligibility before committing capital."
+      ],
+      [
+        "A functioning arrival",
+        "Bring housing, school, care and payments together."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "Canada as a second base or a new home",
+      "body": "<p>You may be looking for distance from war, political pressure or a future you no longer want for your children. Canada is worth considering when you can connect that decision to a real immigration route and a region where your family can live well. Buying a house and obtaining the right to live in it are separate decisions.</p><p>For a reserve base, prioritise lawful entry, accommodation you can actually use and money available on arrival. For a permanent move, start with the route to residence, work and schooling. For part-year living, calculate how much time your immigration status, health cover and tax position allow you to spend elsewhere. Those three plans lead to different housing commitments and budgets.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "If you need to leave: prepare the whole journey",
+      "body": "<p>Canada's distance may be part of its appeal. The journey still depends on working flights, transit permissions and admission for every member of your household. If services are suspended, a paid ticket does not get you to the house you have rented. Keep a funded delayed-departure plan and a place to stay while travel is interrupted.</p><p>Build the arrival around a named address, someone who can hand over the keys and onward transport that works in the season you may arrive. In winter, heating and access to the property matter immediately. In wildfire season, the intended airport or road may be affected even when your destination is far from the fire.</p><p>Agree in advance what would trigger departure, who checks the latest official and airline information, and who can act if you are unavailable. Include Canada's international security commitments in the conflict assessment, alongside the journey and the place you intend to live.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.gov.uk/foreign-travel-advice/canada/safety-and-security\" rel=\"noreferrer\">UK travel advice: Canadian weather and natural hazards</a>.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">Compare a refuge your whole family can use</a> before relying on distance alone. EXOBASIS can <a class=\"exb-text-link\" href=\"/en/services/departure-contingency-plan/\">prepare the departure and contingency plan</a> around Canadian admission, transit, delayed travel and the arrival address.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Moving to Canada with your family",
+      "body": "<p>If you are emigrating to Canada, start with the adults' route and the rights of each accompanying child. An Express Entry profile enters a selection process; an invitation and an approved permanent-residence application are later stages. Family sponsorship has its own sponsor and relationship requirements. Neither a successful business overseas nor savings alone establish a right to settle.</p><p>Choose the province before making school and housing promises to your family. An English-speaking school in Ontario, a French-language environment in Quebec and a move to British Columbia involve different local arrangements. Ask the intended school board to confirm admission, documents and any fees against the child's and parents' actual status, then choose a home within a workable daily journey.</p><p>Keep the transition financially comfortable: temporary accommodation, the rental deposit, furnishings, transport, cover before local eligibility is established and continuing commitments at home all draw on the same reserve. Your relocation budget should survive a delayed immigration decision without depending on a property sale completing on time.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/apply-permanent-residence.html\" rel=\"noreferrer\">IRCC: Express Entry application and invitation</a>.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Part-year living and the right to return",
+      "body": "<p>British citizens and UAE citizens travelling by air for a qualifying visit generally need an eTA rather than a visitor visa. Being resident in Britain or the UAE does not give another passport the same treatment. Most visitors can stay for up to six months, but the border officer can set a different period. Use the date authorised for you, not a six-month assumption.</p><p>If you work remotely for an employer outside Canada, IRCC describes a specific visitor arrangement: you can live and work in Canada for up to six months without a work permit, within the stay authorised for you. Taking a Canadian job requires separate assessment of the work status needed. Running your own company or serving your own clients also needs an activity-specific assessment rather than assuming it falls within this foreign-employer case. Entry permission and the tax position explained below remain separate decisions.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/tech-talent.html\" rel=\"noreferrer\">IRCC: remote work for an employer outside Canada</a>.</p><p>Canadian permanent residents usually need 730 days in Canada during a five-year period to retain status, with specific exceptions for certain time abroad. A home kept empty while you live elsewhere does not itself meet that obligation. Permanent residents also use their PR card or appropriate travel document for commercial travel back to Canada rather than treating an eTA as a substitute.</p><p>For repeated stays, maintain a travel-day record, check your return documents before leaving and arrange winter inspections, heating, mail and insurance for the property during absence. Tell the insurer how the home will actually be occupied.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html\" rel=\"noreferrer\">IRCC: entry documents by nationality</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=727&amp;top=10\" rel=\"noreferrer\">IRCC: length of a visitor stay</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html\" rel=\"noreferrer\">IRCC: permanent-resident status and residence obligation</a>.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Use an immigration route that is open to you",
+      "body": "<p>Begin with any Canadian citizenship, permanent residence, qualifying family relationship or current work status you already have. For a new economic application, the relevant skills, language results, qualifications and programme criteria determine whether a route is realistic. A regulated immigration professional can resolve the legal eligibility; EXOBASIS organises the documents, appointments and practical work that follow.</p><p>The Start-up Visa Program is paused for new applications. Previously accepted cases and a new applicant are different situations. If your original plan relied on that programme, establish the status of your own file before committing to further programme-specific costs or a move.</p><p>Tell us whether you already hold rights, have an application in progress or are starting from the beginning. We can take on the defined preparation task directly.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa.html\" rel=\"noreferrer\">IRCC: Start-up Visa programme status</a>.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fcanada%2F#short-enquiry\">Ask us to prepare your Canada option</a><p>You can ask us to handle a defined task directly. Personal documents belong in the protected exchange agreed for the work.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Choose the region, then rent or buy",
+      "body": "<h3>Compare daily life, not a national average</h3><p>Use Toronto or the wider Greater Toronto Area as one shortlist when metropolitan access matters, and Ottawa when you want to compare a different Ontario setting. Test the actual school run and specialist-care journey. Calgary creates a separate Alberta comparison, including winter travel; Vancouver creates a British Columbia comparison where earthquake preparation and the precise property's exposure belong in the decision. A neighbourhood with the right services can be more useful than a remote home chosen for its apparent isolation.</p><h3>Renting first</h3><p>A short furnished stay gives you time for viewings and local appointments. For a longer Ontario tenancy, use the provincial standard lease where it applies. The permitted rent deposit is limited to one rent period, up to one month, and is for the final rental period, not a damage deposit. Record the condition, included appliances, utilities, parking and any permitted key deposit. These are Ontario rules; a landlord's terms in another province need their own check.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.ontario.ca/page/guide-ontarios-standard-lease\" rel=\"noreferrer\">Ontario: residential tenancy agreements and deposits</a>.</p><h3>Can a foreign buyer purchase a Canadian home?</h3><p>The federal prohibition on residential purchases by non-Canadians has been extended to 1 January 2027. Canadian citizens and permanent residents are outside that prohibition. Specific exceptions include qualifying workers with at least 183 days of work-authorisation validity remaining at purchase and no previous residential purchase during the prohibition. The rules also distinguish property outside census metropolitan areas and census agglomerations. The property's exact location, type, buyer and any provincial restrictions therefore matter before an offer.</p><p>For an eligible purchase, engage an independent lawyer to check ownership, mortgages and other registered interests, easements, the agreement and closing requirements. Ontario's land registry provides the ownership and registered-interest record. Combine that legal work with a building inspection and, for a condominium, review of the condominium's documents and financial obligations. Budget for applicable land-transfer taxes and non-resident charges, legal and registration costs, inspection, insurance and ongoing property charges alongside the purchase price.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.canada.ca/en/department-finance/news/2024/02/government-announces-two-year-extension-to-ban-on-foreign-ownership-of-canadian-housing.html\" rel=\"noreferrer\">Department of Finance: extension to the foreign-buyer prohibition</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-research/consultations/prohibition-purchase-residential-property-non-canadians-act/faq\" rel=\"noreferrer\">CMHC: scope, exceptions and eligible buyers</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.ontario.ca/page/land-registry-offices-lro\" rel=\"noreferrer\">Ontario: land registry</a>.</p><p>EXOBASIS can organise the location brief, rental or purchase search, viewings, independent checks, contract and closing coordination, handover and setup. <a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Commission accommodation, property-purchase coordination and arrival preparation</a> around the province and status that fit your case.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "School places, medical treatment and care",
+      "body": "<h3>Your child's status comes before a school place</h3><p>IRCC distinguishes children applying from outside Canada from children already in Canada with qualifying parental status. A child coming for more than six months of study generally needs a study permit before travel; exemptions exist for defined situations. Send the school and immigration adviser the same family-status information so admission and permission to study are aligned.</p><p>Where one parent travels first, organise the child's travel authority and the other parent's consent or applicable court documentation before booking. <a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare the family rights, school transition and accompanying adults</a> together.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html\" rel=\"noreferrer\">IRCC: minor children studying in Canada</a>.</p><h3>Healthcare is provincial</h3><p>Ontario has no waiting period for OHIP once you meet its eligibility requirements, but visitors do not qualify simply by arriving. The normal requirements include making Ontario your primary home, being present for 153 days in any 12-month period and for at least 153 of the first 183 days after moving, as well as holding an eligible status. You do not have to wait until day 153 to apply. Other provinces operate their own systems. Arrange cover for the period or services not funded for you, including the practical costs of prescriptions, dental care or treatment outside your entitlement.</p><p>A health card does not book a specialist appointment. Before relocating someone with ongoing treatment or care needs, obtain a clinical handover, medicine supply plan and acceptance from a reachable provider. Include transport and support at home in the same arrangement. <a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Plan health cover and continuity of care</a> before choosing a property around an assumed service.</p><p class=\"exb-source-note\">Source: <a href=\"https://ontario.ca/page/apply-ohip-and-get-health-card\" rel=\"noreferrer\">Ontario: OHIP eligibility</a>.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Keep income and usable money separate from immigration hopes",
+      "body": "<p>You can be eligible to open a Canadian account without being a Canadian citizen or living in Canada. The bank still has to verify your identity and may require an in-person visit. One documented identification route uses two reliable documents: one showing name and address, another showing name and date of birth. Confirm the accepted originals and the intended account's conditions before your appointment.</p><p>Prepare the evidence of where your funds came from, your tax-residence information and the expected transfers for rent or a purchase. Test a modest transfer, card payment and overseas authentication before making that account the household's sole route to money. Keep another lawful payment method independently usable if a compliance review delays a transfer or your main phone fails.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.canada.ca/en/financial-consumer-agency/services/banking/opening-bank-account.html\" rel=\"noreferrer\">Financial Consumer Agency of Canada: opening an account</a>.</p><p>For a move from Britain, confirm which existing products support your real Canadian address before moving direct debits or income. For a move from the UAE, separate available savings from money subject to final-salary, credit or residency-update requirements at your bank. A balance you can see but cannot transfer will not fund your Canadian rental.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\">Understand banking and payment continuity</a> explains how to separate a closed account, a blocked payment and unavailable funds. <a class=\"exb-text-link\" href=\"/en/services/banking-liquidity/\">Ask EXOBASIS to prepare your banking and liquidity</a> connects the account requirements, evidence and payment sequence to your household.</p><p>Canadian tax residence depends substantially on residential ties, not just citizenship or a visitor stamp. A home, spouse or dependants in Canada can be significant. Becoming resident can bring worldwide income into the Canadian tax calculation. If you keep an overseas company, determine where you perform the work, how you are paid and which personal and company obligations continue. Do this before transferring the family's centre of life, rather than assuming that fewer than 183 days settles every tax question.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html\" rel=\"noreferrer\">Canada Revenue Agency: determining residence status</a>.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Prepare documents in the order you will use them",
+      "body": "<p>First establish the route and family members covered. Then obtain the required identity and relationship records, language or qualification evidence, police certificates and medical examinations at the stage the procedure requires. Prematurely ordering time-sensitive records can mean paying for them again.</p><p>Build a separate arrival file for the landlord, bank, school and health enrolment. Keep originals accessible and secure copies recoverable without the main phone. Where a representative must handle a Canadian institution while you are abroad, obtain that institution's requirements for accepted authority before signing a generic power of attorney.</p><p><a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Ask us to organise residence and document preparation</a> to coordinate the requests, translations, submissions and appointments. Your personal records are exchanged through the protected route agreed for the assignment.</p><p>Use the <a class=\"exb-text-link\" href=\"/en/knowledge/phone-email-access-failure/\">phone and email access-failure guide</a> to identify whether one lost device would also remove your travel records and banking access. We can <a class=\"exb-text-link\" href=\"/en/services/communications-recovery/\">set up and test the permitted recovery routes</a> before you leave for Canada.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep the Canadian base ready between stays",
+      "body": "<p>For a reserve home, agree who checks heat, water, security, post and storm damage, and who can authorise a repair. Keep the landlord or property manager, insurer and emergency contact informed about your occupancy. A remotely owned property still needs someone to notice a failed heating system before you arrive.</p><p>Review status and travel documents, the residence-day record, bank contact details, payment recovery and family health needs. Repeat the practical check after a new passport, changed phone, new employer or move between provinces. <a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Arrange ongoing maintenance of your preparations</a> so that the option still works when circumstances change.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Turn your Canada decision into a prepared arrival",
+      "body": "<p>You can commission a defined piece of work: comparing Ontario and Alberta locations, arranging the necessary documents, organising a rental search, coordinating an eligible property purchase, or preparing the family's arrival. For a wider mandate, EXOBASIS joins those tasks into one sequence with responsibilities, outside professional work and costs agreed before execution.</p><p>The result should be concrete: a selected location, the right records and appointments, usable accommodation, a functioning payment route and an agreed handover. If Canada is not yet your decision, <a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">commission a country and location comparison</a> first. If you are unsure which task fits, request the free 20-minute orientation.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fcanada%2F#short-enquiry\">Ask us to prepare your Canada option</a><p>You can ask us to handle a defined task directly. Personal documents belong in the protected exchange agreed for the work.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div><div class=\"exb-country-comparisons\"><h3>Compare these two alternatives</h3><article><p><a class=\"exb-text-link\" href=\"/en/countries/new-zealand/\">New Zealand: another long-distance family option</a></p><p>Compare the route to residence, investment requirements where relevant, home-purchase eligibility and the practical distance from relatives. The same family budget must cover access and daily life in either country.</p><p>Food resilience adds a different reason to consider New Zealand. <a href=\"https://onlinelibrary.wiley.com/doi/10.1111/risa.14072\" rel=\"noreferrer\">Boyd and Wilson's nuclear-winter study</a> finds that its modelled food production remains above the study's dietary-energy threshold even in the severe scenario, drawing on substantial export production. Turning that potential into meals still depends on fuel, processing and distribution. Weigh it against the long journey, transit dependencies and the residence route your household can actually use. This is a specific finding about New Zealand, not a calculated safety ranking against Canada.</p></article><article><p><a class=\"exb-text-link\" href=\"/en/countries/ireland/\">Ireland: an English-speaking base closer to Europe</a></p><p>For British citizens, existing rights make Ireland a different starting point from Canadian immigration. Compare that access with the specific housing, school and care arrangements available to your family.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Can I buy a home in Canada first and use it as my residence route?",
+    "answer": "A purchase does not grant immigration status. The federal foreign-buyer prohibition also restricts many non-Canadian buyers until 1 January 2027, with defined exceptions. Establish your immigration route and eligibility for the particular purchase before committing."
+  },
+  "editorialSources": [
+    "ca"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 1098,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1100,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1101,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1102,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1103,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1104,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1105,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1106,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1107,
+      "target": "/de/laender/kanada/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1473,
+      "target": "/en/countries/new-zealand/",
+      "label": "New Zealand as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1475,
+      "target": "/en/countries/ireland/",
+      "label": "Ireland as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Moving to Canada: prepare a real family base"
+}

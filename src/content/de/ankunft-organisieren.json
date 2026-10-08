@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/ankunft-organisieren/",
+  "lang": "de",
+  "title": "Ankunft im Zielland organisieren",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0d35c4088828ec"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-60a02e4164d95a"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Ankunft vorbereiten / Unterkunft und Alltag",
+  "seoTitle": "Ankunft, Wohnung und Umzug ins Ausland | EXOBASIS",
+  "description": "EXOBASIS organisiert Unterkunft, Immobilienkauf, Umzug und die ersten Schritte vor Ort. Für deine Familie und eine vorbereitete Basis im Ausland.",
+  "intro": "<p>Du willst wissen, wo deine Familie schlafen wird, wie ihr an die Schlüssel kommt und wer euch vor Ort weiterhilft. Gerade wenn Kriegssorge oder politische Entwicklungen deine Entscheidung beschleunigen, zählt eine Unterkunft, die ihr tatsächlich nutzen könnt.</p><p>EXOBASIS organisiert Erkundungsreisen, Unterkunftssuche, Miete oder Immobilienkauf und die vereinbarten Schritte bis zur Ankunft. Wir verbinden Besichtigungen, Fachprüfung, Verträge, Umzugslogistik und erste Alltagsanschlüsse zu einem Auftrag, den du überblickst.</p>",
+  "primary": {
+    "label": "Ankunft organisieren lassen",
+    "intent": "Ankunft im Zielland organisieren"
+  },
+  "summary": {
+    "kicker": "Deine Vorbereitung als konkreter Auftrag",
+    "title": "Eine Adresse allein ist noch kein Ankunftsplan.",
+    "image": "einstieg-ausweg.webp",
+    "imageAlt": "Küstenlandschaft als Sinnbild einer vorbereiteten Basis im Ausland.",
+    "facts": [
+      [
+        "Dein Ziel",
+        "Erkunden, eine Außenbasis einrichten oder dauerhaft umziehen"
+      ],
+      [
+        "Unsere Arbeit",
+        "Suche, Besichtigungen, Fachausführung und Übergabe organisieren"
+      ],
+      [
+        "Dein Ergebnis",
+        "Eine vorbereitete Unterkunft mit abgestimmtem Ankunftsablauf"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Erkunden oder bereits ankommen?",
+      "layout": "prose",
+      "body": "<p>Eine Erkundungsreise soll Entscheidungen ermöglichen. Wir planen Besichtigungen, Wege zwischen Wohngebieten und wichtigen Einrichtungen sowie Gespräche, die deine offenen Fragen klären. Ein schöner Urlaubsort kann im Schul- und Arbeitsalltag unpraktisch sein: Ein täglicher langer Schulweg oder unzuverlässiger Internetzugang verändert die Wohnentscheidung.</p><p>Steht das Ziel bereits fest, beginnen wir mit der Ausführung. Wir stimmen Ankunftsdatum, Reisegruppe, Gepäck, Arbeitsbedarf und besondere Anforderungen ab. Wer eine Außenbasis nur zeitweise nutzen will, braucht zusätzlich klare Regeln für Schlüssel, Zugang nach längerer Abwesenheit und die Vorbereitung vor jeder Ankunft.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/laender/\" data-route=\"/de/laender/\" data-link-description=\"Öffentliche Länderprofile lesen, Voraussetzungen kennenlernen und dir selbst einen Überblick verschaffen.\"><span>Länder und Möglichkeiten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/leistungen/laender-standortauswahl/\" data-route=\"/de/leistungen/laender-standortauswahl/\" data-link-description=\"Persönlicher Auswahlauftrag: Wir prüfen Länder und Standorte für deine Familie, dein Budget und dein Vorhaben.\"><span>Passende Länder und Standortoptionen</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-2",
+      "title": "Unterkunft finden: zuerst flexibel, dann passend binden",
+      "layout": "prose",
+      "body": "<p>Für die ersten Wochen kann eine möblierte Unterkunft sinnvoll sein. Du kannst Schulen, Wohnlagen und Wege kennenlernen, bevor du einen langfristigen Vertrag eingehst. Eine dauerhafte Miete passt, wenn Ort und Alltag bereits erprobt sind und du laufend verfügbaren Wohnraum möchtest. Ein Kauf wird zum eigenen Arbeitsstrang, sobald du Eigentum aufbauen oder einen dauerhaft vorbereiteten Rückzugsort einrichten willst.</p><p>Bei der Mietsuche vergleichen wir Gesamtkosten, Vertragsdauer, Verlängerung, Kündigung, Kaution, Möblierung, Nebenkosten und die erlaubte Nutzung. Wichtig ist auch, ob Haustiere aufgenommen werden und wer bei Schäden oder einer verspäteten Anreise erreichbar ist. Benötigte Identitäts-, Einkommens- oder Aufenthaltsnachweise richten sich nach dem örtlichen Verfahren und dem konkreten Vertrag.</p><p>Wir führen die vereinbarten Besichtigungen und Rückfragen zusammen. Vor einer Bindung erhältst du die relevanten Unterlagen und eine nachvollziehbare Entscheidungsvorlage.</p>"
+    },
+    {
+      "id": "kern-3",
+      "title": "Immobilienkauf im Ausland organisieren",
+      "layout": "prose",
+      "body": "<p>Ein Suchauftrag beginnt bei deinem Leben, nicht beim Exposé: Wer nutzt die Immobilie, wie oft ist sie leer, wie viel Betreuung braucht sie und wie wichtig sind Schule, Klinik, Flughafen oder Arbeitsplatz? Daraus leiten wir Lage, Objektart und Gesamtkostenrahmen ab. Wir organisieren die Suche und Besichtigungen und bündeln die Unterlagen der ausgewählten Objekte.</p><p>Vor Kauf und Zahlung organisieren wir eine unabhängige Prüfung durch die örtlich zuständigen Fachpersonen. Dazu gehören Eigentümer und Verfügungsbefugnis, Titel beziehungsweise Registerstand, Belastungen, Nutzungs- und Baurechte, Erwerbsberechtigung sowie die Bedingungen des Vertrags. Technische Gebäudeprüfung, rechtliche Kaufprüfung und steuerliche Beurteilung erfüllen verschiedene Aufgaben.</p><p>Als EU-Bürger hast du beim Immobilienkauf in einem anderen EU-Land grundsätzlich die gleichen Rechte wie die dortigen Staatsangehörigen. Für einzelne Immobilienarten oder Nutzungen können nationale Einschränkungen gelten; die europäische Orientierung ist deshalb der Ausgangspunkt für die örtliche Prüfung. Für einen Schweizer Pass oder einen Kauf außerhalb der EU gelten die jeweiligen Erwerbsregeln. <a href=\"https://europa.eu/youreurope/citizens/residence/documents-formalities/buying-house/index_de.htm\">Your Europe: Immobilienkauf in der EU</a>.</p><p>Nach deiner Entscheidung koordinieren wir Vertragsabwicklung, notwendige Fachtermine, vereinbarte Zahlungs- und Registrierungsschritte sowie die Übergabe. Du erhältst Schlüssel, Unterlagen und benannte Kontakte. Der Kaufpreis ist nur ein Teil des Budgets: Steuern und Abgaben, Register, Notar oder Anwalt, gegebenenfalls Vermittlung, technische Prüfung, Ausstattung und spätere Betreuung gehören in dieselbe Rechnung.</p>"
+    },
+    {
+      "id": "kern-4",
+      "title": "Umzug und internationale Transportkosten",
+      "layout": "prose",
+      "body": "<p>Ein internationaler Umzug kostet vor allem nach Transportmenge, Strecke, Beförderungsart und gewünschtem Leistungsumfang. Verpackung, Zwischenlagerung, Versicherung, schwierige Zufahrten, Zollabfertigung und Zustellung am Ziel können eigene Positionen sein. Deshalb vergleichen wir Angebote auf derselben Grundlage: Was wird abgeholt, von wem verpackt, bis wohin befördert und wann tatsächlich ausgeliefert?</p><p>Wir organisieren die vereinbarte Angebotseinholung und stimmen Transport, Ankunft und Schlüsselübergabe ab. Reisedokumente, Medikamente und die Ausstattung für die ersten Tage gehören in die persönliche Ankunftsplanung, damit der Alltag bei einer verspäteten Möbellieferung weitergehen kann. Fahrzeuge und Haustiere brauchen eigene Einfuhr- beziehungsweise Beförderungsschritte; sie werden ausdrücklich in den Auftrag aufgenommen.</p>"
+    },
+    {
+      "id": "kern-5",
+      "title": "Schlüssel, Wohnung und Ansprechpartner übernehmen",
+      "layout": "prose",
+      "body": "<p>Zur Übergabe gehören Zustand, Inventar, Zählerstände, vorhandene Schäden, Schlüssel und erreichbare Ansprechpartner. Wir organisieren den Termin und die vereinbarte Dokumentation. Eine Fernübergabe braucht eine befugte Person vor Ort und einen abgestimmten Weg für Unterlagen und Rückfragen.</p><p>Soll die Immobilie zunächst leer bleiben, klären wir mit der örtlichen Betreuung Kontrolltermine, Feuchtigkeit und Lüftung, technische Anlagen, laufende Rechnungen und den Umgang mit Schäden. Vor einer späteren Ankunft können Reinigung, Versorgung und Schlüsselübergabe erneut organisiert werden. Welche Kontrollen oder Meldungen der Versicherungsschutz verlangt, ergibt sich aus der konkreten Police.</p>"
+    },
+    {
+      "id": "kern-6",
+      "title": "Internet und Arbeitsplatz vor dem ersten Arbeitstag",
+      "layout": "prose",
+      "body": "<p>Ein Anschluss im Gebäude hilft erst, wenn du ihn nutzen kannst. Für den vereinbarten Arbeitsbedarf organisieren wir Auskünfte zu verfügbaren Anschlüssen, Einrichtungsterminen und nötigen Verträgen. Wenn mobiles Internet als Ersatz dienen soll, gehören Empfang am tatsächlichen Standort, Datenumfang und Aktivierung dazu.</p><p>Wir verbinden diese Vorbereitung mit den Räumen und Geräten, die du brauchst. Videokonferenzen, vertrauliche Kundengespräche und der Zugriff auf Geschäftssysteme stellen unterschiedliche Anforderungen. Zugangs- und Wiederherstellungsarbeit lässt sich als eigener Baustein ergänzen.</p>"
+    },
+    {
+      "id": "kern-7",
+      "title": "Schule und Versorgung brauchen bestätigte Übergänge",
+      "layout": "prose",
+      "body": "<p>Bei der Schulsuche zählen Unterrichtssprache, Jahrgang, Lehrplan, Aufnahmebedingungen, freie Plätze und der tägliche Weg. Wir organisieren passende Rückfragen, Besuche und die vereinbarten Unterlagen. Erst die Rückmeldung der Schule trägt die konkrete Aufnahmeplanung.</p><p>Für Angehörige mit Pflege- oder Behandlungsbedarf stimmen wir organisatorisch den Übergang zwischen den zuständigen Fachpersonen ab. Medizinische Transportfähigkeit, Medikamente, Hilfsmittel und die tatsächliche Übernahme am Ziel müssen zusammenpassen. Ein Versicherungsnachweis und ein erreichbarer Behandlungsplatz beantworten unterschiedliche Fragen. Der Ankunftstermin wird mit diesen Abhängigkeiten verbunden.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\" data-route=\"/de/wissen/familie-alltag/kinder-angehoerige/\"><span>Mit Kindern und Angehörigen vorbereitet gehen</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\" data-route=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\"><span>Krankenversicherung und Versorgung im Ausland</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/wissen/familie-alltag/pflege-medikamente/\" data-route=\"/de/wissen/familie-alltag/pflege-medikamente/\"><span>Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-8",
+      "title": "Damit die Basis auch später bereitsteht",
+      "layout": "prose",
+      "body": "<p>Nach der Übergabe halten wir fest, welche Aufgaben abgeschlossen sind, welche Termine folgen und wer bei einer Änderung angesprochen wird. Zur vereinbarten Übergabe gehören Verträge, Kontakte, Zugangswege und verständliche Hinweise für die nächste Ankunft.</p><p>Wenn du noch nicht dauerhaft umziehst, lässt sich die Betreuung deiner Basis gesondert beauftragen. Sie kann Kontrollen, Fristen, Rückfragen an örtliche Anbieter und die Vorbereitung vor einer Reise umfassen. So bleibt dein vorbereiteter Ort mit deinem tatsächlichen Bedarf verbunden.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/vorbereitung-betreuen/\" data-route=\"/de/leistungen/vorbereitung-betreuen/\" data-link-description=\"Vereinbarte Unterlagen, Kontakte und Vorkehrungen regelmäßig prüfen und nachführen.\"><span>Vorbereitung prüfen und aktuell halten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    }
+  ],
+  "working": {
+    "title": "Du entscheidest. Wir führen die vereinbarte Arbeit zusammen.",
+    "body": "<p>EXOBASIS organisiert Suche, Abstimmungen und Ausführung. Bei Kaufrecht, Vertragsgestaltung, Steuern oder medizinischen Fragen übernehmen die jeweils zuständigen Fachpersonen ihre Fachleistung. Wir benennen die beteiligten Rollen und organisieren ihre Übergaben, damit Rückfragen nicht zwischen den Stellen liegen bleiben.</p><p>Bereits vorhandene Unterlagen und deine bisherigen Berater können einbezogen werden. Vor zusätzlichen Besichtigungen, weiteren Fachprüfungen oder einem geänderten Suchgebiet stimmen wir Umfang und Kosten mit dir ab.</p>"
+  },
+  "nextWork": {
+    "title": "Nach der Einrichtung",
+    "body": "<p>Aus einer vorbereiteten Ankunft können laufende Objektbetreuung, Pflege der Unterlagen oder weitere Aufgaben für Familie und Geschäft werden. Du beauftragst die Arbeit, die deine Basis anschließend braucht.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Was soll bei deiner Ankunft bereit sein?",
+    "body": "Beschreibe Land oder Region, die mitreisenden Personen und ob du erkunden, mieten oder kaufen möchtest. Wir klären daraus den passenden Such- und Ausführungsauftrag."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "675",
+        "label": "Länder und Möglichkeiten",
+        "target": "/de/laender/",
+        "position": "Kernabschnitt 1: Erkundung oder festes Ankunftsziel",
+        "purpose": "Szenariogerechte Optionen vergleichen, ohne vorher ein Land gewählt haben zu müssen."
+      },
+      {
+        "line": "676",
+        "label": "Passende Länder und Standortoptionen",
+        "target": "/de/leistungen/laender-standortauswahl/",
+        "position": "Kernabschnitt 1: Erkundung oder festes Ankunftsziel",
+        "purpose": "Benannte Länder und Orte anhand der tatsächlichen Familien-/Unternehmensaufgabe vergleichen lassen."
+      },
+      {
+        "line": "677",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "position": "Kernabschnitt 7: Schule/Versorgung",
+        "purpose": "Reise, Sorge, Schule und Unterstützung für alle betroffenen Personen vorbereiten."
+      },
+      {
+        "line": "678",
+        "label": "Krankenversicherung und Versorgung im Ausland",
+        "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+        "position": "Kernabschnitt 7: Schule/Versorgung",
+        "purpose": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden."
+      },
+      {
+        "line": "679",
+        "label": "Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug",
+        "target": "/de/wissen/familie-alltag/pflege-medikamente/",
+        "position": "Kernabschnitt 7: Schule/Versorgung",
+        "purpose": "Kontinuierliche Versorgung für pflege- oder behandlungsabhängige Angehörige organisieren."
+      },
+      {
+        "line": "680",
+        "label": "Vorbereitung prüfen und aktuell halten",
+        "target": "/de/leistungen/vorbereitung-betreuen/",
+        "position": "Kernabschnitt 8: Nachfragen",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seedingSupporting": [],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Vom Wohnbedarf bis zur Schlüsselübergabe",
+    "body": "<p>Du kannst die Ankunft als Einzelauftrag beauftragen, auch wenn deine sonstige Planung bereits steht. Gemeinsam bestimmen wir, was bis zu welchem Termin nutzbar sein soll: eine möblierte Wohnung für die ersten Wochen, ein längerfristiger Mietvertrag oder ein gekauftes Haus mit Betreuung während deiner Abwesenheit.</p><p>Daraus entsteht ein konkreter Such- und Ausführungsauftrag. Wir organisieren passende Angebote, Termine und Fachleute, halten Rückmeldungen zusammen und führen die vereinbarten Schritte bis zur Übergabe. Du entscheidest über Objekt, Budget und Vertrag.</p>",
+    "items": [
+      [
+        "Passend wohnen",
+        "Unterkunft nach Familienbedarf, Lage, Laufzeit und erreichbarer Versorgung auswählen."
+      ],
+      [
+        "Miete oder Kauf umsetzen",
+        "Besichtigungen, unabhängige Vertrags- und Kaufprüfung, Abschluss und Übergabe organisieren."
+      ],
+      [
+        "Ankunft verbinden",
+        "Transport, Schlüssel, Erreichbarkeit, Versorgung und erste Termine aufeinander abstimmen."
+      ]
+    ],
+    "costs": "Unser Angebot trennt Such- und Organisationsarbeit, örtliche Fachleistungen und Reiseaufwand von Miete, Kaution, Kaufpreis, Erwerbsabgaben, Register-/Notarkosten, Transport und laufender Betreuung. Die Kosten hängen vom Ort, Objekt und vereinbarten Umfang ab."
+  },
+  "displayTitle": "Ankunft und Umzug ins Ausland organisieren lassen"
+}

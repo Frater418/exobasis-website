@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/vermoegen-uebertragen/",
+  "lang": "de",
+  "title": "Vermögen übertragen und legal verfügbar halten",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-8b4a7d04f61ede"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-33a3dd05c7bf6b"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-327568101d023a"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Vermögen übertragen / Recht und praktische Verfügung verbinden",
+  "seoTitle": "Vermögen ins Ausland verlagern: Transfer organisieren",
+  "description": "Geld ins Ausland überweisen oder Eigentum übertragen: EXOBASIS organisiert Nachweise, Meldeklärung, Fachstellen und die nachvollziehbare Durchführung.",
+  "intro": "<p>Du willst einen Teil deines Vermögens außerhalb des Herkunftslands verfügbar haben. Für deine Familie, eine Immobilie oder eine vorbereitete Außenbasis. Entscheidend ist, dass das Geld rechtmäßig ankommt und du es anschließend für den vorgesehenen Zweck nutzen kannst.</p><p>EXOBASIS organisiert deinen konkreten Transfer: vom nachvollziehbaren Herkunftsnachweis über die Abstimmung der beteiligten Stellen bis zur Durchführung und Dokumentation. Bei einem Eigentumswechsel verbinden wir die Übertragung mit der erforderlichen rechtlichen und steuerlichen Facharbeit.</p>",
+  "primary": {
+    "label": "Übertragungsauftrag besprechen",
+    "intent": "Vermögen übertragen und legal verfügbar halten"
+  },
+  "summary": {
+    "kicker": "Übertragung mit klarem Zweck",
+    "title": "Erst den Weg klären, dann das Vermögen bewegen.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift auf einem Tisch als Sinnbild für Vorbereitung.",
+    "facts": [
+      [
+        "Gegenstand",
+        "Geldzahlung, Depotübertrag oder Eigentumswechsel"
+      ],
+      [
+        "Voraussetzungen",
+        "Berechtigung, Nachweise, Empfänger und Meldeprüfung"
+      ],
+      [
+        "Abschluss",
+        "Belegter Eingang beziehungsweise Übertragung und nutzbarer Zugriff"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Eine Überweisung ist etwas anderes als ein Eigentumswechsel",
+      "layout": "prose",
+      "body": "<p>Wenn du Geld auf dein eigenes Auslandskonto überweist, ändert sich der Kontostandort. Eine Schenkung, die Übertragung von Gesellschaftsanteilen oder die Ausstattung einer Stiftung verändert dagegen Eigentums- oder Begünstigungsrechte. Ein Depotübertrag kann wiederum dieselben Wertpapiere bei einem anderen Verwahrer betreffen.</p><p>Wir bestimmen deshalb zuerst den konkreten Vorgang. Soll eine Reserve nutzbar werden, ein Kaufpreis bezahlt oder Vermögen auf eine andere Person übertragen werden? Davon hängen Vertrag, Nachweise, beteiligte Stellen und spätere Pflichten ab.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\" data-route=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\"><span>Kontozugang und Zahlungsfähigkeit im Ausland</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-2",
+      "title": "Der Geldweg muss aus deinen Belegen verständlich werden",
+      "layout": "prose",
+      "body": "<p>Ein Kontostand zeigt, dass Geld vorhanden ist. Für die Mittelherkunft können weitere Dokumente gebraucht werden. Bei einem Immobilienverkauf ergibt sich der Zusammenhang etwa aus Kaufvertrag, Abrechnung und belegtem Zahlungseingang. Bei Erbschaft oder Unternehmensgewinn sind andere Unterlagen maßgeblich.</p><p>Wir führen die vorhandenen Belege entlang der tatsächlichen Transaktion zusammen und stimmen zusätzliche Anforderungen mit abgebender und empfangender Stelle ab. Kontoinhaber, wirtschaftlich Berechtigte, Vollmachten und Empfänger müssen zum Vorgang passen. Änderungen an Empfängerdaten werden vor der Zahlung über einen verlässlich bestätigten Kontaktweg geprüft.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-3",
+      "title": "Geld ins Ausland überweisen: Welche Meldepflicht gilt?",
+      "layout": "prose",
+      "body": "<p><strong>Deutschland:</strong> Nach der <a href=\"https://www.bundesbank.de/de/service/meldewesen/aussenwirtschaft/erlaeuterungen-zum-meldewesen/zahlungsmeldungen-von-privatpersonen-991092\">Bundesbank-Information für Privatpersonen</a> gilt seit Januar 2025 für bestimmte Zahlungen zwischen Inländern und Ausländern eine Meldeschwelle von mehr als 50.000 Euro oder Gegenwert. Maßgeblich ist der Wohnsitz beziehungsweise gewöhnliche Aufenthalt, nicht der Pass. Reine Überträge zwischen eigenen Konten sind danach nicht meldepflichtig.</p><p>Das macht einen späteren Kauf vom eigenen Auslandskonto nicht automatisch meldefrei: Dann liegt eine andere Zahlung mit einem anderen Empfänger und Zweck vor. Wir unterscheiden deshalb Kontoübertrag und anschließende Verwendung. Die konkrete Meldeart und Frist werden vor Durchführung dem Vorgang zugeordnet.</p><p>Für einen österreichischen oder schweizerischen Ausgangsfall gelten die dort einschlägigen Melde- und Steuerregeln; die deutsche Schwelle wird nicht übertragen. Ebenso sind Überweisung, Bargeldmitnahme, Schenkung und Wegzug verschiedene Sachverhalte. Erforderliche steuerliche Entscheidungen werden mit der zuständigen Fachstelle vor den verbindlichen Schritten geklärt.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/vermoegensstrukturen/\" data-route=\"/de/leistungen/vermoegensstrukturen/\" data-link-description=\"Eigentum, Verwahrung und Nachfolge mit passenden Fachstellen organisieren.\"><span>Vermögensstrukturen, Verwahrung und Nachfolge organisieren</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\" data-route=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\"><span>Wegzug, Steuern und Unternehmenspflichten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div><h3>Wenn du Wertpapiere beleihen willst</h3><p>Ein Lombardkredit schafft Liquidität gegen verpfändete Vermögenswerte. Er ist eine zusätzliche Finanzierung, während ein Transfer vorhandenes Geld oder Eigentum an einen anderen Ort beziehungsweise Empfänger bringt. Der Kreditgeber entscheidet, welche Sicherheiten er annimmt und welchen Anteil ihres Werts er beleiht.</p><p>Fallen Kurse oder senkt die Bank den Beleihungswert, kann sie zusätzliche Sicherheiten oder eine Rückzahlung verlangen. Bleibt diese aus, können die verpfändeten Werte verkauft werden; auch danach kann eine Restschuld bestehen. Diesen Mechanismus erläutert das <a href=\"https://www.ubs.com/content/dam/assets/microsites/credit-suisse/static/doc/lombardkredit-factsheet-en.pdf\">UBS-Factsheet zum Lombardkredit</a>. Wir organisieren die Unterlagen und Abstimmung für deinen konkreten Finanzierungsbedarf. Für den Zahlungsplan zählen die genehmigten Konditionen, Auszahlungsvoraussetzungen und deine tragbare Reserve.</p>"
+    },
+    {
+      "id": "kern-4",
+      "title": "Die Empfangsseite wird vor dem Haupttransfer vorbereitet",
+      "layout": "prose",
+      "body": "<p>Wir stimmen ab, ob das empfangende Institut das Konto angenommen hat, die vorgesehene Währung unterstützt und die Zahlung mit den angekündigten Unterlagen verarbeiten kann. Bei einer Kaufpreiszahlung kommen Vertragsbedingungen, Fälligkeit und der bestätigte Empfänger hinzu. Eine neue Kontonummer in einer unbestätigten E-Mail reicht dafür nicht.</p><p>Soll Liquidität über einen Lombardkredit entstehen, werden Kreditentscheidung, Beleihungswert, Zins, Währung und mögliche Nachbesicherung separat betrachtet. Ein Wertpapierdepot ist noch keine ausgezahlte Kreditlinie. Der Transferplan verwendet den tatsächlich bestätigten Finanzierungsstand.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/bankzugang-liquiditaet/\" data-route=\"/de/leistungen/bankzugang-liquiditaet/\" data-link-description=\"Bankannahme, Zahlungswege und nutzbare Liquidität konkret vorbereiten.\"><span>Bankzugang und Liquidität vorbereiten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-5",
+      "title": "Testzahlung, Freigabe und Hauptübertragung",
+      "layout": "prose",
+      "body": "<ol><li><strong>Voraussetzungen abschließen:</strong> Kontoannahme, Nachweise, Zweck, Berechtigungen und fachliche Entscheidungen zusammenführen.</li><li><strong>Funktion prüfen:</strong> Eine kleine, vereinbarte Testzahlung senden und Eingang, Zuordnung, Zugang und benötigte Zahlungsfunktion kontrollieren.</li><li><strong>Haupttransfer freigeben:</strong> Betrag, Währung, Gebühren und Empfängerdaten unmittelbar vor der Ausführung bestätigen.</li><li><strong>Ergebnis nachhalten:</strong> Eingang beziehungsweise erfolgte Übertragung belegen und die vorgesehene Verfügbarkeit überprüfen.</li></ol><p>Der Test dient der Funktion, nicht der Aufteilung zur Umgehung von Prüf- oder Meldepflichten. Während einer laufenden Bankprüfung wird der offene Nachweis mit dem Institut geklärt. Für bereits bestehende Verfügungssperren bestimmen die zuständigen Stellen die zulässigen Schritte.</p>"
+    },
+    {
+      "id": "kern-6",
+      "title": "Nach dem Eingang muss die Reserve ihren Zweck erfüllen",
+      "layout": "prose",
+      "body": "<p>Du erhältst die vereinbarten Zahlungs- oder Übertragungsbelege, eine Zuordnung der tatsächlich angefallenen Kosten und die dokumentierten Folgeaufgaben. Bei einer Reserve gehört der berechtigte Zugriff dazu; bei einem Eigentumswechsel der Nachweis des für diesen Vermögenswert maßgeblichen Abschlusses.</p><p>Wir halten fest, wer die Unterlagen für spätere Bank- oder Steuerfragen verwahrt und welche Erklärung oder Aktualisierung noch ansteht. So bleibt der Vermögensweg auch nach Monaten nachvollziehbar, wenn die Familie am Ausweichort zahlen oder ein Angehöriger handeln muss.</p>"
+    }
+  ],
+  "working": {
+    "title": "So arbeiten wir zusammen",
+    "body": "<p>Für die erste Einordnung reichen Vermögensart, Herkunfts- und Zielland sowie der wirtschaftliche Zweck. Beträge, Kontodaten und Belege nehmen wir anschließend im geschützten Arbeitsweg auf. Die Zahlung wird vom Kontoinhaber oder dem dazu befugten Ausführer freigegeben und über die beteiligten Institute abgewickelt.</p>"
+  },
+  "nextWork": {
+    "title": "So geht es danach weiter",
+    "body": "<p>Ein noch fehlender Empfängerzugang lässt sich mit <a href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität vorbereiten</a> verbinden. Bei einer weitergehenden Eigentums- oder Nachfolgeordnung folgt der passende <a href=\"/de/leistungen/vermoegensstrukturen/\">Strukturauftrag</a>.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Welches Vermögen soll wohin und wofür verfügbar werden?",
+    "body": "Beschreibe deinen geplanten Vorgang in groben Zügen. Wir klären die Beteiligten und den nötigen Organisationsumfang, bevor Unterlagen oder Mittel bewegt werden."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [
+      "D10",
+      "D04"
+    ],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "537",
+        "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+        "position": "Kernabschnitt 1: Geldtransfer versus Eigentumsübertragung",
+        "purpose": "Zahlungsbedarf und Abhängigkeiten verstehen und passende Bankvorbereitung auswählen."
+      },
+      {
+        "line": "538",
+        "label": "Bankzugang und Liquidität vorbereiten",
+        "target": "/de/leistungen/bankzugang-liquiditaet/",
+        "position": "Kernabschnitt 4: beteiligte Stellen",
+        "purpose": "Bankaufnahme, zulässige Zahlwege und berechtigten Geldzugriff organisiert vorbereiten lassen."
+      },
+      {
+        "line": "539",
+        "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+        "target": "/de/leistungen/vermoegensstrukturen/",
+        "position": "Kernabschnitt 3: Steuer-/Rechtsanknüpfung",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "540",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "position": "Kernabschnitt 3: Steuer-/Rechtsanknüpfung",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      },
+      {
+        "line": "541",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 2: Berechtigte und Nachweise",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      }
+    ],
+    "seedingSupporting": [
+      "D06",
+      "D09",
+      "D21"
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages.",
+    "redaction": {
+      "package": "leistungen-a-de",
+      "seeding": [
+        "D10"
+      ],
+      "sourceScope": "Eigenständige DACH-Neuredaktion nach PB-D65; Quellen und Abschnittsbelege in SEITEN-DE.jsonl.",
+      "mappedLinks": [
+        {
+          "line": "537",
+          "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+          "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+          "position": "Kernabschnitt 1: Geldtransfer versus Eigentumsübertragung",
+          "purpose": "Zahlungsbedarf und Abhängigkeiten verstehen und passende Bankvorbereitung auswählen."
+        },
+        {
+          "line": "538",
+          "label": "Bankzugang und Liquidität vorbereiten",
+          "target": "/de/leistungen/bankzugang-liquiditaet/",
+          "position": "Kernabschnitt 4: beteiligte Stellen",
+          "purpose": "Bankaufnahme, zulässige Zahlwege und berechtigten Geldzugriff organisiert vorbereiten lassen."
+        },
+        {
+          "line": "539",
+          "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+          "target": "/de/leistungen/vermoegensstrukturen/",
+          "position": "Kernabschnitt 3: Steuer-/Rechtsanknüpfung",
+          "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+        },
+        {
+          "line": "540",
+          "label": "Wegzug, Steuern und Unternehmenspflichten",
+          "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+          "position": "Kernabschnitt 3: Steuer-/Rechtsanknüpfung",
+          "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+        },
+        {
+          "line": "541",
+          "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+          "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+          "position": "Kernabschnitt 2: Berechtigte und Nachweise",
+          "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+        }
+      ],
+      "seedingSupporting": [
+        "D04"
+      ],
+      "seedingScope": "Direktzuordnung und unterstützende Anwendung im deutschen Seitenjournal dokumentiert."
+    }
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Was wir für dich übernehmen",
+    "body": "<p>Wir erfassen den Vermögensweg und seine Beteiligten, stimmen die erforderlichen Nachweise ab und organisieren die vereinbarte Durchführung. Jede beteiligte Stelle erhält die für ihre Aufgabe notwendigen Informationen. Du behältst die Entscheidung über Betrag, Empfänger und Freigabe.</p>",
+    "items": [
+      [
+        "Nachweise",
+        "Herkunft, Eigentum, Zweck und Berechtigte schlüssig zusammenstellen."
+      ],
+      [
+        "Abstimmung",
+        "Bank, Empfänger und notwendige Fachstellen auf dieselbe Transaktion beziehen."
+      ],
+      [
+        "Durchführung",
+        "Freigegebene Schritte, Eingang, Verfügbarkeit und Folgepflichten nachhalten."
+      ]
+    ],
+    "costs": "EXOBASIS-Honorar, Bank- und Transferkosten, Wechselkurskosten, Fachmandate, gegebenenfalls Steuern und Registergebühren werden getrennt betrachtet. Die zu übertragenden Mittel und ein Kaufpreis sind Kundenvermögen, keine Dienstleistungsgebühr."
+  },
+  "displayTitle": "Vermögen ins Ausland übertragen und verfügbar halten"
+}

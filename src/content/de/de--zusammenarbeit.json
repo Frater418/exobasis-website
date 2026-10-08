@@ -1,0 +1,120 @@
+{
+  "route": "/de/zusammenarbeit/",
+  "lang": "de",
+  "title": "Zusammenarbeit für Berater und Fachanbieter",
+  "parent": "/de/",
+  "translation": "/en/collaboration/",
+  "model": "vertrauen",
+  "schemaVersion": 1,
+  "kind": "collaboration",
+  "reviewStatus": "draft_for_review",
+  "releaseStatus": "editorial_draft_not_published",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c92f618d7ea1ea",
+      "startLine": 17336
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0e2298025a427e",
+      "startLine": 10927
+    }
+  ],
+  "eyebrow": "Zusammenarbeit / Berater und Fachanbieter",
+  "seoTitle": "Zusammenarbeit für Berater und Fachanbieter | EXOBASIS",
+  "description": "Bringe eine Empfehlung oder klar umrissene Fachleistung in einen EXOBASIS-Auftrag ein. Mit geklärter Kundenführung, Verantwortung, Übergabe und Vergütung.",
+  "intro": "<p>Du betreust Menschen, die ihre Familie, ihr Unternehmen oder ihr Vermögen auf einen möglichen Wegzug vorbereiten möchten. Deine Facharbeit beantwortet einen Teil davon. Unterkunft, Dokumente, Bankzugang und persönliche Umsetzung können weitere Zuständigkeiten erfordern.</p><p>EXOBASIS führt die beauftragte Vorbereitung zusammen und übernimmt die vereinbarte Organisations- und Ausführungsarbeit. Du kannst einen passenden Kundenbedarf empfehlen oder eine klar abgegrenzte Fachleistung einbringen. <a href=\"/de/anfrage/?anliegen=Fachliche%20Zusammenarbeit#kurzanfrage\">Zusammenarbeit anfragen</a>.</p>",
+  "summary": {
+    "kicker": "Eine klare Aufgabenverteilung",
+    "title": "Klare Verantwortung an jeder Übergabe.",
+    "facts": [
+      [
+        "Dein Beitrag",
+        "Kundenbedarf oder definierte Fachleistung"
+      ],
+      [
+        "EXOBASIS",
+        "Führung und Ausführung des vereinbarten Gesamtauftrags"
+      ],
+      [
+        "Gemeinsamer Rahmen",
+        "Leistung, Vertrag, Datenweg und Vergütung"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "b-rolle",
+      "title": "Empfehlung und Fachausführung sind zwei Wege",
+      "body": "<p>Du kannst einen Menschen an EXOBASIS verweisen, weil er Unterstützung jenseits deiner eigenen Leistung braucht. Dafür klären wir zunächst den Bedarf und den gewünschten Kontaktweg. Deine bestehende Beratung kann fortbestehen.</p><p>Wenn du selbst eine Fachleistung übernimmst, stimmen wir Ergebnis, Zuständigkeit und Schnittstellen ab. Dabei ist entscheidend, welches Land, welche Rechtsordnung oder welche örtliche Aufgabe du tatsächlich abdeckst. Ob ein Direktmandat des Kunden oder ein von EXOBASIS eingekaufter Auftrag passt, wird für die konkrete Arbeit festgelegt.</p>"
+    },
+    {
+      "id": "b-aufgaben",
+      "title": "Wo deine Fachleistung anschließen kann",
+      "body": "<p>Mögliche Schnittstellen reichen von Rechts- und Steuerfragen über Aufenthaltsverfahren und Urkunden bis zu Immobilienprüfung, örtlicher Einrichtung, Versorgung oder technischer Zugangsarbeit. Entscheidend ist der Beitrag zum benannten Kundenergebnis.</p><p>Eine unabhängige Kaufprüfung braucht beispielsweise einen klaren Objektbezug und die Unterlagen, auf deren Grundlage entschieden werden soll. Bei einer Gesellschaftsgründung gehören Rechtsform, tatsächliche Tätigkeit und laufende Pflichten zusammen. Bei einem Pflegeübergang müssen Transport und aufnehmende Versorgung zeitlich ineinandergreifen.</p><p>Wir vereinbaren, welche Vorarbeiten du erhältst, welches Ergebnis du lieferst und an welcher Stelle deine Rückmeldung für den nächsten Schritt benötigt wird. Vorhandene brauchbare Planung wird weiterverwendet.</p>"
+    },
+    {
+      "id": "b-kundenfuehrung",
+      "title": "Der Kunde soll wissen, wer wofür verantwortlich ist",
+      "body": "<p>EXOBASIS hält für den eigenen Auftrag den Zusammenhang zwischen den Leistungen und den Kontakt zum Kunden. Fachpersonen verantworten ihre fachlichen Aussagen und die von ihnen übernommene Arbeit. Bei einem eigenen Kundenmandat bleiben dessen Auftrags- und Kommunikationsregeln maßgeblich.</p><p>Vor Beginn werden Ansprechpartner, Rückfragen und Freigaben geordnet. Der Kunde erfährt, wer einen Vertrag schließt, wer abrechnet und wer sein Fachanliegen bearbeitet. Wenn ein Ergebnis Folgearbeit auslöst, wird diese mit Umfang und nächster Entscheidung benannt.</p><p>Der Ablauf von Aufgabenklärung bis Übergabe ist in <a href=\"/de/arbeitsweise/\">unserer Arbeitsweise</a> beschrieben.</p>"
+    },
+    {
+      "id": "b-datenuebergabe",
+      "title": "Mit einem umrissenen Fall beginnen",
+      "body": "<p>Für ein erstes Fachgespräch reichen Aufgabe, beteiligte Länder und ein anonymisierter Überblick, soweit sich der Fall damit sinnvoll besprechen lässt. Personenbezogene Unterlagen folgen erst, wenn Empfänger, Zweck und geeigneter Datenweg feststehen.</p><p>Eine Empfehlung gibt nicht automatisch das Recht, vollständige Kundenakten weiterzugeben. Für die konkrete Zusammenarbeit klären wir die zulässige Übermittlung und die benötigten Informationen. Gesetzliche Dokumentations-, Identifizierungs- und Aufbewahrungspflichten der beteiligten Stellen werden berücksichtigt. <a href=\"/de/diskretion/\">Mehr zum Umgang mit vertraulichen Informationen</a>.</p>"
+    },
+    {
+      "id": "b-konditionen",
+      "title": "Leistung und Konditionen vor der Ausführung klären",
+      "body": "<p>Eine belastbare Zusammenarbeit braucht ein benanntes Ergebnis, einen Umfang, Kosten und einen realistischen Zeitraum. Wir klären außerdem, welche Mitwirkung erforderlich ist, wie Änderungen beauftragt werden und in welcher Form die Übergabe erfolgt.</p><p>Vergütung und etwaige Empfehlungsregelungen werden individuell vereinbart. Dabei sind die berufsrechtlichen Regeln der beteiligten Fachpersonen und mögliche Interessenkonflikte zu berücksichtigen. Für eine längerfristige Zusammenarbeit werden ihr Umfang und etwaige Bindungen ausdrücklich festgelegt.</p><p>Die konkrete Verfügbarkeit wird vor einer Zusage mit dem benötigten Zeitraum und dem Kundenergebnis abgestimmt.</p>"
+    },
+    {
+      "id": "b-anfrage",
+      "title": "Welche konkrete Zusammenarbeit schlägst du vor?",
+      "body": "<p>Beschreibe dein Fachgebiet, die tatsächlich betreuten Länder, deinen möglichen Beitrag und ob es um einen vorhandenen Kundenbedarf oder ein allgemeines Leistungsangebot geht. Ein passender öffentlicher Fach- oder Leistungsnachweis hilft bei der Einordnung.</p><p>Bitte sende im Erstkontakt eine knappe Beschreibung ohne vertrauliche Kundenunterlagen. Den weiteren Austausch stimmen wir anhand der Aufgabe ab. <a href=\"/de/anfrage/?anliegen=Fachliche%20Zusammenarbeit#kurzanfrage\">Fachliche Zusammenarbeit anfragen</a>.</p>"
+    }
+  ],
+  "linkPlan": [
+    {
+      "sourceLine": 784,
+      "target": "/de/",
+      "label": "EXOBASIS: Eine eigene Basis außerhalb des Herkunftslands",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 786,
+      "target": "/de/arbeitsweise/",
+      "label": "Wie EXOBASIS arbeitet",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Vertrauens-/Ablaufabschnitt vor Auftrag"
+    },
+    {
+      "sourceLine": 787,
+      "target": "/de/diskretion/",
+      "label": "Diskretion und geschützte Zusammenarbeit",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Am Anfrageübergang: geschützte Zusammenarbeit"
+    },
+    {
+      "sourceLine": 788,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 789,
+      "target": "/en/collaboration/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    }
+  ],
+  "faq": {
+    "question": "Kann ich einen Kunden mit fertiger Planung einbringen?",
+    "answer": "Ja. Wir sehen uns die verwendbare Vorarbeit an und grenzen die noch benötigte Ausführung ab. Deine Rolle, das Kundenmandat und die Übergabe der erforderlichen Informationen werden vor Beginn geklärt."
+  },
+  "displayTitle": "Deine Facharbeit. Ein gemeinsam geführter Kundenauftrag."
+}

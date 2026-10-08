@@ -1,0 +1,214 @@
+{
+  "route": "/de/laender/zypern/",
+  "lang": "de",
+  "title": "Zypern als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/cyprus/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-1bec19c07c91e0",
+      "startLine": 16230
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-8e35d888aba839",
+      "startLine": 20619
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Zypern als Plan B | EXOBASIS",
+  "description": "Prüfe Zypern für deine Familie: passende Aufenthaltswege, Wohnort, Versorgung und konkrete Vorbereitung mit EXOBASIS.",
+  "intro": "<p>Du willst eine andere Grundlage für Familie und Unternehmen schaffen. Zypern verlangt dabei einen nüchternen Blick auf Aufenthaltsrechte, Inselversorgung und das regionale Konfliktumfeld. Steuerliche oder unternehmerische Vorteile werden mit deinem tatsächlichen Lebens- und Sicherheitsziel abgeglichen.</p>",
+  "countryContext": "/de/laender/zypern/",
+  "linkPlan": [
+    {
+      "sourceLine": 1228,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1230,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1231,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1232,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1233,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1234,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1235,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1236,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1237,
+      "target": "/en/countries/cyprus/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1500,
+      "target": "/de/laender/griechenland/",
+      "label": "Griechenland als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1502,
+      "target": "/de/laender/malta/",
+      "label": "Malta als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Your Europe: Residence rights",
+      "url": "https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "Republic of Cyprus: Immigration permits for investors",
+      "url": "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "official_indexed_text",
+      "limitation": "Direktabruf 403; offizieller indexierter Text gelesen. Nur Regulation-6(2)-Kategorienlogik übernommen, keine Beträge, Laufzeit- oder aktuelle Detailzusage."
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Vorbereitung für Zypern anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "country": {
+    "name": "Zypern",
+    "slug": "zypern",
+    "region": "Europa",
+    "map": "countries/zypern-locator.svg",
+    "imageAlt": "Lagegrafik: Zypern. Geografische Orientierung, keine Sicherheitsbewertung.",
+    "caption": "Geografische Orientierung. Keine Reise-, Sicherheits- oder Grenzbewertung.",
+    "summary": [
+      [
+        "Familie und Unternehmen",
+        "Wohn- und Geschäftsaufgaben gemeinsam planen, rechtlich getrennt prüfen."
+      ],
+      [
+        "Insel im Mittelmeer",
+        "Regionales Konfliktumfeld und tatsächliche Erreichbarkeit berücksichtigen."
+      ],
+      [
+        "Passender Rechtsweg",
+        "Vorhandene Personenrechte vor einem neuen Investitionsauftrag prüfen."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Passende Ausgangslage",
+      "body": "<p>Zypern ist zu prüfen, wenn du einen Wohn- oder Unternehmensstandort im europäischen Umfeld suchst. Der Nutzen eines Geschäftsstandorts ist dabei nicht automatisch der Nutzen einer Familienbasis. Entscheidend sind dein konkreter Aufenthaltsweg, die Rechte deiner Angehörigen und ein Wohnort mit verlässlicher Versorgung. Eine Gesellschaftsadresse oder ein Steuerargument allein stellt diese Voraussetzungen nicht her.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Krisenbasis und Rückkehr",
+      "body": "<p>Eine Basis auf Zypern bleibt mit dem regionalen Umfeld des östlichen Mittelmeers verbunden. Betrachte deshalb Anreise, mögliche Störungen der Verbindungen und Inselversorgung ausdrücklich in deinem Szenario. Eine vorhandene Immobilie hilft erst, wenn alle Angehörigen rechtmäßig ankommen und den Haushalt tatsächlich nutzen können. Plane auch den Rückweg und die nötigen Mittel für einen längeren Aufenthalt, nicht nur die erste Einreise. Die Insel liegt im östlichen Mittelmeer und muss daher gegen dein konkretes Krisenszenario geprüft werden, auch wenn EU-Rechte die rechtliche Niederlassung erleichtern. Plane Flugzugang, Versorgung, Unterkunft und eine alternative Rückreise zusammen. Der Standort einer Gesellschaft gibt der Familie keinen zusätzlichen Reiseweg.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Dauerhafte Zukunft für die Familie",
+      "body": "<p>Die Familienentscheidung beginnt bei den Personen, die dort leben sollen. Schule, Sprache, medizinischer Bedarf und erreichbare Betreuung bilden gemeinsam den Suchrahmen für den Wohnort. Ein längerfristiger Mietvertrag oder Kauf sollte erst zu dieser Auswahl passen. Auch zeitversetzte Ankunft und weiterlaufende Verpflichtungen im bisherigen Land müssen organisiert werden, damit nicht ein Elternteil sämtliche offenen Aufgaben allein auffängt. Für berechtigte EU-Bürger und ihre Familien ist zuerst der vorhandene Rechtsrahmen zu klären; ein Investorenprogramm ist dafür keine Pflicht. Drittstaatsangehörige benötigen eine andere Zuordnung. Erst mit Schulaufnahme, erreichbarer Fachbehandlung und passender Wohnlage wird aus einem rechtlichen Weg ein tragfähiger Familienalltag.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Mobile Nutzung",
+      "body": "<p>Bei wechselnden Wohnorten zählen Aufenthaltsdauer, zulässige Tätigkeit, Wiederkehr und laufende Verpflichtungen. Ein zyprischer Firmenbezug macht deinen persönlichen Aufenthalt nicht automatisch dauerhaft nutzbar. Ordne berufliche Tätigkeit und Familienleben dem richtigen rechtlichen Rahmen zu. Wer die Insel nur phasenweise nutzt, braucht außerdem eine geregelte Betreuung der Unterkunft und erreichbare Hilfe während eigener Abwesenheit.</p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Vorhandene Rechte und passende Wege",
+      "body": "<p>Für berechtigte Personen kommen vorhandene EU-Rechte vor einem neu zu beschaffenden Investorenweg. Die Migrationsbehörde der Republik Zypern beschreibt daneben eine Investoren-Aufenthaltsgenehmigung nach Regulation 6(2). Ihre Kapital-, Nachweis- und Angehörigenbedingungen sind als eigener Weg zu prüfen. Eine Beteiligung oder ein Immobilienerwerb allein ist keine allgemeine Erlaubnis für jede Tätigkeit. Rechtliche Zuständigkeit und Objektlage müssen eindeutig sein; Aussagen über die Republik werden nicht auf andere Verwaltungsgebiete übertragen. Die EU-Freizügigkeit für tatsächlich Berechtigte und der zyprische Investorenweg nach Regulation 6(2) haben verschiedene Voraussetzungen und Adressaten. Der amtliche Investorenhinweis beschreibt Kapital-, Einkommens- und Angehörigennachweise; eine eingereichte Bewerbung allein ist noch keine Aufenthaltsentscheidung. Beziehe Aussagen der Republik Zypern nur auf deren zuständige Rechtsordnung.</p><p class=\"exb-citation\">Fachquelle: <a href=\"https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm\" rel=\"noreferrer\">Your Europe: Residence rights</a></p><p class=\"exb-citation\">Fachquelle: <a href=\"https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/\" rel=\"noreferrer\">Republic of Cyprus: Immigration permits for investors</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fzypern%2F#kurzanfrage\">Vorbereitung für Zypern anfragen</a><p>Eine konkrete Teilaufgabe ist direkt anfragbar. Persönliche Unterlagen folgen erst im vereinbarten geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Regionen und Wohnen",
+      "body": "<p>Vergleiche konkrete Wohnlagen nach Alltag und Erreichbarkeit: Schule, Fachmedizin, Arbeitsplatz und verlässliche Versorgung müssen zur Unterkunft passen. Bei einem Kauf gehören Eigentum, Belastungen und die zuständige Rechtsordnung in eine unabhängige Objektprüfung. Die Organisationsaufgabe ist davon getrennt: geeignete Auswahl, vorbereitete Besichtigungen, Übergabe und ein funktionierender Haushalt bei Ankunft.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Ankunft im Zielland organisieren</a></p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Gesundheit und Pflege",
+      "body": "<h3>Kinder und Angehörige</h3><p>Schulplätze, Sprache und Betreuungszeiten müssen zur Wohnlage passen. Die Berechtigung einzelner Angehöriger wird nicht aus dem Titel des Hauptantragstellers geraten. Eine Schuladresse ohne bestätigte Aufnahme und passenden Weg von der Wohnung hilft der Familie nicht. Für Behandlung und Pflege prüfen wir erreichbare Einrichtungen, Versicherungsbedingungen und individuelle Aufnahme. Inselversorgung und die tatsächliche Wohnlage gehören dabei zusammen, nicht in eine abstrakte Lebensqualitätswertung.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a></p><h3>Versicherung und Behandlung</h3><p>Kläre Leistungsdeckung und konkrete Behandlungsmöglichkeiten am Ort getrennt.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a></p><h3>Pflege und Begleitung</h3><p>Medikamente, regelmäßige Hilfe und bei Bedarf weitere medizinische Wege gehören vor dem Umzug in den Ablauf.</p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Einkommen, Geld und Arbeitsplatz",
+      "body": "<p>Trenne Unternehmensstruktur, persönliche Tätigkeit, Steuerpflichten und die Zahlungen des Haushalts. Ein wirtschaftlicher Vorteil kann neben zusätzlichen Anforderungen an tatsächliche Leitung, Nachweise oder Verwaltung stehen. Diese Fragen brauchen passende Fachzuständigkeit. Organisatorisch muss sichergestellt sein, dass Miete, Schule und Versorgung bezahlt werden können und dein laufendes Einkommen während des Standortwechsels erreichbar bleibt. Unternehmensstandort, persönliche Erwerbstätigkeit und verfügbare Haushaltsmittel werden getrennt kalkuliert. Ob eine Gesellschaft ihren tatsächlichen Leitungspflichten entspricht und welche Steuern anfallen, gehört in den jeweiligen Fachauftrag. Weder eine zyprische Aufenthaltsgenehmigung noch eine Firmenadresse bestimmt allein deine Steueransässigkeit.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Dokumente und Vorlauf",
+      "body": "<p>Wähle zuerst den konkreten Aufenthaltsgrund. Danach lassen sich persönliche Nachweise, Familienunterlagen, Versicherungs- und gegebenenfalls Investitionsdokumente zielgerichtet beschaffen. Bestätige die akzeptierte Fassung und die nötige Anwesenheit, bevor du Reisen und Termine verbindlich verknüpfst. Objektprüfung, Antrag und eingerichtete Ankunft erhalten eigene Nachweise. Keiner dieser Schritte ersetzt die Entscheidung der zuständigen Stelle. Wir beginnen mit der persönlichen EU-Berechtigung oder dem konkret passenden Drittstaatsweg und ordnen danach Familien-, Versicherungs- und gegebenenfalls Investitionsnachweise. Ein Immobilienvertrag wird erst nach Prüfung von Eigentum, Belastungen und zuständigem Recht als Teil dieses Wegs behandelt. Reise und persönliche Termine folgen den behördlichen Anforderungen.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a></p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Laufende Pflichten",
+      "body": "<p>Pflege Aufenthaltsnachweise, gegebenenfalls fortbestehende Investitionsbedingungen und die tatsächliche Unterkunft getrennt. Halte fest, welche Änderungen der Familie, Tätigkeit oder Vermögenssituation eine erneute Prüfung auslösen. Eine zweite Basis braucht laufende Betreuung auch dann, wenn sie gerade nicht genutzt wird. Dazu gehören erreichbare Kontakte, Rechnungen, Haustechnik und bestätigte Vorbereitung vor dem nächsten Aufenthalt. Bei einem Investorenweg können fortbestehende Bedingungen zu prüfen sein; bei EU-Rechten ändern Familien- oder Erwerbsverhältnisse die erforderlichen Nachweise. Für die zeitweise Basis bleiben Unterkunft und Inselzugang einsatzfähig zu halten. Die Rückkehr in das bisherige Land verlangt eine eigene Prüfung von Wohnung, Arbeit und Steuern.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a></p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Konkrete Vorbereitung",
+      "body": "<p>EXOBASIS kann deinen zyprischen Standortvergleich und die anschließende Vorbereitung organisatorisch führen. Wir verbinden Dokumentenarbeit, Fachtermine, Wohnraumauswahl und Ankunft mit deinen familiären und wirtschaftlichen Anforderungen. Juristische und steuerliche Entscheidungen bleiben klar zugeordnet. Du beauftragst die konkrete Arbeit, die dir fehlt, nicht automatisch ein Unternehmen, einen Immobilienkauf oder eine vollständige Auswanderung.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen</a></p><h3>Passende Vergleichsoptionen</h3><div class=\"exb-country-related\"><article><a class=\"exb-text-link\" href=\"/de/laender/griechenland/\">Griechenland als persönliche Ausweichoption</a><p>Griechenland erweitert den Vergleich um Festlands- und Inselstandorte mit eigenen Aufenthalts- und Objektbedingungen.</p></article><article><a class=\"exb-text-link\" href=\"/de/laender/malta/\">Malta als persönliche Ausweichoption</a><p>Malta stellt andere Anforderungen an Wohnraum, Kostenbestandteile und Familienversorgung auf einer kleinen Insel.</p></article></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fzypern%2F#kurzanfrage\">Vorbereitung für Zypern anfragen</a><p>Eine konkrete Teilaufgabe ist direkt anfragbar. Persönliche Unterlagen folgen erst im vereinbarten geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Reicht eine Gesellschaft auf Zypern als vorbereitete Familienbasis?",
+    "answer": "Nein. Gesellschaft, persönliche Aufenthaltsrechte, zulässige Tätigkeit und tatsächliche Unterkunft sind getrennte Voraussetzungen. Sie werden erst im persönlichen Plan zusammengeführt."
+  }
+}

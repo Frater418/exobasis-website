@@ -1,0 +1,120 @@
+{
+  "route": "/en/provider-information/",
+  "lang": "en",
+  "title": "Provider information",
+  "parent": "/en/",
+  "translation": "/de/anbieterinformationen/",
+  "model": "recht-funktion",
+  "schemaVersion": 1,
+  "kind": "legal",
+  "reviewStatus": "blocked_required_facts",
+  "releaseStatus": "blocked_required_facts",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-e77c248e017881",
+      "startLine": 628
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-caee7211af0c0f",
+      "startLine": 868
+    }
+  ],
+  "eyebrow": "EXOBASIS / Legal information",
+  "seoTitle": "Provider information | EXOBASIS",
+  "description": "EXOBASIS provider identity, contact and legal particulars.",
+  "intro": "<p>EXOBASIS is the brand for arranging a prepared base abroad. For legal notices and contractual questions, the identity of the provider responsible for the actual assignment is what matters.</p>",
+  "sections": [
+    {
+      "id": "i-anbieter",
+      "title": "Responsible provider",
+      "body": "<p>EXOBASIS is a brand for arranging international preparations. The brand alone is not a contracting party or a legal form. What matters is the legal entity named in the actual offer, accepting the assignment and issuing the invoice.</p><p>A reliable provider identification requires that entity’s full legal name, legal form and authorised representative. An operational base in a country does not establish that identity.</p>",
+      "reviewRequirements": [
+        "Full legal name and legal form",
+        "Authorised representative(s)",
+        "Confirmation of the entity entering contracts and issuing invoices"
+      ]
+    },
+    {
+      "id": "i-anschrift",
+      "title": "Address for legal correspondence",
+      "body": "<p>The operational base in the Dominican Republic describes where the project works. It is not automatically the address for legal notices. A complete address for service, including locality and country, must belong to the responsible provider and be used with authority. A specialist’s address or a post box does not replace it without a relevant legal basis.</p>",
+      "reviewRequirements": [
+        "Verified address for legal notices, including country",
+        "Confirmation that this address may be used"
+      ]
+    },
+    {
+      "id": "i-kontakt",
+      "title": "Direct contact",
+      "body": "<p>For organisational questions, use <a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a>. Asking a legal question does not require an orientation call or a purchase. A public, copyable way to contact the responsible provider directly must also be available independently of the enquiry form.</p><p>The <a href=\"/en/service-terms/\">Service and contract terms</a> explain the contractual steps. Information about personal data belongs in the <a href=\"/en/privacy/\">Privacy notice</a>.</p>",
+      "reviewRequirements": [
+        "Actual public email address",
+        "Any further required direct contact channel",
+        "A successful test of the chosen enquiry route"
+      ]
+    },
+    {
+      "id": "i-register",
+      "title": "Registration and competent authorities",
+      "body": "<p>Registration, tax and professional details, where applicable, must refer to the actual legal provider. A separate specialist’s registration or licence is not the EXOBASIS provider’s registration. Only verified, applicable authorities and identifiers for that provider can be published here.</p><p>For a specific question about the provider, use <a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a>. An enquiry cannot replace a required legal particular.</p>",
+      "reviewRequirements": [
+        "Applicable registry and registration number",
+        "Tax/VAT information where legally applicable",
+        "Relevant licences and competent bodies, or confirmed non-applicability"
+      ]
+    }
+  ],
+  "linkPlan": [
+    {
+      "sourceLine": 816,
+      "target": "/en/",
+      "label": "EXOBASIS: Your own base beyond your home country",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 818,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 819,
+      "target": "/en/service-terms/",
+      "label": "Service and contract terms",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Vor dem kommerziellen Anfrage-/Angebotsübergang"
+    },
+    {
+      "sourceLine": 820,
+      "target": "/en/privacy/",
+      "label": "Privacy notice",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Am Formular beziehungsweise rechtlicher Querverweis"
+    },
+    {
+      "sourceLine": 821,
+      "target": "/de/anbieterinformationen/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    }
+  ],
+  "legalType": "provider",
+  "releaseBlockers": [
+    "Full legal name and legal form",
+    "Authorised representative(s)",
+    "Confirmation of the entity entering contracts and issuing invoices",
+    "Verified address for legal notices, including country",
+    "Confirmation that this address may be used",
+    "Actual public email address",
+    "Any further required direct contact channel",
+    "A successful test of the chosen enquiry route",
+    "Applicable registry and registration number",
+    "Tax/VAT information where legally applicable",
+    "Relevant licences and competent bodies, or confirmed non-applicability"
+  ]
+}

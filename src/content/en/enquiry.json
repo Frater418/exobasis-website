@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/enquiry/",
+  "lang": "en",
+  "title": "Private enquiry",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c888526408108c"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-6c8907c39297e7"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "kind": "enquiry",
+  "eyebrow": "Contact EXOBASIS",
+  "seoTitle": "Enquire about your Plan B or a specific task | EXOBASIS",
+  "description": "Ask EXOBASIS to organise a specific task, prepare your Plan B or discuss where to start in a free 20-minute orientation call.",
+  "intro": "<p>You want a way to act before war, political pressure or a loss of access to your money leaves your family with fewer choices. Tell us what you want to put in place: a second base, documents, banking access, a property search, business continuity or a plan that brings the preparations together.</p><p>Buying a property can be a stand-alone assignment. Ask us to organise the search and viewings, arrange independent local title and contract checks, and coordinate completion and handover. Our <a href=\"/en/services/arrange-arrival/\">property purchase and arrival services</a> explain how the work fits together.</p><p>If you already know the work you need, ask us to take it on directly. If the first step is still unclear, start with a free orientation call. A short outline and a reply address are enough; the destination can remain open.</p>",
+  "orientation": {
+    "title": "A free 20-minute orientation call",
+    "body": "Explain what you want to protect and where you need help. We discuss whether EXOBASIS is a fit, which work makes sense and how to proceed. You can request this call on its own. It is separate from the paid, prepared 60-minute initial assessment.",
+    "button": "Request an orientation call",
+    "intent": "Orientation call"
+  },
+  "writing": {
+    "id": "prefer-to-write",
+    "title": "Ask us to carry out a specific task",
+    "body": "Tell us the result you need and anything already arranged: an apostille, a residence application, an account-opening process, a home search or care for an existing base. We clarify the scope, the work we will carry out and any specialist involvement. You do not need to buy an assessment or a complete plan first."
+  },
+  "protected": {
+    "id": "encrypted-contact",
+    "title": "Keep personal details for a protected exchange",
+    "body": "<p>The CryptPad and SimpleX contact routes are not connected on this website yet. Their status is shown alongside them. For work that needs personal documents, we agree a protected exchange and who needs access before you share them.</p><p>Keep your first public message to the task. Leave out passport copies, bank statements, medical details, asset inventories and information about other people. Passwords, recovery codes and private keys stay with you.</p>"
+  },
+  "form": {
+    "id": "short-enquiry",
+    "title": "Start with a short enquiry",
+    "intro": "Choose your enquiry topic and reply language, then provide an email address for our reply. Your name and message are optional. If you add a message, describe the task rather than your private circumstances.",
+    "previewNotice": "Local form preview: sending is not connected. You can check the required fields here, but this form does not transmit or store your enquiry."
+  },
+  "next": {
+    "id": "what-happens-next",
+    "title": "From your enquiry to an agreed task",
+    "steps": [
+      [
+        "Clarify the task",
+        "After your message has been sent, we use the reply route you supplied to clarify what you want done and any information still needed. If you requested a call, we arrange the appointment separately."
+      ],
+      [
+        "Agree the work",
+        "You receive a defined scope and costs before commissioning work. EXOBASIS carries out the agreed tasks and organises any necessary specialist work. You can choose a single job, an initial assessment or a wider preparation plan."
+      ],
+      [
+        "Provide what the work needs",
+        "We agree the necessary information and a protected route for personal documents. Details you have already given us are carried forward for you to confirm or correct."
+      ]
+    ]
+  },
+  "existing": {
+    "id": "existing-assignment",
+    "title": "Already working with EXOBASIS?",
+    "body": "<p>Continue through your agreed contact and protected channel. You can ask about your existing assignment without repeating the initial intake.</p><p>If you have lost your usual contact route, start with a brief message asking to re-establish contact. We check identity and authority before discussing the assignment. For an agreed activation, use the activation route arranged with you; this public form is not an emergency response channel.</p>"
+  },
+  "displayTitle": "Enquire about your Plan B"
+}

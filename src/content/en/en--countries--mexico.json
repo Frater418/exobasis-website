@@ -1,0 +1,197 @@
+{
+  "route": "/en/countries/mexico/",
+  "lang": "en",
+  "title": "Mexico as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/mexiko/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-ce454afdc4e3b9"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-6b5529cc4750d7"
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Mexico: residence and a prepared family base | EXOBASIS",
+  "description": "Assess a specific Mexican region and the consular residence route. Coordinate accepted evidence, accommodation and arrival for your family.",
+  "intro": "<p>You want to direct your own life and create a dependable alternative for your family. Mexico is a regional decision. The appropriate consular route, living environment and access to essential services must support the same practical plan.</p>",
+  "primary": {
+    "label": "Ask us to prepare your Mexico option",
+    "intent": "General enquiry"
+  },
+  "countryContext": "/en/countries/mexico/",
+  "country": {
+    "name": "Mexico",
+    "slug": "mexiko",
+    "region": "Central America and the Caribbean",
+    "map": "countries/mexiko-locator.svg",
+    "imageAlt": "Locator map of Mexico. The highlight shows location, not a safety rating.",
+    "caption": "Geographic orientation, not a travel, safety or boundary assessment.",
+    "summary": [
+      [
+        "Consulate and location",
+        "Assess the procedure and actual living area together."
+      ],
+      [
+        "Use the right evidence",
+        "Do not copy another consulate’s financial checklist."
+      ],
+      [
+        "Plan beyond the visa",
+        "Connect the residence card with arrival and family life."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "Your starting point",
+      "body": "<p>Mexico requires two decisions that need to work together: a suitable residence route and a specific living area. Your family needs more than a national average. It needs a place that supports schooling, care, work and arrival. Even for a reserve base, the consular process is a beginning, not a completed daily life.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "Contingency base and return",
+      "body": "<p>Compare a named region against your scenario. The local situation, the journey and access to the accommodation matter more than a holiday destination’s reputation. Plan travel all the way to the home, including a contact for changes or delays. A distant region is useful only if flights, onward travel and access to the home work for your actual passports. Keep the necessary documents and payment routes in the former country for the return. If you use the option repeatedly, check that status and any change of location fit your pattern of stays.</p><p>Consider a stay that lasts longer than originally intended. Record each person’s entry position, permitted stay and route back separately. Acceptance of a visa application does not establish usable accommodation, payment access or care.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "A lasting future for your family",
+      "body": "<p>Family planning starts with the people and the intended duration. The main applicant’s route, accompanying relatives and school admissions must be considered together. A temporary residence document is not the same result as a lasting family option. A permanent family move needs more than the main applicant’s route: partners and children each need a suitable basis and accepted relationship evidence. School choice in Mexico must bring teaching language, admission and the ordinary journey from home together; an established international community is not a substitute.</p><p>At the chosen location, teaching language, healthcare access, the neighbourhood and daily journeys matter. We assess them before a long-term accommodation commitment. A useful exploratory visit tests ordinary life and relevant appointments, not just appealing weekends.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Mobile living",
+      "body": "<p>Intermittent use requires appropriate status and an organised base. Agree what happens to accommodation, correspondence, documents and necessary appointments during an absence, alongside re-entry and permitted activities.</p><p>Visitor stays are not presented as permanent settlement. Actual use determines the route to assess. Repeated entries replace neither a suitable category nor the follow-up steps required for your stay.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Existing rights and suitable routes",
+      "body": "<p>Mexican consular authorities distinguish temporary and permanent residence visas and several grounds for eligibility. Financial evidence and its local application need to be established for the responsible office. The figures or document checklist from an arbitrary consulate should not be used as your personal application checklist. Consular guidance distinguishes temporary and permanent residence routes with different family or financial grounds. The responsible consulate reviews the originals; for a relevant visa, the local residence card is then processed through INM. Figures from another consulate or a visa without the follow-up step are not a completed right to stay.</p><p>Under the relevant temporary residence visa process, entry is followed by a separate INM step for the residence card. We connect the consular assessment to those local tasks. A visa, a residence card and a fully prepared home remain different outcomes.</p><p class=\"exb-source-note\"><a href=\"https://embamex.sre.gob.mx/chile/index.php/servicios-consulares/visas\" rel=\"noreferrer\">Secretaría de Relaciones Exteriores, México</a> <span>Source checked: 26.09.2026</span></p><p class=\"exb-source-note\"><a href=\"https://consulmex.sre.gob.mx/saintpaul/index.php/se/visesp/5-seccion/235-residente-temporal\" rel=\"noreferrer\">Consulado de México en Saint Paul</a> <span>Source checked: 26.09.2026</span></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fmexico%2F#short-enquiry\">Ask us to prepare your Mexico option</a><p>You can ask us to handle a defined task directly. Personal documents belong in the protected exchange agreed for the work.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Regions and housing",
+      "body": "<p>Assess Mexico by region and the actual living environment. Consider practical daily journeys, school, treatment and access to your workspace together. Distances or dependence on one transport route may matter more to your family than a general cost-of-living comparison.</p><p>An organised exploratory visit addresses those questions before a long-term rental or purchase. For an agreed region, viewings, handover, initial setup and arrival can be coordinated as a defined engagement.</p><p><a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Arrange your arrival abroad</a></p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schooling, healthcare and care",
+      "body": "<h3>Children and relatives</h3><p>Match family records, residence routes and school documents to each person. Teaching language, the school calendar and travel to school may change the location choice. A school somewhere in the area is not a confirmed place for your child. For children, establish whether the proposed school is reliably reachable from the home and which records it actually accepts. Medical suitability means confirming admission, language, treatment and payment for the person’s needs at that location. Care requirements may narrow the regional choice more than an attractive rental.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare to move abroad with children and family</a></p>\n<h3>Insurance and treatment</h3><p>Regular treatment needs an identified provider with an acceptance and payment route. Check the actual insurance cover and the journey from your home. National averages have limited value for that decision.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and care abroad</a></p>\n<h3>Care and support</h3><p>Support needs, medication and equipment must fit everyday life. Coordinate them with the responsible professionals and the intended local providers before the family depends on those arrangements.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Income, money and work",
+      "body": "<p>Income or asset evidence for a procedure and everyday payment access are distinct questions. Establish how rent, schooling, treatment and existing commitments will be paid, including a permitted backup arrangement. Financial evidence for the consulate must support the applicable category, while the household still needs to pay rent, treatment and school fees. For self-employed people, specialists assess permitted activity locally and where management and tax obligations arise. A Mexican residence card does not automatically end tax residence elsewhere.</p><p>For professional activity, connect residence and work conditions with tax ties and operational access. A foreign client or existing account does not automatically settle the legal position. The necessary professional assessment is included in the practical sequence.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Documents and preparation time",
+      "body": "<p>First establish the responsible consular route and appropriate category. Then assemble accepted income, identity and family evidence and coordinate personal appointments. Subsequent local processing is planned before travel. Start with the consulate responsible for the application, not a financial threshold copied from another mission. We match identity, family and means evidence to that procedure, then plan the required INM step and practical arrangements at the chosen home.</p><p>This avoids a folder that looks complete but was prepared for a different receiving office. We track submissions, missing records and further tasks to the agreed outcome. Private documents are not collected through this country profile.</p><p><a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a></p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Ongoing obligations",
+      "body": "<p>Residence maintenance, local records, reachable contacts and the accommodation need to stay current. A change of region, activity or family circumstances may require a fresh assessment. Ongoing support is scoped around those dependencies. For a reserve base, the residence card, recorded address and reachable contact need to match actual use. A change in family, work or region prompts a review of the relevant evidence and local procedures. Planned return to the former country also leaves its home, business and tax obligations to manage separately.</p><p>For an intermittently used base, identify who checks the property and which obligations continue while you are away. A one-off arrival engagement does not automatically include continuing maintenance.</p><p><a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Review and maintain your preparations</a></p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Practical preparation",
+      "body": "<p>EXOBASIS connects the relevant consular procedure with practical preparation in your chosen Mexican region. We coordinate documents, appointments, required professional input and the agreed accommodation and arrival tasks.</p><p>The value is a workable sequence and managed execution across several organisations. Existing advisers and suitable groundwork are included. Where Mexico’s suitability remains open, an individual comparison comes before an unnecessary commitment to a property.</p><p><a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Choose suitable countries and locations</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fmexico%2F#short-enquiry\">Ask us to prepare your Mexico option</a><p>You can ask us to handle a defined task directly. Personal documents belong in the protected exchange agreed for the work.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div><div class=\"exb-country-comparisons\"><h3>Two other ways to approach the same question</h3><article><p><a class=\"exb-text-link\" href=\"/en/countries/costa-rica/\">Costa Rica as a personal alternative</a></p><p>Costa Rica: compare the residence sequence and healthcare arrangements with the specific needs of your Mexican location.</p></article><article><p><a class=\"exb-text-link\" href=\"/en/countries/panama/\">Panama as a personal alternative</a></p><p>Panama: consider whether separating the home base from specialist-service locations provides a better fit.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Can I use the requirements of any Mexican consulate?",
+    "answer": "The route responsible for your application matters. We align the required evidence and appointments with that procedure."
+  },
+  "editorialSources": [
+    "mx",
+    "mx2"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 1018,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1020,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1021,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1022,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1023,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1024,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1025,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1026,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1027,
+      "target": "/de/laender/mexiko/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1457,
+      "target": "/en/countries/costa-rica/",
+      "label": "Costa Rica as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1459,
+      "target": "/en/countries/panama/",
+      "label": "Panama as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/familie-alltag/pflege-medikamente/",
+  "lang": "de",
+  "title": "Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-126e16521eac4a"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-74f0fcc5325c1d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-be7b4f69cc6f25"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "EXOBASIS Wissen",
+  "seoTitle": "Pflege und Medikamente beim Auswandern | EXOBASIS",
+  "description": "Pflegebedürftige Angehörige mitnehmen, nachholen oder versorgen lassen: Transport, Medikamente, Hilfsmittel und Übernahme am Ziel vorbereiten.",
+  "intro": "<p>Du willst gehen können, ohne deine Eltern mit ihrer Pflege oder Behandlung zurückzulassen. Wenn Krieg oder persönliche Bedrohung deinen Zeitrahmen verkürzen, wird dieser Konflikt besonders hart: Für dich mag eine Reisebuchung reichen. Für einen pflegebedürftigen Menschen braucht es einen durchgehenden Versorgungsweg.</p><p>Dieser Weg beginnt beim heutigen Tagesbedarf und endet erst, wenn am Ziel jemand die Betreuung tatsächlich übernimmt. Medikamente, Transportfähigkeit, Hilfsmittel, Finanzierung und Vertretung gehören in denselben Ablauf.</p>",
+  "primary": {
+    "label": "Versorgungsübergang vorbereiten lassen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Versorgung vom heutigen Zuhause bis zum neuen Ort",
+    "facts": [
+      [
+        "Kontinuität",
+        "Behandlung, Pflege und Medikamente verbinden"
+      ],
+      [
+        "Transport",
+        "Eignung und Begleitung fachlich bestätigen"
+      ],
+      [
+        "Übernahme",
+        "Zuständige Stelle und erster Termin am Ziel"
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift als Symbol für geordnete Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Was täglich gebraucht wird, bestimmt den Plan",
+      "body": "<p>Erfasse gemeinsam mit der betroffenen Person und ihrer Betreuung einen gewöhnlichen Tag und eine schwierige Nacht: Hilfe beim Aufstehen, Körperpflege, Essen, Toilettengang, Orientierung, Medikamenteneinnahme und Schlaf. Ergänze Hilfsmittel und technische Abhängigkeiten wie Strom, Kühlung oder eine zuverlässige Verbindung zur behandelnden Stelle.</p><p>Daraus entstehen drei mögliche Abläufe: gemeinsame Abreise, spätere Nachholung nach Einrichtung am Ziel oder vorerst abgesicherte Versorgung am bisherigen Ort. Jede Variante benötigt eine namentlich verantwortliche Person und einen Ersatz, falls sie ausfällt. Die Entscheidung berücksichtigt den eigenen Willen der Angehörigen und die medizinisch tragfähigen Möglichkeiten.</p>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Behandelnde und übernehmende Fachstellen zusammenbringen",
+      "body": "<p>Bitte die bisherige Behandlung um eine verständliche Übergabe: Diagnosen, aktuelle Medikation mit Wirkstoffen und Dosierungen, Allergien, relevante Befunde, notwendige Therapien, Warnzeichen und Ansprechpartner. Die medizinischen Entscheidungen treffen die behandelnden Fachpersonen.</p><p>Die empfangende Praxis, Einrichtung oder Pflegeorganisation braucht diese Informationen rechtzeitig, um die tatsächliche Übernahme bestätigen zu können. Kläre, ab wann welche Leistung erbracht wird, wer außerhalb der regulären Zeiten erreichbar ist und welche Unterlagen in welcher Sprache benötigt werden.</p><p>Bleibt ein Angehöriger zunächst zurück, gelten dieselben Anforderungen für die Betreuung vor Ort. Bank- und Vertretungswege sowie ein verlässlicher Kontakt zu dir müssen eingerichtet sein, bevor du abreist.</p>"
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Medikamente beim Auswandern: Mitnahme und Nachversorgung trennen",
+      "body": "<p>Für eine grenzüberschreitende Verschreibung innerhalb der EU nennt Your Europe unter anderem vollständige Patientendaten, Ausstellungsdatum, Angaben und Kontakt der verschreibenden Person sowie Wirkstoff, Darreichungsform, Menge, Stärke und Dosierung. Ein Markenname allein kann am Ziel missverständlich sein. Die Abgabe folgt dem dortigen Recht, und ein Medikament kann trotz gültigem Rezept nicht verfügbar sein. <a href=\"https://europa.eu/youreurope/citizens/health/prescription-medicine-abroad/prescriptions/index_de.htm\">Your Europe: Rezept in einem anderen EU-Land verwenden</a></p><p>Lass daher vorab mit der Zielpraxis und einer Apotheke klären, wie die weitere Verschreibung und Versorgung erfolgt. Für elektronische Rezepte brauchst du einen tatsächlich unterstützten grenzüberschreitenden Weg oder die passende Papierfassung. Bei einem Ziel außerhalb der EU wird das Verfahren mit den dort zuständigen Stellen geklärt.</p><p><strong>Kontrollierte Arzneimittel brauchen eigene Nachweise.</strong> Für den vom BfArM beschriebenen Schengen-Reisefall mit verschriebenen Betäubungsmitteln gilt eine Bescheinigung nach Artikel 75 des Schengener Durchführungsübereinkommens. Sie wird von der behandelnden ärztlichen Person ausgefüllt und vor Reiseantritt durch die zuständige Landesgesundheitsbehörde oder beauftragte Stelle beglaubigt. Pro Betäubungsmittel ist eine eigene Bescheinigung nötig; ihre Gültigkeit beträgt höchstens 30 Tage. Die Quelle begrenzt den dargestellten Schengen-Fall auf Bürger der Vertragsstaaten.</p><p>Außerhalb dieses Falls richten sich Mitnahme und erforderliche Genehmigung nach Ziel- und Transitland. Die 30-Tage-Bescheinigung ersetzt keinen Plan für einen dauerhaften Wegzug. Auch das spätere Mitbringen durch eine beauftragte andere Person ist bei Betäubungsmitteln nach der deutschen BfArM-Information kein zulässiger Ersatzweg. <a href=\"https://www.bfarm.de/DE/Bundesopiumstelle/Betaeubungsmittel/Reisen-mit-Betaeubungsmitteln/_artikel.html\">BfArM: Reisen mit Betäubungsmitteln</a></p><p>Für Kühlung, Flüssigkeiten, Hilfsmittel und Batterien vereinbarst du mit Apotheke, medizinischer Fachperson und Beförderer die passende Handhabung. Reisebedarf und Verzögerungsreserve werden medizinisch und rechtlich abgestimmt, nicht auf eigene Faust erhöht.</p>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Transportfähigkeit und Begleitung vor der Buchung bestätigen",
+      "body": "<p>Der kürzeste Flug ist nicht immer der geeignete Weg. Entscheidend ist die gesamte Belastung vom Bett am bisherigen Ort bis zur Übernahme am Ziel: Umsteigen, Wartezeiten, Transfers, Toilettenzugang, Hilfsmittel und die mögliche Verspätung.</p><p>Die behandelnde Fachperson beurteilt die medizinische Eignung. Der konkrete Beförderer bestätigt seine Annahmebedingungen und eine nötige medizinische Anmeldung. Wenn eine fachliche Begleitung oder ein spezialisierter Transport erforderlich ist, muss dieser mit der Versorgung am Ziel abgestimmt werden.</p><p>Halte für eine Unterbrechung fest, wo die Person versorgt werden kann, wer entscheidet und welcher Transportanbieter erreichbar ist. Ein vorhandener Krankenrücktransport-Vertrag ist erst dann ein nutzbarer Baustein, wenn Auslöser, Freigabeverfahren, Deckung und Ziel der Rückführung zu eurem Fall passen.</p>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Aufnahme und Alltag am Ziel wirklich bereitstellen",
+      "body": "<p>Eine Einrichtung auf einer Liste ist noch keine vereinbarte Übernahme. Du brauchst einen bestätigten Beginn, passende Pflegeleistung, Erreichbarkeit und eine genaue Aussage zu Kosten und mitzubringenden Hilfsmitteln. Bei ambulanter Versorgung wird zusätzlich geklärt, wer außerhalb der Pflegebesuche übernimmt.</p><p>Prüfe die Wohnung entlang des tatsächlichen Bedarfs: Zugang, Lift, Türbreiten, Bad, Schlafplatz, Stromversorgung und Weg zur Behandlung. Fotos und das Wort barrierefrei reichen nicht, wenn ein bestimmtes Hilfsmittel durch die Tür passen oder nachts Hilfe verfügbar sein muss.</p><p>EXOBASIS organisiert nach Auftrag die Wohn- und Ankunftsvorbereitung, Abstimmung mit den beteiligten Stellen und die praktische Übergabe. Ein langfristiger Mietvertrag oder Immobilienkauf wird erst passend, wenn die Versorgung im betreffenden Ort tragfähig ist.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/ankunft-organisieren/\" data-route=\"/de/leistungen/ankunft-organisieren/\"><span>Ankunft im Zielland organisieren</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Versicherungsschutz und bezahlbare Versorgung getrennt bestätigen",
+      "body": "<p>Die Europäische Krankenversicherungskarte unterstützt bei medizinisch notwendiger Versorgung während eines vorübergehenden Aufenthalts im erfassten öffentlichen System. Sie deckt weder private Behandlung noch Rückführung ins Heimatland und ist nicht der Nachweis für die gesamte Versorgung nach einem dauerhaften Umzug. <a href=\"https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_de.htm\">Your Europe: Gesundheitsversorgung bei vorübergehendem Aufenthalt</a></p><p>Kläre mit Kranken- und Pflegeversicherung, welche Zuständigkeit nach dem Wegzug besteht, welche Leistungen im Zielstaat beansprucht werden können und welche Genehmigungen oder Registrierungen nötig sind. Lass Pflegeleistungen, Behandlung, Transport und Hilfsmittel getrennt aufführen. Herkunftsland, Zielland und Versicherungsstatus beeinflussen die Antwort.</p><p>Zum Finanzierungsplan gehören laufende Betreuung, Eigenanteile, mögliche Vorauszahlungen und eine tatsächlich verfügbare Reserve. Die Person, die bei deinem Ausfall handelt, braucht dafür eine akzeptierte Zahlungsbefugnis.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\" data-route=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\"><span>Krankenversicherung und Versorgung im Ausland</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-7",
+      "title": "Die Übergabe vollständig machen und aktuell halten",
+      "body": "<p>Am Übergabetag ist klar, wer die Person übernimmt, welche Medikamente und Hilfsmittel angekommen sind, welche erste Behandlung ansteht und wen die Familie bei einer Änderung erreicht. Befunde und wirksame Vertretungsnachweise sind für die zuständigen Personen verfügbar.</p><p>EXOBASIS bringt die organisatorischen Aufgaben in diese Reihenfolge und führt die beauftragten Arbeiten aus. Fachpersonen entscheiden über Behandlung und Transportfähigkeit; wir organisieren ihre Einbindung, die Unterlagen, Termine, Wohnlösung und die abgestimmte Übergabe.</p><p>Ändern sich Gesundheitszustand, Medikation, Betreuung oder Zielort, wird der betroffene Teil neu abgestimmt. So bleibt aus der einmaligen Vorbereitung ein Weg, der zum aktuellen Bedarf deiner Angehörigen passt.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/familie-unternehmen/\" data-route=\"/de/leistungen/familie-unternehmen/\"><span>Familie und Unternehmen handlungsfähig halten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Den konkreten Unterstützungsbedarf verstehen"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Behandelnde Fachstellen frühzeitig einbinden"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Medikamente und Hilfsmittel entlang der Route prüfen"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Transport und geeignete Begleitung abstimmen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Aufnahme und Alltag am Ziel tatsächlich vorbereiten"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Finanzierung und Versicherungsleistung abgleichen"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Vertretung und laufende Betreuung organisieren"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 661,
+        "target": "/de/leistungen/ankunft-organisieren/",
+        "label": "Ankunft im Zielland organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 659,
+        "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+        "label": "Krankenversicherung und Versorgung im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krankenversicherung und Behandlung",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 660,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 662,
+        "target": "/de/leistungen/familie-unternehmen/",
+        "label": "Familie und Unternehmen handlungsfähig halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 663,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      }
+    ],
+    "seeding": [
+      "D21",
+      "D19"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Auswandern mit pflegebedürftigen Eltern: Versorgung weiterführen"
+}

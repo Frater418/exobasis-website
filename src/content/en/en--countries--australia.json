@@ -1,0 +1,198 @@
+{
+  "route": "/en/countries/australia/",
+  "lang": "en",
+  "title": "Australia as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/australien/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-fc560f8e2385b1"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-9c37cebe53aedc"
+    }
+  ],
+  "eyebrow": "EXOBASIS / Australia",
+  "seoTitle": "Moving to Australia: residence, family and a home | EXOBASIS",
+  "description": "Moving to Australia with your family? Understand residence routes, foreign-buyer rules, renting, schools and healthcare, then prepare your own base.",
+  "intro": "<p>If fear of war, political coercion or losing control of your future has made you look beyond your current home, Australia offers real distance and an English-speaking setting for a new family life. The decisive question is whether you can secure a right to live there that matches the life you want. A reconnaissance trip, a home kept ready abroad and a permanent move require different preparation.</p><p>EXOBASIS brings the residence route, location, housing, money and family arrangements into one workable sequence, then carries out the preparation you commission.</p>",
+  "primary": {
+    "label": "Prepare my Australia base",
+    "intent": "General enquiry"
+  },
+  "countryContext": "/en/countries/australia/",
+  "country": {
+    "name": "Australia",
+    "slug": "australien",
+    "region": "Pacific",
+    "map": "countries/australien-locator.svg",
+    "imageAlt": "Map showing Australia in the Indian and Pacific Ocean region.",
+    "caption": "Australia: mainland, Tasmania and surrounding region.",
+    "summary": [
+      [
+        "Start with the right to stay",
+        "Choose a genuine visit, a qualifying work or family route, or an existing right of return."
+      ],
+      [
+        "Rent before committing capital",
+        "Foreign-investment rules materially restrict the purchase of existing homes."
+      ],
+      [
+        "Choose the family location together",
+        "School eligibility, medical access, housing and the route from the airport belong in the same decision."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "Where Australia fits your plans",
+      "body": "<p>Australia deserves serious consideration when you want to establish an English-speaking family home far from Europe or the Gulf and have the time to prepare an immigration route. It is particularly relevant if you have a qualifying occupation, an employer willing to sponsor you, an eligible Australian partner, or residence rights already in place.</p><p>Start with the position of every person who must be able to come with you. A British citizen living in Dubai, their spouse with a different passport and a parent needing daily care have three separate sets of requirements. Your current UAE residence is relevant to your departure and return arrangements; Australian eligibility follows the applicable visa and personal circumstances.</p><p>For a permanent move, the aim is a home from which your family can work, study and build relationships. For a contingency base, the aim is different: lawful access, usable accommodation and enough time to make the next decision. Buying a property before resolving that distinction can tie up money without giving you the right to stay.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "A distant refuge needs an early departure plan",
+      "body": "<dl><dt>Scenario</dt><dd><p>For a war-related move, distinguish distance from Europe from Australia's own exposure. <a href=\"https://onlinelibrary.wiley.com/doi/10.1111/risa.14072\">Boyd and Wilson's island-resilience study</a> identifies substantial Australian food-production potential under modelled nuclear-winter conditions. The same study identifies Australia's AUKUS alliance and US-aligned intelligence facilities as possible sources of conflict exposure. Its agricultural model does not establish that your family, arrival route or chosen region would be safe from war.</p></dd><dt>Access</dt><dd><p>If Australia is your answer to the question of where your family would go if war disrupted life at home, build the route before you need it. Distance can be valuable once you have arrived. Reaching the country still depends on international transport, the documents for any transit country, and a valid Australian entry permission for each traveller.</p><p>Prepare a first landing place as well as the eventual home: somewhere to sleep after a long journey, collect keys, buy essentials and reach the next appointment. Keep the arrival address and authorised local contact available to another adult in your family, including when your usual phone is unavailable.</p></dd><dt>Dependencies</dt><dd><p>Food grown in Australia still has to be produced and delivered to your location. The study identifies imported fertiliser and fuel-dependent groundwater pumping as vulnerabilities if trade fails. For the home you are preparing, connect water, food deliveries, transport fuel, replacement parts and medical supplies to the actual town and its supply routes. A national food surplus is not a stocked home or a working local supply chain.</p></dd><dt>Return</dt><dd><p>Existing permanent residents should check their travel facility in VEVO or their grant letter. The first permanent visa usually has a five-year travel facility; after it expires, returning as a permanent resident generally requires a Resident Return visa or Australian citizenship. Remaining in Australia and returning from abroad are distinct rights. <a href=\"https://immi.homeaffairs.gov.au/visas/permanent-resident/overseas-travel\">Home Affairs explains permanent-resident travel and return</a>.</p><p>For a temporary visa or a future visit, check the actual grant's validity, permitted entries and stay conditions before an absence. Ownership of the home does not give every household member a continuing right to return.</p></dd></dl><p>For the wider departure sequence, including what to do if flights or transit routes become unusable, see <a href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">preparing somewhere you can actually reach if war disrupts travel</a>.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Moving to Australia with family: plan for an ordinary week",
+      "body": "<p>A lasting move succeeds when an ordinary school and working week works. Choose the area around the people who have the least flexibility: the child needing learning support, the adult whose profession requires local registration, or the relative whose treatment cannot be interrupted.</p><p>Before committing to a home, establish which family members belong in the visa application and which need a separate route. Under the Skilled Independent subclass 189, eligible members of the family unit can be included; the applying family members must meet the relevant health and character requirements. An elderly parent should have their own route established rather than be assumed to fall within a dependent-child application. <a href=\"https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-tested\">The subclass 189 guidance explains family inclusion</a>.</p><p>Use an exploratory stay to experience the actual school run, visit the neighbourhood after dark, speak to the intended medical practice and test your working hours with clients abroad. Those observations can change the suburb you choose even when Australia remains the right country.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "A second home you visit between other commitments",
+      "body": "<p>If you intend to keep a business or main home in the UK or UAE, decide how much Australian time you actually need. A visitor permission can suit a genuine temporary visit. Repeated stays intended to amount to residence require a different solution.</p><p>For eligible British-citizen passport holders, the eVisitor subclass 651 allows visits of up to three months at a time during its 12-month validity. Each family member applies separately, from outside Australia. Home Affairs can question the purpose of prolonged or repeated visits. Residence in Britain or the UAE alone does not establish eligibility for that passport-based route. <a href=\"https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651\">Read the eVisitor passport and stay conditions</a>.</p><p>A part-time base also needs an arrangement for the weeks you are away: inspections, mail, essential maintenance, insurance conditions and someone authorised to admit a contractor. If you rent it out between visits, the tenancy and the family's next arrival date have to fit each other. Availability on the day you need it is part of the housing decision.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Australian residence: work, family and existing rights",
+      "body": "<h3>A genuine visit to explore the country</h3><p>The eVisitor permits tourism, family visits and defined business-visitor activities such as making enquiries or negotiating contracts. It does not authorise paid work for an Australian employer or providing services to an Australian business. Holders of other passports need the entry route applicable to that nationality. Select the permission for the activity you will actually carry out, including any work, rather than treating a visitor label as a solution for running your business from Australia.</p><h3>A qualifying skilled route</h3><p>The points-tested Skilled Independent visa, subclass 189, is a permanent route. Its requirements include an eligible occupation, a suitable skills assessment, competent English, being under 45 when invited and at least 65 points. You first submit an expression of interest through SkillSelect; invitation is a separate selection step, and the score required for your invitation may be higher. This route therefore belongs in preparation well before an urgent departure. <a href=\"https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-tested\">See the current subclass 189 requirements</a>.</p><p>An employer-sponsored route is a different proposition. Home Affairs distinguishes the temporary Skills in Demand subclass 482 from permanent Employer Nomination Scheme subclass 186 and provisional regional subclass 494. Employment, the nominated occupation and the relevant stream determine the conditions. <a href=\"https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/sponsoring-workers/learn-about-sponsoring/visa-options\">Compare the sponsored-worker routes</a>.</p><h3>An Australian partner</h3><p>A spouse or de facto partner of an Australian citizen, permanent resident or eligible New Zealand citizen may have a partner route. For an eligible applicant outside Australia, the provisional subclass 309 is the first stage towards the permanent subclass 100. This is based on the qualifying relationship and its evidence, not on buying a home together. <a href=\"https://immi.homeaffairs.gov.au/what-we-do/family-migration-program/visa-options/about-partner-visas\">Home Affairs sets out the partner pathways</a>.</p><p>The former Business Innovation and Investment Program closed permanently to new applications on 31 July 2024. An old investor brochure is not a current application route. <a href=\"https://immi.homeaffairs.gov.au/visas/getting-a-visa/biip-closure-and-refunds\">Official BIIP closure notice</a>.</p><div class=\"exb-criteria-table\" role=\"region\" tabindex=\"0\" aria-label=\"Choose how you will use your Australian base\"><table><caption>Choose how you will use your Australian base</caption><thead><tr><th scope=\"col\">Intended use</th><th scope=\"col\">Right you can use</th><th scope=\"col\">Evidence and time in the country</th><th scope=\"col\">What EXOBASIS can organise</th></tr></thead><tbody><tr><th scope=\"row\">A permanent move and family home</th><td>Use an existing permanent right or a qualifying skilled, employer-sponsored or partner route. Assess the spouse and children with the main applicant; the closed BIIP is not a purchase route.</td><td>For skilled migration, assemble the occupation, skills assessment, English and points evidence and allow for the separate invitation. For sponsorship, establish the employer and nominated role; for a partner route, document the qualifying relationship. Match each family member to their own grant.</td><td>Coordinate the household assessment and qualified immigration work, prepare the documents, then align housing, school and arrival with the permissions actually obtained.</td></tr><tr><th scope=\"row\">Living between Australia and another country</th><td>A genuine exploratory visit can use the appropriate visitor permission. Regular stays involving work need a route authorising that activity; a second home does not extend visitor or work rights.</td><td>Map the intended stay dates, entries, passport, current visa and actual work. Check the grant conditions and any sponsored-role requirements before booking repeated visits.</td><td>Organise an exploratory stay and the required document or immigration work, then prepare accommodation and a travel calendar that fit the permitted use.</td></tr><tr><th scope=\"row\">A prepared base outside your home country</th><td>Choose a qualifying route you can obtain and keep usable before disruption. An existing permanent resident needs a valid travel facility for return; a future application or property purchase is not entry permission.</td><td>Keep each person's grant, passport, return conditions and transit requirements together. Allow time for the application, a preparatory visit and establishing the home; review re-entry rights before periods abroad.</td><td>Connect the residence and return-document work with a reachable location, an available home, first-arrival arrangements and agreed ongoing care.</td></tr></tbody></table></div><p>Already know the preparation you need?</p><div class=\"exb-page-actions\"><a class=\"exb-btn\" href=\"/en/enquiry/\"><span>Ask EXOBASIS to organise your Australian residence and arrival work</span></a><a class=\"exb-text-link\" href=\"/en/enquiry/#contact-start\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Where to live, what to rent and when you can buy",
+      "body": "<h3>Sydney, Brisbane or Perth?</h3><ul><li><strong>Sydney and its surrounding suburbs:</strong> a useful starting point when work, established contacts or a particular school bring you to New South Wales. Choose the school and regular destinations before narrowing the housing search; crossing the city every day changes how a seemingly attractive home feels.</li><li><strong>Brisbane:</strong> worth comparing for a family wanting a Queensland city base. The Queensland Children's Hospital is in South Brisbane, close to bus, rail and ferry connections. That gives you a concrete point from which to test treatment journeys. Check the individual property's flood exposure and access roads before renting or buying. <a href=\"https://www.childrens.health.qld.gov.au/going-to-hospital/how-to-get-here\">Hospital location and transport</a>.</li><li><strong>Perth:</strong> a western city option for families whose work and travel suit that location. For a child needing specialist care, Perth Children's Hospital in Nedlands is a useful anchor for the location search. Assess the required service and the daily journey before moving farther out. <a href=\"https://www.pch.health.wa.gov.au/\">Perth Children's Hospital</a>.</li></ul><p>A rural or bushland home can offer space and privacy, but it brings different obligations: road access, water, communications, fire preparation and the distance to treatment. Bushfires can affect areas near cities as well as remote land; flooding, extreme heat and, in parts of the north, tropical cyclones also matter. Use the state's warning services and the property's local hazard information, not a national safety ranking. <a href=\"https://www.gov.uk/foreign-travel-advice/australia/safety-and-security\">Australia's regional travel and natural-hazard guidance</a>.</p><h3>Rent for the first settled stage</h3><p>Furnished short-stay accommodation gives you time to inspect homes in person. For a residential rental, prepare identification, evidence of income or funds, references and the intended occupants. Record the property's condition and contents at handover, and put the lease term, notice rules, utilities, maintenance responsibilities and any planned absences in writing.</p><p>The tenancy rules are state-specific. In New South Wales, the rental bond can be no more than four weeks' rent and rent in advance no more than two weeks. An approved applicant may be asked for a holding fee of up to one week's rent, which goes towards rent if the agreement is signed. These are NSW rules, not a national deposit formula. <a href=\"https://www.nsw.gov.au/housing-and-construction/rules/costs-at-start-of-a-residential-tenancy\">NSW Fair Trading explains starting costs</a>.</p><h3>Buying property: establish your buyer status first</h3><p>Australia's foreign-investment rules can determine which homes you may buy. The official residential-land guidance, updated in July 2026, states that foreign investors are generally prohibited from buying established dwellings from 1 April 2025 to 30 June 2029, with limited exceptions. New or near-new homes and vacant land follow different rules. For buyers subject to foreign-investment screening, approval is generally required before purchase; a vacant-land approval usually requires construction within four years. Holders of Australian permanent visas do not need foreign-investment approval to buy residential property, including an established home. The same exemption applies to New Zealand citizens who hold, or are eligible for, a Special Category Visa. Have the proposed ownership and your immigration position classified before making a binding commitment. <a href=\"https://foreigninvestment.gov.au/guidance/types-investments/residential-land\">Australian Government residential-land guidance</a>.</p><p>The purchase process needs a solicitor or licensed conveyancer to review the sale contract, title, easements and financial adjustments. Commission the relevant building and pest reports; for an apartment, include the strata records and expected levies. The NSW government's buyer guide explains why inspections and contract review come before an offer or auction. Budget separately for the price, applicable transfer duty and foreign-buyer surcharges, legal work, inspections, registration, finance and continuing property costs. <a href=\"https://www.nsw.gov.au/housing-and-construction/buying-and-selling-property/buying-property-nsw\">NSW property-buying guide</a>.</p><p><strong>EXOBASIS can organise the property purchase as a defined assignment:</strong> agree the location and requirements, coordinate the search and viewings, arrange independent title and purchase review, coordinate the contract and completion timetable, and prepare the handover. Furnishing, utilities, keyholding and ongoing inspections can follow within the agreed work. <a href=\"/en/services/arrange-arrival/\">Arrange your Australian housing and arrival</a>.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schools and healthcare: eligibility before the address",
+      "body": "<p>Moving to Australia with family is easier when the school place and its cost are established before the lease is signed. Public-school fees for temporary residents depend on the state and visa subclass. In NSW, the standard 2026 annual temporary-resident tuition fee is AUD 6,400 for primary and junior-high pupils and AUD 7,600 for senior-high pupils. These Table 1 rates exclude pupils on visitor visas and dependants of international students, who have separate fee tables. The regional subclass 482 tuition exemption requires all four conditions: the child holds a 482 visa, lives with the sponsored parent who is its primary applicant, resides in an eligible NSW region and attends an eligible regional NSW government school. The application fee still applies. Other visa categories have different rates or exemptions; uniforms, excursions and some subject costs sit outside tuition. Use the child's actual visa when obtaining an enrolment and fee decision. <a href=\"https://www.deinternational.nsw.edu.au/__data/assets/pdf_file/0013/16402/16402-Education-Fees.pdf\">NSW temporary-resident school fees for 2026 and 2027</a>.</p><p>Bring school reports, vaccination records and any learning-support information the receiving school requires. If one parent is travelling separately, settle the child's travel consent and any custody conditions before departure. <a href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare the move with children and relatives</a>.</p><p>For healthcare, distinguish your entitlement to payment from the service you need. Australia's reciprocal arrangement with the UK covers eligible visitors who were living in the UK before arrival. It covers medically necessary care as a public patient, certain care outside hospital and some subsidised medicines. A British passport held by someone previously living in the UAE does not, by itself, meet that prior-residence condition. Services Australia requires evidence of UK residence alongside your visa and passport. <a href=\"https://www.servicesaustralia.gov.au/reciprocal-health-care-agreements-visiting-from-united-kingdom?context=22481\">UK reciprocal healthcare eligibility</a>.</p><p>Arrange cover for the actual visa and length of stay, including the treatment and transport risks relevant to your family. For regular medication or specialist care, identify the receiving doctor, referral process and prescription arrangements before travelling. An insurance policy pays under its terms; a booked appointment and available treatment solve a different part of the problem. <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Connect health cover with actual care abroad</a>.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Bank access, income and Australian tax residence",
+      "body": "<p>Have money available for the arrival period without depending on one account, one phone or a transfer that has never been tested. Keep evidence of the source of funds ready for the institution handling the transfer or account application, particularly if money is coming from a business sale or a property transaction. The <a href=\"/en/knowledge/assets-and-access/banking-payments/\">banking access and payments guide</a> explains how to test a separate payment route and authorised recovery if your usual phone or login fails.</p><p>Account-opening procedures are bank-specific. CommBank's migrant guidance asks customers to verify their identity at a branch before using the account and lists an original passport, current Australian visa details and tax identification numbers for each foreign tax residence. Prepare those documents before allocating the first week's appointments. <a href=\"https://www.commbank.com.au/moving-to-australia/banking-in-australia.html\">CommBank's published identification requirements</a>.</p><p>Australian tax residence is not decided solely by the visa in your passport. The ATO distinguishes foreign residents, Australian tax residents and qualifying temporary residents. Foreign residents declare Australian-source income, including local employment and rental income. The temporary-resident rules can exclude much foreign income and gains, but their definition also depends on the status of your spouse and previous circumstances. Certain overseas employment or services income remains reportable. Match the treatment to your actual work and household rather than assume that money paid into a foreign account stays outside Australian tax. <a href=\"https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/foreign-and-temporary-residents\">ATO guidance on foreign and temporary residents</a>.</p><p>If you own a business, organise who can approve payments and deal with clients during the move, and have the intended working and management arrangements reviewed before they start. The <a href=\"/en/knowledge/business-and-income/departure-tax/\">departure and tax planning guide</a> connects that work with obligations in the country you are leaving. Our <a href=\"/en/services/banking-liquidity/\">banking and liquidity preparation</a> can organise the account documents and practical payment arrangements alongside the move.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Prepare the evidence before moving the household",
+      "body": "<p>For a skilled application, start with the occupation and skills-assessment evidence, then the English, identity, employment and family documents required by the chosen route. Employer references need to support the employment you claim. A visa invitation has its own application deadline; a lease or school start date does not extend it.</p><p>Use the document requirements of the receiving authority. Home Affairs requires non-English documents and their English translations; Australian translators must have NAATI accreditation, while translations prepared elsewhere must carry the translator's specified identifying and qualification details. This is a different requirement from automatically obtaining an apostille for every document. <a href=\"https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-tested\">Subclass 189 document and application instructions</a>.</p><p>EXOBASIS can assemble the agreed document sequence, coordinate translations and appointments, organise appropriately authorised immigration assistance and track the preparation through to handover. Keep the grant letter, passport linkage and each family member's conditions together. <a href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a>.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep the home and the right to return usable",
+      "body": "<p>For a base held in reserve, ownership is only the beginning. Put travel-facility expiry, insurance renewal, local inspections and essential bills into a maintenance schedule. Give the person caring for the property a clear limit for emergency repairs, a way to reach you and a backup decision-maker.</p><p>Foreign owners also need to account for the foreign-ownership register and vacancy obligations. The Australian Government requires notification of residential-land purchases and sales to the Register of Foreign Ownership of Australian Assets. The vacancy-fee regime covers foreign persons who applied for residential-land investment approval from 7:30pm AEST on 9 May 2017, and foreign buyers under a developer's new or near-new dwelling exemption certificate applied for from that time. Covered owners must file an annual return; unless an exemption applies, a fee is due if the home fails to meet at least 183 days of qualifying use during its 12-month vacancy year. Qualifying use means genuine residence by the owner or a relative, occupation under a lease or licence with a term of at least 30 days, or genuine availability for residential rent on terms of at least 30 days. Shorter holiday lets do not count. The first vacancy year starts when the owner obtains the right to occupy the property, rather than automatically on 1 January. A property deliberately kept empty for a possible arrival needs to be budgeted and managed with that rule in mind. <a href=\"https://foreigninvestment.gov.au/guidance/types-investments/residential-land\">Registration and vacancy obligations</a>.</p><p>Agree how often someone checks for leaks, storm damage and security problems, and who prepares the house when you travel. Before each family visit, review the entry permissions, flight and transit route, medication supply and access to money. <a href=\"/en/services/maintain-preparations/\">Have EXOBASIS maintain the agreed preparations</a>.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Turn Australia into a prepared option",
+      "body": "<p>You can ask EXOBASIS to compare Australian locations, organise an exploratory stay, prepare a residence-document project, run a housing search or coordinate a property purchase and arrival. If you want a complete family base, we connect those assignments so that the home, school, treatment, funds and arrival dates work together.</p><p>The first useful information is your current country of residence, the passports in the household, who needs to move, how long you want to stay and the work already completed. From that, we agree the result to be delivered, the local professional work needed, your decisions and the separate costs of services, travel and property.</p><p>If you are still choosing between destinations, <a href=\"/en/services/country-location-selection/\">commission a country and location comparison</a>. <a href=\"/en/countries/new-zealand/\">New Zealand</a> deserves a closer comparison for its food-production capacity, but keeping that production working also depends on imported fuel and spare parts. Those dependencies, and your family's own right to enter and remain, matter alongside the agricultural advantage. Like Australia, it needs a prepared long-distance arrival route.</p><p><a href=\"/en/countries/canada/\">Canada</a> is a different comparison for a lasting family home: start with a viable immigration route and the actual province, school, healthcare access and winter travel your household would use. Its alliance commitments belong in a war-scenario assessment; distance from your current home does not make it an uninvolved refuge. Compare the life and access you can prepare, rather than rank either country as safe in every war. For the wider choice, return to <a href=\"/en/countries/\">countries and options</a>.</p><div class=\"exb-closing-actions\"><a class=\"exb-btn\" href=\"/en/enquiry/\"><span>Tell us what you want prepared in Australia</span></a><p><a class=\"exb-text-link\" href=\"/en/enquiry/#contact-start\">Private enquiry</a></p></div><p>If you need help deciding which assignment fits, ask for the free 20-minute orientation.</p>"
+    }
+  ],
+  "faq": {
+    "question": "Can I buy a home in Australia and keep it ready for my family?",
+    "answer": "First establish your buyer status and the residence route for each family member. Foreign investors face a general ban on buying established dwellings until 30 June 2029, subject to limited exceptions; new homes have different approval rules. A foreign-owned home kept empty also raises vacancy obligations. EXOBASIS can coordinate the property search, independent purchase review, completion, handover and ongoing care as an agreed assignment."
+  },
+  "editorialSources": [
+    "au",
+    "island"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 1078,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1080,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1081,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1082,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1083,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1084,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1085,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1086,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1087,
+      "target": "/de/laender/australien/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1469,
+      "target": "/en/countries/new-zealand/",
+      "label": "New Zealand as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1471,
+      "target": "/en/countries/canada/",
+      "label": "Canada as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Moving to Australia: a home your family can build on"
+}

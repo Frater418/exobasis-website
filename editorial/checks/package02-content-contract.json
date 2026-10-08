@@ -1,0 +1,2851 @@
+[
+  {
+    "route": "/de/leistungen/aktivierung-notfallkoordination/",
+    "lang": "de",
+    "title": "Vereinbarte Aktivierung und Notfallkoordination",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-77da1635c006e9"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-d03e5bd99fd1a4"
+      },
+      {
+        "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+        "anchor": "quelle-327568101d023a"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "kern-1",
+        "title": "Vereinbarter Fall"
+      },
+      {
+        "id": "kern-2",
+        "title": "Auslöser und Voraussetzungen"
+      },
+      {
+        "id": "kern-3",
+        "title": "Kontaktfenster/Vertretung"
+      },
+      {
+        "id": "kern-4",
+        "title": "Identitätsprüfung und Befugnisse"
+      },
+      {
+        "id": "kern-5",
+        "title": "Ausgabenfreigabe"
+      },
+      {
+        "id": "kern-6",
+        "title": "Fachausführung"
+      },
+      {
+        "id": "kern-7",
+        "title": "Übergabe und Nachbereitung"
+      }
+    ],
+    "primary": {
+      "label": "Aktivierung vorbereiten lassen",
+      "intent": "Vereinbarte Aktivierung und Notfallkoordination"
+    },
+    "mappedLinks": [
+      {
+        "line": "361",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "position": "Passende nächste Arbeit / Relevant next work",
+        "purpose": "Einen zusammenhängenden Plan für Personen, Vermögen, Geschäft und benannte Szenarien ausarbeiten lassen."
+      },
+      {
+        "line": "362",
+        "label": "Vorbereitung prüfen und aktuell halten",
+        "target": "/de/leistungen/vorbereitung-betreuen/",
+        "position": "Kernabschnitt 2: Auslöser und Voraussetzungen",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      },
+      {
+        "line": "363",
+        "label": "Krankenversicherung und Versorgung im Ausland",
+        "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+        "position": "Kernabschnitt 6: Fachausführung",
+        "purpose": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden."
+      },
+      {
+        "line": "364",
+        "label": "Diskretion und geschützte Zusammenarbeit",
+        "target": "/de/diskretion/",
+        "position": "Dein Auftrag / Your enquiry",
+        "purpose": "Verstehen, wer welche Informationen erhält und wie Zusammenarbeit kontrolliert bleibt."
+      }
+    ],
+    "seeding": [],
+    "citations": {},
+    "media": "einstieg-laender.webp",
+    "contentFile": "src/content/de/aktivierung-notfallkoordination.json",
+    "sha256": "5bb1e94d4f141c6e009662aa949f4cf5e6e7ec1e88b722dc052e968f14b8e4da",
+    "seedingSupporting": [
+      "D18"
+    ]
+  },
+  {
+    "route": "/en/services/activation-emergency-coordination/",
+    "lang": "en",
+    "title": "Agreed activation and emergency coordination",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-77da1635c006e9"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-d03e5bd99fd1a4"
+      },
+      {
+        "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+        "anchor": "quelle-61eebe5c3fe909"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "The agreed support case"
+      },
+      {
+        "id": "section-2",
+        "title": "Triggers and prerequisites"
+      },
+      {
+        "id": "section-3",
+        "title": "Contact windows and cover"
+      },
+      {
+        "id": "section-4",
+        "title": "Identity checks and authority"
+      },
+      {
+        "id": "section-5",
+        "title": "Approval of expenditure"
+      },
+      {
+        "id": "section-6",
+        "title": "Specialist delivery"
+      },
+      {
+        "id": "section-7",
+        "title": "Handover and follow-up"
+      }
+    ],
+    "primary": {
+      "label": "Enquire about activation arrangements",
+      "intent": "Agreed activation and emergency coordination"
+    },
+    "mappedLinks": [
+      {
+        "line": "369",
+        "label": "Personal departure and contingency plan",
+        "target": "/en/services/departure-contingency-plan/",
+        "position": "Passende nächste Arbeit / Relevant next work",
+        "purpose": "Einen zusammenhängenden Plan für Personen, Vermögen, Geschäft und benannte Szenarien ausarbeiten lassen."
+      },
+      {
+        "line": "370",
+        "label": "Review and maintain your preparations",
+        "target": "/en/services/maintain-preparations/",
+        "position": "Kernabschnitt 2: Triggers and prerequisites",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      },
+      {
+        "line": "371",
+        "label": "Health cover and care abroad",
+        "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+        "position": "Kernabschnitt 6: Specialist delivery",
+        "purpose": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden."
+      },
+      {
+        "line": "372",
+        "label": "Discretion and protected collaboration",
+        "target": "/en/discretion/",
+        "position": "Dein Auftrag / Your enquiry",
+        "purpose": "Verstehen, wer welche Informationen erhält und wie Zusammenarbeit kontrolliert bleibt."
+      }
+    ],
+    "seeding": [
+      "EN10"
+    ],
+    "citations": {},
+    "media": "einstieg-laender.webp",
+    "contentFile": "src/content/en/aktivierung-notfallkoordination.json",
+    "sha256": "ba0200262f90ead34cf63561873484c8af46924604f173c48de5cdc696b190b3",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/de/leistungen/ankunft-organisieren/",
+    "lang": "de",
+    "title": "Ankunft im Zielland organisieren",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-0d35c4088828ec"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-60a02e4164d95a"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "kern-1",
+        "title": "Erkundung oder festes Ankunftsziel"
+      },
+      {
+        "id": "kern-2",
+        "title": "Region/Budget"
+      },
+      {
+        "id": "kern-3",
+        "title": "Unterkunftssuche und Besichtigung"
+      },
+      {
+        "id": "kern-4",
+        "title": "Auswahl/Verträge"
+      },
+      {
+        "id": "kern-5",
+        "title": "Transfer/Übergabe"
+      },
+      {
+        "id": "kern-6",
+        "title": "Internet/Arbeitsplatz"
+      },
+      {
+        "id": "kern-7",
+        "title": "Schule/Versorgung"
+      },
+      {
+        "id": "kern-8",
+        "title": "Nachfragen"
+      }
+    ],
+    "primary": {
+      "label": "Ankunft organisieren lassen",
+      "intent": "Ankunft im Zielland organisieren"
+    },
+    "mappedLinks": [
+      {
+        "line": "675",
+        "label": "Länder und Möglichkeiten",
+        "target": "/de/laender/",
+        "position": "Kernabschnitt 1: Erkundung oder festes Ankunftsziel",
+        "purpose": "Szenariogerechte Optionen vergleichen, ohne vorher ein Land gewählt haben zu müssen."
+      },
+      {
+        "line": "676",
+        "label": "Passende Länder und Standortoptionen",
+        "target": "/de/leistungen/laender-standortauswahl/",
+        "position": "Kernabschnitt 1: Erkundung oder festes Ankunftsziel",
+        "purpose": "Benannte Länder und Orte anhand der tatsächlichen Familien-/Unternehmensaufgabe vergleichen lassen."
+      },
+      {
+        "line": "677",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "position": "Kernabschnitt 7: Schule/Versorgung",
+        "purpose": "Reise, Sorge, Schule und Unterstützung für alle betroffenen Personen vorbereiten."
+      },
+      {
+        "line": "678",
+        "label": "Krankenversicherung und Versorgung im Ausland",
+        "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+        "position": "Kernabschnitt 7: Schule/Versorgung",
+        "purpose": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden."
+      },
+      {
+        "line": "679",
+        "label": "Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug",
+        "target": "/de/wissen/familie-alltag/pflege-medikamente/",
+        "position": "Kernabschnitt 7: Schule/Versorgung",
+        "purpose": "Kontinuierliche Versorgung für pflege- oder behandlungsabhängige Angehörige organisieren."
+      },
+      {
+        "line": "680",
+        "label": "Vorbereitung prüfen und aktuell halten",
+        "target": "/de/leistungen/vorbereitung-betreuen/",
+        "position": "Kernabschnitt 8: Nachfragen",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seeding": [],
+    "citations": {},
+    "media": "einstieg-ausweg.webp",
+    "contentFile": "src/content/de/ankunft-organisieren.json",
+    "sha256": "6bd75cb5ca58fd8ec6625a10e3a3ad3a3515c0fc3a0e3f4dd6e326b114b3b32a",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/en/services/arrange-arrival/",
+    "lang": "en",
+    "title": "Arrange your arrival abroad",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-0d35c4088828ec"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-60a02e4164d95a"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "An exploratory visit or a confirmed destination"
+      },
+      {
+        "id": "section-2",
+        "title": "Region and budget"
+      },
+      {
+        "id": "section-3",
+        "title": "Finding and viewing accommodation"
+      },
+      {
+        "id": "section-4",
+        "title": "Selection and contracts"
+      },
+      {
+        "id": "section-5",
+        "title": "Transfers and handover"
+      },
+      {
+        "id": "section-6",
+        "title": "Internet and workspace"
+      },
+      {
+        "id": "section-7",
+        "title": "School and essential services"
+      },
+      {
+        "id": "section-8",
+        "title": "Questions after arrival"
+      }
+    ],
+    "primary": {
+      "label": "Enquire about arrival arrangements",
+      "intent": "Arrange your arrival abroad"
+    },
+    "mappedLinks": [
+      {
+        "line": "685",
+        "label": "Countries and options",
+        "target": "/en/countries/",
+        "position": "Kernabschnitt 1: An exploratory visit or a confirmed destination",
+        "purpose": "Szenariogerechte Optionen vergleichen, ohne vorher ein Land gewählt haben zu müssen."
+      },
+      {
+        "line": "686",
+        "label": "Choose suitable countries and locations",
+        "target": "/en/services/country-location-selection/",
+        "position": "Kernabschnitt 1: An exploratory visit or a confirmed destination",
+        "purpose": "Benannte Länder und Orte anhand der tatsächlichen Familien-/Unternehmensaufgabe vergleichen lassen."
+      },
+      {
+        "line": "687",
+        "label": "Prepare to move abroad with children and family",
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "position": "Kernabschnitt 7: School and essential services",
+        "purpose": "Reise, Sorge, Schule und Unterstützung für alle betroffenen Personen vorbereiten."
+      },
+      {
+        "line": "688",
+        "label": "Health cover and care abroad",
+        "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+        "position": "Kernabschnitt 7: School and essential services",
+        "purpose": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden."
+      },
+      {
+        "line": "689",
+        "label": "Care needs, medication and medical dependencies when moving",
+        "target": "/en/knowledge/family-life-abroad/care-medication/",
+        "position": "Kernabschnitt 7: School and essential services",
+        "purpose": "Kontinuierliche Versorgung für pflege- oder behandlungsabhängige Angehörige organisieren."
+      },
+      {
+        "line": "690",
+        "label": "Review and maintain your preparations",
+        "target": "/en/services/maintain-preparations/",
+        "position": "Kernabschnitt 8: Questions after arrival",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seeding": [],
+    "citations": {},
+    "media": "einstieg-ausweg.webp",
+    "contentFile": "src/content/en/ankunft-organisieren.json",
+    "sha256": "419b4231dd48353524de87934f860c9e70f22a80da9e470057d14633768c4af9",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+    "lang": "de",
+    "title": "Apostillen, Übersetzungen und Urkunden organisieren",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-1c9cff828fe023"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-b1925b4404aa8c"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "kern-1",
+        "title": "Urkunde und Verwendungsland"
+      },
+      {
+        "id": "kern-2",
+        "title": "Apostille/Legalisation/Übersetzung"
+      },
+      {
+        "id": "kern-3",
+        "title": "Herkunftsstelle"
+      },
+      {
+        "id": "kern-4",
+        "title": "Original/Fristen"
+      },
+      {
+        "id": "kern-5",
+        "title": "Beschaffung und Rückfragen"
+      },
+      {
+        "id": "kern-6",
+        "title": "Übergabe und Preisbestandteile"
+      }
+    ],
+    "primary": {
+      "label": "Dokumentenservice anfragen",
+      "intent": "Apostillen, Übersetzungen und Urkunden organisieren"
+    },
+    "mappedLinks": [
+      {
+        "line": "485",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "position": "Kernabschnitt 6: Übergabe und Preisbestandteile",
+        "purpose": "Ein verwendbares, nachverfolgtes Dossier und die beauftragten Dokumenten-/Aufenthaltsschritte organisieren lassen."
+      },
+      {
+        "line": "486",
+        "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+        "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+        "position": "Kernabschnitt 6: Übergabe und Preisbestandteile",
+        "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+      },
+      {
+        "line": "487",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "position": "Kernabschnitt 1: Urkunde und Verwendungsland",
+        "purpose": "Vorhandene Rechte zuerst nutzen und zusätzliche Aufenthalts-/Staatsangehörigkeitswege richtig einordnen."
+      }
+    ],
+    "seeding": [],
+    "citations": {
+      "2": [
+        [
+          "HCCH: Apostille-Übereinkommen, Artikel 1 bis 5",
+          "https://www.hcch.net/en/instruments/conventions/full-text/?cid=41"
+        ]
+      ]
+    },
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/de/apostillen-uebersetzungen-urkunden.json",
+    "sha256": "5562658bc0ae252a8789bda2ac57b730f9a8729530ab27472312f5755857091f",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/en/services/apostilles-translations-documents/",
+    "lang": "en",
+    "title": "Arrange apostilles, translations and documents",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-1c9cff828fe023"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-b1925b4404aa8c"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "The document and destination"
+      },
+      {
+        "id": "section-2",
+        "title": "Apostille, legalisation or translation"
+      },
+      {
+        "id": "section-3",
+        "title": "The issuing authority"
+      },
+      {
+        "id": "section-4",
+        "title": "Originals and deadlines"
+      },
+      {
+        "id": "section-5",
+        "title": "Obtaining documents and resolving queries"
+      },
+      {
+        "id": "section-6",
+        "title": "Handover and cost components"
+      }
+    ],
+    "primary": {
+      "label": "Enquire about document services",
+      "intent": "Arrange apostilles, translations and documents"
+    },
+    "mappedLinks": [
+      {
+        "line": "492",
+        "label": "Arrange residence and document preparation",
+        "target": "/en/services/residence-documents/",
+        "position": "Kernabschnitt 6: Handover and cost components",
+        "purpose": "Ein verwendbares, nachverfolgtes Dossier und die beauftragten Dokumenten-/Aufenthaltsschritte organisieren lassen."
+      },
+      {
+        "line": "493",
+        "label": "Emergency documents your family can actually use",
+        "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+        "position": "Kernabschnitt 6: Handover and cost components",
+        "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+      },
+      {
+        "line": "494",
+        "label": "Residence, existing rights and second citizenship",
+        "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+        "position": "Kernabschnitt 1: The document and destination",
+        "purpose": "Vorhandene Rechte zuerst nutzen und zusätzliche Aufenthalts-/Staatsangehörigkeitswege richtig einordnen."
+      }
+    ],
+    "seeding": [],
+    "citations": {
+      "2": [
+        [
+          "HCCH: Apostille Convention, Articles 1 to 5",
+          "https://www.hcch.net/en/instruments/conventions/full-text/?cid=41"
+        ]
+      ]
+    },
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/en/apostillen-uebersetzungen-urkunden.json",
+    "sha256": "e589979f1a90352ce7d885d25565a0d0d498beb166a8707daf67905fe21858e7",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/de/leistungen/auslandsgesellschaft/",
+    "lang": "de",
+    "title": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-582098b73c7db2"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-d965575a147a85"
+      },
+      {
+        "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+        "anchor": "quelle-327568101d023a"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "kern-1",
+        "title": "Tätigkeit und Bedarf"
+      },
+      {
+        "id": "kern-2",
+        "title": "Standort/Struktur"
+      },
+      {
+        "id": "kern-3",
+        "title": "Gründung/Dokumente"
+      },
+      {
+        "id": "kern-4",
+        "title": "Konto/Adresse"
+      },
+      {
+        "id": "kern-5",
+        "title": "laufende Verwaltung und Meldungen"
+      },
+      {
+        "id": "kern-6",
+        "title": "Übergabe"
+      },
+      {
+        "id": "kern-7",
+        "title": "Vertretung und Ausfall"
+      }
+    ],
+    "primary": {
+      "label": "Gesellschaft und Verwaltung anfragen",
+      "intent": "Auslandsgesellschaft und laufende Verwaltung organisieren"
+    },
+    "mappedLinks": [
+      {
+        "line": "714",
+        "label": "Unternehmen und Einkommen fortführen",
+        "target": "/de/wissen/unternehmen-einkommen/",
+        "position": "Kernabschnitt 1: Tätigkeit und Bedarf",
+        "purpose": "Betrieb, Kunden und Einkommen während Ausreise, Ausfall und Standortwechsel weiterführen."
+      },
+      {
+        "line": "715",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "position": "Kernabschnitt 2: Standort/Struktur",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      },
+      {
+        "line": "716",
+        "label": "Bankzugang und Liquidität vorbereiten",
+        "target": "/de/leistungen/bankzugang-liquiditaet/",
+        "position": "Kernabschnitt 4: Konto/Adresse",
+        "purpose": "Bankaufnahme, zulässige Zahlwege und berechtigten Geldzugriff organisiert vorbereiten lassen."
+      },
+      {
+        "line": "717",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 7: Vertretung und Ausfall",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "718",
+        "label": "Vorbereitung prüfen und aktuell halten",
+        "target": "/de/leistungen/vorbereitung-betreuen/",
+        "position": "Kernabschnitt 5: laufende Verwaltung und Meldungen",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seeding": [],
+    "citations": {},
+    "media": "einstieg-laender.webp",
+    "contentFile": "src/content/de/auslandsgesellschaft.json",
+    "sha256": "ff74d4a0782cf41c03fe2e0dca73dde001eaad19bdcdc55dff0550d4a80effee",
+    "seedingSupporting": [
+      "D24"
+    ]
+  },
+  {
+    "route": "/en/services/overseas-company/",
+    "lang": "en",
+    "title": "Arrange an overseas company and ongoing administration",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-582098b73c7db2"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-d965575a147a85"
+      },
+      {
+        "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+        "anchor": "quelle-61eebe5c3fe909"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Your activity and business requirements"
+      },
+      {
+        "id": "section-2",
+        "title": "Location and legal structure"
+      },
+      {
+        "id": "section-3",
+        "title": "Formation and company documents"
+      },
+      {
+        "id": "section-4",
+        "title": "Banking and business address"
+      },
+      {
+        "id": "section-5",
+        "title": "Ongoing administration and filings"
+      },
+      {
+        "id": "section-6",
+        "title": "Your operational handover"
+      },
+      {
+        "id": "section-7",
+        "title": "Representation and continuity"
+      }
+    ],
+    "primary": {
+      "label": "Enquire about company setup and administration",
+      "intent": "Arrange an overseas company and ongoing administration"
+    },
+    "mappedLinks": [
+      {
+        "line": "723",
+        "label": "Keep your business and income running",
+        "target": "/en/knowledge/business-and-income/",
+        "position": "Kernabschnitt 1: Your activity and business requirements",
+        "purpose": "Betrieb, Kunden und Einkommen während Ausreise, Ausfall und Standortwechsel weiterführen."
+      },
+      {
+        "line": "724",
+        "label": "Departure, tax and business obligations",
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "position": "Kernabschnitt 2: Location and legal structure",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      },
+      {
+        "line": "725",
+        "label": "Prepare banking access and liquidity",
+        "target": "/en/services/banking-liquidity/",
+        "position": "Kernabschnitt 4: Banking and business address",
+        "purpose": "Bankaufnahme, zulässige Zahlwege und berechtigten Geldzugriff organisiert vorbereiten lassen."
+      },
+      {
+        "line": "726",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 7: Representation and continuity",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "727",
+        "label": "Review and maintain your preparations",
+        "target": "/en/services/maintain-preparations/",
+        "position": "Kernabschnitt 5: Ongoing administration and filings",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seeding": [
+      "EN13"
+    ],
+    "citations": {},
+    "media": "einstieg-laender.webp",
+    "contentFile": "src/content/en/auslandsgesellschaft.json",
+    "sha256": "fa452b7edeb46d0d382ae57be2c958ce3634360d14392ab9da86bfc105acb909",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/de/leistungen/bankzugang-liquiditaet/",
+    "lang": "de",
+    "title": "Bankzugang und Liquidität vorbereiten",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-0b6cfc6cf0ffc0"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-b5540d6813ad63"
+      },
+      {
+        "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+        "anchor": "quelle-327568101d023a"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "kern-1",
+        "title": "Zahlungsbedarf"
+      },
+      {
+        "id": "kern-2",
+        "title": "Konten und Nachweise"
+      },
+      {
+        "id": "kern-3",
+        "title": "passende Institute"
+      },
+      {
+        "id": "kern-4",
+        "title": "Aufnahmevorbereitung"
+      },
+      {
+        "id": "kern-5",
+        "title": "Transfer-/Zugangsabhängigkeiten"
+      },
+      {
+        "id": "kern-6",
+        "title": "dokumentiertes Ergebnis"
+      }
+    ],
+    "primary": {
+      "label": "Bankvorbereitung anfragen",
+      "intent": "Bankzugang und Liquidität vorbereiten"
+    },
+    "mappedLinks": [
+      {
+        "line": "267",
+        "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+        "position": "Kernabschnitt 1: Zahlungsbedarf",
+        "purpose": "Zahlungsbedarf und Abhängigkeiten verstehen und passende Bankvorbereitung auswählen."
+      },
+      {
+        "line": "268",
+        "label": "Vermögen übertragen und legal verfügbar halten",
+        "target": "/de/leistungen/vermoegen-uebertragen/",
+        "position": "Kernabschnitt 5: Transfer-/Zugangsabhängigkeiten",
+        "purpose": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren."
+      },
+      {
+        "line": "269",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 2: Konten und Nachweise",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "270",
+        "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "position": "Kernabschnitt 5: Transfer-/Zugangsabhängigkeiten",
+        "purpose": "Legitimen Wiederkontakt und Wiederzugang ohne das übliche Gerät vorbereiten."
+      }
+    ],
+    "seeding": [
+      "D01",
+      "D09",
+      "D03",
+      "D02",
+      "D11"
+    ],
+    "citations": {},
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/de/bankzugang-liquiditaet.json",
+    "sha256": "292319808f6f1eef1790b4d5f15f58095e51ac2972181c0dfb7a3d7ee2e93b1f",
+    "seedingSupporting": [
+      "D04",
+      "D10"
+    ]
+  },
+  {
+    "route": "/en/services/banking-liquidity/",
+    "lang": "en",
+    "title": "Prepare banking access and liquidity",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-0b6cfc6cf0ffc0"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-b5540d6813ad63"
+      },
+      {
+        "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+        "anchor": "quelle-61eebe5c3fe909"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "What payments and access you need"
+      },
+      {
+        "id": "section-2",
+        "title": "Accounts and supporting evidence"
+      },
+      {
+        "id": "section-3",
+        "title": "Suitable institutions"
+      },
+      {
+        "id": "section-4",
+        "title": "Preparing the application"
+      },
+      {
+        "id": "section-5",
+        "title": "Transfer and access dependencies"
+      },
+      {
+        "id": "section-6",
+        "title": "Your documented result"
+      }
+    ],
+    "primary": {
+      "label": "Enquire about banking preparation",
+      "intent": "Prepare banking access and liquidity"
+    },
+    "mappedLinks": [
+      {
+        "line": "275",
+        "label": "Banking access and payments abroad",
+        "target": "/en/knowledge/assets-and-access/banking-payments/",
+        "position": "Kernabschnitt 1: What payments and access you need",
+        "purpose": "Zahlungsbedarf und Abhängigkeiten verstehen und passende Bankvorbereitung auswählen."
+      },
+      {
+        "line": "276",
+        "label": "Transfer assets and retain lawful access",
+        "target": "/en/services/asset-transfers/",
+        "position": "Kernabschnitt 5: Transfer and access dependencies",
+        "purpose": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren."
+      },
+      {
+        "line": "277",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 2: Accounts and supporting evidence",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "278",
+        "label": "When your phone, SIM and main email fail",
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "position": "Kernabschnitt 5: Transfer and access dependencies",
+        "purpose": "Legitimen Wiederkontakt und Wiederzugang ohne das übliche Gerät vorbereiten."
+      }
+    ],
+    "seeding": [
+      "EN01",
+      "EN02",
+      "EN07"
+    ],
+    "citations": {},
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/en/bankzugang-liquiditaet.json",
+    "sha256": "9f9d3c5e70a4ea86e2e3f519a5bbb3b751fe0487807d3ca078e8f5fbd9a7a8f6",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/de/leistungen/dokumente-aufenthalt/",
+    "lang": "de",
+    "title": "Dokumente und Aufenthalt vorbereiten",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-6fcabe787b612e"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-825f30ea215f1f"
+      },
+      {
+        "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+        "anchor": "quelle-327568101d023a"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "kern-1",
+        "title": "Berechtigung und Verwendung"
+      },
+      {
+        "id": "kern-2",
+        "title": "Unterlagenbestand"
+      },
+      {
+        "id": "kern-3",
+        "title": "Beschaffung und Fachprüfung"
+      },
+      {
+        "id": "kern-4",
+        "title": "Termine/Einreichung"
+      },
+      {
+        "id": "kern-5",
+        "title": "Rückfragen und Fristen"
+      },
+      {
+        "id": "kern-6",
+        "title": "dokumentierte Übergabe"
+      }
+    ],
+    "primary": {
+      "label": "Dokumenten- und Aufenthaltsvorbereitung anfragen",
+      "intent": "Dokumente und Aufenthalt vorbereiten"
+    },
+    "mappedLinks": [
+      {
+        "line": "249",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "position": "Kernabschnitt 1: Berechtigung und Verwendung",
+        "purpose": "Vorhandene Rechte zuerst nutzen und zusätzliche Aufenthalts-/Staatsangehörigkeitswege richtig einordnen."
+      },
+      {
+        "line": "250",
+        "label": "Apostillen, Übersetzungen und Urkunden organisieren",
+        "target": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+        "position": "Kernabschnitt 3: Beschaffung und Fachprüfung",
+        "purpose": "Konkrete Urkunden für die tatsächliche Verwendung vorbereiten und beschaffen lassen."
+      },
+      {
+        "line": "251",
+        "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+        "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+        "position": "Kernabschnitt 6: dokumentierte Übergabe",
+        "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+      },
+      {
+        "line": "252",
+        "label": "Länder und Möglichkeiten",
+        "target": "/de/laender/",
+        "position": "Kernabschnitt 1: Berechtigung und Verwendung",
+        "purpose": "Szenariogerechte Optionen vergleichen, ohne vorher ein Land gewählt haben zu müssen."
+      },
+      {
+        "line": "253",
+        "label": "Vorbereitung prüfen und aktuell halten",
+        "target": "/de/leistungen/vorbereitung-betreuen/",
+        "position": "Kernabschnitt 6: dokumentierte Übergabe",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seeding": [
+      "D14",
+      "D19",
+      "D16"
+    ],
+    "citations": {},
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/de/dokumente-aufenthalt.json",
+    "sha256": "1f96e4fadb3ace1a9a55387f0840c87fac8c53122ea1c630b2f6e91f2c043b00",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/en/services/residence-documents/",
+    "lang": "en",
+    "title": "Arrange residence and document preparation",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-6fcabe787b612e"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-825f30ea215f1f"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Eligibility and intended use"
+      },
+      {
+        "id": "section-2",
+        "title": "The documents already available"
+      },
+      {
+        "id": "section-3",
+        "title": "Obtaining documents and specialist review"
+      },
+      {
+        "id": "section-4",
+        "title": "Appointments and submission"
+      },
+      {
+        "id": "section-5",
+        "title": "Queries and deadlines"
+      },
+      {
+        "id": "section-6",
+        "title": "Documented handover"
+      }
+    ],
+    "primary": {
+      "label": "Enquire about residence and document preparation",
+      "intent": "Arrange residence and document preparation"
+    },
+    "mappedLinks": [
+      {
+        "line": "258",
+        "label": "Residence, existing rights and second citizenship",
+        "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+        "position": "Kernabschnitt 1: Eligibility and intended use",
+        "purpose": "Vorhandene Rechte zuerst nutzen und zusätzliche Aufenthalts-/Staatsangehörigkeitswege richtig einordnen."
+      },
+      {
+        "line": "259",
+        "label": "Arrange apostilles, translations and documents",
+        "target": "/en/services/apostilles-translations-documents/",
+        "position": "Kernabschnitt 3: Obtaining documents and specialist review",
+        "purpose": "Konkrete Urkunden für die tatsächliche Verwendung vorbereiten und beschaffen lassen."
+      },
+      {
+        "line": "260",
+        "label": "Emergency documents your family can actually use",
+        "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+        "position": "Kernabschnitt 6: Documented handover",
+        "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+      },
+      {
+        "line": "261",
+        "label": "Countries and options",
+        "target": "/en/countries/",
+        "position": "Kernabschnitt 1: Eligibility and intended use",
+        "purpose": "Szenariogerechte Optionen vergleichen, ohne vorher ein Land gewählt haben zu müssen."
+      },
+      {
+        "line": "262",
+        "label": "Review and maintain your preparations",
+        "target": "/en/services/maintain-preparations/",
+        "position": "Kernabschnitt 6: Documented handover",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seeding": [],
+    "citations": {},
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/en/dokumente-aufenthalt.json",
+    "sha256": "f6466188a79a8eb5b0bc484aad6c06ba539a96e6a3e8987a4c4100caae0c444c",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/de/leistungen/familie-unternehmen/",
+    "lang": "de",
+    "title": "Familie und Unternehmen handlungsfähig halten",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-88ee12142eaf96"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-5d539c659edd22"
+      },
+      {
+        "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+        "anchor": "quelle-327568101d023a"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "kern-1",
+        "title": "Wichtige Personen und Aufgaben"
+      },
+      {
+        "id": "kern-2",
+        "title": "vorhandene Regelungen"
+      },
+      {
+        "id": "kern-3",
+        "title": "Schule/Pflege/Vertretung"
+      },
+      {
+        "id": "kern-4",
+        "title": "Zahlungen und Betrieb"
+      },
+      {
+        "id": "kern-5",
+        "title": "lokale/technische Arbeit"
+      },
+      {
+        "id": "kern-6",
+        "title": "Übergabe"
+      }
+    ],
+    "primary": {
+      "label": "Unterstützung für Familie und Unternehmen anfragen",
+      "intent": "Familie und Unternehmen handlungsfähig halten"
+    },
+    "mappedLinks": [
+      {
+        "line": "303",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "position": "Kernabschnitt 3: Schule/Pflege/Vertretung",
+        "purpose": "Reise, Sorge, Schule und Unterstützung für alle betroffenen Personen vorbereiten."
+      },
+      {
+        "line": "304",
+        "label": "Krankenversicherung und Versorgung im Ausland",
+        "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+        "position": "Kernabschnitt 3: Schule/Pflege/Vertretung",
+        "purpose": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden."
+      },
+      {
+        "line": "305",
+        "label": "Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug",
+        "target": "/de/wissen/familie-alltag/pflege-medikamente/",
+        "position": "Kernabschnitt 3: Schule/Pflege/Vertretung",
+        "purpose": "Kontinuierliche Versorgung für pflege- oder behandlungsabhängige Angehörige organisieren."
+      },
+      {
+        "line": "306",
+        "label": "Ankunft im Zielland organisieren",
+        "target": "/de/leistungen/ankunft-organisieren/",
+        "position": "Kernabschnitt 5: lokale/technische Arbeit",
+        "purpose": "Erkundung, Unterkunft, Übergabe und einen funktionierenden ersten Alltag vorbereiten lassen."
+      },
+      {
+        "line": "307",
+        "label": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+        "target": "/de/leistungen/auslandsgesellschaft/",
+        "position": "Kernabschnitt 4: Zahlungen und Betrieb",
+        "purpose": "Eine passende Gründung und laufende Pflichten als Teil der Geschäftsfortführung organisieren."
+      },
+      {
+        "line": "308",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 2: vorhandene Regelungen",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "309",
+        "label": "Diskrete Kommunikation und Wiederzugang einrichten",
+        "target": "/de/leistungen/kommunikation-wiederzugang/",
+        "position": "Kernabschnitt 5: lokale/technische Arbeit",
+        "purpose": "Berechtigte Kontakt- und Zugangswege einrichten und praktisch testen lassen."
+      }
+    ],
+    "seeding": [
+      "D24",
+      "D20"
+    ],
+    "citations": {},
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/de/familie-unternehmen.json",
+    "sha256": "7656865408f59cbbe11925bd8504b9e9724e33b80e08a3f6f91dfc4799516c34",
+    "seedingSupporting": [
+      "D19"
+    ]
+  },
+  {
+    "route": "/en/services/family-business-continuity/",
+    "lang": "en",
+    "title": "Keep your family and business functioning",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-88ee12142eaf96"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-5d539c659edd22"
+      },
+      {
+        "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+        "anchor": "quelle-61eebe5c3fe909"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "People and essential tasks"
+      },
+      {
+        "id": "section-2",
+        "title": "Arrangements already in place"
+      },
+      {
+        "id": "section-3",
+        "title": "School, care and authorised representation"
+      },
+      {
+        "id": "section-4",
+        "title": "Payments and business continuity"
+      },
+      {
+        "id": "section-5",
+        "title": "Local and technical implementation"
+      },
+      {
+        "id": "section-6",
+        "title": "A usable handover"
+      }
+    ],
+    "primary": {
+      "label": "Enquire about family and business support",
+      "intent": "Keep your family and business functioning"
+    },
+    "mappedLinks": [
+      {
+        "line": "314",
+        "label": "Prepare to move abroad with children and family",
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "position": "Kernabschnitt 3: School, care and authorised representation",
+        "purpose": "Reise, Sorge, Schule und Unterstützung für alle betroffenen Personen vorbereiten."
+      },
+      {
+        "line": "315",
+        "label": "Health cover and care abroad",
+        "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+        "position": "Kernabschnitt 3: School, care and authorised representation",
+        "purpose": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden."
+      },
+      {
+        "line": "316",
+        "label": "Care needs, medication and medical dependencies when moving",
+        "target": "/en/knowledge/family-life-abroad/care-medication/",
+        "position": "Kernabschnitt 3: School, care and authorised representation",
+        "purpose": "Kontinuierliche Versorgung für pflege- oder behandlungsabhängige Angehörige organisieren."
+      },
+      {
+        "line": "317",
+        "label": "Arrange your arrival abroad",
+        "target": "/en/services/arrange-arrival/",
+        "position": "Kernabschnitt 5: Local and technical implementation",
+        "purpose": "Erkundung, Unterkunft, Übergabe und einen funktionierenden ersten Alltag vorbereiten lassen."
+      },
+      {
+        "line": "318",
+        "label": "Arrange an overseas company and ongoing administration",
+        "target": "/en/services/overseas-company/",
+        "position": "Kernabschnitt 4: Payments and business continuity",
+        "purpose": "Eine passende Gründung und laufende Pflichten als Teil der Geschäftsfortführung organisieren."
+      },
+      {
+        "line": "319",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 2: Arrangements already in place",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "320",
+        "label": "Set up private communications and recovery access",
+        "target": "/en/services/communications-recovery/",
+        "position": "Kernabschnitt 5: Local and technical implementation",
+        "purpose": "Berechtigte Kontakt- und Zugangswege einrichten und praktisch testen lassen."
+      }
+    ],
+    "seeding": [
+      "EN09",
+      "EN13"
+    ],
+    "citations": {},
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/en/familie-unternehmen.json",
+    "sha256": "caa755d71db7664d227be0edd2040707ff17f236b02a71f092b4f90622052f68",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/de/leistungen/kommunikation-wiederzugang/",
+    "lang": "de",
+    "title": "Diskrete Kommunikation und Wiederzugang einrichten",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-3b4627308bf19f"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-77b6f8b72c8326"
+      },
+      {
+        "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+        "anchor": "quelle-327568101d023a"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "kern-1",
+        "title": "Geräte-/Kontenabhängigkeiten"
+      },
+      {
+        "id": "kern-2",
+        "title": "Kommunikationsvereinbarung"
+      },
+      {
+        "id": "kern-3",
+        "title": "Ersatzkontakte und Rechte"
+      },
+      {
+        "id": "kern-4",
+        "title": "Einrichtung"
+      },
+      {
+        "id": "kern-5",
+        "title": "Verlustszenario testen"
+      },
+      {
+        "id": "kern-6",
+        "title": "Übergabe"
+      }
+    ],
+    "primary": {
+      "label": "Geschützten Kontakt und Wiederzugang einrichten lassen",
+      "intent": "Diskrete Kommunikation und Wiederzugang einrichten"
+    },
+    "mappedLinks": [
+      {
+        "line": "325",
+        "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "position": "Kernabschnitt 1: Geräte-/Kontenabhängigkeiten",
+        "purpose": "Legitimen Wiederkontakt und Wiederzugang ohne das übliche Gerät vorbereiten."
+      },
+      {
+        "line": "326",
+        "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+        "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+        "position": "Kernabschnitt 6: Übergabe",
+        "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+      },
+      {
+        "line": "327",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 3: Ersatzkontakte und Rechte",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "328",
+        "label": "Diskretion und geschützte Zusammenarbeit",
+        "target": "/de/diskretion/",
+        "position": "Dein Auftrag / Your enquiry",
+        "purpose": "Verstehen, wer welche Informationen erhält und wie Zusammenarbeit kontrolliert bleibt."
+      },
+      {
+        "line": "329",
+        "label": "Vorbereitung prüfen und aktuell halten",
+        "target": "/de/leistungen/vorbereitung-betreuen/",
+        "position": "Kernabschnitt 6: Übergabe",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seeding": [
+      "D23"
+    ],
+    "citations": {
+      "4": [
+        [
+          "NIST SP 800-63B-4: Authentifizierung und Kontowiederherstellung",
+          "https://pages.nist.gov/800-63-4/sp800-63b.html"
+        ]
+      ]
+    },
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/de/kommunikation-wiederzugang.json",
+    "sha256": "8805eb872b43851e89b751fb7ca7126a55d27746f5c9720c6cf86ba1dae8db5d",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/en/services/communications-recovery/",
+    "lang": "en",
+    "title": "Set up private communications and recovery access",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-3b4627308bf19f"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-77b6f8b72c8326"
+      },
+      {
+        "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+        "anchor": "quelle-61eebe5c3fe909"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Device and account dependencies"
+      },
+      {
+        "id": "section-2",
+        "title": "Your communication arrangements"
+      },
+      {
+        "id": "section-3",
+        "title": "Backup contacts and permissions"
+      },
+      {
+        "id": "section-4",
+        "title": "Setting up the agreed routes"
+      },
+      {
+        "id": "section-5",
+        "title": "Testing a loss scenario"
+      },
+      {
+        "id": "section-6",
+        "title": "Handover and ongoing care"
+      }
+    ],
+    "primary": {
+      "label": "Enquire about private communications and recovery",
+      "intent": "Set up private communications and recovery access"
+    },
+    "mappedLinks": [
+      {
+        "line": "334",
+        "label": "When your phone, SIM and main email fail",
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "position": "Kernabschnitt 1: Device and account dependencies",
+        "purpose": "Legitimen Wiederkontakt und Wiederzugang ohne das übliche Gerät vorbereiten."
+      },
+      {
+        "line": "335",
+        "label": "Emergency documents your family can actually use",
+        "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+        "position": "Kernabschnitt 6: Handover and ongoing care",
+        "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+      },
+      {
+        "line": "336",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 3: Backup contacts and permissions",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "337",
+        "label": "Discretion and protected collaboration",
+        "target": "/en/discretion/",
+        "position": "Dein Auftrag / Your enquiry",
+        "purpose": "Verstehen, wer welche Informationen erhält und wie Zusammenarbeit kontrolliert bleibt."
+      },
+      {
+        "line": "338",
+        "label": "Review and maintain your preparations",
+        "target": "/en/services/maintain-preparations/",
+        "position": "Kernabschnitt 6: Handover and ongoing care",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seeding": [
+      "EN12"
+    ],
+    "citations": {
+      "4": [
+        [
+          "NIST SP 800-63B-4: authentication and account recovery",
+          "https://pages.nist.gov/800-63-4/sp800-63b.html"
+        ]
+      ]
+    },
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/en/kommunikation-wiederzugang.json",
+    "sha256": "a42b202f45599c6a43b4a21e9c4818efd428045da49c6a711cae339e72d1e86a",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/de/leistungen/sachwerte-verwahrung/",
+    "lang": "de",
+    "title": "Verwahrung und Zugriff auf Sachwerte organisieren",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-02ecf41391ebe4"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-7302e245d30087"
+      },
+      {
+        "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+        "anchor": "quelle-327568101d023a"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "kern-1",
+        "title": "Sachwert und Eigentumsnachweis"
+      },
+      {
+        "id": "kern-2",
+        "title": "Verwahrform/Standort"
+      },
+      {
+        "id": "kern-3",
+        "title": "Versicherung/Vertrag"
+      },
+      {
+        "id": "kern-4",
+        "title": "Herausgabe und Vertretung"
+      },
+      {
+        "id": "kern-5",
+        "title": "Einrichtung"
+      },
+      {
+        "id": "kern-6",
+        "title": "Nachfolge und Pflege"
+      }
+    ],
+    "primary": {
+      "label": "Verwahrungslösung anfragen",
+      "intent": "Verwahrung und Zugriff auf Sachwerte organisieren"
+    },
+    "mappedLinks": [
+      {
+        "line": "589",
+        "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+        "target": "/de/leistungen/vermoegensstrukturen/",
+        "position": "Kernabschnitt 2: Verwahrform/Standort",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "590",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 4: Herausgabe und Vertretung",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "591",
+        "label": "Vermögen übertragen und legal verfügbar halten",
+        "target": "/de/leistungen/vermoegen-uebertragen/",
+        "position": "Kernabschnitt 5: Einrichtung",
+        "purpose": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren."
+      }
+    ],
+    "seeding": [
+      "D12"
+    ],
+    "citations": {},
+    "media": "einstieg-laender.webp",
+    "contentFile": "src/content/de/sachwerte-verwahrung.json",
+    "sha256": "765368421bcb22932dadff0944ebb4184301ae9fbf054d2a1aa00fcc345dd10c",
+    "seedingSupporting": [
+      "D21"
+    ]
+  },
+  {
+    "route": "/en/services/tangible-asset-custody/",
+    "lang": "en",
+    "title": "Arrange custody and access to tangible assets",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-02ecf41391ebe4"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-7302e245d30087"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "The asset and evidence of ownership"
+      },
+      {
+        "id": "section-2",
+        "title": "Custody model and location"
+      },
+      {
+        "id": "section-3",
+        "title": "Insurance and contract"
+      },
+      {
+        "id": "section-4",
+        "title": "Release and authorised representation"
+      },
+      {
+        "id": "section-5",
+        "title": "Putting the arrangement in place"
+      },
+      {
+        "id": "section-6",
+        "title": "Succession and ongoing review"
+      }
+    ],
+    "primary": {
+      "label": "Enquire about an asset custody arrangement",
+      "intent": "Arrange custody and access to tangible assets"
+    },
+    "mappedLinks": [
+      {
+        "line": "596",
+        "label": "Arrange asset structures, custody and succession",
+        "target": "/en/services/asset-structures/",
+        "position": "Kernabschnitt 2: Custody model and location",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "597",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 4: Release and authorised representation",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "598",
+        "label": "Transfer assets and retain lawful access",
+        "target": "/en/services/asset-transfers/",
+        "position": "Kernabschnitt 5: Putting the arrangement in place",
+        "purpose": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren."
+      }
+    ],
+    "seeding": [],
+    "citations": {},
+    "media": "einstieg-laender.webp",
+    "contentFile": "src/content/en/sachwerte-verwahrung.json",
+    "sha256": "bf1c978101d4ca1d9c88039d0443e0f2aab11c6e71ba4850523c0e9009f0e3d6",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/de/leistungen/stiftung-liechtenstein/",
+    "lang": "de",
+    "title": "Eine Stiftung in Liechtenstein organisieren",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-f98e4cd5fa218b"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-12aea16f5a6a97"
+      },
+      {
+        "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+        "anchor": "quelle-327568101d023a"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "kern-1",
+        "title": "Zweck und Begünstigte"
+      },
+      {
+        "id": "kern-2",
+        "title": "Kontroll-/Eigentumsrollen"
+      },
+      {
+        "id": "kern-3",
+        "title": "Herkunftsrecht"
+      },
+      {
+        "id": "kern-4",
+        "title": "Gründung/Fachmandat"
+      },
+      {
+        "id": "kern-5",
+        "title": "Verwaltung und Kosten"
+      },
+      {
+        "id": "kern-6",
+        "title": "Übergabe/Nachfolge"
+      }
+    ],
+    "primary": {
+      "label": "Stiftungsstruktur anfragen",
+      "intent": "Eine Stiftung in Liechtenstein organisieren"
+    },
+    "mappedLinks": [
+      {
+        "line": "573",
+        "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+        "target": "/de/leistungen/vermoegensstrukturen/",
+        "position": "Kernabschnitt 1: Zweck und Begünstigte",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "574",
+        "label": "Eine Trust-Struktur organisieren",
+        "target": "/de/leistungen/trust-struktur/",
+        "position": "Kernabschnitt 3: Herkunftsrecht",
+        "purpose": "Eignung und konkrete Einrichtung einer Trust-Struktur mit befugten Fachstellen organisieren."
+      },
+      {
+        "line": "575",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 2: Kontroll-/Eigentumsrollen",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "576",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "position": "Kernabschnitt 3: Herkunftsrecht",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      }
+    ],
+    "seeding": [],
+    "citations": {
+      "1": [
+        [
+          "STIFTA: Wesen und Grundlagen der liechtensteinischen Stiftung",
+          "https://www.stifta.li/de/gemeinnuetzige-rechtstraeger/stiftung"
+        ]
+      ]
+    },
+    "media": "einstieg-laender.webp",
+    "contentFile": "src/content/de/stiftung-liechtenstein.json",
+    "sha256": "45b035242ac6913f9fb2bc8f365649f7e25c35be79c5aed1174b4ace718fed7c",
+    "seedingSupporting": [
+      "D21"
+    ]
+  },
+  {
+    "route": "/en/services/liechtenstein-foundation/",
+    "lang": "en",
+    "title": "Arrange a Liechtenstein foundation",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-f98e4cd5fa218b"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-12aea16f5a6a97"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Purpose and beneficiaries"
+      },
+      {
+        "id": "section-2",
+        "title": "Control and ownership roles"
+      },
+      {
+        "id": "section-3",
+        "title": "Your home-country connections"
+      },
+      {
+        "id": "section-4",
+        "title": "Establishment and specialist mandate"
+      },
+      {
+        "id": "section-5",
+        "title": "Administration and costs"
+      },
+      {
+        "id": "section-6",
+        "title": "Handover and succession"
+      }
+    ],
+    "primary": {
+      "label": "Enquire about a foundation structure",
+      "intent": "Arrange a Liechtenstein foundation"
+    },
+    "mappedLinks": [
+      {
+        "line": "581",
+        "label": "Arrange asset structures, custody and succession",
+        "target": "/en/services/asset-structures/",
+        "position": "Kernabschnitt 1: Purpose and beneficiaries",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "582",
+        "label": "Arrange a trust structure",
+        "target": "/en/services/trust-structure/",
+        "position": "Kernabschnitt 3: Your home-country connections",
+        "purpose": "Eignung und konkrete Einrichtung einer Trust-Struktur mit befugten Fachstellen organisieren."
+      },
+      {
+        "line": "583",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 2: Control and ownership roles",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "584",
+        "label": "Departure, tax and business obligations",
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "position": "Kernabschnitt 3: Your home-country connections",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      }
+    ],
+    "seeding": [],
+    "citations": {
+      "1": [
+        [
+          "Liechtenstein foundation authority: foundations",
+          "https://www.stifta.li/de/gemeinnuetzige-rechtstraeger/stiftung"
+        ]
+      ]
+    },
+    "media": "einstieg-laender.webp",
+    "contentFile": "src/content/en/stiftung-liechtenstein.json",
+    "sha256": "f844480f2fa32752173b4febab67f89f25114bfd3f3fa40518013667e1889c82",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/de/leistungen/trust-struktur/",
+    "lang": "de",
+    "title": "Eine Trust-Struktur organisieren",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-480f9ea4514b27"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-dd3a4d19dd987f"
+      },
+      {
+        "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+        "anchor": "quelle-327568101d023a"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "kern-1",
+        "title": "Kundenziel"
+      },
+      {
+        "id": "kern-2",
+        "title": "Beteiligte/Kontrolle"
+      },
+      {
+        "id": "kern-3",
+        "title": "Herkunfts- und Strukturrecht"
+      },
+      {
+        "id": "kern-4",
+        "title": "passende Fachstelle"
+      },
+      {
+        "id": "kern-5",
+        "title": "Einrichtung"
+      },
+      {
+        "id": "kern-6",
+        "title": "Kosten und fortlaufende Verwaltung"
+      },
+      {
+        "id": "kern-7",
+        "title": "Zugang/Nachfolge"
+      }
+    ],
+    "primary": {
+      "label": "Trust-Struktur anfragen",
+      "intent": "Eine Trust-Struktur organisieren"
+    },
+    "mappedLinks": [
+      {
+        "line": "555",
+        "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+        "target": "/de/leistungen/vermoegensstrukturen/",
+        "position": "Kernabschnitt 1: Kundenziel",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "556",
+        "label": "Eine Stiftung in Liechtenstein organisieren",
+        "target": "/de/leistungen/stiftung-liechtenstein/",
+        "position": "Kernabschnitt 3: Herkunfts- und Strukturrecht",
+        "purpose": "Eine Stiftungsaufgabe mit liechtensteinischer Fachzuständigkeit und Herkunftsrecht abstimmen."
+      },
+      {
+        "line": "557",
+        "label": "Verwahrung und Zugriff auf Sachwerte organisieren",
+        "target": "/de/leistungen/sachwerte-verwahrung/",
+        "position": "Kernabschnitt 7: Zugang/Nachfolge",
+        "purpose": "Eigentum, Verwahrstelle, Herausgabe und berechtigten Zugriff organisatorisch verbinden."
+      },
+      {
+        "line": "558",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 2: Beteiligte/Kontrolle",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "559",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "position": "Kernabschnitt 3: Herkunfts- und Strukturrecht",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      }
+    ],
+    "seeding": [],
+    "citations": {},
+    "media": "einstieg-laender.webp",
+    "contentFile": "src/content/de/trust-struktur.json",
+    "sha256": "b1c1d8f4c31bf00cac9b76363c09ca2591bfcfece979569ca4df17caa0c7ab7e",
+    "seedingSupporting": [
+      "D21"
+    ]
+  },
+  {
+    "route": "/en/services/trust-structure/",
+    "lang": "en",
+    "title": "Arrange a trust structure",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-480f9ea4514b27"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-dd3a4d19dd987f"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "The purpose of your trust"
+      },
+      {
+        "id": "section-2",
+        "title": "Participants and control"
+      },
+      {
+        "id": "section-3",
+        "title": "Home-country and trust law"
+      },
+      {
+        "id": "section-4",
+        "title": "Choosing the appropriate specialists"
+      },
+      {
+        "id": "section-5",
+        "title": "Establishing the agreed structure"
+      },
+      {
+        "id": "section-6",
+        "title": "Costs and ongoing administration"
+      },
+      {
+        "id": "section-7",
+        "title": "Access and succession"
+      }
+    ],
+    "primary": {
+      "label": "Enquire about a trust structure",
+      "intent": "Arrange a trust structure"
+    },
+    "mappedLinks": [
+      {
+        "line": "564",
+        "label": "Arrange asset structures, custody and succession",
+        "target": "/en/services/asset-structures/",
+        "position": "Kernabschnitt 1: The purpose of your trust",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "565",
+        "label": "Arrange a Liechtenstein foundation",
+        "target": "/en/services/liechtenstein-foundation/",
+        "position": "Kernabschnitt 3: Home-country and trust law",
+        "purpose": "Eine Stiftungsaufgabe mit liechtensteinischer Fachzuständigkeit und Herkunftsrecht abstimmen."
+      },
+      {
+        "line": "566",
+        "label": "Arrange custody and access to tangible assets",
+        "target": "/en/services/tangible-asset-custody/",
+        "position": "Kernabschnitt 7: Access and succession",
+        "purpose": "Eigentum, Verwahrstelle, Herausgabe und berechtigten Zugriff organisatorisch verbinden."
+      },
+      {
+        "line": "567",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 2: Participants and control",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "568",
+        "label": "Departure, tax and business obligations",
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "position": "Kernabschnitt 3: Home-country and trust law",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      }
+    ],
+    "seeding": [],
+    "citations": {},
+    "media": "einstieg-laender.webp",
+    "contentFile": "src/content/en/trust-struktur.json",
+    "sha256": "c0e0da3a7466140e46ae9c0917b15de31a024705e09e286988c38a97798f1952",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/de/leistungen/vermoegen-uebertragen/",
+    "lang": "de",
+    "title": "Vermögen übertragen und legal verfügbar halten",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-8b4a7d04f61ede"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-33a3dd05c7bf6b"
+      },
+      {
+        "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+        "anchor": "quelle-327568101d023a"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "kern-1",
+        "title": "Geldtransfer versus Eigentumsübertragung"
+      },
+      {
+        "id": "kern-2",
+        "title": "Berechtigte und Nachweise"
+      },
+      {
+        "id": "kern-3",
+        "title": "Steuer-/Rechtsanknüpfung"
+      },
+      {
+        "id": "kern-4",
+        "title": "beteiligte Stellen"
+      },
+      {
+        "id": "kern-5",
+        "title": "Freigaben und Durchführung"
+      },
+      {
+        "id": "kern-6",
+        "title": "Ergebnis und laufende Pflichten"
+      }
+    ],
+    "primary": {
+      "label": "Übertragungsauftrag besprechen",
+      "intent": "Vermögen übertragen und legal verfügbar halten"
+    },
+    "mappedLinks": [
+      {
+        "line": "537",
+        "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+        "position": "Kernabschnitt 1: Geldtransfer versus Eigentumsübertragung",
+        "purpose": "Zahlungsbedarf und Abhängigkeiten verstehen und passende Bankvorbereitung auswählen."
+      },
+      {
+        "line": "538",
+        "label": "Bankzugang und Liquidität vorbereiten",
+        "target": "/de/leistungen/bankzugang-liquiditaet/",
+        "position": "Kernabschnitt 4: beteiligte Stellen",
+        "purpose": "Bankaufnahme, zulässige Zahlwege und berechtigten Geldzugriff organisiert vorbereiten lassen."
+      },
+      {
+        "line": "539",
+        "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+        "target": "/de/leistungen/vermoegensstrukturen/",
+        "position": "Kernabschnitt 3: Steuer-/Rechtsanknüpfung",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "540",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "position": "Kernabschnitt 3: Steuer-/Rechtsanknüpfung",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      },
+      {
+        "line": "541",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 2: Berechtigte und Nachweise",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      }
+    ],
+    "seeding": [
+      "D10",
+      "D04"
+    ],
+    "citations": {},
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/de/vermoegen-uebertragen.json",
+    "sha256": "738c2df6d8ac36f96d7e513edee58f7a6aa00280e6f636cffdf9025308426516",
+    "seedingSupporting": [
+      "D06",
+      "D09",
+      "D21"
+    ]
+  },
+  {
+    "route": "/en/services/asset-transfers/",
+    "lang": "en",
+    "title": "Transfer assets and retain lawful access",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-8b4a7d04f61ede"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-33a3dd05c7bf6b"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Moving funds or changing ownership"
+      },
+      {
+        "id": "section-2",
+        "title": "Authorised parties and evidence"
+      },
+      {
+        "id": "section-3",
+        "title": "Tax and legal connections"
+      },
+      {
+        "id": "section-4",
+        "title": "The institutions and specialists involved"
+      },
+      {
+        "id": "section-5",
+        "title": "Approvals and execution"
+      },
+      {
+        "id": "section-6",
+        "title": "The confirmed result and ongoing duties"
+      }
+    ],
+    "primary": {
+      "label": "Discuss an asset transfer",
+      "intent": "Transfer assets and retain lawful access"
+    },
+    "mappedLinks": [
+      {
+        "line": "546",
+        "label": "Banking access and payments abroad",
+        "target": "/en/knowledge/assets-and-access/banking-payments/",
+        "position": "Kernabschnitt 1: Moving funds or changing ownership",
+        "purpose": "Zahlungsbedarf und Abhängigkeiten verstehen und passende Bankvorbereitung auswählen."
+      },
+      {
+        "line": "547",
+        "label": "Prepare banking access and liquidity",
+        "target": "/en/services/banking-liquidity/",
+        "position": "Kernabschnitt 4: The institutions and specialists involved",
+        "purpose": "Bankaufnahme, zulässige Zahlwege und berechtigten Geldzugriff organisiert vorbereiten lassen."
+      },
+      {
+        "line": "548",
+        "label": "Arrange asset structures, custody and succession",
+        "target": "/en/services/asset-structures/",
+        "position": "Kernabschnitt 3: Tax and legal connections",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "549",
+        "label": "Departure, tax and business obligations",
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "position": "Kernabschnitt 3: Tax and legal connections",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      },
+      {
+        "line": "550",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 2: Authorised parties and evidence",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      }
+    ],
+    "seeding": [],
+    "citations": {},
+    "media": "einstieg-laender.webp",
+    "contentFile": "src/content/en/vermoegen-uebertragen.json",
+    "sha256": "edee21eaa020f536bf383e88a19bbd0bc111fa7f87967a53c643e33bf8c2d12e",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/de/leistungen/vermoegensstrukturen/",
+    "lang": "de",
+    "title": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-8bf6d4abdefa1c"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-c883647cf42d93"
+      },
+      {
+        "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+        "anchor": "quelle-327568101d023a"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "kern-1",
+        "title": "Eigentum und Kontrollrollen"
+      },
+      {
+        "id": "kern-2",
+        "title": "Rechtsanknüpfung"
+      },
+      {
+        "id": "kern-3",
+        "title": "Strukturvergleich"
+      },
+      {
+        "id": "kern-4",
+        "title": "Fachauftrag und Verträge"
+      },
+      {
+        "id": "kern-5",
+        "title": "Einrichtung/Übergabe"
+      },
+      {
+        "id": "kern-6",
+        "title": "laufende Pflichten"
+      }
+    ],
+    "primary": {
+      "label": "Strukturauftrag besprechen",
+      "intent": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren"
+    },
+    "mappedLinks": [
+      {
+        "line": "283",
+        "label": "Vermögen übertragen und legal verfügbar halten",
+        "target": "/de/leistungen/vermoegen-uebertragen/",
+        "position": "Kernabschnitt 5: Einrichtung/Übergabe",
+        "purpose": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren."
+      },
+      {
+        "line": "284",
+        "label": "Eine Trust-Struktur organisieren",
+        "target": "/de/leistungen/trust-struktur/",
+        "position": "Kernabschnitt 3: Strukturvergleich",
+        "purpose": "Eignung und konkrete Einrichtung einer Trust-Struktur mit befugten Fachstellen organisieren."
+      },
+      {
+        "line": "285",
+        "label": "Eine Stiftung in Liechtenstein organisieren",
+        "target": "/de/leistungen/stiftung-liechtenstein/",
+        "position": "Kernabschnitt 3: Strukturvergleich",
+        "purpose": "Eine Stiftungsaufgabe mit liechtensteinischer Fachzuständigkeit und Herkunftsrecht abstimmen."
+      },
+      {
+        "line": "286",
+        "label": "Verwahrung und Zugriff auf Sachwerte organisieren",
+        "target": "/de/leistungen/sachwerte-verwahrung/",
+        "position": "Kernabschnitt 3: Strukturvergleich",
+        "purpose": "Eigentum, Verwahrstelle, Herausgabe und berechtigten Zugriff organisatorisch verbinden."
+      },
+      {
+        "line": "287",
+        "label": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+        "target": "/de/leistungen/auslandsgesellschaft/",
+        "position": "Kernabschnitt 3: Strukturvergleich",
+        "purpose": "Eine passende Gründung und laufende Pflichten als Teil der Geschäftsfortführung organisieren."
+      },
+      {
+        "line": "288",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 1: Eigentum und Kontrollrollen",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      }
+    ],
+    "seeding": [
+      "D05",
+      "D06",
+      "D07",
+      "D21"
+    ],
+    "citations": {},
+    "media": "einstieg-laender.webp",
+    "contentFile": "src/content/de/vermoegensstrukturen.json",
+    "sha256": "138f83159dc605db7f7f603050ea058ec40f4fe4063318f36e6cdb42839defba",
+    "seedingSupporting": [
+      "D08"
+    ]
+  },
+  {
+    "route": "/en/services/asset-structures/",
+    "lang": "en",
+    "title": "Arrange asset structures, custody and succession",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-8bf6d4abdefa1c"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-c883647cf42d93"
+      },
+      {
+        "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+        "anchor": "quelle-61eebe5c3fe909"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Ownership and control"
+      },
+      {
+        "id": "section-2",
+        "title": "The legal connections that matter"
+      },
+      {
+        "id": "section-3",
+        "title": "Comparing structures"
+      },
+      {
+        "id": "section-4",
+        "title": "Specialist instructions and contracts"
+      },
+      {
+        "id": "section-5",
+        "title": "Setup and handover"
+      },
+      {
+        "id": "section-6",
+        "title": "Ongoing obligations"
+      }
+    ],
+    "primary": {
+      "label": "Discuss your structure requirements",
+      "intent": "Arrange asset structures, custody and succession"
+    },
+    "mappedLinks": [
+      {
+        "line": "293",
+        "label": "Transfer assets and retain lawful access",
+        "target": "/en/services/asset-transfers/",
+        "position": "Kernabschnitt 5: Setup and handover",
+        "purpose": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren."
+      },
+      {
+        "line": "294",
+        "label": "Arrange a trust structure",
+        "target": "/en/services/trust-structure/",
+        "position": "Kernabschnitt 3: Comparing structures",
+        "purpose": "Eignung und konkrete Einrichtung einer Trust-Struktur mit befugten Fachstellen organisieren."
+      },
+      {
+        "line": "295",
+        "label": "Arrange a Liechtenstein foundation",
+        "target": "/en/services/liechtenstein-foundation/",
+        "position": "Kernabschnitt 3: Comparing structures",
+        "purpose": "Eine Stiftungsaufgabe mit liechtensteinischer Fachzuständigkeit und Herkunftsrecht abstimmen."
+      },
+      {
+        "line": "296",
+        "label": "Arrange custody and access to tangible assets",
+        "target": "/en/services/tangible-asset-custody/",
+        "position": "Kernabschnitt 3: Comparing structures",
+        "purpose": "Eigentum, Verwahrstelle, Herausgabe und berechtigten Zugriff organisatorisch verbinden."
+      },
+      {
+        "line": "297",
+        "label": "Arrange an overseas company and ongoing administration",
+        "target": "/en/services/overseas-company/",
+        "position": "Kernabschnitt 3: Comparing structures",
+        "purpose": "Eine passende Gründung und laufende Pflichten als Teil der Geschäftsfortführung organisieren."
+      },
+      {
+        "line": "298",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 1: Ownership and control",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      }
+    ],
+    "seeding": [
+      "EN13"
+    ],
+    "citations": {},
+    "media": "einstieg-laender.webp",
+    "contentFile": "src/content/en/vermoegensstrukturen.json",
+    "sha256": "0f1f8c73f061dc2825c0f6f897d16d1401605f4fa570a2ea17864f2a40c8f258",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/de/leistungen/vorbereitung-betreuen/",
+    "lang": "de",
+    "title": "Vorbereitung prüfen und aktuell halten",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-af7c328d3e7466"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-c0e39e62f20640"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "kern-1",
+        "title": "Pflegegegenstand"
+      },
+      {
+        "id": "kern-2",
+        "title": "Prüfintervalle und Ereignisse"
+      },
+      {
+        "id": "kern-3",
+        "title": "Fristen und Änderungen"
+      },
+      {
+        "id": "kern-4",
+        "title": "örtliche Kontrolle"
+      },
+      {
+        "id": "kern-5",
+        "title": "Bericht und Zusatzarbeit"
+      },
+      {
+        "id": "kern-6",
+        "title": "nächster Test"
+      }
+    ],
+    "primary": {
+      "label": "Betreuung anfragen",
+      "intent": "Vorbereitung prüfen und aktuell halten"
+    },
+    "mappedLinks": [
+      {
+        "line": "343",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "position": "Passende nächste Arbeit / Relevant next work",
+        "purpose": "Einen zusammenhängenden Plan für Personen, Vermögen, Geschäft und benannte Szenarien ausarbeiten lassen."
+      },
+      {
+        "line": "344",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "position": "Kernabschnitt 3: Fristen und Änderungen",
+        "purpose": "Ein verwendbares, nachverfolgtes Dossier und die beauftragten Dokumenten-/Aufenthaltsschritte organisieren lassen."
+      },
+      {
+        "line": "345",
+        "label": "Diskrete Kommunikation und Wiederzugang einrichten",
+        "target": "/de/leistungen/kommunikation-wiederzugang/",
+        "position": "Kernabschnitt 3: Fristen und Änderungen",
+        "purpose": "Berechtigte Kontakt- und Zugangswege einrichten und praktisch testen lassen."
+      },
+      {
+        "line": "346",
+        "label": "Vereinbarte Aktivierung und Notfallkoordination",
+        "target": "/de/leistungen/aktivierung-notfallkoordination/",
+        "position": "Kernabschnitt 6: nächster Test",
+        "purpose": "Für benannte Unterstützungsfälle einen besetzten, verifizierbaren und getesteten Ablauf vereinbaren."
+      },
+      {
+        "line": "347",
+        "label": "Wie EXOBASIS arbeitet",
+        "target": "/de/arbeitsweise/",
+        "position": "Zusammenarbeit / Working together",
+        "purpose": "Auftrag, Verantwortung, praktische Ausführung und Übergabe verstehen."
+      }
+    ],
+    "seeding": [],
+    "citations": {},
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/de/vorbereitung-betreuen.json",
+    "sha256": "9a64efff360193a47c6529bff54b04239f05daa935c94fef78ddd424f91d26b9",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/en/services/maintain-preparations/",
+    "lang": "en",
+    "title": "Review and maintain your preparations",
+    "sourceRefs": [
+      {
+        "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+        "anchor": "quelle-af7c328d3e7466"
+      },
+      {
+        "module": "13_Baukarten_Leistungen_und_Funktion.md",
+        "anchor": "quelle-c0e39e62f20640"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "What is included in your maintenance scope"
+      },
+      {
+        "id": "section-2",
+        "title": "Review intervals and triggering events"
+      },
+      {
+        "id": "section-3",
+        "title": "Deadlines and changes"
+      },
+      {
+        "id": "section-4",
+        "title": "Local checks"
+      },
+      {
+        "id": "section-5",
+        "title": "Your update and any additional work"
+      },
+      {
+        "id": "section-6",
+        "title": "The next practical test"
+      }
+    ],
+    "primary": {
+      "label": "Enquire about ongoing support",
+      "intent": "Review and maintain your preparations"
+    },
+    "mappedLinks": [
+      {
+        "line": "352",
+        "label": "Personal departure and contingency plan",
+        "target": "/en/services/departure-contingency-plan/",
+        "position": "Passende nächste Arbeit / Relevant next work",
+        "purpose": "Einen zusammenhängenden Plan für Personen, Vermögen, Geschäft und benannte Szenarien ausarbeiten lassen."
+      },
+      {
+        "line": "353",
+        "label": "Arrange residence and document preparation",
+        "target": "/en/services/residence-documents/",
+        "position": "Kernabschnitt 3: Deadlines and changes",
+        "purpose": "Ein verwendbares, nachverfolgtes Dossier und die beauftragten Dokumenten-/Aufenthaltsschritte organisieren lassen."
+      },
+      {
+        "line": "354",
+        "label": "Set up private communications and recovery access",
+        "target": "/en/services/communications-recovery/",
+        "position": "Kernabschnitt 3: Deadlines and changes",
+        "purpose": "Berechtigte Kontakt- und Zugangswege einrichten und praktisch testen lassen."
+      },
+      {
+        "line": "355",
+        "label": "Agreed activation and emergency coordination",
+        "target": "/en/services/activation-emergency-coordination/",
+        "position": "Kernabschnitt 6: The next practical test",
+        "purpose": "Für benannte Unterstützungsfälle einen besetzten, verifizierbaren und getesteten Ablauf vereinbaren."
+      },
+      {
+        "line": "356",
+        "label": "How EXOBASIS works",
+        "target": "/en/how-we-work/",
+        "position": "Zusammenarbeit / Working together",
+        "purpose": "Auftrag, Verantwortung, praktische Ausführung und Übergabe verstehen."
+      }
+    ],
+    "seeding": [],
+    "citations": {},
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/en/vorbereitung-betreuen.json",
+    "sha256": "fde82aad964f7af4af3a7ccf9b791be9bb73b51ce297381c95713b384e59aaf0",
+    "seedingSupporting": []
+  },
+  {
+    "route": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+    "lang": "de",
+    "title": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-b1b4358c41078a"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-84dc1bf419f1cf"
+      },
+      {
+        "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+        "anchor": "quelle-327568101d023a"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Die wirklich benötigten Unterlagen bestimmen"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Kontakte und Rollen eindeutig machen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Rechtsbefugnis und technischen Zugang getrennt prüfen"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Ablage und unabhängigen Ersatzweg einrichten"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Gemeinsam prüfen, ob Berechtigte damit handeln können"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Einrichtung und Übergabe als konkreten Auftrag erhalten"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Aktuell halten, statt nur einmal ablegen"
+      }
+    ],
+    "primary": {
+      "label": "Notfallunterlagen einrichten lassen",
+      "intent": "Notfallunterlagen, die Angehörige tatsächlich nutzen können"
+    },
+    "mappedLinks": [
+      {
+        "line": "499",
+        "position": "#abschnitt-1",
+        "target": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+        "label": "Apostillen, Übersetzungen und Urkunden organisieren",
+        "purpose": ""
+      },
+      {
+        "line": "500",
+        "position": "#abschnitt-3",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "purpose": ""
+      },
+      {
+        "line": "501",
+        "position": "#abschnitt-4",
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+        "purpose": ""
+      },
+      {
+        "line": "502",
+        "position": "#abschnitt-6",
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "purpose": ""
+      },
+      {
+        "line": "503",
+        "position": "#abschnitt-4",
+        "target": "/de/leistungen/kommunikation-wiederzugang/",
+        "label": "Diskrete Kommunikation und Wiederzugang einrichten",
+        "purpose": ""
+      },
+      {
+        "line": "504",
+        "position": "#abschnitt-7",
+        "target": "/de/leistungen/vorbereitung-betreuen/",
+        "label": "Vorbereitung prüfen und aktuell halten",
+        "purpose": ""
+      }
+    ],
+    "seeding": [
+      "D19"
+    ],
+    "citations": {},
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/de/notfallunterlagen.json",
+    "sha256": "03216c2156b09d0502970c9f65384b0086619b1106fc325c8e9b6a3fb4e237e5",
+    "seedingSupporting": [
+      "D20",
+      "D21",
+      "D24"
+    ]
+  },
+  {
+    "route": "/en/knowledge/residence-and-documents/emergency-documents/",
+    "lang": "en",
+    "title": "Emergency documents your family can actually use",
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-b1b4358c41078a"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-84dc1bf419f1cf"
+      },
+      {
+        "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+        "anchor": "quelle-61eebe5c3fe909"
+      }
+    ],
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Identify the documents that are actually needed"
+      },
+      {
+        "id": "section-2",
+        "title": "Make contacts and responsibilities clear"
+      },
+      {
+        "id": "section-3",
+        "title": "Check legal authority separately from technical access"
+      },
+      {
+        "id": "section-4",
+        "title": "Set up storage and an independent access route"
+      },
+      {
+        "id": "section-5",
+        "title": "Check together that authorised people can use it"
+      },
+      {
+        "id": "section-6",
+        "title": "Receive setup and handover as a defined service"
+      },
+      {
+        "id": "section-7",
+        "title": "Keep it usable after the initial setup"
+      }
+    ],
+    "primary": {
+      "label": "Enquire about setting up emergency documents",
+      "intent": "Emergency documents your family can actually use"
+    },
+    "mappedLinks": [
+      {
+        "line": "509",
+        "position": "#section-1",
+        "target": "/en/services/apostilles-translations-documents/",
+        "label": "Arrange apostilles, translations and documents",
+        "purpose": ""
+      },
+      {
+        "line": "510",
+        "position": "#section-3",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "purpose": ""
+      },
+      {
+        "line": "511",
+        "position": "#section-4",
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "label": "When your phone, SIM and main email fail",
+        "purpose": ""
+      },
+      {
+        "line": "512",
+        "position": "#section-6",
+        "target": "/en/services/residence-documents/",
+        "label": "Arrange residence and document preparation",
+        "purpose": ""
+      },
+      {
+        "line": "513",
+        "position": "#section-4",
+        "target": "/en/services/communications-recovery/",
+        "label": "Set up private communications and recovery access",
+        "purpose": ""
+      },
+      {
+        "line": "514",
+        "position": "#section-7",
+        "target": "/en/services/maintain-preparations/",
+        "label": "Review and maintain your preparations",
+        "purpose": ""
+      }
+    ],
+    "seeding": [
+      "EN09",
+      "EN12",
+      "EN13"
+    ],
+    "citations": {},
+    "media": "einstieg-hilfe.webp",
+    "contentFile": "src/content/en/notfallunterlagen.json",
+    "sha256": "314b282d45fd49a85b03990542b80a2bc3f6b3bb49e7481a8e7b8e5978ad8810",
+    "seedingSupporting": []
+  }
+]

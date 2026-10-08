@@ -1,0 +1,196 @@
+{
+  "route": "/en/countries/panama/",
+  "lang": "en",
+  "title": "Panama as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/panama/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-5d8b37142edc25"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-d615b8fe4f73ab"
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Panama: a prepared family base and practical help | EXOBASIS",
+  "description": "Assess Panama as a family base or specialist location. Connect residence, arrival, payment access and ongoing obligations to your actual requirements.",
+  "intro": "<p>You want a base of your own and continued financial room to act. Panama needs separate consideration as a place to live, a specialist-services location and a contingency option. A bank account or residence product alone does not provide your family with a prepared way out.</p>",
+  "primary": {
+    "label": "Ask us to prepare your Panama option",
+    "intent": "General enquiry"
+  },
+  "countryContext": "/en/countries/panama/",
+  "country": {
+    "name": "Panama",
+    "slug": "panama",
+    "region": "Central America and the Caribbean",
+    "map": "countries/panama-locator.svg",
+    "imageAlt": "Locator map of Panama. The highlight shows location, not a safety rating.",
+    "caption": "Geographic orientation, not a travel, safety or boundary assessment.",
+    "summary": [
+      [
+        "A home or a specialist location?",
+        "Define the role around your needs, not a product."
+      ],
+      [
+        "Plan the full arrival",
+        "Connect travel, a usable home and essential services."
+      ],
+      [
+        "Coordinate distinct tasks",
+        "Keep banking, residence and business roles clear."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "Your starting point",
+      "body": "<p>Panama may serve different purposes in your preparation: a family home, a location for specific professional services or a contingency base. Those functions do not have to share one address. Start by identifying what must work here and which dependencies that arrangement would actually reduce.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "Contingency base and return",
+      "body": "<p>A prepared arrival depends on more than distance from Europe. International transport and supply connections matter alongside the specific living area. Plan the journey to your accommodation, a lawful alternative if travel changes, and access to money on arrival. Panama’s international transit role may ease arrival while also creating dependence on transport links. The FCDO account describes protests and road blocks that can affect airport and border access; check the current situation and alternatives for your chosen route before using it. Maintain a return route and obligations in the former country alongside the Panama option.</p><p class=\"exb-source-note\"><a href=\"https://www.gov.uk/foreign-travel-advice/panama/safety-and-security\" rel=\"noreferrer\">FCDO: travel and transport risks in Panama</a> <span>Source text as at 24 September 2026; check the current situation before travel</span></p><p>A transit role does not guarantee that your own route will remain available during a crisis. Future visits and a route back need to match your actual status. Regional travel information should be checked for the chosen area rather than turned into a blanket judgement about the country.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "A lasting future for your family",
+      "body": "<p>A lasting family base needs a location that supports daily life. Schooling, treatment, work and household needs must be reachable from the proposed home. A recognised international services location does not answer that housing question. A child’s home should not be selected by the address of a bank or company service provider. The household needs a suitable legal basis to stay, reachable education and care, and an affordable location. A company can meet a business need without making Panama the right home for every relative.</p><p>Include every person in the plan. A suitable route for the main applicant does not alone establish whether a partner, children or other relatives can stay on the same basis. Family evidence and eligibility should be assessed alongside the location.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Mobile living",
+      "body": "<p>A residence product or banking relationship is not a strategy for moving between homes. Actual use depends on permitted stays, re-entry, activities and the obligations attached to the selected status. This also matters when you intend to spend only part of the year in Panama.</p><p>Separately establish who maintains the accommodation, receives necessary correspondence and has authority for any required action. Knowing a property manager is not the same as agreeing a responsibility or granting accepted authority.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Existing rights and suitable routes",
+      "body": "<p>The Servicio Nacional de Migración lists distinct permits and application routes. Suitability depends on the applicant, evidence and purpose of residence. We therefore start with the procedure that fits, not a universal “Panama package”. The Servicio Nacional de Migración sets out permits on different grounds. Establish the applicant, family evidence and relevant procedure before applying; a bank relationship or company does not create a general right for the family to live in Panama. Intermittent use also calls for a check on continuity of status, re-entry and actual work.</p><p>For a reserve base, continued status and the ability to return matter most. A family move needs a shared long-term route. Mobile use adds actual presence and permitted activities. Immigration decisions, bank acceptance and any company formation remain separate processes.</p><p class=\"exb-source-note\"><a href=\"https://www.migracion.gob.pa/permisos-migratorios/\" rel=\"noreferrer\">Servicio Nacional de Migración, Panamá</a> <span>Source checked: 26.09.2026</span></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fpanama%2F#short-enquiry\">Ask us to prepare your Panama option</a><p>You can ask us to handle a defined task directly. Personal documents belong in the protected exchange agreed for the work.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Regions and housing",
+      "body": "<p>Choose the living area around your daily requirements, not the address of a legal or banking provider. Compare schooling, treatment, journeys, the neighbourhood and the costs of a usable household. An exploratory visit should include relevant appointments rather than viewings alone.</p><p>Where the destination is already settled, accommodation, handover and initial appointments can be arranged as a defined assignment. A broad country-selection engagement is not mandatory when suitable groundwork already exists.</p><p><a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Arrange your arrival abroad</a></p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schooling, healthcare and care",
+      "body": "<h3>Children and relatives</h3><p>Connect school records, teaching language and the starting date to the actual living area. Different passports or family rights may require a separate residence answer for each person. Do not derive all family permissions from the main applicant’s status. For children, match school records to teaching language, admission and the daily journey from the proposed home. For treatment and care, check access and payment in the selected region. A central service-provider address answers none of these household questions.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare to move abroad with children and family</a></p>\n<h3>Insurance and treatment</h3><p>Establish which provider can continue regular treatment, how acceptance and payment work, and whether the journey is practical. A policy does not confirm an appointment or care at the chosen location.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and care abroad</a></p>\n<h3>Care and support</h3><p>For relatives with specific support needs, arrange care, transport and necessary equipment before arrival. The responsible professionals supply the clinical requirements; EXOBASIS coordinates the agreed practical work.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Income, money and work",
+      "body": "<p>A home, bank account and company may serve different purposes. Holding a Panamanian account does not establish residence rights for the family or provide every payment and representation arrangement. Each required payment needs an allowed route, appropriate evidence and an authorised person. An account may help organise access to certain funds, but acceptance, authorised control and payment routes are separate institutional decisions. A company’s management, continuing administration and the individuals’ activities need their own review. Residence permission, a home and tax residence are not the same outcome.</p><p>Business owners must also consider ongoing contracts, invoicing and where activities actually take place. Forming a company alone does not move a business. Tax and legal work must address the relevant home-country and operating-country ties.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Documents and preparation time",
+      "body": "<p>Identify the application category and responsible institutions first. We then coordinate the appropriate identity, family and, where needed, income evidence, accepted translations or authentication, and personal appointments. Use the selected immigration ground to identify personal and family evidence, required authentication and local appointments. A banking or company assignment has separate documentation and direct contracting parties if it is actually part of your plan.</p><p>The order matters: residence, banking and a possible company assignment should not rely on incompatible records or conflicting appointments. We track what has been submitted, which query is outstanding and what can happen next.</p><p><a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a></p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Ongoing obligations",
+      "body": "<p>Maintain the complete option, not just a residence document. Accommodation, communications, documents and payment access need a current status. Changes in family use or business activity should trigger the relevant adjustments. For a base used intermittently, check the usability of status, housing and payment routes before returning. Changes to transport and regional conditions may affect the journey to the home. Records and obligations in the former country continue independently of the Panama assignment.</p><p>Maintaining a banking or company arrangement and maintaining a family base are not automatically the same engagement. Scope, responsibility and additional professional costs are specified so that ownership of the work remains clear.</p><p><a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Review and maintain your preparations</a></p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Practical preparation",
+      "body": "<p>EXOBASIS connects the Panama work you agree: location assessment, document preparation, local appointments, accommodation and arrival. Banking or business work is added where useful, not sold as a compulsory part of every family arrangement.</p><p>You receive coordinated execution with identifiable responsibilities and next steps. Professional mandates, acceptance decisions and institutional contracts stay visible. The value lies in the arrangements made usable for your purpose, not the number of products on an invoice.</p><p><a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Choose suitable countries and locations</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fpanama%2F#short-enquiry\">Ask us to prepare your Panama option</a><p>You can ask us to handle a defined task directly. Personal documents belong in the protected exchange agreed for the work.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div><div class=\"exb-country-comparisons\"><h3>Two other ways to approach the same question</h3><article><p><a class=\"exb-text-link\" href=\"/en/countries/costa-rica/\">Costa Rica as a personal alternative</a></p><p>Costa Rica: compare family life, the residence sequence and healthcare arrangements rather than specialist services alone.</p></article><article><p><a class=\"exb-text-link\" href=\"/en/countries/paraguay/\">Paraguay as a personal alternative</a></p><p>Paraguay: assess an inland option with a different arrival and residence sequence against the same Panama requirements.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Does my family have to live where my specialist services are arranged?",
+    "answer": "No. Your home base, banking relationship and business location serve different purposes. We select and coordinate them accordingly."
+  },
+  "editorialSources": [
+    "pa"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 978,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 980,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 981,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 982,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 983,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 984,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 985,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 986,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 987,
+      "target": "/de/laender/panama/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1449,
+      "target": "/en/countries/costa-rica/",
+      "label": "Costa Rica as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1451,
+      "target": "/en/countries/paraguay/",
+      "label": "Paraguay as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ]
+}

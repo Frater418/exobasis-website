@@ -1,0 +1,120 @@
+{
+  "route": "/de/anbieterinformationen/",
+  "lang": "de",
+  "title": "Anbieterinformationen",
+  "parent": "/de/",
+  "translation": "/en/provider-information/",
+  "model": "recht-funktion",
+  "schemaVersion": 1,
+  "kind": "legal",
+  "reviewStatus": "blocked_required_facts",
+  "releaseStatus": "blocked_required_facts",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-e77c248e017881",
+      "startLine": 449
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-caee7211af0c0f",
+      "startLine": 636
+    }
+  ],
+  "eyebrow": "EXOBASIS / Rechtliche Informationen",
+  "seoTitle": "Anbieterinformationen | EXOBASIS",
+  "description": "Anbieteridentität, Kontakt und rechtliche Angaben zu EXOBASIS.",
+  "intro": "<p>EXOBASIS ist die Marke für die Organisation einer vorbereiteten Basis im Ausland. Für rechtliche Erklärungen und Vertragsfragen ist die Identität des tatsächlich verantwortlichen Anbieters maßgeblich.</p>",
+  "sections": [
+    {
+      "id": "i-anbieter",
+      "title": "Verantwortlicher Anbieter",
+      "body": "<p>EXOBASIS ist eine Marke für die Organisation internationaler Vorbereitung. Die Marke allein bezeichnet keinen Vertragspartner und keine Rechtsform. Verbindlich ist die Identität des Rechtsträgers, der im konkreten Angebot genannt wird, den Auftrag annimmt und die Rechnung stellt.</p><p>Für eine rechtlich belastbare Anbieterzuordnung sind dessen vollständiger Name, Rechtsform und vertretungsberechtigte Person erforderlich. Eine operative Basis in einem Land ist keine solche Zuordnung.</p>",
+      "reviewRequirements": [
+        "Vollständiger Rechtsträgername und Rechtsform",
+        "Vertretungsberechtigte Person(en)",
+        "Bestätigung, wer Verträge schließt und Rechnungen ausstellt"
+      ]
+    },
+    {
+      "id": "i-anschrift",
+      "title": "Anschrift für rechtliche Erklärungen",
+      "body": "<p>Die operative Basis in der Dominikanischen Republik beschreibt den Arbeitsbezug des Projekts, nicht automatisch die Anschrift für rechtliche Erklärungen. Maßgeblich ist eine vollständige, berechtigt genutzte Zustellanschrift des verantwortlichen Anbieters mit Ort und Land. Die Anschrift eines Fachausführers oder ein bloßes Postfach ersetzt sie nicht ohne entsprechende rechtliche Grundlage.</p>",
+      "reviewRequirements": [
+        "Zustellfähige Anschrift mit Straße, Ort, Postleitzahl und Land",
+        "Bestätigung des Verwendungsrechts dieser Anschrift"
+      ]
+    },
+    {
+      "id": "i-kontakt",
+      "title": "Direkter Kontakt",
+      "body": "<p>Organisatorische Fragen kannst du über die Seite <a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a> stellen. Eine rechtliche Rückfrage setzt weder ein Orientierungsgespräch noch einen Beratungskauf voraus. Ein öffentlicher direkter Kontakt zum verantwortlichen Anbieter muss zusätzlich zur Anfragefunktion erreichbar und kopierbar sein.</p><p>Die <a href=\"/de/leistungsbedingungen/\">Leistungs- und Vertragsbedingungen</a> ordnen die vertraglichen Schritte ein. Hinweise zur Verarbeitung persönlicher Angaben stehen im <a href=\"/de/datenschutz/\">Datenschutz</a>.</p>",
+      "reviewRequirements": [
+        "Tatsächliche öffentliche E-Mail-Adresse",
+        "Weiterer erforderlicher unmittelbarer Kontaktweg",
+        "Funktionsnachweis des gewählten Anfragewegs"
+      ]
+    },
+    {
+      "id": "i-register",
+      "title": "Register und zuständige Stellen",
+      "body": "<p>Register-, Steuer- und berufsrechtliche Angaben beziehen sich, soweit einschlägig, auf den tatsächlich verantwortlichen Rechtsträger. Eine etwaige Eintragung oder Fachzulassung eines selbständigen Dienstleisters ist nicht die des Anbieters von EXOBASIS. Nur geprüfte, für diesen Anbieter geltende Stellen und Kennnummern können hier veröffentlicht werden.</p><p>Wenn du zur Anbieterzuordnung eine konkrete Frage hast, nutze die <a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a>. Eine rechtliche Pflichtangabe kann dadurch nicht ersetzt werden.</p>",
+      "reviewRequirements": [
+        "Register und Registernummer, soweit einschlägig",
+        "Steuer-/Umsatzsteuerangaben nach tatsächlicher Anwendbarkeit",
+        "Etwaige Fachzulassungen und zuständige Stellen oder bestätigte Nichtanwendbarkeit"
+      ]
+    }
+  ],
+  "linkPlan": [
+    {
+      "sourceLine": 810,
+      "target": "/de/",
+      "label": "EXOBASIS: Eine eigene Basis außerhalb des Herkunftslands",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 812,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 813,
+      "target": "/de/leistungsbedingungen/",
+      "label": "Leistungs- und Vertragsbedingungen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Vor dem kommerziellen Anfrage-/Angebotsübergang"
+    },
+    {
+      "sourceLine": 814,
+      "target": "/de/datenschutz/",
+      "label": "Datenschutz",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Am Formular beziehungsweise rechtlicher Querverweis"
+    },
+    {
+      "sourceLine": 815,
+      "target": "/en/provider-information/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    }
+  ],
+  "legalType": "provider",
+  "releaseBlockers": [
+    "Vollständiger Rechtsträgername und Rechtsform",
+    "Vertretungsberechtigte Person(en)",
+    "Bestätigung, wer Verträge schließt und Rechnungen ausstellt",
+    "Zustellfähige Anschrift mit Straße, Ort, Postleitzahl und Land",
+    "Bestätigung des Verwendungsrechts dieser Anschrift",
+    "Tatsächliche öffentliche E-Mail-Adresse",
+    "Weiterer erforderlicher unmittelbarer Kontaktweg",
+    "Funktionsnachweis des gewählten Anfragewegs",
+    "Register und Registernummer, soweit einschlägig",
+    "Steuer-/Umsatzsteuerangaben nach tatsächlicher Anwendbarkeit",
+    "Etwaige Fachzulassungen und zuständige Stellen oder bestätigte Nichtanwendbarkeit"
+  ]
+}

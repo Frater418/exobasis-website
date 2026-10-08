@@ -1,0 +1,197 @@
+{
+  "route": "/en/countries/costa-rica/",
+  "lang": "en",
+  "title": "Costa Rica as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/costa-rica/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-9afc83d751dea5"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-8cdc94cfe64939"
+    }
+  ],
+  "eyebrow": "EXOBASIS / Costa Rica",
+  "seoTitle": "Moving to Costa Rica: residency, homes and family | EXOBASIS",
+  "description": "Plan a Costa Rica base with the right residency route, a sound rental or property purchase, school and healthcare access, and practical support on the ground.",
+  "intro": "<p>Costa Rica can offer your family a life far from the pressures that made you consider leaving. Turning that possibility into a prepared home means choosing between an exploratory stay, a remote-working year and a residence route you can maintain. The best place for a school-age family may be very different from the beach where you first imagined living.</p><p>EXOBASIS connects those decisions with the work on the ground: location selection, documents, housing, arrival and the care of a home while you are away.</p>",
+  "primary": {
+    "label": "Prepare my Costa Rica base",
+    "intent": "General enquiry"
+  },
+  "countryContext": "/en/countries/costa-rica/",
+  "country": {
+    "name": "Costa Rica",
+    "slug": "costa-rica",
+    "region": "Central America and the Caribbean",
+    "map": "countries/costa-rica-locator.svg",
+    "imageAlt": "Map locating Costa Rica between Nicaragua and Panama, with Pacific and Caribbean coasts.",
+    "caption": "Costa Rica in Central America.",
+    "summary": [
+      [
+        "Choose the right stay",
+        "A visit, a remote-work estancia and a resident category have different rights and renewal conditions."
+      ],
+      [
+        "Understand the property title",
+        "Ordinary registered ownership and a coastal concession are materially different purchases."
+      ],
+      [
+        "Build around daily life",
+        "Choose the school, treatment access, working connection and arrival route before the house."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "Which Costa Rica life are you preparing?",
+      "body": "<p>For a family leaving Britain, the UAE or another country, Costa Rica is a serious option when your income can support life abroad and you are prepared to establish daily life in a Spanish-speaking country. A pension, qualifying stable income and eligible remote work lead to different immigration routes.</p><p>If fear of war or repression is driving your decision, the useful outcome is a place you can reach and live in, with access to your money and the people your family needs. A tourist booking can provide a first landing place. A longer-term home also needs the legal right to remain, a workable school arrangement and treatment that continues after the first few weeks.</p><p>Begin with the people and the intended duration, then choose the location. The same budget produces different trade-offs in the western San José area, a smaller inland community and a coastal town.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "A refuge that works from the day you arrive",
+      "body": "<dl><dt>Scenario</dt><dd><p>Costa Rica can give your family a prepared Latin American base away from a war affecting your current home. Decide whether you need an early exploratory stay or a home you can legally use for a sustained period. The distance only becomes useful when the household can reach a suitable town, enter and maintain the stay.</p></dd><dt>Access</dt><dd><p>Build the route all the way to the front door. Your flight plan includes the nationality-specific requirements of any transit country, the final drive, a way to obtain keys and somewhere to buy food or collect medication. A connecting flight through another country may require documents that Costa Rica itself does not.</p><p>British-citizen passport holders can visit Costa Rica visa-free for up to 180 days; the immigration officer sets the actual authorised period on arrival. The UK guidance also identifies yellow-fever certificate requirements for arrivals from listed risk countries. For a mixed-nationality household, establish the entry route separately for each passport and the actual itinerary. <a href=\"https://www.gov.uk/foreign-travel-advice/costa-rica/entry-requirements\">Costa Rica entry requirements for British citizens</a>.</p><p>Use the first visit to test the location and prepare the residence route that fits your family. Under <a href=\"https://www.tse.go.cr/pdf/normativa/leygeneraldemigracion.pdf\">Immigration Law 8764, article 78</a>, three consecutive years of regular temporary residence can provide a basis to apply for permanent residence. That needs its own application and decision. Time as a visitor or in the digital-nomad <em>estancia</em> is not time in that temporary-residence category. Keep the residence documents and qualifying history from the start if a lasting base is your aim.</p></dd><dt>Dependencies</dt><dd><p>Choose the home and its last road connection together. Floods and landslides can cut access during the rainy season; earthquake and volcanic hazards require local preparation. Check an alternative route, water and power arrangements, and how food, treatment and medication would reach the household if the usual journey failed. <a href=\"https://www.gov.uk/foreign-travel-advice/costa-rica/safety-and-security\">Costa Rica natural-hazard and road guidance</a>.</p><p>Keep the arrival funds separate from money tied up in a property purchase. Have a second means of payment and a contact who can act if your flight changes. The wider <a href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">departure plan for a war-related disruption</a> helps connect the destination with the decisions you need to make while travel is still practical.</p></dd><dt>Return</dt><dd><p>Before leaving the prepared base unused, check the expiry, renewal and re-entry position of each person's actual permission. A house does not preserve immigration status. Keep the documents for returning to Costa Rica and, separately, the rights and transit documents needed to return to your current country. If you use the nomad route, plan its own 180-day renewal requirement described below; that is not the three-year regular-residence route.</p></dd></dl>"
+    },
+    {
+      "id": "family-future",
+      "title": "Moving to Costa Rica with family",
+      "body": "<p>For a permanent family move, start with school and care rather than a national cost-of-living average. List the child's language, curriculum and learning-support needs, then compare the actual schools that can meet them. Include the route to school in the housing search: a home that looks nearby on a map can still produce a difficult daily journey.</p><p>Spanish becomes important beyond the international-school environment, particularly for public services, tradespeople and everyday relationships. Give adults as well as children a way to learn it. A bilingual contact can help with arrival; it is not a substitute for becoming comfortable with your surroundings.</p><p>A parent's retirement residence and an adult child's remote-work permission are separate projects. Document the family relationships, financial support, custody and travel consent before the move, so that the practical plan does not depend on an assumed entitlement. Our <a href=\"/en/knowledge/family-life-abroad/children-family/\">family preparation guide</a> connects these decisions.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "A remote-working year with a defined renewal rule",
+      "body": "<p>Costa Rica's digital-nomad route is an <em>estancia</em> for people providing paid remote services to people or organisations outside Costa Rica. It offers up to one year with the possibility of one additional year. It is a useful way to experience the country while continuing qualifying overseas work.</p><p>The official application requirements specify at least USD 3,000 a month in qualifying income, or USD 4,000 when applying with dependants. Bank statements must evidence the preceding year's income and be accompanied by the required declaration or certification. This is a documented income test, not simply a balance held on the application date. <a href=\"https://www.visitcostarica.com/digital-nomads/requirements\">Official remote-worker application requirements</a>.</p><p>For renewal, the applicant must demonstrate at least 180 days in Costa Rica during the originally granted year and provide the required income and insurance evidence again. That presence requirement appears in <a href=\"https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=95085&amp;param2=129850&amp;param3=1&amp;param4=\">Law 10008, article 15</a>, and <a href=\"https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=97374&amp;param2=131405&amp;param3=1\">Regulation 43619, article 10</a>. If you plan to keep the home almost entirely in reserve, that presence condition matters. The tourism authority's <a href=\"https://www.visitcostarica.com/digital-nomads/renewal\">official renewal page</a> still says 80 days; that conflicts with the governing law and regulation. Plan your presence against the 180-day legal requirement.</p><p>Choose a rental with verified internet at the actual address, a suitable working space and an agreed response to outages. Test the hours you will work with UK or UAE clients before committing to the location.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Costa Rica residency: pension, stable income or a family connection",
+      "body": "<h3>Pensionado</h3><p>Article 81 of the immigration law requires a permanent, stable pension from abroad of at least USD 1,000 per month. The evidence must establish the pension, rather than a temporary withdrawal from savings.</p><h3>Rentista</h3><p>Article 82 requires permanent, stable monthly income of at least USD 2,500, originating abroad or generated through the national banking system. It permits the qualifying applicant to seek status for a spouse and children under 25, or older children with disabilities. </p><p>The proof must show that the qualifying income will continue for at least two years. For income through Costa Rica's banking system, obtain the document from a bank within that system; for foreign income, obtain it from a bank in the country where the income originates, with the applicable signature authentication, legalisation or apostille. Where that foreign income is not issued by a bank, a public accountant accredited with the relevant Costa Rican professional body may certify it from reliable documents from the source country. Documents in another language need the required literal Spanish translation by an official translator or a notary who knows the language. These are the alternatives and conditions in <a href=\"https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_articulo.aspx?nValor1=1&amp;nValor2=72489&amp;nValor3=140878&amp;nValor5=100&amp;param1=NRA\">article 99(l) of the immigration regulation</a>. Have the income evidence and family documentation prepared for the category you are actually using.</p><h3>A longer-term residence plan</h3><p>The law provides a route to apply for permanent residence after three consecutive years of temporary residence. It also defines specific family-based categories. Temporary residence, however, authorises only the remunerated activities approved by the immigration authority; residence and unrestricted local employment are different rights. <a href=\"https://www.tse.go.cr/pdf/normativa/leygeneraldemigracion.pdf\">Immigration Law 8764, articles 78 to 82</a>.</p><p>If you specifically want residence based on investment, commission the immigration and property assessment together before committing capital. A home can serve your family while your residence is based on pension or income; the two decisions do not need to depend on the same transaction.</p><p>EXOBASIS can organise the document preparation and appropriately qualified local immigration work, then coordinate the arrival steps around that route. <a href=\"/en/services/residence-documents/\">Arrange your Costa Rica residence documents</a>.</p><div class=\"exb-criteria-table\" role=\"region\" tabindex=\"0\" aria-label=\"Choose how you will use your Costa Rican base\"><table><caption>Choose how you will use your Costa Rican base</caption><thead><tr><th scope=\"col\">Intended use</th><th scope=\"col\">Right you can use</th><th scope=\"col\">Evidence and time in the country</th><th scope=\"col\">What EXOBASIS can organise</th></tr></thead><tbody><tr><th scope=\"row\">A permanent move and family home</th><td>Match the household to Pensionado, Rentista or a genuine family category. A Costa Rican spouse falls under article 79(1); the qualifying parent, child or sibling relationships specified in article 78(2) are a different permanent-residence case.</td><td>Obtain the pension or stable-income evidence described above, or the civil-status records proving the qualifying relationship. Identify the spouse and eligible children in the application, prepare the required Spanish documents and plan the insurance and renewal obligations.</td><td>Organise the category-specific family dossier and local immigration work. Article 84 provides consular or national DGME application channels for temporary residence; agree the channel for your case, with DGME deciding residence. Then coordinate the family's housing and arrival.</td></tr><tr><th scope=\"row\">Living between Costa Rica and another country</th><td>Use a visitor permission for an actual visit. Qualifying overseas remote work has the separate digital-nomad estancia; Pensionado or Rentista is regular temporary residence, not another name for that programme.</td><td>For the nomad route, prepare the qualifying overseas-income evidence, each family member's full-period insurance and the calendar needed for at least 180 days in the originally granted year if seeking renewal. For another category, use its actual grant and permitted activity.</td><td>Coordinate the correct application evidence, a rental with workable internet, arrival and absence arrangements. Align the travel calendar with the chosen permission before treating the home as an occasional base.</td></tr><tr><th scope=\"row\">A prepared base outside your home country</th><td>An exploratory visit helps select the place; continuing access depends on obtaining and maintaining a suitable personal status. Three consecutive years of regular temporary residence can support a permanent-residence application, not an automatic upgrade.</td><td>Keep the qualifying income or family evidence current, document the regular-residence history and prepare the later application separately. Visitor or nomad-estancia periods do not count as those three years. Keep entry and renewal documents ready for each household member.</td><td>Connect immigration and document preparation with a reachable home, an arrival contact, available funds and agreed property care. Plan the later DGME application where eligible, rather than sell a property as a permanent residence right.</td></tr></tbody></table></div><p><a href=\"https://www.tse.go.cr/pdf/normativa/leygeneraldemigracion.pdf\">Immigration Law 8764, articles 78 to 84: residence categories, dependants and application channels</a>.</p><div class=\"exb-page-actions\"><a class=\"exb-btn\" href=\"/en/enquiry/\"><span>Tell us what you want prepared in Costa Rica</span></a><a class=\"exb-text-link\" href=\"/en/enquiry/#contact-start\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Central Valley or coast: renting and buying a usable home",
+      "body": "<h3>Choose the area by what your family needs</h3><p><strong>Escazú, Santa Ana and the western San José area</strong> are worth examining when international schooling, specialist treatment and a city-based working life lead the decision. Hospital CIMA is in Escazú. Country Day School's campus is in San Rafael de Alajuela on Route 27, so those two destinations are not interchangeable neighbourhoods. Test the real journeys before choosing a home.</p><p><strong>Guanacaste and the Pacific coast</strong> offer a different setting for a couple or a family whose school and treatment arrangements suit the chosen town. Compare access via Liberia with the onward road journey and your alternative arrival plan. On either coast, investigate the precise road access, drainage, water supply and title; the sea view tells you little about them.</p><p>Flooding and landslides can block roads in the rainy season, and earthquake and volcanic hazards require local preparation. The UK travel guidance also identifies theft and armed robbery, including in places visitors use. Assess the neighbourhood, night-time access, parking and security arrangements for the specific home. <a href=\"https://www.gov.uk/foreign-travel-advice/costa-rica/safety-and-security\">Local safety, road and natural-hazard guidance</a>.</p><h3>Rent before fixing the long-term location</h3><p>A serviced or furnished first stay gives you time to inspect a residential rental. Under the general urban and suburban tenancy law, the normal minimum term is three years even where a shorter term has been written. Article 72 provides for termination by the tenant on three months' notice, unless otherwise agreed in writing. Hotels and qualifying seasonal tourist accommodation have separate treatment, so establish which agreement you are signing.</p><p>The written residential contract should identify the landlord and property, its registry reference, condition, included furnishings, intended use, rent, payment method and notice addresses. Agree the deposit and its return, utilities, repair responsibilities and any absences explicitly. Article 58 limits advance residential rent to one month. <a href=\"https://unpcr.com/wp-content/uploads/2025/05/Ley-General-de-Arrendamientos-Urbanos-y-Suburbanos.pdf\">Tenancy Law 7527, articles 7, 11, 58, 70 and 72</a>.</p><h3>Buying: registered ownership versus a coastal concession</h3><p>Foreigners can own ordinary titled property, within the statutory restrictions that apply to the land. Costa Rica's Constitution gives foreigners the same individual and social rights as Costa Ricans, subject to constitutional and legal exceptions. A particularly important exception is the maritime-terrestrial zone. <a href=\"https://tse.go.cr/pdf/normativa/constitucion.pdf\">Constitution, article 19</a>.</p><p>The coastal law generally defines a 200-metre strip measured from the ordinary high-tide line: 50 metres of public zone and a further 150 metres of restricted zone. A concession in that zone is different from ordinary registered freehold ownership. Article 47 bars concessions to foreigners who have not resided in Costa Rica for at least five years and includes restrictions on foreign-controlled entities. Establish the parcel's actual legal regime before treating a beachfront listing as a purchasable family home. <a href=\"https://www.snitcr.go.cr/pdfs/leyes/Ley-6043.pdf\">Maritime-Terrestrial Zone Law 6043, articles 9, 10 and 47</a>.</p><p>For an ordinary purchase, arrange independent local legal and notarial work. The review should reconcile the registered owner, title, charges and cadastral plan with the land being shown, then examine access rights, the permitted use, building status and water arrangements. The Registro Nacional provides registered-property and cadastral certifications; a listing or the seller's copy is not the final title review. <a href=\"https://www.rnpdigital.com/centroinforegistral/registros/inmobiliario/GuiasCalificacion/Guia-de-Servicios-Inmobiliario-Catastral-2025.pdf\">Registro Nacional cadastral services</a>.</p><p>Before transferring a deposit, agree the review conditions, completion documents and handling of funds. Budget for notarial and legal work, transfer taxes, registry charges and stamps, any survey or technical inspections, and the costs of insuring and maintaining the home. EXOBASIS can organise the search brief, viewings, independent title and purchase review, contract and completion coordination, handover, utilities and the property's ongoing care. <a href=\"/en/services/arrange-arrival/\">Commission the housing and arrival work</a>.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "School admission and treatment you can actually use",
+      "body": "<p>Country Day School is one concrete international-school option. Start with its admissions process before committing to a nearby home. The school asks for identity and birth documents, vaccination information, academic records and recommendations appropriate to the age group. Older pupils have interviews and academic assessment. Ask the receiving school to confirm curriculum continuity, language and support provision before selecting a long-term home. <a href=\"https://www.nordangliaeducation.com/cds-costa-rica/admissions/entry-requirements\">Country Day School admissions requirements</a>.</p><p>For healthcare, residence and a remote-worker estancia have different insurance arrangements. The immigration law links the relevant temporary-residence renewals to continuous CCSS social-insurance enrolment from the grant of residence. For the digital-nomad route, each family member needs medical cover for the full authorised stay, with at least USD 50,000 in medical-expense coverage for illness in Costa Rica. <a href=\"https://www.tse.go.cr/pdf/normativa/leygeneraldemigracion.pdf\">Immigration law, article 80</a>; <a href=\"https://www.visitcostarica.com/digital-nomads/medical-services-policy\">remote-worker medical-policy requirements</a>.</p><p>Public-system registration, private insurance and an available specialist are separate arrangements. Hospital CIMA in Escazú describes an acute-care hospital with imaging, specialist services and an on-site pharmacy serving local and international patients. Use a named facility to establish the actual treatment, appointment, payment and insurance process your family will need. <a href=\"https://hospitalcima.com/en/about/\">Hospital CIMA's services and location</a>.</p><p>If a relative needs daily care, prepare the care schedule, equipment, accessible housing and backup person along with the treatment plan. <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Organise health cover and continuing care abroad</a>.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Income, banking and paying the first month's bills",
+      "body": "<p>The Pensionado or Rentista income threshold establishes eligibility for that residence category, not whether your family can afford its chosen life in Costa Rica. Build the budget for your actual household and town: rent or the ongoing cost of the owned home, utilities, school, treatment, health insurance and everyday transport. Separate those recurring costs from the one-off move, deposits, furnishing and setup. Then identify a reserve you can reach for an interrupted income payment, urgent treatment or a changed journey, rather than counting money already committed to buying the property.</p><p>Plan the money flow in the currencies you will use, including how your overseas income reaches your day-to-day account and who can act if you cannot log in. Keep the lease, proof of income and source-of-funds documents together so that a bank enquiry does not leave you searching across several countries. Use the <a href=\"/en/knowledge/assets-and-access/banking-payments/\">banking access and payments guide</a> to test an alternative payment route and arrange authorised recovery if the usual account or phone becomes unavailable.</p><p>Banco de Costa Rica's passport-holder procedure dated 4 September 2019 is a historical example of why account opening needs preparation. It described an ordinary savings account opened in person, customer-identification checks and evidence of a local connection, such as employment, representation of a locally domiciled company or property ownership. It distinguished that process from accounts for holders of a DIMEX immigration identity document. Obtain the receiving branch's current product and document requirements and confirm your individual account acceptance before scheduling funds through it. <a href=\"https://somos.bancobcr.com/blogs/ab2b0d34-f406-4bcb-bb91-a1abddbbc410/entry/Apertura_de_cuentas_para_extranjeros_con_pasaporte?lang=en_us\">BCR's published account-opening procedure</a>.</p><p>For remote work, match the activity to the permission: the digital-nomad category covers services to people or entities outside Costa Rica. Local employment or services to Costa Rican customers need the appropriate authorisation. The official digital-nomad programme provides an income-tax exemption for qualifying participants; establish that treatment through the programme rather than assume it from a foreign payment account. <a href=\"https://www.visitcostarica.com/digital-nomads\">Official programme and benefits</a>. Under the ordinary tax rules, Costa Rican-source income includes income generated in the territory from services, property, invested capital and rights, irrespective of nationality or where the capital came from. A foreign customer or foreign payment account is therefore not a sufficient tax analysis of your working arrangement. <a href=\"http://www.pgrweb.go.cr/DOCS/NORMAS/1/VIGENTE/D/2020-2029/2020-2024/2023/189F7/163217.HTML\">Income-tax regulation: definition of Costa Rican-source income</a>.</p><p>Before moving an existing company or its management, connect Costa Rican advice with the obligations in the country you are leaving. <a href=\"/en/knowledge/business-and-income/departure-tax/\">Plan the departure and tax work</a>. If your immediate priority is reliable access to money, <a href=\"/en/services/banking-liquidity/\">commission banking and liquidity preparation</a>.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Bring the evidence your chosen route requires",
+      "body": "<p>For pension or income-based residence, build the evidence around the income and family relationships that qualify you. For a remote-worker estancia, the official requirements instead specify the application, passport and entry information, payment evidence and the preceding year's qualifying income. Using the correct document list from the outset prevents an exploratory trip becoming a search for records back home.</p><p>The remote-worker requirements call for official Spanish translations of documents issued in another language. Where you use the alternative income certification by an overseas professional, the official guidance requires its apostille or consular legalisation. Apply the authentication requirements to the actual document and issuing country. <a href=\"https://www.visitcostarica.com/digital-nomads/requirements\">Remote-worker documents and translation rules</a>.</p><p>EXOBASIS can organise collection, translations, the necessary local professional work and appointments, and keep the sequence aligned with accommodation and family travel. Where you want an initial visit before deciding, <a href=\"/en/services/arrange-arrival/\">commission an exploratory stay</a>.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep the home ready through the months you are away",
+      "body": "<p>A Costa Rican home needs active care during a long absence. Agree scheduled checks for leaks, humidity, drainage, pests, security and utility problems. Name the person who holds the keys, the repairs they may approve and who takes over when they are unavailable.</p><p>Keep residence and identity-document renewals, the applicable insurance or CCSS arrangements, property payments and service contracts on the same calendar. For the remote-worker route, retain proof of at least 180 days in Costa Rica during the originally granted year, as required by <a href=\"https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=95085&amp;param2=129850&amp;param3=1&amp;param4=\">Law 10008, article 15</a>, alongside the evidence of continuing qualifying income.</p><p>If the property will be rented while you are abroad, settle when and how it becomes available to your family again. The residential tenancy rules and notice period belong in that decision. A home occupied under a continuing lease cannot simply be assumed ready for an unplanned arrival.</p><p><a href=\"/en/services/maintain-preparations/\">Ask EXOBASIS to maintain the agreed property and arrival preparations</a>, with named tasks, reporting and a clear handover before you travel.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Commission the work that makes Costa Rica usable",
+      "body": "<p>You can commission a specific result: a location comparison built around your school and medical needs, an exploratory stay, a residence-document project, a rental search, or the organisation of a property purchase and handover. For a complete family base, EXOBASIS connects those assignments and carries out the agreed preparation.</p><p>A property assignment can include the search brief and viewings, organising independent legal and technical checks, coordinating the contract and completion, preparing utilities and furnishings, and arranging ongoing care. We define the work and the local professional roles before you commit, with service fees and third-party costs distinguished from the property's price.</p><p>If the country choice is still open, <a href=\"/en/countries/panama/\">Panama</a> offers a comparison around housing, international connections and access to professional services. Its canal and transit role also matter in a crisis: weigh regional tensions and disruption to transport and supply alongside those everyday advantages.</p><p><a href=\"/en/countries/uruguay/\">Uruguay</a> offers a South American distance option rather than the same Central American setting. Compare its permanent-residence route with the status available to your family in Costa Rica, then establish how you would reach a home kept available to you and fund a sustained stay. Distance alone does not provide accommodation or a viable household income. You can <a href=\"/en/services/country-location-selection/\">commission your own country and location comparison</a>. The <a href=\"/en/countries/\">country overview</a> keeps the wider options together.</p><div class=\"exb-closing-actions\"><a class=\"exb-btn\" href=\"/en/enquiry/\"><span>Tell us what you want prepared in Costa Rica</span></a><p><a class=\"exb-text-link\" href=\"/en/enquiry/#contact-start\">Private enquiry</a></p></div><p>Include who will use the base, your current country, your intended duration and anything already arranged. If you need help choosing the right assignment, ask for the free 20-minute orientation.</p>"
+    }
+  ],
+  "faq": {
+    "question": "Should I rent or buy when moving to Costa Rica?",
+    "answer": "Renting first lets you test the school run, medical access, working connection and rainy-season access before choosing a permanent home. Buying can make sense once the location and residence plan are clear. Establish whether the property is ordinary registered ownership or a coastal concession, arrange independent title and technical checks, and agree how it will be maintained during your absences. EXOBASIS can organise the search, purchase coordination and handover as a defined assignment."
+  },
+  "editorialSources": [
+    "cr"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 998,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1000,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1001,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1002,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1003,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1004,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1005,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1006,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1007,
+      "target": "/de/laender/costa-rica/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1453,
+      "target": "/en/countries/panama/",
+      "label": "Panama as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1455,
+      "target": "/en/countries/uruguay/",
+      "label": "Uruguay as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Moving to Costa Rica: prepare a home beyond the holiday"
+}

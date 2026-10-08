@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/prepare-your-way-out/where-to-go-if-war/",
+  "lang": "en",
+  "title": "Where could your family go if war disrupts your plans?",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-cb3db36c6732d0"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-5f309316222311"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-770b74d19817c3"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Where to go if war breaks out: prepare a usable option | EXOBASIS",
+  "description": "Choose a place your family can reach, enter and live in if war disrupts normal life. Connect residence, routes, housing, healthcare and money before you need them.",
+  "intro": "<p>If you are looking for the safest countries in World War 3, you are probably trying to answer a more personal question: where could we go before war takes away our choices? A distant country on a list only becomes an option when your whole family can reach it, enter it and live there.</p><p>You can prepare that option while continuing your present life. The work is to choose a usable destination, establish what it takes to get there and remove the dependencies that would otherwise keep you waiting.</p>",
+  "primary": {
+    "label": "Prepare a usable option for my family",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "Where could your family go if war breaks out?",
+    "facts": [
+      [
+        "Choice",
+        "A place the whole family can enter and live in."
+      ],
+      [
+        "Preparation",
+        "Rights, transport, care, housing and money connected."
+      ],
+      [
+        "Decision",
+        "Clear review and departure conditions agreed in advance."
+      ]
+    ],
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Map and compass, symbolising personal preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Prepare while departure is still an ordinary journey",
+      "body": "<p>The advantage of acting early is practical: you can obtain records, establish residence where needed, inspect accommodation and test payment access without trying to solve everything during a crisis. A prepared option allows a decision to be made against your own agreed criteria.</p><p>Start with the people, not the map. Write down who would travel, who needs assistance, who may initially remain behind and what work or care cannot stop. Then identify the tasks that need lead time. A child’s travel consent, a residence application or continuity of dialysis cannot sensibly be left until the day you want to leave.</p><p>Fear of conscription needs a separate, current legal answer for the person concerned. Civilian departure planning and existing military or reserve obligations are different questions. For UK-linked cases, use the <a href=\"/en/knowledge/prepare-your-way-out/leaving-uk/\">UK departure guide</a> and establish the actual service status.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Plan for the disruption that could affect your journey",
+      "body": "<p>War may affect your plans before it reaches your neighbourhood. Flights can be cancelled, airspace or borders restricted, payment services interrupted and family members separated by where they happen to be. Decide which changes would cause you to review the plan, prepare to leave or stay where you are under official instructions.</p><p>These stages are decisions to agree in advance. Set a named decision-maker and substitute, a contact method if mobile data fails and a spending authority for necessary bookings. If you live in the UAE, the <a href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\">UAE departure page</a> adds the residence, banking and family dependencies.</p><p>The FCDO’s crisis guidance explains preparation and how to follow official advice during disruption. Use current guidance for the country you are in and the nationality under which you would seek consular help.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">FCDO: preparing for and dealing with a crisis overseas</a>.</p>",
+      "criteria": {
+        "title": "An example decision structure to adapt to your household",
+        "headers": [
+          "Stage",
+          "Decision",
+          "Evidence needed at that point"
+        ],
+        "rows": [
+          [
+            "Prepare",
+            "Bring the option into working order.",
+            "Documents, residence, funds, accommodation, treatment and responsible people."
+          ],
+          [
+            "Review",
+            "Reassess after a defined change, such as repeated cancellation of the planned route.",
+            "Current authority and carrier information, the family’s location and remaining alternatives."
+          ],
+          [
+            "Depart",
+            "Use a journey that is currently lawful and operational.",
+            "Accepted travel documents for every person, operating transport, entry and transit permission, and an arrival address."
+          ],
+          [
+            "Hold and reassess",
+            "Remain in a suitable place when movement is unsafe, prohibited or unavailable.",
+            "Local instructions, essential supplies, family contact and the next review point."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-3",
+      "title": "Entry rights and lead times decide what is available to you",
+      "body": "<p>Check every passport against departure, transit and destination conditions. A family can be stopped by the one traveller who needs a visa, lacks a required consent or cannot demonstrate the right to return. A connection through a third country adds another set of conditions.</p><p>Separate the first arrival from a longer stay. A lawful short visit can provide time to decide, but it comes with an end date and permitted activities. A second residence or an existing citizenship right may support a longer option. Establish the relevant route before relying on it.</p><p>For each candidate, record the next action, supporting document, authority and latest sensible start date. Begin with records and specialist decisions that control the later steps; book-dependent tasks follow once the route is workable.</p><p>Two flight bookings through the same hub share that hub’s disruption risk. If a land or sea alternative fits your family, establish its border permissions, vehicle or pet requirements, operating services, fuel or charging stops and overnight support. Test its ordinary travel sequence before treating it as an independent option; its availability still has to be confirmed when you intend to use it.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "A family needs a home and a functioning daily life",
+      "body": "<p>Your first weeks need a real address, usable money, communication and an answer for each person’s essential care. A furnished rental can provide an arrival base while you test a neighbourhood. A longer tenancy can support school and daily routines. A purchased home may fit a durable second base, provided ownership, residence and maintenance arrangements work together.</p><p>For accommodation, confirm occupants, access, deposit, services, transport and who can meet you. For a purchase, organise an independent review of title, the seller’s authority, any encumbrances and the applicable foreign-buyer rules before the contractual commitment. Add transaction taxes, registration, legal work and ongoing property costs to the funding plan. These are destination-specific matters.</p><p>EXOBASIS can organise the search brief, viewings, independent local purchase review, contract and completion coordination, handover and care between visits. A home that stands empty also needs inspections, keys, utilities and somebody responsible for getting it ready before you arrive.</p><p>For a family member with a medical dependency, confirm the relevant treatment and transport before choosing the property. <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and actual care access</a> can determine which location is usable.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/family-life-abroad/children-family/\" data-route=\"/en/knowledge/family-life-abroad/children-family/\"><span>Prepare to move abroad with children and family</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\" data-route=\"/en/knowledge/assets-and-access/banking-payments/\"><span>Banking access and payments abroad</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-5",
+      "title": "Compare usable options, not an absolute safety ranking",
+      "body": "<p>The safest country to live in depends on the threat you are trying to reduce and the life you need to maintain. Distance from one conflict may reduce a concern while increasing dependence on a long flight, imported medication or a single payment route. A familiar nearby place can be easier to use, yet share the disruption you are trying to leave.</p><table><caption>A usable-option scorecard</caption><thead><tr><th scope=\"col\">Criterion</th><th scope=\"col\">What makes an option workable</th><th scope=\"col\">A reason to pause</th></tr></thead><tbody><tr><th scope=\"row\">Rights</th><td>Every family member has a confirmed route for the intended stay.</td><td>One person’s permission is assumed from another’s.</td></tr><tr><th scope=\"row\">Reachability</th><td>An itinerary with lawful departure, transit and entry.</td><td>The entire plan relies on one uncertain transport connection.</td></tr><tr><th scope=\"row\">Health and care</th><td>The necessary treatment, medication and daily assistance can continue.</td><td>An insurance card is the only evidence of care availability.</td></tr><tr><th scope=\"row\">Home and family life</th><td>A suitable address, schooling or care arrangements, and practical access.</td><td>A property listing is being treated as an available home.</td></tr><tr><th scope=\"row\">Money and income</th><td>Essential payments can be made through a tested, authorised route.</td><td>All funds or authentication depend on the same vulnerable account or phone.</td></tr><tr><th scope=\"row\">Continuing obligations</th><td>Renewal, absence, tax and maintenance requirements fit your life.</td><td>The option lapses while you are living elsewhere.</td></tr></tbody></table><p>Treat a failed essential condition as work to resolve, rather than averaging it away with a high score elsewhere. Use the <a href=\"/en/countries/\">country comparison hub</a> to examine suitable places in detail. The right shortlist may include a temporary arrival option and a different long-term family base.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/countries/\" data-route=\"/en/countries/\"><span>Countries and options</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/country-location-selection/\" data-route=\"/en/services/country-location-selection/\"><span>Choose suitable countries and locations</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-6",
+      "title": "Turn your choice into preparations you can use",
+      "body": "<p>EXOBASIS connects the country decision with the work that makes it usable: residence and documents, lawful payment access, family requirements, housing and continued income. We carry out the agreed organisational and practical tasks and bring in the relevant local or regulated specialists.</p><p>A personal departure and contingency plan sets the sequence, responsibilities and decision points. Implementation establishes the agreed arrangements. Ongoing support keeps specified documents, contacts and the property current; activated assistance has its own agreed scope and contact arrangements.</p><p>Tell us who you need to protect, where you live now and what is already prepared. You can ask for a country-selection engagement, a complete personal plan or a specific missing part.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/departure-contingency-plan/\" data-route=\"/en/services/departure-contingency-plan/\"><span>Personal departure and contingency plan</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Independent English redraft for PB-D65 from original briefs, market research and cited primary sources.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Act while you can still choose"
+      },
+      {
+        "id": "section-2",
+        "title": "Planned departure, regional escalation and disrupted supplies"
+      },
+      {
+        "id": "section-3",
+        "title": "Establish rights and lead times before booking"
+      },
+      {
+        "id": "section-4",
+        "title": "Make the plan work for your family and what you own"
+      },
+      {
+        "id": "section-5",
+        "title": "Compare countries for your actual needs"
+      },
+      {
+        "id": "section-6",
+        "title": "Turn an option into your prepared personal plan"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 390,
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "label": "Prepare to move abroad with children and family",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#section-4"
+      },
+      {
+        "line": 391,
+        "target": "/en/knowledge/assets-and-access/banking-payments/",
+        "label": "Banking access and payments abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#section-4"
+      },
+      {
+        "line": 387,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-5"
+      },
+      {
+        "line": 389,
+        "target": "/en/services/country-location-selection/",
+        "label": "Choose suitable countries and locations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt individueller Ländervergleich",
+        "position": "#section-5"
+      },
+      {
+        "line": 388,
+        "target": "/en/services/departure-contingency-plan/",
+        "label": "Personal departure and contingency plan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#section-6"
+      },
+      {
+        "line": 392,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-6"
+      }
+    ],
+    "seeding": [
+      "EN10",
+      "EN11"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-27",
+    "noPublication": true
+  },
+  "displayTitle": "Where could your family go if war breaks out?"
+}

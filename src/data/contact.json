@@ -1,0 +1,94 @@
+{
+  "enabled": false,
+  "email": null,
+  "calendar": null,
+  "cryptpad": null,
+  "simplex": null,
+  "formEndpoint": null,
+  "languages": {
+    "de": {
+      "options": [
+        "Allgemeine Anfrage",
+        "Orientierungsgespräch",
+        "Fachliche Zusammenarbeit",
+        "Persönliche Erstklärung",
+        "Persönlicher Flucht- und Notfallplan",
+        "Passende Länder und Standortoptionen",
+        "Dokumente und Aufenthalt vorbereiten",
+        "Bankzugang und Liquidität vorbereiten",
+        "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+        "Familie und Unternehmen handlungsfähig halten",
+        "Diskrete Kommunikation und Wiederzugang einrichten",
+        "Vorbereitung prüfen und aktuell halten",
+        "Vereinbarte Aktivierung und Notfallkoordination",
+        "Apostillen, Übersetzungen und Urkunden organisieren",
+        "Vermögen übertragen und legal verfügbar halten",
+        "Eine Trust-Struktur organisieren",
+        "Eine Stiftung in Liechtenstein organisieren",
+        "Verwahrung und Zugriff auf Sachwerte organisieren",
+        "Ankunft im Zielland organisieren",
+        "Auslandsgesellschaft und laufende Verwaltung organisieren",
+        "Notfallunterlagen, die Angehörige tatsächlich nutzen können"
+      ],
+      "runtimeMessages": {
+        "sending": "Deine Anfrage wird übermittelt.",
+        "unknown": "Der Übermittlungsstatus ist noch unklar. Bitte sende nicht mehrfach dieselbe Anfrage.",
+        "language_leave_prompt": "Deine Anfrage ist noch nicht gesendet. Möchtest du die Sprache wechseln und die Eingabe verlassen?",
+        "language_leave_confirm": "Sprache wechseln",
+        "language_leave_cancel": "Bei der Anfrage bleiben"
+      },
+      "errors": {
+        "mail_sent_ok": "Deine Anfrage wurde übermittelt. Wir melden uns über den angegebenen Rückweg.",
+        "mail_sent_ng": "Die Übermittlung hat nicht funktioniert. Du kannst es erneut versuchen.",
+        "validation_error": "Bitte prüfe die markierten Angaben.",
+        "spam": "Diese Anfrage konnte nicht übermittelt werden. Bitte prüfe deine Eingaben.",
+        "invalid_required": "Bitte prüfe die markierten Angaben.",
+        "invalid_email": "Bitte trage eine erreichbare E-Mail-Adresse ein.",
+        "invalid_too_long": "Bitte kürze die Eingabe in diesem Feld.",
+        "invalid_too_short": "Bitte prüfe die markierten Angaben."
+      }
+    },
+    "en": {
+      "options": [
+        "General enquiry",
+        "Orientation call",
+        "Specialist collaboration",
+        "Personal initial assessment",
+        "Personal departure and contingency plan",
+        "Choose suitable countries and locations",
+        "Arrange residence and document preparation",
+        "Prepare banking access and liquidity",
+        "Arrange asset structures, custody and succession",
+        "Keep your family and business functioning",
+        "Set up private communications and recovery access",
+        "Review and maintain your preparations",
+        "Agreed activation and emergency coordination",
+        "Arrange apostilles, translations and documents",
+        "Transfer assets and retain lawful access",
+        "Arrange a trust structure",
+        "Arrange a Liechtenstein foundation",
+        "Arrange custody and access to tangible assets",
+        "Arrange your arrival abroad",
+        "Arrange an overseas company and ongoing administration",
+        "Emergency documents your family can actually use"
+      ],
+      "runtimeMessages": {
+        "sending": "Your enquiry is being sent.",
+        "unknown": "The sending status is unclear. Please do not submit the same enquiry repeatedly.",
+        "language_leave_prompt": "Your enquiry has not been sent. Do you want to change language and leave this form?",
+        "language_leave_confirm": "Change language",
+        "language_leave_cancel": "Stay with the enquiry"
+      },
+      "errors": {
+        "mail_sent_ok": "Your enquiry has been sent. We will reply using the contact details you provided.",
+        "mail_sent_ng": "Your enquiry could not be sent. Try again.",
+        "validation_error": "Please check the highlighted details.",
+        "spam": "This enquiry could not be sent. Please check your details.",
+        "invalid_required": "Please check the highlighted details.",
+        "invalid_email": "Please enter an email address we can reply to.",
+        "invalid_too_long": "Please shorten the text in this field.",
+        "invalid_too_short": "Please check the highlighted details."
+      }
+    }
+  }
+}

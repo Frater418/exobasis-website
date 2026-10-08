@@ -1,0 +1,327 @@
+{
+  "route": "/de/laender/malta/",
+  "lang": "de",
+  "title": "Malta als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/malta/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-1c9650012bf6ef",
+      "startLine": 7872
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-52e5c59d438a21",
+      "startLine": 10049
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern nach Malta: Aufenthalt und Immobilien | EXOBASIS",
+  "description": "Malta als zweiter Wohnsitz oder Familienzukunft: EU-Aufenthalt, MPRP, Miete, Immobilienkauf, Schule und Krankenversicherung. Deine Basis gezielt vorbereiten.",
+  "intro": "<p>Malta lässt sich als zweite Basis aufbauen, ohne Europa ganz hinter dir zu lassen. Für Deutsche und Österreicher beginnt der Weg mit vorhandenen EU-Rechten. Englisch erleichtert viele Kontakte, und auf engem Raum liegen Wohnorte, Schulen und medizinische Einrichtungen. Für deine Familie entscheidet jedoch die konkrete Lage: der tägliche Schulweg, die erreichbare Behandlung und eine Wohnung, in der ihr ganzjährig leben möchtet.</p><p>Wenn du nach Malta auswandern oder dort rechtzeitig einen zweiten Wohnsitz vorbereiten willst, organisiert EXOBASIS den Weg vom passenden Aufenthaltsgrund über Mietwohnung oder Immobilienkauf bis zur eingerichteten, betreuten Basis.</p>",
+  "countryContext": "/de/laender/malta/",
+  "linkPlan": [
+    {
+      "sourceLine": 1248,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1250,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1251,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1252,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1253,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1254,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1255,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1256,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1257,
+      "target": "/en/countries/malta/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1504,
+      "target": "/de/laender/zypern/",
+      "label": "Zypern als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1506,
+      "target": "/de/laender/portugal/",
+      "label": "Portugal als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Economic Self-Sufficient - Identità",
+      "url": "https://identita.gov.mt/expatriates-unit-main-page/eu-nationals/eresidence-document-application/economic-self-sufficient/",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Working & Residing in Malta - Identità",
+      "url": "https://identita.gov.mt/working-residing-in-malta/",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Residency Malta Agency: MPRP-Verordnung S.L. 217.26, Fassung 2025",
+      "url": "https://residencymalta.gov.mt/wp-content/uploads/2025/08/S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Acquisition of Immovable Property in Malta by Non Residents",
+      "url": "https://mtca.gov.mt/personal-tax/property-taxes/acquisition-of-immovable-property-in-malta-by-non-residents/conditions-for-buying-immovable-property",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "\n\tGeneral Information on Duty\n",
+      "url": "https://mtca.gov.mt/personal-tax/property-taxes/general-information-on-duty",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Create and Terminate a Registration | Rent Registration",
+      "url": "https://rentregistration.mt/create-and-terminate-a-registration/",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Kunsill Nutarili Ta' Malta - Report on Title",
+      "url": "https://www.notariesofmalta.org/examoftitle.php",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Kunsill Nutarili Ta' Malta - Buying and Selling",
+      "url": "https://www.notariesofmalta.org/buyingandselling.php",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Bildungsbehörde Malta: Fragen zur Schulaufnahme",
+      "url": "https://ildmalta.gov.mt/faqs/",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Maltesische Behörde: Zugang zur Krankenversorgung",
+      "url": "https://s2.eessi.gov.mt/en/information-regarding-healthcare-in-malta/",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Our hospitals",
+      "url": "https://fpmalta.gov.mt/our-hospitals/",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "FAQs - Gozo Channel",
+      "url": "https://www.gozochannel.com/faqs/",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Tax Residence",
+      "url": "https://mtca.gov.mt/personal-tax/individual/tax-residence",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "BOV Onboarding - Welcome\n\t\tBOV Customer Onboarding",
+      "url": "https://join.bov.com/",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Malta: Reise- und Sicherheitshinweise - Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/maltasicherheit-211188",
+      "section": 2,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Bank of Valletta: FATCA-/CRS-Selbstauskunft für Privatkunden",
+      "url": "https://www.bov.com/meta/downloads/fatca-crs-self-certification-individuals",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Vorbereitung für Malta anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "country": {
+    "name": "Malta",
+    "slug": "malta",
+    "region": "Europa",
+    "map": "countries/malta-locator.svg",
+    "imageAlt": "Lage Maltas im Mittelmeer südlich von Sizilien",
+    "caption": "Malta im zentralen Mittelmeer",
+    "summary": [
+      [
+        "Vorhandene Rechte nutzen",
+        "EU-Aufenthalt und Schweizer Zugang von Programmen für Drittstaatsbürger trennen."
+      ],
+      [
+        "Malta oder Gozo",
+        "Schulweg, Krankenhaus und zusätzliche Fährverbindung entscheiden mit."
+      ],
+      [
+        "Wohnen mit klarem Erwerbsweg",
+        "Hauptwohnsitz, Zweitwohnung und genehmigungspflichtigen Kauf unterscheiden."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Wann Malta zu deinem Vorhaben passt",
+      "body": "<p>Malta ist besonders interessant, wenn du eine europäische Basis suchst und dein Einkommen oder Unternehmen grenzüberschreitend organisieren kannst. Wer wegen Kriegssorge oder politischem Druck vorsorgen will, gewinnt damit einen weiteren Wohn- und Handlungsort. Die Nähe zum europäischen Raum bleibt dabei Teil der Entscheidung. Für sehr großen geografischen Abstand wäre ein anderer Kontinent die konsequentere Wahl.</p><p>Für den ersten Schritt kann eine Mietwohnung reichen. Wenn deine Kinder dauerhaft eine Schule besuchen und du regelmäßig vor Ort arbeitest, wird daraus ein anderer Auftrag als eine Wohnung für wenige Wochen im Jahr. Lege deshalb zuerst fest, wie viele Monate du Malta wirklich nutzen möchtest, wer mitkommt und welche Versorgung ihr braucht. Danach richten wir Wohnort, Vertragslaufzeit und Aufenthaltsweg aus.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Eine Inselbasis rechtzeitig erreichbar machen",
+      "body": "<p>Bei einer vorbereiteten Zuflucht zählt der Weg bis zur Wohnungstür. Stimme Flüge oder eine Verbindung über Sizilien auf einen konkreten Abreiseanlass ab. Wenn sich eine Lage verschärft, können Buchungsmöglichkeiten und Anschlüsse unter Druck geraten. Eine früh nutzbare Unterkunft und ein organisierter Transfer geben dir mehr Spielraum als die Suche nach beidem nach der Ankunft.</p><p>Vor Ort gehören starke Sommerhitze, Starkregen und Sturm in die Wohnungswahl. Das Auswärtige Amt weist auf mögliche Überschwemmungen bei intensiven Regenfällen und auf schwere Herbst- und Winterstürme hin. Bei Besichtigungen zählen daher auch Entwässerung, Sonnenschutz, Kühlung und der Zustand von Fenstern und Dach. Für eine leer stehende Wohnung brauchst du jemanden, der nach einem Unwetter tatsächlich nachsieht.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/maltasicherheit-211188\" rel=\"noreferrer\">Malta: Reise- und Sicherheitshinweise - Auswärtiges Amt</a></p><p>Halte Reisedokumente, Arzneimittelübersicht, Zugriff auf Geld und die Kontaktdaten deines Schlüsselhalters auch außerhalb des Mobiltelefons bereit. Das macht eine kurzfristige Ankunft und eine spätere Rückkehr nach Malta wesentlich einfacher.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Mit Kindern nach Malta auswandern",
+      "body": "<p>Ein englischsprachiges Umfeld im Alltag bedeutet nicht, dass dein Kind ausschließlich auf Englisch unterrichtet wird. In staatlichen Schulen gehören Englisch und Maltesisch zum Lernen; die konkrete Sprachpolitik hängt von der Schule ab. Wer eine internationale oder private Schule bevorzugt, sollte Lehrplan, Abschlussanschluss, Gebühren und Aufnahme zuerst mit dieser Schule klären.</p><p class=\"exb-citation\">Quellen: <a href=\"https://ildmalta.gov.mt/faqs/\" rel=\"noreferrer\">Bildungsbehörde Malta: Fragen zur Schulaufnahme</a></p><p>Besuche mögliche Wohnlagen an einem normalen Werktag. Ein kurzer Weg auf der Karte kann sich mit Schulverkehr, Parkplatzsuche oder einem Umstieg anders anfühlen. Für jüngere Kinder zählen Betreuung und Nachmittage, für ältere die bisherige Schullaufbahn und passende Abschlusswege. Wir verbinden diese Gespräche mit der Wohnungssuche und der <a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Vorbereitung für Kinder und Angehörige</a>.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Ein zweiter Wohnsitz für wiederkehrende Aufenthalte",
+      "body": "<p>Für einige Wochen auf Malta ist eine ausgestattete Übergangsunterkunft praktisch. Bei wiederkehrender Nutzung solltest du vertraglich festhalten, wann du die Wohnung selbst beziehen kannst, welche Abwesenheiten vorgesehen sind und wer Reparaturen beauftragen darf. Falls du vermieten möchtest, gehören Zulässigkeit und tatsächliche Verfügbarkeit vor deinen eigenen Ankünften in denselben Plan.</p><p>Eine Immobilie und ein maltesisches Aufenthaltsdokument erfüllen unterschiedliche Aufgaben. Auch bei einem zweiten Wohnsitz müssen Registrierung, Versicherung und steuerliche Angaben deinen tatsächlichen Aufenthalten entsprechen. Gerade für eine Reservewohnung ist der Kaufweg gesondert zu klären: Für EU-Bürger gelten beim Zweitwohnsitz andere Voraussetzungen als beim ersten Hauptwohnsitz.</p><p class=\"exb-citation\">Quellen: <a href=\"https://mtca.gov.mt/personal-tax/property-taxes/acquisition-of-immovable-property-in-malta-by-non-residents/conditions-for-buying-immovable-property\" rel=\"noreferrer\">Acquisition of Immovable Property in Malta by Non Residents</a></p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Aufenthalt: EU-Bürger, Schweizer und MPRP",
+      "body": "<h3>Deutsche und österreichische Staatsbürger</h3><p>Als EU-Bürger kannst du bis zu drei Monate ohne Registrierungsbescheinigung in Malta leben. Für längeres Bleiben beantragst du ein eResidence-Dokument und weist den Aufenthaltsgrund nach, etwa Arbeit, Selbstständigkeit, Studium oder ausreichende eigene Mittel. Selbstversorger legen Identità unter anderem Pass beziehungsweise Ausweis, Einkommens- oder Vermögensnachweise und umfassenden Krankenversicherungsschutz, ein geeignetes S1-Dokument oder ein Entitlement Certificate vor.</p><p class=\"exb-citation\">Quellen: <a href=\"https://identita.gov.mt/expatriates-unit-main-page/eu-nationals/eresidence-document-application/economic-self-sufficient/\" rel=\"noreferrer\">Economic Self-Sufficient - Identità</a>; <a href=\"https://identita.gov.mt/working-residing-in-malta/\" rel=\"noreferrer\">Working &amp; Residing in Malta - Identità</a></p><h3>Schweizer und Familien mit unterschiedlichen Pässen</h3><p>Identità nennt für Schweizer eigene begünstigte Bedingungen im Verfahren für EU-/EWR-/Schweizer Staatsangehörige. Lege deshalb die Staatsangehörigkeit jedes Angehörigen offen, statt einen gemeinsamen deutschsprachigen Haushalt als einheitlichen EU-Fall zu behandeln. Ein Drittstaatsangehöriger mit Wohnsitz in Deutschland benötigt seinen eigenen Aufenthaltsgrund oder den passenden Familiennachzug.</p><p class=\"exb-citation\">Quellen: <a href=\"https://identita.gov.mt/working-residing-in-malta/\" rel=\"noreferrer\">Working &amp; Residing in Malta - Identità</a></p><h3>Für berechtigte Drittstaatsbürger: Malta Permanent Residence Programme</h3><p>Das MPRP richtet sich an berechtigte Drittstaatsbürger; EU-, EWR- und Schweizer Staatsangehörige gehören nicht zu seiner Zielgruppe. Es schafft Daueraufenthaltsrechte auf Grundlage eines eigenen Prüf- und Investitionsverfahrens. Der Antrag läuft über einen von Residency Malta zugelassenen Agenten. Ein Immobilienkauf allein erteilt weder diesen Status noch eine Staatsangehörigkeit.</p><p>Die hier verlinkte Verordnung in der Fassung 2025 nennt als qualifizierende Wohnimmobilie einen Kauf ab 375.000 Euro oder eine Jahresmiete ab 14.000 Euro. Hinzu kommen gesonderte Vermögensanforderungen, Behördenbeiträge, Spende, Versicherung und Fachkosten. Die qualifizierende Immobilie ist grundsätzlich fünf Jahre zu halten; auch danach bleibt eine Wohnimmobilie in Malta oder Gozo erforderlich. Für deinen Haushalt klären wir zunächst, ob dieses Programm oder ein anderer Aufenthaltsweg überhaupt passt, bevor du Geld bindest.</p><p class=\"exb-citation\">Quellen: <a href=\"https://residencymalta.gov.mt/wp-content/uploads/2025/08/S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf\" rel=\"noreferrer\">Residency Malta Agency: MPRP-Verordnung S.L. 217.26, Fassung 2025</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fmalta%2F#kurzanfrage\">Vorbereitung für Malta anfragen</a><p>Nenne uns dein Vorhaben und den gewünschten Zeitrahmen. Persönliche Unterlagen besprechen wir anschließend im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Wo wohnen? Miete und Immobilienkauf auf Malta und Gozo",
+      "body": "<h3>Den Standort an Schule und Versorgung ausrichten</h3><p>Msida und die umliegenden Orte bieten sich als Suchraum an, wenn die Nähe zu Mater Dei wichtig ist. Sliema und St. Julian’s kannst du einbeziehen, wenn du ein städtisches Umfeld bevorzugst; bei jeder Wohnung sollten Straßenlärm und die tatsächlich genutzten Wege geprüft werden. Die Gebäudequalität ist wichtiger als der Ortsname im Exposé.</p><p>Gozo bietet eine andere Alltagssituation. Es hat mit dem Gozo General Hospital eigene Versorgung, für Termine auf der Hauptinsel oder am Flughafen kommt jedoch die Überfahrt hinzu. Gozo Channel arbeitet auf der Fahrzeugfähre ohne reservierte Abfahrtsplätze. Wer häufig zu einer speziellen Behandlung nach Mater Dei muss, sollte daher eine Adresse auf Malta in den Vergleich aufnehmen.</p><p class=\"exb-citation\">Quellen: <a href=\"https://fpmalta.gov.mt/our-hospitals/\" rel=\"noreferrer\">Our hospitals</a>; <a href=\"https://www.gozochannel.com/faqs/\" rel=\"noreferrer\">FAQs - Gozo Channel</a></p><h3>Eine Wohnung mieten</h3><p>Für den Hauptwohnsitz muss der private Mietvertrag schriftlich vorliegen und vom Vermieter innerhalb von 30 Tagen nach Beginn bei der Housing Authority registriert werden. Der Vertrag umfasst Wohnobjekt, Zweck, Laufzeit, Verlängerung, Miete, Kaution und ein Inventar zum Zustand von Wohnung, Möbeln und Geräten. Sichere dir den Registrierungsnachweis. Vereinbare außerdem Nebenkosten, Zählerstände, Reparaturzuständigkeit und die genaue Rückgabe der Kaution. Eine Ferienbuchung ist für einen dauerhaften Wohnsitz ein anderer Vertrag als ein registriertes Wohnraummietverhältnis.</p><p class=\"exb-citation\">Quellen: <a href=\"https://rentregistration.mt/create-and-terminate-a-registration/\" rel=\"noreferrer\">Create and Terminate a Registration | Rent Registration</a></p><h3>Welche Immobilie darfst du kaufen?</h3><ul><li>Deutsche und Österreicher benötigen als EU-Bürger für den eigenen Hauptwohnsitz grundsätzlich keine AIP-Genehmigung, auch wenn sie noch keine fünf Jahre ununterbrochen in Malta gelebt haben.</li><li>Für einen Zweitwohnsitz ist bei EU-Bürgern ohne diese fünfjährige Voraufenthaltszeit grundsätzlich eine AIP-Genehmigung erforderlich.</li><li>Bei Nicht-EU-Staatsangehörigen, also auch beim Schweizer Pass allein, ist grundsätzlich eine Genehmigung vorgesehen. Für ausgewiesene Special Designated Areas gelten Ausnahmen. Der konkrete Erwerbsfall und weitere gesetzliche Ausnahmen werden vor Vertragsbindung abgeklärt.</li></ul><p class=\"exb-citation\">Quellen: <a href=\"https://mtca.gov.mt/personal-tax/property-taxes/acquisition-of-immovable-property-in-malta-by-non-residents/conditions-for-buying-immovable-property\" rel=\"noreferrer\">Acquisition of Immovable Property in Malta by Non Residents</a></p><h3>Vom Suchauftrag zur Übergabe</h3><p>In Malta beginnt der Kauf üblicherweise mit dem Konvenju, dem schriftlichen Vorvertrag. Darin werden Objekt, Preis, Frist und Bedingungen festgehalten. Beauftrage die unabhängige notarielle Prüfung vor dieser Bindung. Der Notar untersucht die Eigentumskette und Belastungen und erstellt den schriftlichen Titelbericht; zusätzlich werden Bauzustand, Pläne, Genehmigungen, gegebenenfalls Grundrente und Gemeinschaftspflichten geprüft. Public Registry und, soweit einschlägig, Land Registry gehören zum Verfahren.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.notariesofmalta.org/examoftitle.php\" rel=\"noreferrer\">Kunsill Nutarili Ta&#x27; Malta - Report on Title</a>; <a href=\"https://www.notariesofmalta.org/buyingandselling.php\" rel=\"noreferrer\">Kunsill Nutarili Ta&#x27; Malta - Buying and Selling</a></p><p>Der Vorvertrag ist innerhalb von 21 Tagen steuerlich anzumelden; dabei fällt eine vorläufige Abgabe von 1 Prozent an, die auf die endgültige Kaufabgabe angerechnet wird. Der Kaufetat umfasst außerdem Notar, Registerrecherchen, bauliche Prüfung, mögliche AIP-Gebühr und Finanzierung. EXOBASIS organisiert die Immobiliensuche, Besichtigungen und unabhängige Fachprüfung, koordiniert Abschluss und Übergabe und bereitet die <a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Ankunft im eingerichteten Zuhause</a> vor.</p><p class=\"exb-citation\">Quellen: <a href=\"https://mtca.gov.mt/personal-tax/property-taxes/general-information-on-duty\" rel=\"noreferrer\">\n\tGeneral Information on Duty\n</a></p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule und Krankenversicherung praktisch vorbereiten",
+      "body": "<p>In Malta besteht Schulpflicht von 5 bis 16 Jahren. Kinder von EU-, EWR- und Schweizer Staatsangehörigen haben bis zum Ende der Schulpflicht Anspruch auf kostenlose staatliche Bildung. Für die Grundschule ist der Wohnort das wichtigste Zuordnungskriterium. Für den Einstieg werden unter anderem Geburtsurkunde, Wohnnachweis und Impfunterlagen benötigt; für Kinder ohne ausreichende Sprachkenntnisse gibt es Einführungsprogramme. Die konkreten Aufnahme- und Fördergespräche sollten vor der langfristigen Wohnungsbindung stattfinden.</p><p class=\"exb-citation\">Quellen: <a href=\"https://ildmalta.gov.mt/faqs/\" rel=\"noreferrer\">Bildungsbehörde Malta: Fragen zur Schulaufnahme</a></p><p>Bei einem vorübergehenden Aufenthalt deckt die Europäische Krankenversicherungskarte notwendige staatliche Behandlung im Rahmen ihres Leistungsumfangs. Für den Umzug brauchst du den zum Aufenthaltsgrund passenden Schutz. Wer einen S1-Anspruch hat, registriert das Dokument bei der zuständigen maltesischen Stelle und erhält ein Certificate of Entitlement. Für wirtschaftlich unabhängige EU-Bürger verlangt Identità entsprechend umfassenden Versicherungsschutz oder einen anerkannten Anspruchsnachweis.</p><p class=\"exb-citation\">Quellen: <a href=\"https://s2.eessi.gov.mt/en/information-regarding-healthcare-in-malta/\" rel=\"noreferrer\">Maltesische Behörde: Zugang zur Krankenversorgung</a>; <a href=\"https://identita.gov.mt/expatriates-unit-main-page/eu-nationals/eresidence-document-application/economic-self-sufficient/\" rel=\"noreferrer\">Economic Self-Sufficient - Identità</a></p><p>Dialyse, Sauerstoffversorgung und andere regelmäßige Behandlungen werden vorab mit der behandelnden Einrichtung vereinbart. Mater Dei ist das zentrale öffentliche Krankenhaus in Msida; geriatrische Rehabilitation gehört unter anderem zum Auftrag von Karin Grech. Bei Pflegebedarf müssen freie Leistung, Finanzierung und Hilfe im Haushalt zusammenpassen. EXOBASIS organisiert diese <a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Abstimmung von Versicherung und Versorgung</a> mit der zuständigen Fachausführung.</p><p class=\"exb-citation\">Quellen: <a href=\"https://s2.eessi.gov.mt/en/information-regarding-healthcare-in-malta/\" rel=\"noreferrer\">Maltesische Behörde: Zugang zur Krankenversorgung</a>; <a href=\"https://fpmalta.gov.mt/our-hospitals/\" rel=\"noreferrer\">Our hospitals</a></p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Konto, Einkommen und Steuern beim Umzug nach Malta",
+      "body": "<p>Malta verwendet den Euro. Für den laufenden Haushalt sind ein tatsächlich nutzbares Zahlungskonto, Karten und ein zweiter unabhängiger Zugriff wichtiger als ein nur eingereichter Kontoantrag. Bank of Valletta unterscheidet beispielsweise den Onlineantrag für ein privates Sparkonto von anderen Zahlungskonten. Ihre FATCA-/CRS-Selbstauskunft verlangt die zutreffenden Steueransässigkeiten und Nachweise der Steueridentifikationsnummern. Bereite Identifikation, Herkunft der größeren Überweisungen und Banktermine vor dem Immobilienabschluss vor.</p><p class=\"exb-citation\">Quellen: <a href=\"https://join.bov.com/\" rel=\"noreferrer\">BOV Onboarding - Welcome\n\t\tBOV Customer Onboarding</a>; <a href=\"https://www.bov.com/meta/downloads/fatca-crs-self-certification-individuals\" rel=\"noreferrer\">Bank of Valletta: FATCA-/CRS-Selbstauskunft für Privatkunden</a></p><p>Für den Übergang vom bisherigen Wohnsitz nach Malta erklärt <a class=\"exb-text-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Bankkonto und Zahlungsfähigkeit</a>, wie du laufende Zahlungen und einen unabhängigen Zugriff vorbereitest. Bei <a class=\"exb-text-link\" href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität</a> bereiten wir das Nachweisdossier, Banktermine und die nutzbare Zahlungsreserve vor, bevor dein Haushalt oder Immobilienabschluss davon abhängt.</p><p>Steueransässigkeit ist in Malta eine Tatsachenfrage. Wer sich mehr als 183 Tage im Jahr dort aufhält, wird grundsätzlich als steuerlich ansässig behandelt. Wer nach Malta kommt, um dort seinen Wohnsitz zu begründen, kann bereits ab Ankunft ansässig sein. Die Steuerbehörde unterscheidet außerdem Ansässigkeit, gewöhnliche Ansässigkeit und Domicile; davon hängt die Besteuerung des Welteinkommens beziehungsweise die Remittance-Basis ab. Eine Aufenthaltskarte legt diese Behandlung nicht allein fest.</p><p class=\"exb-citation\">Quellen: <a href=\"https://mtca.gov.mt/personal-tax/individual/tax-residence\" rel=\"noreferrer\">Tax Residence</a></p><p>Wenn dein Einkommen aus einer deutschen GmbH, einer österreichischen Selbstständigkeit oder einem Schweizer Unternehmen stammt, werden Arbeitsort, Geschäftsleitung, Gehalt und Ausschüttungen gemeinsam eingeordnet. So passen der maltesische Alltag und die weiterbestehenden Herkunftspflichten zusammen. Die Unternehmensfortführung und der private Umzug werden in einer abgestimmten Reihenfolge umgesetzt.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Was vor dem Umzug bereitliegen sollte",
+      "body": "<p>Beginne mit den Pässen und dem Aufenthaltsgrund aller Personen. Danach folgen Familienurkunden, Einkommensnachweise, Miet- oder Kaufunterlagen, Versicherung und die zuständigen Anträge. Identità verlangt beim EU-Selbstversorgerverfahren grundsätzlich Englisch oder Maltesisch; für anderssprachige Unterlagen sind die vorgesehenen beglaubigten Übersetzungen einzuplanen. S1, A1 und S072 werden dort ausdrücklich gesondert behandelt.</p><p class=\"exb-citation\">Quellen: <a href=\"https://identita.gov.mt/expatriates-unit-main-page/eu-nationals/eresidence-document-application/economic-self-sufficient/\" rel=\"noreferrer\">Economic Self-Sufficient - Identità</a></p><p>EXOBASIS organisiert die <a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumenten- und Aufenthaltsschritte</a>, koordiniert Rückfragen und Termine und verbindet sie mit Unterkunft und Schulstart. Sensible Nachweise gehen erst im vereinbarten geschützten Austausch an die zuständige Stelle.</p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Deine Wohnung auch bei Abwesenheit betreuen",
+      "body": "<p>Wenn du nur zeitweise auf Malta lebst, vereinbare regelmäßige Kontrollen von Feuchtigkeit, Wasseranschlüssen, Kühlung und Briefkasten. Nach einem Sturm sollte jemand die Wohnung und gegebenenfalls die Dachflächen ansehen können. Zur Ankunftsvorbereitung gehören Reinigung, funktionierende Geräte, verfügbare Schlüssel und ein erreichbarer Kontakt.</p><p>Auch Mietregistrierung, Verlängerungs- und Kündigungstermine, Versicherungen sowie Adress- und Steuerangaben bleiben aktuell. Bei MPRP kommen die programmspezifischen Halte- und Nachweispflichten hinzu. Wir können diese <a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">laufende Betreuung deiner Vorbereitung</a> übernehmen und mit den örtlichen Zuständigen koordinieren.</p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Malta vorbereiten: vom passenden Ort bis zur Schlüsselübergabe",
+      "body": "<p>Du kannst mit einer konkreten Aufgabe beginnen: <a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Malta mit anderen Standorten vergleichen</a>, eine Wohnung suchen, einen Immobilienkauf organisieren oder die Aufenthaltsvorbereitung beauftragen. EXOBASIS führt Bedarf, Besichtigungen, unabhängige Fachprüfung, Vertragskoordination und Betreuung zu einem vereinbarten Ergebnis zusammen.</p><p>Wenn du noch zwischen Malta und <a class=\"exb-text-link\" href=\"/de/laender/zypern/\">Zypern</a> schwankst, sollten Wohnlage, Familienalltag und tatsächlicher Aufenthaltsweg entscheiden. <a class=\"exb-text-link\" href=\"/de/laender/portugal/\">Portugal</a> ergänzt den Vergleich um eine Festlandoption. Deine Auswahl muss auch an einem gewöhnlichen Montag funktionieren.</p><p>Nenne uns die mitziehenden Personen, die geplante Nutzung und den Teil der Vorbereitung, den wir übernehmen sollen. Wenn die passende Leistung noch unklar ist, kannst du die kostenlose 20-Minuten-Orientierung nutzen.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fmalta%2F#kurzanfrage\">Vorbereitung für Malta anfragen</a><p>Nenne uns dein Vorhaben und den gewünschten Zeitrahmen. Persönliche Unterlagen besprechen wir anschließend im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Brauche ich als Deutscher oder Österreicher das MPRP, um nach Malta auszuwandern?",
+    "answer": "Du nutzt als EU-Bürger zunächst deine vorhandenen Aufenthaltsrechte. Für mehr als drei Monate registrierst du dich bei Identità auf der passenden Grundlage, etwa Beschäftigung oder wirtschaftliche Unabhängigkeit mit ausreichenden Mitteln und Krankenversicherungsschutz. Das MPRP ist ein gesondertes Programm für berechtigte Drittstaatsbürger und gilt nicht für EU-, EWR- oder Schweizer Staatsangehörige."
+  },
+  "displayTitle": "Auswandern nach Malta: Aufenthalt, Familie und dein Zuhause"
+}

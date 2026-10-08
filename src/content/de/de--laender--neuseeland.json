@@ -1,0 +1,198 @@
+{
+  "route": "/de/laender/neuseeland/",
+  "lang": "de",
+  "title": "Neuseeland als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/new-zealand/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-4d3829ade4760c"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-e51964f15fa97f"
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern nach Neuseeland: Visum, Familie, Hauskauf | EXOBASIS",
+  "description": "Neuseeland vorbereiten: Aufenthaltswege, Green List, Investoren und Ruhestand, Miete, Hauskauf, Schule und Versorgung. Konkrete Unterstützung von EXOBASIS.",
+  "intro": "<p>Du willst für deine Familie einen Ort vorbereiten, der weit von Europa entfernt ist und als neues Zuhause funktionieren kann. Beim Auswandern nach Neuseeland entscheidet zuerst der passende Aufenthaltsweg. Danach müssen Wohnort, Schule, Behandlung und Einkommen zusammenkommen. EXOBASIS führt diese Vorbereitung bis zur vereinbarten Ankunft und Betreuung zusammen.</p>",
+  "primary": {
+    "label": "Vorbereitung für Neuseeland anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "countryContext": "/de/laender/neuseeland/",
+  "country": {
+    "name": "Neuseeland",
+    "slug": "neuseeland",
+    "region": "Pazifik",
+    "map": "countries/neuseeland-locator.svg",
+    "imageAlt": "Neuseeland auf der Weltkarte: Nord- und Südinsel im südwestlichen Pazifik.",
+    "caption": "Neuseeland im südwestlichen Pazifik. Entfernung, Aufenthaltsrecht und der konkrete Wohnort gehören zusammen.",
+    "summary": [
+      [
+        "Langfristig vorbereiten",
+        "Aufenthaltsweg und Familienrechte vor der Wohnbindung klären."
+      ],
+      [
+        "Wohnen",
+        "Mietqualität und Kaufberechtigung mit lokalen Naturgefahren abgleichen."
+      ],
+      [
+        "Rückkehrfähig bleiben",
+        "Reisebedingungen, Zahlungszugang und Betreuung laufend pflegen."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Für welchen Plan B Neuseeland geeignet ist",
+      "body": "<p>Wenn Krieg, Einberufung oder politische Repression deine Sorge sind, wirkt die große Entfernung zunächst beruhigend. Für eine persönliche Entscheidung zählt, ob Neuseeland deiner Familie einen tatsächlich erreichbaren und länger nutzbaren Platz bietet. Das beginnt bei eurer Staatsangehörigkeit, beruflichen Qualifikation, familiären Anknüpfung oder einer passenden Investorenkonstellation.</p><p>Eine erste Reise kann Wohnorte und Alltag erschließen. Eine zweite Basis braucht zusätzlich eine verlässliche Unterkunft und eine passende Wiedereinreise. Für eine dauerhafte Familienzukunft müssen Aufenthalt, Einkommen und Versorgung auf längere Zeit tragen. Diese drei Ziele werden getrennt geplant, damit ein gelungener Besuch nicht unbemerkt zur Grundlage eines rechtlich noch ungeklärten Umzugs wird.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Entfernung hilft nur, wenn du rechtzeitig ankommen kannst",
+      "body": "<p>Die Anreise aus dem DACH-Raum ist ein mehrgliedriger Weg mit Transit und möglichen Anschlussflügen. Für deinen Notfallplan bedeutet das: Auslöser und Buchungsentscheidung liegen vor dem Tag, an dem die ganze Familie unter Zeitdruck losmüsste. Prüfe für jeden Pass auch die Transitbedingungen. Bei getrennt reisenden Angehörigen werden Treffpunkt, Kontakt und Weiterreise einzeln vorbereitet.</p><p>Am Ziel sollten Unterkunft, Schlüssel, funktionierende Zahlungen und die benötigte medizinische Versorgung bereits organisiert sein. Eine vorbereitete Ankunftswohnung kann für den ersten Aufenthalt passender sein als ein weit entferntes Ferienhaus. Wer ein Haus dauerhaft bereithält, trägt auch die laufenden Kosten und braucht örtliche Kontrollen während der Abwesenheit. Selbst ein Standort mit eigener Lebensmittelproduktion hängt bei Transport, Maschinen und Behandlung von weiteren Lieferketten ab. Für eure konkrete Basis werden deshalb Vorräte, benötigte importierte Medikamente, Treibstoff und Ersatzteile neben der örtlichen Versorgung eingeplant.</p><p>Neuseeland hat dabei einen konkreten Vorteil bei der Nahrungsproduktion: Boyd und Wilson berechnen in ihrer Studie zum nuklearen Winter selbst im schweren 150-Tg-Szenario eine Produktion oberhalb der angesetzten Schwelle von 2.200 Kilokalorien pro Person und Tag. Grundlage sind historische Produktionsdaten und modellierte Ertragseinbußen, keine heutigen Vorräte. Der große Exportüberschuss, besonders bei Milchprodukten, eröffnet die Möglichkeit, mehr heimische Produktion für die eigene Bevölkerung zu nutzen.</p><p>Die entscheidende Frage ist, ob diese Nahrung auch verarbeitet und verteilt werden kann. Die Neuseeland-Fallstudie beschreibt Abhängigkeiten von importiertem Treibstoff, Ersatzteilen und Betriebsmitteln, vom Transport zwischen Farmen, Verarbeitung und beiden Hauptinseln sowie von funktionierender Kühlung. Die Übertragung von Modellen ausgewählter Feldfrüchte und Fische auf die gesamte Ernährung bleibt unsicher. Für deine Familie spricht der Befund dafür, Neuseeland als mögliche Versorgungsbasis genauer anzusehen und zugleich Anreise, Aufenthaltsrechte und den konkreten Zugang zu Nahrung und medizinischer Versorgung rechtzeitig vorzubereiten.</p><p class=\"exb-citation\">Quelle: <a href=\"https://onlinelibrary.wiley.com/doi/10.1111/risa.14072\" rel=\"noreferrer\">Boyd und Wilson: Nahrungsproduktion und Versorgungsabhängigkeiten im nuklearen Winter</a>, erstmals veröffentlicht am 4. Dezember 2022, Journaljahr 2023.</p><p>Naturgefahren werden adressbezogen betrachtet: Erdbeben können in weiten Teilen des Landes auftreten, Küstenlagen haben eigene Tsunamifragen, Flussnähe kann Überschwemmungen bedeuten. Die staatliche Natural Hazards Commission verweist dafür auf Karten der zuständigen Stellen und ihr Natural Hazards Portal. Das gehört vor eine langfristige Wohnentscheidung.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.naturalhazards.govt.nz/be-prepared/natural-hazards-where-you-live/\" rel=\"noreferrer\">Natural Hazards Commission: örtliche Naturgefahren</a></p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Mit Familie nach Neuseeland: Alltag vor Aussicht",
+      "body": "<p>Für die Familie ist ein Standort dann gut, wenn er die täglichen Aufgaben erleichtert. Auckland ist ein Ausgangspunkt für ein großstädtisches Umfeld auf der Nordinsel. Wellington verbindet Hauptstadtalltag mit einem eigenen Arbeitsumfeld. Christchurch bietet eine städtische Basis auf der Südinsel. Welche Region passt, ergibt sich aus Arbeitsplatz, Schulaufnahme, medizinischem Bedarf und eurem gewünschten Wohnalltag.</p><p>Englisch trägt den schulischen und beruflichen Alltag. Für Kinder werden bisherige Klassenstufe, Unterrichtssprache, Lernunterstützung und die Aufnahmebedingungen der konkreten Schule abgeglichen. Eltern sollten zugleich testen, wie sich die Zeitzone mit Kunden oder Angehörigen in Europa verträgt. Ein Haus mit schönem Blick hilft wenig, wenn tägliche Wege und notwendige Betreuung den Haushalt überfordern.</p><p>Für einen geplanten Daueraufenthalt kommt es auf die Rechte jedes Familienmitglieds an. Partner und Kinder können je nach Kategorie eingeschlossen werden oder eigene Titel benötigen. Ein mitreisender pflegebedürftiger Elternteil gehört deshalb von Beginn an als eigener Aufenthalts- und Versorgungsfall in die Vorbereitung.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Neuseeland zunächst besuchen und mobil arbeiten",
+      "body": "<p>Mit deutschem, österreichischem oder schweizerischem Pass gehört ein kurzer Besuch grundsätzlich zum Visa-Waiver-Verfahren. Vor der Reise ist eine NZeTA erforderlich; bei Einreise kann damit ein Besuchsaufenthalt von bis zu drei Monaten erteilt werden. Rück- oder Weiterreise und ausreichende Mittel müssen nachweisbar sein. Diese Regel gilt für die genannten Staatsangehörigkeiten, nicht automatisch für jeden Menschen mit Wohnsitz in DACH.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/\" rel=\"noreferrer\">Immigration New Zealand: Visa-Waiver-Staaten und Besuchsbedingungen</a></p><p>Besuchervisa, die ab dem 27. Januar 2025 beantragt wurden, erlauben nach INZ Fernarbeit für einen Arbeitgeber oder Kunden außerhalb Neuseelands. Auch entsprechend einreisende NZeTA-Besucher können diese Möglichkeit nutzen. Örtliche Beschäftigung, Leistungen an neuseeländische Unternehmen oder Arbeit, die deine Anwesenheit im Land voraussetzt, folgen anderen Regeln. Der Besuchsstatus begrenzt weiterhin die Aufenthaltsdauer.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.immigration.govt.nz/visit/checking-or-changing-the-conditions-of-your-visitor-visa-or-nzeta/working-remotely-in-new-zealand-on-a-visitor-visa/\" rel=\"noreferrer\">Immigration New Zealand: Fernarbeit während eines Besuchs</a></p><p>Damit lässt sich ein Aufenthalt zur Erkundung mit bestehender Auslandsarbeit verbinden. Für einen längeren Lebensmittelpunkt werden danach der passende Aufenthaltstitel und die steuerliche Einordnung festgelegt. Neuseeland veröffentlicht inzwischen eine gesonderte steuerliche Besucherregel; ihre Bedingungen stehen im Abschnitt zu Geld und Einkommen.</p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Daueraufenthalt, Investor oder Ruhestand: die Voraussetzungen",
+      "body": "<h3>Qualifizierte Arbeit über die Green List</h3><p>Das Straight to Residence Visa richtet sich an Personen bis einschließlich 55 Jahre mit einem passenden Arbeitsplatz oder Angebot eines akkreditierten Arbeitgebers in einem Tier-1-Beruf der Green List. Hinzu kommen die geforderten Qualifikationen, gegebenenfalls Berufszulassung, Englisch sowie Gesundheits- und Leumundsvoraussetzungen. Ein Berufstitel allein genügt nicht; die konkrete Stelle muss die Anforderungen erfüllen. Partner und unterhaltsabhängige Kinder bis 24 können nach den jeweiligen Familienbedingungen in den Antrag aufgenommen werden.</p><p class=\"exb-citation\">Quelle: <a href=\"https://immigration.govt.nz/visas/straight-to-residence-visa\" rel=\"noreferrer\">Immigration New Zealand: Straight to Residence Visa</a></p><h3>Active Investor Plus</h3><p>Beim Active Investor Plus Visa beginnt die Growth-Kategorie bei 5 Millionen NZD in zulässigen Anlagen mit einer Haltedauer von drei Jahren. Die Balanced-Kategorie verlangt mindestens 10 Millionen NZD und fünf Jahre. Dazu kommen Mittelherkunft, Überweisung, anerkannte Anlageformen und Anwesenheitspflichten. Das Programm nennt mindestens 21 Tage während der 36 Monate für Growth beziehungsweise grundsätzlich 105 Tage während der 60 Monate für Balanced; zusätzliche geeignete Investitionen können die letztere Vorgabe reduzieren.</p><p>Dieses Anlagekapital wird von der Reserve für Wohnung, Familie und laufenden Haushalt getrennt. Der Kauf des eigenen Hauses ist eine zusätzliche Transaktion und hat eigene Erwerbsregeln.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.immigration.govt.nz/visas/active-investor-plus-visa/\" rel=\"noreferrer\">Immigration New Zealand: Active Investor Plus, Anlage- und Anwesenheitsbedingungen</a></p><h3>Als Rentner nach Neuseeland</h3><p>Das Temporary Retirement Visitor Visa steht Personen ab 66 Jahren für bis zu zwei Jahre offen. Die veröffentlichten Voraussetzungen umfassen mindestens 750.000 NZD zulässige Investition, zusätzlich 500.000 NZD für den Aufenthalt und mindestens 60.000 NZD Jahreseinkommen. Ein Partner kann eingeschlossen werden, unterhaltsabhängige Kinder nicht. Ein umfassender Krankenversicherungsschutz gehört zu diesem Weg. Es handelt sich um einen zeitlich begrenzten Aufenthalt, nicht um den qualifikationsbezogenen Daueraufenthalt.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.immigration.govt.nz/visas/temporary-retirement-visitor-visa/\" rel=\"noreferrer\">Immigration New Zealand: Temporary Retirement Visitor Visa</a></p><p>EXOBASIS ordnet mit dir die tatsächlich passende Grundlage und organisiert die erforderliche Fachbearbeitung. Danach werden Zeitplan, Familie und Wohnlösung auf denselben Weg ausgerichtet.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fneuseeland%2F#kurzanfrage\">Vorbereitung für Neuseeland anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Mieten oder ein Haus kaufen: so wird die Wohnentscheidung belastbar",
+      "body": "<h3>Die konkrete Adresse auswählen</h3><p>In Auckland, Wellington und Christchurch werden Schule, Arbeit, Hausarzt und Verkehrswege mit der Wohnung verglichen. Ein ländlicher Standort verlangt zusätzlich eine tragfähige Lösung für Auto, Verbindung, Lieferungen und medizinische Wege. Bei Hang-, Fluss- oder Küstenlagen werden die örtlichen Risikokarten und Versicherungsbedingungen vor der Bindung herangezogen. Gerade bei einem lange leer stehenden Haus muss jemand Schäden früh erkennen können.</p><h3>Miete und Wohnqualität</h3><p>Für die erste Ankunft kann eine möblierte Übergangswohnung sinnvoll sein. Langfristige Mietangebote werden häufig mit Wochenmiete ausgewiesen. Für eine gewöhnliche Wohnraummiete verlangt Tenancy Services einen schriftlichen Vertrag. Darin stehen unter anderem Parteien, Mietbeginn, Miethöhe, Kaution und Verantwortlichkeiten. Beim Einzug werden Zustand, Zählerstände, Schlüssel und die Einrichtung dokumentiert.</p><p>Die allgemeine Mietkaution darf höchstens vier Wochenmieten betragen und wird bei Tenancy Services hinterlegt. Eine gegebenenfalls zulässige gesonderte Haustierkaution ist davon zu unterscheiden. Nebenkosten, vorausbezahlte Miete, Versicherung für Hausrat und Haftung sowie Strom und Internet gehören in das Einzugsbudget. Eine längere Abwesenheit oder ein Homeoffice wird vorab mit Vertrag und Vermieter abgeglichen.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.tenancy.govt.nz/rent-bond-and-bills/bond/charging-a-bond/charging-a-general-bond/\" rel=\"noreferrer\">Tenancy Services: allgemeine Mietkaution</a></p><p class=\"exb-citation\">Quelle: <a href=\"https://www.tenancy.govt.nz/starting-a-tenancy/new-to-tenancy/information-for-new-tenants/\" rel=\"noreferrer\">Tenancy Services: Einzug, Nebenkosten und Nutzung</a></p><p>Seit dem 1. Juli 2025 müssen alle Mietobjekte den Healthy Homes Standards entsprechen, soweit die jeweiligen Ausnahmen nicht greifen. Dazu gehören Heizung, Dämmung, Lüftung, Feuchtigkeitsableitung und Zugluftschutz. Frage bei der Besichtigung nach dem Compliance-Nachweis und achte selbst auf Feuchtigkeit und die tatsächlich nutzbare Heizung. Eine schöne Sommerbesichtigung beschreibt noch keinen angenehmen Winteralltag.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.tenancy.govt.nz/healthy-homes/healthy-homes-compliance/\" rel=\"noreferrer\">Tenancy Services: Healthy Homes Standards</a></p><h3>Darf ich als Ausländer ein Haus kaufen?</h3><p>Mit einem gewöhnlichen Besucher-, Studien- oder Arbeitsvisum kannst du als ausländischer Käufer grundsätzlich kein Wohnhaus erwerben. Ein Residence-Class-Visa verändert die Ausgangslage: Wer noch nicht als ordinarily resident gilt, kann für ein selbst bewohntes Haus eine Genehmigung von Toitū Te Whenua LINZ beantragen. Für den hier relevanten ordinarily-resident-Test nennt LINZ ein Residence-Class-Visa, mindestens zwölf Monate Leben in Neuseeland und mehr als 183 Anwesenheitstage in den letzten zwölf Monaten.</p><p>Für australische und singapurische Staatsangehörige beziehungsweise bestimmte dauerhaft Aufenthaltsberechtigte gelten Sonderregeln. Sie werden nicht auf einen deutschen, österreichischen oder schweizerischen Pass übertragen. Zusätzlich kann das konkrete Grundstück als sensitive land einer weiteren Prüfung unterliegen.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.linz.govt.nz/guidance/overseas-investment/buying-residential-property-live\" rel=\"noreferrer\">LINZ: Kaufberechtigung und ordinarily resident</a></p><p>Daneben besteht ein besonderer genehmigungspflichtiger Erwerbsweg für Inhaber eines Active Investor Plus-, Investor-1- oder Investor-2-Visums: ein Wohnobjekt zu mehr als 5 Millionen NZD beziehungsweise Grundstück und Neubau mit zusammen mehr als 5 Millionen NZD. Das Grundstück darf für diesen Weg nicht aus weiteren Gründen sensitive land sein. Ein ausreichendes Kaufbudget ohne den passenden Investorenstatus erfüllt diese Regel nicht.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.linz.govt.nz/guidance/overseas-investment/ways-invest/pathways-migrants-and-visa-holders/investing-residential-land-over-5-million\" rel=\"noreferrer\">LINZ: Wohnimmobilien über 5 Millionen NZD für qualifizierte Investoren</a></p><h3>Titel, Gebäude und Vertragsabschluss prüfen</h3><p>Zum Haus gehört ein aktueller Record of Title von LINZ. Er zeigt Eigentümer, Eigentumsform und eingetragene Rechte, beispielsweise Wegerechte, Covenants, Hypotheken oder Caveats. Ein eigener Lawyer oder Conveyancer prüft diese Angaben und den Kaufvertrag. Hinzu kommen das Land Information Memorandum, kurz LIM, und die Bauunterlagen des örtlichen Council: etwa Genehmigungen, bekannte Gefahren, Nutzungsbedingungen und offene Fragen zum Gebäude.</p><p>Die technische Hausprüfung und ein Versicherungsangebot ergänzen die rechtliche Prüfung. Bei Unit Titles werden außerdem die Unterlagen der Eigentümergemeinschaft und deren Kosten benötigt. Plane Rechts- und Registrierungskosten, LIM, Gebäudegutachten, gegebenenfalls OIO-Genehmigung, Finanzierung, Versicherung und laufende Council Rates ein. Eine Auktion kann zu einer sofort bindenden Verpflichtung führen; die erforderlichen Prüfungen und Genehmigungen müssen zur gewählten Kaufart passen.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.settled.govt.nz/buying-a-home/researching-the-property/doing-your-homework/\" rel=\"noreferrer\">Settled, Real Estate Authority: Titelprüfung, LIM und Kaufvorbereitung</a></p><p>EXOBASIS führt auf Auftrag Standort- und Bedarfsprofil, Suche, Besichtigungen, organisierte unabhängige Titel- und Kaufprüfung sowie Vertrags- und Abschlusskoordination zusammen. Zur Übergabe werden Schlüssel, Versorger und die benötigte Einrichtung organisiert. Eine anschließende Betreuung hält die Immobilie während deiner Abwesenheit nutzbar.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Unterkunft, Immobilienkauf und Ankunft organisieren</a></p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Gesundheitsversorgung und Pflege",
+      "body": "<h3>Mit Kindern ankommen</h3><p>Als Besucher kann ein Kind grundsätzlich bis zu drei Monate zur Schule gehen; internationale Schulgebühren sind dabei üblich. Für längeren Schulbesuch ist der passende Status erforderlich. Ein Dependent Child Student Visa kann für Kinder berechtigter Work- oder Student-Visa-Inhaber in Betracht kommen. Ob das Kind als domestic student gebührenfrei eine staatliche Schule besuchen kann, hängt von der zugrunde liegenden Kategorie und ihren Bedingungen ab.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/\" rel=\"noreferrer\">Immigration New Zealand: Schulbesuch als Besucher</a></p><p class=\"exb-citation\">Quelle: <a href=\"https://immigration.govt.nz/visas/dependent-child-student-visa\" rel=\"noreferrer\">Immigration New Zealand: Dependent Child Student Visa</a></p><p>Schulaufnahme und Aufenthaltsentscheidung werden deshalb gemeinsam vorbereitet. Wir organisieren die benötigten Unterlagen und die Abstimmung mit der Schule. Sorge- und Reisebefugnisse sowie die mitreisenden Angehörigen behandelt auch <a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a>.</p><h3>Versicherung und Arztaufnahme</h3><p>Neuseeländische Staatsbürger und die meisten im Land lebenden Resident-Visa-Inhaber können öffentlich finanzierte Gesundheitsleistungen erhalten. Für andere Kategorien gelten eigene Bedingungen. Als Besucher mit deutschem, österreichischem oder schweizerischem Pass solltest du eine umfassende Reisekrankenversicherung vorsehen; die speziellen Abkommen für Australien und das Vereinigte Königreich werden nicht auf dich übertragen. Die Unfallversicherung ACC kann auch Besuchern bei anerkannten Unfällen helfen, ersetzt aber keine allgemeine Krankenversicherung.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.govt.nz/browse/health/public-health-services/get-publicly-funded-health-services/\" rel=\"noreferrer\">Govt.nz: Berechtigung für öffentliche Gesundheitsleistungen und ACC</a></p><p>Nach der Wohnortwahl folgt die Aufnahme bei einer General Practice. Nicht jede Praxis nimmt neue Patienten auf; INZ empfiehlt, die örtlichen Praxen direkt zu kontaktieren. Der Hausarzt, GP, führt die laufende Versorgung und überweist bei Bedarf an Fachärzte. Medizinische Unterlagen, Wirkstoffnamen und regelmäßige Kontrollbedarfe werden dafür mitgebracht.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.immigration.govt.nz/live/setting-up-your-life-in-new-zealand/getting-health-care-and-finding-a-doctor/\" rel=\"noreferrer\">Immigration New Zealand: Arzt finden und medizinische Unterlagen</a></p><p>Für Pflege, Hilfsmittel oder eine fortlaufende Therapie wird die konkrete Leistung vor dem Umzug bestätigt. Versicherungsschutz, öffentliche Berechtigung und tatsächlich verfügbarer Termin bleiben verschiedene Voraussetzungen. <a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a> führt diese Vorbereitung weiter.</p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Geld, Fernarbeit und steuerliche Ansässigkeit",
+      "body": "<h3>Ein Konto muss auch aktiviert sein</h3><p>Eine vorab eröffnete Bankverbindung ist erst dann hilfreich, wenn du auf das Geld zugreifen kannst. BNZ beschreibt für das Migrantenkonto eine persönliche Aktivierung in einer Filiale. Mitgebracht werden Pass und ein akzeptierter Adressnachweis; bei einem Gemeinschaftskonto müssen beide Kontoinhaber persönlich erscheinen. Erst die Aktivierung ermöglicht die normale Nutzung und den Kartenzugang.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.bnz.co.nz/personal-banking/international/moving-to-new-zealand/activate-your-account\" rel=\"noreferrer\">BNZ: persönliche Kontoaktivierung nach der Ankunft</a></p><p>Plane deshalb für die Ankunft einen bereits nutzbaren zweiten Zahlungsweg. Für größere Überweisungen werden Mittelherkunft und Empfängerunterlagen vorbereitet. Steuerliche Ansässigkeiten und Identifikationsnummern gehören zur Bankaufnahme. Prüfe zudem Abhebung, Überweisung und Wiederzugang, damit ein verlorenes Telefon nicht zugleich Konto und Kontaktweg stilllegt.</p><p>Die Vertiefung <a class=\"exb-text-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Bankkonto und Zahlungsfähigkeit im Ausland</a> verbindet Kontoannahme, Herkunftsnachweise und einen getesteten Ersatzzugang. Für Neuseeland richtet sich die Transferfolge zusätzlich nach dem Aktivierungstermin: Stimme akzeptierte Unterlagen und mögliche Geldeingänge mit der Bank ab und halte die Ankunftsreserve bis zum nutzbaren Zugriff getrennt verfügbar. Über <a class=\"exb-text-link\" href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität vorbereiten</a> kannst du Dokumentenabstimmung, Aufnahme- und Aktivierungsschritte sowie die Vorbereitung des Zahlungstests beauftragen.</p><h3>Die aktuelle Besucherregel und der spätere Lebensmittelpunkt</h3><p>Inland Revenue unterscheidet den Einwanderungsstatus ausdrücklich von der Steueransässigkeit. Grundsätzlich können mehr als 183 Tage in einem Zwölfmonatszeitraum oder ein permanent place of abode zur Ansässigkeit führen. Unter der aktuell veröffentlichten Sonderregel für non-resident visitors kann die steuerliche Nichtansässigkeit bei bis zu 275 Besuchstagen in 18 Monaten fortbestehen. Dafür gelten mehrere Voraussetzungen: unter anderem rechtmäßiger Aufenthalt, steuerliche Verpflichtung in einem anderen Ansässigkeitsstaat, keine örtlichen Kunden oder neuseeländischen Arbeitgeber und keine Arbeit, die die Anwesenheit in Neuseeland verlangt. Alle Bedingungen müssen zum tatsächlichen Fall passen.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.ird.govt.nz/tax-residency\" rel=\"noreferrer\">Inland Revenue: Steueransässigkeit und non-resident visitors</a></p><p>Für bestimmte neue steuerlich Ansässige gibt es eine einmalige, ungefähr vierjährige Übergangsbefreiung für viele ausländische Einkunftsarten. Voraussetzung ist unter anderem, in den zehn Jahren zuvor nicht in Neuseeland steuerlich ansässig gewesen zu sein. Arbeitslohn und Einkünfte aus persönlichen Dienstleistungen sind von dieser Befreiung ausgenommen. Ein europäischer Auftraggeber macht deine laufende Arbeit deshalb nicht automatisch steuerfrei.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.ird.govt.nz/roles/nz-tax-residents/exemption\" rel=\"noreferrer\">Inland Revenue: Transitional Residency und Grenzen der Steuerbefreiung</a></p><p>EXOBASIS organisiert die beauftragte Fachklärung für deine Einkünfte und fortbestehenden Bindungen in Deutschland, Österreich oder der Schweiz. Parallel wird ein Haushaltsbudget mit Wohnung, Verkehr, Versicherung, möglichen Schulgebühren und einer Reserve für die Anlaufzeit erstellt. Für Unternehmer gehören Stellvertretung, Bankbefugnisse und die tatsächliche Geschäftsleitung in dieselbe Umzugsvorbereitung.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Dokumente und Vorlauf: erst den Weg sichern, dann umziehen",
+      "body": "<p>Für den gewählten Antrag werden Identität, Familienbeziehung, Gesundheit, Leumund und die wirtschaftliche Grundlage nachgewiesen. Bei qualifikationsbezogenen Wegen kommen Arbeitsplatz, Berufszulassung und Englisch hinzu; bei Investoren die rechtmäßige Mittelherkunft, Transferfolge und zulässige Anlage. Die Anforderungen bestimmen, welche Übersetzung, Bestätigung oder Untersuchung tatsächlich benötigt wird.</p><p>Wir stellen daraus eine belastbare Reihenfolge her: rechtlichen Zugang klären, Nachweise beschaffen, Schul- und Versorgungsanschluss organisieren, Wohnmöglichkeiten besichtigen und anschließend Verträge sowie Reise aufeinander abstimmen. Im Ankunftsdossier stehen die verwendbaren Unterlagen, Termine, Adressen, Kontakte und die nächsten fälligen Schritte.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a></p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Aufenthalt und Wiederkehr langfristig erhalten",
+      "body": "<p>Ein Resident Visa und ein Permanent Resident Visa haben unterschiedliche Reisebedingungen. Beim Straight-to-Residence-Weg beschreibt INZ die Möglichkeit, nach zwei Jahren einen Permanent-Resident-Antrag zu stellen; dafür müssen die weiteren Voraussetzungen erfüllt sein. Bis dahin und bei anderen Kategorien zählen die konkreten travel conditions deines Titels. Der erlaubte Aufenthalt im Land und die Möglichkeit, nach längerer Abwesenheit wieder einzureisen, werden getrennt im Kalender geführt.</p><p class=\"exb-citation\">Quelle: <a href=\"https://immigration.govt.nz/visas/straight-to-residence-visa\" rel=\"noreferrer\">Immigration New Zealand: Resident Visa und späterer Permanent-Resident-Antrag</a></p><p>Bei Active Investor Plus werden Anlagebestand und Anwesenheit während der vorgeschriebenen Zeit nachgewiesen. Für die Außenbasis kommen Miet- oder Eigentumspflichten, Versicherung, Bankdaten und Erreichbarkeit hinzu. Nach einem Unwetter oder einer langen Abwesenheit werden Haus, Wasser, Heizung, Vorräte und Schlüsselzugang geprüft, bevor ihr ankommt. EXOBASIS übernimmt die vereinbarte laufende Organisation und aktualisiert sie bei Änderungen deiner Familie oder Nutzung.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a></p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Deine Vorbereitung für Neuseeland beauftragen",
+      "body": "<p>Du musst die Voraussetzungen nicht als voneinander getrennte Projekte führen. EXOBASIS verbindet Standortauswahl, Aufenthalts- und Dokumentenarbeit, Schule und Versorgung mit der konkreten Wohnlösung. Ein Immobilienkauf kann von der Suchaufgabe über Besichtigungen und unabhängige Fachprüfung bis zur Abschlusskoordination und Übergabe vorbereitet werden. Ankunft und Objektbetreuung schließen daran an.</p><p>Du erhältst die für deinen Auftrag vereinbarten Ergebnisse und eine klare Übersicht, was erledigt ist, wer die nächste Aufgabe ausführt und welche persönliche Entscheidung noch gebraucht wird. Eine konkrete Einzelaufgabe ist direkt anfragbar. Nenne uns zunächst Ausgangsland, Pässe, mitreisende Angehörige, geplante Nutzung und deinen zeitlichen Rahmen. Wenn du noch nicht weißt, welche Unterstützung passt, kannst du eine kostenlose 20-Minuten-Orientierung anfragen.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen vergleichen</a></p><h3>Welche Alternative lohnt den Vergleich?</h3><p><a class=\"exb-text-link\" href=\"/de/laender/australien/\">Australien als persönliche Ausweichoption</a> ist ein Vergleich für eine englischsprachige Familienzukunft mit eigenen Arbeits- und Aufenthaltswegen. Beim Ernährungsvergleich weist die <a href=\"https://onlinelibrary.wiley.com/doi/10.1111/risa.14072\" rel=\"noreferrer\">Studie von Boyd und Wilson</a> Australien einen noch größeren rechnerischen Nahrungsüberschuss als Neuseeland zu. Davon getrennt betrachten die Autoren Australiens AUKUS-Bündnis und US-nahe Einrichtungen wie Pine Gap als mögliche Konfliktexposition im untersuchten Nuklearkriegsszenario. Das beschreibt einen anderen Risikofaktor, keine persönliche Gefahrenprognose. Beide Länder müssen Nahrung trotz möglicher Lieferkettenausfälle verfügbar halten; für euch kommt als eigene Zugangshürde der jeweils passende Einwanderungsweg hinzu. <a class=\"exb-text-link\" href=\"/de/laender/uruguay/\">Uruguay als persönliche Ausweichoption</a> stellt eine andere Sprach-, Entfernungs- und Aufenthaltskonstellation gegenüber. Entscheidend bleibt, welchen Ort ihr rechtlich und praktisch nutzen könnt.</p><p>Uruguays <a href=\"https://www.gub.uy/tramites/residencia-legal-permanente\" rel=\"noreferrer\">allgemeines Daueraufenthaltsverfahren „Permanente“</a> macht den Vergleich konkreter: Neben Identitäts-, Strafregister-, Gesundheits- und Impfnachweisen verlangt es Belege zum Unterhalt. Für Rentiers, Rentner und Pensionäre mit Einkünften aus dem Ausland bestätigt ein notarieller Nachweis den jeweiligen Status, die Art der Einkünfte, ihren monatlichen Nominalbetrag und wie sie in Uruguay empfangen werden. Nach der Onlineprüfung folgt ein persönlicher Termin mit Originalen; wer kein Spanisch spricht, braucht einen Dolmetscher. Für Mercosur-Staatsangehörige und bestimmte Angehörige von Uruguayern bestehen eigene Kategorien.</p><p>Gegenüber den hier beschriebenen kapitalgebundenen Neuseeland-Wegen prüfst du damit eine andere Kombination aus persönlichem Verfahren und laufendem Unterhalt. Dazu gehört eine Unterkunft, die ihr nach der Anreise tatsächlich beziehen könnt: erste Wohnlösung und dauerhaften Mietvertrag getrennt vorbereiten, die vom Vermieter akzeptierte <a href=\"https://www.liveinuruguay.uy/housing\" rel=\"noreferrer\">Mietabsicherung</a> klären und Ankunft bis zur Schlüsselübergabe organisieren. Das in Uruguay verfügbare Einkommen muss Miete und Familienalltag tragen. Ein bewältigbarer Antrag und ein Immobilienangebot allein ergeben noch keine nutzbare Ausweichbasis.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fneuseeland%2F#kurzanfrage\">Vorbereitung für Neuseeland anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Kann ich ein Haus in Neuseeland kaufen und später als Reservebasis nutzen?",
+    "answer": "Das hängt vom Aufenthaltsstatus, der Grundstücksart und dem Erwerbsweg ab. Ein gewöhnliches Besuchs- oder Arbeitsvisum reicht grundsätzlich nicht zum Hauskauf. Für Residence-Class-Visa-Inhaber bestehen bestimmte genehmigungspflichtige Wege. Qualifizierte Investoren können den gesonderten Weg für Wohnobjekte über 5 Millionen NZD nutzen. Kaufrecht, eigene Nutzung und Bedingungen bei Abwesenheit werden vor einer verbindlichen Zusage geklärt."
+  },
+  "editorialSources": [
+    "island",
+    "nz"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 1048,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1050,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1051,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1052,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1053,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1054,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1055,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1056,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1057,
+      "target": "/en/countries/new-zealand/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1464,
+      "target": "/de/laender/australien/",
+      "label": "Australien als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1466,
+      "target": "/de/laender/uruguay/",
+      "label": "Uruguay als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Auswandern nach Neuseeland: deine Familienbasis am anderen Ende der Welt"
+}

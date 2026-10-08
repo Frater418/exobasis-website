@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/family-life-abroad/care-medication/",
+  "lang": "en",
+  "title": "Care needs, medication and medical dependencies when moving",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-126e16521eac4a"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-74f0fcc5325c1d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-be7b4f69cc6f25"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Moving abroad with elderly parents: care and medication | EXOBASIS",
+  "description": "Plan continuous care when moving abroad: clinical handover, medication, equipment, suitable transport, receiving support and the funding to sustain it.",
+  "intro": "<p>If a parent depends on daily care or regular treatment, leaving the country is also a transfer of care. The essential question is who will provide each part of that care before, during and after the journey.</p><p>There are three workable starting points: move together, organise a later supported journey, or maintain reliable care for someone staying behind. The right choice follows your relative's wishes, clinical needs and the support that can actually be arranged.</p>",
+  "primary": {
+    "label": "Discuss care and family coordination",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "Continuous care, from the last day at home to the first day abroad.",
+    "facts": [
+      [
+        "Care",
+        "The actual daily needs and a receiving provider"
+      ],
+      [
+        "Journey",
+        "Medication, equipment and suitable assistance"
+      ],
+      [
+        "Funding",
+        "Cover, direct costs and responsible decision-makers"
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notebook and pen, symbolising organised preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Describe an ordinary day, including the difficult parts",
+      "body": "<p>Write down what support is needed from waking to sleeping: medication, meals, mobility, washing, supervision, appointments and help during the night. Include communication, memory, hearing or visual needs that affect travel and consent.</p><p>Then describe what happens if the usual carer, electricity or transport is unavailable. A lift, oxygen supply, refrigeration or charging equipment can turn an otherwise suitable home into the wrong choice. Record the tasks, equipment and people needed rather than relying on the phrase 'care available'.</p><p>Use that description to compare moving together with later reunion or care at home. Staying behind requires its own funded arrangement, visiting contact and escalation route, particularly if you have been the person managing everything.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Arrange a clinical handover to a receiving professional",
+      "body": "<p>Ask the treating team for a current summary covering diagnoses, allergies, medication by active ingredient and dose, relevant test results, equipment and the treatment timetable. The responsible clinicians decide clinical suitability for travel and any support needed on the journey.</p><p>Identify the receiving clinician or care provider and obtain confirmation that they can meet the relevant needs from the intended date. Send the necessary records through the agreed protected channel. Arrange translation where the receiving team needs it and identify who handles questions between the two teams.</p><p>Book the first necessary appointment before the existing arrangement ends. For treatments with a fixed schedule, the gap between appointments is a planning constraint, not something to solve after arrival.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Plan medication and equipment for the whole route",
+      "body": "<p>List active ingredients, strength, quantity, prescription evidence and storage requirements. Check the rules of the departure, transit and destination countries: a medicine prescribed at home can be controlled elsewhere. Keep the labelled supply and supporting records together, with access during the journey.</p><p>For medicines containing controlled drugs, <a href=\"https://www.gov.uk/travelling-controlled-drugs\">UK Government guidance</a> says to establish the destination's rules and carry proof that the prescription is yours. Its separate rules for bringing medicines into the UK must not be treated as a universal export allowance.</p><p>The official UAE personal-medicine guidance distinguishes travellers carrying medicines from residents importing them through shipping companies. It describes electronic prior approval for travellers as optional, within the permitted conditions, and requires declaration of narcotic or controlled medicines at arrival if prior approval was not obtained. Use the actual medicine classification and current competent-authority process rather than assuming every prescription follows the same route. See the <a href=\"https://ede.gov.ae/documents/61005/62137/Issue+of+Permit+to+Import+Medicines+for+Personal+Use+-+Infographic+-+Issue+of+Permit+to+Import+Medicines+for+Personal+Use+-+PDF+380KB.pdf/4cfd4a92-779d-0d4a-dac6-43494354d25c\">personal-use medicine guidance hosted by the Emirates Drug Establishment (PDF)</a>.</p><p>Ask the treating clinician and a destination pharmacy how repeat supplies will be prescribed and dispensed. Plan temperature control, batteries, compatible supplies and a delayed-journey reserve within the lawful quantity. Do not change a treatment or substitute a medicine to fit travel arrangements without the prescribing professional.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Match transport to the person's condition",
+      "body": "<p>Compare the full journey, including getting out of the home, transfers, waiting, toilets, stairs and the time between assistance handovers. Confirm the carrier's process for mobility aids, batteries, oxygen and any medical clearance it requires.</p><p>A relative travelling with you, a trained escort, ground medical transport and medical repatriation are different services. Obtain the clinical recommendation first, then arrange an operator able to provide the required support and handover. Ask who is responsible during each connection and what happens if the schedule changes.</p><p>Keep the receiving party informed of delays. Medication, meals and the next treatment still need to happen while you wait.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Prepare the home and the first care shift",
+      "body": "<p>Confirm access from the street to the bed and bathroom, safe transfers, cooling or heating, equipment power and access for the care team. A photograph of an accessible entrance does not establish that the rest of the home works.</p><p>Arrange the equipment before arrival, name the person receiving your relative and confirm the first care shift. Keep a secondary contact for a missed handover. For a longer tenancy or purchase, build the care requirements into the property brief before choosing a neighbourhood or committing money.</p><p>EXOBASIS can organise the receiving home, practical setup and the coordination between the family and contracted providers. Clinical responsibility stays with the treating professionals, with their instructions incorporated into the arrival arrangements.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/arrange-arrival/\" data-route=\"/en/services/arrange-arrival/\"><span>Arrange your arrival abroad</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-6",
+      "title": "Confirm who pays, what is covered and when it starts",
+      "body": "<p>Budget separately for clinical treatment, medicines, daily personal care, transport, equipment, accommodation and emergency arrangements. Ask the insurer or funding body for the actual scope: pre-existing conditions, geographical cover, authorisation, deductibles and the effect of changing residence. A policy covering treatment does not itself provide a care worker or a clinical appointment.</p><p>For a permanent move from the UK, the <a href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/moving-abroad/planning-your-healthcare/\">NHS healthcare-abroad guidance</a> explains that ordinary entitlement is residence-based. Eligible residents in the EU, Iceland, Liechtenstein, Norway or Switzerland may obtain an S1, for example through a qualifying UK State Pension or other eligible status, but it must be registered with the receiving authority. The route does not extend to a UAE move simply because the traveller is British.</p><p>Temporary-visit GHIC or EHIC cover and an S1 for residence serve different purposes. Arrange cover for the period before a new entitlement is registered, and establish the separate funding for ongoing social or personal care.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\" data-route=\"/en/knowledge/family-life-abroad/health-cover-care/\"><span>Health cover and care abroad</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-7",
+      "title": "Keep decisions and coordination in capable hands",
+      "body": "<p>Agree who can speak to providers, approve expenditure and make decisions if your relative cannot. The required legal authority depends on the jurisdiction and decision; a family relationship or access to the email account does not settle it. Keep the accepted instruments and contact instructions in the <a href=\"/en/knowledge/residence-and-documents/emergency-documents/\">emergency records</a>.</p><p>EXOBASIS can coordinate the preparation: map the dependencies, organise professional and provider enquiries, arrange the practical handovers and bring the confirmed responsibilities into one usable plan. If your relative stays behind, we can include that support arrangement and its ongoing coordination in the assignment.</p><p>Begin with the present care, the proposed destination and the timing you are considering. Detailed medical records follow through the protected intake once their purpose and recipients are agreed.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/assets-and-access/powers-representation-succession/\" data-route=\"/en/knowledge/assets-and-access/powers-representation-succession/\"><span>Powers of attorney, representation and succession abroad</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/family-business-continuity/\" data-route=\"/en/services/family-business-continuity/\"><span>Keep your family and business functioning</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Understand the actual support requirements"
+      },
+      {
+        "id": "section-2",
+        "title": "Involve the treating professionals early"
+      },
+      {
+        "id": "section-3",
+        "title": "Check medication and equipment along the route"
+      },
+      {
+        "id": "section-4",
+        "title": "Arrange suitable transport and accompaniment"
+      },
+      {
+        "id": "section-5",
+        "title": "Prepare real reception and day-to-day support"
+      },
+      {
+        "id": "section-6",
+        "title": "Align funding and insurance arrangements"
+      },
+      {
+        "id": "section-7",
+        "title": "Organise representation and ongoing coordination"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 669,
+        "target": "/en/services/arrange-arrival/",
+        "label": "Arrange your arrival abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#section-5"
+      },
+      {
+        "line": 667,
+        "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+        "label": "Health cover and care abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krankenversicherung und Behandlung",
+        "position": "#section-6"
+      },
+      {
+        "line": 668,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#section-7"
+      },
+      {
+        "line": 670,
+        "target": "/en/services/family-business-continuity/",
+        "label": "Keep your family and business functioning",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#section-7"
+      },
+      {
+        "line": 671,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      }
+    ],
+    "seeding": [
+      "EN11",
+      "EN13"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Moving abroad with elderly parents or ongoing care needs"
+}

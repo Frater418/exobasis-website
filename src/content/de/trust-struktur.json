@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/trust-struktur/",
+  "lang": "de",
+  "title": "Eine Trust-Struktur organisieren",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-480f9ea4514b27"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-dd3a4d19dd987f"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-327568101d023a"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Trust-Struktur / Familie, Verfügung und Nachfolge",
+  "seoTitle": "Trust gründen und Verwaltung organisieren | EXOBASIS",
+  "description": "EXOBASIS organisiert Eignungsprüfung, Trustrollen, Fachmandate und Einrichtung. Mit geklärten Rechten, Vermögensübertragung und laufenden Pflichten.",
+  "intro": "<p>Du möchtest festlegen, wie Vermögen für deine Familie eingesetzt wird und wer handelt, wenn du selbst ausfällst. Ein Trust kann dafür eine Struktur sein. Entscheidend ist, welche Rechte du überträgst, wer künftig entscheidet und wie Begünstigte tatsächlich an die vorgesehenen Leistungen kommen.</p><p>EXOBASIS organisiert die fachliche Eignungsprüfung und die vereinbarte Einrichtung. Wir verbinden deine Ziele mit den beteiligten Rechts- und Steuerräumen, geeigneter Trustee-Ausführung und den praktischen Schritten bis zur Übergabe.</p>",
+  "primary": {
+    "label": "Trust-Struktur anfragen",
+    "intent": "Eine Trust-Struktur organisieren"
+  },
+  "summary": {
+    "kicker": "Deine Vorbereitung als konkreter Auftrag",
+    "title": "Zuerst die Rechte verstehen. Dann die Struktur einrichten.",
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Karte und Kompass als Sinnbild für internationale Planung.",
+    "facts": [
+      [
+        "Ausgangspunkt",
+        "Zweck, Vermögen und betroffene Personen"
+      ],
+      [
+        "Gestaltung",
+        "Trustrecht, Kontrolle, Begünstigung und steuerliche Behandlung"
+      ],
+      [
+        "Ergebnis",
+        "Fachlich ausgearbeitete und im beauftragten Umfang eingerichtete Struktur"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Welche Aufgabe soll der Trust übernehmen?",
+      "layout": "prose",
+      "body": "<p>Für ein minderjähriges Familienmitglied Geld zu verwalten ist eine andere Aufgabe, als einem Angehörigen regelmäßige Zahlungen zu ermöglichen oder mehrere Vermögenswerte über eine Nachfolge hinweg zu führen. Wir grenzen mit dir den Zweck und die betroffenen Personen ab.</p><p>Wer nach „Offshore Trust gründen“ oder „Vermögensschutz durch Trust“ sucht, braucht vor allem eine Antwort auf den Mechanismus: Welche Rechtsposition verändert sich durch die Übertragung, welche Kontrolle gibst du ab und wie wird der gewünschte Familienzweck umgesetzt? Diese Fragen bestimmen die Fachprüfung und das Angebot.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/vermoegensstrukturen/\" data-route=\"/de/leistungen/vermoegensstrukturen/\" data-link-description=\"Eigentum, Verwahrung und Nachfolge mit passenden Fachstellen organisieren.\"><span>Vermögensstrukturen, Verwahrung und Nachfolge organisieren</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-2",
+      "title": "Settlor, Trustee und Begünstigte",
+      "layout": "prose",
+      "body": "<p>Der Settlor bringt das Vermögen in die Struktur ein. Der Trustee übernimmt die im Trustrecht und in den Dokumenten bestimmten Verwaltungsaufgaben. Begünstigte erhalten die dort vorgesehenen Rechte oder Leistungen. Welche Entscheidung wem zusteht, folgt aus der konkreten Ausgestaltung.</p><p>Die britische Behördenübersicht zeigt, wie unterschiedlich das sein kann: Bei einem „interest in possession trust“ steht einem Begünstigten das Einkommen nach Kosten zu; bei einem „discretionary trust“ kann der Trustee nach den Regeln der Urkunde über Empfänger, Umfang und Zeitpunkt von Leistungen entscheiden. <a href=\"https://www.gov.uk/trusts-taxes/types-of-trust\">GOV.UK: Trusttypen und Rollen</a>.</p><p>Diese Unterscheidung hilft bei der Zielklärung. Das tatsächlich gewählte Trustrecht und die Dokumente bestimmen deine Struktur. Ein zusätzlicher Protector, Zustimmungsvorbehalte oder ein späterer Trustee-Wechsel werden nur dort eingeplant, wo sie rechtlich vorgesehen und für den Zweck sinnvoll sind.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-3",
+      "title": "Herkunfts- und Trustrecht: Kontrolle und Steuerfolgen prüfen",
+      "layout": "prose",
+      "body": "<p>Die zuständigen Fachstellen prüfen das gewählte Trustrecht und die Anerkennung in den beteiligten Herkunfts- und Wohnsitzstaaten.</p><p>Wenn der Trustee künftig verwaltet, muss geklärt sein, wie Entscheidungen entstehen und wie Begünstigte Leistungen erhalten. Ein rechtlicher Anspruch auf Auszahlung ist etwas anderes als ein Ermessenswunsch an den Trustee. Ebenso wichtig sind Informationsrechte, Rechnungslegung, Konfliktlösung und die Möglichkeit, ungeeignete Verwaltung zu ersetzen.</p><p>Die beabsichtigte Trennung von Vermögen und persönlicher Verfügung muss rechtlich und tatsächlich nachvollziehbar sein. Bestehende Forderungen, Zeitpunkt und Zweck einer Übertragung gehören deshalb in die fachliche Beurteilung. Eine auf dem Papier eingerichtete Struktur mit unverändertem tatsächlichem Zugriff beantwortet diese Fragen nicht.</p><p>Ein Trust im Ausland wird nicht allein nach seinem Errichtungsort beurteilt. Steuerliche Wohnsitze, Rechte von Settlor und Begünstigten, Vermögensarten und tatsächliche Verwaltung können weitere Staaten einbeziehen. Deshalb wird die Beurteilung aufeinander abgestimmt, bevor die Struktur umgesetzt wird.</p><p>Für einen deutschen Bezug ist § 15 AStG besonders relevant: Die Norm regelt die Zurechnung von Vermögen und Einkünften ausländischer Familienstiftungen und stellt in Absatz 4 weitere Zweckvermögen und Vermögensmassen gleich. Ob eine Trustgestaltung darunter fällt und ob eine gesetzliche Ausnahme greift, hängt von ihren konkreten Rechten und Voraussetzungen ab. Eine Steuerzurechnung kann daher neben der zivilrechtlichen Trennung stehen. <a href=\"https://www.gesetze-im-internet.de/astg/__15.html\">§ 15 AStG</a>.</p><p>Bei österreichischen und schweizerischen Beteiligten werden deren persönliche Steuerbezüge und die Einordnung im jeweiligen Staat gesondert bearbeitet. Wir organisieren diese Abstimmung einschließlich der zutreffenden Melde- und Erklärungspflichten.</p><p>Wir lassen die Wirkung für den benannten Fall ausarbeiten und stellen sie neben Kosten, laufende Pflichten und den Kontrollverlust, den du akzeptieren müsstest. Du entscheidest auf dieser Grundlage, bevor Vermögen übertragen wird.</p><p>Auch die Alternative einer Stiftung in Liechtenstein wird mit deinen persönlichen Rechtsbezügen abgestimmt; ein geplanter Wegzug wird mit seinen Steuer- und Unternehmenspflichten einbezogen.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/stiftung-liechtenstein/\" data-route=\"/de/leistungen/stiftung-liechtenstein/\" data-link-description=\"Die Prüfung und Einrichtung einer liechtensteinischen Stiftung koordinieren.\"><span>Eine Stiftung in Liechtenstein organisieren</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\" data-route=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\"><span>Wegzug, Steuern und Unternehmenspflichten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-4",
+      "title": "Fachstellen auswählen und das Mandat abstimmen",
+      "layout": "prose",
+      "body": "<p>Für die Ausführung müssen Trustrecht, Steuerbeurteilung und laufende Verwaltung zusammenpassen. Wir organisieren Angebote geeigneter Fachpersonen und eine klare Leistungsbeschreibung: Welche Dokumente werden erstellt, welche Entscheidung wird begründet und wer übernimmt anschließend die Verwaltung?</p><p>Beim Trustee gehören Befugnis zur Tätigkeit, Leistungsumfang, Rechnungslegung, Vergütung, Erreichbarkeit und Wechselbedingungen in den Vergleich. Vor der Beauftragung wird außerdem geklärt, welche Identitäts- und Herkunftsnachweise erforderlich sind und welche Institute den vorgesehenen Aufbau bearbeiten können.</p><p>Vor dem Mandat klären wir die Annahmebedingungen, den jeweiligen Vertragspartner und die Grenzen seiner übernommenen Arbeit.</p>"
+    },
+    {
+      "id": "kern-5",
+      "title": "Dokumente und Vermögensübertragung koordinieren",
+      "layout": "prose",
+      "body": "<p>Wir führen die abgestimmten Unterlagen und Entwürfe zusammen und koordinieren die vereinbarte Errichtung mit den zuständigen Fachstellen.</p><p>Eine unterschriebene Trusturkunde und die wirksame Übertragung der einzelnen Vermögenswerte sind getrennte Schritte. Beteiligungen, Konten oder Immobilien können eigene Übertragungsakte, Zustimmungen und Registervorgänge erfordern. Wir koordinieren diese Arbeit mit den zuständigen Stellen und halten den jeweiligen Abschluss nach.</p>"
+    },
+    {
+      "id": "kern-6",
+      "title": "Kosten und laufende Verwaltung vorab klären",
+      "layout": "prose",
+      "body": "<p>Vor der Beauftragung trennen wir die Kosten für fachliche Gestaltung und Steuerprüfung, Einrichtung, Vermögensübertragung sowie laufende Trustee-Verwaltung und Meldearbeit. Register-, Bank-, Bewertungs- und Transaktionskosten sowie spätere Änderung, Trustee-Wechsel und Beendigung werden gesondert berücksichtigt. So kannst du den einmaligen Aufwand und die langfristigen Verpflichtungen gemeinsam beurteilen.</p><p>Ein Trust braucht Verwaltung, Unterlagen und zuständige Personen über die Einrichtung hinaus. Jahresberichte, steuerliche Informationen, Änderungen im Kreis der Beteiligten und Ausschüttungen müssen den richtigen Stellen zugehen. Die britische Behördeninformation nennt beispielsweise Dokumentations-, Erklärungs- und Informationspflichten von Trustees für den dortigen Steuerfall. <a href=\"https://www.gov.uk/trusts-taxes/trustees-tax-responsibilities\">GOV.UK: Verantwortlichkeiten von Trustees</a>.</p><p>Für deinen Auftrag werden die Pflichten des gewählten Rechtsraums und der Beteiligten konkret zugeordnet. Ein Wohnsitzwechsel, Todesfall oder geänderter Familienbedarf löst gegebenenfalls neue Facharbeit aus. EXOBASIS kann die organisatorische Betreuung und den Informationsfluss weiterführen.</p>"
+    },
+    {
+      "id": "kern-7",
+      "title": "Zugang und Nachfolge verständlich übergeben",
+      "layout": "prose",
+      "body": "<p>Zur Einrichtung gehört auch der Nutzungsweg: Wie wird eine vorgesehene Zahlung beantragt, wer entscheidet, welche Nachweise braucht es und auf welchem Konto kommt sie an? Diese Abläufe werden mit der Verwaltung abgestimmt und als Teil der Übergabe dokumentiert.</p><p>Für Nachfolge und spätere Änderungen hält die Übergabe fest, wer zu informieren ist, welche Unterlagen benötigt werden und welche Folgefristen gelten. Maßgeblich bleiben die in den Dokumenten vorgesehenen Rollen und Änderungswege, einschließlich eines rechtlich vorgesehenen Trustee-Wechsels.</p><p>Bei Sachwerten wird dieser Ablauf mit Verwahrstelle, Eigentumsnachweisen und berechtigter Herausgabe verbunden.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/sachwerte-verwahrung/\" data-route=\"/de/leistungen/sachwerte-verwahrung/\" data-link-description=\"Verwahrung, Eigentumsnachweise und tatsächlichen Zugriff auf Sachwerte organisieren.\"><span>Verwahrung und Zugriff auf Sachwerte organisieren</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    }
+  ],
+  "working": {
+    "title": "Ein geführter Auftrag mit klaren Fachrollen",
+    "body": "<p>EXOBASIS führt Ziele, Unterlagen, Angebote und Umsetzung zusammen. Die zuständigen Rechts- und Steuerfachleute verantworten ihre Beurteilung; der Trustee übernimmt seine vertraglich und rechtlich bestimmten Aufgaben. Deine Entscheidungen über Beauftragung und Vermögensübertragung bleiben ausdrücklich eingebunden.</p>"
+  },
+  "nextWork": {
+    "title": "Mit dem übrigen Vermögen verbinden",
+    "body": "<p>Eine Trust-Struktur muss zu Bankzugang, persönlicher Vertretung und deiner übrigen Nachfolgeplanung passen. Bei Bedarf werden diese Anschlüsse im selben Vorhaben koordiniert oder als eigener Auftrag fortgeführt.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Welche Aufgabe soll ein Trust für deine Familie lösen?",
+    "body": "Beschreibe Zweck, betroffene Personen und beteiligte Länder zunächst in groben Zügen. Wir klären den passenden Fach- und Organisationsauftrag."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "555",
+        "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+        "target": "/de/leistungen/vermoegensstrukturen/",
+        "position": "Kernabschnitt 1: Kundenziel",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "556",
+        "label": "Eine Stiftung in Liechtenstein organisieren",
+        "target": "/de/leistungen/stiftung-liechtenstein/",
+        "position": "Kernabschnitt 3: Herkunfts- und Strukturrecht",
+        "purpose": "Eine Stiftungsaufgabe mit liechtensteinischer Fachzuständigkeit und Herkunftsrecht abstimmen."
+      },
+      {
+        "line": "557",
+        "label": "Verwahrung und Zugriff auf Sachwerte organisieren",
+        "target": "/de/leistungen/sachwerte-verwahrung/",
+        "position": "Kernabschnitt 7: Zugang/Nachfolge",
+        "purpose": "Eigentum, Verwahrstelle, Herausgabe und berechtigten Zugriff organisatorisch verbinden."
+      },
+      {
+        "line": "558",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 2: Beteiligte/Kontrolle",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "559",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "position": "Kernabschnitt 3: Herkunfts- und Strukturrecht",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      }
+    ],
+    "seedingSupporting": [
+      "D21"
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Dein Ziel in einen konkreten Strukturauftrag übersetzen",
+    "body": "<p>Wir beginnen mit der Aufgabe, die ein Trust für dich erfüllen soll: etwa Verwaltung für Angehörige, geregelte Ausschüttungen oder Nachfolge. Dazu gehören heutige und absehbare Wohnsitze, Vermögensarten und die Entscheidungen, die du selbst behalten möchtest.</p><p>Aus diesen Angaben entsteht der Fachauftrag. Wir organisieren die zuständigen Berater, vergleichen die angebotene Verwaltung und führen Unterlagen, Entwürfe, Übertragungsschritte und laufende Pflichten zusammen.</p>",
+    "items": [
+      [
+        "Eignung und Wirkung klären",
+        "Die beabsichtigten Rechte und Steuerfolgen vor einer Übertragung verständlich machen."
+      ],
+      [
+        "Ausführung organisieren",
+        "Berater, Trustee und erforderliche Institute mit einem abgestimmten Auftrag verbinden."
+      ],
+      [
+        "Verwaltung übergeben",
+        "Unterlagen, Zuständigkeiten, Ausschüttungswege und wiederkehrende Pflichten dokumentieren."
+      ]
+    ],
+    "costs": "Kalkuliert werden fachliche Gestaltung, Steuerprüfung, Einrichtung, Vermögensübertragung und laufende Trustee-Verwaltung. Zusätzlich können Register-, Bank-, Bewertungs- und Transaktionskosten anfallen. Auch Änderung, Trustee-Wechsel und Beendigung gehören in den Kostenvergleich."
+  },
+  "displayTitle": "Einen Trust gründen: Struktur und Einrichtung organisieren"
+}

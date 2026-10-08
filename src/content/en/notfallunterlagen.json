@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/residence-and-documents/emergency-documents/",
+  "lang": "en",
+  "title": "Emergency documents your family can actually use",
+  "kind": "article",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-b1b4358c41078a"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-84dc1bf419f1cf"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Emergency documents / Guidance and practical setup",
+  "seoTitle": "Family emergency binder and document setup | EXOBASIS",
+  "description": "Build usable emergency documents: identity, medical records, authority, secure storage and a handover your family can follow without your phone.",
+  "intro": "<p>If you were in hospital tomorrow, could your partner find the children's travel permissions, reach your insurer and keep essential bills paid? A family emergency binder should answer those questions in minutes, without depending on you to explain where everything is.</p><p>Start with the actions your household may need to take. Then connect each action to the right document, the person allowed to use it and a way to reach it. EXOBASIS can assemble this preparation with you, organise missing documents and carry out a joint handover.</p>",
+  "primary": {
+    "label": "Ask us to set up your family documents",
+    "intent": "Emergency documents your family can actually use"
+  },
+  "summary": {
+    "kicker": "Emergency documents and practical handover",
+    "title": "Find the record. Know who can act. Take the next step.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "A notebook and pen on a table, illustrating preparation.",
+    "facts": [
+      [
+        "Records",
+        "The right version for the actual task"
+      ],
+      [
+        "Authority",
+        "A named person and an accepted basis to act"
+      ],
+      [
+        "Handover",
+        "A practical check without relying on your phone"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "What belongs in your emergency document folder?",
+      "layout": "prose",
+      "body": "<p>Keep a short index at the front: who the preparation covers, where the current originals are, who to contact and which record supports each urgent task. Separate an easily reached contact sheet from protected personal and financial records.</p><ul><li><strong>Identity and travel:</strong> passports, residence evidence, birth or adoption certificates, relevant marriage or divorce records and the permission needed for children to travel.</li><li><strong>Health:</strong> a current medication list, allergies, treatment summary, prescribing clinician, insurer and the receiving care provider.</li><li><strong>Money and home:</strong> the institutions holding essential accounts, recurring payments, insurance policies, mortgage or tenancy details and the contact responsible for each property.</li><li><strong>Authority and continuity:</strong> the applicable powers, court orders, company signing arrangements and instructions for contacting their custodians.</li></ul><p>Your moving abroad documents checklist should identify what the receiving authority actually accepts: an original, certified copy, translation, legalisation or a record in its own online system. Record the requirement beside the task before commissioning documents. A school admission file and a bank mandate serve different purposes even when both use the same passport.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/en/services/apostilles-translations-documents/\" data-route=\"/en/services/apostilles-translations-documents/\" data-link-description=\"Organise documents, authentication and translations for the receiving authority.\"><span>Arrange apostilles, translations and documents</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "section-2",
+      "title": "Tell each person what to do first",
+      "layout": "prose",
+      "body": "<p>Give your first contact a short sequence they can follow under pressure: locate you or the children, contact the relevant professional, establish who can authorise the next action and keep a record of what has happened. Name a second contact who is unlikely to be affected by the same incident.</p><p>Write the practical detail people forget to explain: which clinician knows the case, which company employee can run payroll, who has the property keys, and how an overseas relative can make contact across time zones. Ask those people to accept their role while there is time to change it.</p><p>A person who receives the first call need not be the person who signs. Keeping those jobs separate lets your family act quickly without assuming powers they do not have.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Documents, legal authority and passwords do different jobs",
+      "layout": "prose",
+      "body": "<p>A copy of your bank statement tells a relative where your money is. It does not authorise them to operate the account. A power of attorney may provide authority, but the bank still needs to recognise the instrument and establish the representative's identity.</p><p>For England and Wales, lasting powers of attorney distinguish property and financial affairs from health and welfare. The latter operates when you cannot make the relevant decision yourself. Arrange the instrument and registration while you can make it, then confirm how the intended institution will accept it. Scotland, Northern Ireland and the UAE have their own legal arrangements; choose the instrument for the person, jurisdiction and task. The starting point for the England/Wales case is the <a href=\"https://www.gov.uk/government/publications/lasting-power-of-attorney-forms/lp12-make-and-register-your-lasting-power-of-attorney-a-guide-web-version\">Office of the Public Guardian's LPA guide</a>.</p><p>For children, keep the actual consent or court order and the permitted journey together. A birth certificate proves a relationship; it does not settle a disputed right to relocate. Our <a href=\"/en/knowledge/family-life-abroad/children-family/\">guide to moving abroad with children</a> explains the separate UK and UAE cases.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/en/knowledge/assets-and-access/powers-representation-succession/\" data-route=\"/en/knowledge/assets-and-access/powers-representation-succession/\"><span>Powers of attorney, representation and succession abroad</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "section-4",
+      "title": "Keep a usable copy away from the same point of failure",
+      "layout": "prose",
+      "body": "<p>Store originals securely and record their location. Use protected digital copies for reference and select a small offline pack for travel: essential contacts, booking and policy references, the medication summary and instructions for reaching the protected records. Give each person access only to the information their role requires.</p><p>If the folder is in cloud storage, ask how it opens when your main phone, SIM and email are all unavailable. A second folder behind the same login will fail in the same way. Keep recovery material separate from the device it recovers and use the storage provider's supported access controls.</p><p>UKVI users should keep their current travel document linked to their account and check the eVisa before travelling. GOV.UK also provides a recovery route for a lost phone or changed email. A downloaded image does not replace those steps: see the <a href=\"https://www.gov.uk/evisa/travel-with-evisa\">official eVisa travel guidance</a>. UAE PASS has a separate device-registration and recovery process.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/en/knowledge/phone-email-access-failure/\" data-route=\"/en/knowledge/phone-email-access-failure/\" data-link-description=\"Prepare for losing access to your phone, SIM or main email.\"><span>When your phone, SIM and main email fail</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/en/services/communications-recovery/\" data-route=\"/en/services/communications-recovery/\" data-link-description=\"Set up appropriate communications and agreed recovery routes.\"><span>Set up private communications and recovery access</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "section-5",
+      "title": "Try the handover before an emergency tests it",
+      "layout": "prose",
+      "body": "<p>Put your usual phone aside and ask the intended person to perform a small, agreed task. Can they find the insurer's details, identify the right document version and explain whom to call next? Can they reach the offline information without asking you for a code from the missing device?</p><p>Choose a rehearsal that leaves live accounts and legal arrangements intact. Finding a mandate and confirming the bank's acceptance process is useful; making an unplanned transfer to prove that somebody can pay is a different action. Record what the exercise actually established, fix the missing step and repeat that part.</p><p>This also tests the writing. If your family cannot understand an instruction without your explanation, rewrite it in their words.</p><p>Date the test record and name the person who carried it out. Keep the task, result, unresolved step and next review date together, without copying passwords or recovery codes into the record.</p>",
+      "illustration": {
+        "title": "Rehearse finding an essential record",
+        "note": "A suggested exercise for your household.",
+        "steps": [
+          [
+            "Choose",
+            "Pick one urgent task and the person who would handle it."
+          ],
+          [
+            "Find",
+            "Locate the current record without the usual phone."
+          ],
+          [
+            "Explain",
+            "Identify the authorised person and the next contact."
+          ],
+          [
+            "Improve",
+            "Correct any missing instruction and try that step again."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-6",
+      "title": "Commission the setup and handover",
+      "layout": "prose",
+      "body": "<p>EXOBASIS can identify the records your household needs, organise the existing material, build the contact and responsibility structure, prepare readable instructions and run the agreed usability check with the people involved. You receive an organised document set, a concise action index and a clear handover.</p><p>Where records are missing, we organise the specified procurement, translation or authentication. Where a legal instrument or specialist technical setup is needed, we arrange the relevant professional work and connect it to the same preparation. You can commission this document setup directly.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/en/services/residence-documents/\" data-route=\"/en/services/residence-documents/\" data-link-description=\"Organise the documents and preparatory work your intended residence requires.\"><span>Arrange residence and document preparation</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>",
+      "roles": [
+        [
+          "Organised records",
+          "Documents grouped around the actions your household needs."
+        ],
+        [
+          "Clear responsibility",
+          "Contacts, permitted actions and required evidence connected."
+        ],
+        [
+          "Usable handover",
+          "An agreed exercise with the people who will rely on it."
+        ]
+      ],
+      "after": "<p>Your offer separates our setup work from document fees, translation, legal work, equipment and continuing maintenance. The scope and costs are agreed before work begins.</p>",
+      "callToAction": true,
+      "actionNote": "Scope and price are agreed before commissioning."
+    },
+    {
+      "id": "section-7",
+      "title": "Keep the folder current when life changes",
+      "layout": "prose",
+      "body": "<p>Review it after a move, a new passport, a change of bank or phone, a new medication, a changed family relationship or a replacement representative. Remove obsolete working copies so the next person does not follow an expired instruction.</p><p>Put a review date and an owner beside each time-sensitive item. A document set for an overseas base needs attention even while the property is empty and you are living elsewhere. Continuing checks can be included in <a href=\"/en/services/maintain-preparations/\">ongoing maintenance of your preparations</a>.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/en/services/maintain-preparations/\" data-route=\"/en/services/maintain-preparations/\" data-link-description=\"Keep agreed documents, contacts and arrangements under regular review.\"><span>Review and maintain your preparations</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    }
+  ],
+  "working": {
+    "title": "One coordinated setup",
+    "body": "<p>We organise the records, responsibilities and handover around your household. You retain control of access; personal material is shared through the agreed protected route.</p>"
+  },
+  "nextWork": {
+    "title": "Close the gaps the setup reveals",
+    "body": "<p>Missing certificates, residence documents, legal powers and independent recovery can be commissioned as the specific work needed to complete your preparation.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "Make your emergency documents usable",
+    "body": "Tell us who needs to be covered and what your family would need to do if you were unavailable. Keep passports, account details and recovery codes out of the initial enquiry."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [
+      "EN09",
+      "EN12",
+      "EN13"
+    ],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "509",
+        "position": "#section-1",
+        "target": "/en/services/apostilles-translations-documents/",
+        "label": "Arrange apostilles, translations and documents",
+        "purpose": ""
+      },
+      {
+        "line": "510",
+        "position": "#section-3",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "purpose": ""
+      },
+      {
+        "line": "511",
+        "position": "#section-4",
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "label": "When your phone, SIM and main email fail",
+        "purpose": ""
+      },
+      {
+        "line": "512",
+        "position": "#section-6",
+        "target": "/en/services/residence-documents/",
+        "label": "Arrange residence and document preparation",
+        "purpose": ""
+      },
+      {
+        "line": "513",
+        "position": "#section-4",
+        "target": "/en/services/communications-recovery/",
+        "label": "Set up private communications and recovery access",
+        "purpose": ""
+      },
+      {
+        "line": "514",
+        "position": "#section-7",
+        "target": "/en/services/maintain-preparations/",
+        "label": "Review and maintain your preparations",
+        "purpose": ""
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "displayTitle": "A family emergency binder that works when you need it"
+}

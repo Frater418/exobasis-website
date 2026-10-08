@@ -1,0 +1,198 @@
+{
+  "route": "/en/countries/new-zealand/",
+  "lang": "en",
+  "title": "New Zealand as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/neuseeland/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-4d3829ade4760c"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-e51964f15fa97f"
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Moving to New Zealand: residence, housing and family setup | EXOBASIS",
+  "description": "Assess New Zealand residence routes, visitor work rules, foreign-buyer consent, schools, healthcare and banking. Commission a move your family can use.",
+  "intro": "<p>New Zealand may be where you want your family to build a different future, well beyond the pressures you are preparing to leave. Make that decision around the rights and resources you actually have. We connect the residence route, chosen location and practical setup so the distance becomes part of a workable move.</p>",
+  "primary": {
+    "label": "Ask us to prepare your New Zealand option",
+    "intent": "General enquiry"
+  },
+  "countryContext": "/en/countries/new-zealand/",
+  "country": {
+    "name": "New Zealand",
+    "slug": "neuseeland",
+    "region": "Pacific",
+    "map": "countries/neuseeland-locator.svg",
+    "imageAlt": "Map showing the location of New Zealand.",
+    "caption": "New Zealand in its geographical region.",
+    "summary": [
+      [
+        "Access before commitment",
+        "Match visitor, skilled or investor routes to the household."
+      ],
+      [
+        "A home you can use",
+        "Check buying rights, consent and occupancy conditions before the offer."
+      ],
+      [
+        "A complete family move",
+        "Coordinate school, medical care, money and arrival."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "Distance is useful when your family can live there",
+      "body": "<p>If war, coercion or the direction of your home country has made you want a different future, New Zealand's distance can be attractive. It also makes a poorly prepared move expensive to reverse. The strongest case is a household with a viable residence route, sufficient available capital and a clear reason for choosing a particular place.</p><p>Separate a visit to explore the country, a temporary overseas-working stay and emigrating to New Zealand. They have different permissions, housing options and tax consequences. A remote-worker visit can help you assess daily life; it is not a residence application, and it does not normally make you eligible to buy a house.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "A distant refuge needs an early departure plan",
+      "body": "<p>New Zealand cannot be your last-minute answer if your family lacks entry permission or the flights and transit arrangements stop working. Prepare the documents and initial accommodation while you have time, and agree when you would act rather than waiting for a general evacuation announcement.</p><p>Keep a delayed-departure plan as well as a destination plan. If one household member is travelling separately, check their passport, transit rights, access to money and the authority to accompany a child. Plan how relatives will communicate if the person who normally arranges everything cannot do so.</p><p>New Zealand's food production gives you a substantive reason to investigate it as a contingency base. In Boyd and Wilson's nuclear-winter analysis, its estimated production remains above the study's threshold of 2,200 kilocalories per person per day even in the severe 150-Tg scenario. That is a model using historical production data, not a count of food stored today. Large exports, particularly dairy products, create scope to redirect production to the domestic population.</p><p>Production alone does not put food on your table. The New Zealand case study identifies imported fuel, agricultural inputs and replacement parts, transport from farms and between the main islands, processing and refrigeration as dependencies. Estimates extrapolated from selected crops and marine fish remain uncertain. Assess where food and medical supplies would reach your intended home, alongside the flights, transit permission and residence rights your family needs before disruption closes the route.</p><p class=\"exb-source-note\">Source: <a href=\"https://onlinelibrary.wiley.com/doi/10.1111/risa.14072\" rel=\"noreferrer\">Boyd and Wilson: food-production potential and New Zealand's supply dependencies</a>, first published 4 December 2022, journal year 2023.</p><p>Within New Zealand, earthquakes, severe weather and tsunami exposure are practical property and location questions. Know the local evacuation area, how your home can function during a utility interruption and who can check it in your absence. Distance from a foreign conflict does not remove those local dependencies.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.gov.uk/foreign-travel-advice/new-zealand/safety-and-security\" rel=\"noreferrer\">UK travel advice: New Zealand natural hazards</a>.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">Compare reachable, legally usable refuges</a> before making distance your deciding factor. We can <a class=\"exb-text-link\" href=\"/en/services/departure-contingency-plan/\">prepare your departure and contingency plan</a> around the long journey, each traveller's rights and the first days in New Zealand.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Moving to New Zealand permanently",
+      "body": "<p>Start with any citizenship, residence rights or qualifying family connection already held. For a new skilled-migration case, Immigration New Zealand's Skilled Migrant Category requires a qualifying skilled job or job offer with an accredited employer, age 55 or under and the applicable pathway requirements. Language, health and character conditions also matter. An overseas income alone is a different proposition.</p><p>For a capital-based route, Active Investor Plus currently requires at least NZD 5 million in acceptable investments under Growth or NZD 10 million under Balanced. The investment periods are three and five years respectively, with additional conditions including presence in New Zealand. Lawful source of funds and the permitted investment category are central. Keep the family home and living reserve separate from the qualifying investment commitment.</p><p>For a family, compare that legal and financial commitment with the life you are choosing: employment, school, medical support, distance from relatives and the cost of maintaining overseas obligations. EXOBASIS organises the practical preparation around the route that fits, including the appropriate immigration and tax specialists.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.immigration.govt.nz/visas/skilled-migrant-category-resident-visa/\" rel=\"noreferrer\">Immigration New Zealand: Skilled Migrant Category</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.immigration.govt.nz/visas/active-investor-plus-visa/\" rel=\"noreferrer\">Immigration New Zealand: Active Investor Plus</a>.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Visiting, remote work and repeated stays",
+      "body": "<p>Eligible British passport holders with the right to reside permanently in the UK can normally visit under the visa-waiver rules for up to six months. UAE citizens normally have a three-month visa-waiver stay. An NZeTA is required before travel for those using that route; onward travel, funds and admission requirements still apply. UAE residence on another passport does not create UAE citizenship.</p><p>Visitor visas applied for from 27 January 2025 permit remote work for overseas employers or clients. The permission does not cover work for a New Zealand employer, providing goods or services to people or businesses in New Zealand, or work that requires your physical presence there. For local work, use the appropriate work route.</p><p>A repeated-stay plan also needs accommodation and insurance that cover the actual stay, a record of days and an explanation of how income continues. Resolve the tax treatment separately from the immigration permission before extending a working visit.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/\" rel=\"noreferrer\">Immigration New Zealand: visa-waiver nationalities and conditions</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.immigration.govt.nz/visit/checking-or-changing-the-conditions-of-your-visitor-visa-or-nzeta/working-remotely-in-new-zealand-on-a-visitor-visa/\" rel=\"noreferrer\">Immigration New Zealand: remote work on a visitor visa</a>.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Put your actual status at the start of the plan",
+      "body": "<p>If you hold a New Zealand resident visa, check the travel conditions as well as the right to remain in the country. The ability to return after a period abroad is part of what makes a second base useful. Australian citizens and permanent residents have particular immigration arrangements; do not apply those arrangements to a British or other passport simply because the family lives in the region.</p><p>Tell us the rights you already hold, the application you are considering and who must be included. We can then organise the preparation around a defined route rather than starting with a house that your current status will not let you buy.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fnew-zealand%2F#short-enquiry\">Ask us to prepare your New Zealand option</a><p>You can ask us to handle a defined task directly. Personal documents belong in the protected exchange agreed for the work.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Choose a place, then establish whether you can buy",
+      "body": "<h3>Three starting points for a location comparison</h3><p>Auckland is a starting point when metropolitan services and international travel are central. Wellington creates a different comparison around a compact capital-city setting, hillside access and earthquake exposure. Christchurch can be a South Island starting point, with particular attention to the property's earthquake history, land information and insurance. In each location, test the journey to the intended school and clinician rather than treating the city name as the answer.</p><h3>Rent before making a permanent commitment</h3><p>Use temporary accommodation for the first appointments and viewings, then a written residential tenancy for the intended household. Distinguish fixed-term and periodic terms and agree the condition report, included items, maintenance and end-of-tenancy obligations. A general bond can be up to four weeks' rent. Rent in advance is limited to two weeks; it is a separate payment from the bond. Budget and document them separately.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.tenancy.govt.nz/rent-bond-and-bills/bond/charging-a-bond/charging-a-general-bond/\" rel=\"noreferrer\">Tenancy Services: general bond limit</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.tenancy.govt.nz/rent-bond-and-bills/rent/charging-rent/\" rel=\"noreferrer\">Tenancy Services: rent in advance</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.tenancy.govt.nz/starting-a-tenancy/tenancy-agreements/\" rel=\"noreferrer\">Tenancy Services: tenancy agreements</a>.</p><h3>Foreign buyers: status and consent come first</h3><p>Most overseas people on temporary work, student or visitor visas cannot buy a residential home. A New Zealand residence-class visa can open a route to consent for one home to live in before you are ordinarily resident. Buying without consent normally requires the relevant status and ordinary-residence conditions: at least the last 12 months living in New Zealand and more than 183 days' presence in that period for the relevant tax-residence test. Australian and Singaporean citizens or permanent residents have distinct rules.</p><p>Ordinary-residence consent is designed around actually living in New Zealand. A pre-approved consent can impose more than 183 days' presence in each relevant year, so it may not fit a house you intend to keep mainly as an occasional refuge. If consent is needed, obtain pre-approval before bidding at auction, or make a negotiated agreement conditional on the required consent.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.linz.govt.nz/guidance/overseas-investment/buying-residential-property-live\" rel=\"noreferrer\">LINZ: buying residential property to live in</a>.</p><p>There is a separate pathway for qualifying Active Investor Plus, Investor 1 and Investor 2 visa holders to buy or build a home costing more than NZD 5 million. It requires consent and a national-interest assessment. Residential land that is sensitive for another reason is excluded from that pathway. This is not a general exception for anyone with a large house budget, and it does not replace the visa's investment requirements.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.linz.govt.nz/guidance/overseas-investment/ways-invest/pathways-migrants-and-visa-holders/investing-residential-land-over-5-million\" rel=\"noreferrer\">LINZ: the over-NZD-5-million investor home pathway</a>.</p><h3>Check the property before the unconditional commitment</h3><p>Have an independent lawyer or conveyancer review the record of title, easements and covenants, consent requirements and sale agreement. Obtain the council's Land Information Memorandum, a suitable building inspection and confirmation of insurability. For an apartment, include body-corporate records and levies. Check earthquake-related repairs or claims where relevant and distinguish a completed repair from an insurer's willingness to cover the property now.</p><p>Alongside the price, allow for any overseas-investment application fee, legal work, LIM, inspections, financing, insurance, council rates and body-corporate charges. EXOBASIS can coordinate the search, viewings, independent checks, contract and settlement, handover and utilities through the <a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">arrival and property-purchase preparation service</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.settled.govt.nz/buying-a-home/researching-the-property/doing-your-homework/\" rel=\"noreferrer\">Settled, the Real Estate Authority: property due diligence</a>.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "School and healthcare follow the family’s actual status",
+      "body": "<h3>School permission and school fees are different questions</h3><p>A visitor can generally study for up to three months under the visitor conditions; international tuition fees usually apply. For longer study, the child needs the appropriate student or residence status. Some dependent children of qualifying work-visa holders can obtain dependent-child student visas and be treated as domestic students, but the parent's visa, work and support conditions matter.</p><p>Confirm the child's classification and place with the intended school before committing to a school-year lease. Give each child their own travel and document file, including consent or court requirements where one parent is travelling or the move changes established care arrangements. <a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare the children’s school and family transition</a> alongside the immigration work.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-waiver-countries-and-territories/\" rel=\"noreferrer\">Immigration New Zealand: study during a visit</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.immigration.govt.nz/process-to-apply/once-you-have-a-visa/bringing-family-to-new-zealand/bringing-children/\" rel=\"noreferrer\">Immigration New Zealand: bringing children</a>.</p><h3>Public eligibility still leaves practical care to arrange</h3><p>Residence-class visa holders qualify for publicly funded healthcare under the eligibility rules. Certain work-visa holders also qualify when their permitted stay meets the two-year requirement, including the defined treatment of earlier lawful time in New Zealand. A short visitor stay does not give the same entitlement.</p><p>The UK reciprocal arrangement applies to qualifying UK citizens who normally live in the UK and are visiting temporarily. It covers immediately necessary treatment within its scope, not a complete private insurance or repatriation package. A British passport holder living in the UAE should not assume the usual-residence condition is met.</p><p>Arrange cover for the actual status and journey, then confirm the GP or specialist handover, medicine supply and recurring care. <a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Connect health cover with available treatment and care</a> before selecting a remote location.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.healthnz.govt.nz/hospitals-services/eligibility-subsidies/publicly-funded-healthcare\" rel=\"noreferrer\">Health New Zealand: eligibility for publicly funded healthcare</a>.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Banking, overseas income and tax residence",
+      "body": "<p>Bank onboarding follows identity and status. Kiwibank's in-branch guidance, for example, lists accepted resident, work, student and guardian-of-student visas for non-New Zealand passports. It also requires overseas tax-residence information and applicable tax identification numbers; address evidence may be requested. An ordinary visitor should not assume that the same account route is available.</p><p>Confirm the eligible product and activation steps with the bank before sending essential funds. Prepare the source-of-funds file, particularly for an investment or house purchase. Test the transfer, card, local payments and approved recovery route. Keep money for initial accommodation and treatment accessible without relying on a pending account or one mobile device.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.kiwibank.co.nz/join-kiwibank/verifying-your-identity/branch/\" rel=\"noreferrer\">Kiwibank: in-branch identity, visa and tax information</a>.</p><p>Before leaving Britain, establish whether each existing bank product supports your genuine new address. Before leaving the UAE, settle the bank-specific sequence for liabilities, employment and residence updates so your arrival funds are genuinely transferable. A replacement account is not a way around a legal restriction on existing funds.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\">Understand banking and payment continuity</a> explains how to separate a closed account, a blocked payment and unavailable funds. <a class=\"exb-text-link\" href=\"/en/services/banking-liquidity/\">Ask EXOBASIS to prepare your banking and liquidity</a> connects the account requirements, evidence and payment sequence to your household.</p><h3>Permission to work remotely is not the tax test</h3><p>Inland Revenue normally treats more than 183 days in a 12-month period, or a permanent place of abode in New Zealand, as triggers for tax residence. Its current guidance also defines a non-resident visitor category for up to 275 days in an 18-month period, with strict conditions: overseas rather than New Zealand work and customers, no requirement to be physically present for that work, lawful stay, no prior New Zealand tax or transitional residence, no Working for Families received by you or your partner, and a requirement to pay tax in another country where you are resident.</p><p>That last condition matters for households coming from the UAE. Do not substitute an overseas residence card for evidence that the tax conditions are met. Have Inland Revenue's rules applied to the actual income and working arrangement. Eligible new or returning residents can receive a temporary exemption for many types of overseas income, but employment and service income are excluded. A working company owner needs that distinction before moving, not after the first return is due.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.ird.govt.nz/tax-residency\" rel=\"noreferrer\">Inland Revenue: individual tax residence and non-resident visitors</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.ird.govt.nz/roles/nz-tax-residents/exemption\" rel=\"noreferrer\">Inland Revenue: temporary exemption for foreign income</a>.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Prepare residence, investment and arrival documents together",
+      "body": "<p>Use the chosen visa's checklist to order identity, family, character, medical and qualification evidence. For an investment route, make the lawful source and transfer history traceable from the original earning or acquisition through to the New Zealand investment. For a skilled route, align the job and qualification evidence with the application.</p><p>Then prepare the records the bank, school, insurer and property professionals will actually accept. Keep essential originals and secure copies available without relying on one phone. If another person must authorise a payment or complete a practical task while you are abroad, establish the receiving institution's requirements for that authority.</p><p><a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Commission residence and document preparation</a> to coordinate records, translations, professional appointments and the order of submissions.</p><p>Use the <a class=\"exb-text-link\" href=\"/en/knowledge/phone-email-access-failure/\">phone and email access-failure guide</a> to identify where travel records, money and recovery all depend on the same device. <a class=\"exb-text-link\" href=\"/en/services/communications-recovery/\">Commission the setup and testing of recovery access</a> before those dependencies follow you to New Zealand.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep the base and return rights working",
+      "body": "<p>Record visa travel conditions, any investment or property-consent obligations, insurance and bank updates in one review calendar. For an occasionally occupied home, agree inspections, utility payments, emergency repairs and checks after a major weather or seismic event. Arrange for the home to be ready before your family arrives, including bedding, essential supplies and heating where needed.</p><p>Test the plan after a changed passport, phone, family situation or business role. Ask whether another authorised person can access the required documents, contact the property representative and arrange a payment while you are unavailable. <a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Have the preparations maintained between stays</a> rather than leaving the original setup to age unnoticed.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Commission the New Zealand work you actually need",
+      "body": "<p>You can start with a defined assignment: a location comparison, immigration-document coordination, a reconnaissance visit, a rental search, an eligible property purchase or the family's arrival setup. EXOBASIS carries out the agreed practical work and organises the independent specialist work needed for it.</p><p>For a wider move, we connect those tasks so the property, bank, school and care arrangements follow the same residence plan. Scope, responsibilities, professional and third-party costs are agreed before execution. <a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Request a country and location assessment</a> if the destination is still open, or use the free 20-minute orientation when you need help choosing the first task.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fnew-zealand%2F#short-enquiry\">Ask us to prepare your New Zealand option</a><p>You can ask us to handle a defined task directly. Personal documents belong in the protected exchange agreed for the work.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div><div class=\"exb-country-comparisons\"><h3>Compare the alternatives already on your shortlist</h3><article><p><a class=\"exb-text-link\" href=\"/en/countries/australia/\">Australia: compare the route and the family’s daily life</a></p><p>Assess each country's immigration route, permission to buy, climate, distance to care and links to relatives. Australian residence and New Zealand residence are not interchangeable permissions for every household.</p><p>Separate the food question from conflict exposure. <a href=\"https://onlinelibrary.wiley.com/doi/10.1111/risa.14072\" rel=\"noreferrer\">Boyd and Wilson's study</a> estimates a larger food-production surplus for Australia than for New Zealand, while examining Australia's AUKUS alliance and US-aligned facilities such as Pine Gap as potential exposure in its nuclear-war scenario. This is a scenario distinction, not a forecast of danger to your family. Both countries still depend on functioning supply chains to turn food production into reliable provision. Your usable immigration route is a third, separate test: neither a food surplus nor a distant location admits your household.</p></article><article><p><a class=\"exb-text-link\" href=\"/en/countries/uruguay/\">Uruguay: compare a South American base</a></p><p>Compare the residence process, Spanish-language daily life and access from your present home with New Zealand's long-distance move and capital requirements. The right answer follows your family, not a universal country ranking.</p><p>Uruguay's <a href=\"https://www.gub.uy/tramites/residencia-legal-permanente\" rel=\"noreferrer\">general Permanente route</a> gives that comparison a practical starting point. It calls for identity, criminal-record, health and vaccination evidence, alongside proof of support. If you receive overseas income as a rentier, retiree or pensioner, the notarial certificate must confirm that status, the type of income, its nominal monthly amount and how you receive it in Uruguay. An online document review leads to an in-person appointment with originals; applicants who do not speak Spanish must bring an interpreter. Separate categories apply to Mercosur nationals and certain relatives of Uruguayans.</p><p>Set this evidence-led permanent-residence process against the capital commitments of the New Zealand routes described here. Then make the arrival usable: arrange the initial accommodation, establish what <a href=\"https://www.liveinuruguay.uy/housing\" rel=\"noreferrer\">rental security the landlord accepts</a> for a longer-term home, and organise the journey through to collecting the keys. The income you can actually receive in Uruguay must cover rent and family life. A residence application or a property listing is only part of that preparation.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Can I work remotely in New Zealand and buy a home while visiting?",
+    "answer": "Eligible visitor conditions permit remote work for overseas employers or clients, but a visitor visa does not normally make you eligible to buy residential property. Buying rights, investor exceptions and tax residence use separate tests. Resolve each before committing to a home."
+  },
+  "editorialSources": [
+    "island",
+    "nz"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 1058,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1060,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1061,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1062,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1063,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1064,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1065,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1066,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1067,
+      "target": "/de/laender/neuseeland/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1465,
+      "target": "/en/countries/australia/",
+      "label": "Australia as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1467,
+      "target": "/en/countries/uruguay/",
+      "label": "Uruguay as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Moving to New Zealand: prepare your family’s next home"
+}

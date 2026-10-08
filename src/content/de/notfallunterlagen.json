@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+  "lang": "de",
+  "title": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+  "kind": "article",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-b1b4358c41078a"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-84dc1bf419f1cf"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-327568101d023a"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "EXOBASIS Wissen",
+  "seoTitle": "Notfallordner für Familien erstellen | EXOBASIS",
+  "description": "So wird aus Dokumenten eine nutzbare Notfallmappe: Unterlagen, Vollmachten, digitale Ersatzwege und eine gemeinsame Probe für Familie und Unternehmen.",
+  "intro": "<p>Wenn du plötzlich ausfällst oder ihr wegen Krieg oder einer anderen ernsten Lage kurzfristig gehen müsst, sollte deine Familie nicht erst nach Pässen, Vollmachten und Kontakten suchen. Ein guter Notfallordner erklärt, was jetzt zu tun ist, wer handeln darf und wo die richtigen Unterlagen liegen.</p><p>Der entscheidende Unterschied liegt in der Benutzung: Eine Angehörige muss den nächsten Schritt auch ohne deine Erklärung finden. Dafür braucht sie eine übersichtliche Mappe, passende Befugnisse und einen Zugang, der nicht am selben Telefon hängt wie alles andere.</p>",
+  "primary": {
+    "label": "Notfallordner einrichten lassen",
+    "intent": "Notfallunterlagen, die Angehörige tatsächlich nutzen können"
+  },
+  "summary": {
+    "kicker": "Deine Vorbereitung als konkreter Auftrag",
+    "title": "Eine Mappe, mit der deine Familie weiterkommt",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift auf einem Tisch als Sinnbild für Vorbereitung.",
+    "facts": [
+      [
+        "Orientierung",
+        "Die ersten Aufgaben und Ansprechpartner auf einen Blick"
+      ],
+      [
+        "Befugnis",
+        "Für jede Handlung die passende Vertretung"
+      ],
+      [
+        "Verfügbarkeit",
+        "Papier, geschützte Kopien und ein unabhängiger Ersatzweg"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Was gehört in einen Notfallordner für Familien?",
+      "layout": "prose",
+      "body": "<p>Beginne mit einer kurzen Startseite: Wer soll zuerst angerufen werden? Welche Versorgung darf nicht unterbrochen werden? Wo liegen die Originale? Wer hat Zugang zur Wohnung und wer übernimmt die Kinder? Dahinter folgen die Unterlagen nach Aufgaben, nicht nach dem Datum ihres Eingangs.</p><table><caption>Aufbau einer nutzbaren Notfallmappe</caption><thead><tr><th scope=\"col\">Bereich</th><th scope=\"col\">Unterlagen und Angaben</th><th scope=\"col\">Wofür sie gebraucht werden</th></tr></thead><tbody><tr><th scope=\"row\">Identität und Reise</th><td>Pässe, Personenstandsurkunden, Aufenthaltsnachweise, Angaben zu Gültigkeit und Originalablage</td><td>Familienzugehörigkeit belegen, reisen, Aufenthalt nachweisen</td></tr><tr><th scope=\"row\">Gesundheit und Pflege</th><td>Aktueller Medikationsplan, Allergien, behandelnde Stellen, Versicherungsdaten, notwendige Hilfsmittel</td><td>Versorgung übergeben, auch wenn du selbst nichts erklären kannst</td></tr><tr><th scope=\"row\">Geld und Wohnen</th><td>Kontenübersicht, laufende Zahlungen, Bankkontakte, Miet- oder Eigentumsunterlagen</td><td>Fälligkeiten erkennen und die dafür befugte Person einschalten</td></tr><tr><th scope=\"row\">Vertretung</th><td>Vollmachten, Verfügungen, gerichtliche Entscheidungen und Ansprechpartner</td><td>Die jeweils erlaubte Handlung nachweisen</td></tr><tr><th scope=\"row\">Alltag und Betrieb</th><td>Schule, Betreuung, Tiere, Schlüssel, betriebliche Zuständigkeiten</td><td>Die nächsten Tage tatsächlich organisieren</td></tr></tbody></table><p>Schreibe zu jedem wichtigen Dokument, ob die empfangende Stelle ein Original, eine beglaubigte Fassung oder eine Übersetzung benötigt. Der Scan hilft beim Finden und Vorbereiten; die verlangte Urkunde muss trotzdem rechtzeitig erreichbar sein.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/apostillen-uebersetzungen-urkunden/\" data-route=\"/de/leistungen/apostillen-uebersetzungen-urkunden/\" data-link-description=\"Urkunden, Beglaubigungen und Übersetzungen für ihren vorgesehenen Einsatz organisieren.\"><span>Apostillen, Übersetzungen und Urkunden organisieren</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Wer übernimmt welche Aufgabe?",
+      "layout": "prose",
+      "body": "<p>Eine lange Kontaktliste entlastet deine Familie erst, wenn die Zuständigkeiten feststehen. „Anna anrufen“ ist weniger hilfreich als „Anna holt die Kinder ab; die Schule hat ihre Abholberechtigung. Falls Anna nicht erreichbar ist, übernimmt Markus.“ Stimme solche Aufgaben vorher mit den Beteiligten ab.</p><p>Trenne Auskunft, Entscheidung und Ausführung. Dein Steuerberater kennt die betrieblichen Termine, kann aber nicht deshalb über das Firmenkonto verfügen. Eine Nachbarin kann einen Schlüssel verwahren, erhält dadurch jedoch keine Vertretungsbefugnis. Benenne für zeitkritische Aufgaben außerdem eine zweite erreichbare Person.</p><p>In eine Notfallmappe für Unternehmer gehören die nächsten unverzichtbaren Abläufe: Löhne, Lieferanten, Kundentermine, Fristen, Unterschriften und Administratorzugänge. Halte fest, wer fachlich zuständig und wer tatsächlich zeichnungs- oder verfügungsberechtigt ist. Der Unternehmer-Notfallkoffer muss den Betrieb ohne Zurufe des Inhabers durch den ersten Arbeitstag führen.</p>"
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Eine Vollmacht und ein Passwort erfüllen verschiedene Aufgaben",
+      "layout": "prose",
+      "body": "<p>Eine Vollmacht beantwortet, wer für dich handeln darf. Ein Login beantwortet, wie jemand ein System erreicht. Für eine wirksame Vertretung müssen Aufgabe, Vollmachtsumfang, mögliche Auslösebedingungen und das Verfahren der empfangenden Stelle zusammenpassen.</p><p>Für Familien mit Beziehungen zu Deutschland, Österreich oder der Schweiz ist der Staat wichtig, in dem die Vollmacht eingesetzt werden soll. Bezeichnung, Form, Registrierung und Wirksamwerden unterscheiden sich. Der <a href=\"https://assets.hcch.net/docs/86be0b1d-b995-4fed-b8eb-e9190e099127.pdf\">HCCH-Leitfaden zu grenzüberschreitenden Vertretungsbefugnissen</a> behandelt diese Punkte ausdrücklich getrennt. Lass das benötigte Instrument mit der zuständigen Fachperson erstellen und seine Verwendung bei der betroffenen Bank oder Stelle vorab klären.</p><p>Bewahre Geheimnisse getrennt von der allgemeinen Übersicht auf. Eine Familienkontaktliste braucht keine Bank-PIN. Der Ordner kann erklären, wo ein zulässiger Notfallzugang eingerichtet ist und wer ihn nutzen darf, ohne allen Lesern dieselben Zugriffsrechte zu geben.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Papier und digitale Notfallmappe sinnvoll verbinden",
+      "layout": "prose",
+      "body": "<p>Eine schlanke Papierfassung ist ohne Strom und Anmeldung lesbar. Sie enthält die erste Orientierung, wichtige Rufnummern, medizinische Kernangaben und Hinweise auf Originale. Bewahre sie geschützt auf und sage den vorgesehenen Personen, wo sie liegt.</p><p>Die digitale Notfallmappe kann aktuelle Kopien, umfangreiche Verträge und übersetzte Unterlagen enthalten. Entscheidend ist ihr Wiederzugang: Wenn die Cloud eine SMS auf das verlorene Telefon verlangt und die Wiederherstellungs-E-Mail ebenfalls nur dort erreichbar ist, sind zwei vermeintliche Sicherungen derselbe Ausfallpunkt.</p><p>Richte deshalb einen vom Hauptgerät unabhängigen, vom Anbieter vorgesehenen Weg ein. Das kann ein separat verwahrter Wiederherstellungscode, ein zusätzlicher zulässiger Faktor oder ein eingerichteter Notfallzugriff sein. Die technische Lösung wird nach den tatsächlich genutzten Diensten gewählt. Eine zweite Kopie auf demselben Gerät erfüllt diese Aufgabe nicht.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/wiederzugang-telefon-email/\" data-route=\"/de/wissen/wiederzugang-telefon-email/\" data-link-description=\"Zugang und Kommunikation beim Ausfall von Telefon, SIM oder E-Mail vorbereiten.\"><span>Wenn Telefon, SIM und Haupt-E-Mail ausfallen</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/leistungen/kommunikation-wiederzugang/\" data-route=\"/de/leistungen/kommunikation-wiederzugang/\" data-link-description=\"Geschützte Kommunikation und geregelte Wiederzugangswege einrichten.\"><span>Diskrete Kommunikation und Wiederzugang einrichten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Die wichtigste Probe: Du erklärst nichts",
+      "layout": "prose",
+      "body": "<p>Setzt euch zu einer überschaubaren Übung zusammen. Du beschreibst eine Situation, zum Beispiel: „Ich bin nicht erreichbar; morgen ist eine wichtige Zahlung fällig und unser Kind braucht seine Unterlagen.“ Die zuständige Person arbeitet mit der Mappe, während du zunächst nur beobachtest.</p><p>Findet sie den richtigen Kontakt? Erkennt sie, welches Dokument benötigt wird? Weiß sie, was sie selbst veranlassen darf? Notiert den ersten Punkt, an dem sie raten muss. Genau dort braucht die Mappe eine bessere Erklärung, eine fehlende Unterlage oder eine vorher eingerichtete Befugnis.</p><p>Lasst das Haupttelefon dabei ausgeschaltet neben euch liegen. Eine solche Übung zeigt Abhängigkeiten, ohne einen echten Kontoverlust zu erzeugen. Echte Zahlungen, Anträge oder Sperren gehören nur in einen gesondert abgestimmten Test mit klaren Folgen.</p>",
+      "illustration": {
+        "title": "Eine einfache Nutzungsprobe",
+        "note": "Beispiel für eine gemeinsame Übung.",
+        "steps": [
+          [
+            "Situation lesen",
+            "Ein konkreter Ausfall und die nächste notwendige Aufgabe."
+          ],
+          [
+            "Unterlagen finden",
+            "Die zuständige Person öffnet den vorgesehenen Ablageweg."
+          ],
+          [
+            "Handlung erklären",
+            "Sie benennt Kontakt, Befugnis und den nächsten Schritt."
+          ],
+          [
+            "Lücke schließen",
+            "Unklares ergänzen und genau diesen Schritt wiederholen."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Den Notfallordner erstellen lassen",
+      "layout": "prose",
+      "body": "<p>EXOBASIS richtet deine Notfallunterlagen mit dir ein: Wir erfassen die Personen und Nutzungssituationen, ordnen die vorhandenen Dokumente, beschaffen beauftragte fehlende Unterlagen und verbinden sie mit verständlichen Abläufen. Erforderliche Vollmachten, Beglaubigungen und Übersetzungen organisieren wir mit den zuständigen Fachstellen.</p><p>Anschließend führen wir die vereinbarte Nutzungsprobe mit den Beteiligten durch. Bei der Übergabe erhältst du die geordnete Mappe, erklärte Ablagewege, Verantwortlichkeiten und konkrete Hinweise, wann eine Aktualisierung nötig wird. Du kannst die Einrichtung direkt anfragen, wenn der Bedarf bereits feststeht.</p><p>Wenn für die Verwendung am neuen Wohnort bestimmte Nachweise fehlen, kannst du <a href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a> lassen. Wir verbinden die Beschaffung mit dem konkreten Zielverfahren und führen die fertigen Unterlagen in deine Mappe zurück.</p>",
+      "roles": [
+        [
+          "Bestand ordnen",
+          "Aus vorhandenen Unterlagen eine verständliche Struktur machen."
+        ],
+        [
+          "Fehlendes organisieren",
+          "Beschaffung und erforderliche Fachausführung zusammenführen."
+        ],
+        [
+          "Gemeinsam benutzen",
+          "Mit den vorgesehenen Personen die vereinbarten Handgriffe prüfen."
+        ]
+      ],
+      "after": "<p>Das Angebot trennt Einrichtungsarbeit, Beschaffung, Fachhonorare und eine gewünschte laufende Pflege. So weißt du vor dem Auftrag, welche Arbeit übernommen wird.</p>",
+      "callToAction": true,
+      "actionNote": "Beschreibe die Personen und Aufgaben, für die deine Mappe funktionieren soll."
+    },
+    {
+      "id": "abschnitt-7",
+      "title": "Wann muss die Mappe aktualisiert werden?",
+      "layout": "prose",
+      "body": "<p>Nach einem Passwechsel, Umzug, Bankwechsel, einer neuen Behandlung oder einer geänderten Familienrolle gehört die betroffene Stelle sofort angepasst. Dasselbe gilt für neue Rufnummern, Geräte und Vertreter. Ein Datum auf der Startseite zeigt, wann der Bestand zuletzt gemeinsam durchgesehen wurde.</p><p>Lege einen festen Prüftermin fest und entferne überholte Fassungen aus der aktiven Mappe. Die verantwortliche Person kontrolliert Gültigkeiten, Kontakte und Ersatzwege. Auf Wunsch übernimmt EXOBASIS die vereinbarte Pflege und organisiert die erneute Probe, wenn sich wesentliche Voraussetzungen ändern.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/vorbereitung-betreuen/\" data-route=\"/de/leistungen/vorbereitung-betreuen/\" data-link-description=\"Vereinbarte Unterlagen, Kontakte und Vorkehrungen regelmäßig prüfen und nachführen.\"><span>Vorbereitung prüfen und aktuell halten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    }
+  ],
+  "working": {
+    "title": "Einrichten, erklären, gemeinsam prüfen",
+    "body": "<p>Du benennst die Menschen, die im Ernstfall handeln sollen. Wir führen Unterlagen, Zuständigkeiten und die erforderliche Fachausführung zusammen. Vertrauliche Dokumente tauschen wir über einen dafür vereinbarten geschützten Weg aus.</p>"
+  },
+  "nextWork": {
+    "title": "Die nächste Lücke gezielt schließen",
+    "body": "<p>Aus der Einrichtung können ein konkreter Urkundenauftrag, eine passende Vertretungsregelung oder ein unabhängiger digitaler Wiederzugang folgen. Diese Arbeiten stimmen wir mit dir ab und führen die beauftragten Ergebnisse wieder in deine Mappe zurück.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Soll deine Familie die nächsten Schritte sicher finden?",
+    "body": "Sag uns, für welche Personen und Situationen du den Notfallordner einrichten lassen möchtest. Für die erste Anfrage genügen diese Angaben."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [
+      "D19"
+    ],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "499",
+        "position": "#abschnitt-1",
+        "target": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+        "label": "Apostillen, Übersetzungen und Urkunden organisieren",
+        "purpose": ""
+      },
+      {
+        "line": "500",
+        "position": "#abschnitt-3",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "purpose": ""
+      },
+      {
+        "line": "501",
+        "position": "#abschnitt-4",
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+        "purpose": ""
+      },
+      {
+        "line": "502",
+        "position": "#abschnitt-6",
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "purpose": ""
+      },
+      {
+        "line": "503",
+        "position": "#abschnitt-4",
+        "target": "/de/leistungen/kommunikation-wiederzugang/",
+        "label": "Diskrete Kommunikation und Wiederzugang einrichten",
+        "purpose": ""
+      },
+      {
+        "line": "504",
+        "position": "#abschnitt-7",
+        "target": "/de/leistungen/vorbereitung-betreuen/",
+        "label": "Vorbereitung prüfen und aktuell halten",
+        "purpose": ""
+      }
+    ],
+    "seedingSupporting": [
+      "D20",
+      "D21",
+      "D24"
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "displayTitle": "Notfallordner erstellen: Damit deine Familie handeln kann"
+}

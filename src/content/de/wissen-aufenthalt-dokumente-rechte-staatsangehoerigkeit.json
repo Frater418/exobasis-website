@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+  "lang": "de",
+  "title": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-7566a8cf2e1da1"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-8e3e113de02a37"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-98e968c8d735fc"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Dein Plan B / Wissen",
+  "seoTitle": "Zweitwohnsitz und zweite Staatsbürgerschaft | EXOBASIS",
+  "description": "Vorhandene Rechte, Aufenthalt, Abstammung und zweite Staatsbürgerschaft vergleichen. Was für Deutsche, Österreicher und Schweizer unterschiedlich ist.",
+  "intro": "<p>Du willst einen Ort haben, an dem du mit deiner Familie leben kannst, wenn du dein bisheriges Land verlassen möchtest. Dafür kann dein heutiger Pass bereits mehr ermöglichen, als du vermutest. Eine zweite Staatsbürgerschaft ist ein möglicher Weg; ein nutzbarer Zweitwohnsitz lässt sich häufig auf vorhandenen Rechten aufbauen.</p><p>Entscheidend ist, welche Freiheit du konkret gewinnen willst: kurzfristig einreisen, dauerhaft bleiben, arbeiten oder ein Recht an deine Kinder weitergeben. Danach lässt sich beurteilen, ob ein zusätzlicher Status seinen Aufwand rechtfertigt.</p>",
+  "primary": {
+    "label": "Rechte und Aufenthaltsweg klären",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Erst vorhandene Rechte nutzen. Dann gezielt erweitern.",
+    "facts": [
+      [
+        "Personen",
+        "Jedes Familienmitglied zählt"
+      ],
+      [
+        "Nutzung",
+        "Einreise, Aufenthalt und Arbeit trennen"
+      ],
+      [
+        "Nachweise",
+        "Rechte tatsächlich verwenden können"
+      ]
+    ],
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Karte und Kompass als Symbol für die persönliche Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Beginne mit den Rechten, die dir bereits gehören",
+      "body": "<p>Erfasse deine Staatsangehörigkeiten, frühere Aufenthaltsrechte und die Rechte deiner engsten Familie. Bei einer möglichen Staatsbürgerschaft durch Abstammung braucht es eine nachvollziehbare Urkundenkette: Geburten, Eheschließungen, Namensänderungen und den Staatsangehörigkeitsstatus der betroffenen Vorfahren zum maßgeblichen Zeitpunkt. Ein Familienname oder Geburtsort allein reicht als Nachweis nicht.</p><p>Ob du eine Staatsangehörigkeit bereits besitzt, sie feststellen lassen kannst oder erst erwerben müsstest, verändert das Verfahren erheblich. Lass deshalb die tatsächliche Familiengeschichte vor einem kostenpflichtigen Programmangebot einordnen. Bestehende Titel verdienen denselben Blick: Manche lassen sich weiter nutzen, andere sind durch lange Abwesenheit erloschen.</p><p>Neben Abstammung kommen je nach Land auch ehebezogene Einbürgerung, Adoption, Wiedererwerb oder Wiedergutmachung als Prüfwege in Betracht. Deutschland regelt die Einbürgerung von Ehegatten, den Erwerb durch Adoption und die Wiedereinbürgerung ehemaliger Deutscher auf unterschiedlichen Grundlagen; besondere Wiedergutmachungswege betreffen NS-Verfolgte und ihre Abkömmlinge. Nimm deshalb auch Heirats- und Adoptionsurkunden sowie Unterlagen zu einem früheren Erwerb oder Verlust der Staatsangehörigkeit in die Prüfung auf.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\" data-route=\"/de/wissen/familie-alltag/kinder-angehoerige/\"><span>Mit Kindern und Angehörigen vorbereitet gehen</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "EU-Freizügigkeit: ein konkreter Ausgangspunkt für Deutsche und Österreicher",
+      "body": "<p>Mit deutscher oder österreichischer Staatsangehörigkeit kannst du bis zu drei Monate mit gültigem Personalausweis oder Reisepass in einem anderen EU-Staat leben. Eine örtliche Anwesenheitsmeldung kann trotzdem erforderlich sein. Für einen längeren Aufenthalt gelten je nach Lebenssituation zusätzliche Voraussetzungen.</p><p>Wenn du dort ohne Erwerbstätigkeit leben möchtest, brauchst du ausreichende Mittel für dich und deine Angehörigen sowie umfassenden Krankenversicherungsschutz. Arbeitnehmende und Selbstständige nutzen andere Aufenthaltskategorien. Familienangehörige ohne EU-Pass können abgeleitete Rechte haben; ihr Einreisevisum und ihre Aufenthaltskarte gehören gesondert vorbereitet.</p><p>Für Schweizerinnen und Schweizer sind insbesondere die Abkommen mit der EU maßgeblich. Ein Schweizer Wohnsitz macht einen Drittstaatsangehörigen hingegen nicht zum Freizügigkeitsberechtigten. Die passende Rechtsgrundlage folgt der Person, nicht der Sprache dieser Website.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://europa.eu/youreurope/citizens/residence/residence-rights/index_de.htm\" rel=\"noopener noreferrer\">Your Europe: Aufenthaltsrechte</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.eda.admin.ch/de/auswandern\" rel=\"noopener noreferrer\">EDA: Auswandern und Einreise in EU/EFTA-Staaten</a></p>"
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Ein Aufenthaltstitel muss zu deiner tatsächlichen Nutzung passen",
+      "body": "<p>Eine Außenbasis, die du nur gelegentlich nutzt, verlangt einen anderen Aufenthaltsweg als ein dauerhafter Umzug. Vergleiche deshalb erlaubte Abwesenheit, Verlängerung, erforderliche Anwesenheit, Arbeitsrecht und Familiennachzug. Ein Titel, dessen Erhaltung regelmäßige Aufenthalte voraussetzt, kann für eine jahrelang ungenutzte Reserve unpassend sein.</p><p>Ein Beispiel aus der EU-Freizügigkeit: Als EU-Bürger erwirbst du nach fünf Jahren ununterbrochenem rechtmäßigem Aufenthalt unter Erfüllung der Freizügigkeitsvoraussetzungen in einem anderen EU-Mitgliedstaat grundsätzlich ein Daueraufenthaltsrecht. Dieses kann bei mehr als zwei aufeinanderfolgenden Jahren im Ausland verloren gehen. Eine Wohnung zu behalten ersetzt den erforderlichen Aufenthalt nicht.</p><p>Halte für deinen gewählten Weg fest, was bis zur Erteilung und danach regelmäßig erledigt werden muss. Dazu gehören Termine, gültige Pässe, Versicherungsnachweise und die Anwesenheit derjenigen Familienmitglieder, deren Rechte du erhalten willst.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://europa.eu/youreurope/citizens/residence/residence-rights/inactive-citizens/index_de.htm\" rel=\"noopener noreferrer\">Your Europe: längerer und ständiger Aufenthalt</a></p>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Zweite Staatsbürgerschaft: Deutschland, Österreich und Schweiz unterscheiden sich",
+      "body": "<p>Ein zweiter Reisepass desselben Staates ist ein zusätzliches Reisedokument. Eine zweite Staatsbürgerschaft schafft eine weitere rechtliche Zugehörigkeit. Sie kann neue Rechte und zugleich zusätzliche Pflichten begründen. Bei Wehrpflicht, Einreise und konsularischem Schutz zählt deshalb jede Staatsangehörigkeit.</p><p><strong>Deutschland:</strong> Seit dem 27. Juni 2024 führt der Erwerb einer ausländischen Staatsangehörigkeit auf Antrag nach deutschem Recht nicht mehr zum Verlust der deutschen. Die Änderung wirkt nicht rückwirkend auf einen früheren Verlust.</p><p><strong>Österreich:</strong> Beim freiwilligen Erwerb einer fremden Staatsbürgerschaft droht grundsätzlich der Verlust der österreichischen. Eine erforderliche Beibehaltung muss vor den maßgeblichen Erwerbsschritten bewilligt sein. Das österreichische Portal verlangt, den schriftlichen Bescheid vor der Beantragung der fremden Staatsbürgerschaft abzuwarten. Automatischer Erwerb bei Geburt ist davon zu unterscheiden.</p><p><strong>Schweiz:</strong> Die Schweiz erlaubt Mehrstaatigkeit. Ob die weitere Staatsangehörigkeit erhalten bleibt oder erworben werden kann, hängt zusätzlich vom Recht des anderen Staates ab.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.auswaertiges-amt.de/vn-de/staatsangehoerigkeitsrecht-2088844\" rel=\"noopener noreferrer\">Auswärtiges Amt: Staatsangehörigkeitsrecht</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.oesterreich.gv.at/de/themen/menschen_aus_anderen_staaten/staatsbuergerschaft/Seite.260430\" rel=\"noopener noreferrer\">oesterreich.gv.at: Doppelstaatsbürgerschaft</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.sem.admin.ch/sem/de/home/integration-einbuergerung/schweizer-werden/doppelbuerger.html\" rel=\"noopener noreferrer\">SEM: Doppelbürger</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/apostillen-uebersetzungen-urkunden/\" data-route=\"/de/leistungen/apostillen-uebersetzungen-urkunden/\"><span>Apostillen, Übersetzungen und Urkunden organisieren</span><span aria-hidden=\"true\">→</span></a></div>",
+      "criteria": {
+        "title": "Status und Dokument sind nicht dasselbe",
+        "headers": [
+          "Gegenstand",
+          "Wozu er dient",
+          "Was getrennt zu klären ist"
+        ],
+        "rows": [
+          [
+            "Staatsangehörigkeit",
+            "Rechtliche Zugehörigkeit",
+            "Erwerb, Fortbestand und eigene Pflichten"
+          ],
+          [
+            "Pass",
+            "Identität und Reise nachweisen",
+            "Gültigkeit, Anerkennung und Einreisebedingungen"
+          ],
+          [
+            "Aufenthaltstitel",
+            "Bestimmten Aufenthaltsstatus nachweisen",
+            "Arbeit, Abwesenheit, Verlängerung, Angehörige"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Dein Zweitwohnsitz: Wohnung, Erwerbsarbeit und Steueransässigkeit",
+      "body": "<p>Für die tatsächliche Unterkunft kommen eine längerfristige Miete oder ein Kauf in Betracht. Vor einem Kauf müssen Erwerbsberechtigung, Eigentumstitel, Belastungen, Vertragsbedingungen und laufende Kosten am konkreten Ort geklärt sein. EXOBASIS kann die Standortsuche, Besichtigungen, unabhängige Kaufprüfung, Abschlusskoordination und Übergabe als zusammenhängenden Auftrag organisieren.</p><p>Der Aufenthalt und die Immobilie werden dabei gemeinsam geplant. Ein Hauskauf begründet nicht allgemein ein Aufenthaltsrecht; ein Aufenthaltstitel beseitigt keine steuerlichen Bindungen im bisherigen Land. Auch eine bloße Abmeldung beantwortet nicht, wo du steuerlich ansässig bist. Deine verfügbaren Wohnungen, Familie und tatsächliche Arbeit gehören in die grenzüberschreitende Steuerprüfung.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.oecd.org/en/networks/global-forum-tax-transparency/resources/aeoi-implementation-portal/tax-residency.html\" rel=\"noopener noreferrer\">OECD: steuerliche Ansässigkeit und tatsächliche Anknüpfungen</a></p>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Staatsbürgerschaft durch Investition: zuerst den Rechtsweg verstehen",
+      "body": "<p>Ein Angebot für eine Aufenthaltsgenehmigung durch Investition und ein Angebot für Staatsbürgerschaft verfolgen verschiedene Ziele. Vergleiche den tatsächlich erreichbaren Status, die Anforderungen an Mittelherkunft und Familie, gebundenes Kapital, Gebühren, Haltefristen sowie den Weg zur späteren Einbürgerung. Entscheidend sind die aktuellen Regeln des betreffenden Landes.</p><p>Wie stark sich Programme verändern können, zeigt Malta: Der Europäische Gerichtshof stellte am 29. April 2025 fest, dass das beanstandete investitionsbezogene Einbürgerungssystem gegen Unionsrecht verstößt. Eine alte Programmbroschüre trägt deshalb keine heutige Kaufentscheidung.</p><p>Prüfe einen solchen Weg erst, nachdem vorhandene Rechte und reguläre Aufenthaltsmöglichkeiten eingeordnet sind. In den Länderprofilen findest du den Anschluss an konkrete Zielländer statt einer vom Familien- und Wohnplan gelösten Passauswahl.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/cp250052en.pdf\" rel=\"noopener noreferrer\">EuGH: Urteil zum maltesischen Investoren-Einbürgerungssystem</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/laender/\" data-route=\"/de/laender/\"><span>Länder und Möglichkeiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/laender-standortauswahl/\" data-route=\"/de/leistungen/laender-standortauswahl/\"><span>Passende Länder und Standortoptionen</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-7",
+      "title": "Aus den passenden Rechten eine nutzbare Basis machen",
+      "body": "<p>EXOBASIS führt eure Ausgangsrechte, die gewünschte Nutzung und den konkreten Standort zusammen. Wir organisieren vereinbarte Anträge und Dokumentenarbeit, holen erforderliche Fachklärung ein und koordinieren Unterkunft und Ankunft. Du siehst, welcher Weg für wen verfolgt wird, welche Nachweise fehlen und welche Verpflichtungen nach der Einrichtung bleiben.</p><p>Wenn das Zielland bereits feststeht, kannst du die benötigte Durchführung direkt anfragen. Wenn noch unklar ist, ob ein vorhandenes Recht, ein Aufenthaltstitel oder eine zusätzliche Staatsbürgerschaft deine Aufgabe am besten löst, beginnen wir mit dieser Entscheidung.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/dokumente-aufenthalt/\" data-route=\"/de/leistungen/dokumente-aufenthalt/\"><span>Dokumente und Aufenthalt vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Eigenständige deutsche Neuredaktion nach PB-D65 aus Originalbriefing, DACH-Recherche und gelesenen Fachquellen.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Beginne mit den Rechten, die dir bereits gehören"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "EU-Freizügigkeit: ein konkreter Ausgangspunkt für Deutsche und Österreicher"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Ein Aufenthaltstitel muss zu deiner tatsächlichen Nutzung passen"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Zweite Staatsbürgerschaft: Deutschland, Österreich und Schweiz unterscheiden sich"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Dein Zweitwohnsitz: Wohnung, Erwerbsarbeit und Steueransässigkeit"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Staatsbürgerschaft durch Investition: zuerst den Rechtsweg verstehen"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Aus den passenden Rechten eine nutzbare Basis machen"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 471,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 470,
+        "target": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+        "label": "Apostillen, Übersetzungen und Urkunden organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Urkunden und Verwendbarkeit",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 467,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 468,
+        "target": "/de/leistungen/laender-standortauswahl/",
+        "label": "Passende Länder und Standortoptionen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt individueller Ländervergleich",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 469,
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 472,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      }
+    ],
+    "seeding": [],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Zweitwohnsitz im Ausland und zweite Staatsbürgerschaft"
+}

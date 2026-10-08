@@ -1,0 +1,197 @@
+{
+  "route": "/de/laender/argentinien/",
+  "lang": "de",
+  "title": "Argentinien als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/argentina/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-614bc39c63d25f"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-d4ecb6570039d2"
+    }
+  ],
+  "eyebrow": "Eine zweite Basis in Südamerika",
+  "seoTitle": "Auswandern nach Argentinien: Aufenthalt, Hauskauf & Alltag",
+  "description": "Argentinien als zweite Basis oder neues Zuhause: passende Aufenthaltswege, Miete, Immobilienkauf, Schule, Versorgung und nutzbarer Geldzugang.",
+  "intro": "<p>Du willst Abstand zu einem möglichen Krieg in Europa gewinnen, deine Familie rechtzeitig absichern oder in Argentinien neu anfangen. Entscheidend ist, ob dein Einkommen zum Aufenthaltsweg passt und ob der gewählte Ort euren Alltag trägt. Eine Wohnung, ein nutzbarer Geldzugang und vorbereitete Unterlagen machen aus der Idee einen Ort, an dem du wirklich ankommen kannst.</p>",
+  "primary": {
+    "label": "Vorbereitung für Argentinien anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "countryContext": "/de/laender/argentinien/",
+  "country": {
+    "name": "Argentinien",
+    "slug": "argentinien",
+    "region": "Südamerika",
+    "map": "countries/argentinien-locator.svg",
+    "imageAlt": "Lage Argentiniens im Süden Südamerikas",
+    "caption": "Argentinien im Süden Südamerikas.",
+    "summary": [
+      [
+        "Aufenthalt nach Einkommensart",
+        "Rentista für Vermögenserträge, Pensionado für regelmäßige Renten: Arbeitseinkommen braucht einen anderen Zugang."
+      ],
+      [
+        "Wohnen mit Vorlauf",
+        "Zuerst den Alltag erproben, dann langfristig mieten oder mit unabhängiger Prüfung kaufen."
+      ],
+      [
+        "Familie tatsächlich versorgen",
+        "Schulaufnahme, Behandlung und erreichbare Hilfe entscheiden über den passenden Standort."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Für wen passt Argentinien als zweite Basis?",
+      "body": "<p>Argentinien kommt besonders dann in die engere Wahl, wenn du auf regelmäßige Vermögenserträge oder eine Rente zurückgreifen kannst und bereit bist, deinen Alltag auf Spanisch aufzubauen. Als Unternehmer oder Berufstätiger brauchst du zusätzlich eine Aufenthalts- und Arbeitsgrundlage, die zu deiner tatsächlichen Tätigkeit passt. Ein ausländischer Auftraggeber macht dein Einkommen noch nicht zur Rentista-Einnahme.</p><p>Für einen vorbereiteten Zufluchtsort zählt vor allem, dass du die erste Zeit bezahlen, eine Unterkunft beziehen und die nächsten Schritte vor Ort erledigen kannst. Ein zweiter Wohnsitz braucht darüber hinaus Betreuung während deiner Abwesenheit. Beim dauerhaften Auswandern nach Argentinien kommen Schule, Krankenversorgung und die steuerliche Neuordnung hinzu. Diese drei Vorhaben verlangen unterschiedlich viel Bindung und laufende Ausgaben.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Eine Krisenbasis mit genügend Abstand und erreichbarer Hilfe",
+      "body": "<p>Argentinien liegt weit von Europa entfernt. Wenn Krieg oder Repression dein Anlass sind, kann diese Entfernung ein wichtiger Teil deiner Entscheidung sein. Sie bedeutet zugleich: Du bist für die Anreise auf eine lange Verbindung angewiesen und kannst im Familiennotfall nicht schnell mit dem Auto zurückfahren. Deshalb gehören Anreise, erste Unterkunft und ein finanzieller Puffer zusammen geplant.</p><p>Eine eingerichtete Wohnung ist für diesen Zweck nützlich, wenn du jederzeit Zugang hast, Strom und Wasser funktionieren und jemand nach Schäden sieht. Für eine gelegentliche Nutzung kann eine verlässlich organisierte möblierte Unterkunft wirtschaftlicher sein als ein Kauf. Vereinbare schriftlich, wie die Übergabe auch bei später Ankunft funktioniert und wer bei Ausfall der gebuchten Unterkunft übernimmt.</p><p>Buenos Aires verlangt Aufmerksamkeit bei Diebstahl und Raub; das Auswärtige Amt nennt unter anderem touristisch stark besuchte Bereiche und Transporte als Situationen mit erhöhtem Risiko. Eine passend gelegene Wohnung und organisierte Fahrten sind deshalb mehr wert als ein pauschales Sicherheitsurteil über das Land. <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/argentiniensicherheit-201326\">Reise- und Sicherheitshinweise für Argentinien</a>.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Mit Kindern nach Argentinien auswandern",
+      "body": "<p>Für einen dauerhaften Umzug beginnt die Standortsuche mit dem Alltag deiner Familie: Wer muss zur Schule, wer braucht regelmäßige Behandlung und wer arbeitet zu welchen Zeiten? Eine schöne Wohnung hilft wenig, wenn der Schulweg täglich zu lang ist oder ein Angehöriger die benötigte Therapie dort nicht erhält.</p><p>Klärt für jedes Familienmitglied den eigenen Aufenthaltszugang, die erforderlichen Personenstandsurkunden und bei Kindern die Sorge- und Reisebefugnisse. Für den Schulwechsel kommen Zeugnisse, die sprachliche Einstufung und die Aufnahmeentscheidung der konkreten Schule hinzu. Plane eine Übergangsphase, in der Wohnung, Unterricht und dein Arbeitsplatz bereits funktionieren, bevor du alle bisherigen Strukturen aufgibst.</p><p>Auch der Wechsel der Jahreszeiten und des Schuljahres gehört in euren Kalender. Eine Erkundungsreise im Urlaubsmodus ersetzt weder den morgendlichen Schulweg noch einen normalen Arbeitstag. Wir organisieren im Rahmen der <a href=\"/de/leistungen/laender-standortauswahl/\">Länder- und Standortauswahl</a> einen Vergleich, der diese Wege und Aufgaben zusammenführt.</p><p>Für deutsche, österreichische und Schweizer Staatsangehörige nennt Migraciones beim Wechsel durch Verwurzelung im Land drei Jahre unter temporärem Aufenthalt, nachgewiesenen Lebensunterhalt und tatsächliche Anwesenheit. Das amtliche Verfahrensblatt verlangt mindestens die Hälfte des bewilligten Zeitraums in Argentinien sowie keine zusammenhängende Abwesenheit von sechs Monaten oder mehr. Damit unterscheidet sich eine dauerhafte Familienperspektive deutlich von einer nur gelegentlich besuchten Wohnung. <a href=\"https://www.argentina.gob.ar/servicio/radicaciones-residencia-permanente\">Migraciones: Wechsel zur Residencia permanente</a>.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Argentinien zeitweise nutzen: Aufenthalt und Arbeit trennen",
+      "body": "<p>Mit deutschem Reisepass kannst du für touristische Besuche grundsätzlich bis zu 90 Tage ohne Visum einreisen. Für österreichische und Schweizer Staatsangehörige nennen die argentinischen Konsulate einen visumfreien touristischen Aufenthalt von bis zu drei Monaten. Die Staatsangehörigkeit im Reisedokument entscheidet; ein Wohnsitz in Deutschland, Österreich oder der Schweiz allein vermittelt diese Befreiung nicht. Quellen: <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/argentiniensicherheit-201326\">Einreise mit deutschem Pass</a>, <a href=\"https://etria.cancilleria.gob.ar/es/visa-de-turismo-3\">argentinische Botschaft in Österreich</a> und <a href=\"https://esuiz.cancilleria.gob.ar/es/entry-republic-foreigners-tourist-purposes\">argentinische Botschaft in der Schweiz</a>.</p><p>Art. 34 des Migrationsgesetzes sieht eine Erklärung über Reisezweck und Krankenversicherung vor; nach Art. 123 bis ist sie einforderbar, sobald ihre Umsetzung geregelt ist. Das Konsulat in Rom veröffentlicht dafür ein Formular für Antragsteller einer residencia transitoria im Visumverfahren. Für deine Ein- oder Wiedereinreise klären wir den tatsächlich geltenden Abgabeweg, bevor du ein Formular verwendest. Halte unabhängig davon den gültigen Versicherungsnachweis für medizinische Notfälle, Krankenhausaufenthalte und Rückführung griffbereit. <a href=\"https://www.boletinoficial.gob.ar/detalleAviso/primera/326096/20250529\">Dekret 366/2025, Artikel 9: Einreiseerklärung</a>.</p><p>Wer regelmäßig wiederkommt, sollte die Wohnung nach den tatsächlichen Nutzungsmonaten auswählen und die Kosten während der Abwesenheit mitrechnen. Wer von dort arbeitet, braucht zusätzlich die passende migrations- und steuerrechtliche Einordnung seiner Tätigkeit. Der Touristenaufenthalt beantwortet diese Frage nicht. Für einen dauerhaften Familienaufenthalt planst du von Anfang an den einschlägigen längerfristigen Weg.</p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Aufenthaltsgenehmigung: Rentista, Pensionado oder Erwerbstätigkeit",
+      "body": "<p>Bei den beiden einkommensbasierten Wegen ist die Herkunft des Geldes entscheidend:</p><ul><li><strong>Rentista:</strong> Die Behörde verlangt Erträge aus eigenem Vermögen im Ausland, etwa aus Immobilien, Finanzanlagen oder Unternehmensbeteiligungen. Vergütung für persönliche Arbeit ist ausdrücklich ausgeschlossen. Die nachzuweisende Rente muss mindestens fünf argentinischen Mindestlöhnen, den Salarios Mínimos Vitales y Móviles, entsprechen. Der Geldzufluss nach Argentinien muss über zugelassene Bank- oder Finanzinstitute belegt werden.</li><li><strong>Pensionado:</strong> Eine Regierung, internationale Organisation oder ein privates Unternehmen bestätigt die regelmäßige, dauerhafte Rente für früher im Ausland geleistete Arbeit. Auch hier nennt die Behörde mindestens fünf dieser Mindestlöhne.</li></ul><p>Beide veröffentlichten Verfahren führen zunächst zu einer einjährigen, verlängerbaren Residencia temporaria. Der Betrag in Euro hängt vom geltenden Mindestlohn und der Währungsumrechnung ab. Ein älterer Eurobetrag aus einem Auswanderungsforum eignet sich deshalb nicht als Grundlage deines Antrags. Quellen: <a href=\"https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-rentista\">Migraciones: Rentista</a> und <a href=\"https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-pensionado\">Migraciones: Pensionado</a>.</p><div class=\"exb-criteria-table\" role=\"region\" aria-labelledby=\"argentinien-nutzungsvergleich\" tabindex=\"0\"><table><caption id=\"argentinien-nutzungsvergleich\">Welcher Aufenthaltsweg zu deiner Nutzung passt</caption><thead><tr><th scope=\"col\">Nutzung</th><th scope=\"col\">Passendes Recht</th><th scope=\"col\">Nachweise und Anwesenheit</th><th scope=\"col\">Was wir dafür organisieren</th></tr></thead><tbody><tr><th scope=\"row\">Krisenreserve</th><td>Das im Abschnitt zur mobilen Nutzung erläuterte Besuchsrecht kann eine begrenzte Ausweichphase tragen. Für längeres Wohnen oder Arbeit braucht ihr den passenden Aufenthaltsweg.</td><td>Pass und zulässige Besuchsdauer jedes Mitreisenden, Versicherung, erreichbare Unterkunft und verfügbares Geld müssen zusammenpassen. Einen später benötigten RaDEX-Antrag kannst du nicht vollständig aus dem Ausland erledigen.</td><td>Wir organisieren Reiseunterlagen, Unterkunft und Ankunft. Soll die Reserve länger nutzbar bleiben, bereiten wir den einschlägigen Titel und die Termine im Land vor.</td></tr><tr><th scope=\"row\">Dauerhafte Familienbasis</th><td>Rentista bei Vermögenserträgen, Pensionado bei Rente für frühere Arbeit oder eine passende Kategorie für aktive Erwerbstätigkeit. Die zunächst temporäre Residenz ist von einem späteren Daueraufenthalt zu unterscheiden.</td><td>Beim Einkommensweg werden die oben genannten fünf jeweils geltenden Mindestlöhne nachgewiesen; beim Rentista auch der zulässige Bankzufluss. Für RaDEX brauchst du Anwesenheit im Land, einen Adressnachweis und den persönlichen Termin. Angehörige werden nach ihrem jeweiligen Rechtsgrund eingeplant.</td><td>Wir führen Einkommens- und Familienunterlagen, Fachausführung und Vororttermine zusammen. Wohnung, Schulbeginn und Versorgung werden mit dem tatsächlichen Statusaufbau abgestimmt.</td></tr><tr><th scope=\"row\">Mobile Nutzung</th><td>Wiederkehrender Besuch, laufende temporäre Residenz und aktive Arbeit sind verschiedene Fälle. Laufende Fernarbeit wird nicht dadurch zum Rentista-Einkommen, dass der Auftraggeber im Ausland sitzt.</td><td>Reisezeiten, Verlängerung und erforderliche Termine müssen zu deiner tatsächlichen Anwesenheit passen. Vermögensertrag, Pension und Arbeitsvergütung bleiben getrennt belegt; eine gemietete Adresse ersetzt den Vorortantrag nicht.</td><td>Wir stimmen den konkreten Aufenthalts- und Arbeitsweg mit deinem Reiseplan ab und organisieren Dokumente, Zahlungsvorbereitung und Betreuung während deiner Abwesenheit.</td></tr></tbody></table></div><p>Die Antragstellung über RaDEX setzt voraus, dass du dich bereits in Argentinien befindest. Nach dem Onlineantrag und der Zahlung der Gebühren folgt der persönliche Termin. Wir bereiten den passenden Weg und die Unterlagen vor der Reise vor und organisieren die erforderliche Fachausführung. Wenn dein Lebensunterhalt aus Anstellung oder eigener aktiver Arbeit stammt, wird dieses Vorhaben einer passenden Erwerbskategorie zugeordnet, statt es als Vermögensrente einzureichen. <a href=\"/de/anfrage/\">Aufenthaltsvorbereitung für Argentinien anfragen</a>.</p><p><a href=\"/de/anfrage/#kontaktbeginn\">Diskrete Anfrage</a></p>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Wo wohnen: Buenos Aires, Córdoba oder Mendoza?",
+      "body": "<p>Buenos Aires ist ein sinnvoller erster Prüfpunkt, wenn deutschsprachiger Schulanschluss, Facharzttermine und internationale Anreise besonders wichtig sind. Innerhalb des Großraums entscheiden Viertel, tägliche Fahrten und die konkrete Schule über die passende Lage. Córdoba ist eine zweite Stadtoption für Menschen, die ihre Arbeit und den Familienalltag außerhalb der Hauptstadt aufbauen möchten. Mendoza spricht eher für einen westlichen Standort mit Nähe zu den Anden. Dort müssen Erdbebenrisiko und die tatsächlichen Versorgungswege in die Objektwahl einfließen. <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/argentiniensicherheit-201326\">Das Auswärtige Amt beschreibt die regionalen Naturgefahren</a>.</p><h3>Mieten: Währung, Anpassung und Ausstieg vereinbaren</h3><p>Für die erste Ankunft ist eine möblierte Wohnung mit klarer Laufzeit praktisch. Vor der Unterschrift stehen Identität und Berechtigung des Vermieters, Inventar, Schlüsselübergabe und Internetzugang fest. Bei einem längerfristigen Vertrag gehören Mietwährung, Anpassungsindex, Nebenkosten, Kaution und die Rückzahlung der Kaution ausdrücklich in die Vereinbarung.</p><p>Der amtliche Leitfaden der Stadt Buenos Aires erklärt für Verträge ab dem 29. Dezember 2023: Laufzeit, Mietwährung und Anpassung werden vereinbart; fehlt eine Laufzeit, gilt bei dauerhaftem Wohnen grundsätzlich eine Frist von zwei Jahren. Für die vorzeitige Kündigung durch den Mieter nennt er zehn Prozent der noch ausstehenden Miete. In der Stadt Buenos Aires dürfen bei Wohnraummiete die dort erfassten Maklerprovisionen nicht dem Mieter berechnet werden. Diese lokale Kostenregel ist kein landesweiter Provisionsmaßstab. <a href=\"https://vivienda.buenosaires.gob.ar/manual-inquilinos-propietarios-7023\">IVC: Mietvertrag, Kosten und Kündigung</a>.</p><h3>Eine Immobilie kaufen und aus der Ferne betreuen</h3><p>Ausländer dürfen in Argentinien Immobilien besitzen und erwerben; das verankert Artikel 20 der <a href=\"https://www.argentina.gob.ar/normativa/nacional/ley-24430-804/texto\">argentinischen Verfassung</a>. Bei ländlichen Grundstücken gelten zusätzliche Grenzen. Das Registro Nacional de Tierras Rurales stellt ausdrücklich klar, dass Gesetz 26.737 wegen einer gerichtlichen Verfügung weiter in Kraft ist. Bei einem Haus mit größerem Landanteil müssen daher Grundstücksart, Lage und gegebenenfalls Genehmigungen vor der Bindung feststehen. <a href=\"https://www.argentina.gob.ar/justicia/tierrasrurales\">Amtliche Hinweise zum ausländischen Erwerb ländlicher Grundstücke</a>.</p><p>Der Suchauftrag sollte Budget, Lage, Erreichbarkeit, Gebäudestand und gewünschte Nutzung festlegen. Vor Reservierung und Kauf lässt du Eigentum, Belastungen, Verfügungsbefugnis, Schulden und den tatsächlichen Grundstücksbestand unabhängig prüfen. Ein örtlicher Escribano übernimmt die notarielle Ausführung; die Eigentumseintragung läuft über das zuständige Immobilienregister. Steueridentifikation und dokumentierte Herkunft sowie Übertragung des Kaufgeldes werden vor dem Abschluss vorbereitet. Das <a href=\"https://www.argentina.gob.ar/justicia/propiedadinmueble\">Immobilienregister der Hauptstadt</a> führt die Nachweise zu Eigentum, Belastungen und Verfügungsbeschränkungen; die <a href=\"https://www.zonaprop.com.ar/blog/comprar-casa-siendo-extranjero/\">lokale Kaufübersicht von Zonaprop</a> beschreibt notarielle Ausführung und Kostenbestandteile.</p><p>Zum Kaufbudget gehören neben dem Preis notarielle und rechtliche Arbeit, Register- und Bescheinigungskosten, gegebenenfalls Maklerhonorar sowie die konkret anfallenden Steuern. Danach folgen laufende Objektabgaben, Gemeinschaftskosten, Versicherung und Betreuung. Für eine leerstehende Wohnung vereinbarst du Schlüsselverwahrung, Kontrollen, Reparaturfreigaben und die Vorbereitung deiner nächsten Ankunft. Wir übernehmen als beauftragten Baustein der <a href=\"/de/leistungen/ankunft-organisieren/\">Ankunft und Einrichtung</a> die Suche, Besichtigungsorganisation, unabhängige Kaufprüfung, Abschlusskoordination und Übergabe.</p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule und Versorgung vor der Wohnentscheidung sichern",
+      "body": "<p>In Buenos Aires bietet beispielsweise die Pestalozzi-Schule einen deutschsprachigen Bildungsanschluss. Ihre eigene Aufnahmeseite unterscheidet Verfahren nach Schulstufe, freien Plätzen und Sprachvoraussetzungen. Für die Sekundarstufe gibt es einen regulären Zugang mit Deutschkenntnissen und ein besonderes Aufnahmeprogramm für eine bestimmte Jahrgangsstufe. Daraus folgt für deine Familie: Erst die konkrete Aufnahme und Einstufung klären, dann den langfristigen Mietvertrag auf diesen Standort ausrichten. <a href=\"https://www.pestalozzi.edu.ar/es/admisiones/admision-de-nuevos-alumnos.html\">Pestalozzi-Schule: Aufnahmeverfahren</a>.</p><p>Bei Gesundheit und Pflege brauchst du zwei getrennte Zusagen: eine Versicherung, die deinen Aufenthalt und deine Vorerkrankungen tatsächlich abdeckt, und einen erreichbaren Anbieter, der die benötigte Behandlung übernimmt. Artikel 8 des argentinischen Migrationsgesetzes unterscheidet dabei drei Fälle: In Notfällen darf Ausländern die medizinische Versorgung unabhängig von ihrem Aufenthaltsstatus nicht verweigert oder eingeschränkt werden. Dauerhaft Aufenthaltsberechtigte haben Zugang zum öffentlichen Gesundheitssystem zu denselben Bedingungen wie argentinische Staatsbürger. Außerhalb dieser beiden Fälle setzt die reguläre Behandlung in Einrichtungen, die vom argentinischen Nationalstaat verwaltet werden, einen Krankenversicherungsnachweis oder vorherige Bezahlung voraus, nach den Vorgaben des Gesundheitsministeriums. Diese dritte Regel bezieht sich auf nationalstaatliche Einrichtungen, nicht pauschal auf jede Provinzklinik. <a href=\"https://www.argentina.gob.ar/normativa/nacional/ley-25871-92016/actualizacion\">Migrationsgesetz: Artikel 8 zum Gesundheitszugang</a>. Das Auswärtige Amt beschreibt die Versorgung in Buenos Aires als gut und weist auf geringere Möglichkeiten außerhalb der großen Städte hin. Für geplante Eingriffe, regelmäßige Medikamente oder Pflege ist deshalb der konkrete Behandlungsort wichtiger als die bloße Existenz einer Police. <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/argentiniensicherheit-201326\">Medizinische Versorgung und Einreisehinweise</a>.</p><p>Wir verbinden die Wohnortsuche mit den nötigen Schul- und Versorgungsklärungen. Die Vertiefungen zu <a href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Kindern und Angehörigen</a> sowie <a href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Behandlung im Ausland</a> zeigen, welche Unterlagen und Zusagen du dafür brauchst.</p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Geldzugang, Steuern und Arbeit in Argentinien",
+      "body": "<p>Ein Guthaben im Herkunftsland hilft dir erst, wenn du damit vor Ort Miete, Behandlung und laufende Ausgaben bezahlen kannst. Bereite mehrere voneinander unabhängige Zahlungswege vor und teste eine Überweisung samt Empfang, Umrechnung und Verfügbarkeit. Gerade beim Rentista-Verfahren ist der reguläre Bankweg zugleich Teil des Aufenthaltsnachweises.</p><p>Die argentinische Zentralbank beschreibt für Migranten ein kostenloses Sparkonto in Pesos, bei dem DNI oder Reisepass zur Identifikation dienen. Die Bankunterlagen werden deshalb mit dem Aufenthaltsverfahren abgestimmt. Gebühren, Kartenlimits und der tatsächliche Zugang zum gewählten Produkt gehören in den Funktionstest. <a href=\"https://www.bcra.gob.ar/noticias/cuenta-bancaria-para-inmigrantes/\">BCRA: Bankzugang für Migranten</a>.</p><p>Für Ausländer kann die argentinische Steueransässigkeit mit der dauerhaften Aufenthaltsgenehmigung oder nach zwölf Monaten unter temporären Aufenthaltserlaubnissen entstehen. Steuerlich Ansässige unterliegen grundsätzlich mit weltweiten Einkünften der Einkommensteuer; die gesetzlichen Voraussetzungen und Ausnahmen stehen in Artikel 1 und 116 des <a href=\"https://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/332890/texact.htm\">argentinischen Einkommensteuergesetzes</a>. Die übliche Faustregel von 183 Tagen ersetzt diese Regelung nicht.</p><p>Wenn du ein Unternehmen oder Kunden in Deutschland, Österreich oder der Schweiz behältst, muss die Planung auch dort fortbestehende Wohnsitze, Geschäftsleitung, Sozialversicherung und vertragliche Pflichten berücksichtigen. <a href=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\">Wegzug und Steuern</a> vertieft diesen Übergang. Für Kontenausfall oder gesperrte Zugänge bauen wir mit dem Auftrag <a href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität</a> tatsächlich nutzbare Alternativen auf.</p><p>Damit Miete, Behandlung und die nächsten Reisetage auch bei einer verzögerten Überweisung bezahlt werden können, brauchst du eine erreichbare Zahlungsreserve und einen tatsächlich unabhängigen zweiten Weg. Wie du das mit berechtigtem Wiederzugang vorbereitest, erläutert <a href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Bankkonto und Zahlungsfähigkeit</a>.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Welche Unterlagen vor der Reise bereitliegen sollten",
+      "body": "<p>Für Rentista und Pensionado gehören ein gültiger Pass, rechtmäßige Einreise und Wohnsitznachweis zum Antrag. Ab dem maßgeblichen Alter verlangt Migraciones zudem Strafregisterbelege aus Ländern, in denen du während der letzten drei Jahre länger als ein Jahr gelebt hast. Der argentinische Strafregisterbeleg ist im regulären RaDEX-Verfahren eingebunden.</p><p>Ausländische Dokumente benötigen die vorgeschriebene Apostille oder konsularische Legalisation. Fremdsprachige Unterlagen werden ins Spanische durch einen zugelassenen argentinischen Übersetzer übersetzt und durch dessen Berufskammer legalisiert. Zusätzlich beschaffst du die zur Kategorie passenden Renten-, Vermögens- und Einkommensbelege. <a href=\"https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-rentista\">Migraciones: Dokumente und Antragsschritte</a>.</p><p>EXOBASIS übernimmt die Zusammenstellung, Beschaffungs- und Terminorganisation sowie die Abstimmung mit den erforderlichen örtlichen Fachleuten. Du bekommst die für deinen Fall vorbereitete Reihenfolge vom Originaldokument bis zum Termin. <a href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten lassen</a>.</p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Damit deine Basis auch später nutzbar bleibt",
+      "body": "<p>Auch lange Abwesenheiten wirken auf deinen Status: Das geänderte Migrationsgesetz nennt eine Aufhebung des temporären Aufenthalts bei sechs zusammenhängenden Monaten außerhalb Argentiniens und des permanenten Aufenthalts bei einem zusammenhängenden Jahr. Ausnahmen gelten insbesondere bei ausdrücklicher Genehmigung der Migrationsbehörde oder den gesetzlich genannten Tätigkeiten im argentinischen Interesse. Plane eine nur gelegentlich genutzte Basis deshalb mit dem dazu passenden Aufenthaltsmodell. <a href=\"https://www.boletinoficial.gob.ar/detalleAviso/primera/326096/20250529\">Dekret 366/2025, Artikel 16: Abwesenheit und Ausnahmen</a>.</p><p>Nach der Einrichtung laufen mehrere Kalender nebeneinander: Ablauf und Verlängerung des Aufenthalts, erforderliche Einkommensbelege, Steuertermine, Mietanpassungen und Versicherungsfristen. Wer zeitweise abwesend ist, hält zusätzlich den tatsächlichen Zugang zur Wohnung, Bank und örtlichen Vertretung aktuell.</p><p>Die <a href=\"/de/leistungen/vorbereitung-betreuen/\">laufende Betreuung deiner Vorbereitung</a> kann diese Fristen, Objektkontrollen und erneute Ankunftsvorbereitung zusammenführen. Legt dafür fest, welche Kontrollen stattfinden, wer Ausgaben freigibt und wann du einen Bericht erhältst. Eine eingerichtete Basis soll nach Monaten genauso benutzbar sein wie nach der ersten Übergabe.</p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Deine Argentinien-Basis vorbereiten lassen",
+      "body": "<p>Du kannst uns mit einem klar umrissenen Auftrag beginnen lassen: Argentinien mit einer Alternative vergleichen, den Aufenthalt vorbereiten, eine geeignete Wohnung finden oder den Immobilienkauf von der Suche bis zur Übergabe organisieren. Ebenso führen wir mehrere dieser Arbeiten zu einer vollständigen Vorbereitung zusammen. Umfang, erforderliche Fachausführung und Fremdkosten werden vor dem Auftrag festgelegt.</p><p>Beim Vergleich mit <a href=\"/de/laender/uruguay/\">Uruguay</a> oder <a href=\"/de/laender/chile/\">Chile</a> zählen dein Einkommensmodell, eure Schul- und Versorgungssituation sowie die geplante Aufenthaltsdauer. Wir machen daraus eine <a href=\"/de/leistungen/laender-standortauswahl/\">persönliche Länder- und Standortauswahl</a> mit anschließender Umsetzung.</p><p><strong>Uruguay</strong> schafft wie Argentinien südamerikanische Distanz zu einem Krieg in Europa, hat aber einen eigenen amtlichen Weg zur Residencia Legal Permanente. Dafür werden Unterhalt und persönliche Unterlagen nachgewiesen und ein Termin vor Ort wahrgenommen. Wir vergleichen diesen Weg mit deinem argentinischen Rentista-, Pensionado- oder Erwerbsfall und klären zugleich, welche Unterkunft ihr tatsächlich nutzen und wie ihr den laufenden Familienunterhalt bezahlen könnt.</p><p><strong>Chile</strong> setzt beim hier beschriebenen Rentner- oder Rentista-Weg auf den Antrag aus dem Ausland und einen anschließenden Aufenthaltsaufbau. Argentinien verlangt für RaDEX dagegen deine Anwesenheit im Land. Für eure Entscheidung stellen wir dieser Antragsfolge die erreichbare Behandlung, einen passenden Schulplatz und die konkrete Wohnlage gegenüber; in Chile gehören regionale Erdbeben-, Tsunami- und Waldbrandrisiken in die Standortwahl.</p><p><a href=\"/de/anfrage/\">Vorbereitung für Argentinien anfragen</a>. Beschreibe, wer mitkommen soll, wovon ihr lebt, wann die Basis nutzbar sein soll und was bereits vorhanden ist. Wenn du noch nicht weißt, welcher Auftrag passt, nutzen wir eine kostenlose 20-Minuten-Orientierung zur Einordnung.</p><p>Für ein anderes oder noch offenes Anliegen: <a href=\"/de/anfrage/#kontaktbeginn\">Diskrete Anfrage</a>.</p>"
+    }
+  ],
+  "faq": {
+    "question": "Kann ich mit einem ausländischen Gehalt als Rentista nach Argentinien auswandern?",
+    "answer": "Die Rentista-Kategorie ist für Erträge aus eigenem Vermögen im Ausland vorgesehen und schließt Vergütung für persönliche Arbeit ausdrücklich aus. Für eine regelmäßige Altersrente kommt Pensionado in Betracht; aktive Arbeit braucht eine dazu passende Aufenthaltsgrundlage. Bei Rentista und Pensionado nennt Migraciones derzeit mindestens fünf argentinische Mindestlöhne und zunächst ein Jahr Aufenthalt mit Verlängerungsmöglichkeit."
+  },
+  "editorialSources": [
+    "ar"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 908,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 910,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 911,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 912,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 913,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 914,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 915,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 916,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 917,
+      "target": "/en/countries/argentina/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1436,
+      "target": "/de/laender/uruguay/",
+      "label": "Uruguay als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1438,
+      "target": "/de/laender/chile/",
+      "label": "Chile als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Auswandern nach Argentinien: Aufenthalt, Wohnen und Familie"
+}

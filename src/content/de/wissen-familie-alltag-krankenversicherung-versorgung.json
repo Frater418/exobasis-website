@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+  "lang": "de",
+  "title": "Krankenversicherung und Versorgung im Ausland",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-90e4e6a344ac37"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-3bc0ec82293695"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-be7b4f69cc6f25"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Dein Plan B / Wissen",
+  "seoTitle": "Krankenversicherung und Versorgung im Ausland | EXOBASIS",
+  "description": "Internationale Krankenversicherung, Vorerkrankungen, Behandlung und Rücktransport: Wie du den Versicherungsschutz mit erreichbarer Versorgung verbindest.",
+  "intro": "<p>Eine internationale Krankenversicherung ist erst ein Teil deiner Vorbereitung. Wenn du oder ein Angehöriger krank wird, braucht ihr eine erreichbare Praxis oder Klinik, eine geklärte Kostenübernahme und Medikamente. Bei einer Ausreise wegen Krieg kann außerdem entscheidend werden, ob Transport und Unterstützung unter den konkreten Bedingungen verfügbar sind.</p><p>Plane deshalb drei Dinge zusammen: Wer bezahlt, wer behandelt und wie du diese Behandlung erreichst. So passt die Absicherung zum tatsächlichen Leben am neuen Ort.</p>",
+  "primary": {
+    "label": "Versorgung am Ziel vorbereiten",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Versichert sein. Behandlung erreichen. Den Übergang schließen.",
+    "facts": [
+      [
+        "Vertrag",
+        "Passender Schutz für Dauer und Bedarf"
+      ],
+      [
+        "Ort",
+        "Tatsächlich erreichbare Behandlung"
+      ],
+      [
+        "Ablauf",
+        "Aufnahme, Zahlung und Vertretung"
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift als Symbol für geordnete Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Welche Krankenversicherung passt zu deiner Auswanderung?",
+      "body": "<p>Eine Reise mit Rückkehrtermin, ein langer Auslandsaufenthalt und ein dauerhafter Wohnsitzwechsel haben unterschiedliche Anforderungen. Viele Reisepolicen knüpfen an eine maximale Reisedauer oder einen fortbestehenden Wohnsitz an. Eine internationale Krankenversicherung kann für längerfristiges Leben im Ausland ausgelegt sein; maßgeblich bleiben die Aufnahme- und Vertragsbedingungen des konkreten Tarifs.</p><p>Lege vor dem Vergleich fest: Wohnsitzland, weitere Aufenthaltsländer, Arbeit oder Ruhestand, bestehende Pflichtversicherung und erwartete Behandlungen. Für jedes Familienmitglied zählen Alter, laufende Therapie, Medikamente und Pflegebedarf. Die bisherige Krankenversicherung nach einer Abmeldung endet oder besteht nicht allein aufgrund einer Werbeaussage fort. Lass den zuständigen Träger den tatsächlichen Übergang bestätigen.</p><p>Bei einem vorübergehenden Aufenthalt ermöglicht die Europäische Krankenversicherungskarte im erfassten europäischen Raum medizinisch notwendige Leistungen im öffentlichen System nach den dortigen Bedingungen. Private Behandlung und Rücktransport sind damit nicht allgemein abgedeckt. Für einen dauerhaften Umzug gehört die Versicherungszuständigkeit eigenständig geklärt.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm\" rel=\"noopener noreferrer\">Your Europe: notwendige Gesundheitsversorgung bei vorübergehendem Aufenthalt</a></p>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Aufnahme, Vorerkrankungen und „ohne Wohnsitz“ konkret beantworten",
+      "body": "<p>Die Suche nach einer internationalen Krankenversicherung ohne Wohnsitz bedeutet meist: Du willst nach der Abmeldung weiter abgesichert sein oder wechselst regelmäßig das Land. Der Versicherer benötigt trotzdem eine zutreffende Beschreibung deiner Lebenssituation. Prüfe, welche Länder als Wohn- und Aufenthaltsländer akzeptiert werden und wann Änderungen gemeldet werden müssen.</p><p>Gesundheitsfragen werden vollständig beantwortet. Daraus können Annahme, Zuschläge, Ausschlüsse oder eine gesonderte Vereinbarung für bestehende Erkrankungen folgen. Vergleiche den tatsächlich angebotenen Vertrag mit dem Bedarf, nicht nur den Produktnamen. Auch Wartezeiten, Selbstbehalte, Leistungsgrenzen und Verlängerungsbedingungen verändern den Nutzen.</p><p>Lass vor dem Wechsel schriftlich festhalten, ab wann welche Person in welchen Ländern versichert ist und wie laufende Behandlungen behandelt werden. Die verlinkten Cigna-Vertragsregeln zeigen beispielhaft, wie Wohnland, medizinische Vorgeschichte und Vorabgenehmigung die Deckung mitbestimmen. Diese Bedingungen gelten für den jeweiligen Vertrag, nicht automatisch für den gesamten Markt.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.cignaglobal.com/dvc-pdfs/CGIC-EP35/en/CGHO%20Policy%20Rules%20CGIC_EN_02_2025.pdf\" rel=\"noopener noreferrer\">Cigna Global: Vertragsbedingungen als konkretes Produktbeispiel</a></p>"
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Kannst du die benötigte Behandlung am Standort erhalten?",
+      "body": "<p>Beginne bei der benötigten Leistung: hausärztliche Versorgung, Kinderarzt, Facharzt, Dialyse, Therapie oder stationäre Behandlung. Frage die passende Einrichtung nach Aufnahme, Terminzugang, Behandlungssprache und Abrechnung. Ein großes Krankenhaus bietet nicht zwingend jede spezialisierte Versorgung an.</p><p>Bei planbarer Behandlung werden Unterlagen vorab übermittelt und Annahme sowie Kostenweg abgestimmt. Bei Notfällen muss die Familie wissen, wohin sie fährt und welche Nummer erreichbar ist. Fahrtzeit, Tageszeit und Transportfähigkeit gehören zur Standortwahl. Für einen pflegebedürftigen Angehörigen können erreichbare Unterstützung und barrierefreies Wohnen den Ausschlag geben.</p><p>EXOBASIS organisiert die vereinbarte Abstimmung mit Einrichtungen und Fachstellen. Medizinische Entscheidungen liegen bei den behandelnden Fachpersonen; ihre bestätigten Anforderungen fließen in Wohnung, Reise und laufende Betreuung ein.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/laender/\" data-route=\"/de/laender/\"><span>Länder und Möglichkeiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/ankunft-organisieren/\" data-route=\"/de/leistungen/ankunft-organisieren/\"><span>Ankunft im Zielland organisieren</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Medikamente und Pflege über den Wechsel hinweg fortführen",
+      "body": "<p>Nimm einen aktuellen Medikationsplan mit Wirkstoffen, Dosierung und behandelndem Kontakt mit. Kläre mit Arzt und Apotheke die Überbrückung bis zur ersten Versorgung am Ziel. Verfügbarkeit, Rezeptanerkennung und Einfuhrregeln sind unterschiedliche Fragen. Ein Medikament kann lokal erhältlich sein und trotzdem andere Verschreibungsbedingungen haben.</p><p>Für kontrollierte Arzneimittel führt das INCB länderbezogene Informationen. Je nach Land werden ärztliche Bescheinigungen, behördliche Bestätigungen oder Einfuhrerlaubnisse verlangt. Auch Transit und Rückreise gehören dazu. Bei kühlpflichtigen Arzneien wird zusätzlich die durchgehende Lagerung und Beförderung vorbereitet.</p><p>Pflegebedarf braucht eine eigene Zusage: Wer übernimmt welche Hilfe, ab wann und zu welchem Preis? Die DVKA unterscheidet bei Pflegeleistungen insbesondere Zielstaat und Aufenthaltsart. Das bisherige Pflegegeld oder eine Kostenzusage sollte deshalb nicht ungeprüft als Finanzierung jeder ausländischen Leistung eingeplant werden.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.incb.org/incb/en/travellers/general-information.html\" rel=\"noopener noreferrer\">INCB: Reisen mit kontrollierten Arzneimitteln</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.dvka.de/media/dokumente/merkblaetter/merkblatt-fuer-rentner/pflegeleistungen_ausland.pdf\" rel=\"noopener noreferrer\">DVKA: Pflegeleistungen im Ausland</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/pflege-medikamente/\" data-route=\"/de/wissen/familie-alltag/pflege-medikamente/\"><span>Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Kostenübernahme und verfügbare Mittel vorbereiten",
+      "body": "<p>Direktabrechnung bedeutet, dass Einrichtung und Kostenträger eine Leistung unmittelbar abrechnen können. Sie setzt deren tatsächliche Vereinbarung und gegebenenfalls eine Freigabe voraus. Andernfalls kann eine Vorauszahlung nötig sein, die du später zur Erstattung einreichst.</p><p>Kläre für die ausgewählte Klinik den vorgesehenen Ablauf, erforderliche Vorabgenehmigungen, Selbstbehalte und Rechnungsunterlagen. Halte die Assistance- und Versicherungsnummern für die Familie erreichbar. Die finanzielle Reserve muss zum denkbaren Eigenanteil oder Vorschuss passen und auch ohne dein Haupttelefon verfügbar sein.</p><p>Bei einem akuten medizinischen Notfall steht Hilfe vor Ort an erster Stelle. Die anschließende Meldung und Kostenzusage richten sich nach dem Vertrag und werden so früh wie möglich organisiert.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.cignaglobal.com/dvc-pdfs/CGIC-EP35/en/CGHO%20Policy%20Rules%20CGIC_EN_02_2025.pdf\" rel=\"noopener noreferrer\">Cigna Global: Genehmigung und Leistungsabwicklung im Produktbeispiel</a></p>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Rücktransport und politische Evakuierung sind verschiedene Leistungen",
+      "body": "<p>Ein medizinischer Transport richtet sich nach Erkrankung, Transportfähigkeit, erreichbarer Behandlung und den vertraglichen Bedingungen. Eine sicherheitsbedingte Evakuierung knüpft dagegen an vereinbarte Gefahrenlagen und Auslöser an. Eine Krankenversicherung mit Rücktransport enthält deshalb nicht automatisch Schutz für politische Evakuierung.</p><p>Vergleiche bei einer Evakuierungsversicherung oder gesonderten Assistance: Wer löst den Einsatz aus, welche Ereignisse sind erfasst, wohin wird transportiert, wer bezahlt und welche Ausschlüsse gelten bei Krieg oder bestehenden Reisewarnungen? Auch die tatsächliche Durchführbarkeit hängt von Behörden, verfügbaren Transportmitteln und der Lage vor Ort ab.</p><p>Die verlinkten Bedingungen von Global Rescue zeigen, dass Mitgliedschaft, Meldeweg, Einsatzentscheidung und Ausschlüsse verbindlich geregelt sind. Für deine Vorbereitung zählt die bestätigte eigene Vereinbarung. Ein registrierter Kontakt und bereitliegende Dokumente erleichtern die Aktivierung; sie ersetzen die Annahme eines konkreten Einsatzes nicht.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.globalrescue.com/grcom/grmkt_resources/pdfs/legal_pdfs/gr-consumer-msa.pdf\" rel=\"noopener noreferrer\">Global Rescue: Mitgliedschafts- und Einsatzbedingungen als Anbieterbeispiel</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/aktivierung-notfallkoordination/\" data-route=\"/de/leistungen/aktivierung-notfallkoordination/\"><span>Vereinbarte Aktivierung und Notfallkoordination</span><span aria-hidden=\"true\">→</span></a></div>",
+      "criteria": {
+        "title": "Drei Leistungen, drei Prüfungen",
+        "headers": [
+          "Leistung",
+          "Entscheidung",
+          "Vor Nutzung klären"
+        ],
+        "rows": [
+          [
+            "Behandlung",
+            "Medizinische Stelle und Kostenträger",
+            "Aufnahme und passende Kostenübernahme"
+          ],
+          [
+            "Medizinischer Transport",
+            "Medizinisch und vertraglich zuständige Stellen",
+            "Eignung, Ziel, Auslöser und Kapazität"
+          ],
+          [
+            "Sicherheitsbedingte Unterstützung",
+            "Vereinbarter Spezialanbieter",
+            "Auslöser, Befugnisse, Finanzierung und Durchführbarkeit"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "abschnitt-7",
+      "title": "Versicherung und Versorgung gemeinsam organisieren",
+      "body": "<p>EXOBASIS koordiniert die beauftragte Vorbereitung rund um Krankenversicherung und tatsächliche Versorgung: Bedarfsaufnahme, Abstimmung mit zuständigen Trägern und Fachanbietern, Kontakte zu Einrichtungen, Dokumente, Reise und Ankunft. Versicherungsverträge und medizinische Leistungen werden bei den dafür zuständigen Anbietern vereinbart.</p><p>Am Ende sollen die entscheidenden Fragen beantwortet sein: Wo wirst du behandelt, wie erhältst du Zugang, wer trägt die Kosten und was tut deine Familie bei einer Änderung? Beschreibe in deiner Anfrage zunächst Ziel, Aufenthaltsdauer und organisatorischen Bedarf. Gesundheitsunterlagen werden anschließend gezielt über den vereinbarten Weg aufgenommen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/familie-unternehmen/\" data-route=\"/de/leistungen/familie-unternehmen/\"><span>Familie und Unternehmen handlungsfähig halten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Eigenständige deutsche Neuredaktion nach PB-D65 aus Originalbriefing, DACH-Recherche und gelesenen Fachquellen.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Welche Krankenversicherung passt zu deiner Auswanderung?"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Aufnahme, Vorerkrankungen und „ohne Wohnsitz“ konkret beantworten"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Kannst du die benötigte Behandlung am Standort erhalten?"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Medikamente und Pflege über den Wechsel hinweg fortführen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Kostenübernahme und verfügbare Mittel vorbereiten"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Rücktransport und politische Evakuierung sind verschiedene Leistungen"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Versicherung und Versorgung gemeinsam organisieren"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 642,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 643,
+        "target": "/de/leistungen/ankunft-organisieren/",
+        "label": "Ankunft im Zielland organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 641,
+        "target": "/de/wissen/familie-alltag/pflege-medikamente/",
+        "label": "Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Pflege und medizinische Abhängigkeiten",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 645,
+        "target": "/de/leistungen/aktivierung-notfallkoordination/",
+        "label": "Vereinbarte Aktivierung und Notfallkoordination",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vereinbarten Fall aktivieren",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 644,
+        "target": "/de/leistungen/familie-unternehmen/",
+        "label": "Familie und Unternehmen handlungsfähig halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 646,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      }
+    ],
+    "seeding": [],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Krankenversicherung im Ausland: auch die Versorgung sichern"
+}

@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/family-life-abroad/health-cover-care/",
+  "lang": "en",
+  "title": "Health cover and care abroad",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-90e4e6a344ac37"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-3bc0ec82293695"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-be7b4f69cc6f25"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Expat health insurance and care abroad | EXOBASIS",
+  "description": "Connect international health insurance with available treatment, medication, payment and medical transport. Prepare care before choosing a home abroad.",
+  "intro": "<p>International health insurance is one part of protecting your family abroad. You also need a provider who can deliver the treatment, a way to reach them and a workable payment process. If someone depends on regular care, those arrangements can decide whether a country is suitable at all.</p><p>Prepare the medical needs and the intended length of stay together. A short visit, a retained second base and permanent relocation can require different cover and different healthcare registration.</p>",
+  "primary": {
+    "label": "Arrange care and health-cover preparation",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "Health insurance abroad: make sure your family can get the care it needs",
+    "facts": [
+      [
+        "Cover",
+        "The insurer’s accepted terms for your actual circumstances."
+      ],
+      [
+        "Care",
+        "An identified provider and a practical route to treatment."
+      ],
+      [
+        "Access",
+        "Payment, documents and authorised help available when needed."
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notebook and pen, symbolising organised preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Start with the care that must continue",
+      "body": "<p>List each person’s ongoing conditions, prescribed medicines, scheduled treatment, mobility needs and daily assistance. Ask the treating clinician for the information a receiving provider needs: diagnosis, treatment history, current medication and relevant test results. A concise medical summary is easier to use than a folder of unlabelled reports.</p><p>Then define the stay. How long might you remain abroad? Will you return for treatment? Could your employer’s cover end during the transition? The answers determine which insurance and care arrangements need to begin before the existing ones stop.</p><p>For a temporary European stay, an eligible GHIC or EHIC can support medically necessary state healthcare under the relevant arrangements. NHS guidance says specialised care such as dialysis or chemotherapy needs advance agreement because local capacity may not be available. Eligibility must still exist at the time of treatment.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">NHS: GHIC and EHIC cover, eligibility and treatment arrangements</a>.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Compare what an insurer has actually accepted",
+      "body": "<p>When choosing expat health insurance, compare the accepted terms for your family, not only the premium. Give the insurer the required medical information accurately and obtain the decision in writing before ending existing cover. A quotation, an application and an issued policy can represent different stages.</p><table><caption>Questions that change how a policy works</caption><thead><tr><th scope=\"col\">Policy point</th><th scope=\"col\">Practical consequence</th></tr></thead><tbody><tr><th scope=\"row\">Country and residence eligibility</th><td>The policy must cover the place you will live and the duration or pattern of stays.</td></tr><tr><th scope=\"row\">Pre-existing conditions</th><td>Read the insurer’s acceptance, exclusions, additional terms or waiting periods for the disclosed condition.</td></tr><tr><th scope=\"row\">Inpatient and outpatient care</th><td>A hospital benefit may leave routine consultations, medicines or ongoing therapy outside the purchased cover.</td></tr><tr><th scope=\"row\">Limits and excesses</th><td>Annual, condition-specific and per-treatment limits determine what you may need to pay yourself.</td></tr><tr><th scope=\"row\">Authorisation and provider network</th><td>Confirm when approval is required and which hospitals can bill the insurer directly.</td></tr><tr><th scope=\"row\">War and security events</th><td>Read the exclusions, any special cover and the consequences of travelling against official advice.</td></tr></tbody></table><p>Match the decision to the likely use. A lower premium can be a poor fit if the treatment your child regularly needs is excluded. A comprehensive policy can still require approval before a particular admission. Keep the accepted schedule and wording with the emergency contact details.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Find the provider, then choose a practical address",
+      "body": "<p>Identify the actual hospital, specialist or care provider for the need in question. Confirm the service, whether they can accept the patient, the referral process, the language used and how appointments work. Check the journey from the neighbourhood where you intend to live, including mobility or transport requirements.</p><p>Separate planned care from urgent care. You may use one provider for routine follow-up and another for emergencies. Ask how records are shared and who takes over if the usual doctor is unavailable. For supported living, confirm the people and hours available, equipment, access within the home and replacement care.</p><p>This is why housing and healthcare should be selected together. EXOBASIS can organise provider enquiries, appointments and accommodation work around the confirmed needs, rather than leaving the medical arrangements until after you sign a lease.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/countries/\" data-route=\"/en/countries/\"><span>Countries and options</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/arrange-arrival/\" data-route=\"/en/services/arrange-arrival/\"><span>Arrange your arrival abroad</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-4",
+      "title": "Carry medicines lawfully and arrange the next supply",
+      "body": "<p>Ask your clinician for a prescription and medication summary showing the active ingredient, dose and relevant medical need. Establish how the medicine will be obtained at the destination, whether the prescribed preparation is available and what to do if local dispensing requires a new consultation.</p><p>Controlled medicines have country-specific import rules. The International Narcotics Control Board explains that documentation and quantity limits differ and directs travellers to the competent authority of the destination or transit country. Confirm the actual rule for the medicine and itinerary; a prescription from home may be only one of the required documents.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.incb.org/incb/en/travellers/general-information.html\">INCB: travellers carrying controlled medicines</a>.</p><p>For temperature-sensitive medicine or powered medical equipment, agree the transport and storage plan with the clinical team. Connect that plan to airline acceptance, accommodation power and the time before the next supply. Arrange sufficient continuity without changing treatment on your own.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/family-life-abroad/care-medication/\" data-route=\"/en/knowledge/family-life-abroad/care-medication/\"><span>Care needs, medication and medical dependencies when moving</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-5",
+      "title": "Keep money available while treatment is authorised",
+      "body": "<p>Find out whether the provider offers direct billing for your policy and treatment. If reimbursement applies, you may need to pay first and claim later. Even with direct billing, an excess, excluded service or deposit can require accessible funds.</p><p>For a GHIC or EHIC visit, local patient charges can still apply, and the card does not cover private treatment or medical repatriation. NHS guidance advises keeping private travel and medical insurance for the trip alongside the applicable card.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">NHS: what your card covers and claiming treatment costs</a>.</p><p>Keep a payment method that an authorised person can use, the assistance contact, policy number and instructions for obtaining authorisation. Save invoices, receipts and clinical documents for the claim. If your main bank or phone is unavailable, the care plan still needs an accessible route to the money.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Medical transport and political evacuation are different arrangements",
+      "body": "<p>Medical transport follows a clinical need. Political or security evacuation responds to a qualifying security event under its own terms. Repatriation may mean transport to a home country, while another contract may provide transport to a suitable treatment facility. The destination, decision-maker and approval process matter as much as the benefit name.</p><p>Some assistance is sold as a service membership rather than an insurance policy. For example, the Global Rescue Member Services Agreement makes security evacuation a separately purchased upgrade and conditions it on a qualifying event, a timely request, access and transport safety. That is a particular provider’s contract, not a general rule for all medical evacuation insurance.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.globalrescue.com/grcom/grmkt_resources/pdfs/legal_pdfs/gr-consumer-msa.pdf\">Global Rescue: Member Services Agreement</a>.</p><p>Before relying on a service, establish who can request it if you are unable to speak, who authorises the transport, where it can take you and whether family accompaniment is included. Ask whether you must use the provider’s arrangements: booking transport independently can affect reimbursement or service eligibility.</p><p>If war closes airspace or makes movement unsafe, a financial benefit and a physically available journey are separate matters. Connect the medical plan with current local instructions, carrier information and the <a href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">family contingency plan</a>.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/activation-emergency-coordination/\" data-route=\"/en/services/activation-emergency-coordination/\"><span>Agreed activation and emergency coordination</span><span aria-hidden=\"true\">→</span></a></div>",
+      "criteria": {
+        "title": "Different services require different arrangements",
+        "headers": [
+          "Service",
+          "Responsible decision",
+          "Confirm separately"
+        ],
+        "rows": [
+          [
+            "Treatment",
+            "Medical provider and payer",
+            "Admission and payment arrangements"
+          ],
+          [
+            "Medical transport",
+            "Clinical and contractual decision-makers",
+            "Suitability, destination and capacity"
+          ],
+          [
+            "Security-related assistance",
+            "The agreed specialist provider",
+            "Trigger, authority, funding and feasibility"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-7",
+      "title": "Arrange care as part of the move",
+      "body": "<p>EXOBASIS brings the clinical requirements, specialist and insurer enquiries, available providers, accommodation and arrival timetable together. We organise the agreed appointments, documents, local arrangements and follow-up, with the relevant medical and insurance professionals responsible for their decisions.</p><p>You receive a practical care arrangement: who provides what, how to get there, how payment works, where the records are and who can act if the main organiser is unavailable. Tell us the needs that cannot be interrupted and your intended country or shortlist.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/family-business-continuity/\" data-route=\"/en/services/family-business-continuity/\"><span>Keep your family and business functioning</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Independent English redraft for PB-D65 from original briefs, market research and cited primary sources.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Establish needs, duration and relevant preconditions"
+      },
+      {
+        "id": "section-2",
+        "title": "Verify policy acceptance and terms"
+      },
+      {
+        "id": "section-3",
+        "title": "Plan accessible care at the right location"
+      },
+      {
+        "id": "section-4",
+        "title": "Maintain medication and ongoing support"
+      },
+      {
+        "id": "section-5",
+        "title": "Prepare billing and necessary liquidity"
+      },
+      {
+        "id": "section-6",
+        "title": "Separate medical repatriation from security assistance"
+      },
+      {
+        "id": "section-7",
+        "title": "Organise care access as part of your preparations"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 651,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-3"
+      },
+      {
+        "line": 652,
+        "target": "/en/services/arrange-arrival/",
+        "label": "Arrange your arrival abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#section-3"
+      },
+      {
+        "line": 650,
+        "target": "/en/knowledge/family-life-abroad/care-medication/",
+        "label": "Care needs, medication and medical dependencies when moving",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Pflege und medizinische Abhängigkeiten",
+        "position": "#section-4"
+      },
+      {
+        "line": 654,
+        "target": "/en/services/activation-emergency-coordination/",
+        "label": "Agreed activation and emergency coordination",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vereinbarten Fall aktivieren",
+        "position": "#section-6"
+      },
+      {
+        "line": 653,
+        "target": "/en/services/family-business-continuity/",
+        "label": "Keep your family and business functioning",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#section-7"
+      },
+      {
+        "line": 655,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      }
+    ],
+    "seeding": [
+      "EN11",
+      "EN13"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-27",
+    "noPublication": true
+  },
+  "displayTitle": "Health insurance abroad: make sure your family can get the care it needs"
+}

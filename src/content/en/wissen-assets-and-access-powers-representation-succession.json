@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/assets-and-access/powers-representation-succession/",
+  "lang": "en",
+  "title": "Powers of attorney, representation and succession abroad",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-b0831c4fe780e7"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-2742a7c4989121"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-e37b182705c78e"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Power of attorney abroad and family succession | EXOBASIS",
+  "description": "Prepare accepted powers of attorney, practical access and succession arrangements across the UK, UAE and other countries where your family holds responsibilities.",
+  "intro": "<p>If you are in hospital, unreachable or unable to make decisions, somebody may need to pay the household bills, speak to a bank or keep your business moving. Being your partner or having your phone does not settle the authority to do those things.</p><p>A workable arrangement connects the right legal instrument with the institution that must accept it, the evidence your representative needs and a practical way to act. Succession after death needs its own preparation alongside authority during your lifetime.</p>",
+  "primary": {
+    "label": "Arrange representation and family continuity",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "Power of attorney abroad: who can act if you cannot?",
+    "facts": [
+      [
+        "Authority",
+        "The right person, instrument and permitted action."
+      ],
+      [
+        "Acceptance",
+        "The receiving institution’s requirements established."
+      ],
+      [
+        "Continuity",
+        "Documents, access and succession connected without confusion."
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notebook and pen, symbolising organised preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Name the decisions before choosing a document",
+      "body": "<p>List the actions that would matter during an absence or loss of capacity. Be specific: pay a care invoice, manage a tenancy, sell a particular property, instruct an accountant or approve a company payment. Then identify who should act, who can replace them and what limits you want.</p><p>Separate personal money, healthcare, property, company management and shareholder decisions. They can involve different people and different legal powers. A family representative may know your wishes but still need an accepted bank mandate or a separate company authority.</p>",
+      "criteria": {
+        "title": "Connect each task to the person and institution",
+        "headers": [
+          "Task",
+          "The preparation needed"
+        ],
+        "rows": [
+          [
+            "Pay household expenses",
+            "Suitable authority for the account and the bank’s accepted operating process."
+          ],
+          [
+            "Make a health or care decision",
+            "The relevant health decision-making instrument and any conditions on when it applies."
+          ],
+          [
+            "Deal with a property",
+            "Powers that cover the intended transaction and the form accepted locally."
+          ],
+          [
+            "Keep the business trading",
+            "Company governance, delegated decisions, payment authority and records."
+          ],
+          [
+            "Administer an estate",
+            "The relevant will, executor or administrator and the required estate process."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-2",
+      "title": "UK powers of attorney: use the correct jurisdiction",
+      "body": "<h3>England and Wales</h3><p>A lasting power of attorney has two types: property and financial affairs, and health and welfare. It must be registered before use. A property and financial affairs LPA can be used while you still have capacity if you give permission; health and welfare decisions under an LPA are made when you cannot make the particular decision yourself. Arrange the instrument while you have capacity to make it.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.gov.uk/government/publications/lasting-power-of-attorney-forms/lp12-make-and-register-your-lasting-power-of-attorney-a-guide-web-version\">Office of the Public Guardian: making and registering an LPA</a>.</p><h3>Scotland</h3><p>Scotland has its own power-of-attorney and registration process. The Office of the Public Guardian describes a written instrument with a certificate signed by an appropriately qualified Scottish legal professional or a registered UK medical doctor with a licence to practise. The powers and the point at which they operate need to match the intended financial or welfare decisions.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.publicguardian-scotland.gov.uk/power-of-attorney/power-of-attorney/what-is-a-power-of-attorney\">Office of the Public Guardian Scotland: power of attorney</a>.</p><h3>Northern Ireland</h3><p>An enduring power of attorney in Northern Ireland covers financial affairs. It must be made while you have capacity; the attorney must register it with the Office of Care and Protection when the relevant incapacity circumstances arise. The Northern Ireland guidance expressly distinguishes it from the health and welfare LPA used in England and Wales.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.nidirect.gov.uk/articles/managing-your-affairs-and-enduring-power-attorney\">nidirect: enduring power of attorney</a>.</p><p>Choose the instrument against your actual jurisdiction and intended use. A document prepared for one UK system should not simply be relabelled for another.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Using authority in the UAE or another country",
+      "body": "<p>For a power of attorney abroad, start with the organisation that will receive it. Ask the bank, land authority or other body to identify the permitted actions, required wording, accepted language, certification and identification. Have the appropriate legal professional prepare the instrument for that task before signing it.</p><p>In the UAE, distinguish a locally prepared instrument from a document executed abroad. The notarial or legal process for the instrument and any Ministry of Foreign Affairs attestation are different steps. UAE MoFA describes attestation as certifying the authenticity of signatures and seals; that does not itself determine whether the bank accepts the powers for the proposed transaction.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.mofa.gov.ae/en/services/attestation\">UAE Ministry of Foreign Affairs: document attestation</a>.</p><p>Ask the receiving organisation to confirm acceptance of the completed document, whether it needs the original or a certified copy, and the representative’s identity and access arrangements. Record the answer against the particular institution and task.</p><p>If you own property, specify whether the representative can manage it, sign a lease, authorise repairs or sell it. These are different powers with different consequences. Independent local review should connect the authority to the actual property and intended transaction.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/apostilles-translations-documents/\" data-route=\"/en/services/apostilles-translations-documents/\"><span>Arrange apostilles, translations and documents</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-4",
+      "title": "Digital legacy planning: permission and access must work together",
+      "body": "<p>Your representative needs to know where the relevant account, document and contact can be found. Keep an inventory of institutions, business systems, important files and the official processes for authority, recovery or death notification. Give the right people access to the inventory and keep sensitive material under appropriate controls.</p><p>Legal authority does not automatically supply a login, and possession of a password does not establish permission to act. Use the institution’s representative, delegate or recovery process and its supported account features. Keep personal accounts separate from business administration where responsibilities differ.</p><p>For digital legacy planning, identify who should preserve, transfer or close each type of record, and which provider process applies. Store instructions and the location of legal documents so they remain usable if your main phone or email is lost. The <a href=\"/en/knowledge/phone-email-access-failure/\">recovery-access guide</a> deals with that technical dependency.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/residence-and-documents/emergency-documents/\" data-route=\"/en/knowledge/residence-and-documents/emergency-documents/\"><span>Emergency documents your family can actually use</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/phone-email-access-failure/\" data-route=\"/en/knowledge/phone-email-access-failure/\"><span>When your phone, SIM and main email fail</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-5",
+      "title": "Succession starts with the estate, not the login",
+      "body": "<p>Death changes the task from acting for a living person to administering an estate. Identify the assets, ownership, liabilities, beneficiaries and countries involved. Have the relevant specialists coordinate wills, any nominations and the required estate procedures so one document does not unintentionally disrupt another.</p><p>For UAE-linked assets, confirm the applicable succession route and the bank’s or registry’s requirements for the actual asset and holder. The UAE Government describes specific civil personal-status arrangements for non-Muslims; nationality, applicable law and the instrument chosen belong in the legal assessment.</p><p class=\"exb-source-note\">Source: <a href=\"https://u.ae/en/information-and-services/social-affairs/Life-events/divorce-in-the-uae\">UAE Government: civil personal status for non-Muslims</a>.</p><h3>Former UK residents: include the residence history</h3><p>Moving to the UAE or another country does not automatically end UK inheritance-tax exposure. From 6 April 2025, the long-term UK residence rules can bring non-UK assets within scope. HMRC describes the central test as UK tax residence for at least 10 of the previous 20 tax years.</p><p>For people within those rules, long-term status can continue after departure for a period linked to residence history: HMRC gives three years for 10 to 13 previous years of UK residence, four for 14 and five for 15, extending up to ten tax years. Transitional rules, including circumstances tied to 30 October 2024 and non-residence in 2025/26, can change the result. Trusts also have specific rules.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.gov.uk/guidance/inheritance-tax-if-youre-a-long-term-uk-resident\">HMRC: Inheritance Tax for long-term UK residents</a>.</p><p>Have a qualified UK tax specialist apply the tax-year record, transition rules, asset ownership, trusts and relevant treaty position. Keep that assessment with the succession work. The <a href=\"/en/knowledge/business-and-income/departure-tax/\">departure and tax guide</a> develops the tax question; here it matters because the estate plan must reflect the obligations that actually remain.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/asset-structures/\" data-route=\"/en/services/asset-structures/\"><span>Arrange asset structures, custody and succession</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-6",
+      "title": "Walk through the process with the person who will act",
+      "body": "<p>Test the arrangement while you can still correct it. Ask the representative to locate the instrument, identify its permitted actions, contact the institution through the agreed route and establish what evidence they would submit. Use a safe authorised task or a documented walkthrough rather than pretending that incapacity or death has occurred.</p><p>The useful result is specific: the representative is known to the bank, the required document form has been accepted, the relevant records can be found and the payment process is understood. A document stored in a drawer is an earlier stage of preparation.</p><p>Repeat the review after a move, new asset, relationship change, change of representative or material update to the provider’s process. Also confirm what happens if your first-choice representative is unavailable.</p>"
+    },
+    {
+      "id": "section-7",
+      "title": "Coordinate the legal work and the practical handover",
+      "body": "<p>EXOBASIS organises the task and asset inventory, coordinates the required legal and notarial work, arranges translations and authentication, follows up institution acceptance and prepares the practical handover. We connect family representation with the business and payment arrangements it needs to support.</p><p>You can commission a defined representation task, succession-related organisation or a wider family and business continuity engagement. Tell us which countries, assets and decisions are involved and who you want to be able to help. The first task is to make the authority precise enough to work.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/family-business-continuity/\" data-route=\"/en/services/family-business-continuity/\"><span>Keep your family and business functioning</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Independent English redraft for PB-D65 from original briefs, market research and cited primary sources.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Identify people, decisions and specific actions"
+      },
+      {
+        "id": "section-2",
+        "title": "Establish or verify the appropriate authority"
+      },
+      {
+        "id": "section-3",
+        "title": "Check recognition by country and receiving institution"
+      },
+      {
+        "id": "section-4",
+        "title": "Connect documents with authorised access"
+      },
+      {
+        "id": "section-5",
+        "title": "Prepare succession as a separate legal matter"
+      },
+      {
+        "id": "section-6",
+        "title": "Walk through the authorised process together"
+      },
+      {
+        "id": "section-7",
+        "title": "Coordinate legal and organisational work"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 612,
+        "target": "/en/services/apostilles-translations-documents/",
+        "label": "Arrange apostilles, translations and documents",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Urkunden und Verwendbarkeit",
+        "position": "#section-3"
+      },
+      {
+        "line": 613,
+        "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+        "label": "Emergency documents your family can actually use",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt nutzbare Unterlagen für Berechtigte",
+        "position": "#section-4"
+      },
+      {
+        "line": 614,
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "label": "When your phone, SIM and main email fail",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#section-4"
+      },
+      {
+        "line": 615,
+        "target": "/en/services/asset-structures/",
+        "label": "Arrange asset structures, custody and succession",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt fachliche Strukturierungsarbeit organisieren",
+        "position": "#section-5"
+      },
+      {
+        "line": 616,
+        "target": "/en/services/family-business-continuity/",
+        "label": "Keep your family and business functioning",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#section-7"
+      },
+      {
+        "line": 617,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      }
+    ],
+    "seeding": [
+      "EN13"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-27",
+    "noPublication": true
+  },
+  "displayTitle": "Power of attorney abroad: who can act if you cannot?"
+}

@@ -1,0 +1,142 @@
+{
+  "route": "/de/datenschutz/",
+  "lang": "de",
+  "title": "Datenschutz",
+  "parent": "/de/",
+  "translation": "/en/privacy/",
+  "model": "recht-funktion",
+  "schemaVersion": 1,
+  "kind": "legal",
+  "reviewStatus": "blocked_required_facts",
+  "releaseStatus": "blocked_required_facts",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-e8fa52d7106d18",
+      "startLine": 2373
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-2dc42f47e43ad4",
+      "startLine": 3301
+    }
+  ],
+  "eyebrow": "EXOBASIS / Rechtliche Informationen",
+  "seoTitle": "Datenschutz | EXOBASIS",
+  "description": "Datenwege bei Besuch, Erstanfrage und Zusammenarbeit sowie deine Rechte.",
+  "intro": "<p>Beim Besuch der Website, bei einer kurzen Anfrage und bei einer späteren Zusammenarbeit entstehen unterschiedliche Datenwege. Hier erfährst du, wie der Erstkontakt abgegrenzt ist und welche Rechte je nach anwendbarem Recht in Betracht kommen.</p>",
+  "sections": [
+    {
+      "id": "p-verantwortlicher",
+      "title": "Verantwortlich für die Verarbeitung",
+      "body": "<p>Websitebesuch, organisatorische Anfrage und spätere vertrauliche Unterlagen sind unterschiedliche Vorgänge. Die verantwortliche Stelle für die jeweiligen Daten muss eindeutig dem tatsächlichen Anbieter zugeordnet sein. Ihre vollständige Identität, Anschrift und der erreichbare Datenschutzkontakt gehören hierhin und müssen mit den <a href=\"/de/anbieterinformationen/\">Anbieterinformationen</a> übereinstimmen.</p><p>Ein technischer Host oder Versanddienst ist nicht allein deshalb der Verantwortliche für die Beratungsleistung. Bei direkter Zusammenarbeit mit einer Fachstelle ist ihre eigene Rolle gesondert zu beachten.</p>",
+      "reviewRequirements": [
+        "Verantwortlicher Rechtsträger, Anschrift und Datenschutzkontakt",
+        "Anwendbare Rechtsräume; etwaiger Vertreter oder Datenschutzbeauftragter"
+      ]
+    },
+    {
+      "id": "p-kontaktformular",
+      "title": "Wenn du eine Anfrage sendest",
+      "body": "<p>Die reguläre <a href=\"/de/anfrage/\">Diskrete Anfrage</a> benötigt eine erreichbare E-Mail-Adresse und die grobe Auswahl des Anliegens. Name und Nachricht sind freiwillig. Nutze diesen Weg nicht für Ausweisdokumente, medizinische Angaben, Finanzunterlagen oder Zugangsschlüssel. Der Erstkontakt dient der Zuordnung und Beantwortung einer Anfrage, nicht automatisch einer umfassenden Fallaufnahme.</p><p>Für das Kurzformular ist ein getrennter serverseitiger Mailversand an das betreute Anfragepostfach vorgesehen. Sein Text wird nicht zusätzlich als Formularlog oder Volltextarchiv gespeichert. Nach bestätigtem Transport wird eine kurzlebige, an die Sprache gebundene Einmal-Bestätigung ausgegeben; sie beweist weder Zustellung in das Postfach noch einen Auftrag. Eine direkt aufgerufene Bestätigungsseite ist kein Nachweis für eine Einsendung.</p><p>Eine direkte E-Mail, die bewusst geöffnete Terminbuchung und ein freiwilliger verschlüsselter Erstkontakt haben jeweils andere Empfänger und Datenwege. Für eine spätere persönliche Fallaufnahme wird ein eigener geschützter Austausch vereinbart. Zweck, Rechtsgrundlage und Empfänger der tatsächlich aktivierten Kontaktwege sind vor öffentlicher Nutzung konkret zu benennen.</p>",
+      "reviewRequirements": [
+        "Realer Formular-/E-Mail-Empfänger und Zweck-/Rechtsgrundlagenzuordnung",
+        "Tatsächliche Übermittlung, Statusbindung und gewählte optionale Kontaktkanäle"
+      ]
+    },
+    {
+      "id": "p-technik",
+      "title": "Technische Verarbeitung auf der Website",
+      "body": "<p>Die Inhaltsseiten sind statische HTML-Seiten mit lokal bereitgestellten Darstellungsdateien. Der Kurzformular-Anschluss ist ein getrennter serverseitiger Vorgang. Für seine gewöhnliche Ausführung sind keine Werbepixel, CAPTCHA-Dienste, Session-Replays oder Aufzeichnungen des Formularkörpers vorgesehen. Externe Quellenlinks werden erst beim Anklicken geöffnet und nicht im Hintergrund eingebettet.</p><p>Ein produktiver Host kann technische Zugriffs- oder Fehlerprotokolle führen. Welche Daten dabei tatsächlich anfallen, auf welcher Grundlage sie verarbeitet und wann sie gelöscht werden, hängt vom konkreten Hostingbetrieb ab. Aus der lokalen Websitefassung folgt keine Behauptung, der Betrieb sei insgesamt protokoll- oder cookiefrei.</p>",
+      "reviewRequirements": [
+        "Produktivhost, Serverprotokolle, Zwecke und Löschfristen",
+        "Tatsächlich nötige Cookies/Sitzungen und jede etwaige spätere Zusatzverarbeitung"
+      ]
+    },
+    {
+      "id": "p-dienstleister",
+      "title": "Dienstleister, Empfänger und Länder",
+      "body": "<p>Die technische Auslieferung der Website, der SMTP-Versand einer Erstanfrage, eine bewusst geöffnete Terminbuchung und ein freiwilliger geschützter Kontaktweg sind verschiedene Verarbeitungsvorgänge. Ein späterer Fachausführer soll nur die Angaben erhalten, die für seine beauftragte Aufgabe gebraucht werden. Wie der vertrauliche Austausch vom Erstkontakt getrennt ist, erläutert <a href=\"/de/diskretion/\">Diskretion und geschützte Zusammenarbeit</a>.</p><p>Für jeden tatsächlich eingesetzten Dienst sind Betreiber, Rolle, Verarbeitungsort und gegebenenfalls die Rechtsgrundlage einer Übermittlung zu klären. Ein noch nicht aktivierter Kalender, eine unbestätigte CryptPad-Instanz oder ein bloß vorgesehener Maildienst wird hier nicht als bestehender Empfänger ausgegeben.</p>",
+      "reviewRequirements": [
+        "Konkrete Dienstleister, Instanzen und Empfängerländer",
+        "Auftragsverhältnisse und Übermittlungsgrundlagen",
+        "Bestätigter vollständiger Datenfluss, keine bloße Zielarchitektur"
+      ]
+    },
+    {
+      "id": "p-rechte",
+      "title": "Deine Rechte und ihre Ausübung",
+      "body": "<p>Sofern die Datenschutz-Grundverordnung auf einen Vorgang anwendbar ist, können je nach Voraussetzung Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit und Widerspruch verlangt werden. Ein Widerruf betrifft nur eine Verarbeitung, die auf einer Einwilligung beruht; er beseitigt keine davon unabhängige Pflicht zur Aufbewahrung etwa von Rechnungsdaten. Berechtigung und Identität einer anfragenden Person werden mit möglichst wenigen zusätzlichen Angaben geprüft.</p><p class=\"exb-citation\">Rechtsrahmen: <a href=\"https://commission.europa.eu/law/law-topic/data-protection/information-individuals_en\" rel=\"noreferrer\">Europäische Kommission: Rechte betroffener Personen</a>.</p><p>Die zuständige Beschwerdestelle hängt vom verantwortlichen Anbieter und dem anwendbaren Rechtsrahmen ab, nicht von der Sprache der Anfrage. Der erreichbare Datenschutzkontakt muss vor öffentlicher Nutzung angegeben werden.</p>",
+      "reviewRequirements": [
+        "Reale Auskunfts- und Beschwerdekontakte",
+        "Zuständige Aufsichtsbehörde und jeweils anwendbarer Rechteumfang",
+        "Berechtigungsprüfung und tatsächlicher Bearbeitungsweg"
+      ]
+    },
+    {
+      "id": "p-aufbewahrung",
+      "title": "Aufbewahrung und Datenschutzkontakt",
+      "body": "<p>Ein unbeantworteter Erstkontakt, ein laufender Auftrag, eine Rechnung, eine geschützte Fallunterlage und ein technisches Protokoll haben unterschiedliche Zwecke. Daten werden nach dem jeweiligen Zweck, nötigen Nachweisen und geltenden Aufbewahrungspflichten behandelt; auch Sicherungen benötigen einen definierten Umgang. Für diese Kategorien sind die tatsächlichen Fristen oder nachvollziehbare Löschkriterien im betriebenen Verfahren anzugeben. Eine allgemeine Tageszahl wäre nicht verlässlich.</p><p>Stelle eine erste Datenschutzfrage über <a href=\"/de/anfrage/\">Diskrete Anfrage</a>, ohne dort eine Ausweiskopie hochzuladen. Falls für ein Ersuchen ein Identitätsnachweis erforderlich wird, stimmen wir einen geeigneten Weg ab. Für sensible Folgeunterlagen gelten die Regeln zur <a href=\"/de/diskretion/\">geschützten Zusammenarbeit</a>.</p>",
+      "reviewRequirements": [
+        "Kategorienbezogene Speicher-/Löschfristen beziehungsweise nachvollziehbare Kriterien",
+        "Rechtliche Aufbewahrung und Umgang mit Sicherungen",
+        "Bestätigter Datenschutzkontakt"
+      ]
+    }
+  ],
+  "linkPlan": [
+    {
+      "sourceLine": 822,
+      "target": "/de/",
+      "label": "EXOBASIS: Eine eigene Basis außerhalb des Herkunftslands",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 824,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 825,
+      "target": "/de/diskretion/",
+      "label": "Diskretion und geschützte Zusammenarbeit",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Am Anfrageübergang: geschützte Zusammenarbeit"
+    },
+    {
+      "sourceLine": 826,
+      "target": "/de/anbieterinformationen/",
+      "label": "Anbieterinformationen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Rechtliche Anbieterzuordnung"
+    },
+    {
+      "sourceLine": 827,
+      "target": "/en/privacy/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    }
+  ],
+  "legalType": "privacy",
+  "releaseBlockers": [
+    "Verantwortlicher Rechtsträger, Anschrift und Datenschutzkontakt",
+    "Anwendbare Rechtsräume; etwaiger Vertreter oder Datenschutzbeauftragter",
+    "Realer Formular-/E-Mail-Empfänger und Zweck-/Rechtsgrundlagenzuordnung",
+    "Tatsächliche Übermittlung, Statusbindung und gewählte optionale Kontaktkanäle",
+    "Produktivhost, Serverprotokolle, Zwecke und Löschfristen",
+    "Tatsächlich nötige Cookies/Sitzungen und jede etwaige spätere Zusatzverarbeitung",
+    "Konkrete Dienstleister, Instanzen und Empfängerländer",
+    "Auftragsverhältnisse und Übermittlungsgrundlagen",
+    "Bestätigter vollständiger Datenfluss, keine bloße Zielarchitektur",
+    "Reale Auskunfts- und Beschwerdekontakte",
+    "Zuständige Aufsichtsbehörde und jeweils anwendbarer Rechteumfang",
+    "Berechtigungsprüfung und tatsächlicher Bearbeitungsweg",
+    "Kategorienbezogene Speicher-/Löschfristen beziehungsweise nachvollziehbare Kriterien",
+    "Rechtliche Aufbewahrung und Umgang mit Sicherungen",
+    "Bestätigter Datenschutzkontakt"
+  ]
+}

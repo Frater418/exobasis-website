@@ -1,0 +1,330 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/wiederzugang-telefon-email/",
+  "lang": "de",
+  "title": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-83b3cda7d24d63"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-9c582a81fcdcdb"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-c03d8090a6f068"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Dein Plan B / Wissen",
+  "seoTitle": "Ohne Handy und E-Mail: Wiederzugang vorbereiten | EXOBASIS",
+  "description": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen: So bereitest du berechtigten Zugang zu Geld, Dokumenten und Kontakten vor und testest die Ersatzwege.",
+  "intro": "<p>Dein Telefon ist weg. Das neue Gerät verlangt einen Code aus deiner E-Mail. Die E-Mail verlangt eine Bestätigung auf dem verlorenen Telefon. Gleichzeitig brauchst du die Bank-App, deine Reiseunterlagen und die Nummer eines Angehörigen. Aus einem Geräteverlust wird der Ausschluss aus mehreren Teilen deines Lebens.</p><p>Digitale Notfallvorsorge löst diese Abhängigkeiten vorher auf. Für jeden wichtigen Dienst brauchst du einen erlaubten Ersatzweg, die erforderlichen Identitätsnachweise und eine verständliche Anleitung. Entscheidend ist die Probe: Kommst du ohne Haupttelefon und Haupt-E-Mail wieder an die Dinge, die du wirklich brauchst?</p>",
+  "primary": {
+    "label": "Kommunikation und Wiederzugang einrichten lassen",
+    "intent": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen"
+  },
+  "knowledgeSummary": {
+    "title": "Ein Geräteverlust darf nicht alles blockieren",
+    "facts": [
+      [
+        "Abhängigkeiten",
+        "Telefon, SIM, E-Mail und Cloud verbinden"
+      ],
+      [
+        "Ersatzwege",
+        "Passend zum tatsächlichen Anbieter"
+      ],
+      [
+        "Nachweis",
+        "Eine begrenzte Aufgabe erfolgreich testen"
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift als Symbol für geordnete Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Welcher Ausfall liegt vor?",
+      "body": "<p>Verlust, Defekt, gesperrte SIM und gesperrtes Postfach brauchen unterschiedliche Antworten. Ist nur das Telefon beschädigt, kann ein eingerichteter Ersatzfaktor reichen. Fehlt der Zugriff auf die Rufnummer, hilft ein SMS-Code an genau diese Nummer zunächst nicht. Ist das Postfach gesperrt, führt die dort zugestellte Wiederherstellungsnachricht in denselben Engpass.</p><p>Bei Diebstahl hat zuerst die Absicherung Vorrang: Nutze die offiziellen Sperr- und Hilfswege des Mobilfunkanbieters, der Bank und der betroffenen Kontodienste. Halte diese Kontaktdaten auch außerhalb des Telefons erreichbar. Übernimm keine Telefonnummer aus einer ungeprüften Nachricht, die angeblich Hilfe beim Wiederzugang anbietet.</p><p>Eine bankseitige Kontosperre ist ein anderer Vorgang als ein verlorener Banking-Login. Ein neues Gerät beseitigt weder einen Identitätsprüfbedarf noch eine rechtliche Sperre. Die Vertiefung zum Kontozugang erklärt, wie Bankannahme, zulässige Verfügung und funktionierende Zahlungswege zusammenhängen. Auch eine politisch motivierte oder rechtlich angeordnete Einschränkung muss anhand des konkreten Vorgangs behandelt werden; ein technischer Fehler beweist ihren Anlass nicht.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\" data-route=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\"><span>Kontozugang und Zahlungsfähigkeit im Ausland</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Die gemeinsame Abhängigkeit finden",
+      "body": "<p>Beginne bei den Aufgaben: eine Unterkunft bezahlen, den Arztbrief finden, mit der Familie sprechen oder einen Arbeitsauftrag weiterführen. Verfolge für jede Aufgabe den Weg zurück zur Anmeldung und Wiederherstellung. So erkennst du, ob Bank, Dokumentenablage und E-Mail am selben Gerät, derselben Rufnummer oder demselben Cloudkonto hängen.</p><p>Zwei Telefone sind noch keine zwei unabhängigen Wege, wenn beide nur über dieselbe gesperrte Cloud eingerichtet werden können. Ein zweites E-Mail-Konto hilft wenig, wenn sein Passwort ausschließlich im unerreichbaren Hauptkonto liegt. Die Alternative muss genau die ausgefallene Abhängigkeit vermeiden.</p><p>Die Übersicht enthält Zuständigkeiten und Aufbewahrungsorte, keine Passwörter oder geheimen Wiederherstellungscodes. Das geheime Material wird getrennt geschützt. Ein Angehöriger soll die Anleitung finden können, ohne dadurch Zugriff auf sämtliche persönlichen Konten zu erhalten.</p>",
+      "criteria": {
+        "title": "Die Zugangsübersicht für deine wichtigsten Aufgaben",
+        "headers": [
+          "Aufgabe",
+          "Normaler Zugang",
+          "Vorbereiteter Ersatzweg",
+          "Gemeinsame Abhängigkeit",
+          "Wer darf handeln?"
+        ],
+        "rows": [
+          [
+            "Geld für den Alltag nutzen",
+            "Bankzugang und Freigabefaktor",
+            "Das von der Bank zugelassene Ersatzverfahren",
+            "Telefon, SIM oder Aktivierungsbrief",
+            "Du oder eine von der Bank anerkannte Vertretung"
+          ],
+          [
+            "Haupt-E-Mail öffnen",
+            "Passwort und zweiter Faktor",
+            "Vorher eingerichteter Faktor oder offizieller Recovery-Prozess",
+            "Rufnummer, Cloud oder anderes Postfach",
+            "Kontoinhaber; andere Rollen nur nach den Regeln des Dienstes"
+          ],
+          [
+            "Wichtige Unterlagen finden",
+            "Geschützte digitale Ablage",
+            "Vereinbarter alternativer Zugang oder geschützte Offline-Kopie",
+            "Haupt-E-Mail und Endgerät",
+            "Für diese Unterlagen berechtigte Person"
+          ],
+          [
+            "Familie oder Ansprechpartner erreichen",
+            "Telefon und gespeicherte Kontakte",
+            "Offline erreichbare Kontaktdaten und vereinbarter Rückkontakt",
+            "Gerät, Netz und Strom",
+            "Benannte Kontaktperson"
+          ],
+          [
+            "Ein digitales Recht nachweisen",
+            "Identitätsdienst oder Behördenkonto",
+            "Verfahren der zuständigen Stelle und passende Nachweise",
+            "Gerät, Rufnummer und Identitätsprüfung",
+            "Inhaber oder zulässige Vertretung"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Ersatzfaktor und Rückkontakt vorher einrichten",
+      "body": "<p>Erfasse zunächst, welche Ersatzverfahren dein tatsächlicher Anbieter zulässt. Möglich sind zum Beispiel ein vorher verbundenes zweites Gerät, ein geeigneter Sicherheitsschlüssel, geschützte Wiederherstellungscodes oder eine erneute Identitätsprüfung. NIST ordnet solche Verfahren fachlich ein. Welche davon in deinem Konto funktioniert, entscheidet die konkrete Einrichtung beim Dienst.</p><p>Ein Sicherheitsschlüssel in derselben Tasche wie das Telefon teilt dessen Verlustrisiko. Eine Anleitung nur in der gesperrten Cloud bleibt unerreichbar. Wähle Aufbewahrungsorte und berechtigte Personen daher nach dem Ausfall, den du abfangen willst. Dazu gehören die benötigte Software, ein geeignetes Ersatzgerät und der Weg, dieses Gerät ohne den ausgefallenen Hauptzugang in Betrieb zu nehmen.</p><p>Die Sparkasse beschreibt für S-pushTAN einen konkreten Unterschied: Über ein schon vor dem Verlust verbundenes zweites Telefon kannst du die Verbindung zum verlorenen Gerät entfernen. Fehlt diese Voraussetzung, verweist sie auf die Sperrung des Onlinebankings. Gerade dieses „vorher verbunden“ macht den Unterschied. Andere Banken und TAN-Verfahren haben eigene Regeln; halte ihre aktuelle Anleitung und Kontaktstelle fest.</p><p class=\"exb-source-note\"><a href=\"https://pages.nist.gov/800-63-4/sp800-63b.html\">NIST SP 800-63B-4: Wiederherstellung und Authentifikatoren</a> · <a href=\"https://www.sparkasse.de/pk/ratgeber/finanzplanung/finanzen-und-haushalt/handy-verloren.html\">Sparkasse: Smartphone-Verlust und Onlinebanking</a></p><h3>Wenn zusätzlich Netz oder Strom ausfallen</h3><p>Ein Ersatztelefon stellt kein ausgefallenes Mobilfunknetz wieder her. Vereinbare mit deiner Familie einen Rückkontakt und einen Treffpunkt für den Fall, dass digitale Nachrichten ausbleiben. Halte benötigte Rufnummern und wichtige lokale Informationen auch offline verfügbar; plane die Energieversorgung der notwendigen Geräte mit.</p><p>Eine Satellitenverbindung oder ein lokales Funknetz kann zu einem bestimmten Bedarf passen. Dafür müssen jedoch Strom, Reichweite beziehungsweise Empfangssicht, zulässiger Betrieb und eine erreichbare Gegenstelle zusammenpassen. Ein lokales Funknetz verbindet dich nicht automatisch mit einer weit entfernten Klinik oder EXOBASIS. Notfallkommunikation beginnt deshalb bei den Menschen und Aufgaben, die erreicht werden müssen, nicht beim Gerätekauf.</p><p class=\"exb-source-note\"><a href=\"https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/In-der-Krise-informiert-sein/in-der-krise-informiert-sein_node.html\">BBK: In der Krise informiert bleiben</a> · <a href=\"https://meshtastic.org/docs/introduction/\">Meshtastic: Funktionsweise lokaler Funknetze</a></p>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Identität, Befugnis und Geheimnisse getrennt behandeln",
+      "body": "<p>Eine Kontowiederherstellung muss dem Anbieter zeigen, dass die berechtigte Person handelt. Welche Dokumente, bisherigen Kontodaten oder weiteren Merkmale er verlangt, steht in seinem Verfahren. Eine Kopie des Ausweises allein genügt nicht automatisch. Übermittle solche Nachweise nur über den geprüften offiziellen Weg.</p><p>Ein Angehöriger kann die Anleitung heraussuchen, einen Termin organisieren oder die zuständige Stelle kontaktieren. Daraus folgt noch kein Recht, unter deinem Namen Bankgeschäfte auszuführen. Für solche Aufgaben brauchst du das passende Vertretungsinstrument und dessen Annahme beim Institut. Der Beitrag zu Vollmachten und Nachfolge erklärt diese rechtliche Seite.</p><p>Auch ein freigegebener Notfallzugriff auf einen Passwortmanager ersetzt keine Bankvollmacht. Prüfe bei solchen Funktionen den Umfang der Freigabe, Wartezeiten und Auswirkungen auf bestehende Zugänge. Bei Bitwarden unterscheidet sich etwa lesender Notfallzugriff von einer Übernahme, die das Masterpasswort ersetzt und bisherige Zwei-Schritt-Anmeldungen entfernt. Eine Übernahme eignet sich deshalb nicht als beiläufige Probe am produktiven Tresor.</p><p>Passwörter, Seeds, Bank-PINs und alleinige Wiederherstellungsschlüssel bleiben bei dir beziehungsweise in deiner dafür bestimmten sicheren Aufbewahrung. EXOBASIS braucht für die Planung die Abhängigkeiten und Zuständigkeiten, nicht deine Geheimnisse.</p><p class=\"exb-source-note\"><a href=\"https://bitwarden.com/help/emergency-access/\">Bitwarden: Umfang und Folgen des Notfallzugriffs</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Digitale Identität und Nachweise erreichbar halten",
+      "body": "<p>Recht, Nachweis und Login sind verschiedene Dinge. Ein bestehendes Aufenthaltsrecht verschwindet nicht allein wegen eines verlorenen Telefons. Trotzdem kannst du Schwierigkeiten bekommen, wenn du den erforderlichen digitalen Nachweis vor einer Reise nicht abrufen oder dem richtigen Dokument zuordnen kannst.</p><h3>ID Austria: Entscheidend ist der verbliebene Faktor</h3><p>Die offizielle, am 5. Oktober 2026 abgerufene Anleitung unterscheidet zwei Fälle. Hast du die Mobiltelefonnummer hinterlegt und noch Zugriff auf die dort eingehenden SMS, kannst du mit Benutzername und Signatur-Passwort eine TAN zur neuen Geräteverknüpfung anfordern. Eine nur gespeicherte Nummer ohne erreichbare SMS löst den Ausfall nicht.</p><p>Fehlen sowohl dieser Weg als auch andere verknüpfte Authentifizierungsfaktoren, nennt ID Austria derzeit eine neuerliche Registrierung. Prüfe also vor dem Verlust, welcher weitere Faktor tatsächlich eingerichtet und nutzbar ist. Ein vorhandenes Ersatztelefon allein ist noch keine vorbereitete ID Austria.</p><p class=\"exb-source-note\"><a href=\"https://www.id-austria.gv.at/de/verwalten/anmeldedaten-vergessen-oder-geraet-verloren\">ID Austria: Anmeldedaten vergessen oder Gerät verloren</a></p><h3>Online-Ausweis und ausländische Statuskonten</h3><p>Beim deutschen Online-Ausweis sind verlorenes Lesegerät und verlorene Ausweiskarte zu unterscheiden. Bei Ausweisverlust müssen Verlustmeldung und Sperrung der Online-Ausweisfunktion über die vorgesehenen Wege erfolgen. Halte Ausweis und PIN geschützt und getrennt; eine auf dem Telefon gespeicherte Kopie ersetzt die Ausweiskarte nicht.</p><p>Für Inhaber einer britischen eVisa muss das zum Reisen verwendete Dokument korrekt mit dem UKVI-Konto verbunden sein. Prüfe den digitalen Status und die Kontaktwege vor der Reise. Falls sowohl alte E-Mail als auch Telefonnummer fehlen, führt UKVI einen eigenen Recovery-Einstieg. Ein beliebiger Screenshot ist keine Ersatzlösung für diese Konten- und Nachweiskette.</p><p>Deine Notfallunterlagen verbinden die notwendigen Dokumente mit ihrer Verwendung: Welche Stelle verlangt was, wo liegt der nutzbare Nachweis und wer darf ihn erhalten? So wird aus einer Dateisammlung eine Anleitung, mit der du oder eine berechtigte Person handeln kann.</p><p class=\"exb-source-note\"><a href=\"https://www.personalausweisportal.de/Webs/PA/DE/buergerinnen-und-buerger/sicherheit/ihr-beitrag-zur-sicherheit/ihr-beitrag-zur-sicherheit-node.html\">Personalausweisportal: Ausweis und PIN schützen</a> · <a href=\"https://www.gov.uk/evisa/travel-with-evisa\">GOV.UK: Mit eVisa reisen</a> · <a href=\"https://update-your-details.homeoffice.gov.uk/account-recovery/help\">UKVI: Wiederzugang bei verlorenen Kontaktwegen</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\" data-route=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\"><span>Notfallunterlagen, die Angehörige tatsächlich nutzen können</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Die Probe: ohne Haupttelefon und Haupt-E-Mail",
+      "body": "<p>Wähle eine überschaubare Aufgabe und vereinbare vorher, was als Erfolg gilt. Für die erste Probe bleiben Haupttelefon und Haupt-E-Mail unbenutzt, werden aber weder gelöscht noch absichtlich gesperrt. Du behältst den funktionierenden Zugang als Sicherheitsreserve. Eine Übernahme oder unwiderrufliche Finanzhandlung gehört nicht in diesen Test.</p><ol><li><strong>Anleitung finden:</strong> Die berechtigte Person erreicht die vorbereiteten Hinweise ohne Haupttelefon, Hauptpostfach oder Hilfe aus genau diesen Konten.</li><li><strong>Ersatzweg öffnen:</strong> Du meldest dich über den vorgesehenen alternativen Faktor an oder klärst den offiziellen Wiederherstellungsweg. Braucht er doch das ausgefallene Gerät, ist die Lücke gefunden.</li><li><strong>Die vereinbarte Aufgabe ausführen:</strong> Beispielsweise ein freigegebenes Dokument abrufen oder den bestätigten Rückkontakt herstellen. Eine Bankanmeldung prüft zunächst nur den Zugang; Vertretungsmacht und Zahlungsfreigabe werden getrennt beurteilt.</li><li><strong>Ergebnis festhalten:</strong> Notiere Dienst, Aufgabe, handelnde Rolle, verwendeten Weg, Datum und verbliebene Abhängigkeiten. Geheimnisse und vollständige Ausweisdaten gehören nicht in das Testprotokoll.</li><li><strong>Vorbereitung pflegen:</strong> Nach Geräte-, Rufnummer-, E-Mail-, Anbieter- oder Personenwechsel wird der betroffene Weg erneut geprüft. Benutzte Einmalcodes müssen nach Anbieterregel ersetzt werden.</li></ol><p>Ein erklärter Ablauf und ein erfolgreich durchgeführter Test sind unterschiedliche Ergebnisse. Wenn eine erneute behördliche Registrierung erforderlich wäre, dokumentiere diesen Weg und den erwarteten organisatorischen Aufwand. Behaupte keinen bereits wiederhergestellten Zugang, solange das Verfahren nicht tatsächlich abgeschlossen ist.</p>"
+    },
+    {
+      "id": "abschnitt-7",
+      "title": "Kommunikation und Wiederzugang einrichten lassen",
+      "body": "<p>EXOBASIS erfasst mit dir die wichtigen Aufgaben und ihre gemeinsamen Ausfallpunkte. Wir organisieren die geeigneten Ersatzwege, richten die vereinbarten Kommunikations- und Ablagesysteme ein und führen die abgestimmten Proben mit dir durch. Die Übergabe enthält verständliche Anleitungen, Zuständigkeiten, Aufbewahrungsorte und Anlässe für die nächste Prüfung.</p><p>Bankzugang, rechtliche Vertretung und Notfallunterlagen werden dabei miteinander verbunden. Die Annahme einer Vollmacht oder ein behördlicher Identitätsnachweis bleibt bei der zuständigen Stelle; wir organisieren die nötigen Schritte und halten offene Punkte nach.</p><p>Du kannst eine konkrete Einrichtungsaufgabe direkt anfragen. Beschreibe kurz, welche Zugänge oder Personen abgesichert werden sollen, und nenne einen erreichbaren Rückweg. Persönliche Unterlagen folgen im vereinbarten geschützten Austausch. Wie wir diesen organisieren, erfährst du unter Diskretion.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/kommunikation-wiederzugang/\" data-route=\"/de/leistungen/kommunikation-wiederzugang/\"><span>Diskrete Kommunikation und Wiederzugang einrichten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/diskretion/\" data-route=\"/de/diskretion/\"><span>Diskretion und geschützte Zusammenarbeit</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Den Ausfall konkret benennen"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Die Abhängigkeitskette sichtbar machen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Ersatzgerät und unabhängigen Rückkontakt vorbereiten"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Identität und Berechtigung nachweisen können"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Digitale Nachweise im richtigen System zugänglich halten"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Den Ersatzweg kontrolliert testen"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Einrichtung und Übergabe organisieren"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 735,
+        "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+        "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 734,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 733,
+        "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+        "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt nutzbare Unterlagen für Berechtigte",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 732,
+        "target": "/de/leistungen/kommunikation-wiederzugang/",
+        "label": "Diskrete Kommunikation und Wiederzugang einrichten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kommunikations-/Zugangswege einrichten",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 736,
+        "target": "/de/diskretion/",
+        "label": "Diskretion und geschützte Zusammenarbeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Am Anfrageübergang: geschützte Zusammenarbeit",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 737,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      }
+    ],
+    "seeding": [
+      "D01",
+      "D20",
+      "D22",
+      "D24"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true,
+    "redaction": {
+      "package": "03",
+      "origin": "Eigenständige DACH-Redaktion in der gezielten Fortsetzung PB-D68 aus gebundenem Auftrag und erhaltenen Belegen.",
+      "sourceSectionOrder": [
+        {
+          "id": "abschnitt-1",
+          "title": "Den Ausfall konkret benennen"
+        },
+        {
+          "id": "abschnitt-2",
+          "title": "Die Abhängigkeitskette sichtbar machen"
+        },
+        {
+          "id": "abschnitt-3",
+          "title": "Ersatzgerät und unabhängigen Rückkontakt vorbereiten"
+        },
+        {
+          "id": "abschnitt-4",
+          "title": "Identität und Berechtigung nachweisen können"
+        },
+        {
+          "id": "abschnitt-5",
+          "title": "Digitale Nachweise im richtigen System zugänglich halten"
+        },
+        {
+          "id": "abschnitt-6",
+          "title": "Den Ersatzweg kontrolliert testen"
+        },
+        {
+          "id": "abschnitt-7",
+          "title": "Einrichtung und Übergabe organisieren"
+        }
+      ],
+      "mappedLinks": [
+        {
+          "line": 735,
+          "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+          "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+          "function": "Horizontale Aufgabenverbindung",
+          "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+          "position": "#abschnitt-1"
+        },
+        {
+          "line": 734,
+          "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+          "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+          "function": "Horizontale Aufgabenverbindung",
+          "originalPosition": "Abschnitt wer handeln darf",
+          "position": "#abschnitt-4"
+        },
+        {
+          "line": 733,
+          "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+          "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+          "function": "Horizontale Aufgabenverbindung",
+          "originalPosition": "Abschnitt nutzbare Unterlagen für Berechtigte",
+          "position": "#abschnitt-5"
+        },
+        {
+          "line": 732,
+          "target": "/de/leistungen/kommunikation-wiederzugang/",
+          "label": "Diskrete Kommunikation und Wiederzugang einrichten",
+          "function": "Horizontale Aufgabenverbindung",
+          "originalPosition": "Abschnitt Kommunikations-/Zugangswege einrichten",
+          "position": "#abschnitt-7"
+        },
+        {
+          "line": 736,
+          "target": "/de/diskretion/",
+          "label": "Diskretion und geschützte Zusammenarbeit",
+          "function": "Horizontale Aufgabenverbindung",
+          "originalPosition": "Am Anfrageübergang: geschützte Zusammenarbeit",
+          "position": "#abschnitt-7"
+        },
+        {
+          "line": 737,
+          "target": "/de/anfrage/",
+          "label": "Diskrete Anfrage",
+          "function": "Conversion",
+          "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+          "position": "#abschnitt-7"
+        }
+      ],
+      "seeding": [
+        "D23"
+      ],
+      "sourceDate": "2026-09-25",
+      "draftDate": "2026-10-05",
+      "noPublication": true
+    }
+  },
+  "displayTitle": "Ohne Handy und E-Mail: Deinen Wiederzugang vorbereiten"
+}

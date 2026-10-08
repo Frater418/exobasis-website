@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/departure-contingency-plan/",
+  "lang": "en",
+  "title": "Personal departure and contingency plan",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-9c30898a864dae"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-dd48943fbb7b1e"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Family departure planning / A practical Plan B",
+  "seoTitle": "Family departure and contingency planning | EXOBASIS",
+  "description": "Prepare a practical family departure plan connecting destination, documents, money, housing and business, with decisions and responsibilities clear in advance.",
+  "intro": "<p>You want to know how your family could leave if war, repression or a closing departure window made staying unacceptable. You may also want a second base long before that point, somewhere you can use without giving up your present life.</p><p>EXOBASIS develops a personal departure and contingency plan around the people, assets and responsibilities involved. The work connects your destination to the documents, money, accommodation, care and decisions needed to get there and live there.</p>",
+  "primary": {
+    "label": "Enquire about a personal plan",
+    "intent": "Personal departure and contingency plan"
+  },
+  "summary": {
+    "kicker": "Your assignment with EXOBASIS",
+    "title": "Know what happens first, who acts and what your family needs.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Documents and a notebook illustrating advance preparation.",
+    "facts": [
+      [
+        "People",
+        "Travelling family, dependants and those staying behind"
+      ],
+      [
+        "Connections",
+        "Rights, documents, money, accommodation and income"
+      ],
+      [
+        "Result",
+        "A workable preparation sequence and decision plan"
+      ]
+    ]
+  },
+  "scope": {
+    "id": "scope",
+    "title": "What you receive",
+    "body": "<p>You receive a personal plan for the people and situations agreed with you, a prioritised preparation sequence and a guided handover. Country-specific and specialist questions are connected to the decisions they affect.</p>",
+    "items": [
+      [
+        "A joined-up family plan",
+        "Individual preparations are connected rather than left as separate lists."
+      ],
+      [
+        "Clear decisions",
+        "You know who decides, what the decision depends on and what follows."
+      ],
+      [
+        "A basis for execution",
+        "The next work can be commissioned with a defined result."
+      ]
+    ],
+    "costs": "Planning, professional assessments, implementation, travel, continuing maintenance and activation are separately identified in the proposal. Existing useful work is taken into account when defining the assignment."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Begin with the family and the life you have built",
+      "body": "<p>We establish who needs to travel, who may remain behind and who depends on you. Different passports, children's arrangements, an older relative's care or a business that needs your signature can change the whole sequence.</p><p>We review existing permissions, advisers, accounts, properties and preparations. Useful work becomes part of the plan. The questions are practical: what is already usable, what must be completed and what would stop the family acting together?</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-2",
+      "title": "Prepare for named situations, including the need to wait",
+      "body": "<p>We agree the situations the plan must address. These might include escalating conflict, interrupted flights, a sudden loss of payment access or one family member being unable to travel. We identify which preparation would help in each situation and which decision you would need to make.</p><p>For each situation, the plan connects a reliable source of information to a decision and its prerequisites. If flights stop, the immediate task is to establish the actual carrier position, lawful alternatives and a workable place to stay while a decision is made. A route that was available when the plan was written must be checked again before use.</p><p>The <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">FCDO's crisis guidance</a> identifies current passports, transit permissions, communication, medical supplies and a personal emergency plan as part of advance preparation. We apply those dependencies to the people and destinations in your case.</p>",
+      "layout": "prose",
+      "illustration": {
+        "title": "Illustrative sequence: from a trigger to a decision.",
+        "note": "Illustrative sequence to adapt to your family’s circumstances.",
+        "steps": [
+          [
+            "Monitor",
+            "Check an identified change against the agreed source of information."
+          ],
+          [
+            "Decide",
+            "The authorised person and substitute determine the next decision."
+          ],
+          [
+            "Verify dependencies",
+            "Check documents, access, funds and essential care before action."
+          ],
+          [
+            "Act or hold",
+            "Follow the agreed action or revise the plan if a route cannot be used."
+          ],
+          [
+            "Review",
+            "Record responsibility, feedback and the next required check."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-3",
+      "title": "Choose somewhere the whole family can reach and use",
+      "body": "<p>The first destination needs to work for the intended stay. Temporary accommodation can cover an initial arrival while a longer rental is assessed. A property you buy needs independent purchase checks, a practical handover and care when empty. School access, treatment and income arrangements matter alongside the right to enter.</p><p>Through <a href=\"/en/services/country-location-selection/\">personal country and location selection</a>, we compare the agreed options against these requirements. The plan records both the reason for choosing an option and the preparations still needed to make it usable.</p><p>A family leaving the UAE may want to preserve its return rights; a mixed-nationality family based in the UK may have different entry and return requirements for each person. Those cases are planned individually. The existing guides for <a href=\"/en/knowledge/prepare-your-way-out/leaving-uk/\">leaving the UK</a> and <a href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\">leaving the UAE</a> explain the starting-country connections.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-4",
+      "title": "Put the preparations in the right order",
+      "body": "<p>A departure can depend on a child's travel permission, an original certificate, accessible funds or a receiving address. We work through those dependencies before setting dates for the tasks that rely on them.</p><ul><li><a href=\"/en/services/residence-documents/\">Residence and documents:</a> establish each person's route, obtain the necessary records and track the applications.</li><li><a href=\"/en/services/banking-liquidity/\">Banking and liquidity:</a> prepare accepted payment routes and distinguish usable funds from money awaiting release.</li><li><a href=\"/en/services/family-business-continuity/\">Family and business continuity:</a> organise care, delegated authority, income and responsibilities that continue after departure.</li></ul><p>If military service, a court matter or another legal restriction may affect a person, the relevant specialist establishes the actual obligation. UK fears about conscription are not answered with German rules. A possible UAE travel restriction needs the competent authority and case type identified before it is treated as resolved.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-5",
+      "title": "Make responsibility and expenditure clear",
+      "body": "<p>Each preparation has a person responsible for it, the decision needed to begin, the expected cost category and the evidence that will show completion. You can see where your signature or attendance is required and which work you can delegate.</p><p>We also identify who can take over if the main decision-maker is unavailable. That includes authority to contact providers, approve expenditure and support the people remaining at home. Your existing lawyers, accountants and other advisers can retain their roles within the same sequence.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-6",
+      "title": "Agree the point at which you review, act or hold",
+      "body": "<p>A useful trigger is linked to a decision you can make. The plan might require a review after a particular change in official advice, preparation of an earlier arrival when transport reduces, or a pause if a required permission is missing.</p><p>We record who checks the information and who authorises the next step. The <a href=\"/en/services/activation-emergency-coordination/\">activation arrangement</a>, if commissioned, sets out the support and contact windows for carrying out agreed actions. The plan also includes what happens if the coordinator, usual phone or first-choice provider is unavailable.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-7",
+      "title": "Receive a plan your family can understand",
+      "body": "<p>The handover brings together the selected options, people, responsibilities, relevant documents, payment arrangements, task sequence and outstanding decisions. We walk through it with you, including the scenario where the person who normally handles everything is absent.</p><p>You can distinguish confirmed arrangements from work still in progress and understand what must be rechecked before departure. Sensitive routes, locations and personal records belong in the protected working file. A practical exercise can test the agreed decision and contact sequence without initiating a real departure.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-8",
+      "title": "Carry the plan into practical preparation",
+      "body": "<p>You can commission EXOBASIS to obtain documents, coordinate applications, arrange housing and arrival, set up access or organise the other agreed work. The proposal identifies which implementation is included and which is a further assignment.</p><p><a href=\"/en/services/maintain-preparations/\">Maintenance</a> keeps the completed preparation aligned with changing family circumstances and requirements. The result is an option you can continue preparing and using, even if you never need to leave in a crisis.</p>",
+      "layout": "prose"
+    }
+  ],
+  "working": {
+    "title": "How we work together",
+    "body": "<p>You decide which family members, responsibilities and situations to include. We develop the plan with your input and organise the agreed research and professional contributions. Detailed locations, assets and instructions are handled privately.</p>"
+  },
+  "nextWork": {
+    "title": "The next practical step",
+    "body": "<p>Choose the <a href=\"/en/services/\">practical services</a> needed to complete the plan, or commission a connected implementation assignment. A defined task can also begin directly if your priorities are already clear.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "Have the way out prepared while you can choose",
+    "body": "Tell us who the plan should cover, where you are currently based and which preparation matters most. You do not need to have selected a destination."
+  },
+  "seedingRefs": [
+    "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md#en10"
+  ],
+  "displayTitle": "A departure and contingency plan built around your family"
+}

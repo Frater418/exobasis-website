@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/404/",
+  "lang": "de",
+  "title": "Seite nicht gefunden",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-5062cd5c99b867"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-6b8f8cea474a45"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "kind": "error",
+  "eyebrow": "404 / EXOBASIS",
+  "seoTitle": "Seite nicht gefunden | EXOBASIS",
+  "description": "Der Link führt zu keiner EXOBASIS-Seite. Hier gelangst du zu Wissen, Leistungen, Ländern oder deiner Anfrage.",
+  "intro": "<p>Unter dieser Adresse haben wir keine Seite gefunden. Vielleicht ist der Link veraltet oder die Adresse enthält einen Tippfehler. Über diese Einstiege kommst du weiter.</p>",
+  "status": {
+    "id": "f-fehler",
+    "title": "Fehler 404: Die Seite ist nicht verfügbar",
+    "body": "Prüfe die Schreibweise der Adresse oder wähle unten, womit du fortfahren möchtest."
+  },
+  "choices": {
+    "id": "f-einstiege",
+    "title": "Wo möchtest du weitermachen?",
+    "items": [
+      {
+        "route": "/de/wissen/",
+        "title": "Wissen für deine Vorbereitung",
+        "description": "Antworten zu Ausreise, Dokumenten, Geldzugriff und der Vorbereitung deiner Familie."
+      },
+      {
+        "route": "/de/leistungen/",
+        "title": "Konkrete Hilfe",
+        "description": "Finde die passende Arbeit: von einer einzelnen Aufgabe bis zur Einrichtung und Betreuung deiner Außenbasis."
+      },
+      {
+        "route": "/de/laender/",
+        "title": "Länder und Standortoptionen",
+        "description": "Vergleiche mögliche Ziele nach Aufenthalt, Wohnen, Versorgung und deinem Alltag."
+      },
+      {
+        "route": "/de/anfrage/",
+        "title": "EXOBASIS eine Anfrage schreiben",
+        "description": "Beschreibe kurz, was du klären oder erledigen lassen möchtest."
+      }
+    ]
+  },
+  "displayTitle": "Diese Seite wurde nicht gefunden"
+}

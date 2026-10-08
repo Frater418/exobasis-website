@@ -1,0 +1,316 @@
+{
+  "route": "/en/countries/south-africa/",
+  "lang": "en",
+  "title": "South Africa as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/suedafrika/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-4bb598aaa0d352",
+      "startLine": 14148
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-253feaf7d5e546",
+      "startLine": 17995
+    }
+  ],
+  "eyebrow": "South Africa: a prepared home beyond Europe",
+  "seoTitle": "Moving to South Africa: Residence and Homes | EXOBASIS",
+  "description": "Prepare a South African home or family base: residence, neighbourhoods, renting and buying, healthcare, reliable utilities and accessible funds.",
+  "intro": "<p>South Africa can put distance between your family and a European or Gulf crisis. Whether it gives you a better position depends on the place you choose: the street, the school run, the hospital and what still works when electricity or water does not. Build your decision around the daily life you need to sustain.</p>",
+  "countryContext": "/en/countries/south-africa/",
+  "linkPlan": [
+    {
+      "sourceLine": 1318,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1320,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1321,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1322,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1323,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1324,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1325,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1326,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1327,
+      "target": "/de/laender/suedafrika/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1517,
+      "target": "/en/countries/namibia/",
+      "label": "Namibia as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1519,
+      "target": "/en/countries/mauritius/",
+      "label": "Mauritius as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ZA-ENTRY | www.gov.uk",
+      "url": "https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements",
+      "section": 2,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "ZA-REMOTE | dirco.gov.za",
+      "url": "https://dirco.gov.za/newyork/wp-content/uploads/sites/77/2026/09/Port-of-Entry-Vissa-Remote-Work-Visa-June-2026.pdf",
+      "section": 5,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "ZA-RETIRE | www.saembassy.org",
+      "url": "https://www.saembassy.org/wp-content/uploads/2026/04/Retired-Persons-Visa-updated-as-of-2-Apr-2026-1.pdf",
+      "section": 5,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "ZA-PR | www.gov.za",
+      "url": "https://www.gov.za/services/services-foreign-nationals/permanent-residence/apply-permanent-residency-permit",
+      "section": 5,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "ZA-RENT | www.westerncape.gov.za",
+      "url": "https://www.westerncape.gov.za/infrastructure/frequently-asked-questions-tenants",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "ZA-PROPERTY | stbb.co.za",
+      "url": "https://stbb.co.za/wp-content/uploads/2026/08/STBB_Buying_property_as_a_non-resident_in_South_Africa_2026.pdf",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": "local legal specialist"
+    },
+    {
+      "title": "ZA-VAT | www.sars.gov.za",
+      "url": "https://www.sars.gov.za/faq/faq-can-the-sale-of-a-property-be-subject-to-both-vat-and-transfer-duty/",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "ZA-RISK | www.gov.uk",
+      "url": "https://www.gov.uk/foreign-travel-advice/south-africa/safety-and-security",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "ZA-EXCHANGE | www.resbank.co.za",
+      "url": "https://www.resbank.co.za/content/dam/sarb/what-we-do/financial-surveillance/financial-surveillance-documents/2026/Currency%20and%20Exchanges%20Manual%20for%20Authorised%20Dealers.pdf",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "ZA-LIVING | www.gov.uk",
+      "url": "https://www.gov.uk/guidance/living-in-south-africa",
+      "section": 7,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "ZA-STUDY | dirco.gov.za",
+      "url": "https://dirco.gov.za/brussels/study-visa/",
+      "section": 7,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "ZA-SARS | www.sars.gov.za",
+      "url": "https://www.sars.gov.za/individuals/tax-during-all-life-stages-and-events/tax-and-non-residents/",
+      "section": 8,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "ZA-EXCHANGE | www.resbank.co.za",
+      "url": "https://www.resbank.co.za/content/dam/sarb/what-we-do/financial-surveillance/financial-surveillance-documents/2026/Currency%20and%20Exchanges%20Manual%20for%20Authorised%20Dealers.pdf",
+      "section": 8,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Prepare my South Africa base",
+    "intent": "General enquiry"
+  },
+  "country": {
+    "name": "South Africa",
+    "slug": "suedafrika",
+    "region": "Africa and the Indian Ocean",
+    "map": "countries/suedafrika-locator.svg",
+    "imageAlt": "South Africa highlighted on a regional locator map.",
+    "caption": "South Africa at the southern end of the African continent.",
+    "summary": [
+      [
+        "Choose at neighbourhood level",
+        "Assess crime exposure, essential journeys and the response available at the actual address."
+      ],
+      [
+        "Test the home’s systems",
+        "Power, water and communications need a working setup and someone responsible for maintaining it."
+      ],
+      [
+        "Match residence to real life",
+        "A visit, remote employment, retirement and permanent settlement follow different conditions."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "What would make South Africa a workable alternative?",
+      "body": "<p>You may be preparing for war, seeking room for family life or looking for a second residence outside Europe. South Africa deserves a concrete assessment of those aims rather than a verdict based on holiday photographs or a single national crime figure.</p><p>For a short contingency stay, lawful entry, secure accommodation and money available on arrival come first. For a seasonal home, someone must maintain the property while you are away. For permanent settlement, residence, school, treatment and income must support one another. The preparation changes with the outcome.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "Getting there is only the first part of being ready",
+      "body": "<p>British citizens travelling on an ordinary passport can normally visit South Africa for tourism or business for up to 90 days without a visa. That permission does not create an unrestricted right to work or settle. Passport validity, blank-page requirements and the rules for travelling with children also matter. Use <a href=\"https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements\">the current British-passport entry guidance</a> for the actual trip; other nationalities require their own check.</p><p>Arrange the first airport transfer, confirm who will admit you to the accommodation and carry the records your family needs offline. A house you own is of little help if the alarm code has changed, the water is off or the only keyholder is unavailable.</p><p>Distance from a European conflict can be valuable, but a long-haul destination also depends on available routes and functioning transit points. Decide what you will do if the first flight route fails and whether every traveller can use the alternative. Link the South African arrangements to a <a href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">contingency and return plan</a> rather than making a single flight booking your entire fallback.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Moving to South Africa with your family",
+      "body": "<p>Start with the school and medical needs that cannot easily change. Then shortlist homes within a workable journey of both. Cape Town, Johannesburg and the Durban area offer very different patterns of daily travel; the right answer may be a particular suburb, not the city named on the booking.</p><p>Budget for the life you will actually lead: school fees where applicable, medical cover, transport, property security, backup systems and maintenance. If one parent works overseas or a child stays behind temporarily, settle travel consent, caregiving responsibility and emergency contact arrangements before the move. Test the routine in a rental before tying the family to a purchase.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Seasonal living needs reliable local care",
+      "body": "<p>A house used for part of the year still needs inspections, municipal payments, security response and somebody who can authorise a repair. An inverter is useful only if its batteries work and its capacity covers the equipment you need. A water tank also needs a safe supply, usable pump and a maintenance arrangement.</p><p>Write down what must remain powered: internet, gates, security systems, refrigeration and any medical equipment. Ask for a demonstration under backup power, not merely a list of installed devices. For a rented home, identify which maintenance belongs to the owner and how faults will be handled while you are absent. Your permitted stay and any work conditions still apply even when you own the address.</p><p>For a household dividing the year between South Africa and the UAE, the return journey needs its own status check. Confirm what a long absence means for the UAE permits held by you and your dependants before fixing the seasonal calendar. The <a href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\">UAE departure and second-base guide</a> connects that return option with the arrangements you keep in place.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "South Africa residency: choose the route your circumstances support",
+      "body": "<p>Existing South African citizenship, permanent residence or a qualifying family relationship should be established before a new application is chosen. For other applicants, the purpose of the stay determines which evidence is useful.</p><ul><li><strong>Retirement or independent means:</strong> the published retired-person visa checklist requires qualifying pension, retirement or net-worth-supported income equivalent to at least R37,000 a month. Document the source and regularity of that income, rather than presenting only the value of a house you own. <a href=\"https://www.saembassy.org/wp-content/uploads/2026/04/Retired-Persons-Visa-updated-as-of-2-Apr-2026-1.pdf\">The official retired-person requirements</a> are the starting reference.</li><li><strong>Remote employment:</strong> the published remote-work visa checklist requires a signed contract with a foreign-based employer and gross salary of at least R650,796 a year, supported by recent bank statements. This is not a blanket route for every freelancer or company owner. It also contains SARS-registration requirements linked to tax-treaty status and presence. <a href=\"https://dirco.gov.za/newyork/wp-content/uploads/sites/77/2026/09/Port-of-Entry-Vissa-Remote-Work-Visa-June-2026.pdf\">The current remote-work checklist</a> explains those conditions.</li><li><strong>Long-term settlement:</strong> permanent residence has its own qualifying grounds and application. <a href=\"https://www.gov.za/services/services-foreign-nationals/permanent-residence/apply-permanent-residency-permit\">The government’s permanent-residence guidance</a> sets these apart from temporary permission.</li></ul><p>Apply through the mission or channel responsible for where you are entitled to submit. Confirm its required documents, appointments and charges before scheduling the move. We organise the route and the relevant submission requirements through <a href=\"/en/services/residence-documents/\">residence and document preparation</a>. If the task is already clear, <a href=\"/en/enquiry/\">enquire about that assignment directly</a>.</p>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Choose the area before choosing the property",
+      "body": "<h3>Cape Town, Johannesburg or the Durban area?</h3><p>Cape Town may suit a family seeking a coastal base and access to the city's schools and hospitals. Compare the actual neighbourhood, commute and wildfire exposure on the urban edge. Johannesburg and the wider Gauteng area put business connections and air access into the foreground; essential driving routes and security arrangements carry significant weight. Durban and nearby coastal areas offer another family setting, with flood exposure and the precise home's water and access arrangements requiring attention.</p><p><a href=\"https://www.gov.uk/foreign-travel-advice/south-africa/safety-and-security\">Official South Africa safety guidance</a> describes violent crime and infrastructure risks. Use that information to ask better local questions: how you enter the property, which roads you use after dark, who responds to an alarm and how you reach care during a disruption. A gated entrance alone does not answer them.</p><h3>Rent first, with a clear handover</h3><p>A furnished initial rental gives you somewhere usable while you assess a longer lease. Verify the landlord or agent, record the inventory and defects and make the lease explicit about rent, deposit, electricity and water charges, security, backup equipment, maintenance and notice. Under the Rental Housing Act framework, deposits accrue interest and incoming and outgoing inspections matter to the final deductions. Keep the inspection record and receipts. <a href=\"https://www.westerncape.gov.za/infrastructure/frequently-asked-questions-tenants\">The government’s tenant and landlord guidance</a> explains the practical protections.</p><h3>Buying property as a foreigner</h3><p>Non-residents can buy residential property, while their right to live in it remains an immigration question. South Africa records ownership through its Deeds Offices. Appoint independent legal support before signing an Offer to Purchase: once accepted and signed as required, it can be the binding sale agreement, not a casual expression of interest. Finance conditions, defects, included equipment, occupation date and any occupational rent need to be settled in that document.</p><p>The conveyancer arranges transfer documentation, identity and funds checks, the relevant tax receipt and municipal or levy clearance, and lodges the transfer at the Deeds Office. Have title conditions, servitudes, approved plans, the property's condition and any sectional-title or estate rules reviewed for your intended use. <a href=\"https://stbb.co.za/wp-content/uploads/2026/08/STBB_Buying_property_as_a_non-resident_in_South_Africa_2026.pdf\">STBB’s non-resident purchase guide</a> describes this process; <a href=\"https://www.resbank.co.za/content/dam/sarb/what-we-do/financial-surveillance/financial-surveillance-documents/2026/Currency%20and%20Exchanges%20Manual%20for%20Authorised%20Dealers.pdf\">the Reserve Bank’s rules for non-resident investment</a> address approved funding.</p><p>Your budget needs conveyancing and registration costs, any finance costs and ongoing rates, levies, insurance and upkeep in addition to the price. SARS states that a property sale is subject to VAT or transfer duty, not both; which applies depends on the seller and transaction. <a href=\"https://www.sars.gov.za/faq/faq-can-the-sale-of-a-property-be-subject-to-both-vat-and-transfer-duty/\">The SARS explanation</a> prevents double-counting this item.</p><p>EXOBASIS can organise the location and search brief, viewings, independent title and purchase checks, contract coordination and handover. Through <a href=\"/en/services/arrange-arrival/\">arrival and home preparation</a>, the assignment can extend to utilities, security access and a tested setup ready for your first stay.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schools and care that work for your household",
+      "body": "<p>Confirm the school place, curriculum and language of instruction before building the move around an address. A child who needs immigration permission for study also needs the appropriate paperwork, not just a school acceptance. Official study-visa guidance includes an acceptance letter, financial support and annually renewed cover from a medical scheme registered under South African law. <a href=\"https://dirco.gov.za/brussels/study-visa/\">The study-visa requirements</a> show why a general travel policy may not satisfy that application.</p><p>For children, keep birth records, parental consent or court documents and the records needed for travel and enrolment together. The <a href=\"/en/knowledge/family-life-abroad/children-family/\">children and family guide</a> helps organise a move in which relatives may arrive at different times.</p><p>Choose healthcare by the treatment you need and the provider you can reach. Confirm the hospital or specialist, admission arrangements, insurer network and what must be paid before treatment. Map the journey from the home and the response for a medical emergency. <a href=\"https://www.gov.uk/guidance/living-in-south-africa\">The UK government’s South Africa living guide</a> addresses medical cover and local services. Our <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">health cover and care guide</a> connects insurance with chronic treatment, medicines and support for an older relative.</p><h3>Make personal care work in the chosen neighbourhood</h3><p>For someone who needs daily help or accompaniment, list the tasks a carer must take over: meals, washing, mobility, supervision and journeys to appointments. Identify nursing or other clinical tasks with the treating team, then establish which care service or appropriately qualified professional can accept that work at your South African address. Check the practical route into the home, transport to the clinic and how essential equipment and visits would be managed during a power, water or road disruption.</p><p>Agree the hours, frequency, charges and funding for that specific arrangement, including a replacement contact if the regular carer cannot attend. Set the first visit and the handover of the care plan, medicines and equipment before travel, with someone responsible for accompanying your relative from arrival to the receiving carer. EXOBASIS can organise this work through our <a href=\"/en/services/family-business-continuity/\">family and care coordination service</a>, connecting local acceptance, accessible funds and the home handover. We collect the necessary medical and care details through an agreed protected intake; use the short enquiry to describe the help you want organised.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Money in, money out and work done in South Africa",
+      "body": "<p>Agree the account type and supporting documents with the receiving bank before transferring a property deposit or relying on local payments. Expect identity, address, status and source-of-funds checks. Preserve the bank's record of foreign currency introduced and the purchase documentation: they explain how the investment was funded when you later need to move the proceeds.</p><p>The Reserve Bank permits non-resident investment financed in an approved manner and describes sale proceeds of non-resident-owned assets as transferable under its rules. Resident and non-resident treatment must not be mixed. Rental income transfers also have documentary and tax-compliance requirements. Ask the bank's authorised-dealer team how your transaction will be classified before you commit the funds. <a href=\"https://www.resbank.co.za/content/dam/sarb/what-we-do/financial-surveillance/financial-surveillance-documents/2026/Currency%20and%20Exchanges%20Manual%20for%20Authorised%20Dealers.pdf\">The Currency and Exchanges Manual</a> supplies the governing framework.</p><p>Keep enough readily usable money outside the property and more than one functioning payment route. If one bank freezes an account for review, the family still needs to pay for housing and treatment. The <a href=\"/en/knowledge/assets-and-access/banking-payments/\">banking and payments guide</a> explains access dependencies. Our <a href=\"/en/services/banking-liquidity/\">banking and liquidity service</a> prepares the evidence, transfer sequence and practical access checks.</p><p>An overseas employer does not automatically make work performed in South Africa foreign-source or tax-free. SARS explains that employment services rendered in South Africa can be taxable, with treaty relief depending on all applicable conditions, not only the number of days. Rental income and gains on South African property also have local tax consequences. Use <a href=\"https://www.sars.gov.za/individuals/tax-during-all-life-stages-and-events/tax-and-non-residents/\">the SARS non-resident guidance</a> to commission the right assessment before moving your work or letting the home.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Sequence the move before fixing the date",
+      "body": "<p>Prepare passports, civil-status documents, the required police and medical records, income evidence and the papers supporting each person's application. Check the required form and age of each certificate through the actual submission channel. A document accepted for one family's route may not meet another route's requirements.</p><p>Coordinate the residence application, school admission, medical cover, rental and the timing of any property transfer. Keep a flexible first accommodation arrangement until the necessary permissions and handover are in place. <a href=\"/en/services/residence-documents/\">Document preparation and coordination</a> can be commissioned as a defined piece of work, alongside the practical move.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Maintain the base between visits",
+      "body": "<p>Give each recurring job an owner: residence renewals, rates and levies, insurance, alarm response, battery checks, water systems and access for repairs. Set written authority and spending limits for local help. A keyholder should know what to do after a storm or break-in and which problems require your approval.</p><p>Review school and medical arrangements as the family changes, and update the bank and relevant authorities when your status or address changes. <a href=\"/en/services/maintain-preparations/\">Ongoing preparation support</a> keeps these tasks coordinated so that the home remains usable rather than simply owned.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Commission the South African preparation you need",
+      "body": "<p>A useful first assignment might be a comparison of specific neighbourhoods, a residence and document package, a rental search or coordinated purchase and arrival. We define the result with you, carry out the agreed work and organise the necessary local professional execution.</p><h3>Compare South Africa with Namibia and Mauritius</h3><p><a href=\"/en/countries/namibia/\">Namibia</a> deserves a separate assessment if a different southern African living environment is central to your choice. Compare the travel distances, medical access and residence route against the exact South African area you are considering.</p><p><a href=\"/en/countries/mauritius/\">Mauritius</a> offers an island alternative to compare when your priorities are a family base and an internationally connected working life. Its residence and foreign-property rules require a separate assessment, along with flight dependence and access to specialist care.</p><p>The <a href=\"/en/services/country-location-selection/\">country and location selection service</a> turns these questions into a decision for your household. <a href=\"/en/enquiry/\">Ask us to prepare your South Africa base</a>, or request a free 20-minute orientation if you need to establish the right scope first.</p>"
+    }
+  ],
+  "faq": {
+    "question": "Does buying a South African home give me residence?",
+    "answer": "Property ownership and permission to stay are separate. Choose a residence route that fits your income, work or family circumstances before relying on a purchased home for a long stay. Have the Offer to Purchase reviewed before signing, and preserve the records of any foreign funds used for the purchase."
+  },
+  "displayTitle": "Moving to South Africa: prepare the place, not just the visa"
+}

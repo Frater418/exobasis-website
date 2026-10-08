@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/erstklaerung/",
+  "lang": "de",
+  "title": "Persönliche Erstklärung",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-36be7e8f169d81"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-31e33d2ae561b1"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Eine wichtige Entscheidung fundiert treffen",
+  "seoTitle": "Plan-B-Erstklärung: 60 Minuten und Entscheidungsbrief | EXOBASIS",
+  "description": "Kläre deine wichtigste Plan-B-Frage: mit Vorbereitung, 60-Minuten-Gespräch, persönlichem Entscheidungsbrief und begrenzter Rückfrage. Eigenständig beauftragbar.",
+  "intro": "<p>Du willst handeln, bevor Krieg, politische Repression oder der Verlust von Geldzugriff deine Möglichkeiten einschränken. Vielleicht suchst du einen zweiten Wohnort für deine Familie. Vielleicht steht dein Unternehmen im Weg, oder du weißt noch nicht, welche Vorbereitung zuerst sinnvoll ist. Die persönliche Erstklärung hilft dir, diese eine entscheidende Frage zu bearbeiten.</p><p>EXOBASIS bereitet deine Ausgangslage vor, führt mit dir ein <strong>60-Minuten-Gespräch</strong> und hält das Ergebnis in einem <strong>persönlichen Entscheidungsbrief</strong> fest. Du erhältst begründete Handlungsrichtungen, die noch offenen Fachfragen und eine Reihenfolge für die nächsten Schritte. Eine begrenzte Rückfrage zum Ergebnis gehört dazu.</p>",
+  "primary": {
+    "label": "Erstklärung anfragen",
+    "intent": "Persönliche Erstklärung"
+  },
+  "summary": {
+    "kicker": "Deine Frage wird ein eigener Auftrag",
+    "title": "Vorbereitet sprechen. Mit einem Entscheidungsbrief weitergehen.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch auf einer Terrasse als Symbol für persönliche Planung.",
+    "facts": [
+      [
+        "Vorbereitung",
+        "Deine Hauptfrage und ihre unmittelbar relevanten Abhängigkeiten"
+      ],
+      [
+        "Gespräch",
+        "60 Minuten für Optionen, Einordnung und deine Rückfragen"
+      ],
+      [
+        "Ergebnis",
+        "Persönlicher Entscheidungsbrief und begrenzte Rückfrage"
+      ]
+    ]
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Auswanderungsberatung oder Reserveoption: Was klären wir für dich?",
+    "body": "<p>Du musst noch keine Auswanderung beschlossen haben. Die Erstklärung passt auch, wenn du deinen heutigen Lebensmittelpunkt behalten und eine nutzbare Alternative vorbereiten möchtest. Ebenso kann eine einzelne Frage zu Dokumenten, Geldzugriff oder zur Fortführung deines Geschäfts der Ausgangspunkt sein.</p><p>Wir vereinbaren <strong>eine Hauptfrage mit ihren unmittelbar relevanten Abhängigkeiten</strong>. Dazu gehören die Vorbereitung, das 60-Minuten-Gespräch, der Entscheidungsbrief und eine begrenzte Rückfrage. Du bringst dein Ziel, den bisherigen Stand und die dafür benötigten Angaben ein. Im Ergebnis wird sichtbar, was bereits belastbar feststeht und welche weitere Prüfung für deine Entscheidung noch gebraucht wird.</p>",
+    "items": [
+      [
+        "Begründete Handlungsrichtungen",
+        "Du kannst Optionen anhand deiner Ausgangslage vergleichen und erkennst, welche Voraussetzung eine Entscheidung noch aufhält."
+      ],
+      [
+        "Eine klare Reihenfolge",
+        "Du weißt, welche Klärung oder Vorbereitung zuerst nötig ist und wer sie übernehmen soll."
+      ],
+      [
+        "Ein schriftliches Ergebnis",
+        "Du kannst den Entscheidungsbrief selbst nutzen, mit vorhandenen Beratern besprechen oder daraus einen konkreten Folgeauftrag ableiten."
+      ]
+    ],
+    "costs": "Kosten der Erstklärung: Du beauftragst die vorbereitete Bearbeitung deiner Hauptfrage einschließlich Gespräch, Entscheidungsbrief und begrenzter Rückfrage. Den Gesamtpreis und die Bedingungen erhältst du vor deiner Beauftragung. Gesonderte Fachgutachten, weitere Hauptfragen und praktische Umsetzung werden als zusätzliche Arbeit mit eigenen Kosten vereinbart."
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Deine Hauptfrage und die passenden Angaben",
+      "body": "<p>Am Anfang steht, welche Entscheidung du treffen möchtest. Zum Beispiel: Welche Voraussetzung sollten wir zuerst klären, damit unsere Familie einen zweiten Wohnort tatsächlich nutzen kann? Wir stimmen die Hauptfrage und den Umfang mit dir ab. Danach erhältst du die dazu passenden Fragen zur Ausgangslage, vorhandenen Vorbereitung und den betroffenen Personen oder Aufgaben.</p><p>Persönliche Unterlagen fordern wir erst an, wenn sie für diesen Auftrag benötigt werden, und vereinbaren dafür einen geschützten Austausch. Bereits bestätigte Angaben kannst du prüfen und korrigieren. Falls du vorher ein Orientierungsgespräch genutzt hast, fließen dessen relevante Ergebnisse ein.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-2",
+      "title": "Wir bereiten die Entscheidung vor",
+      "body": "<p>Wir sichten deine Angaben und die vereinbarten Unterlagen im Zusammenhang. Bei einer Familienoption können etwa Aufenthaltsmöglichkeiten, Erreichbarkeit, Unterkunft und Versorgung voneinander abhängen. Ein bevorzugter Ort allein beantwortet noch nicht, welche Vorarbeit für eure Nutzung nötig wäre.</p><p>Geht es um den Zugriff auf Geld, grenzen wir die konkrete Frage und die vorhandenen Informationen dazu ein. Ein offener rechtlicher Sachverhalt wird als gesonderter Prüfauftrag benannt. So vermischen wir organisatorische Vorbereitung und benötigte Fachentscheidung nicht. Fehlende Nachweise sowie deren Bedeutung für deine Entscheidung halten wir fest.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-3",
+      "title": "60 Minuten für deine Entscheidung",
+      "body": "<p>Im vorbereiteten Gespräch gehen wir die Handlungsrichtungen mit dir durch: Was spricht dafür, was steht im Weg und welche Information würde die Entscheidung verändern? Wir beziehen deine bisherigen Vorbereitungen und vorhandenen Berater ein. Gemeinsam ordnen wir, welche nächsten Schritte aus den Ergebnissen folgen.</p><p>Gesprächsweg, Sprache und Zeitzone stimmen wir vorher ab. Das kostenlose <strong>20-Minuten-Orientierungsgespräch</strong> hat eine andere Aufgabe: Es hilft dir, die passende Arbeit auszuwählen. Du kannst die persönliche Erstklärung direkt anfragen, ohne dieses Gespräch vorzuschalten.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-4",
+      "title": "Dein persönlicher Entscheidungsbrief",
+      "body": "<p>Nach dem Gespräch erhältst du das Ergebnis schriftlich. Der Brief beantwortet die vereinbarte Hauptfrage und zeigt, worauf die Einordnung beruht. Offene Punkte bleiben dort erkennbar, wo sie deine nächste Entscheidung beeinflussen.</p><ul><li><strong>Ausgangslage:</strong> dein Ziel, vorhandene Vorbereitung und geprüfte Feststellungen.</li><li><strong>Handlungsrichtungen:</strong> passende Optionen und die Gründe für oder gegen sie.</li><li><strong>Klärungsbedarf:</strong> fehlende Nachweise und zusätzlich notwendige Fachprüfungen.</li><li><strong>Nächste Schritte:</strong> Prioritäten, Voraussetzungen und die jeweils benötigten Beteiligten.</li></ul><p>Wir übergeben den Brief über den vereinbarten geschützten Weg an die bestätigten Empfänger. Du kannst damit selbst weiterarbeiten oder deine vorhandenen Berater gezielt einbeziehen.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-5",
+      "title": "Eine begrenzte Rückfrage zum Ergebnis",
+      "body": "<p>Wenn eine Aussage im Brief für dich noch unklar ist, kannst du zur bearbeiteten Hauptfrage eine begrenzte Rückfrage stellen. Sachliche Fehler werden korrigiert. Umfang und Zeitraum dieser Rückfrage vereinbaren wir vor der Beauftragung.</p><p>Ergibt sich daraus eine neue Hauptfrage oder möchtest du einen Schritt ausführen lassen, grenzen wir diese zusätzliche Arbeit mit dir ab. Das bereits erarbeitete Ergebnis bleibt die Grundlage.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-6",
+      "title": "Du entscheidest, wie du weitergehst",
+      "body": "<p>Die Erstklärung ist ein eigenständiger Auftrag. Du kannst es beim Entscheidungsbrief belassen, selbst weiterarbeiten oder EXOBASIS mit einer konkreten Aufgabe beauftragen. Eine bekannte Einzelarbeit kannst du auch von Anfang an direkt anfragen.</p><p>Wenn du benannte Länder und Orte vertieft vergleichen lassen möchtest, verbindet die <a href=\"/de/leistungen/laender-standortauswahl/\">persönliche Länder- und Standortauswahl</a> deine familiären und beruflichen Anforderungen mit den passenden Optionen. Steht der Ort bereits fest, lässt sich die <a href=\"/de/leistungen/ankunft-organisieren/\">Organisation von Unterkunft und Ankunft</a> gesondert beauftragen. Auch ein Immobilienkauf kann dabei als eigener Such- und Organisationsauftrag mit Besichtigungen, organisierter unabhängiger Titel- und Kaufprüfung, Vertragskoordination, Übergabe und anschließender Betreuung vorbereitet werden.</p>",
+      "layout": "prose"
+    }
+  ],
+  "working": {
+    "title": "Wer deine Erstklärung übernimmt",
+    "body": "<p>EXOBASIS führt die vereinbarte Erstklärung durch und verantwortet den Entscheidungsbrief und seine Übergabe. Wird zusätzliche Facharbeit benötigt, klären wir mit dir Aufgabe, geeignete Zuständigkeit und Kosten, bevor sie beauftragt wird. Vorhandene Berater und bereits erledigte Arbeit beziehen wir ein.</p>"
+  },
+  "nextWork": {
+    "title": "Wenn aus der Entscheidung ein zusammenhängender Plan werden soll",
+    "body": "<p>Der <a href=\"/de/leistungen/flucht-notfallplan/\">persönliche Flucht- und Notfallplan</a> verbindet als eigener Auftrag die Vorbereitung deiner Familie, deines Vermögens und deines Unternehmens. Er legt fest, welche Schritte zusammengehören, wovon sie abhängen und wer sie übernimmt. Anschließend können Einrichtung und Betreuung im vereinbarten Umfang folgen.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Welche Entscheidung steht bei dir an?",
+    "body": "Beschreibe kurz deine Hauptfrage und was du entscheiden möchtest. Wir klären den passenden Umfang und nennen dir Preis, Termin und Bedingungen vor deiner Beauftragung. Für diese erste Nachricht reichen ein grobes Anliegen und ein geeigneter Rückweg."
+  },
+  "displayTitle": "Persönliche Erstklärung für deinen Plan B"
+}

@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/",
+  "lang": "en",
+  "title": "Practical help",
+  "kind": "catalogue",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-9bc0d761ab786b"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-1f0a01d2104715"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "EXOBASIS services / Prepared before you need them",
+  "seoTitle": "Plan B services: prepare, set up and maintain | EXOBASIS",
+  "description": "Commission practical help with your Plan B: planning, residence, property purchase, money access, family and business continuity, and ongoing preparation.",
+  "intro": "<p>You may be worried about war, restrictions on leaving, political repression or losing control of money you worked hard to earn. You want your family to have a real alternative while you still have time to prepare it. That takes decisions, but it also takes work.</p><p>EXOBASIS plans and carries out that work with you, bringing in the right specialists where the task requires them. Commission one defined job or connect several into a prepared base abroad. If you already know what needs doing, start there. If the direction is still open, we can help you establish it.</p>",
+  "groups": [
+    {
+      "id": "planning-clarity",
+      "title": "Choose the next decision",
+      "intro": "A paid initial assessment addresses a defined question through preparation, a personal discussion and a written decision brief. A departure and contingency plan connects the larger picture: family, rights, money, business, timing and the conditions that would make you act. These are separate assignments; existing advice can be used for direct implementation.",
+      "items": [
+        {
+          "route": "/en/services/initial-assessment/",
+          "title": "Personal initial assessment",
+          "description": "Clarify one main question through a prepared 60-minute discussion and a personal decision brief, with agreed follow-up."
+        },
+        {
+          "route": "/en/services/departure-contingency-plan/",
+          "title": "Personal departure and contingency plan",
+          "description": "Build a connected plan for the people, assets and business responsibilities involved, including priorities, dependencies and triggers for action."
+        }
+      ]
+    },
+    {
+      "id": "countries-documents",
+      "title": "Choose a place and prepare the right to use it",
+      "intro": "A location must work for the people who will actually go there. We compare places against your rights, school and care needs, income, access and budget, then organise the agreed residence and document work. Property requirements belong in that comparison too: a suitable rental, an accessible home to buy or a base that can be maintained between visits.",
+      "items": [
+        {
+          "route": "/en/services/country-location-selection/",
+          "title": "Choose suitable countries and locations",
+          "description": "Compare suitable countries and actual locations, including housing, purchase requirements, services, accessibility and the cost of keeping a base ready."
+        },
+        {
+          "route": "/en/services/residence-documents/",
+          "title": "Arrange residence and document preparation",
+          "description": "Organise the required records, professional input, appointments and follow-up for your residence or document assignment."
+        },
+        {
+          "route": "/en/services/apostilles-translations-documents/",
+          "title": "Arrange apostilles, translations and documents",
+          "description": "Obtain the specified documents and coordinate the apostilles, legalisation or translations required by their intended recipient."
+        },
+        {
+          "route": "/en/knowledge/residence-and-documents/emergency-documents/",
+          "title": "Emergency documents your family can actually use",
+          "description": "Have an emergency file set up for your family with essential records, authorised contacts and practical instructions. We run a practical test with the relatives authorised to act."
+        }
+      ],
+      "context": "<p>Still deciding where you could actually live? <a href=\"/en/services/country-location-selection/\">Choose suitable countries and locations</a> compares the options for your circumstances. If you already have a destination and residence route, <a href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a> turns that choice into the required preparatory work. Use <a href=\"/en/services/apostilles-translations-documents/\">Arrange apostilles, translations and documents</a> for specified records that must be obtained or prepared for their intended recipient.</p>"
+    },
+    {
+      "id": "money-structures",
+      "title": "Keep money accessible and ownership organised",
+      "intro": "A second account, a custody contract and a succession arrangement do different jobs. We organise the work around what you need to pay, retain control of or pass on. The responsible banks, lawyers, tax specialists and custodians handle their own decisions; EXOBASIS connects the preparation and follow-through.",
+      "items": [
+        {
+          "route": "/en/services/banking-liquidity/",
+          "title": "Prepare banking access and liquidity",
+          "description": "Prepare suitable banking and payment routes, onboarding evidence and practical access for the currencies and commitments that matter to you."
+        },
+        {
+          "route": "/en/services/asset-structures/",
+          "title": "Arrange asset structures, custody and succession",
+          "description": "Compare the ownership, control, succession and ongoing obligations of appropriate structures, then organise the agreed professional work."
+        },
+        {
+          "route": "/en/services/asset-transfers/",
+          "title": "Transfer assets and retain lawful access",
+          "description": "Coordinate an agreed transfer with its ownership records, lawful payment route, receiving institution and required professional checks."
+        },
+        {
+          "route": "/en/services/trust-structure/",
+          "title": "Arrange a trust structure",
+          "description": "Organise trust formation around a defined family or asset purpose, with suitable advisers, trustees, funding steps and administration."
+        },
+        {
+          "route": "/en/services/liechtenstein-foundation/",
+          "title": "Arrange a Liechtenstein foundation",
+          "description": "Connect the purpose, governing documents, Liechtenstein specialist work and home-country implications of a proposed foundation."
+        },
+        {
+          "route": "/en/services/tangible-asset-custody/",
+          "title": "Arrange custody and access to tangible assets",
+          "description": "Arrange custody with clear ownership records, insurance terms, authorised release and a practical route to your tangible assets."
+        }
+      ],
+      "context": "<p>If your immediate concern is making payments abroad, start with <a href=\"/en/services/banking-liquidity/\">Prepare banking access and liquidity</a>. When a specific holding also needs to move, <a href=\"/en/services/asset-transfers/\">Transfer assets and retain lawful access</a> connects the transfer work with access at the destination.</p><p>For decisions about ownership, control and who benefits later, choose <a href=\"/en/services/asset-structures/\">Arrange asset structures, custody and succession</a>. The more specific assignments <a href=\"/en/services/trust-structure/\">Arrange a trust structure</a> and <a href=\"/en/services/liechtenstein-foundation/\">Arrange a Liechtenstein foundation</a> cover the work to establish the selected structure. For physical assets, <a href=\"/en/services/tangible-asset-custody/\">Arrange custody and access to tangible assets</a> connects storage with the arrangements for release and use.</p>"
+    },
+    {
+      "id": "family-business",
+      "title": "Prepare the home, family and business",
+      "intro": "You need a place to live and the ability to carry on. We can organise property searches and viewings, independent title and purchase checks, contract and completion coordination, handover and property care. Alongside the home, we connect school, care, payments and the business tasks that must continue.",
+      "items": [
+        {
+          "route": "/en/services/family-business-continuity/",
+          "title": "Keep your family and business functioning",
+          "description": "Prepare the people, accepted authority, payments, care and essential business processes that must function during a move or an absence."
+        },
+        {
+          "route": "/en/services/arrange-arrival/",
+          "title": "Arrange your arrival abroad",
+          "description": "Explore, rent, buy or prepare an existing home abroad. Commission the search, viewings, independent purchase checks, completion, handover and ongoing care you need."
+        },
+        {
+          "route": "/en/services/overseas-company/",
+          "title": "Arrange an overseas company and ongoing administration",
+          "description": "Organise an overseas company for a real business purpose, connecting formation, banking, accounting and continuing administration."
+        }
+      ],
+      "context": "<p>A move creates work at both ends. <a href=\"/en/services/family-business-continuity/\">Keep your family and business functioning</a> prepares the responsibilities that continue while you are away; <a href=\"/en/services/arrange-arrival/\">Arrange your arrival abroad</a> handles the home and practical start at the destination. Where the business needs an overseas entity, <a href=\"/en/services/overseas-company/\">Arrange an overseas company and ongoing administration</a> connects the company setup with its continuing administration.</p>"
+    },
+    {
+      "id": "digital-continuity",
+      "title": "Stay reachable and recover access",
+      "intro": "Your money, travel evidence and business can all depend on one phone or email account. We identify those dependencies, set up permitted alternatives and test the agreed loss scenario with you. The result includes instructions that the authorised people can actually follow.",
+      "items": [
+        {
+          "route": "/en/services/communications-recovery/",
+          "title": "Set up private communications and recovery access",
+          "description": "Set up private contact and recovery arrangements for named devices and services, then rehearse what happens if the normal route fails."
+        }
+      ],
+      "context": "<p>Which lost login would stop you paying, travelling or running the business? Use that dependency to define the work in <a href=\"/en/services/communications-recovery/\">Set up private communications and recovery access</a>. The agreed setup and rehearsal focus on the services you need and the people permitted to use the replacement routes.</p>"
+    },
+    {
+      "id": "maintenance-activation",
+      "title": "Keep the preparation current and ready to use",
+      "intro": "Documents expire, providers change and empty homes need attention. You can commission checks and ongoing care for defined parts of the preparation. Where support during an agreed event is required, we establish the triggers, contact windows, authority, cost approvals and actual delivery arrangements beforehand.",
+      "items": [
+        {
+          "route": "/en/services/maintain-preparations/",
+          "title": "Review and maintain your preparations",
+          "description": "Keep agreed documents, deadlines, contacts, property checks and local arrangements up to date, with changes and follow-up work recorded."
+        },
+        {
+          "route": "/en/services/activation-emergency-coordination/",
+          "title": "Agreed activation and emergency coordination",
+          "description": "Prepare a defined activation sequence, with named responsibilities, verified contact routes, substitutes and the specialist capacity required."
+        }
+      ],
+      "context": "<p>Use <a href=\"/en/services/maintain-preparations/\">Review and maintain your preparations</a> to look after arrangements you already have. If you also need support when a defined event occurs, <a href=\"/en/services/activation-emergency-coordination/\">Agreed activation and emergency coordination</a> sets out how the prepared steps are put into motion, by whom and under which agreed conditions.</p>"
+    }
+  ],
+  "scope": {
+    "id": "scope-and-costs",
+    "title": "A defined result and a clear cost picture",
+    "body": "<p>You receive a proposal that sets out the work, the result, your decisions and the handover. We distinguish our planning or execution fee from specialist fees, official charges, travel, recurring costs and the money committed to a purchase or structure. Additional work is agreed before it proceeds.</p><p>For property, the overall budget includes the price or rent as well as professional checks, registration or transaction charges, any survey, insurance, utilities and subsequent care. The <a href=\"https://www.gov.uk/guidance/guidance-for-buying-property-abroad\">FCDO overseas property guide</a> explains why independent legal work, clear title and costs beyond the asking price matter. Your local professionals establish the rules and figures for the actual purchase.</p><p>You can bring a usable plan and commission execution directly. When the right service is unclear, use the free 20-minute orientation to establish the next step. Paid assessment, implementation and continuing care each have their own scope.</p>",
+    "items": [
+      [
+        "One task or connected preparation",
+        "Start with the job you need completed, even if the wider destination decision is still open."
+      ],
+      [
+        "Build on what exists",
+        "Use your current advisers, documents and arrangements where they fit the work."
+      ],
+      [
+        "Stay in control of commitments",
+        "Approve the scope, expenditure and material changes before they proceed."
+      ]
+    ]
+  },
+  "primary": {
+    "label": "Enquire about specific work",
+    "intent": "General enquiry"
+  },
+  "closing": {
+    "id": "direct-enquiry",
+    "title": "What do you want taken care of?",
+    "body": "Describe the task, the people it needs to work for and what you have already prepared. A broad outline is enough to start; personal records follow through an agreed channel.",
+    "context": "<p>Already know the job? Enquire about that work directly. If one unresolved question is holding you back, a <a href=\"/en/services/initial-assessment/\">Personal initial assessment</a> gives it a focused discussion and written decision brief. For connected preparation across family, assets and business, choose a <a href=\"/en/services/departure-contingency-plan/\">Personal departure and contingency plan</a>.</p>"
+  },
+  "displayTitle": "Put your Plan B into practice"
+}

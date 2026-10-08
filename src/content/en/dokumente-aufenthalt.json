@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/residence-documents/",
+  "lang": "en",
+  "title": "Arrange residence and document preparation",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-6fcabe787b612e"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-825f30ea215f1f"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Residence and documents / Preparation and execution",
+  "seoTitle": "Residence and document preparation | EXOBASIS",
+  "description": "Organise residence applications, family documents, appointments and follow-up for a usable second base, with each person’s rights and return options kept clear.",
+  "intro": "<p>You want somewhere your family can actually go and stay. That means matching the intended way of living to each person's passport, existing rights, documents and application requirements. One family can contain several different immigration cases.</p><p>EXOBASIS organises the agreed residence and document work from the starting records through procurement, professional input, appointments and follow-up. You receive the dossier, decisions and dates needed to use and maintain the position reached.</p>",
+  "primary": {
+    "label": "Enquire about residence and document preparation",
+    "intent": "Arrange residence and document preparation"
+  },
+  "summary": {
+    "kicker": "Your assignment with EXOBASIS",
+    "title": "Every person accounted for. Every document prepared for its use.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "A notebook and pen on a table, illustrating preparation.",
+    "facts": [
+      [
+        "Purpose",
+        "Temporary refuge, second base or permanent residence"
+      ],
+      [
+        "Execution",
+        "Dossier, procurement, appointments and follow-up"
+      ],
+      [
+        "Handover",
+        "Documents, official status and the next required actions"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Define whether you need a temporary refuge, a second base or a move",
+      "layout": "prose",
+      "body": "<p>A place for a few weeks, a home available throughout the year and a permanent family relocation require different preparations. We establish how you intend to use the destination and whether you need to work, operate a business or enrol children there.</p><p>For each person, we record nationality, present residence status, existing permissions, family connection and the proposed route. A UK residence permission is not British citizenship; a UAE residence permission is not a passport. The <a href=\"/en/knowledge/residence-and-documents/rights-citizenship/\">residence and citizenship guide</a> explains the distinction. If the destination is still undecided, start with the <a href=\"/en/countries/\">country comparison</a> or commission a personal selection.</p><p>If your concern is war or conscription, existing military-service or reserve obligations are recorded as a separate legal question. The relevant jurisdiction and personal status determine the specialist work required; the residence application proceeds from that confirmed position.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Make the records tell one consistent story",
+      "layout": "prose",
+      "body": "<p>We review passports, civil-status documents, existing permits, financial evidence and the other records required for the intended route. Names, dates and family relationships need to agree across the file. A name change or a document issued in another country may require a connecting record.</p><p>We identify what is current, what must be replaced and what needs authentication or translation. Each original has a known holder and purpose. The family also needs usable <a href=\"/en/knowledge/residence-and-documents/emergency-documents/\">emergency document access</a> if a bag or device is lost.</p><p>For a UK eVisa holder, <a href=\"https://www.gov.uk/evisa/travel-with-evisa\">UKVI requires correct account and eVisa details</a>, including the current travel document and a match with the carrier's passenger information. We include that check when preserving a UK return option, together with access to the account if the usual phone is unavailable.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Obtain missing documents and organise the necessary legal work",
+      "layout": "prose",
+      "body": "<p>EXOBASIS follows the procurement and preparation of the agreed records. Where needed, <a href=\"/en/services/apostilles-translations-documents/\">apostilles, translations and document legalisation</a> are organised around the receiving authority's requirements.</p><p>Family travel authority belongs in the same preparation. In the UAE, the <a href=\"https://u.ae/en/information-and-services/social-affairs/Life-events/divorce-in-the-uae\">government's family-law guidance</a> distinguishes applicable personal-status regimes. It describes consent or court authority for travel in custody cases and court involvement where a parent objects under civil joint custody. We organise review of the actual orders, consent and family circumstances before documents are treated as sufficient for travel.</p><p>For a UK case, <a href=\"https://www.gov.uk/permission-take-child-abroad\">GOV.UK's child-travel guidance</a> identifies parental responsibility and permission as central. The relevant UK jurisdiction and existing order determine the advice for your case. A child's passport establishes identity; the family also needs the authority to make the proposed journey.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Coordinate appointments around what must happen first",
+      "layout": "prose",
+      "body": "<p>We turn the dossier requirements into an appointment and submission sequence. Some steps need the applicant in person; others depend on a document, medical examination, sponsor action or professional certification. You know what to bring and what must be completed beforehand.</p><p>Before an appointment or departure, we reconfirm the receiving office's requirements and the documents being used. We track receipts, application references and queries. Where a regulated adviser must submit or represent you, that role and your direct authorisation are established explicitly.</p><p>If there is a possible UAE travel restriction, the enquiry is directed to the authority and case type concerned. A search limited to a particular category or emirate is not treated as clearance for every court, immigration or family matter. The legal work is to establish the position and obtain the relevant confirmation before travel is arranged.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Preserve the return option you intend to keep",
+      "layout": "prose",
+      "body": "<p>Preparing a second base can be different from ending your current residence. For UAE residents, we separate permit expiry, continuous absence, sponsor changes and the grace period following cancellation. Each family member's status is recorded individually.</p><p>The <a href=\"https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/general-provisions-for-the-residence-visa\">UAE government describes a general 180-day continuous-absence rule and category-specific exceptions</a>. ICP's separate <a href=\"https://icp.gov.ae/en/services-details/?serviceid=68e352d65ae59b00117383fc\">permit for more than six months outside the country</a> expressly excludes Dubai residents. Your permit category and competent authority therefore determine the work; a general six-month reminder is insufficient.</p><p>We put the confirmed dates and actions into your file, follow authority queries and coordinate renewal or cancellation steps within the commissioned scope. You can then decide how to use the second base without accidentally dismantling the return route you wanted to retain.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Receive the dossier, current position and next dates",
+      "layout": "prose",
+      "body": "<p>The handover contains the prepared documents, submission receipts, official decisions received, validity periods and actions still due. It distinguishes an application submitted from a permission granted and records the conditions attached to that permission.</p><p>We explain who holds the originals, which working copies are available, who is authorised to use them, how the relevant status is accessed and what the next renewal or review requires. The <a href=\"/en/knowledge/residence-and-documents/emergency-documents/\">emergency document guide</a> explains how to make that handover usable for the family member or representative who may need to act. <a href=\"/en/services/maintain-preparations/\">Continuing preparation support</a> can keep those deadlines, records and access arrangements current after the initial work is complete.</p>"
+    }
+  ],
+  "working": {
+    "title": "How we work together",
+    "body": "<p>You provide the existing records privately, confirm the intended way of living and attend the appointments that require you. EXOBASIS manages the agreed organisation and professional handovers. The competent authority decides the application and its conditions.</p>"
+  },
+  "nextWork": {
+    "title": "The next practical step",
+    "body": "<p>Once the residence and document position is established, it can be connected to housing, banking and arrival. You can also commission maintenance of the resulting deadlines and access arrangements as a defined follow-on task.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "Which residence or document work do you need taken care of?",
+    "body": "Tell us your current country, intended destination if known and whether the preparation is for you or a family. Detailed status records and identity documents follow through the protected channel."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "258",
+        "label": "Residence, existing rights and second citizenship",
+        "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+        "position": "Kernabschnitt 1: Eligibility and intended use",
+        "purpose": "Vorhandene Rechte zuerst nutzen und zusätzliche Aufenthalts-/Staatsangehörigkeitswege richtig einordnen."
+      },
+      {
+        "line": "259",
+        "label": "Arrange apostilles, translations and documents",
+        "target": "/en/services/apostilles-translations-documents/",
+        "position": "Kernabschnitt 3: Obtaining documents and specialist review",
+        "purpose": "Konkrete Urkunden für die tatsächliche Verwendung vorbereiten und beschaffen lassen."
+      },
+      {
+        "line": "260",
+        "label": "Emergency documents your family can actually use",
+        "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+        "position": "Kernabschnitt 6: Documented handover",
+        "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+      },
+      {
+        "line": "261",
+        "label": "Countries and options",
+        "target": "/en/countries/",
+        "position": "Kernabschnitt 1: Eligibility and intended use",
+        "purpose": "Szenariogerechte Optionen vergleichen, ohne vorher ein Land gewählt haben zu müssen."
+      },
+      {
+        "line": "262",
+        "label": "Review and maintain your preparations",
+        "target": "/en/services/maintain-preparations/",
+        "position": "Kernabschnitt 6: Documented handover",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages.",
+    "redaction": {
+      "package": "leistungen-a-en",
+      "seeding": [],
+      "sourceScope": "PB-D65 English editorial candidate; see QUELLEN-EN.md and SEITEN-EN.jsonl. No integration or approval claimed.",
+      "mappedLinks": [
+        {
+          "line": "258",
+          "label": "Residence, existing rights and second citizenship",
+          "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+          "position": "Kernabschnitt 1: Eligibility and intended use",
+          "purpose": "Vorhandene Rechte zuerst nutzen und zusätzliche Aufenthalts-/Staatsangehörigkeitswege richtig einordnen."
+        },
+        {
+          "line": "259",
+          "label": "Arrange apostilles, translations and documents",
+          "target": "/en/services/apostilles-translations-documents/",
+          "position": "Kernabschnitt 3: Obtaining documents and specialist review",
+          "purpose": "Konkrete Urkunden für die tatsächliche Verwendung vorbereiten und beschaffen lassen."
+        },
+        {
+          "line": "260",
+          "label": "Emergency documents your family can actually use",
+          "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+          "position": "Kernabschnitt 6: Documented handover",
+          "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+        },
+        {
+          "line": "261",
+          "label": "Countries and options",
+          "target": "/en/countries/",
+          "position": "Kernabschnitt 1: Eligibility and intended use",
+          "purpose": "Szenariogerechte Optionen vergleichen, ohne vorher ein Land gewählt haben zu müssen."
+        },
+        {
+          "line": "262",
+          "label": "Review and maintain your preparations",
+          "target": "/en/services/maintain-preparations/",
+          "position": "Kernabschnitt 6: Documented handover",
+          "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+        }
+      ],
+      "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+    }
+  },
+  "scope": {
+    "id": "scope",
+    "title": "What you receive",
+    "body": "<p>You receive the completed residence and document work agreed in your proposal, together with a tracked dossier and the evidence of the stage reached. We incorporate valid records and existing professional work rather than starting again unnecessarily.</p>",
+    "items": [
+      [
+        "Individual family cases",
+        "Each person’s passport, rights and application requirements are accounted for."
+      ],
+      [
+        "Organised preparation",
+        "Document procurement, authentication and appointments follow a coordinated sequence."
+      ],
+      [
+        "A maintainable result",
+        "Permissions, expiry dates and outstanding authority actions are clear."
+      ]
+    ],
+    "costs": "Coordination, official application fees, procurement, translation, certification, medical checks, travel and legal advice are separate cost items. The proposal identifies the people, procedures and follow-up included."
+  },
+  "displayTitle": "Prepare the residence rights and documents your family will need"
+}

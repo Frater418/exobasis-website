@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/ausweg-vorbereiten/",
+  "lang": "de",
+  "title": "Deinen Ausweg vorbereiten",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-7f069bcde54445"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-3cf35cab33b542"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-770b74d19817c3"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "EXOBASIS Wissen",
+  "seoTitle": "Plan B im Ausland: Ausweg vorbereiten | EXOBASIS",
+  "description": "Ein Notfallplan für deine Familie: Auslöser, Rechte, Geld, Reise und Unterkunft vorbereiten, zusammen testen und aktuell halten.",
+  "intro": "<p>Du willst gehen können, bevor Krieg, staatlicher Zwang oder eine persönliche Krise deine Möglichkeiten verengen. Dafür brauchst du mehr als ein Wunschland und gültige Pässe. Dein Plan B im Ausland muss für deine Familie rechtlich nutzbar, finanziert und praktisch vorbereitet sein.</p><p>Diese Vorbereitung lässt sich aufbauen, während du dein heutiges Leben weiterführst. Du entscheidest, ob du eine Reserve für den Ernstfall, einen zweiten Wohnsitz oder einen dauerhaften Wegzug willst. Daraus entstehen unterschiedliche Aufgaben und eine klare Reihenfolge.</p>",
+  "primary": {
+    "label": "Meinen Ausweg vorbereiten lassen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Gehen können, wenn du dich dafür entscheidest",
+    "facts": [
+      [
+        "Entscheidung",
+        "Auslöser, Verantwortliche und konkrete Schritte"
+      ],
+      [
+        "Vorbereitung",
+        "Rechte, Geld, Dokumente und ein erreichbarer Ort"
+      ],
+      [
+        "Nutzung",
+        "Gemeinsam prüfen und bei Veränderungen nachführen"
+      ]
+    ],
+    "image": "einstieg-ausweg.webp",
+    "imageAlt": "Landschaft als Symbol für eine eigene Option außerhalb."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Fluchtvorsorge beginnt mit einer nutzbaren Option",
+      "body": "<p>Die Sorge um deine Familie kann sehr konkret sein: eine Einberufung, eingeschränkte Ausreise, der Verlust deines Bankzugangs oder die Angst, zu lange abzuwarten. Trenne dabei die Gefahr, auf die du dich vorbereitest, von einer tatsächlich eingetretenen Veränderung. Dein Plan braucht beides: ein klares Ziel und überprüfbare Informationen.</p><p>Für eine kurzfristige Zuflucht stehen erreichbare Unterkunft, Versorgung und ausreichende Aufenthaltszeit vorn. Eine länger gepflegte Außenbasis braucht zusätzlich laufende Kosten, verlässliche Betreuung und gültige Rechte auch nach längerer Abwesenheit. Beim Auswandern kommen Aufgaben am bisherigen Wohnort, Schule, Tätigkeit und steuerliche Folgen hinzu.</p><p>Diese Wege können aufeinander aufbauen. Eine vorbereitete erste Unterkunft verschafft Zeit für eine spätere Wohnentscheidung. Ein dauerhafter Mietvertrag oder Immobilienkauf sollte dagegen erst folgen, wenn Standort, Aufenthaltsweg, Versorgung und Finanzierbarkeit zusammenpassen.</p>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Ein Familien-Notfallplan braucht klare Auslöser",
+      "body": "<p>Vereinbart im ruhigen Moment, wer eine Lage beobachtet, wer die Entscheidung trifft und wer die einzelnen Aufgaben übernimmt. Ein Auslöser ist eine überprüfbare Veränderung, keine ständig wechselnde Schlagzeile. Das können eine amtliche Reisewarnung für eure Route, eine tatsächliche Flugstreichung oder eine festgestellte persönliche Rechtspflicht sein.</p><p>Ordnet jedem Auslöser eine Handlung zu. Eine Information kann zunächst eine Quellenprüfung und einen Familienkontakt auslösen. Eine bestätigte Einschränkung kann bedeuten, dass ihr eine bereits geprüfte Alternative aktiviert. Legt auch fest, wann eine Route ausscheidet und ihr vorerst am sicheren Aufenthaltsort bleibt.</p><p>Wer entscheidet, wenn die übliche Ansprechperson fehlt? Wer erreicht Angehörige ohne Messenger? Ein guter Notfallplan für Familien beantwortet diese Fragen vorab und ist allen Beteiligten verständlich.</p><div class=\"exb-criteria-table\" role=\"region\" tabindex=\"0\" aria-labelledby=\"szenarienvergleich\"><table><caption id=\"szenarienvergleich\">Drei Lagen, unterschiedliche Entscheidungen</caption><thead><tr><th scope=\"col\">Lage</th><th scope=\"col\">Auslöser und nächster Schritt</th><th scope=\"col\">Was dafür bereit sein muss</th><th scope=\"col\">Vor dem Handeln erneut prüfen</th></tr></thead><tbody><tr><th scope=\"row\">Geordneter Ortswechsel</th><td>Der vereinbarte Umzugstermin rückt näher oder die Familie entscheidet sich für die vorbereitete Außenbasis. Übergaben und Reise auf diesen Termin ausrichten.</td><td>Aufenthaltsrechte aller Personen, Unterlagen, finanzierter Haushalt, Unterkunft und die nötige Schul- oder Versorgungsaufnahme.</td><td>Sind Bewilligungen und Dokumente gültig, die Anreise bestätigt und Wohnung sowie Versorgung zum Termin verfügbar?</td></tr><tr><th scope=\"row\">Regionale Eskalation</th><td>Bestätigte Warnungen, eine neue persönliche Rechtspflicht oder ausgedünnte Verbindungen verändern den bisherigen Plan. Den vereinbarten Abreisezeitpunkt oder eine geprüfte Alternative neu entscheiden.</td><td>Nutzbare Ausreise-, Transit- und Einreiserechte, Geldzugriff, erreichbare Angehörige und eine vorbereitete Aufnahme außerhalb des betroffenen Gebiets.</td><td>Gelten die Rechte noch, befördert der Anbieter alle Mitreisenden und ist die gesamte Route offen? Wenn eine Voraussetzung fehlt, den vorbereiteten sicheren Aufenthalt nutzen.</td></tr><tr><th scope=\"row\">Versorgungs- oder Verkehrsstörung</th><td>Eine Verbindung fällt aus, Medikamente werden knapp oder örtliche Versorgung bricht weg. Zuerst Versorgung und sicheren Aufenthalt sichern, dann Weiterreise oder Abwarten entscheiden.</td><td>Überbrückbare Versorgung, geeignete Unterkunft, ein unabhängiger Kontakt- und Zahlungsweg sowie bestätigbare Transport- und Behandlungsalternativen.</td><td>Sind Ersatzroute, Medikamente und Aufnahme tatsächlich verfügbar? Vor einer Umbuchung auch die Bedingungen für Mitreisende, Hilfsmittel und Transit neu bestätigen.</td></tr></tbody></table></div>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/\" data-route=\"/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/\"><span>Wohin bei Krieg und eingeschränkter Ausreise?</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/\" data-route=\"/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/\"><span>Einberufung und Ausreise aus Deutschland</span><span aria-hidden=\"true\">→</span></a></div>",
+      "illustration": {
+        "title": "Beispiel: Eine gebuchte Verbindung fällt aus",
+        "note": "Muster für eine Entscheidungsfolge, keine aktuelle Reiseempfehlung.",
+        "steps": [
+          [
+            "Sachverhalt bestätigen",
+            "Mitteilung des Beförderers und zuständige Behördeninformationen prüfen."
+          ],
+          [
+            "Familie erreichen",
+            "Alle Beteiligten über den vereinbarten Haupt- oder Ersatzweg kontaktieren."
+          ],
+          [
+            "Alternative abgleichen",
+            "Rechte jeder Person, Transport, Medikamente, Geld und Unterkunft bestätigen."
+          ],
+          [
+            "Entscheidung umsetzen",
+            "Die befugte Person entscheidet; die Verantwortlichen führen ihre Aufgaben aus."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Auswandern vorbereiten: eine Checkliste mit Abhängigkeiten",
+      "body": "<p>Eine brauchbare Auswandern-Checkliste nennt nicht nur Aufgaben. Sie zeigt, was zuerst fertig sein muss. Ein Bankkonto kann eine Wohnadresse verlangen, eine Aufenthaltsakte eine bestimmte Urkunde und ein Schulplatz den tatsächlichen Aufnahmetermin. Wer diese Reihenfolge übersieht, zahlt womöglich schon für eine Wohnung, während der entscheidende Nachweis noch fehlt.</p><p>Der <a href=\"https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/vorsorge_node.html\">Vorsorgebereich des BBK</a> ist ein Ausgangspunkt für die persönliche Notfallvorsorge. Für einen grenzüberschreitenden Plan kommen die Rechte und tatsächlichen Annahmebedingungen der beteiligten Staaten, Banken und Dienstleister hinzu. Notiere deshalb neben jedem erledigten Punkt den zugehörigen Nachweis und die zuständige Person.</p><ul><li><strong>Menschen und Rechte:</strong> Für jede Person Pass, Einreise, Transit, Aufenthalt, Sorge und Vertretung zuordnen.</li><li><strong>Geld und Einkommen:</strong> Anfangskosten, laufenden Bedarf und einen unabhängig nutzbaren Zahlungsweg vorbereiten.</li><li><strong>Unterlagen:</strong> Benötigte Originale, Beglaubigungen, Übersetzungen und erreichbare Kopien beschaffen.</li><li><strong>Versorgung und Alltag:</strong> Medikamente, Betreuung, Schule und eine geeignete erste Unterkunft bestätigen.</li><li><strong>Zurückbleibendes:</strong> Haus, Tiere, Post, Verträge und Betrieb an befugte Personen übergeben.</li><li><strong>Funktionsprobe:</strong> Den Ablauf ohne die sonst unverzichtbare Person oder das Haupttelefon durchgehen.</li></ul>",
+      "criteria": {
+        "title": "Was ein Vorbereitungsstand tatsächlich bedeutet",
+        "headers": [
+          "Stand",
+          "Bedeutung",
+          "Nötiger nächster Nachweis"
+        ],
+        "rows": [
+          [
+            "Bekannt",
+            "Eine Möglichkeit wurde gefunden.",
+            "Quelle und Zuständigkeit klären."
+          ],
+          [
+            "Geprüft",
+            "Die Voraussetzung wurde fallbezogen geprüft.",
+            "Einrichtung oder Annahme bestätigen."
+          ],
+          [
+            "Eingerichtet",
+            "Der vereinbarte Zugang besteht.",
+            "Erlaubte Nutzung kontrolliert erproben."
+          ],
+          [
+            "Erprobt",
+            "Der definierte Test wurde durchgeführt.",
+            "Ergebnis, Grenzen und Datum festhalten."
+          ],
+          [
+            "Aktuell nutzbar",
+            "Die relevanten Voraussetzungen gelten noch.",
+            "Änderungen weiter beobachten."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Ausreise, Transit und Ankunft bilden einen Weg",
+      "body": "<p>Prüfe die Reise vom heutigen Aufenthaltsort bis zur Tür deiner Unterkunft. Dazu gehören Zubringer, Grenz- oder Transitvoraussetzungen, Gepäck, Hilfsmittel, Haustiere und die Beförderungsbedingungen. Eine alternative Fluggesellschaft am selben geschlossenen Flughafen löst das gemeinsame Problem nicht.</p><p>Die Rechte werden für jeden Mitreisenden geprüft. Der Pass eines Elternteils sagt nichts darüber aus, ob das andere Elternteil mit seinem Dokument einreisen darf. Eine Reisevollmacht und die Befugnis, den dauerhaften Aufenthalt eines Kindes zu verlegen, sind ebenfalls verschiedene Fragen. Die <a href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/travel-documents-minors/index_de.htm\">EU-Information zu Reisedokumenten für Minderjährige</a> erläutert, weshalb nationale Regeln, Transitstaat und Beförderer einzeln zu beachten sind.</p><p>Am Ziel muss jemand Zugang zur Unterkunft haben. Vereinbare Schlüsselübergabe, Ankunft außerhalb üblicher Zeiten und die erste Versorgung. Eine flexible möblierte Mietlösung kann für den Übergang geeignet sein. Wer eine Immobilie als dauerhafte Außenbasis kaufen möchte, braucht Standortauswahl, Besichtigungen, unabhängige Titel- und Kaufprüfung, Abschlusskoordination sowie eine Betreuung während der Abwesenheit. Diese Arbeiten lassen sich mit EXOBASIS beauftragen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/laender/\" data-route=\"/de/laender/\"><span>Länder und Möglichkeiten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Den Plan pflegen und zum richtigen Zeitpunkt nutzen",
+      "body": "<p>Ein einmal angelegter Plan altert: Pässe laufen ab, Vertreter wechseln, Bankverfahren ändern sich und eine frühere Unterkunft steht nicht mehr zur Verfügung. Lege feste Prüftermine sowie zusätzliche Anlässe fest, etwa einen neuen Pass, eine Geburt, einen Wohnsitzwechsel oder eine geänderte Behandlung.</p><p>Die Aktivierung ist ein eigener Ablauf. Halte fest, wer aktuelle Informationen bestätigt, welche bereits vorbereiteten Leistungen abgerufen werden und wie sich die Beteiligten erreichen. Betreuungsumfang, Erreichbarkeit und erforderliche Unterstützung werden vorher vereinbart.</p><p>Lege fest, wer die Aktivierung freigibt und bis zu welchem Betrag diese Person Ausgaben genehmigen darf. Vor der Beauftragung bestätigen die betroffenen Familienmitglieder ihre Zustimmung, die Zielstelle ihre Aufnahme und die eingesetzten Anbieter den konkreten Auftrag samt Bedingungen. Vor der Ausführung müssen die Identität der handelnden Person und ihre Vollmacht oder sonstige Vertretungsbefugnis für die konkrete Aufgabe geprüft sein. Die zuständige Bank, Behörde oder der beauftragte Anbieter muss die dafür vorgelegten Nachweise akzeptiert haben. Ändern sich Leistung oder Kosten, wird die Freigabe dafür erneut eingeholt.</p><p>Übe zunächst ohne irreversible Folgen. Lässt sich die richtige Unterlage finden? Erreicht ihr die zuständige Person? Funktioniert der zugelassene Ersatzweg zum Konto? Aus den tatsächlichen Ergebnissen ergibt sich, was noch eingerichtet werden muss.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/vorbereitung-betreuen/\" data-route=\"/de/leistungen/vorbereitung-betreuen/\"><span>Vorbereitung prüfen und aktuell halten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/aktivierung-notfallkoordination/\" data-route=\"/de/leistungen/aktivierung-notfallkoordination/\"><span>Vereinbarte Aktivierung und Notfallkoordination</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Der heutige Wohnsitz bestimmt deine Ausgangsaufgaben",
+      "body": "<p>Aus Deutschland, Österreich oder der Schweiz wegzugehen führt zu unterschiedlichen Melde-, Versicherungs-, Steuer- und gegebenenfalls Dienstpflichtfragen. Auch innerhalb einer Familie können verschiedene Staatsangehörigkeiten und Titel betroffen sein.</p><p>Beginne daher mit deiner tatsächlichen Wohnsituation und den Bindungen jeder Person. Eine vorsorglich aufgebaute Auslandsoption ist etwas anderes als die Aufgabe der bisherigen Wohnung. Die folgenden Herkunftsseiten führen zu den jeweils passenden Stellen und Abläufen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\"><span>Aus Deutschland einen Ausweg vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-oesterreich/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-oesterreich/\"><span>Aus Österreich einen Ausweg vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-schweiz/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-schweiz/\"><span>Wegzug aus der Schweiz vorbereiten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-7",
+      "title": "EXOBASIS macht aus dem Vorhaben organisierte Vorbereitung",
+      "body": "<p>Wir erarbeiten den persönlichen Flucht- und Notfallplan und führen die beauftragten Vorbereitungen aus. Dazu können Länder- und Standortauswahl, Dokumentenbeschaffung, Bankzugang, Unterkunft, Immobilienkauf und die Organisation des Familien- oder Unternehmensübergangs gehören. Erforderliche Rechts-, Steuer- und medizinische Facharbeit wird in dieselbe Aufgabenfolge eingebunden.</p><p>Du kannst eine klar bestimmte Einzelaufgabe direkt beauftragen oder mehrere Arbeiten zu einem zusammenhängenden Mandat verbinden. Für den Anfang beschreibst du deine Ausgangsbasis, die betroffenen Menschen, dein gewünschtes Ergebnis und den zeitlichen Anlass. Daraus klären wir den nächsten sinnvollen Auftrag.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/flucht-notfallplan/\" data-route=\"/de/leistungen/flucht-notfallplan/\"><span>Persönlicher Flucht- und Notfallplan</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Handlungsspielraum entsteht vor dem Ernstfall"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Welche Lage löst welchen Schritt aus?"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Was ist schon wirklich vorbereitet?"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Ausreise, Transit und Ankunft zusammen planen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Vorbereitung pflegen und vereinbart aktivieren"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Deine Ausgangslage am heutigen Wohnsitz"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Aus deiner Vorbereitung einen ausführbaren Auftrag machen"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 46,
+        "target": "/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/",
+        "label": "Wohin bei Krieg und eingeschränkter Ausreise?",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krieg und rechtzeitige Ausreise",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 395,
+        "target": "/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/",
+        "label": "Einberufung und Ausreise aus Deutschland",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 53,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 51,
+        "target": "/de/leistungen/vorbereitung-betreuen/",
+        "label": "Vorbereitung prüfen und aktuell halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Voraussetzungen aktuell halten",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 52,
+        "target": "/de/leistungen/aktivierung-notfallkoordination/",
+        "label": "Vereinbarte Aktivierung und Notfallkoordination",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vereinbarten Fall aktivieren",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 47,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+        "label": "Aus Deutschland einen Ausweg vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 48,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+        "label": "Aus Österreich einen Ausweg vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 49,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+        "label": "Wegzug aus der Schweiz vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 50,
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 54,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      }
+    ],
+    "seeding": [
+      "D18",
+      "D17",
+      "D22"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Deinen Plan B im Ausland vorbereiten"
+}

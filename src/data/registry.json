@@ -1,0 +1,3752 @@
+[
+  {
+    "route": "/de/leistungen/erstklaerung/",
+    "lang": "de",
+    "title": "Persönliche Erstklärung",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-36be7e8f169d81"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-31e33d2ae561b1"
+    },
+    "legacyCMSStatus": "ID 61, page, publish, content",
+    "translation": "/en/services/initial-assessment/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Eine Hauptfrage klären und einen persönlichen Entscheidungsbrief erhalten.",
+    "role": "Markenleistung",
+    "sectionOrder": "Vorabfragebogen > Vorbereitung > 60-Minuten-Gespräch > persönlicher Entscheidungsbrief > begrenzte Rückfrage > freiwillige nächste Arbeit",
+    "topic": "T01",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/initial-assessment/",
+    "lang": "en",
+    "title": "Personal initial assessment",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-36be7e8f169d81"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-31e33d2ae561b1"
+    },
+    "legacyCMSStatus": "ID 62, page, publish, content",
+    "translation": "/de/leistungen/erstklaerung/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Eine Hauptfrage klären und einen persönlichen Entscheidungsbrief erhalten.",
+    "role": "Markenleistung",
+    "sectionOrder": "Vorabfragebogen > Vorbereitung > 60-Minuten-Gespräch > persönlicher Entscheidungsbrief > begrenzte Rückfrage > freiwillige nächste Arbeit",
+    "topic": "T01",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/",
+    "lang": "de",
+    "title": "EXOBASIS: Eine eigene Basis außerhalb des Herkunftslands",
+    "model": "startseite",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-cad1dcd4d29152"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-7e391b72a1c31e"
+    },
+    "legacyCMSStatus": "ID 59, page, publish, content",
+    "translation": "/en/",
+    "kind": "page",
+    "parent": null,
+    "intent": "Geschäftszweck erkennen und über Anliegen, Leistung oder Land zur passenden Hilfe gelangen.",
+    "role": "Startseite",
+    "sectionOrder": "Sichtbarer Konflikt: Wut, institutionelles Misstrauen und eigener Ausweg > vorbereitete Außenbasis > drei direkte Einstiege > Planen, Einrichten, Pflegen, Aktivieren > schriftliche Gründermotivation > konkrete Ergebnisse und Arbeitsweise > diskrete Anfrage",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/",
+    "lang": "en",
+    "title": "EXOBASIS: Your own base beyond your home country",
+    "model": "startseite",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-cad1dcd4d29152"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-7e391b72a1c31e"
+    },
+    "legacyCMSStatus": "ID 60, page, publish, content",
+    "translation": "/de/",
+    "kind": "page",
+    "parent": null,
+    "intent": "Geschäftszweck erkennen und über Anliegen, Leistung oder Land zur passenden Hilfe gelangen.",
+    "role": "Startseite",
+    "sectionOrder": "Sichtbarer Konflikt: Wut, institutionelles Misstrauen und eigener Ausweg > vorbereitete Außenbasis > drei direkte Einstiege > Planen, Einrichten, Pflegen, Aktivieren > schriftliche Gründermotivation > konkrete Ergebnisse und Arbeitsweise > diskrete Anfrage",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+    "lang": "en",
+    "title": "Leaving the UAE or preparing a second option",
+    "model": "herkunft",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-3acad7caf0098b"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-54847ff20ef0d9"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": null,
+    "kind": "page",
+    "parent": "/en/knowledge/prepare-your-way-out/",
+    "intent": "Den tatsächlichen Wegzug aus dem benannten heutigen Wohnsitz vorbereiten.",
+    "role": "Herkunfts-/Wohnsitzzugang",
+    "sectionOrder": "Wohnsitz und Staatsangehörigkeit > Residence and sponsor dependencies > employment/company/banking continuity > travel and family transition > Zielrechte und Ankunft > individuelle Durchführung",
+    "topic": "T01",
+    "clusters": "C08",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+    "lang": "en",
+    "title": "Leaving the UK with a prepared alternative",
+    "model": "herkunft",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-80a7afa6a5cece"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-f814f18f26cbc3"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": null,
+    "kind": "page",
+    "parent": "/en/knowledge/prepare-your-way-out/",
+    "intent": "Den tatsächlichen Wegzug aus dem benannten heutigen Wohnsitz vorbereiten.",
+    "role": "Herkunfts-/Wohnsitzzugang",
+    "sectionOrder": "Wohnsitz und Staatsangehörigkeit > UK-residence versus nationality > HMRC and business responsibilities > destination family rights > Zielrechte und Ankunft > individuelle Durchführung",
+    "topic": "T01",
+    "clusters": "C07",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/",
+    "lang": "de",
+    "title": "Konkrete Hilfe",
+    "model": "leistungsuebersicht",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-9bc0d761ab786b"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-1f0a01d2104715"
+    },
+    "legacyCMSStatus": "ID 55, page, draft, structure",
+    "translation": "/en/services/",
+    "kind": "page",
+    "parent": "/de/",
+    "intent": "Passende bezahlte Arbeit finden, auch ohne Gesamtberatung oder festes Zielland.",
+    "role": "Leistungsübersicht",
+    "sectionOrder": "Plan und persönliche Klärung > Länder, Aufenthalt und Dokumente > Geld und Strukturen > Familie und Geschäft > digitale Handlungsfähigkeit > Betreuung und Aktivierung > direkter Auftrag",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/",
+    "lang": "en",
+    "title": "Practical help",
+    "model": "leistungsuebersicht",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-9bc0d761ab786b"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-1f0a01d2104715"
+    },
+    "legacyCMSStatus": "ID 56, page, draft, structure",
+    "translation": "/de/leistungen/",
+    "kind": "page",
+    "parent": "/en/",
+    "intent": "Passende bezahlte Arbeit finden, auch ohne Gesamtberatung oder festes Zielland.",
+    "role": "Leistungsübersicht",
+    "sectionOrder": "Plan und persönliche Klärung > Länder, Aufenthalt und Dokumente > Geld und Strukturen > Familie und Geschäft > digitale Handlungsfähigkeit > Betreuung und Aktivierung > direkter Auftrag",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/aktivierung-notfallkoordination/",
+    "lang": "de",
+    "title": "Vereinbarte Aktivierung und Notfallkoordination",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-77da1635c006e9"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-d03e5bd99fd1a4"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/activation-emergency-coordination/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Für benannte Unterstützungsfälle einen besetzten, verifizierbaren und getesteten Ablauf vereinbaren.",
+    "role": "Markenleistung",
+    "sectionOrder": "Vereinbarter Fall > Auslöser und Voraussetzungen > Kontaktfenster/Vertretung > Identitätsprüfung und Befugnisse > Ausgabenfreigabe > Fachausführung > Übergabe und Nachbereitung",
+    "topic": "T01",
+    "clusters": "C09;C22",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/activation-emergency-coordination/",
+    "lang": "en",
+    "title": "Agreed activation and emergency coordination",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-77da1635c006e9"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-d03e5bd99fd1a4"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/aktivierung-notfallkoordination/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Für benannte Unterstützungsfälle einen besetzten, verifizierbaren und getesteten Ablauf vereinbaren.",
+    "role": "Markenleistung",
+    "sectionOrder": "Vereinbarter Fall > Auslöser und Voraussetzungen > Kontaktfenster/Vertretung > Identitätsprüfung und Befugnisse > Ausgabenfreigabe > Fachausführung > Übergabe und Nachbereitung",
+    "topic": "T01",
+    "clusters": "C09;C22",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/ankunft-organisieren/",
+    "lang": "de",
+    "title": "Ankunft im Zielland organisieren",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0d35c4088828ec"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-60a02e4164d95a"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/arrange-arrival/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Erkundung, Unterkunft, Übergabe und einen funktionierenden ersten Alltag vorbereiten lassen.",
+    "role": "Konkreter Such-/Organisationsauftrag",
+    "sectionOrder": "Erkundung oder festes Ankunftsziel > Region/Budget > Unterkunftssuche und Besichtigung > Auswahl/Verträge > Transfer/Übergabe > Internet/Arbeitsplatz > Schule/Versorgung > Nachfragen",
+    "topic": "T04",
+    "clusters": "C30",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/arrange-arrival/",
+    "lang": "en",
+    "title": "Arrange your arrival abroad",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0d35c4088828ec"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-60a02e4164d95a"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/ankunft-organisieren/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Erkundung, Unterkunft, Übergabe und einen funktionierenden ersten Alltag vorbereiten lassen.",
+    "role": "Konkreter Such-/Organisationsauftrag",
+    "sectionOrder": "Erkundung oder festes Ankunftsziel > Region/Budget > Unterkunftssuche und Besichtigung > Auswahl/Verträge > Transfer/Übergabe > Internet/Arbeitsplatz > Schule/Versorgung > Nachfragen",
+    "topic": "T04",
+    "clusters": "C30",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+    "lang": "de",
+    "title": "Apostillen, Übersetzungen und Urkunden organisieren",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-1c9cff828fe023"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-b1925b4404aa8c"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/apostilles-translations-documents/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Konkrete Urkunden für die tatsächliche Verwendung vorbereiten und beschaffen lassen.",
+    "role": "Fach-/Leistungsvertiefung",
+    "sectionOrder": "Urkunde und Verwendungsland > Apostille/Legalisation/Übersetzung > Herkunftsstelle > Original/Fristen > Beschaffung und Rückfragen > Übergabe und Preisbestandteile",
+    "topic": "T02",
+    "clusters": "C12",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/apostilles-translations-documents/",
+    "lang": "en",
+    "title": "Arrange apostilles, translations and documents",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-1c9cff828fe023"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-b1925b4404aa8c"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Konkrete Urkunden für die tatsächliche Verwendung vorbereiten und beschaffen lassen.",
+    "role": "Fach-/Leistungsvertiefung",
+    "sectionOrder": "Urkunde und Verwendungsland > Apostille/Legalisation/Übersetzung > Herkunftsstelle > Original/Fristen > Beschaffung und Rückfragen > Übergabe und Preisbestandteile",
+    "topic": "T02",
+    "clusters": "C12",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/auslandsgesellschaft/",
+    "lang": "de",
+    "title": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-582098b73c7db2"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-d965575a147a85"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/overseas-company/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Eine passende Gründung und laufende Pflichten als Teil der Geschäftsfortführung organisieren.",
+    "role": "Fach-/Leistungsvertiefung",
+    "sectionOrder": "Tätigkeit und Bedarf > Standort/Struktur > Gründung/Dokumente > Konto/Adresse > laufende Verwaltung und Meldungen > Übergabe > Vertretung und Ausfall",
+    "topic": "T05",
+    "clusters": "C33",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/overseas-company/",
+    "lang": "en",
+    "title": "Arrange an overseas company and ongoing administration",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-582098b73c7db2"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-d965575a147a85"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/auslandsgesellschaft/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Eine passende Gründung und laufende Pflichten als Teil der Geschäftsfortführung organisieren.",
+    "role": "Fach-/Leistungsvertiefung",
+    "sectionOrder": "Tätigkeit und Bedarf > Standort/Struktur > Gründung/Dokumente > Konto/Adresse > laufende Verwaltung und Meldungen > Übergabe > Vertretung und Ausfall",
+    "topic": "T05",
+    "clusters": "C33",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/bankzugang-liquiditaet/",
+    "lang": "de",
+    "title": "Bankzugang und Liquidität vorbereiten",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0b6cfc6cf0ffc0"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-b5540d6813ad63"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/banking-liquidity/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Bankaufnahme, zulässige Zahlwege und berechtigten Geldzugriff organisiert vorbereiten lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Zahlungsbedarf > Konten und Nachweise > passende Institute > Aufnahmevorbereitung > Transfer-/Zugangsabhängigkeiten > dokumentiertes Ergebnis",
+    "topic": "T03",
+    "clusters": "C23;C24",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/banking-liquidity/",
+    "lang": "en",
+    "title": "Prepare banking access and liquidity",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0b6cfc6cf0ffc0"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-b5540d6813ad63"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/bankzugang-liquiditaet/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Bankaufnahme, zulässige Zahlwege und berechtigten Geldzugriff organisiert vorbereiten lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Zahlungsbedarf > Konten und Nachweise > passende Institute > Aufnahmevorbereitung > Transfer-/Zugangsabhängigkeiten > dokumentiertes Ergebnis",
+    "topic": "T03",
+    "clusters": "C23;C24",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/dokumente-aufenthalt/",
+    "lang": "de",
+    "title": "Dokumente und Aufenthalt vorbereiten",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-6fcabe787b612e"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-825f30ea215f1f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/residence-documents/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Ein verwendbares, nachverfolgtes Dossier und die beauftragten Dokumenten-/Aufenthaltsschritte organisieren lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Berechtigung und Verwendung > Unterlagenbestand > Beschaffung und Fachprüfung > Termine/Einreichung > Rückfragen und Fristen > dokumentierte Übergabe",
+    "topic": "T02",
+    "clusters": "C22",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/residence-documents/",
+    "lang": "en",
+    "title": "Arrange residence and document preparation",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-6fcabe787b612e"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-825f30ea215f1f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/dokumente-aufenthalt/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Ein verwendbares, nachverfolgtes Dossier und die beauftragten Dokumenten-/Aufenthaltsschritte organisieren lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Berechtigung und Verwendung > Unterlagenbestand > Beschaffung und Fachprüfung > Termine/Einreichung > Rückfragen und Fristen > dokumentierte Übergabe",
+    "topic": "T02",
+    "clusters": "C22",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/familie-unternehmen/",
+    "lang": "de",
+    "title": "Familie und Unternehmen handlungsfähig halten",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-88ee12142eaf96"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-5d539c659edd22"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/family-business-continuity/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Abgestimmte organisatorische Kontinuität für Haushalt oder Geschäft herstellen lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Wichtige Personen und Aufgaben > vorhandene Regelungen > Schule/Pflege/Vertretung > Zahlungen und Betrieb > lokale/technische Arbeit > Übergabe",
+    "topic": "T04;T05",
+    "clusters": "C26;C30;C31;C34",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/family-business-continuity/",
+    "lang": "en",
+    "title": "Keep your family and business functioning",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-88ee12142eaf96"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-5d539c659edd22"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/familie-unternehmen/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Abgestimmte organisatorische Kontinuität für Haushalt oder Geschäft herstellen lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Wichtige Personen und Aufgaben > vorhandene Regelungen > Schule/Pflege/Vertretung > Zahlungen und Betrieb > lokale/technische Arbeit > Übergabe",
+    "topic": "T04;T05",
+    "clusters": "C26;C30;C31;C34",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/flucht-notfallplan/",
+    "lang": "de",
+    "title": "Persönlicher Flucht- und Notfallplan",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-9c30898a864dae"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-dd48943fbb7b1e"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/departure-contingency-plan/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Einen zusammenhängenden Plan für Personen, Vermögen, Geschäft und benannte Szenarien ausarbeiten lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Haushalt und Ausgangsstand > Szenarien und Prioritäten > Länder-/Rechteoptionen > Abhängigkeiten und Aufgaben > Verantwortliche und Kostenstatus > Auslöser > Übergabe > separate Umsetzung",
+    "topic": "T01",
+    "clusters": "C03",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/departure-contingency-plan/",
+    "lang": "en",
+    "title": "Personal departure and contingency plan",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-9c30898a864dae"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-dd48943fbb7b1e"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/flucht-notfallplan/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Einen zusammenhängenden Plan für Personen, Vermögen, Geschäft und benannte Szenarien ausarbeiten lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Haushalt und Ausgangsstand > Szenarien und Prioritäten > Länder-/Rechteoptionen > Abhängigkeiten und Aufgaben > Verantwortliche und Kostenstatus > Auslöser > Übergabe > separate Umsetzung",
+    "topic": "T01",
+    "clusters": "C03",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/kommunikation-wiederzugang/",
+    "lang": "de",
+    "title": "Diskrete Kommunikation und Wiederzugang einrichten",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-3b4627308bf19f"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-77b6f8b72c8326"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/communications-recovery/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Berechtigte Kontakt- und Zugangswege einrichten und praktisch testen lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Geräte-/Kontenabhängigkeiten > Kommunikationsvereinbarung > Ersatzkontakte und Rechte > Einrichtung > Verlustszenario testen > Übergabe",
+    "topic": "H01",
+    "clusters": "C37",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/communications-recovery/",
+    "lang": "en",
+    "title": "Set up private communications and recovery access",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-3b4627308bf19f"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-77b6f8b72c8326"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/kommunikation-wiederzugang/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Berechtigte Kontakt- und Zugangswege einrichten und praktisch testen lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Geräte-/Kontenabhängigkeiten > Kommunikationsvereinbarung > Ersatzkontakte und Rechte > Einrichtung > Verlustszenario testen > Übergabe",
+    "topic": "H01",
+    "clusters": "C37",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/laender-standortauswahl/",
+    "lang": "de",
+    "title": "Passende Länder und Standortoptionen",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-45b59d35963b43"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-bc1f283d917295"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/country-location-selection/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Benannte Länder und Orte anhand der tatsächlichen Familien-/Unternehmensaufgabe vergleichen lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Lebensmodell und Szenario > vorhandene Rechte > Familien-/Unternehmensbedarf > vergleichbare Orte > lokale Prüfung > Entscheidung und Vorbereitung",
+    "topic": "T02",
+    "clusters": "C10;C22",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/country-location-selection/",
+    "lang": "en",
+    "title": "Choose suitable countries and locations",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-45b59d35963b43"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-bc1f283d917295"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/laender-standortauswahl/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Benannte Länder und Orte anhand der tatsächlichen Familien-/Unternehmensaufgabe vergleichen lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Lebensmodell und Szenario > vorhandene Rechte > Familien-/Unternehmensbedarf > vergleichbare Orte > lokale Prüfung > Entscheidung und Vorbereitung",
+    "topic": "T02",
+    "clusters": "C10;C22",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/sachwerte-verwahrung/",
+    "lang": "de",
+    "title": "Verwahrung und Zugriff auf Sachwerte organisieren",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-02ecf41391ebe4"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-7302e245d30087"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/tangible-asset-custody/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Eigentum, Verwahrstelle, Herausgabe und berechtigten Zugriff organisatorisch verbinden.",
+    "role": "Fach-/Leistungsvertiefung",
+    "sectionOrder": "Sachwert und Eigentumsnachweis > Verwahrform/Standort > Versicherung/Vertrag > Herausgabe und Vertretung > Einrichtung > Nachfolge und Pflege",
+    "topic": "T03",
+    "clusters": "C25",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/tangible-asset-custody/",
+    "lang": "en",
+    "title": "Arrange custody and access to tangible assets",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-02ecf41391ebe4"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-7302e245d30087"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/sachwerte-verwahrung/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Eigentum, Verwahrstelle, Herausgabe und berechtigten Zugriff organisatorisch verbinden.",
+    "role": "Fach-/Leistungsvertiefung",
+    "sectionOrder": "Sachwert und Eigentumsnachweis > Verwahrform/Standort > Versicherung/Vertrag > Herausgabe und Vertretung > Einrichtung > Nachfolge und Pflege",
+    "topic": "T03",
+    "clusters": "C25",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/stiftung-liechtenstein/",
+    "lang": "de",
+    "title": "Eine Stiftung in Liechtenstein organisieren",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-f98e4cd5fa218b"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-12aea16f5a6a97"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/liechtenstein-foundation/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Eine Stiftungsaufgabe mit liechtensteinischer Fachzuständigkeit und Herkunftsrecht abstimmen.",
+    "role": "Fach-/Leistungsvertiefung",
+    "sectionOrder": "Zweck und Begünstigte > Kontroll-/Eigentumsrollen > Herkunftsrecht > Gründung/Fachmandat > Verwaltung und Kosten > Übergabe/Nachfolge",
+    "topic": "T03",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/liechtenstein-foundation/",
+    "lang": "en",
+    "title": "Arrange a Liechtenstein foundation",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-f98e4cd5fa218b"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-12aea16f5a6a97"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/stiftung-liechtenstein/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Eine Stiftungsaufgabe mit liechtensteinischer Fachzuständigkeit und Herkunftsrecht abstimmen.",
+    "role": "Fach-/Leistungsvertiefung",
+    "sectionOrder": "Zweck und Begünstigte > Kontroll-/Eigentumsrollen > Herkunftsrecht > Gründung/Fachmandat > Verwaltung und Kosten > Übergabe/Nachfolge",
+    "topic": "T03",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/trust-struktur/",
+    "lang": "de",
+    "title": "Eine Trust-Struktur organisieren",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-480f9ea4514b27"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-dd3a4d19dd987f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/trust-structure/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Eignung und konkrete Einrichtung einer Trust-Struktur mit befugten Fachstellen organisieren.",
+    "role": "Fach-/Leistungsvertiefung",
+    "sectionOrder": "Kundenziel > Beteiligte/Kontrolle > Herkunfts- und Strukturrecht > passende Fachstelle > Einrichtung > Kosten und fortlaufende Verwaltung > Zugang/Nachfolge",
+    "topic": "T03",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/trust-structure/",
+    "lang": "en",
+    "title": "Arrange a trust structure",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-480f9ea4514b27"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-dd3a4d19dd987f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/trust-struktur/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Eignung und konkrete Einrichtung einer Trust-Struktur mit befugten Fachstellen organisieren.",
+    "role": "Fach-/Leistungsvertiefung",
+    "sectionOrder": "Kundenziel > Beteiligte/Kontrolle > Herkunfts- und Strukturrecht > passende Fachstelle > Einrichtung > Kosten und fortlaufende Verwaltung > Zugang/Nachfolge",
+    "topic": "T03",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/vermoegen-uebertragen/",
+    "lang": "de",
+    "title": "Vermögen übertragen und legal verfügbar halten",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-8b4a7d04f61ede"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-33a3dd05c7bf6b"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/asset-transfers/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren.",
+    "role": "Fach-/Leistungsvertiefung",
+    "sectionOrder": "Geldtransfer versus Eigentumsübertragung > Berechtigte und Nachweise > Steuer-/Rechtsanknüpfung > beteiligte Stellen > Freigaben und Durchführung > Ergebnis und laufende Pflichten",
+    "topic": "T03",
+    "clusters": "C24",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/asset-transfers/",
+    "lang": "en",
+    "title": "Transfer assets and retain lawful access",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-8b4a7d04f61ede"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-33a3dd05c7bf6b"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/vermoegen-uebertragen/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren.",
+    "role": "Fach-/Leistungsvertiefung",
+    "sectionOrder": "Geldtransfer versus Eigentumsübertragung > Berechtigte und Nachweise > Steuer-/Rechtsanknüpfung > beteiligte Stellen > Freigaben und Durchführung > Ergebnis und laufende Pflichten",
+    "topic": "T03",
+    "clusters": "C24",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/vermoegensstrukturen/",
+    "lang": "de",
+    "title": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-8bf6d4abdefa1c"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c883647cf42d93"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/asset-structures/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Eigentum und Kontrollrollen > Rechtsanknüpfung > Strukturvergleich > Fachauftrag und Verträge > Einrichtung/Übergabe > laufende Pflichten",
+    "topic": "T03;T05",
+    "clusters": "C24;C26",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/asset-structures/",
+    "lang": "en",
+    "title": "Arrange asset structures, custody and succession",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-8bf6d4abdefa1c"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c883647cf42d93"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/vermoegensstrukturen/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Eigentum und Kontrollrollen > Rechtsanknüpfung > Strukturvergleich > Fachauftrag und Verträge > Einrichtung/Übergabe > laufende Pflichten",
+    "topic": "T03;T05",
+    "clusters": "C24;C26",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungen/vorbereitung-betreuen/",
+    "lang": "de",
+    "title": "Vorbereitung prüfen und aktuell halten",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-af7c328d3e7466"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c0e39e62f20640"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/services/maintain-preparations/",
+    "kind": "page",
+    "parent": "/de/leistungen/",
+    "intent": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Pflegegegenstand > Prüfintervalle und Ereignisse > Fristen und Änderungen > örtliche Kontrolle > Bericht und Zusatzarbeit > nächster Test",
+    "topic": "T01",
+    "clusters": "C09",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/services/maintain-preparations/",
+    "lang": "en",
+    "title": "Review and maintain your preparations",
+    "model": "leistung",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-af7c328d3e7466"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c0e39e62f20640"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungen/vorbereitung-betreuen/",
+    "kind": "page",
+    "parent": "/en/services/",
+    "intent": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen.",
+    "role": "Markenleistung",
+    "sectionOrder": "Pflegegegenstand > Prüfintervalle und Ereignisse > Fristen und Änderungen > örtliche Kontrolle > Bericht und Zusatzarbeit > nächster Test",
+    "topic": "T01",
+    "clusters": "C09",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/",
+    "lang": "de",
+    "title": "Wissen, das zur Vorbereitung führt",
+    "model": "themenhub",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-4a56f8c8faba82"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-fae6731a624c6f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/",
+    "kind": "page",
+    "parent": "/de/",
+    "intent": "Die eigene Hauptfrage einem fachlichen Zugang zuordnen.",
+    "role": "Wissensübersicht",
+    "sectionOrder": "Anliegen auswählen > fünf Themenfelder > Wiederzugang als Querschnitt > direkte Hilfe > aktuelle fachliche Vertiefungen",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/",
+    "lang": "en",
+    "title": "Knowledge for a prepared way forward",
+    "model": "themenhub",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-4a56f8c8faba82"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-fae6731a624c6f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/",
+    "kind": "page",
+    "parent": "/en/",
+    "intent": "Die eigene Hauptfrage einem fachlichen Zugang zuordnen.",
+    "role": "Wissensübersicht",
+    "sectionOrder": "Anliegen auswählen > fünf Themenfelder > Wiederzugang als Querschnitt > direkte Hilfe > aktuelle fachliche Vertiefungen",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/aufenthalt-dokumente/",
+    "lang": "de",
+    "title": "Aufenthalt und Dokumente vorbereiten",
+    "model": "themenhub",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-fa724bb3d8d8e8"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-14c23480192f12"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/residence-and-documents/",
+    "kind": "page",
+    "parent": "/de/wissen/",
+    "intent": "Rechte, Unterlagen und tatsächliche Nutzbarkeit zusammenführen.",
+    "role": "Pillar T02",
+    "sectionOrder": "Vorhandene Rechte > Aufenthalt und Staatsangehörigkeit unterscheiden > Dokumentenlauf > Familiennachweise > Einreise und Wiedereinreise > nutzbare Unterlagen > Durchführung",
+    "topic": "T02",
+    "clusters": "C11;C12;C13",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/residence-and-documents/",
+    "lang": "en",
+    "title": "Prepare residence rights and documents",
+    "model": "themenhub",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-fa724bb3d8d8e8"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-14c23480192f12"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/aufenthalt-dokumente/",
+    "kind": "page",
+    "parent": "/en/knowledge/",
+    "intent": "Rechte, Unterlagen und tatsächliche Nutzbarkeit zusammenführen.",
+    "role": "Pillar T02",
+    "sectionOrder": "Vorhandene Rechte > Aufenthalt und Staatsangehörigkeit unterscheiden > Dokumentenlauf > Familiennachweise > Einreise und Wiedereinreise > nutzbare Unterlagen > Durchführung",
+    "topic": "T02",
+    "clusters": "C11;C12;C13",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+    "lang": "de",
+    "title": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-b1b4358c41078a"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-84dc1bf419f1cf"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/residence-and-documents/emergency-documents/",
+    "kind": "page",
+    "parent": "/de/wissen/aufenthalt-dokumente/",
+    "intent": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden.",
+    "role": "Fachseite mit Einrichtungsauftrag",
+    "sectionOrder": "Wichtige Unterlagen > Kontakte und Rollen > Rechtsbefugnis versus Zugang > Ablage und Ersatzweg > gemeinsame Nutzbarkeitsprüfung > Einrichtung/Übergabe > Aktualisierung",
+    "topic": "T02;H01",
+    "clusters": "C13;C37",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/residence-and-documents/emergency-documents/",
+    "lang": "en",
+    "title": "Emergency documents your family can actually use",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-b1b4358c41078a"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-84dc1bf419f1cf"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+    "kind": "page",
+    "parent": "/en/knowledge/residence-and-documents/",
+    "intent": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden.",
+    "role": "Fachseite mit Einrichtungsauftrag",
+    "sectionOrder": "Wichtige Unterlagen > Kontakte und Rollen > Rechtsbefugnis versus Zugang > Ablage und Ersatzweg > gemeinsame Nutzbarkeitsprüfung > Einrichtung/Übergabe > Aktualisierung",
+    "topic": "T02;H01",
+    "clusters": "C13;C37",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+    "lang": "de",
+    "title": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-7566a8cf2e1da1"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-8e3e113de02a37"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/residence-and-documents/rights-citizenship/",
+    "kind": "page",
+    "parent": "/de/wissen/aufenthalt-dokumente/",
+    "intent": "Vorhandene Rechte zuerst nutzen und zusätzliche Aufenthalts-/Staatsangehörigkeitswege richtig einordnen.",
+    "role": "Rechte-/Programmvergleich",
+    "sectionOrder": "Staatsangehörigkeit und Familie > EU/EWR/Schweizer Rechte > Aufenthalt > Passdokument versus Staatsangehörigkeit > Arbeit/Steuer/Wohnen > Programme im Länderprofil > Organisation",
+    "topic": "T02",
+    "clusters": "C11",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/residence-and-documents/rights-citizenship/",
+    "lang": "en",
+    "title": "Residence, existing rights and second citizenship",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-7566a8cf2e1da1"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-8e3e113de02a37"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+    "kind": "page",
+    "parent": "/en/knowledge/residence-and-documents/",
+    "intent": "Vorhandene Rechte zuerst nutzen und zusätzliche Aufenthalts-/Staatsangehörigkeitswege richtig einordnen.",
+    "role": "Rechte-/Programmvergleich",
+    "sectionOrder": "Staatsangehörigkeit und Familie > EU/EWR/Schweizer Rechte > Aufenthalt > Passdokument versus Staatsangehörigkeit > Arbeit/Steuer/Wohnen > Programme im Länderprofil > Organisation",
+    "topic": "T02",
+    "clusters": "C11",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/ausweg-vorbereiten/",
+    "lang": "de",
+    "title": "Deinen Ausweg vorbereiten",
+    "model": "themenhub",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-7f069bcde54445"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-3cf35cab33b542"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/prepare-your-way-out/",
+    "kind": "page",
+    "parent": "/de/wissen/",
+    "intent": "Aus dem Entschluss zu gehen eine vorbereitete, pflegbare und aktivierbare Option machen.",
+    "role": "Pillar T01",
+    "sectionOrder": "Motiv und Handlungsvorsprung > Szenarien und Auslöser > vorhandene Vorbereitung prüfen > Ausreise, Transit, Ankunft > Pflege und Aktivierung > Herkunftsaufgaben > eigener Plan oder Direktauftrag",
+    "topic": "T01",
+    "clusters": "C03;C09;C22",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/prepare-your-way-out/",
+    "lang": "en",
+    "title": "Prepare your way out",
+    "model": "themenhub",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-7f069bcde54445"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-3cf35cab33b542"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/ausweg-vorbereiten/",
+    "kind": "page",
+    "parent": "/en/knowledge/",
+    "intent": "Aus dem Entschluss zu gehen eine vorbereitete, pflegbare und aktivierbare Option machen.",
+    "role": "Pillar T01",
+    "sectionOrder": "Motiv und Handlungsvorsprung > Szenarien und Auslöser > vorhandene Vorbereitung prüfen > Ausreise, Transit, Ankunft > Pflege und Aktivierung > Herkunftsaufgaben > eigener Plan oder Direktauftrag",
+    "topic": "T01",
+    "clusters": "C03;C09;C22",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+    "lang": "de",
+    "title": "Aus Deutschland einen Ausweg vorbereiten",
+    "model": "herkunft",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-87126136cea236"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-541b2d50853869"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": null,
+    "kind": "page",
+    "parent": "/de/wissen/ausweg-vorbereiten/",
+    "intent": "Den tatsächlichen Wegzug aus dem benannten heutigen Wohnsitz vorbereiten.",
+    "role": "Herkunfts-/Wohnsitzzugang",
+    "sectionOrder": "Wohnsitz und Staatsangehörigkeit > Abmeldung und tatsächlicher Wegzug > Steuern und Unternehmen > Dokumente und Familie > Zielrechte und Ankunft > individuelle Durchführung",
+    "topic": "T01",
+    "clusters": "C04",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+    "lang": "de",
+    "title": "Aus Österreich einen Ausweg vorbereiten",
+    "model": "herkunft",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-d6022a27200c18"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-5a7c16c50cdba2"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": null,
+    "kind": "page",
+    "parent": "/de/wissen/ausweg-vorbereiten/",
+    "intent": "Den tatsächlichen Wegzug aus dem benannten heutigen Wohnsitz vorbereiten.",
+    "role": "Herkunfts-/Wohnsitzzugang",
+    "sectionOrder": "Wohnsitz und Staatsangehörigkeit > Österreichische Melde-/Dokumentenwege > Steuer-/Sozialversicherung > Familienrechte > Zielrechte und Ankunft > individuelle Durchführung",
+    "topic": "T01",
+    "clusters": "C05",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+    "lang": "de",
+    "title": "Wegzug aus der Schweiz vorbereiten",
+    "model": "herkunft",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-b478cfd454c7dd"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-b64b91ab942fa9"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": null,
+    "kind": "page",
+    "parent": "/de/wissen/ausweg-vorbereiten/",
+    "intent": "Den tatsächlichen Wegzug aus dem benannten heutigen Wohnsitz vorbereiten.",
+    "role": "Herkunfts-/Wohnsitzzugang",
+    "sectionOrder": "Wohnsitz und Staatsangehörigkeit > Gemeinde/Kanton und Abmeldung > Versicherung/Vorsorge > Steuern und Dokumente > Zielrechte und Ankunft > individuelle Durchführung",
+    "topic": "T01",
+    "clusters": "C06",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/",
+    "lang": "de",
+    "title": "Einberufung und Ausreise aus Deutschland",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-e49004e371b57b"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-e369c3af320785"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": null,
+    "kind": "page",
+    "parent": "/de/wissen/ausweg-vorbereiten/",
+    "intent": "Eigene Betroffenheit und rechtmäßige vorbereitende Aufgaben nach deutschem Recht verstehen.",
+    "role": "Rechtsgebundene Problemseite",
+    "sectionOrder": "Geltende Lage mit Datum > persönliche Anknüpfungen > Dokumente und Zuständigkeiten > rechtmäßige Optionen > Familien-/Aufenthaltsvorbereitung > fachliche Klärung",
+    "topic": "T01",
+    "clusters": "C02",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/",
+    "lang": "de",
+    "title": "Wohin bei Krieg und eingeschränkter Ausreise?",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-cb3db36c6732d0"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-5f309316222311"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/prepare-your-way-out/where-to-go-if-war/",
+    "kind": "page",
+    "parent": "/de/wissen/ausweg-vorbereiten/",
+    "intent": "Vom konkreten Kriegs-/Ausreiseanlass zur rechtzeitig vorbereiteten Option gelangen.",
+    "role": "Problemseite",
+    "sectionOrder": "Ausgangslage des Lesers > Szenarien unterscheiden > notwendige Rechte und Vorlauf > Familie und Erarbeitetes > Länder nach Aufgabe > persönlicher Plan und direkte Umsetzung",
+    "topic": "T01",
+    "clusters": "C01",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/prepare-your-way-out/where-to-go-if-war/",
+    "lang": "en",
+    "title": "Where could your family go if war disrupts your plans?",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-cb3db36c6732d0"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-5f309316222311"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/",
+    "kind": "page",
+    "parent": "/en/knowledge/prepare-your-way-out/",
+    "intent": "Vom konkreten Kriegs-/Ausreiseanlass zur rechtzeitig vorbereiteten Option gelangen.",
+    "role": "Problemseite",
+    "sectionOrder": "Ausgangslage des Lesers > Szenarien unterscheiden > notwendige Rechte und Vorlauf > Familie und Erarbeitetes > Länder nach Aufgabe > persönlicher Plan und direkte Umsetzung",
+    "topic": "T01",
+    "clusters": "C01",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/familie-alltag/",
+    "lang": "de",
+    "title": "Familie und Alltag vorbereiten",
+    "model": "themenhub",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-d3fc892159bdbd"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-2e2ede0ee6e48c"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/family-life-abroad/",
+    "kind": "page",
+    "parent": "/de/wissen/",
+    "intent": "Die gesamte Familie einschließlich besonderer Abhängigkeiten an einem anderen Ort handlungsfähig machen.",
+    "role": "Pillar T04",
+    "sectionOrder": "Personen und Rechte > Kinder und Betreuung > Gesundheit und Pflege > Unterkunft und Ankunft > Haustiere und zurückgelassenes Eigentum > Rückkehr oder Bleiben > organisierte Durchführung",
+    "topic": "T04",
+    "clusters": "C27;C29;C30;C31",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/family-life-abroad/",
+    "lang": "en",
+    "title": "Prepare family life abroad",
+    "model": "themenhub",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-d3fc892159bdbd"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-2e2ede0ee6e48c"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/familie-alltag/",
+    "kind": "page",
+    "parent": "/en/knowledge/",
+    "intent": "Die gesamte Familie einschließlich besonderer Abhängigkeiten an einem anderen Ort handlungsfähig machen.",
+    "role": "Pillar T04",
+    "sectionOrder": "Personen und Rechte > Kinder und Betreuung > Gesundheit und Pflege > Unterkunft und Ankunft > Haustiere und zurückgelassenes Eigentum > Rückkehr oder Bleiben > organisierte Durchführung",
+    "topic": "T04",
+    "clusters": "C27;C29;C30;C31",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/familie-alltag/kinder-angehoerige/",
+    "lang": "de",
+    "title": "Mit Kindern und Angehörigen vorbereitet gehen",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-0292b9d1a42d4d"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-02b6751b0c8b04"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/family-life-abroad/children-family/",
+    "kind": "page",
+    "parent": "/de/wissen/familie-alltag/",
+    "intent": "Reise, Sorge, Schule und Unterstützung für alle betroffenen Personen vorbereiten.",
+    "role": "Familienfachseite",
+    "sectionOrder": "Personen/Rechte > Sorgerecht und Reiseunterlagen > Schul-/Betreuungsbedarf > besondere Angehörige > Haustiere/Transit > Unterkunft und Ankunft > Rückkehr oder Integration",
+    "topic": "T04",
+    "clusters": "C27;C31",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/family-life-abroad/children-family/",
+    "lang": "en",
+    "title": "Prepare to move abroad with children and family",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-0292b9d1a42d4d"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-02b6751b0c8b04"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/familie-alltag/kinder-angehoerige/",
+    "kind": "page",
+    "parent": "/en/knowledge/family-life-abroad/",
+    "intent": "Reise, Sorge, Schule und Unterstützung für alle betroffenen Personen vorbereiten.",
+    "role": "Familienfachseite",
+    "sectionOrder": "Personen/Rechte > Sorgerecht und Reiseunterlagen > Schul-/Betreuungsbedarf > besondere Angehörige > Haustiere/Transit > Unterkunft und Ankunft > Rückkehr oder Integration",
+    "topic": "T04",
+    "clusters": "C27;C31",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+    "lang": "de",
+    "title": "Krankenversicherung und Versorgung im Ausland",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-90e4e6a344ac37"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-3bc0ec82293695"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/family-life-abroad/health-cover-care/",
+    "kind": "page",
+    "parent": "/de/wissen/familie-alltag/",
+    "intent": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden.",
+    "role": "Versorgungsfachseite",
+    "sectionOrder": "Bedarf und Vorbedingungen > Versicherungsaufnahme > örtliche Behandlung > Medikamente > Abrechnung > Rücktransport versus Sicherheitshilfe > organisierte Einrichtung",
+    "topic": "T04",
+    "clusters": "C28",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/family-life-abroad/health-cover-care/",
+    "lang": "en",
+    "title": "Health cover and care abroad",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-90e4e6a344ac37"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-3bc0ec82293695"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+    "kind": "page",
+    "parent": "/en/knowledge/family-life-abroad/",
+    "intent": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden.",
+    "role": "Versorgungsfachseite",
+    "sectionOrder": "Bedarf und Vorbedingungen > Versicherungsaufnahme > örtliche Behandlung > Medikamente > Abrechnung > Rücktransport versus Sicherheitshilfe > organisierte Einrichtung",
+    "topic": "T04",
+    "clusters": "C28",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/familie-alltag/pflege-medikamente/",
+    "lang": "de",
+    "title": "Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-126e16521eac4a"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-74f0fcc5325c1d"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/family-life-abroad/care-medication/",
+    "kind": "page",
+    "parent": "/de/wissen/familie-alltag/",
+    "intent": "Kontinuierliche Versorgung für pflege- oder behandlungsabhängige Angehörige organisieren.",
+    "role": "Vertiefende Familienfachseite",
+    "sectionOrder": "Konkreter Bedarf > behandelnde Fachstellen > Medikamente/Hilfsmittel > Transport und Begleitung > Aufnahme am Ziel > Finanzierung/Versicherung > Vertretung und laufende Betreuung",
+    "topic": "T04",
+    "clusters": "C29",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/family-life-abroad/care-medication/",
+    "lang": "en",
+    "title": "Care needs, medication and medical dependencies when moving",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-126e16521eac4a"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-74f0fcc5325c1d"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/familie-alltag/pflege-medikamente/",
+    "kind": "page",
+    "parent": "/en/knowledge/family-life-abroad/",
+    "intent": "Kontinuierliche Versorgung für pflege- oder behandlungsabhängige Angehörige organisieren.",
+    "role": "Vertiefende Familienfachseite",
+    "sectionOrder": "Konkreter Bedarf > behandelnde Fachstellen > Medikamente/Hilfsmittel > Transport und Begleitung > Aufnahme am Ziel > Finanzierung/Versicherung > Vertretung und laufende Betreuung",
+    "topic": "T04",
+    "clusters": "C29",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/unternehmen-einkommen/",
+    "lang": "de",
+    "title": "Unternehmen und Einkommen fortführen",
+    "model": "themenhub",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-e1e712ee436aab"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-6f7ece84003bbd"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/business-and-income/",
+    "kind": "page",
+    "parent": "/de/wissen/",
+    "intent": "Betrieb, Kunden und Einkommen während Ausreise, Ausfall und Standortwechsel weiterführen.",
+    "role": "Pillar T05",
+    "sectionOrder": "Kritische Betriebsaufgaben > Kundenkontakt und Rechnungen > Vertretung und Zahlungen > Zugänge und Arbeitsplatz > Tätigkeit, Arbeitgeber und Sozialversicherung > Gesellschaft und Steuern > Umsetzung",
+    "topic": "T05",
+    "clusters": "C34;C35",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/business-and-income/",
+    "lang": "en",
+    "title": "Keep your business and income running",
+    "model": "themenhub",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-e1e712ee436aab"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-6f7ece84003bbd"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/unternehmen-einkommen/",
+    "kind": "page",
+    "parent": "/en/knowledge/",
+    "intent": "Betrieb, Kunden und Einkommen während Ausreise, Ausfall und Standortwechsel weiterführen.",
+    "role": "Pillar T05",
+    "sectionOrder": "Kritische Betriebsaufgaben > Kundenkontakt und Rechnungen > Vertretung und Zahlungen > Zugänge und Arbeitsplatz > Tätigkeit, Arbeitgeber und Sozialversicherung > Gesellschaft und Steuern > Umsetzung",
+    "topic": "T05",
+    "clusters": "C34;C35",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+    "lang": "de",
+    "title": "Wegzug, Steuern und Unternehmenspflichten",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-a53e120d221e08"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-956dba2f6c3454"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/business-and-income/departure-tax/",
+    "kind": "page",
+    "parent": "/de/wissen/unternehmen-einkommen/",
+    "intent": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären.",
+    "role": "Rechtsmarktgebundene Fachseite",
+    "sectionOrder": "Wohnsitz/Tätigkeit/Staatsangehörigkeit > Deutschland > Österreich > Schweiz > UK/VAE nur in passender Sprachfassung > Gesellschaft/Leitung > Arbeit/Sozialversicherung > Fachprüfung und Umsetzung",
+    "topic": "T03;T05",
+    "clusters": "C32;C35",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/business-and-income/departure-tax/",
+    "lang": "en",
+    "title": "Departure, tax and business obligations",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-a53e120d221e08"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-956dba2f6c3454"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+    "kind": "page",
+    "parent": "/en/knowledge/business-and-income/",
+    "intent": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären.",
+    "role": "Rechtsmarktgebundene Fachseite",
+    "sectionOrder": "Wohnsitz/Tätigkeit/Staatsangehörigkeit > Deutschland > Österreich > Schweiz > UK/VAE nur in passender Sprachfassung > Gesellschaft/Leitung > Arbeit/Sozialversicherung > Fachprüfung und Umsetzung",
+    "topic": "T03;T05",
+    "clusters": "C32;C35",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/vermoegen-zugriff/",
+    "lang": "de",
+    "title": "Vermögen und Zugriff sichern",
+    "model": "themenhub",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-65e49e40abab11"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-6d1619e0300971"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/assets-and-access/",
+    "kind": "page",
+    "parent": "/de/wissen/",
+    "intent": "Eigentum, Liquidität und berechtigten Zugriff über mehrere Abhängigkeiten planen.",
+    "role": "Pillar T03",
+    "sectionOrder": "Kontosperre, Zugriff und Kontrollverlust > Eigentum versus Verfügbarkeit > Zahlungswege > Übertragung und Struktur > Vertretung > fachlich organisierte Ausführung",
+    "topic": "T03",
+    "clusters": "C23;C24;C25;C26",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/assets-and-access/",
+    "lang": "en",
+    "title": "Protect assets and retain access",
+    "model": "themenhub",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-65e49e40abab11"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-6d1619e0300971"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/vermoegen-zugriff/",
+    "kind": "page",
+    "parent": "/en/knowledge/",
+    "intent": "Eigentum, Liquidität und berechtigten Zugriff über mehrere Abhängigkeiten planen.",
+    "role": "Pillar T03",
+    "sectionOrder": "Kontosperre, Zugriff und Kontrollverlust > Eigentum versus Verfügbarkeit > Zahlungswege > Übertragung und Struktur > Vertretung > fachlich organisierte Ausführung",
+    "topic": "T03",
+    "clusters": "C23;C24;C25;C26",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+    "lang": "de",
+    "title": "Kontozugang und Zahlungsfähigkeit im Ausland",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-e96fc32ccb5314"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-be1938b12975bb"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/assets-and-access/banking-payments/",
+    "kind": "page",
+    "parent": "/de/wissen/vermoegen-zugriff/",
+    "intent": "Zahlungsbedarf und Abhängigkeiten verstehen und passende Bankvorbereitung auswählen.",
+    "role": "Problem-/Fachseite",
+    "sectionOrder": "Sperre und technische Störung unterscheiden > Eigentum/Konto/Zugriff > Währungen und Zahlungsempfänger > Nachweise und Aufnahme > berechtigte Vertretung > organisatorischer Auftrag",
+    "topic": "T03",
+    "clusters": "C23",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/assets-and-access/banking-payments/",
+    "lang": "en",
+    "title": "Banking access and payments abroad",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-e96fc32ccb5314"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-be1938b12975bb"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+    "kind": "page",
+    "parent": "/en/knowledge/assets-and-access/",
+    "intent": "Zahlungsbedarf und Abhängigkeiten verstehen und passende Bankvorbereitung auswählen.",
+    "role": "Problem-/Fachseite",
+    "sectionOrder": "Sperre und technische Störung unterscheiden > Eigentum/Konto/Zugriff > Währungen und Zahlungsempfänger > Nachweise und Aufnahme > berechtigte Vertretung > organisatorischer Auftrag",
+    "topic": "T03",
+    "clusters": "C23",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+    "lang": "de",
+    "title": "Vollmachten, Vertretung und Nachfolge im Ausland",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-b0831c4fe780e7"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-2742a7c4989121"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/assets-and-access/powers-representation-succession/",
+    "kind": "page",
+    "parent": "/de/wissen/vermoegen-zugriff/",
+    "intent": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden.",
+    "role": "Fachseite",
+    "sectionOrder": "Personen und Handlungen > Rechtsbefugnis > Anerkennung je Land/Institut > Dokumente und Zugang > Nachfolge > gemeinsamer Test > organisierte Fachumsetzung",
+    "topic": "T03;T04;T05;H01",
+    "clusters": "C26",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/assets-and-access/powers-representation-succession/",
+    "lang": "en",
+    "title": "Powers of attorney, representation and succession abroad",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-b0831c4fe780e7"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-2742a7c4989121"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+    "kind": "page",
+    "parent": "/en/knowledge/assets-and-access/",
+    "intent": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden.",
+    "role": "Fachseite",
+    "sectionOrder": "Personen und Handlungen > Rechtsbefugnis > Anerkennung je Land/Institut > Dokumente und Zugang > Nachfolge > gemeinsamer Test > organisierte Fachumsetzung",
+    "topic": "T03;T04;T05;H01",
+    "clusters": "C26",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/wissen/wiederzugang-telefon-email/",
+    "lang": "de",
+    "title": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-83b3cda7d24d63"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-9c582a81fcdcdb"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/knowledge/phone-email-access-failure/",
+    "kind": "page",
+    "parent": "/de/wissen/",
+    "intent": "Legitimen Wiederkontakt und Wiederzugang ohne das übliche Gerät vorbereiten.",
+    "role": "Querschnittsfachseite H01",
+    "sectionOrder": "Ausfallszenario > Abhängigkeitskette > Ersatzgerät/Kontakt > Identitäts- und Berechtigungsprüfung > digitale Nachweise > Test > organisierte Einrichtung",
+    "topic": "H01",
+    "clusters": "C36;C37",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/knowledge/phone-email-access-failure/",
+    "lang": "en",
+    "title": "When your phone, SIM and main email fail",
+    "model": "fachbeitrag",
+    "brief": {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-83b3cda7d24d63"
+    },
+    "build": {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-9c582a81fcdcdb"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/wissen/wiederzugang-telefon-email/",
+    "kind": "page",
+    "parent": "/en/knowledge/",
+    "intent": "Legitimen Wiederkontakt und Wiederzugang ohne das übliche Gerät vorbereiten.",
+    "role": "Querschnittsfachseite H01",
+    "sectionOrder": "Ausfallszenario > Abhängigkeitskette > Ersatzgerät/Kontakt > Identitäts- und Berechtigungsprüfung > digitale Nachweise > Test > organisierte Einrichtung",
+    "topic": "H01",
+    "clusters": "C36;C37",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/",
+    "lang": "de",
+    "title": "Länder und Möglichkeiten",
+    "model": "laenderuebersicht",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-dfb0cdb006b620"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-8df4757249b7fa"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/",
+    "kind": "page",
+    "parent": "/de/",
+    "intent": "Szenariogerechte Optionen vergleichen, ohne vorher ein Land gewählt haben zu müssen.",
+    "role": "Länderübersicht",
+    "sectionOrder": "Krisenbasis / dauerhaftes Familienleben / mobile Nutzung > vorhandene Rechte > Vergleichskriterien > Regionen und Profile > weitere Vergleichsoptionen > Fachstandorte separat > individueller Vergleich",
+    "topic": "T02",
+    "clusters": "C10",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/",
+    "lang": "en",
+    "title": "Countries and options",
+    "model": "laenderuebersicht",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-dfb0cdb006b620"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-8df4757249b7fa"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/",
+    "kind": "page",
+    "parent": "/en/",
+    "intent": "Szenariogerechte Optionen vergleichen, ohne vorher ein Land gewählt haben zu müssen.",
+    "role": "Länderübersicht",
+    "sectionOrder": "Krisenbasis / dauerhaftes Familienleben / mobile Nutzung > vorhandene Rechte > Vergleichskriterien > Regionen und Profile > weitere Vergleichsoptionen > Fachstandorte separat > individueller Vergleich",
+    "topic": "T02",
+    "clusters": "C10",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/argentinien/",
+    "lang": "de",
+    "title": "Argentinien als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-614bc39c63d25f"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-d4ecb6570039d2"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/argentina/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Argentinien für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/argentina/",
+    "lang": "en",
+    "title": "Argentina as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-614bc39c63d25f"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-d4ecb6570039d2"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/argentinien/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Argentinien für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/australien/",
+    "lang": "de",
+    "title": "Australien als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-fc560f8e2385b1"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-9c37cebe53aedc"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/australia/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Australien für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/australia/",
+    "lang": "en",
+    "title": "Australia as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-fc560f8e2385b1"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-9c37cebe53aedc"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/australien/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Australien für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/brasilien/",
+    "lang": "de",
+    "title": "Brasilien als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-adf51614ed5239"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-1ff9ae700ae673"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/brazil/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Brasilien für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/brazil/",
+    "lang": "en",
+    "title": "Brazil as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-adf51614ed5239"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-1ff9ae700ae673"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/brasilien/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Brasilien für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/chile/",
+    "lang": "de",
+    "title": "Chile als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-a6d5e3f5ccc446"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-bda511dad020a1"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/chile/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Chile für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/chile/",
+    "lang": "en",
+    "title": "Chile as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-a6d5e3f5ccc446"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-bda511dad020a1"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/chile/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Chile für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/costa-rica/",
+    "lang": "de",
+    "title": "Costa Rica als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-9afc83d751dea5"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-8cdc94cfe64939"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/costa-rica/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Costa Rica für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/costa-rica/",
+    "lang": "en",
+    "title": "Costa Rica as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-9afc83d751dea5"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-8cdc94cfe64939"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/costa-rica/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Costa Rica für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/dominikanische-republik/",
+    "lang": "de",
+    "title": "Dominikanische Republik als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-960673cfdda5af"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-acc7fa00548aa6"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/dominican-republic/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Dominikanische Republik für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C20",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/dominican-republic/",
+    "lang": "en",
+    "title": "Dominican Republic as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-960673cfdda5af"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-acc7fa00548aa6"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/dominikanische-republik/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Dominikanische Republik für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C20",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/georgien/",
+    "lang": "de",
+    "title": "Georgien als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-1c1d7a380ed2b9"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-3fcec8661dc007"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/georgia/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Georgien für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C15",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/georgia/",
+    "lang": "en",
+    "title": "Georgia as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-1c1d7a380ed2b9"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-3fcec8661dc007"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/georgien/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Georgien für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C15",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/griechenland/",
+    "lang": "de",
+    "title": "Griechenland als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-0455c7a647b948"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-d97ae737184f9c"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/greece/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Griechenland für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/greece/",
+    "lang": "en",
+    "title": "Greece as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-0455c7a647b948"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-d97ae737184f9c"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/griechenland/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Griechenland für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/irland/",
+    "lang": "de",
+    "title": "Irland als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-908214a70ff013"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-65af01b2ccb13f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/ireland/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Irland für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/ireland/",
+    "lang": "en",
+    "title": "Ireland as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-908214a70ff013"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-65af01b2ccb13f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/irland/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Irland für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/island/",
+    "lang": "de",
+    "title": "Island als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-51703179c82199"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-658034109f0d0a"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/iceland/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Island für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/iceland/",
+    "lang": "en",
+    "title": "Iceland as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-51703179c82199"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-658034109f0d0a"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/island/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Island für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/kanada/",
+    "lang": "de",
+    "title": "Kanada als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-bfed48d3e0568a"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-bb9a2f19ea818f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/canada/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Kanada für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/canada/",
+    "lang": "en",
+    "title": "Canada as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-bfed48d3e0568a"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-bb9a2f19ea818f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/kanada/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Kanada für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/malaysia/",
+    "lang": "de",
+    "title": "Malaysia als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-25dfd8a3551ad8"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-5296e670472ce4"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/malaysia/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Malaysia für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/malaysia/",
+    "lang": "en",
+    "title": "Malaysia as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-25dfd8a3551ad8"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-5296e670472ce4"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/malaysia/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Malaysia für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/malta/",
+    "lang": "de",
+    "title": "Malta als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-1c9650012bf6ef"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-52e5c59d438a21"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/malta/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Malta für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/malta/",
+    "lang": "en",
+    "title": "Malta as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-1c9650012bf6ef"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-52e5c59d438a21"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/malta/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Malta für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/mauritius/",
+    "lang": "de",
+    "title": "Mauritius als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-3be9c3e1e0e651"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-5af6f3b0e43378"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/mauritius/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Mauritius für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C21",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/mauritius/",
+    "lang": "en",
+    "title": "Mauritius as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-3be9c3e1e0e651"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-5af6f3b0e43378"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/mauritius/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Mauritius für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C21",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/mexiko/",
+    "lang": "de",
+    "title": "Mexiko als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-ce454afdc4e3b9"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-6b5529cc4750d7"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/mexico/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Mexiko für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/mexico/",
+    "lang": "en",
+    "title": "Mexico as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-ce454afdc4e3b9"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-6b5529cc4750d7"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/mexiko/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Mexiko für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/namibia/",
+    "lang": "de",
+    "title": "Namibia als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-d8cd232cfbafbe"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-1f2227817a8513"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/namibia/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Namibia für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/namibia/",
+    "lang": "en",
+    "title": "Namibia as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-d8cd232cfbafbe"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-1f2227817a8513"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/namibia/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Namibia für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/neuseeland/",
+    "lang": "de",
+    "title": "Neuseeland als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-4d3829ade4760c"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-e51964f15fa97f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/new-zealand/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Neuseeland für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/new-zealand/",
+    "lang": "en",
+    "title": "New Zealand as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-4d3829ade4760c"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-e51964f15fa97f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/neuseeland/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Neuseeland für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/panama/",
+    "lang": "de",
+    "title": "Panama als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-5d8b37142edc25"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-d615b8fe4f73ab"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/panama/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Panama für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/panama/",
+    "lang": "en",
+    "title": "Panama as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-5d8b37142edc25"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-d615b8fe4f73ab"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/panama/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Panama für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/paraguay/",
+    "lang": "de",
+    "title": "Paraguay als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-562278779e284f"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-21f6742ce03581"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/paraguay/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Paraguay für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C14",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/paraguay/",
+    "lang": "en",
+    "title": "Paraguay as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-562278779e284f"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-21f6742ce03581"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/paraguay/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Paraguay für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C14",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/portugal/",
+    "lang": "de",
+    "title": "Portugal als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-3c27bc0e55caef"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-e029e4e197a60b"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/portugal/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Portugal für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C17",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/portugal/",
+    "lang": "en",
+    "title": "Portugal as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-3c27bc0e55caef"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-e029e4e197a60b"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/portugal/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Portugal für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C17",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/schweiz/",
+    "lang": "de",
+    "title": "Schweiz als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-f6a2369ad85f0a"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-c4b886b7b0ffbb"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/switzerland/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Schweiz für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/switzerland/",
+    "lang": "en",
+    "title": "Switzerland as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-f6a2369ad85f0a"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-c4b886b7b0ffbb"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/schweiz/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Schweiz für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/spanien/",
+    "lang": "de",
+    "title": "Spanien als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-a9dbaf3e536813"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-20db6c5297fbc7"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/spain/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Spanien für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C18",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/spain/",
+    "lang": "en",
+    "title": "Spain as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-a9dbaf3e536813"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-20db6c5297fbc7"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/spanien/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Spanien für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C18",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/suedafrika/",
+    "lang": "de",
+    "title": "Südafrika als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-4bb598aaa0d352"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-253feaf7d5e546"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/south-africa/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Südafrika für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/south-africa/",
+    "lang": "en",
+    "title": "South Africa as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-4bb598aaa0d352"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-253feaf7d5e546"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/suedafrika/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Südafrika für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/thailand/",
+    "lang": "de",
+    "title": "Thailand als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-d5c4d2eea0bd82"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-66cef29b50af12"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/thailand/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Thailand für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/thailand/",
+    "lang": "en",
+    "title": "Thailand as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-d5c4d2eea0bd82"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-66cef29b50af12"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/thailand/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Thailand für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/uruguay/",
+    "lang": "de",
+    "title": "Uruguay als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-864d9fe7f52fef"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-6cfe68947a9bff"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/uruguay/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Uruguay für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C19",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/uruguay/",
+    "lang": "en",
+    "title": "Uruguay as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-864d9fe7f52fef"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-6cfe68947a9bff"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/uruguay/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Uruguay für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C19",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/vae/",
+    "lang": "de",
+    "title": "VAE als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-b6257fc454042c"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-9d9051691ae7bd"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/uae/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von VAE für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C16",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/uae/",
+    "lang": "en",
+    "title": "UAE as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-b6257fc454042c"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-9d9051691ae7bd"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/vae/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von VAE für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "C16",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/laender/zypern/",
+    "lang": "de",
+    "title": "Zypern als persönliche Ausweichoption",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-1bec19c07c91e0"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-8e35d888aba839"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/countries/cyprus/",
+    "kind": "page",
+    "parent": "/de/laender/",
+    "intent": "Die Eignung von Zypern für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/countries/cyprus/",
+    "lang": "en",
+    "title": "Cyprus as a personal alternative",
+    "model": "laenderprofil",
+    "brief": {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-1bec19c07c91e0"
+    },
+    "build": {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-8e35d888aba839"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/laender/zypern/",
+    "kind": "page",
+    "parent": "/en/countries/",
+    "intent": "Die Eignung von Zypern für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+    "role": "Länder-/Optionsprofil",
+    "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+    "topic": "T02;T04",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/404/",
+    "lang": "de",
+    "title": "Seite nicht gefunden",
+    "model": "recht-funktion",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-5062cd5c99b867"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-6b8f8cea474a45"
+    },
+    "legacyCMSStatus": "ID 168, blocks, publish, content",
+    "translation": "/en/404/",
+    "kind": "error",
+    "parent": "/de/",
+    "intent": "Nach ungültigem Pfad wieder zu Wissen, Leistung, Ländern oder Anfrage gelangen.",
+    "role": "Funktionsseite",
+    "sectionOrder": "Sachlicher Fehlerhinweis > vier belastbare Einstiege",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/404/",
+    "lang": "en",
+    "title": "Page not found",
+    "model": "recht-funktion",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-5062cd5c99b867"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-6b8f8cea474a45"
+    },
+    "legacyCMSStatus": "ID 169, blocks, publish, content",
+    "translation": "/de/404/",
+    "kind": "error",
+    "parent": "/en/",
+    "intent": "Nach ungültigem Pfad wieder zu Wissen, Leistung, Ländern oder Anfrage gelangen.",
+    "role": "Funktionsseite",
+    "sectionOrder": "Sachlicher Fehlerhinweis > vier belastbare Einstiege",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/anbieterinformationen/",
+    "lang": "de",
+    "title": "Anbieterinformationen",
+    "model": "recht-funktion",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-e77c248e017881"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-caee7211af0c0f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/provider-information/",
+    "kind": "page",
+    "parent": "/de/",
+    "intent": "Verantwortlichen Rechtsträger und erforderliche Kontaktangaben erkennen.",
+    "role": "Rechtlicher Querschnitt",
+    "sectionOrder": "Rechtsträger > ladungsfähige Angaben > Kontakt > Register-/Aufsichtsangaben soweit anwendbar",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/provider-information/",
+    "lang": "en",
+    "title": "Provider information",
+    "model": "recht-funktion",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-e77c248e017881"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-caee7211af0c0f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/anbieterinformationen/",
+    "kind": "page",
+    "parent": "/en/",
+    "intent": "Verantwortlichen Rechtsträger und erforderliche Kontaktangaben erkennen.",
+    "role": "Rechtlicher Querschnitt",
+    "sectionOrder": "Rechtsträger > ladungsfähige Angaben > Kontakt > Register-/Aufsichtsangaben soweit anwendbar",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/anfrage/",
+    "lang": "de",
+    "title": "Diskrete Anfrage",
+    "model": "anfrage",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c888526408108c"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-6c8907c39297e7"
+    },
+    "legacyCMSStatus": "ID 165, page, publish, content",
+    "translation": "/en/enquiry/",
+    "kind": "page",
+    "parent": "/de/",
+    "intent": "Eine Erstklärung, konkrete Arbeit oder Rückmeldung zum bestehenden Mandat anstoßen.",
+    "role": "Kontakt-/Anfrage",
+    "sectionOrder": "Anfrageart > Sprache und Rückkontakt > grober Aufgabenbereich > Ziel schon bekannt oder offen > sparsame Nachricht > Datenschutz und Absenden > nächster Kommunikationsschritt",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/enquiry/",
+    "lang": "en",
+    "title": "Private enquiry",
+    "model": "anfrage",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c888526408108c"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-6c8907c39297e7"
+    },
+    "legacyCMSStatus": "ID 167, page, publish, content",
+    "translation": "/de/anfrage/",
+    "kind": "page",
+    "parent": "/en/",
+    "intent": "Eine Erstklärung, konkrete Arbeit oder Rückmeldung zum bestehenden Mandat anstoßen.",
+    "role": "Kontakt-/Anfrage",
+    "sectionOrder": "Anfrageart > Sprache und Rückkontakt > grober Aufgabenbereich > Ziel schon bekannt oder offen > sparsame Nachricht > Datenschutz und Absenden > nächster Kommunikationsschritt",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/anfrage/bestaetigung/",
+    "lang": "de",
+    "title": "Anfrage übermittelt",
+    "model": "recht-funktion",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-20e456d616743a"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-5ec509ae1fc260"
+    },
+    "legacyCMSStatus": "ID 170, page, publish, content",
+    "translation": "/en/enquiry/confirmation/",
+    "kind": "page",
+    "parent": "/de/anfrage/",
+    "intent": "Den tatsächlich erfolgreichen Eingang und den nächsten vorgesehenen Schritt erkennen.",
+    "role": "Funktionsseite",
+    "sectionOrder": "Bestätigter Versandstatus > nächste Kontaktart > datensparsame weitere Orientierung",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/enquiry/confirmation/",
+    "lang": "en",
+    "title": "Enquiry submitted",
+    "model": "recht-funktion",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-20e456d616743a"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-5ec509ae1fc260"
+    },
+    "legacyCMSStatus": "ID 171, page, publish, content",
+    "translation": "/de/anfrage/bestaetigung/",
+    "kind": "page",
+    "parent": "/en/enquiry/",
+    "intent": "Den tatsächlich erfolgreichen Eingang und den nächsten vorgesehenen Schritt erkennen.",
+    "role": "Funktionsseite",
+    "sectionOrder": "Bestätigter Versandstatus > nächste Kontaktart > datensparsame weitere Orientierung",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/arbeitsweise/",
+    "lang": "de",
+    "title": "Wie EXOBASIS arbeitet",
+    "model": "vertrauen",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-23879e92ac56b6"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-b460814415ba95"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/how-we-work/",
+    "kind": "page",
+    "parent": "/de/",
+    "intent": "Auftrag, Verantwortung, praktische Ausführung und Übergabe verstehen.",
+    "role": "Vertrauens-/Ablaufseite",
+    "sectionOrder": "Auftrag passend zum vorhandenen Stand > Umfang/Preis > eigene Arbeit und Fachausführung > Kundenzahlung/Arbeitsabschnitt > Qualitätsprüfung/Übergabe > Pflege > vereinbarte Aktivierung",
+    "topic": "Übergreifend",
+    "clusters": "C03;C09",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/how-we-work/",
+    "lang": "en",
+    "title": "How EXOBASIS works",
+    "model": "vertrauen",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-23879e92ac56b6"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-b460814415ba95"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/arbeitsweise/",
+    "kind": "page",
+    "parent": "/en/",
+    "intent": "Auftrag, Verantwortung, praktische Ausführung und Übergabe verstehen.",
+    "role": "Vertrauens-/Ablaufseite",
+    "sectionOrder": "Auftrag passend zum vorhandenen Stand > Umfang/Preis > eigene Arbeit und Fachausführung > Kundenzahlung/Arbeitsabschnitt > Qualitätsprüfung/Übergabe > Pflege > vereinbarte Aktivierung",
+    "topic": "Übergreifend",
+    "clusters": "C03;C09",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/datenschutz/",
+    "lang": "de",
+    "title": "Datenschutz",
+    "model": "recht-funktion",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-e8fa52d7106d18"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-2dc42f47e43ad4"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/privacy/",
+    "kind": "page",
+    "parent": "/de/",
+    "intent": "Tatsächliche Verarbeitung, Rechte und Ansprechpartner nachvollziehen.",
+    "role": "Rechtlicher Querschnitt",
+    "sectionOrder": "Verantwortlicher > Kontaktformular > technische Verarbeitung > Dienstleister/Länder > Rechte > Aufbewahrung/Kontakt",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/privacy/",
+    "lang": "en",
+    "title": "Privacy notice",
+    "model": "recht-funktion",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-e8fa52d7106d18"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-2dc42f47e43ad4"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/datenschutz/",
+    "kind": "page",
+    "parent": "/en/",
+    "intent": "Tatsächliche Verarbeitung, Rechte und Ansprechpartner nachvollziehen.",
+    "role": "Rechtlicher Querschnitt",
+    "sectionOrder": "Verantwortlicher > Kontaktformular > technische Verarbeitung > Dienstleister/Länder > Rechte > Aufbewahrung/Kontakt",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/diskretion/",
+    "lang": "de",
+    "title": "Diskretion und geschützte Zusammenarbeit",
+    "model": "vertrauen",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c029a22992a66e"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-20b4957c9ce01f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/discretion/",
+    "kind": "page",
+    "parent": "/de/",
+    "intent": "Verstehen, wer welche Informationen erhält und wie Zusammenarbeit kontrolliert bleibt.",
+    "role": "Vertrauens-/Schutzseite",
+    "sectionOrder": "Öffentlicher Erstkontakt > geschützte Aufnahme > zweckgebundene Fachweitergabe > berechtigte Vertreter > Wiederkontakt > Abschluss/Weiterbetreuung",
+    "topic": "H01",
+    "clusters": "C38",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/discretion/",
+    "lang": "en",
+    "title": "Discretion and protected collaboration",
+    "model": "vertrauen",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c029a22992a66e"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-20b4957c9ce01f"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/diskretion/",
+    "kind": "page",
+    "parent": "/en/",
+    "intent": "Verstehen, wer welche Informationen erhält und wie Zusammenarbeit kontrolliert bleibt.",
+    "role": "Vertrauens-/Schutzseite",
+    "sectionOrder": "Öffentlicher Erstkontakt > geschützte Aufnahme > zweckgebundene Fachweitergabe > berechtigte Vertreter > Wiederkontakt > Abschluss/Weiterbetreuung",
+    "topic": "H01",
+    "clusters": "C38",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/leistungsbedingungen/",
+    "lang": "de",
+    "title": "Leistungs- und Vertragsbedingungen",
+    "model": "recht-funktion",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0c8db9f2771216"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-a79e5fabb2bd09"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/service-terms/",
+    "kind": "page",
+    "parent": "/de/",
+    "intent": "Auftrag, Zahlung, Mitwirkung, Fremdvertrag und Übergabe vor Kauf verstehen.",
+    "role": "Rechtlicher Querschnitt",
+    "sectionOrder": "Angebot/Vertrag > Zahlung/Abschnitte > Mitwirkung > Fachverträge > Zusatzarbeit > Übergabe/Nachbesserung > Abbruch/Verbraucherrechte",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/service-terms/",
+    "lang": "en",
+    "title": "Service and contract terms",
+    "model": "recht-funktion",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0c8db9f2771216"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-a79e5fabb2bd09"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/leistungsbedingungen/",
+    "kind": "page",
+    "parent": "/en/",
+    "intent": "Auftrag, Zahlung, Mitwirkung, Fremdvertrag und Übergabe vor Kauf verstehen.",
+    "role": "Rechtlicher Querschnitt",
+    "sectionOrder": "Angebot/Vertrag > Zahlung/Abschnitte > Mitwirkung > Fachverträge > Zusatzarbeit > Übergabe/Nachbesserung > Abbruch/Verbraucherrechte",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/de/zusammenarbeit/",
+    "lang": "de",
+    "title": "Zusammenarbeit für Berater und Fachanbieter",
+    "model": "vertrauen",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c92f618d7ea1ea"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0e2298025a427e"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/en/collaboration/",
+    "kind": "page",
+    "parent": "/de/",
+    "intent": "Eine Empfehlung oder klar abgegrenzte Fachleistung in einen geführten Kundenauftrag einbringen.",
+    "role": "B2B-Zugang",
+    "sectionOrder": "Zuweisung oder Fachausführung > passende Aufgaben > Kundenführung > begrenzte Datenübergabe > individuelle Konditionen > Kooperationsanfrage",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  },
+  {
+    "route": "/en/collaboration/",
+    "lang": "en",
+    "title": "Collaboration for advisers and specialist providers",
+    "model": "vertrauen",
+    "brief": {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c92f618d7ea1ea"
+    },
+    "build": {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0e2298025a427e"
+    },
+    "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+    "translation": "/de/zusammenarbeit/",
+    "kind": "page",
+    "parent": "/en/",
+    "intent": "Eine Empfehlung oder klar abgegrenzte Fachleistung in einen geführten Kundenauftrag einbringen.",
+    "role": "B2B-Zugang",
+    "sectionOrder": "Zuweisung oder Fachausführung > passende Aufgaben > Kundenführung > begrenzte Datenübergabe > individuelle Konditionen > Kooperationsanfrage",
+    "topic": "Übergreifend",
+    "clusters": "",
+    "status": "planned",
+    "editorialApproval": false
+  }
+]

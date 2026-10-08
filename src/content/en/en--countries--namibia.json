@@ -1,0 +1,327 @@
+{
+  "route": "/en/countries/namibia/",
+  "lang": "en",
+  "title": "Namibia as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/namibia/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-d8cd232cfbafbe",
+      "startLine": 9917
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-1f2227817a8513",
+      "startLine": 12658
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Moving to Namibia: residency, homes and family needs | EXOBASIS",
+  "description": "Explore moving to Namibia: visas and longer residence, Windhoek or the coast, renting and buying, schools, healthcare and practical preparation.",
+  "intro": "<p>If you want distance from war in Europe or a second home beyond your current life in the UAE, Namibia may enter your shortlist. Turning that distance into a useful alternative means choosing the right town, securing a lawful stay and making the home work when your family arrives.</p><p>Moving to Namibia can mean a six-month period of remote work, a second home for permitted visits or a lasting family move. Each needs a different legal and financial foundation. Start there, then decide whether Windhoek, the coast or a more remote setting can support the life you want.</p>",
+  "countryContext": "/en/countries/namibia/",
+  "linkPlan": [
+    {
+      "sourceLine": 1298,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1300,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1301,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1302,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1303,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1304,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1305,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1306,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1307,
+      "target": "/de/laender/namibia/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1513,
+      "target": "/en/countries/south-africa/",
+      "label": "South Africa as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1515,
+      "target": "/en/countries/mauritius/",
+      "label": "Mauritius as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Namibian Home Affairs: visa-on-arrival portal",
+      "url": "https://eservices.mhaiss.gov.na/visaonarrival",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "UK government: Namibia entry and child-travel documents",
+      "url": "https://www.gov.uk/foreign-travel-advice/namibia/entry-requirements",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "firecrawl_live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "NIPDB: Digital Nomad Visa",
+      "url": "https://www.nipdb.com/digital-nomad-visa",
+      "section": 4,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Namibian Home Affairs: employment, permanent residence and study permits",
+      "url": "https://mha.gov.na/all-permits-general-information",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "UK government: medical treatment in Namibia",
+      "url": "https://www.gov.uk/foreign-travel-advice/namibia/health",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "UK government: security and road travel in Namibia",
+      "url": "https://www.gov.uk/foreign-travel-advice/namibia/safety-and-security",
+      "section": 2,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Windhoek International School: admissions",
+      "url": "https://wis.edu.na/procedure",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Windhoek International School: language and curriculum",
+      "url": "https://wis.edu.na/faq",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Property News Namibia: rental inspections and responsibilities",
+      "url": "https://propertynews.com.na/latest-news/how-to-manage-your-rental-property",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Namibian Constitution: Article 16, property",
+      "url": "https://www.lac.org.na/laws/annoSTAT/Namibian%20Constitution.pdf",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Agricultural (Commercial) Land Reform Act: section 58",
+      "url": "https://www.lac.org.na/laws/annoSTAT/Agricultural%20(Commercial)%20Land%20Reform%20Act%206%20of%201995.pdf",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Etzold-Duvenhage: foreign property buyers",
+      "url": "https://edlaw.com.na/are-foreigners-allowed-to-buy-property-in-namibia/",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "FNB Namibia: home-purchase and conveyancing guide",
+      "url": "https://www.fnbnamibia.com.na/downloads/namibia/FNB-Home-Purchase-Guide-(Digital).pdf",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "FNB Namibia: foreign-currency account application",
+      "url": "https://www.fnbnamibia.com.na/downloads/namibia/forex/investments/ForeignCurrencyFormIndividuals.pdf",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Bank of Namibia: individual exchange-control guidelines, sections 5 and 6",
+      "url": "https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/59/595fd7c3-2f82-4d3d-8ab6-ae157e504657.pdf",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "NamRA: Income Tax Act, section 1 and section 15",
+      "url": "https://www.namra.org.na/documents/cms/uploaded/income-tax-act-24-of-1981-debf9c72ad.pdf",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Ask us to prepare your Namibia option",
+    "intent": "General enquiry"
+  },
+  "country": {
+    "name": "Namibia",
+    "slug": "namibia",
+    "region": "Africa and the Indian Ocean",
+    "map": "countries/namibia-locator.svg",
+    "imageAlt": "Map showing Namibia in Africa and the Indian Ocean",
+    "caption": "Namibia: geographic location.",
+    "summary": [
+      [
+        "Distance with usable access",
+        "Plan the arrival and the journey to your home, school and medical care."
+      ],
+      [
+        "Choose the lawful stay",
+        "Separate visits, the six-month nomad route, employment and permanent residence."
+      ],
+      [
+        "A home prepared in advance",
+        "Rental or purchase, independent checks, setup and care between visits."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "Decide what Namibia needs to do for you",
+      "body": "<p>A prepared refuge should reduce the number of decisions you must make under pressure. You need a permitted stay, a place to live, accessible money and people who know what is expected when you arrive. A permanent move goes further: it must sustain education, work, treatment and relationships over years.</p><p>Namibia rewards a location-specific decision. A house in Windhoek and an isolated property in the countryside do not offer the same access to services. The useful comparison is between actual homes and their dependencies, not between a European headline and an attractive landscape.</p><p>For the first visit, use accommodation that lets you test daily routines without committing most of your capital. If the country fits, the next stage is a coordinated residence and housing project.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "Preparing a refuge: travel, security and distance",
+      "body": "<p>When war, coercion or restrictions on departure are the reason for acting, decide when you would move before travel becomes difficult. Keep the documents and funds for that departure separate from a future property transaction. An international arrival still has to be followed by a usable route to your home.</p><p>In Namibia, road conditions and security deserve practical attention. UK travel advice highlights robbery and vehicle crime in Windhoek, accident risk on gravel roads and the danger of driving outside towns at night. Rain can damage gravel roads. Arrange the arrival transfer in advance and inspect the route in daylight; a long drive after an overnight flight is a poor first test of an unfamiliar plan.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.gov.uk/foreign-travel-advice/namibia/safety-and-security\" rel=\"noreferrer\">UK government: security and road travel in Namibia</a></p><p>Choose a home with appropriate access control, reliable communication and an agreed response if nobody can reach you. For a remote address, establish water storage, power, fuel, road access and the nearest suitable treatment before making remoteness the main attraction.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Windhoek, Swakopmund or Walvis Bay?",
+      "body": "<h3>Windhoek: start with services</h3><p>Windhoek is the strongest starting point when school choice, appointments and medical access lead the brief. It has the medical facilities highlighted in UK health guidance and a documented international-school option. Compare neighbourhoods through the actual school run, security arrangements and journey to the treatment you need.</p><h3>The coast: test a different daily life</h3><p>Swakopmund and Walvis Bay are worth comparing if a coastal setting suits you. Make a reconnaissance stay long enough to test wind, damp, the condition of the building and journeys between home, school and appointments. If a specialist is in Windhoek, work that journey into the decision before choosing the coastal address.</p><h3>Rural land: a separate project</h3><p>A remote home requires more self-reliance and a different property investigation. Agricultural land has foreign-acquisition restrictions, and a farm's water, infrastructure and operational needs can dominate its value as a family base. Establish those facts before treating acreage as a simple substitute for a town house.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "The six-month Digital Nomad Visa",
+      "body": "<p>Namibia's Digital Nomad Visa is a defined option for eligible people working remotely for companies or clients outside Namibia. NIPDB publishes a six-month stay, with monthly income evidence of US$2,000 for the applicant, an additional US$1,000 for an accompanying spouse and US$500 for each accompanying child.</p><p>The published application requirements include medical and radiological reports, police clearance, bank statements, employment or income evidence and appropriate health or travel insurance. Dependants complete their own application forms. The published visa fee is N$3,300, separate from insurance, documents, travel and living expenses.</p><p>This visa is non-renewable, allows no change of conditions and permits a new application only twelve months after expiry. It can support a defined period of living and remote work; it cannot carry an uninterrupted, recurring six-month residence pattern. Build the exit date into the lease, schooling and work arrangements from the outset.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.nipdb.com/digital-nomad-visa\" rel=\"noreferrer\">NIPDB: Digital Nomad Visa</a></p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Entry and Namibia residency: choose the actual category",
+      "body": "<h3>A first visit</h3><p>British citizens have needed a visa to visit Namibia since 1 April 2025. The Namibian e-services portal offers visa-on-arrival applications for up to ninety days and lists both the United Kingdom and United Arab Emirates among eligible countries. That is a nationality list: living in Dubai does not put another passport into the UAE category. Use the rules for the passport you will carry and check the admitted period recorded on arrival.</p><p class=\"exb-citation\">Sources: <a href=\"https://eservices.mhaiss.gov.na/visaonarrival\" rel=\"noreferrer\">Namibian Home Affairs: visa-on-arrival portal</a>; <a href=\"https://www.gov.uk/foreign-travel-advice/namibia/entry-requirements\" rel=\"noreferrer\">UK government: Namibia entry and child-travel documents</a></p><h3>Employment and a longer move</h3><p>A visitor visa does not authorise ordinary employment. The Ministry's employment-permit requirements involve the employer as well as the worker, including the job offer, company information, local vacancy advertising and information about unsuccessful Namibian applicants. Regulated professions require the relevant professional registration.</p><p>Permanent residence is a separate application with personal, medical, police, experience and financial-resource documentation. The correct basis depends on your circumstances and intended activity. A house purchase or overseas savings should therefore follow an established immigration route, not stand in for one. For school-age children, coordinate the study-permit position and the receiving school's documents alongside the adults' applications.</p><p class=\"exb-citation\">Sources: <a href=\"https://mha.gov.na/all-permits-general-information\" rel=\"noreferrer\">Namibian Home Affairs: employment, permanent residence and study permits</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fnamibia%2F#short-enquiry\">Ask us to prepare your Namibia option</a><p>Tell us who would move, where you live now and what you want ready. If you are unsure which service fits, start with a free 20-minute orientation.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Renting and buying a home in Namibia",
+      "body": "<h3>Rent for the first arrival</h3><p>A furnished rental in the town you are assessing lets you test the daily routine before a longer commitment. Confirm the landlord or agent's authority, the lease period and permitted occupants. Put rent, deposit, notice, utilities, maintenance, security and access during absence into the signed agreement. Photograph the condition at entry and record meters and keys.</p><p>Local property-management guidance recommends a pre-occupation inspection report and an explicit arrangement for subsequent inspections. This matters particularly if you travel frequently: someone must detect a leak or unpaid utility account while there is still time to act.</p><p class=\"exb-citation\">Sources: <a href=\"https://propertynews.com.na/latest-news/how-to-manage-your-rental-property\" rel=\"noreferrer\">Property News Namibia: rental inspections and responsibilities</a></p><h3>Urban property and agricultural land follow different rules</h3><p>Namibia's Constitution recognises property rights while allowing legislation to regulate acquisition by non-citizens. Lawfully resident foreign buyers can acquire residential property; the conveyancer must establish the buyer's status and the land's actual classification. A house advertised as a “country retreat” may sit on agricultural land.</p><p>Section 58 of the Agricultural (Commercial) Land Reform Act requires prior written ministerial consent for a foreign national's acquisition of agricultural land. It also controls certain long occupation arrangements. Resolve that issue before an offer or a structure involving a company; changing the form of the transaction does not remove the underlying land question.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.lac.org.na/laws/annoSTAT/Namibian%20Constitution.pdf\" rel=\"noreferrer\">Namibian Constitution: Article 16, property</a>; <a href=\"https://edlaw.com.na/are-foreigners-allowed-to-buy-property-in-namibia/\" rel=\"noreferrer\">Etzold-Duvenhage: foreign property buyers</a>; <a href=\"https://www.lac.org.na/laws/annoSTAT/Agricultural%20(Commercial)%20Land%20Reform%20Act%206%20of%201995.pdf\" rel=\"noreferrer\">Agricultural (Commercial) Land Reform Act: section 58</a></p><h3>Purchase checks and completion</h3><p>Use a Namibian conveyancer for the transfer and arrange independent advice protecting your interests before signing. The Deeds Office registers title deeds, transfers and encumbrances; the conveyancer prepares and lodges the documents. Obtain the title deed and investigate ownership, registered bonds, servitudes, boundaries, municipal charges, approved plans and the permitted use. For a sectional-title home, include the body corporate's rules, levies and maintenance commitments. An inspection of water, power, roof, security and communications is a separate part of the purchase.</p><p>FNB Namibia's home-purchase guide describes the conveyancer's role in documentation, municipal accounts, bond registration or cancellation and payment of transfer and stamp duties to NamRA. Budget for those duties, legal and registration fees, inspection, any finance charges and ongoing rates, insurance and upkeep. Keep the bank evidence for funds introduced from abroad.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.fnbnamibia.com.na/downloads/namibia/FNB-Home-Purchase-Guide-(Digital).pdf\" rel=\"noreferrer\">FNB Namibia: home-purchase and conveyancing guide</a></p><p>EXOBASIS organises the location and property brief, search and viewings, independent title and contract checks, completion coordination and handover. We can then arrange setup and the agreed care of the home while you are away. <a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Commission your Namibia home and arrival preparation</a>.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schools, medical care and the family journey",
+      "body": "<h3>Secure the school and immigration documents together</h3><p>Windhoek International School publishes English-medium teaching, International Baccalaureate programmes and an admissions process that welcomes applications during the school year. It requires non-Namibian children to hold or at least have applied for a study permit and supplies supporting documentation. Obtain the actual place, learning-support assessment and fees before treating that option as available to your child.</p><p class=\"exb-citation\">Sources: <a href=\"https://wis.edu.na/procedure\" rel=\"noreferrer\">Windhoek International School: admissions</a>; <a href=\"https://wis.edu.na/faq\" rel=\"noreferrer\">Windhoek International School: language and curriculum</a></p><p>For travel with children, prepare full birth certificates showing both parents and the appropriate consent or guardianship documents. If one parent travels alone with a child, the other parent's consent affidavit can be essential. A route through South Africa adds that country's child-travel requirements.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.gov.uk/foreign-travel-advice/namibia/entry-requirements\" rel=\"noreferrer\">UK government: Namibia entry and child-travel documents</a></p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare children, dependent relatives and family documents</a>.</p><h3>Arrange care and the money to access it</h3><p>UK health guidance identifies good medical facilities in Windhoek but notes that private hospitals may demand payment before treatment, even from an insured patient. Some policies are not accepted by some hospitals. Confirm the receiving provider, the insurer's payment procedure and the funds you can access immediately.</p><p>For a chronic condition or an older relative, arrange continuity of medication and a named receiving clinician. Include medical transport or evacuation where the location and treatment need justify it. A policy and a nearby clinic are different parts of that arrangement.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.gov.uk/foreign-travel-advice/namibia/health\" rel=\"noreferrer\">UK government: medical treatment in Namibia</a></p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Organise health cover and continuing treatment</a>.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Bank accounts, foreign income and tax",
+      "body": "<p>Namibian banking distinguishes residents, temporary residents and non-residents. FNB's foreign-currency account application has separate categories and asks for identity, address and immigration information. Establish the suitable account with the bank, then prepare the source-of-funds trail and test payments before relying on it for a property completion or medical bill.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.fnbnamibia.com.na/downloads/namibia/forex/investments/ForeignCurrencyFormIndividuals.pdf\" rel=\"noreferrer\">FNB Namibia: foreign-currency account application</a></p><p>When a home purchase or treatment depends on money arriving, an account application is only the starting point. The <a class=\"exb-text-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\">banking and payments guide</a> helps you prepare payment access and a reserve. Through <a class=\"exb-text-link\" href=\"/en/services/banking-liquidity/\">banking and liquidity preparation</a>, we coordinate the account requirements, source-of-funds records and payment tests for your Namibia move.</p><p>Exchange-control status matters when capital crosses the border. The Bank of Namibia's published individual guidelines set out declarations for foreign nationals taking up temporary or permanent residence and require evidence of funds introduced from abroad when those funds are later transferred out. Ask the authorised dealer to classify the intended transactions at the outset, and retain the inward-transfer records, sale documents and relevant declarations.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/59/595fd7c3-2f82-4d3d-8ab6-ae157e504657.pdf\" rel=\"noreferrer\">Bank of Namibia: individual exchange-control guidelines, sections 5 and 6</a></p><p>The Income Tax Act defines gross income by reference to a source within, or deemed to be within, Namibia. Receiving payment into a British or UAE account does not, by itself, make the work foreign-source. Before working from Namibia, have the actual services, business activity and any applicable treaty position assessed, with the necessary tax and employer registrations arranged. The Digital Nomad Visa answers an immigration question; it does not replace that tax analysis.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.namra.org.na/documents/cms/uploaded/income-tax-act-24-of-1981-debf9c72ad.pdf\" rel=\"noreferrer\">NamRA: Income Tax Act, section 1 and section 15</a></p><p>Keep enough liquid money outside the property commitment for overlapping homes, schooling, healthcare and an onward journey. For business owners, prepare a deputy and lawful signing arrangements so company operations do not depend on one device or your immediate availability.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Prepare the move before committing the capital",
+      "body": "<ol><li><strong>Choose the residence basis.</strong> Establish the lawful duration and activity for each family member, including school permits.</li><li><strong>Make a focused reconnaissance visit.</strong> Test the home area, school, hospital, communications and airport transfer.</li><li><strong>Secure the right housing arrangement.</strong> Use a documented rental or a purchase with independent legal and physical checks.</li><li><strong>Organise the dependencies.</strong> Prepare applications, banking records, insurance, treatment and utilities in the order they require.</li><li><strong>Test arrival.</strong> Confirm keys, access, water, power, working payments and the person responsible for the first day.</li></ol><p>EXOBASIS coordinates and carries out the agreed preparation and appoints the necessary local specialist work. <a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a>.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Care for the property and keep the plan current",
+      "body": "<p>Agree who holds keys, inspects the home and responds to faults. Set a spending limit and reporting arrangement for repairs. Include utilities, security equipment, ventilation, water storage where installed, insurance and the condition of any vehicle left there. A coastal home also needs an inspection plan suited to its actual building exposure.</p><p>Before a return visit, reconfirm entry permission, transport, the home and any scheduled treatment. For a nomad stay, keep the non-renewable end date visible. For longer residence, update the plan when work, family membership or immigration conditions change.</p><p><a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Arrange continuing property and preparation checks</a>.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Ask us to prepare your Namibia base",
+      "body": "<p>You can commission the part that is missing: a location comparison, an organised visit, residence and document preparation, rental setup or purchase coordination through to handover. We define the responsibilities, local specialist involvement, budget and deliverables before the work starts.</p><p>If you want the complete base prepared, we connect the residence route, property, family arrangements and arrival rather than handing you unrelated recommendations. <a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Compare Namibia with other suitable locations</a>.</p><h3>Put Namibia alongside a different option</h3><div class=\"exb-country-related\"><article><a class=\"exb-text-link\" href=\"/en/countries/mauritius/\">Mauritius: compare another base outside Europe</a><p>Compare the journey, residence route, family services and home arrangements against an island alternative.</p></article><article><a class=\"exb-text-link\" href=\"/en/countries/south-africa/\">South Africa: compare a regional family base</a><p>Would a particular South African location keep your household more workable than your Namibia shortlist, both day to day and if you need to leave Europe? Compare the actual residence route, neighbourhood security, school places, specialist care and transport. Distance from Europe alone does not settle the family decision.</p></article></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fnamibia%2F#short-enquiry\">Ask us to prepare your Namibia option</a><p>Tell us who would move, where you live now and what you want ready. If you are unsure which service fits, start with a free 20-minute orientation.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Can I buy a home in Namibia and stay there permanently?",
+    "answer": "The property transaction and your permission to remain are separate. Establish the immigration basis first and have a conveyancer confirm your status and the property classification. Agricultural land needs specific consent for foreign acquisition. The six-month Digital Nomad Visa is non-renewable, so it is not a permanent-residence route."
+  },
+  "displayTitle": "Moving to Namibia: prepare the right place for your family"
+}

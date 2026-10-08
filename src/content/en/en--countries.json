@@ -1,0 +1,406 @@
+{
+  "route": "/en/countries/",
+  "lang": "en",
+  "title": "Countries and options",
+  "parent": "/en/",
+  "translation": "/de/laender/",
+  "model": "laenderuebersicht",
+  "schemaVersion": 1,
+  "kind": "country-hub",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-dfb0cdb006b620"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-8df4757249b7fa"
+    }
+  ],
+  "eyebrow": "A second base your family can actually use",
+  "seoTitle": "Countries and options for your second base | EXOBASIS",
+  "description": "Compare countries for a contingency base, a lasting family home or mobile life. Start with your existing rights, practical needs and a route you can prepare.",
+  "intro": "<p>A home in the UK, a residence visa in the UAE and a passport from somewhere else can leave you with very different options when circumstances change. Where could your family go, what would let each person stay, and could you still use your money when you arrived?</p><p>War, the fear of a wider conflict, restrictions on your assets or concern for your children’s future can make another option feel urgent. A second base gives those concerns a practical direction: somewhere you can reach, lawfully use and prepare around your family. It might be a temporary alternative with a route back, a permanent move or one of several places you live.</p><p>Use this comparison before committing to a destination or a residence programme. Establish the job your base needs to do, check the rights you already hold, then explore the countries that deserve a closer look.</p>",
+  "openingId": "opening",
+  "sections": [
+    {
+      "id": "life-model",
+      "title": "What does your second base need to support?",
+      "body": "<p>Start with the decision you are trying to keep open. Leaving for a few months, building a new family home and dividing the year between countries involve different obligations, even when the destination is the same.</p><h3>A contingency base with a route back</h3><p>You want somewhere ready if conditions deteriorate, while keeping a viable life to return to. The useful starting point is a lawful arrival for everyone travelling, accommodation you can access and enough usable money to support the stay. Medicines, treatment, children’s routines and responsibilities left behind need arrangements before departure.</p><p>For a UAE-based household, taking a temporary absence, maintaining a second base and leaving permanently are separate decisions. Understand what keeps your residence and return possible before cancelling commitments. For a UK household, decide what happens to the home, business and dependants while you are away. Agree what would trigger departure, what would justify returning and who can deal with urgent matters in your absence.</p><h3>A lasting family base</h3><p>A permanent move needs to work for every person, not only the applicant who qualifies for residence. Your partner needs a viable daily life and, where relevant, permission to work. Your children need a suitable school and a manageable transition. An older relative may need continuing treatment or care that a holiday stay never tested.</p><p>Compare actual towns and neighbourhoods, including housing availability, school admission, health cover and the household’s income after the move. Language, friendships and professional opportunities shape whether people settle. A location that meets the financial requirement for a visa can still be wrong for the family.</p><h3>Mobile life with dependable bases</h3><p>If you plan to move between countries, each base needs a clear purpose and a workable calendar. Permitted stays, return rights, presence requirements and renewal dates must fit the pattern you will actually follow. Remote work still raises questions about authorised activity and tax connections; moving the laptop does not settle them.</p><p>Keep the practical arrangements working between visits. Someone may need to look after the property, receive notices or renew a service. You need access to documents, payments and essential accounts even if your usual phone or email fails. Include the cost of keeping several locations usable, rather than comparing only what each costs while you are there.</p><p>For children and dependants, <a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/\">Family life abroad</a> develops the preparation in more detail. If you want the work organised, <a class=\"exb-text-link\" href=\"/en/services/family-business-continuity/\">Keep your family and business functioning</a> connects the people who need support with the responsibilities that must continue.</p>"
+    },
+    {
+      "id": "rights-and-requirements",
+      "title": "Existing rights and practical requirements",
+      "body": "<p>Separate citizenship, current residence, possible rights through ancestry and the rules of the destination. Living in Britain does not make someone a British citizen. Holding UAE residence does not give the holder a particular passport or a general right to settle in another country. In a mixed-nationality family, make the comparison person by person.</p><p>Existing EU, EEA or Swiss rights may change the available routes before an investment programme enters the discussion. Rights through a spouse or another family relationship depend on the actual legal conditions; they are not interchangeable with the principal applicant’s passport. A possible nationality through ancestry also needs the relevant eligibility and documentation before you can rely on it.</p><p>Ireland illustrates the distinction. A British citizen’s position under the Common Travel Area differs from the position of a non-British family member joining them. UK residence alone does not confer those British rights. For EU, EEA or Swiss citizens and their eligible family members, a different legal framework may apply.</p><dl><dt><strong>Entry</strong></dt><dd>Check the documents and permissions for each traveller, the destination and any transit point on the route you will use.</dd><dt><strong>Residence</strong></dt><dd>Identify what lets each person stay, which evidence is needed and how renewals, absence and family changes affect that permission.</dd><dt><strong>Work</strong></dt><dd>Local employment, self-employment and remote work may have different conditions. Permission to reside is not a blanket permission to carry out every activity.</dd><dt><strong>Tax connections</strong></dt><dd>Your home, family, work, income and actual time in a country can create continuing obligations. A new residence document does not, by itself, settle what you owe in the country you leave.</dd></dl><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://eur-lex.europa.eu/eli/dir/2004/38/oj\">European Union: Directive 2004/38 on free movement and family members</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/\">Irish Immigration: joining a UK national family member</a></p><p><a class=\"exb-text-link\" href=\"/en/knowledge/residence-and-documents/rights-citizenship/\">Residence, existing rights and second citizenship</a> explains the different questions. Through <a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a>, we identify and organise the records, translations, legalisation and procedural steps your chosen route requires.</p><p>Your departure side matters too. Resolve any actual restriction on travel, a child’s travel consent or a residence condition before relying on a destination. If you are leaving the UAE, keep the return decision separate from permanent departure; if you are leaving the UK, assess your own status and continuing ties rather than borrowing a rule written for someone with a different passport.</p><p><a class=\"exb-text-link\" href=\"/en/enquiry/?anliegen=Arrange%20residence%20and%20document%20preparation#short-enquiry\">Request residence and document preparation</a> when you know the work you need. For an open question without a service selection, use <a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a>.</p>"
+    },
+    {
+      "id": "scenarios-and-criteria",
+      "title": "Compare the country with your scenario",
+      "body": "<p>Use the first table to define the purpose of your base. Use the second to test it against the conditions you want to prepare for. A planned move, a regional escalation and a severe international supply crisis do not ask the same question. This separation is more useful than adding unrelated indicators into a country score.</p><h3 id=\"life-model-requirements\">What must your location provide?</h3><p class=\"exb-table-hint\">Scroll the table sideways to read every column.</p><div class=\"exb-country-table\" role=\"region\" aria-labelledby=\"life-model-matrix\" tabindex=\"0\"><table><caption id=\"life-model-matrix\">Requirements by life model</caption><thead><tr><th scope=\"col\">Criterion</th><th scope=\"col\">Contingency base with a route back</th><th scope=\"col\">Lasting family base</th><th scope=\"col\">Mobile life</th></tr></thead><tbody><tr><th scope=\"row\">Legal access</th><td>Everyone travelling has an established basis for entry and the intended stay. Return to the second base is possible under the relevant re-entry conditions.</td><td>Each family member has a sustainable route to remain, with the evidence and ongoing duties needed to maintain it.</td><td>Your planned sequence of visits fits lawful entry, permitted stay lengths and any presence requirements at each base.</td></tr><tr><th scope=\"row\">Reachability</th><td>The location is reachable before the disruption. If your usual journey fails, you have a prepared alternative you can actually use.</td><td>The family’s move can be scheduled around usable documents, appointments and a realistic arrival date.</td><td>You can travel between bases without losing permission, missing a renewal or making the next entry unlawful.</td></tr><tr><th scope=\"row\">Essential services</th><td>Accommodation, water, power and medical help are arranged for the period away. You understand what the base depends on if supplies are disrupted.</td><td>Ongoing treatment, education, childcare and any care needs fit the location and the household budget.</td><td>You have dependable accommodation and the services you need during each period of residence.</td></tr><tr><th scope=\"row\">Livelihood</th><td>You can pay local bills, bridge an interruption to income and meet commitments continuing at the original home.</td><td>Lawful work and reliable income support the household. Language, relationships and opportunities make a settled life possible.</td><td>Your work and tax connections match the way you live. Digital access and the cost of keeping several bases running are manageable.</td></tr><tr><th scope=\"row\">Return and continuity</th><td>You have agreed when returning makes sense and maintained the rights, home and essential commitments needed to do so.</td><td>Long-term residence remains workable as children grow and employment or family circumstances change; each person retains an individual path.</td><td>You keep permissions, re-entry and actual presence up to date so that a base remains usable after time elsewhere.</td></tr></tbody></table></div><h3 id=\"scenarios-and-evidence\">What changes when conditions deteriorate?</h3><p class=\"exb-table-hint\">Scroll the table sideways to read every column.</p><div class=\"exb-country-table\" role=\"region\" aria-labelledby=\"scenario-matrix\" tabindex=\"0\"><table><caption id=\"scenario-matrix\">Three scenarios and distinct evidence layers</caption><thead><tr><th scope=\"col\">Scenario</th><th scope=\"col\">Scientific food-system resilience</th><th scope=\"col\">Peace, conflict and travel safety</th><th scope=\"col\">Practical suitability for your family</th></tr></thead><tbody><tr><th scope=\"row\">Planned long-term relocation</th><td>Studies of abruptly reduced sunlight illuminate supply dependencies. They do not choose today’s best school, neighbourhood or medical service for your household.</td><td>The Global Peace Index describes conflict, societal safety and security, and militarisation. Read local safety and travel information alongside it; a published index is not a forecast of your family’s future.</td><td>Start with each person’s rights, then housing, school, health, income, permitted work and ongoing duties. An existing right to reside may remove the need to buy access through an investment programme.</td></tr><tr><th scope=\"row\">Regional escalation disrupting travel and supplies</th><td>A country can produce food and still depend on imported fuel, replacement parts and medicines. The island study helps expose these dependencies; it is not a simulation of the particular regional conflict you face.</td><td>Distinguish proximity to conflict, possible involvement and alliance position from internal peacefulness. The dated official examples below for Georgia and the UAE show why an available property or visa does not establish a conflict-distant refuge.</td><td>The base must be reachable in time, with lawful entry and re-entry for the household, prepared accommodation and usable funds. Keep the conditions for a return journey in the same plan.</td></tr><tr><th scope=\"row\">Severe international supply crisis</th><td>Nature Food models food losses following nuclear-war-related climate disruption. The Risk Analysis island study identifies Australia, New Zealand, Iceland, Vanuatu and the Solomon Islands as noteworthy food-resilience cases. Fuel, machinery parts and industrial supply chains remain important dependencies.</td><td>Low internal conflict does not prevent global crop losses or interrupted trade. Peace indicators and official travel advice describe different properties from the food-system models.</td><td>Early access arrangements must connect with functioning accommodation, water, power and supplies on the ground. Vanuatu and the Solomon Islands still require their own assessment of residence, specialist medicine and deliverable family arrangements. A model result does not secure admission or an evacuation after disruption begins.</td></tr></tbody></table></div><p>For the scientific column, the relevant studies are Xia et al., Nature Food, published on 15 August 2022, and Boyd/Wilson, Risk Analysis, first published online on 4 December 2022. Otago’s article of 7 February 2023 explains the same island study. These sources explore modelled climate disruption and food-system resilience; they do not establish individual access to a country or a supply allocation for your household.</p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.nature.com/articles/s43016-022-00573-0\">Xia et al., Nature Food 2022: food consequences of nuclear climate disruption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://onlinelibrary.wiley.com/doi/10.1111/risa.14072\">Boyd/Wilson, Risk Analysis: island resilience to abruptly reduced sunlight</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.otago.ac.nz/news/newsroom/nz-one-of-few-island-nations-with-potential-to-produce-enough-food-in-a-nuclear-winter\">University of Otago: explanation of the island study, 7 February 2023</a></p><p>The peace column draws on IEP’s methodology dated 3 March 2026. Alliance membership is a separate fact: Sweden joined NATO on 7 March 2024. An older reputation for neutrality is therefore not a substitute for examining the country’s actual position.</p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.visionofhumanity.org/understanding-the-global-peace-index-methodology/\">Institute for Economics &amp; Peace: Global Peace Index methodology</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.nato.int/en/news-and-events/articles/news/2024/03/07/sweden-officially-joins-nato\">NATO: Sweden joined on 7 March 2024</a></p><p>The Georgia FCDO material used here was captured on 26 September 2026 and distinguishes Abkhazia, South Ossetia and nearby areas. The UAE advice with an update dated 24 July 2026 describes regional tensions and possible flight and airspace disruption. For a journey, use the official advice in force when you plan to travel.</p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.uk/foreign-travel-advice/georgia/regional-risks\">FCDO: regional risks in Georgia</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.uk/foreign-travel-advice/united-arab-emirates\">FCDO: United Arab Emirates travel advice</a></p><p>Practical access to your wealth belongs in this comparison. If an account is frozen or closed, or capital controls interrupt a transfer, property value does not pay the next rent bill abroad. Establish lawful payment routes, a usable reserve, source-of-funds records and access that does not depend on one phone. <a class=\"exb-text-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\">Banking access and payments abroad</a> explains the dependencies. <a class=\"exb-text-link\" href=\"/en/services/banking-liquidity/\">Prepare banking access and liquidity</a> turns the required arrangements into a defined piece of work.</p>"
+    },
+    {
+      "id": "country-profiles",
+      "title": "Countries and their different roles",
+      "body": "<p>Explore the comparison groups that fit your purpose, then open the individual profiles. Each of the 27 countries has a possible role and a question that can change the decision. Their order is a way through the material, not a ranking of safety.</p><nav class=\"exb-country-groups-nav\" aria-label=\"Comparison regions\"><a class=\"exb-text-link\" href=\"#south-america\">South America</a><a class=\"exb-text-link\" href=\"#central-america-caribbean\">Central America and the Caribbean</a><a class=\"exb-text-link\" href=\"#pacific\">Pacific</a><a class=\"exb-text-link\" href=\"#north-america\">North America</a><a class=\"exb-text-link\" href=\"#europe\">Europe</a><a class=\"exb-text-link\" href=\"#africa-indian-ocean\">Africa and the Indian Ocean</a><a class=\"exb-text-link\" href=\"#asia\">Asia</a><a class=\"exb-text-link\" href=\"#other-assessed-options\">Other explicitly assessed options</a></nav><div class=\"exb-country-group\"><h3 id=\"south-america\">South America</h3><p>These countries offer different coastal and inland settings. Compare the legal route and the specific family location together, then account for the journey from your present base and the services you would need after arrival.</p><article class=\"exb-country-directory-item\"><h4>Uruguay</h4><p><strong>A South American home to build for the long term</strong></p><p>Consider Uruguay when you want to establish a settled household rather than keep renewing a visit. Its permanent legal residence process provides a specific route to examine, with evidence required for each applicant. The next comparison is local: housing, school and treatment within a workable daily radius. For a temporary contingency use, add the journey and the arrangements that keep the home ready between visits.</p><p><a class=\"exb-text-link\" href=\"/en/countries/uruguay/\">Uruguay as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gub.uy/tramites/residencia-legal-permanente\">Uruguay: permanent legal residence procedure</a></p></article><article class=\"exb-country-directory-item\"><h4>Paraguay</h4><p><strong>An inland base that needs a realistic preparation schedule</strong></p><p>Paraguay’s temporary residence route and its renewal are distinct from a later permanent status. Build document preparation and attendance at the necessary appointments into your timetable. Then test the location against how the family will live: a lower-cost home does not compensate for an unmanageable trip to school or specialist treatment. Inland geography changes the travel and supply questions rather than removing them.</p><p><a class=\"exb-text-link\" href=\"/en/countries/paraguay/\">Paraguay as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://migraciones.gov.py/residencia-temporal/\">Migraciones Paraguay: temporary residence under Law 6984/2022</a></p></article><article class=\"exb-country-directory-item\"><h4>Argentina</h4><p><strong>A residence case tied to the income you can evidence</strong></p><p>Argentina may warrant attention where a Rentista or Pensionado category fits the applicant’s circumstances. Identify the type and evidence of continuing income before treating available capital as sufficient. For a family coming from the UK or UAE, the local choice also needs workable payment arrangements, health provision and a realistic household budget. A partner’s work and long-term integration belong in the same decision.</p><p><a class=\"exb-text-link\" href=\"/en/countries/argentina/\">Argentina as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-temporario-como-rentista-o-pensionado\">Argentina: temporary entry as a Rentista or Pensionado</a></p></article><article class=\"exb-country-directory-item\"><h4>Chile</h4><p><strong>A regional choice within a long-term residence plan</strong></p><p>Chile is worth assessing when you can prepare a move in stages. The path from prior residence to permanent status carries its own conditions, including the treatment of time outside the country. Choose a region with the family’s medical access, natural hazards and travel needs in view. If you would use the base only during a crisis, the distance demands a departure plan with sufficient lead time.</p><p><a class=\"exb-text-link\" href=\"/en/countries/chile/\">Chile as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://serviciomigraciones.cl/residencia-definitiva/\">SERMIG Chile: permanent residence</a></p></article><article class=\"exb-country-directory-item\"><h4>Brazil</h4><p><strong>Choose the city and residence basis together</strong></p><p>Brazil’s scale makes a single country-level verdict unhelpful. A retirement-income, family or other residence basis must fit the applicant; Portuguese, neighbourhood safety, school and medical access then shape the local choice. Match the financial evidence for that route, such as pension, income or available funds, to a household budget you can actually sustain. An application threshold does not establish what remains available for rent, school and care. Registration with the Polícia Federal is part of establishing residence. If the home will be used intermittently, also examine the rules that govern absence under the selected status.</p><p><a class=\"exb-text-link\" href=\"/en/countries/brazil/\">Brazil as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.br/pt-br/servicos/registrar-se-como-estrangeiro-no-brasil\">Brazil: registration of foreign residents with the Polícia Federal</a></p></article></div><div class=\"exb-country-group\"><h3 id=\"central-america-caribbean\">Central America and the Caribbean</h3><p>A mainland city, an island home and an international transit centre meet different needs. Keep weather disruption, imported supplies and the household’s actual routes in the comparison.</p><article class=\"exb-country-directory-item\"><h4>Panama</h4><p><strong>A family location and a specialist business location</strong></p><p>Panama may enter your plans through business or asset arrangements, but those interests do not choose the family’s home. Compare an actual neighbourhood, school, medical provision and regular journeys. Official travel advice distinguishes particular border and remote areas from the rest of the country. International connectivity matters, as does your dependence on transit and the supplies needed to keep daily life running.</p><p><a class=\"exb-text-link\" href=\"/en/countries/panama/\">Panama as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.uk/foreign-travel-advice/panama/safety-and-security\">FCDO: safety and regional travel considerations in Panama</a></p></article><article class=\"exb-country-directory-item\"><h4>Costa Rica</h4><p><strong>Match the route to settled residence or temporary remote work</strong></p><p>Costa Rica’s regular Pensionado and Rentista routes serve a different purpose from the temporary digital-nomad Estancia. Renewing the nomad Estancia requires at least 180 days of actual presence in Costa Rica during the first year; this belongs to that route, not to regular residence. Decide which pattern you need before comparing homes. For a lasting family base, the practical choice combines school, transport, health provision and recurring costs; for a limited stay, keep the lawful duration and next destination clear.</p><p><a class=\"exb-text-link\" href=\"/en/countries/costa-rica/\">Costa Rica as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.dhr.go.cr/defensoria_transparente/participacion_ciudadana/migracion_refugio/ley_8764/titulo_vi.pdf\">Costa Rica: Law 8764 and regular residence categories</a> · <a class=\"exb-text-link\" href=\"https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=95085&amp;param2=129850&amp;param3=1&amp;param4=\">Costa Rica: Law 10008, Article 15, renewal of the nomad Estancia</a></p></article><article class=\"exb-country-directory-item\"><h4>Mexico</h4><p><strong>A consular application followed by a specific local decision</strong></p><p>For Mexico, distinguish temporary from permanent residence and establish which consulate and category apply to you. Published income or asset figures from another consulate are not your individual eligibility decision. Regional differences then matter greatly: compare safety, treatment, school and journeys in the place where you would live. A broad impression of Mexico is too coarse for a family commitment.</p><p><a class=\"exb-text-link\" href=\"/en/countries/mexico/\">Mexico as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://consulmex.sre.gob.mx/portland/index.php/docu/ve/7-servicios/servicios/61-visa-permanent-residents\">Mexican Consulate in Portland: permanent residence requirements</a></p></article><article class=\"exb-country-directory-item\"><h4>Dominican Republic</h4><p><strong>A Caribbean base whose daily arrangements need preparation</strong></p><p>The Dominican Republic can be assessed for a second home or a permanent family move. Rentista, Pensionado and investor cases have different qualifying conditions and procedural steps. At the location level, consider treatment, water and power, weather disruption and dependable payments. Santo Domingo offers a city-based choice around schools and specialist treatment. On the north coast, compare the actual journey from Puerto Plata or Cabarete to school and care in Sosúa. In Samaná and Las Terrenas, weigh the school location, access to specialist treatment elsewhere and road access during heavy rain. Inland, a home near Santiago’s schools and hospitals is a different proposition from a remote hillside property; in the east, assess Punta Cana around schooling, medical needs and the property’s actual electricity and water arrangements. Imported medicines and spare parts need a supply route and reserve, while essential equipment needs backup power and the household needs reachable help during severe weather. If buying is part of the plan, establish the property’s ownership position and practical use separately from the residence route.</p><p><a class=\"exb-text-link\" href=\"/en/countries/dominican-republic/\">Dominican Republic as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://migracion.gob.do/servicio/residencia-por-inversion-en-calidad-de-rentista/\">Dominican Republic DGM: residence as a Rentista</a></p></article></div><div class=\"exb-country-group\"><h3 id=\"pacific\">Pacific</h3><p>Distance can be part of the purpose, but it makes preparation and timing more important. Food-system research adds a separate perspective to the rights and arrangements needed for your own arrival.</p><article class=\"exb-country-directory-item\"><h4>New Zealand</h4><p><strong>A distant option that rewards early preparation</strong></p><p>New Zealand’s place in the food-resilience research makes it worth examining for that scenario. Your usable route remains a separate question: Active Investor Plus may fit a qualifying investor, while another household will need a different basis. Establish admission and the timing of the move first, then compare towns for schooling, treatment and housing. The research itself supplies neither immigration permission nor a prepared home.</p><p><a class=\"exb-text-link\" href=\"/en/countries/new-zealand/\">New Zealand as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.immigration.govt.nz/visas/active-investor-plus-visa/\">Immigration New Zealand: Active Investor Plus Visa</a></p></article><article class=\"exb-country-directory-item\"><h4>Australia</h4><p><strong>A long-term move through a route that is actually available</strong></p><p>Australia offers markedly different regions for family life and is another food-resilience research case. Its former Business Innovation and Investment route is closed to new applications, so an old investor-visa offer cannot underpin a new plan. Start from a currently applicable route for your circumstances. Then assess local hazards, healthcare, schooling and the household’s livelihood alongside the long journey.</p><p><a class=\"exb-text-link\" href=\"/en/countries/australia/\">Australia as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://immi.homeaffairs.gov.au/visas/getting-a-visa/biip-closure-and-refunds\">Australian Home Affairs: BIIP closure and existing cases</a></p></article></div><div class=\"exb-country-group\"><h3 id=\"north-america\">North America</h3><p>Canada is considered on its own immigration and regional terms. The relevant province, legal route and family needs determine whether it belongs in your shortlist.</p><article class=\"exb-country-directory-item\"><h4>Canada</h4><p><strong>A family or work-based case, not an assumed start-up opening</strong></p><p>Canada remains a country to compare, but the Start-up Visa programme is paused for new applications in the IRCC material dated 21 July 2026. Applications received earlier continue to be processed. Identify an applicable route rather than treating a past offer as available. Province and town will then affect the budget, winter conditions, school and access to treatment that make family life viable. Canada is a NATO member. For a decision prompted by war or the fear of it, assess that alliance commitment separately from domestic peacefulness within the conflict scenario you are considering.</p><p><a class=\"exb-text-link\" href=\"/en/countries/canada/\">Canada as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/participate/commitment-certificate.html\">IRCC: Start-up Visa status, page dated 21 July 2026</a></p></article></div><div class=\"exb-country-group\"><h3 id=\"europe\">Europe</h3><p>European options depend heavily on each person’s existing rights. A British passport, another European nationality and residence in the UK are different starting points; a UAE residence card does not settle the question either.</p><article class=\"exb-country-directory-item\"><h4>Portugal</h4><p><strong>Separate the right to live there from the property decision</strong></p><p>For a household leaving the UK, check whether any member already holds qualifying European rights before considering a paid programme in Portugal. National residence routes and qualifying investment routes address other cases. Buying property is not a current ARI qualifying route in itself. Choose the legal basis and the home on their own merits, then connect them through schooling, health provision and a sustainable budget.</p><p><a class=\"exb-text-link\" href=\"/en/countries/portugal/\">Portugal as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a\">AIMA Portugal: qualifying ARI routes</a></p></article><article class=\"exb-country-directory-item\"><h4>Spain</h4><p><strong>An established home through existing rights or another route</strong></p><p>Spain can suit a planned family move, but the old investor route stopped accepting new qualifying applications from 3 April 2025. A property purchase no longer opens that former Golden Visa route. Existing European rights or another applicable residence basis require a different assessment. Your regional comparison should include language, school, treatment and housing costs, not just climate and purchase price.</p><p><a class=\"exb-text-link\" href=\"/en/countries/spain/\">Spain as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.exteriores.gob.es/Consulados/pekin/es/Comunicacion/Noticias/Paginas/Articulos/Eliminaci%C3%B3n-de-la-%E2%80%9CGolden-Visa%E2%80%9D--%E5%8F%96%E6%B6%88%E6%8A%95%E8%B5%84%E7%A7%BB%E6%B0%91%E2%80%9C%E9%BB%84%E9%87%91%E7%AD%BE%E8%AF%81%E2%80%9D.aspx\">Spanish Ministry of Foreign Affairs: end of the Golden Visa route</a></p></article><article class=\"exb-country-directory-item\"><h4>Switzerland</h4><p><strong>European proximity with its own access conditions</strong></p><p>Switzerland can be convenient for maintaining European family or business ties. Access depends on the person’s nationality and circumstances; the free-movement framework for non-working eligible residents includes resources and insurance. Establish which regime actually applies to each member of a UK- or UAE-based household. Then compare the location and canton together: living costs, insurance and the residence and tax conditions relevant to your household, with European travel and supply dependencies still in view.</p><p><a class=\"exb-text-link\" href=\"/en/countries/switzerland/\">Switzerland as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-nichterwerbstaetige-e.pdf.download.pdf/fs-nichterwerbstaetige-e.pdf\">Swiss SEM: residence without gainful activity under free movement</a></p></article><article class=\"exb-country-directory-item\"><h4>Ireland</h4><p><strong>An important UK comparison with separate family rights</strong></p><p>Ireland deserves an early look for a British citizen because of the Common Travel Area. That starting point does not automatically settle the position of a non-British partner, child or parent. Their route must be established separately, including the relevant family-reunification conditions. A UK resident without British citizenship needs their own assessment. Housing that is actually available, school admission and treatment remain essential to turning a legal option into a home.</p><p><a class=\"exb-text-link\" href=\"/en/countries/ireland/\">Ireland as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/\">Irish Immigration: joining a UK national family member</a></p></article><article class=\"exb-country-directory-item\"><h4>Iceland</h4><p><strong>An island-resilience case with a demanding practical test</strong></p><p>Iceland features prominently in the island study, but a family base also needs usable immigration rights, housing and continuing access to the care it requires. EEA/EFTA registration may be relevant to qualifying nationals; a UK or UAE address is not that nationality. Assess climate, specialist treatment, flights and imported operating supplies. These practical dependencies matter especially if you intend to arrive only when a crisis develops.</p><p><a class=\"exb-text-link\" href=\"/en/countries/iceland/\">Iceland as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://island.is/en/registration-of-eea-efta-foreign-nationals\">Iceland: registration of EEA/EFTA citizens</a></p></article><article class=\"exb-country-directory-item\"><h4>Greece</h4><p><strong>Check personal rights before selecting an investment category</strong></p><p>Greece may be available through existing EU, EEA or Swiss rights, or through a different applicable route. Investor cases distinguish ordinary property acquisition, qualifying changes of use and listed-property restoration; a generic property listing does not resolve the category. For the family, a mainland town and a small island may offer very different access to school and specialist treatment. Choose the place as carefully as the legal route.</p><p><a class=\"exb-text-link\" href=\"/en/countries/greece/\">Greece as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf\">Greek Ministry of Migration: Circular 9 on property-investment categories</a></p></article><article class=\"exb-country-directory-item\"><h4>Cyprus</h4><p><strong>An island home with a separate question about work</strong></p><p>Cyprus may fit a lasting base or repeated stays, depending on the legal route and how you intend to use it. Existing European rights and investor permission are different cases, and the right to carry out a particular job still needs assessment. Include healthcare, school, water, power and flights in the location comparison. A suitable residence offer does not remove the significance of the region’s wider conditions.</p><p><a class=\"exb-text-link\" href=\"/en/countries/cyprus/\">Cyprus as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/\">Cyprus Migration Department: immigration permits for investors</a></p></article><article class=\"exb-country-directory-item\"><h4>Malta</h4><p><strong>A compact base where different permissions must stay distinct</strong></p><p>For Malta, start with any European rights before assessing a possible MPRP case. Permanent residence is different from citizenship and does not answer every work question. MPRP requires you to maintain a qualifying purchased or rented property and budget separately for administration fees, the government contribution and a donation, alongside ordinary housing and living costs. For a family, compare the housing you can obtain, school places, access to treatment and ongoing cost. For an occasional second base, add the arrangements that keep it usable while you are away and the island’s travel dependencies.</p><p><a class=\"exb-text-link\" href=\"/en/countries/malta/\">Malta as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://residencymalta.gov.mt/wp-content/uploads/2025/08/S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf\">Residency Malta Agency: MPRP Regulations, 2025 version</a></p></article></div><div class=\"exb-country-group\"><h3 id=\"africa-indian-ocean\">Africa and the Indian Ocean</h3><p>An island’s connections and a mainland location’s service distances create different trade-offs. Match the actual place with continuing treatment, everyday transport and the family’s way of life.</p><article class=\"exb-country-directory-item\"><h4>Mauritius</h4><p><strong>Choose between an extended stay and a longer-term base</strong></p><p>Mauritius can be considered for a period abroad or a more enduring arrangement, but Premium Visa, Occupation Permit and other residence routes serve different purposes. Match the route to your work and intended duration rather than assuming an extended visit creates permanent rights. A household with continuing medical needs should identify what care is available locally and what would require travel elsewhere. A usable island base also needs cyclone and heavy-rain preparations, reserves and resupply for imported medicines or spare parts, and an alternative plan if flight connections are interrupted.</p><p><a class=\"exb-text-link\" href=\"/en/countries/mauritius/\">Mauritius as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf\">Economic Development Board Mauritius: Premium Visa conditions</a></p></article><article class=\"exb-country-directory-item\"><h4>Namibia</h4><p><strong>Space and distance need a workable service radius</strong></p><p>Namibia’s location question is inseparable from the distances involved. A home must work with the school, treatment, water provision and transport your household needs. Establish an appropriate residence or work basis before committing. Prepare the evidence of income, assets or financial support required for that route, together with passport copies and any required civil-status records, police certificates and medical reports. A remote property may suit an independent short stay but make regular medical appointments or a dependant’s care much harder; judge it against the actual people using the base.</p><p><a class=\"exb-text-link\" href=\"/en/countries/namibia/\">Namibia as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://mhaiss.gov.na/immigration-control\">Namibia MHAISS: immigration and residence administration</a></p></article><article class=\"exb-country-directory-item\"><h4>South Africa</h4><p><strong>Test a neighbourhood and its essential services</strong></p><p>South Africa requires a local assessment alongside the applicable residence route. Consider everyday safety, school journeys, medical access and the ability to cope with power or water interruptions. The recurring cost of those arrangements belongs in the household budget. If you are preparing a reserve home rather than moving permanently, also decide who maintains it and how you will reach it in time.</p><p><a class=\"exb-text-link\" href=\"/en/countries/south-africa/\">South Africa as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.za/services/services-foreign-nationals/permanent-residence/apply-permanent-residency-permit\">South African Government: applying for permanent residence</a></p></article></div><div class=\"exb-country-group\"><h3 id=\"asia\">Asia</h3><p>Programme names can make these options look simpler than they are. Decide how you intend to live, work and travel, then compare the matching permission and local arrangements.</p><article class=\"exb-country-directory-item\"><h4>Malaysia</h4><p><strong>A programme must fit the household’s real pattern of use</strong></p><p>Malaysia can be assessed for a settled Asian base or extended periods abroad. MM2H categories and their conditions need individual examination, including whose presence counts; there is no useful universal presence rule for every family case. Compare the chosen area’s school, specialist treatment, language and permitted work with the financial commitment. The programme and the local living arrangement must both fit.</p><p><a class=\"exb-text-link\" href=\"/en/countries/malaysia/\">Malaysia as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.motac.gov.my/wp-content/uploads/2025/12/Guide-Malaysia-My-Second-Home.pdf\">Malaysia MOTAC: official MM2H guide</a></p></article><article class=\"exb-country-directory-item\"><h4>Thailand</h4><p><strong>Choose the permission that matches how you intend to live</strong></p><p>Thailand can enter the comparison for mobile life or a longer family stay. The Long-Term Resident programme has distinct categories and eligibility requirements; a tourist visit is a different starting point. Depending on the LTR route, the qualifying basis may be assets with investment in Thailand, retirement income, eligible overseas employment or specialist work in Thailand. Income evidence varies by category. Each accompanying family member needs a separate eligibility check against the relationship, the principal applicant’s status and the required supporting documents. Bring work, schooling, treatment and housing into the decision together. If you intend to travel frequently, check how that pattern fits the permission and what must be maintained between visits.</p><p><a class=\"exb-text-link\" href=\"/en/countries/thailand/\">Thailand as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://ltr.boi.go.th/\">Thailand Board of Investment: Long-Term Resident programme</a></p></article></div><div class=\"exb-country-group\"><h3 id=\"other-assessed-options\">Other explicitly assessed options</h3><p>Georgia and the UAE remain distinct residence and business options. Their regional conflict and travel context has to be assessed against the purpose of your alternative.</p><article class=\"exb-country-directory-item\"><h4>Georgia</h4><p><strong>A residence or business option with a specific regional context</strong></p><p>Georgia may suit a particular living or business objective, but it needs a different answer when the aim is distance from conflict. The FCDO material separates Abkhazia, South Ossetia and adjoining areas. Evaluate the actual location, residence basis, services and journey against your scenario. An accessible market or straightforward visit does not establish long-term refuge from a regional escalation.</p><p><a class=\"exb-text-link\" href=\"/en/countries/georgia/\">Georgia as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.uk/foreign-travel-advice/georgia/regional-risks\">FCDO: regional risks in Georgia</a></p></article><article class=\"exb-country-directory-item\"><h4>UAE</h4><p><strong>A working family base and, for some, the departure point</strong></p><p>The UAE may be where your family and company already operate, or a destination you are considering. Residence, dependant permissions and authorised activity each matter. If your concern is disruption in the Gulf, an alternative needs a route outside the same regional dependency, while preserving any intended return. Airspace, flights and the conditions attached to your existing residence belong in that decision.</p><p><a class=\"exb-text-link\" href=\"/en/countries/uae/\">UAE as a personal alternative</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.uk/foreign-travel-advice/united-arab-emirates\">FCDO: UAE advice used here, updated 24 July 2026</a></p></article></div>"
+    },
+    {
+      "id": "further-options",
+      "title": "Further countries to compare",
+      "body": "<p>The detailed profiles are not the limit of a personal search. These additional places can enter the comparison when they answer a defined need. Each needs the same assessment of rights, family needs and practical preparation.</p><div class=\"exb-country-extra\"><h3>Food-system resilience</h3><p>Vanuatu and the Solomon Islands are noteworthy food-resilience cases in the island study. A personal plan would still need to establish access, specialist medical provision and a family arrangement that can actually be delivered. Potential food availability does not decide those questions.</p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.otago.ac.nz/news/newsroom/nz-one-of-few-island-nations-with-potential-to-produce-enough-food-in-a-nuclear-winter\">Otago, 7 February 2023: Vanuatu and the Solomon Islands in the island study</a></p></div><div class=\"exb-country-extra\"><h3>Further island and regional options</h3><p>Fiji and Zanzibar/Tanzania can be examined for a defined island or regional requirement. Decide whether the purpose is a limited stay, a lasting home or a mobile base. That determines the questions about permission, travel connections, care and the cost of keeping the location usable.</p></div><div class=\"exb-country-extra\"><h3>Further residence and family options</h3><p>Serbia, Colombia and the Philippines remain possible additions to a personal residence or family comparison. Existing relationships, language and a relevant working connection may change their value to you. Each needs a specific regional assessment and a practical preparation route.</p></div><div class=\"exb-country-extra\"><h3>Further European alternatives</h3><p>Italy, Poland, Latvia, Denmark, Finland, Norway and Sweden may be relevant through existing rights, family connections, language or convenient access. Those advantages can be important for a lasting move. For a contingency involving war in Europe, assess alliance position and shared transport or supply dependencies separately from the convenience of living there.</p></div>"
+    },
+    {
+      "id": "specialist-locations",
+      "title": "A specialist location is not yet a family base",
+      "body": "<p>Your home, company, banking and custody arrangements can be in different places. Select each for the job it needs to do. Residence and family life require one assessment; lawful control and usable access to assets require another.</p><div class=\"exb-country-extra\"><h3>Origin and specialist roles</h3><p>The UK is a distinct origin and current-residence case. The USA/Puerto Rico may be useful for particular company or document tasks. Assess those roles on their own terms, without turning a specialist arrangement into a recommendation that the family should live there.</p></div><div class=\"exb-country-extra\"><h3>Specialist locations</h3><p>Singapore, Hong Kong, Taiwan, China, Japan, South Korea and Kenya may be relevant to a defined business, urban or specialist requirement. The activity, its legal conditions and the work that can be organised determine the comparison. A business location requires an additional assessment before it becomes a proposed family home.</p></div><div class=\"exb-country-extra\"><h3>Structuring and custody jurisdictions</h3><p>Liechtenstein, the Cook Islands and other appropriate jurisdictions belong in specific foundation, trust, company or custody assessments. Ownership, control, recognition, lawful transfers and ongoing duties matter. Holding wealth abroad does not automatically remove exposure to state action, and a structure does not itself create personal residence rights.</p></div><p><a class=\"exb-text-link\" href=\"/en/knowledge/assets-and-access/\">Protect assets and retain access</a> explains the connections. <a class=\"exb-text-link\" href=\"/en/services/\">Services and defined assignments</a> leads to the appropriate structuring, custody or company work.</p>"
+    },
+    {
+      "id": "your-selection",
+      "title": "Turn a list of countries into your own selection",
+      "body": "<p>The useful outcome is a decision you can act on. We connect the family’s intended way of life, each person’s rights and the disruption you are preparing for with suitable countries and specific locations. You receive reasoned options, clear grounds for excluding a location and the work needed to make the selected base usable.</p><h3>You have not chosen the country</h3><p>With <a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Choose suitable countries and locations</a>, we establish the criteria, research the relevant cases and organise the agreed local assessment and specialist input. The result shows which questions have been answered and which decisions need further personal or professional clarification.</p><p><a class=\"exb-text-link\" href=\"/en/enquiry/?anliegen=Choose%20suitable%20countries%20and%20locations#short-enquiry\">Request a personal country and location comparison</a></p><h3>You already know the destination</h3><p><a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Arrange your arrival abroad</a> turns accommodation, appointments, initial services and a usable start into a defined assignment. We organise the agreed work, bring in the necessary local services and keep responsibilities and results connected. Residence and document preparation can also be commissioned separately. You do not have to buy an initial consultation before requesting known work.</p><p><a class=\"exb-text-link\" href=\"/en/enquiry/?anliegen=Arrange%20your%20arrival%20abroad#short-enquiry\">Request arrangements for your chosen destination</a></p><p>For the first message, describe the broad need and how to reach you. Family, financial and medical records belong in the agreed protected exchange later.</p><div class=\"exb-country-action\"><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div><p>If you first want to establish which service fits, <a class=\"exb-text-link\" href=\"/en/enquiry/?anliegen=Orientation%20call#short-enquiry\">request an orientation call</a>: 20 minutes, free of charge. The contact page offers both an ordinary message and an optional encrypted starting point.</p>"
+    }
+  ],
+  "countryDirectoryCount": 27,
+  "regionalGroups": [
+    {
+      "title": "South America",
+      "id": "south-america",
+      "slugs": [
+        "uruguay",
+        "paraguay",
+        "argentinien",
+        "chile",
+        "brasilien"
+      ]
+    },
+    {
+      "title": "Central America and the Caribbean",
+      "id": "central-america-caribbean",
+      "slugs": [
+        "panama",
+        "costa-rica",
+        "mexiko",
+        "dominikanische-republik"
+      ]
+    },
+    {
+      "title": "Pacific",
+      "id": "pacific",
+      "slugs": [
+        "neuseeland",
+        "australien"
+      ]
+    },
+    {
+      "title": "North America",
+      "id": "north-america",
+      "slugs": [
+        "kanada"
+      ]
+    },
+    {
+      "title": "Europe",
+      "id": "europe",
+      "slugs": [
+        "portugal",
+        "spanien",
+        "schweiz",
+        "irland",
+        "island",
+        "griechenland",
+        "zypern",
+        "malta"
+      ]
+    },
+    {
+      "title": "Africa and the Indian Ocean",
+      "id": "africa-indian-ocean",
+      "slugs": [
+        "mauritius",
+        "namibia",
+        "suedafrika"
+      ]
+    },
+    {
+      "title": "Asia",
+      "id": "asia",
+      "slugs": [
+        "malaysia",
+        "thailand"
+      ]
+    },
+    {
+      "title": "Other explicitly assessed options",
+      "id": "other-assessed-options",
+      "slugs": [
+        "georgien",
+        "vae"
+      ]
+    }
+  ],
+  "matrixFragments": [
+    "life-model-requirements",
+    "scenarios-and-evidence"
+  ],
+  "linkPlan": [
+    {
+      "sourceLine": 458,
+      "target": "/en/",
+      "label": "EXOBASIS: Your own base beyond your home country",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Main; fachliche Startseite, technische Page bleibt Top-Level"
+    },
+    {
+      "sourceLine": 460,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "#your-selection > eigene K07-Aufgabenverbindung: Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 461,
+      "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+      "label": "Residence, existing rights and second citizenship",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "#rights-and-requirements > konkreter K07-Fachlink"
+    },
+    {
+      "sourceLine": 462,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "#your-selection > eigene K07-Aufgabenverbindung: Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 463,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "#your-selection und kontextnah nach sachlicher Aufgabenklärung in #rights-and-requirements; K06 mit Original-Label"
+    },
+    {
+      "sourceLine": 464,
+      "target": "/de/laender/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "K01: echter Sprachpartner dieser Übersicht"
+    },
+    {
+      "sourceLine": 879,
+      "target": "/en/countries/uruguay/",
+      "label": "Uruguay as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#south-america > eigene H4/Textgruppe Uruguay as a personal alternative"
+    },
+    {
+      "sourceLine": 899,
+      "target": "/en/countries/paraguay/",
+      "label": "Paraguay as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#south-america > eigene H4/Textgruppe Paraguay as a personal alternative"
+    },
+    {
+      "sourceLine": 919,
+      "target": "/en/countries/argentina/",
+      "label": "Argentina as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#south-america > eigene H4/Textgruppe Argentina as a personal alternative"
+    },
+    {
+      "sourceLine": 939,
+      "target": "/en/countries/chile/",
+      "label": "Chile as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#south-america > eigene H4/Textgruppe Chile as a personal alternative"
+    },
+    {
+      "sourceLine": 959,
+      "target": "/en/countries/brazil/",
+      "label": "Brazil as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#south-america > eigene H4/Textgruppe Brazil as a personal alternative"
+    },
+    {
+      "sourceLine": 979,
+      "target": "/en/countries/panama/",
+      "label": "Panama as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#central-america-caribbean > eigene H4/Textgruppe Panama as a personal alternative"
+    },
+    {
+      "sourceLine": 999,
+      "target": "/en/countries/costa-rica/",
+      "label": "Costa Rica as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#central-america-caribbean > eigene H4/Textgruppe Costa Rica as a personal alternative"
+    },
+    {
+      "sourceLine": 1019,
+      "target": "/en/countries/mexico/",
+      "label": "Mexico as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#central-america-caribbean > eigene H4/Textgruppe Mexico as a personal alternative"
+    },
+    {
+      "sourceLine": 1039,
+      "target": "/en/countries/dominican-republic/",
+      "label": "Dominican Republic as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#central-america-caribbean > eigene H4/Textgruppe Dominican Republic as a personal alternative"
+    },
+    {
+      "sourceLine": 1059,
+      "target": "/en/countries/new-zealand/",
+      "label": "New Zealand as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#pacific > eigene H4/Textgruppe New Zealand as a personal alternative"
+    },
+    {
+      "sourceLine": 1079,
+      "target": "/en/countries/australia/",
+      "label": "Australia as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#pacific > eigene H4/Textgruppe Australia as a personal alternative"
+    },
+    {
+      "sourceLine": 1099,
+      "target": "/en/countries/canada/",
+      "label": "Canada as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#north-america > eigene H4/Textgruppe Canada as a personal alternative"
+    },
+    {
+      "sourceLine": 1119,
+      "target": "/en/countries/portugal/",
+      "label": "Portugal as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europe > eigene H4/Textgruppe Portugal as a personal alternative"
+    },
+    {
+      "sourceLine": 1139,
+      "target": "/en/countries/spain/",
+      "label": "Spain as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europe > eigene H4/Textgruppe Spain as a personal alternative"
+    },
+    {
+      "sourceLine": 1159,
+      "target": "/en/countries/switzerland/",
+      "label": "Switzerland as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europe > eigene H4/Textgruppe Switzerland as a personal alternative"
+    },
+    {
+      "sourceLine": 1179,
+      "target": "/en/countries/ireland/",
+      "label": "Ireland as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europe > eigene H4/Textgruppe Ireland as a personal alternative"
+    },
+    {
+      "sourceLine": 1199,
+      "target": "/en/countries/iceland/",
+      "label": "Iceland as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europe > eigene H4/Textgruppe Iceland as a personal alternative"
+    },
+    {
+      "sourceLine": 1219,
+      "target": "/en/countries/greece/",
+      "label": "Greece as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europe > eigene H4/Textgruppe Greece as a personal alternative"
+    },
+    {
+      "sourceLine": 1239,
+      "target": "/en/countries/cyprus/",
+      "label": "Cyprus as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europe > eigene H4/Textgruppe Cyprus as a personal alternative"
+    },
+    {
+      "sourceLine": 1259,
+      "target": "/en/countries/malta/",
+      "label": "Malta as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europe > eigene H4/Textgruppe Malta as a personal alternative"
+    },
+    {
+      "sourceLine": 1279,
+      "target": "/en/countries/mauritius/",
+      "label": "Mauritius as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#africa-indian-ocean > eigene H4/Textgruppe Mauritius as a personal alternative"
+    },
+    {
+      "sourceLine": 1299,
+      "target": "/en/countries/namibia/",
+      "label": "Namibia as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#africa-indian-ocean > eigene H4/Textgruppe Namibia as a personal alternative"
+    },
+    {
+      "sourceLine": 1319,
+      "target": "/en/countries/south-africa/",
+      "label": "South Africa as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#africa-indian-ocean > eigene H4/Textgruppe South Africa as a personal alternative"
+    },
+    {
+      "sourceLine": 1339,
+      "target": "/en/countries/malaysia/",
+      "label": "Malaysia as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#asia > eigene H4/Textgruppe Malaysia as a personal alternative"
+    },
+    {
+      "sourceLine": 1359,
+      "target": "/en/countries/thailand/",
+      "label": "Thailand as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#asia > eigene H4/Textgruppe Thailand as a personal alternative"
+    },
+    {
+      "sourceLine": 1379,
+      "target": "/en/countries/georgia/",
+      "label": "Georgia as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#other-assessed-options > eigene H4/Textgruppe Georgia as a personal alternative"
+    },
+    {
+      "sourceLine": 1399,
+      "target": "/en/countries/uae/",
+      "label": "UAE as a personal alternative",
+      "role": "Vertikale Vertiefung",
+      "placement": "#other-assessed-options > eigene H4/Textgruppe UAE as a personal alternative"
+    }
+  ],
+  "editorialSources": [
+    "uy",
+    "py",
+    "pyp",
+    "ar",
+    "cl",
+    "br",
+    "pa",
+    "cr",
+    "mx",
+    "mx2",
+    "dr",
+    "dr2",
+    "nz",
+    "au",
+    "ca",
+    "pt",
+    "es",
+    "ch",
+    "eu",
+    "food",
+    "island",
+    "geo",
+    "gpi",
+    "ge",
+    "ae"
+  ],
+  "mediaStatus": "text_and_comparison_matrices_complete"
+}

@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+  "lang": "de",
+  "title": "Vollmachten, Vertretung und Nachfolge im Ausland",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-b0831c4fe780e7"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-2742a7c4989121"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-e37b182705c78e"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Dein Plan B / Wissen",
+  "seoTitle": "Vorsorgevollmacht, Vertretung und Nachfolge | EXOBASIS",
+  "description": "Vollmachten und digitalen Nachlass vorbereiten: Rechtsbefugnis, Bankakzeptanz und nutzbaren Zugriff für Familie und Unternehmen zusammenbringen.",
+  "intro": "<p>Du bist auf der Reise nicht erreichbar, liegst im Krankenhaus oder musst das Land kurzfristig verlassen. Wer bezahlt dann deine Mitarbeiter, kümmert sich um Verträge und vertritt deine Interessen? Nähe und Vertrauen allein geben einer anderen Person noch nicht die benötigte Befugnis.</p><p>Eine brauchbare Vorbereitung verbindet drei Dinge: Die richtige Person darf handeln, die beteiligte Stelle erkennt ihre Rolle an und die Unterlagen sowie Zugänge sind rechtzeitig verfügbar. Für Familie, Unternehmen und Nachfolge werden diese Aufgaben passend getrennt.</p>",
+  "primary": {
+    "label": "Vertretung und Vollmachten vorbereiten",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Eine verlässliche Person braucht auch die richtige Befugnis.",
+    "facts": [
+      [
+        "Aufgabe",
+        "Eine konkrete Handlung benennen"
+      ],
+      [
+        "Recht",
+        "Passende und akzeptierte Vertretung"
+      ],
+      [
+        "Praxis",
+        "Unterlagen und Zugänge nutzbar machen"
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift als Symbol für geordnete Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Welche Entscheidungen müssen ohne dich möglich sein?",
+      "body": "<p>Gehe konkrete Handlungen durch: eine Rechnung bezahlen, Gehälter freigeben, eine Kundenzusage machen, eine Behandlung besprechen, eine Immobilie verwalten oder einen Vertrag kündigen. Lege fest, wer jeweils übernehmen soll und welchen Spielraum diese Person erhält.</p><p>Für dein Unternehmen ist besonders wichtig, was an deiner Unterschrift oder deinem alleinigen Zugriff hängt. Eine private Vorsorgevollmacht und gesellschaftsrechtliche Vertretung lösen nicht automatisch dieselbe Aufgabe. Zeichnungsbefugnis, Bankannahme und IT-Rechte müssen auf dieselbe verantwortliche Person abgestimmt sein.</p><p>Besprich die Rolle mit der vorgesehenen Person. Sie braucht Zeit, Verständnis und Zugang zu den richtigen Kontakten. Für einen Ausfall auch dieser Vertretung gehört ein geeigneter Ersatz in die Planung.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.ihk.de/blueprint/servlet/resource/blob/6653672/28954931526c30082236129cbc745fa2/2025-06-30-notfallhandbuch-fuer-unternehmen-v0-7-allg-1-data.pdf\" rel=\"noopener noreferrer\">IHK: Notfallhandbuch für Unternehmen</a></p>",
+      "criteria": {
+        "title": "Handlungsfähigkeit für Familie und Betrieb",
+        "headers": [
+          "Aufgabe",
+          "Befugnis und Annahme",
+          "Praktischer Nachweis"
+        ],
+        "rows": [
+          [
+            "Unterschrift",
+            "Für den Vertrag ausreichende Vertretungs- oder Zeichnungsrechte",
+            "Zuständige Gegenstelle akzeptiert den Nachweis"
+          ],
+          [
+            "Bankzahlung",
+            "Akzeptierte Kontovollmacht mit passenden Limits",
+            "Eigener zugelassener Zugriff und getestete Zahlung"
+          ],
+          [
+            "Lohnlauf",
+            "Berechtigte Vorbereitung, Kontrolle und Freigabe",
+            "Buchhaltung und Ersatzfreigabe sind erreichbar"
+          ],
+          [
+            "Kundenzusage",
+            "Festgelegter Umfang wirtschaftlicher Zusagen",
+            "Auftragsstand und Ansprechpartner sind verfügbar"
+          ],
+          [
+            "Daten und Systeme",
+            "Zugelassene Rolle für die jeweilige Aufgabe",
+            "Wiederzugang und Wiederherstellung funktionieren"
+          ],
+          [
+            "Ersatzverantwortung",
+            "Befugnis auch für den Ausfall der ersten Vertretung",
+            "Ersatzperson kennt Unterlagen, Auslöser und Kontakte"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Vorsorgevollmacht, Abwesenheit und Vorsorgeauftrag unterscheiden",
+      "body": "<p>Für eine bloße Abwesenheit kann eine sofort nutzbare, auf bestimmte Aufgaben begrenzte Vollmacht nötig sein. Vorsorge für fehlende Entscheidungs- oder Urteilsfähigkeit hat einen anderen Auslöser. Der Begriff „Notfallvollmacht“ allein sagt noch nicht, ab wann jemand handeln darf.</p><p><strong>Deutschland:</strong> Eine Vorsorgevollmacht kann eine Vertrauensperson für die darin bezeichneten Angelegenheiten bevollmächtigen. Das Justizministerium empfiehlt eine schriftliche Erteilung; bestimmte Geschäfte verlangen öffentliche Beglaubigung oder notarielle Beurkundung. Außenwirkung und interne Vereinbarung über die Nutzung müssen zusammenpassen. Gerade bei Immobilien, größerem Vermögen oder mehreren Vertretern gehört die Gestaltung in einen passenden Fachauftrag.</p><p><strong>Österreich:</strong> Die Vorsorgevollmacht wird bei Notar, Rechtsanwalt oder in einfachen geeigneten Fällen bei einem Erwachsenenschutzverein errichtet und im ÖZVV registriert. Wirksam wird sie mit Eintritt und Eintragung des Vorsorgefalls. Für die Übernahme einer Aufgabe während deiner gewöhnlichen Reise brauchst du daher gegebenenfalls eine anders ausgestaltete Befugnis.</p><p><strong>Schweiz:</strong> Ein Vorsorgeauftrag für eigene Urteilsunfähigkeit wird vollständig von Hand geschrieben, datiert und unterschrieben oder öffentlich beurkundet. Die KESB prüft bei Eintritt des Falls insbesondere Gültigkeit, Urteilsunfähigkeit und Eignung der beauftragten Person. Diese Abläufe sollten der vorgesehenen Vertretung bekannt sein.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.bmjv.de/DE/themen/vorsorge_betreuungsrecht/vorsorgevollmacht/Vorsorgevollmacht.html\" rel=\"noopener noreferrer\">BMJV: Vorsorgevollmacht und Aufbewahrung</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.oesterreich.gv.at/de/themen/gesetze_und_recht/erwachsenenvertretung_und_vorsorgevollmacht/4\" rel=\"noopener noreferrer\">oesterreich.gv.at: Errichtung und Wirksamkeit der Vorsorgevollmacht</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.stadt-zuerich.ch/content/dam/web/de/lebenslagen/kindes-und-erwachsenenschutz/dokumente/vorsorge-auftrag-merkblatt.pdf\" rel=\"noopener noreferrer\">Stadt Zürich: Vorsorgeauftrag und Validierung</a></p>"
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Vorsorgevollmacht im Ausland: die empfangende Stelle einbeziehen",
+      "body": "<p>Eine in deinem Herkunftsland wirksame Urkunde muss für die konkrete Handlung im Zielstaat verwendbar sein. Kläre deshalb früh, welches Recht und welche Form für die Aufgabe maßgeblich sind, in welcher Sprache die Stelle die Urkunde benötigt und ob ein Original oder eine besondere Ausfertigung verlangt wird.</p><p>Bei einer ausländischen Bank werden die Vollmacht, Identifikation des Vertreters, erlaubten Geschäfte und der bankseitige Zugang gemeinsam abgestimmt. Beim Immobilienkauf oder -verkauf prüft die dort zuständige Fachstelle, welche Befugnis und Form für den Abschluss erforderlich sind. Sende eine vorhandene Urkunde zur Vorprüfung, bevor die Vertretung mit ihr anreisen soll.</p><p>Eine Apostille bestätigt formelle Herkunftsmerkmale einer öffentlichen Urkunde. Sie beantwortet nicht, ob deren Inhalt die gewünschte Handlung erlaubt. Beglaubigung, Übersetzung und rechtlicher Umfang werden daher in der richtigen Reihenfolge vorbereitet.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://assets.hcch.net/upload/conventions/txt12en.pdf\" rel=\"noopener noreferrer\">Haager Apostille-Übereinkommen: formeller Echtheitsnachweis</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/apostillen-uebersetzungen-urkunden/\" data-route=\"/de/leistungen/apostillen-uebersetzungen-urkunden/\"><span>Apostillen, Übersetzungen und Urkunden organisieren</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Digitalen Nachlass regeln und erlaubten Wiederzugang schaffen",
+      "body": "<p>Beginne mit einer Übersicht deiner wichtigen digitalen Werte und Verträge: E-Mail, Cloudspeicher, Domains, Kundenkonten, Abonnements, geschäftliche Systeme und gegebenenfalls digitale Vermögenswerte. Halte fest, wer zu Lebzeiten vertreten und wer im Todesfall welche Aufgabe übernehmen soll. Ein technischer Login und eine rechtliche Befugnis bleiben verschiedene Voraussetzungen.</p><p>Nutze dafür die vorgesehenen Rollen, Wiederherstellungs- und Nachlassverfahren der jeweiligen Anbieter. Hinterlege eine verständliche Anleitung und benötigte Nachweise so, dass die berechtigte Person sie erreicht. Persönliche Zugangsmittel gehören nicht in einen ungeschützten Notfallordner.</p><p>Für die Dokumente gilt dasselbe: Wo liegt die aktuelle Originalvollmacht, wer darf sie holen und wie erkennt die Vertretung, dass eine ältere Fassung ersetzt wurde? Das deutsche Vorsorgeregister verwahrt nach Angaben des Justizministeriums nicht die Vollmachtsurkunde selbst. Die Registrierung und die erreichbare Urkunde sind deshalb zwei Aufgaben.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.bmjv.de/DE/themen/vorsorge_betreuungsrecht/vorsorgevollmacht/Vorsorgevollmacht.html\" rel=\"noopener noreferrer\">BMJV: Vollmachtsurkunde und Zentrales Vorsorgeregister</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\" data-route=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\"><span>Notfallunterlagen, die Angehörige tatsächlich nutzen können</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/wiederzugang-telefon-email/\" data-route=\"/de/wissen/wiederzugang-telefon-email/\"><span>Wenn Telefon, SIM und Haupt-E-Mail ausfallen</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Nachfolge: den Todesfall als eigenen Übergang vorbereiten",
+      "body": "<p>Die Fortführung während deiner Abwesenheit und die Nachfolge nach deinem Tod müssen getrennt gestaltet werden. Kläre, welche Vollmachten weitergelten, welche mit dem Tod enden und wer dann gegenüber Bank, Gesellschaft und Behörden handeln darf. Die österreichische Vorsorgevollmacht endet beispielsweise mit dem Tod der vertretenen Person.</p><p>Bei Vermögen und Familie in mehreren Ländern gehören Wohnsitz, Staatsangehörigkeiten, Eigentum, Gesellschaftsanteile und bestehende Verfügungen in eine gemeinsame Bestandsaufnahme. Der zuständige Rechts- oder Notarauftrag klärt das anwendbare Erbrecht, geeignete Verfügungen und die erforderlichen Nachweise für die betroffenen Vermögenswerte.</p><p>Ordne auch den praktischen Übergang: laufende Zahlungen, Kundenpflichten, Kontakt zur Buchhaltung, Unterlagen der Immobilie und Erreichbarkeit der Familienangehörigen. Die verantwortlichen Personen müssen wissen, wen sie mit welchem Dokument ansprechen. Eine persönliche Nachricht oder Passwortliste ersetzt diese Regelung nicht.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.oesterreich.gv.at/de/themen/gesetze_und_recht/erwachsenenvertretung_und_vorsorgevollmacht/4\" rel=\"noopener noreferrer\">oesterreich.gv.at: Ende der Vorsorgevollmacht</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/vermoegensstrukturen/\" data-route=\"/de/leistungen/vermoegensstrukturen/\"><span>Vermögensstrukturen, Verwahrung und Nachfolge organisieren</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Der Probelauf: Wer bezahlt am nächsten Morgen die Mitarbeiter?",
+      "body": "<p>Teste vor deiner Abreise einen begrenzten, ausdrücklich erlaubten Ablauf. Die Vertretung findet die benötigte Urkunde, weist ihre Rolle nach, erreicht den richtigen Ansprechpartner und führt eine vereinbarte Handlung aus. Bei der Bank kann das eine kleine zulässige Zahlung über den eigenen Zugang sein, im Betrieb die Übernahme eines konkreten Kundenauftrags.</p><p>Für den Lohnlauf werden Vorbereitung, fachliche Kontrolle und Freigabe einzeln durchgegangen. Fehlt eine Unterschrift, ein Limit oder eine zweite Person, wird diese Lücke sichtbar, solange du sie noch beheben kannst. Die Ergebnisse werden mit Datum und Verantwortlichem festgehalten.</p><p>Passe die Vorbereitung an, wenn Personen ausscheiden, Geräte wechseln, eine Bankverbindung geändert wird oder ein weiterer Staat hinzukommt. Eine wirksame Urkunde bleibt nur praktisch brauchbar, wenn ihre organisatorische Umgebung mithält.</p>"
+    },
+    {
+      "id": "abschnitt-7",
+      "title": "Rechtsbefugnis und Durchführung aufeinander abstimmen lassen",
+      "body": "<p>EXOBASIS nimmt die erforderlichen Handlungen und vorhandenen Unterlagen auf, organisiert die beauftragte rechtliche Gestaltung und koordiniert deren praktische Nutzung mit Banken, Fachstellen und deiner Vertretung. Dazu gehören Dokumentenwege, vereinbarte Zugänge und eine passende Funktionsprobe.</p><p>Du erhältst eine nachvollziehbare Zuordnung: Wer handelt in welchem Fall, mit welcher Befugnis und auf welchem Weg? Du kannst das gemeinsam mit der Familien- und Unternehmensvorbereitung oder als abgegrenzten Auftrag für Vollmachten, Vertretung und Wiederzugang anfragen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/familie-unternehmen/\" data-route=\"/de/leistungen/familie-unternehmen/\"><span>Familie und Unternehmen handlungsfähig halten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Eigenständige deutsche Neuredaktion nach PB-D65 aus Originalbriefing, DACH-Recherche und gelesenen Fachquellen.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Welche Entscheidungen müssen ohne dich möglich sein?"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Vorsorgevollmacht, Abwesenheit und Vorsorgeauftrag unterscheiden"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Vorsorgevollmacht im Ausland: die empfangende Stelle einbeziehen"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Digitalen Nachlass regeln und erlaubten Wiederzugang schaffen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Nachfolge: den Todesfall als eigenen Übergang vorbereiten"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Der Probelauf: Wer bezahlt am nächsten Morgen die Mitarbeiter?"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Rechtsbefugnis und Durchführung aufeinander abstimmen lassen"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 603,
+        "target": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+        "label": "Apostillen, Übersetzungen und Urkunden organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Urkunden und Verwendbarkeit",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 604,
+        "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+        "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt nutzbare Unterlagen für Berechtigte",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 605,
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 606,
+        "target": "/de/leistungen/vermoegensstrukturen/",
+        "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt fachliche Strukturierungsarbeit organisieren",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 607,
+        "target": "/de/leistungen/familie-unternehmen/",
+        "label": "Familie und Unternehmen handlungsfähig halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 608,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      }
+    ],
+    "seeding": ["D24"],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Vollmachten im Ausland: Wer kann für dich handeln?"
+}

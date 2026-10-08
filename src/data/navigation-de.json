@@ -1,0 +1,250 @@
+[
+  {
+    "label": "Dein Plan B",
+    "route": "/de/wissen/",
+    "groups": [
+      {
+        "label": "",
+        "links": [
+          {
+            "label": "Deinen Ausweg vorbereiten",
+            "original_label": "Deinen Ausweg vorbereiten",
+            "route": "/de/wissen/ausweg-vorbereiten/",
+            "description": "Ausreiseoptionen, persönliche Abhängigkeiten und rechtzeitige Vorbereitung verstehen."
+          },
+          {
+            "label": "Vermögen und Zugriff sichern",
+            "original_label": "Vermögen und Zugriff sichern",
+            "route": "/de/wissen/vermoegen-zugriff/",
+            "description": "Vermögen, Zahlwege und Vertretungsbefugnisse im Zusammenhang verstehen."
+          },
+          {
+            "label": "Familie und Alltag vorbereiten",
+            "original_label": "Familie und Alltag vorbereiten",
+            "route": "/de/wissen/familie-alltag/",
+            "description": "Den Alltag von Kindern und Angehörigen am neuen Ort vorbereiten."
+          },
+          {
+            "label": "Unternehmen und Einkommen fortführen",
+            "original_label": "Unternehmen und Einkommen fortführen",
+            "route": "/de/wissen/unternehmen-einkommen/",
+            "description": "Laufendes Einkommen, Unternehmen und einen Standortwechsel zusammen planen."
+          },
+          {
+            "label": "Aufenthalt und Dokumente vorbereiten",
+            "original_label": "Aufenthalt und Dokumente vorbereiten",
+            "route": "/de/wissen/aufenthalt-dokumente/",
+            "description": "Aufenthaltsrechte und verwendbare Dokumente für dein Vorhaben klären."
+          },
+          {
+            "label": "Digitale Handlungsfähigkeit",
+            "original_label": "Digitale Handlungsfähigkeit",
+            "route": "/de/wissen/wiederzugang-telefon-email/",
+            "description": "Zugang und Kommunikation beim Ausfall von Telefon, SIM oder E-Mail vorbereiten."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Hilfe und Leistungen",
+    "route": "/de/leistungen/",
+    "groups": [
+      {
+        "label": "Plan und Länder",
+        "links": [
+          {
+            "label": "Persönliche Erstklärung",
+            "original_label": "Persönliche Erstklärung",
+            "route": "/de/leistungen/erstklaerung/",
+            "description": "Deine wichtigste Frage fachlich prüfen lassen und eine begründete Empfehlung mit nächsten Schritten erhalten."
+          },
+          {
+            "label": "Persönlicher Flucht- und Notfallplan",
+            "original_label": "Persönlicher Flucht- und Notfallplan",
+            "route": "/de/leistungen/flucht-notfallplan/",
+            "description": "Familie, Vermögen und Geschäft in einem persönlichen Flucht- und Notfallplan verbinden."
+          },
+          {
+            "label": "Individuelle Länderauswahl",
+            "original_label": "Passende Länder und Standortoptionen",
+            "route": "/de/leistungen/laender-standortauswahl/",
+            "description": "Persönlicher Auswahlauftrag: Wir prüfen Länder und Standorte für deine Familie, dein Budget und dein Vorhaben."
+          }
+        ],
+        "icon": "compass",
+        "description": "Richtung finden und vorbereiten"
+      },
+      {
+        "label": "Dokumente und Aufenthalt",
+        "links": [
+          {
+            "label": "Dokumente und Aufenthalt vorbereiten",
+            "original_label": "Dokumente und Aufenthalt vorbereiten",
+            "route": "/de/leistungen/dokumente-aufenthalt/",
+            "description": "Benötigte Dokumente und die Vorbereitung des Aufenthalts organisieren lassen."
+          },
+          {
+            "label": "Urkunden, Apostillen und Übersetzungen",
+            "original_label": "Apostillen, Übersetzungen und Urkunden organisieren",
+            "route": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+            "description": "Urkunden, Beglaubigungen und Übersetzungen für ihren vorgesehenen Einsatz organisieren."
+          },
+          {
+            "label": "Notfallunterlagen für Angehörige",
+            "original_label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+            "route": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+            "description": "Unterlagen und Befugnisse so vorbereiten, dass Angehörige sie tatsächlich nutzen können."
+          }
+        ],
+        "icon": "file",
+        "description": "Nachweise und Aufenthalt klären"
+      },
+      {
+        "label": "Geld und Unternehmen",
+        "links": [
+          {
+            "label": "Bankzugang und Liquidität",
+            "original_label": "Bankzugang und Liquidität vorbereiten",
+            "route": "/de/leistungen/bankzugang-liquiditaet/",
+            "description": "Bankannahme, Zahlungswege und nutzbare Liquidität konkret vorbereiten."
+          },
+          {
+            "label": "Vermögensstrukturen und Nachfolge",
+            "original_label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+            "route": "/de/leistungen/vermoegensstrukturen/",
+            "description": "Eigentum, Verwahrung und Nachfolge mit passenden Fachstellen organisieren."
+          },
+          {
+            "label": "Vermögen übertragen",
+            "original_label": "Vermögen übertragen und legal verfügbar halten",
+            "route": "/de/leistungen/vermoegen-uebertragen/",
+            "description": "Vermögensübertragung und rechtmäßige Verfügbarkeit zusammen vorbereiten."
+          },
+          {
+            "label": "Trust-Struktur organisieren",
+            "original_label": "Eine Trust-Struktur organisieren",
+            "route": "/de/leistungen/trust-struktur/",
+            "description": "Die fachliche Prüfung und Einrichtung einer passenden Trust-Struktur organisieren."
+          },
+          {
+            "label": "Stiftung in Liechtenstein",
+            "original_label": "Eine Stiftung in Liechtenstein organisieren",
+            "route": "/de/leistungen/stiftung-liechtenstein/",
+            "description": "Die Prüfung und Einrichtung einer liechtensteinischen Stiftung koordinieren."
+          },
+          {
+            "label": "Verwahrung und Zugriff auf Sachwerte",
+            "original_label": "Verwahrung und Zugriff auf Sachwerte organisieren",
+            "route": "/de/leistungen/sachwerte-verwahrung/",
+            "description": "Verwahrung, Eigentumsnachweise und tatsächlichen Zugriff auf Sachwerte organisieren."
+          },
+          {
+            "label": "Auslandsgesellschaft und Verwaltung",
+            "original_label": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+            "route": "/de/leistungen/auslandsgesellschaft/",
+            "description": "Gründung, Unterlagen und laufende Verwaltung einer Auslandsgesellschaft koordinieren."
+          }
+        ],
+        "icon": "globe",
+        "description": "Zugriff und Geschäft organisieren"
+      },
+      {
+        "label": "Familie und Handlungsfähigkeit",
+        "links": [
+          {
+            "label": "Familie und Unternehmen handlungsfähig halten",
+            "original_label": "Familie und Unternehmen handlungsfähig halten",
+            "route": "/de/leistungen/familie-unternehmen/",
+            "description": "Familiäre Versorgung und wesentliche Unternehmensaufgaben aufeinander abstimmen."
+          },
+          {
+            "label": "Geschützte Kommunikation und Wiederzugang",
+            "original_label": "Diskrete Kommunikation und Wiederzugang einrichten",
+            "route": "/de/leistungen/kommunikation-wiederzugang/",
+            "description": "Geschützte Kommunikation und geregelte Wiederzugangswege einrichten."
+          },
+          {
+            "label": "Ankunft im Zielland organisieren",
+            "original_label": "Ankunft im Zielland organisieren",
+            "route": "/de/leistungen/ankunft-organisieren/",
+            "description": "Unterkunft, Termine, Versorgung und die ersten Schritte nach der Ankunft organisieren."
+          }
+        ],
+        "icon": "people",
+        "description": "Alltag und Erreichbarkeit sichern"
+      },
+      {
+        "label": "Betreuung und Aktivierung",
+        "links": [
+          {
+            "label": "Vorbereitung prüfen und betreuen",
+            "original_label": "Vorbereitung prüfen und aktuell halten",
+            "route": "/de/leistungen/vorbereitung-betreuen/",
+            "description": "Vereinbarte Unterlagen, Kontakte und Vorkehrungen regelmäßig prüfen und nachführen."
+          },
+          {
+            "label": "Vereinbarte Notfallkoordination",
+            "original_label": "Vereinbarte Aktivierung und Notfallkoordination",
+            "route": "/de/leistungen/aktivierung-notfallkoordination/",
+            "description": "Auslöser, Berechtigungen, Kontaktfenster und den Ablauf einer vereinbarten Aktivierung klären."
+          }
+        ],
+        "icon": "shield",
+        "description": "Vorbereitet bleiben und handeln"
+      }
+    ]
+  },
+  {
+    "label": "Länder",
+    "route": "/de/laender/",
+    "groups": [
+      {
+        "label": "",
+        "links": [
+          {
+            "label": "Länder selbst vergleichen",
+            "original_label": "Länder und Möglichkeiten",
+            "route": "/de/laender/",
+            "description": "Öffentliche Länderprofile lesen, Voraussetzungen kennenlernen und dir selbst einen Überblick verschaffen."
+          },
+          {
+            "label": "Individuelle Länderauswahl",
+            "original_label": "Passende Länder und Standortoptionen",
+            "route": "/de/leistungen/laender-standortauswahl/",
+            "description": "Persönlicher Auswahlauftrag: Wir prüfen Länder und Standorte für deine Familie, dein Budget und dein Vorhaben."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "EXOBASIS",
+    "route": "/de/arbeitsweise/",
+    "groups": [
+      {
+        "label": "",
+        "links": [
+          {
+            "label": "Arbeitsweise",
+            "original_label": "Arbeitsweise",
+            "route": "/de/arbeitsweise/",
+            "description": "Auftrag, Verantwortung, praktische Ausführung und Übergabe bei EXOBASIS verstehen."
+          },
+          {
+            "label": "Diskretion und Verantwortung",
+            "original_label": "Diskretion und Verantwortung",
+            "route": "/de/diskretion/",
+            "description": "Erfahren, wie persönliche Angaben und geschützte Zusammenarbeit behandelt werden."
+          },
+          {
+            "label": "Fachliche Zusammenarbeit",
+            "original_label": "Fachliche Zusammenarbeit",
+            "route": "/de/zusammenarbeit/",
+            "description": "Den Zugang für Berater und Fachanbieter zur fachlichen Zusammenarbeit öffnen."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,598 @@
+{
+  "photos": [
+    {
+      "country": "argentinien",
+      "deRoute": "/de/laender/argentinien/",
+      "enRoute": "/en/countries/argentina/",
+      "path": "assets/countries/argentinien.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Häuser und Hochhäuser von Buenos Aires im Abendlicht",
+        "en": "Buildings and high-rises in Buenos Aires at sunset"
+      },
+      "caption": {
+        "de": "Buenos Aires. Foto: Michelle Maria, CC BY 3.0.",
+        "en": "Buenos Aires. Photo: Michelle Maria, CC BY 3.0."
+      },
+      "author": "Michelle Maria",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buenos_Aires,_Argentina_Skyline_-_panoramio_(1).jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "7c60d358431549d03e2e5ef093b99be48245eacfbe5c6f57d1b13bd3fd1d7a21"
+    },
+    {
+      "country": "chile",
+      "deRoute": "/de/laender/chile/",
+      "enRoute": "/en/countries/chile/",
+      "path": "assets/countries/chile.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Santiago mit beleuchteten Straßen und Anden am Abend",
+        "en": "Santiago with illuminated streets and the Andes at dusk"
+      },
+      "caption": {
+        "de": "Santiago de Chile. Foto: Marco Nürnberger, CC BY 2.0.",
+        "en": "Santiago. Photo: Marco Nürnberger, CC BY 2.0."
+      },
+      "author": "Marco Nürnberger",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_hour_in_Santiago_de_Chile.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "b9ab14e1a5ae7549f4a4077532b5570995796c07d423e9c006f00844e45ddb50"
+    },
+    {
+      "country": "georgien",
+      "deRoute": "/de/laender/georgien/",
+      "enRoute": "/en/countries/georgia/",
+      "path": "assets/countries/georgien.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Wohnhäuser und Hochhäuser im Zentrum von Tiflis",
+        "en": "Homes and high-rises in central Tbilisi"
+      },
+      "caption": {
+        "de": "Tiflis. Foto: Alf Altendorf, CC BY-SA 2.0.",
+        "en": "Tbilisi. Photo: Alf Altendorf, CC BY-SA 2.0."
+      },
+      "author": "Alf Altendorf",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cityscape_of_central_Tbilisi,_2022.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "33c393a1c2d2268aeede59847a0f32aaf4578fb0d022445fc05b82a15ff54317"
+    },
+    {
+      "country": "island",
+      "deRoute": "/de/laender/island/",
+      "enRoute": "/en/countries/iceland/",
+      "path": "assets/countries/island.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Bunte Häuser und Straßenzüge in Reykjavík aus der Vogelperspektive",
+        "en": "Aerial view of colourful houses and streets in Reykjavík"
+      },
+      "caption": {
+        "de": "Reykjavík. Foto: Andrew Smales bn2b, CC0.",
+        "en": "Reykjavík. Photo: Andrew Smales bn2b, CC0."
+      },
+      "author": "Andrew Smales bn2b",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reykjavik,_Iceland_aerial_cityscape_(Unsplash).jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "5022889cec0d2f141afb28947ddeb363871aaf00c1db20c491621fbff81b0dd6"
+    },
+    {
+      "country": "malta",
+      "deRoute": "/de/laender/malta/",
+      "enRoute": "/en/countries/malta/",
+      "path": "assets/countries/malta.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Dicht bebaute Straßenzüge und Steinfassaden in Valletta",
+        "en": "Dense streets and stone façades in Valletta"
+      },
+      "caption": {
+        "de": "Valletta. Foto: Mstyslav Chernov, CC BY-SA 3.0.",
+        "en": "Valletta. Photo: Mstyslav Chernov, CC BY-SA 3.0."
+      },
+      "author": "Mstyslav Chernov",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cityscape_of_Valletta,_Malta,_Mediterranean_Sea.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "dfa7a1c8cfbc8b4ff9884455af10e5a19a7ef56434aec437d7d85897ea749b6d"
+    },
+    {
+      "country": "namibia",
+      "deRoute": "/de/laender/namibia/",
+      "enRoute": "/en/countries/namibia/",
+      "path": "assets/countries/namibia.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Blick über die Innenstadt von Windhoek zu den Hügeln",
+        "en": "View over central Windhoek towards the hills"
+      },
+      "caption": {
+        "de": "Windhoek. Foto: Bries, CC BY-SA 2.5.",
+        "en": "Windhoek. Photo: Bries, CC BY-SA 2.5."
+      },
+      "author": "Bries",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Windhoek-Skyline.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "3f1f160c99008a6a739db964657721db6ad970d6cd11b4b89d0dfa25fa6c4e07"
+    },
+    {
+      "country": "paraguay",
+      "deRoute": "/de/laender/paraguay/",
+      "enRoute": "/en/countries/paraguay/",
+      "path": "assets/countries/paraguay.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Regierungspalast und Garten in Asunción",
+        "en": "Government palace and garden in Asunción"
+      },
+      "caption": {
+        "de": "Asunción. Foto: W. Bulach, CC BY-SA 4.0.",
+        "en": "Asunción. Photo: W. Bulach, CC BY-SA 4.0."
+      },
+      "author": "W. Bulach",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_3819_Asunci%C3%B3n_-_Paraguay_(S%C3%BCdamerika).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "7c21a44f24622f5ab016f91c483931f43ce464da20ab25018f7867e5352b0a62"
+    },
+    {
+      "country": "spanien",
+      "deRoute": "/de/laender/spanien/",
+      "enRoute": "/en/countries/spain/",
+      "path": "assets/countries/spanien.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Hafenbecken und Stadtansicht von Valencia",
+        "en": "Harbour basin and cityscape of Valencia"
+      },
+      "caption": {
+        "de": "Valencia. Foto: Mukeber, CC BY 4.0.",
+        "en": "Valencia. Photo: Mukeber, CC BY 4.0."
+      },
+      "author": "Mukeber",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valencia_Skyline.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "01476943ab75f1e6c357cc59d698328d10cc43e4e6d9f33a42a4aeaf3056e099"
+    },
+    {
+      "country": "uruguay",
+      "deRoute": "/de/laender/uruguay/",
+      "enRoute": "/en/countries/uruguay/",
+      "path": "assets/countries/uruguay.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Luftbild der Wohnviertel von Montevideo",
+        "en": "Aerial view of residential districts in Montevideo"
+      },
+      "caption": {
+        "de": "Montevideo. Foto: Marcelo Campi, CC BY-SA 2.0.",
+        "en": "Montevideo. Photo: Marcelo Campi, CC BY-SA 2.0."
+      },
+      "author": "Marcelo Campi",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Montevideo_desde_arriba.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "1efb2c9b2e088b0d469a471a2304f6a8ed245499f7397475fefe546b511aeaee"
+    },
+    {
+      "country": "australien",
+      "deRoute": "/de/laender/australien/",
+      "enRoute": "/en/countries/australia/",
+      "path": "assets/countries/australien.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Melbournes Zentrum am Yarra River mit Brücke",
+        "en": "Central Melbourne on the Yarra River with a bridge"
+      },
+      "caption": {
+        "de": "Melbourne. Foto: Gracchus250, CC BY-SA 4.0.",
+        "en": "Melbourne. Photo: Gracchus250, CC BY-SA 4.0."
+      },
+      "author": "Gracchus250",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:City_of_Melbourne_skyline_view_from_Southbank_with_Princes_Bridge_and_Flinders_St,_2018.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "325f248b72c113ffefa00b83654d0029cce93379e8df3bb01c3b3bfa22faf197"
+    },
+    {
+      "country": "costa-rica",
+      "deRoute": "/de/laender/costa-rica/",
+      "enRoute": "/en/countries/costa-rica/",
+      "path": "assets/countries/costa-rica.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Stadtansicht von San José in Costa Rica",
+        "en": "Cityscape of San José, Costa Rica"
+      },
+      "caption": {
+        "de": "San José. Foto: Tico73, CC BY-SA 4.0.",
+        "en": "San José. Photo: Tico73, CC BY-SA 4.0."
+      },
+      "author": "Tico73",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Jos%C3%A9_Uno.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "2db52168c2b0405bc498c0365859716c98ca0700cde2e1d2db9e8995cd29b2a7"
+    },
+    {
+      "country": "griechenland",
+      "deRoute": "/de/laender/griechenland/",
+      "enRoute": "/en/countries/greece/",
+      "path": "assets/countries/griechenland.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Athen mit Akropolis und ausgedehnter Stadtbebauung",
+        "en": "Athens with the Acropolis and the surrounding city"
+      },
+      "caption": {
+        "de": "Athen. Foto: G Da, CC BY-SA 3.0.",
+        "en": "Athens. Photo: G Da, CC BY-SA 3.0."
+      },
+      "author": "G Da",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cityscape_of_ancient_and_modern_Athens_-_panoramio.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "60e746df2bb636dce238cb942a8067a2269d76c34c993cb375b5d36e33f7f49f"
+    },
+    {
+      "country": "kanada",
+      "deRoute": "/de/laender/kanada/",
+      "enRoute": "/en/countries/canada/",
+      "path": "assets/countries/kanada.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Straßenbrücke und Gebäude am Wasser in Vancouver",
+        "en": "Bridge and waterfront buildings in Vancouver"
+      },
+      "caption": {
+        "de": "Vancouver. Foto: Dietmar Rabich, CC BY-SA 4.0.",
+        "en": "Vancouver. Photo: Dietmar Rabich, CC BY-SA 4.0."
+      },
+      "author": "Dietmar Rabich",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vancouver_(BC,_Canada),_Waterfront_--_2022_--_1851.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "08de531a56e30ef0024d8fe7a6a866ecd768935191d20144d3f6d839e5d7ee30"
+    },
+    {
+      "country": "mauritius",
+      "deRoute": "/de/laender/mauritius/",
+      "enRoute": "/en/countries/mauritius/",
+      "path": "assets/countries/mauritius.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Port Louis mit Hafen und beleuchteten Straßenzügen am Abend",
+        "en": "Port Louis with its harbour and lit streets in the evening"
+      },
+      "caption": {
+        "de": "Port Louis. Foto: Peter Kuchar (pkuchar), CC BY-SA 3.0.",
+        "en": "Port Louis. Photo: Peter Kuchar (pkuchar), CC BY-SA 3.0."
+      },
+      "author": "Peter Kuchar (pkuchar)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evening_Port_Louis.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "5dee3ccccbc3d98e15b0372cee97c747914726122db26e0509a753aa1011bf26"
+    },
+    {
+      "country": "neuseeland",
+      "deRoute": "/de/laender/neuseeland/",
+      "enRoute": "/en/countries/new-zealand/",
+      "path": "assets/countries/neuseeland.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Hafen und Innenstadt von Wellington",
+        "en": "Harbour and city centre of Wellington"
+      },
+      "caption": {
+        "de": "Wellington. Foto: Krzysztof Golik, CC BY-SA 4.0.",
+        "en": "Wellington. Photo: Krzysztof Golik, CC BY-SA 4.0."
+      },
+      "author": "Krzysztof Golik",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cityscape_of_Wellington.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "99f2813d17c110f5ee33a52eb5977653a00aaa5e71d0e6e9aa3e5e7cac291e74"
+    },
+    {
+      "country": "portugal",
+      "deRoute": "/de/laender/portugal/",
+      "enRoute": "/en/countries/portugal/",
+      "path": "assets/countries/portugal.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Porto und der Douro mit den Häusern am Flussufer",
+        "en": "Porto and the Douro with riverside buildings"
+      },
+      "caption": {
+        "de": "Porto. Foto: Michael Gaylard from Horsham, UK, CC BY 4.0.",
+        "en": "Porto. Photo: Michael Gaylard from Horsham, UK, CC BY 4.0."
+      },
+      "author": "Michael Gaylard from Horsham, UK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_vibrant_panorama_of_Porto,_Portugal,_showcasing_the_Douro_River,_historic_Ribeira_district,_and_the_Dom_Lu%C3%ADs_I_Bridge._(55247151390).jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "4b83b50a5f73ad9dde0df967000232e3f205e75ba028ce3ce38d90b47470af4f"
+    },
+    {
+      "country": "suedafrika",
+      "deRoute": "/de/laender/suedafrika/",
+      "enRoute": "/en/countries/south-africa/",
+      "path": "assets/countries/suedafrika.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Kapstadt vor dem Tafelberg",
+        "en": "Cape Town beneath Table Mountain"
+      },
+      "caption": {
+        "de": "Kapstadt. Foto: Josep M. Gracia, CC BY-SA 4.0.",
+        "en": "Cape Town. Photo: Josep M. Gracia, CC BY-SA 4.0."
+      },
+      "author": "Josep M. Gracia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CT_-_Table_Mountain_and_Cape_Town_cityscape,_South_Africa,_2017.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "2096ef7be18391ed3dedbfe1e4628bfef8f4101d67e59a49594de0a9755a3d59"
+    },
+    {
+      "country": "vae",
+      "deRoute": "/de/laender/vae/",
+      "enRoute": "/en/countries/uae/",
+      "path": "assets/countries/vae.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Straße und Hochhäuser in Abu Dhabi",
+        "en": "Street and high-rises in Abu Dhabi"
+      },
+      "caption": {
+        "de": "Abu Dhabi. Foto: Ralf Roletschek, CC BY 3.0.",
+        "en": "Abu Dhabi. Photo: Ralf Roletschek, CC BY 3.0."
+      },
+      "author": "Ralf Roletschek",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:13-08-06-abu-dhabi-by-RalfR-077.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "8c8849b6fd9bd5cbb41d8bee0a2f8e52a4d42bf91abc5c011f3b34062ac50c4c"
+    },
+    {
+      "country": "brasilien",
+      "deRoute": "/de/laender/brasilien/",
+      "enRoute": "/en/countries/brazil/",
+      "path": "assets/countries/brasilien.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Häuser, Bucht und Berge von Rio de Janeiro",
+        "en": "Buildings, bay and hills of Rio de Janeiro"
+      },
+      "caption": {
+        "de": "Rio de Janeiro. Foto: Wilfredor, CC0.",
+        "en": "Rio de Janeiro. Photo: Wilfredor, CC0."
+      },
+      "author": "Wilfredor",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro_cityscape_across_Guanabara_Bay,_Brazil.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "52d3666265601df062c55fbcde206508095a9fe4f0ed4020ad6ce549015292a2"
+    },
+    {
+      "country": "dominikanische-republik",
+      "deRoute": "/de/laender/dominikanische-republik/",
+      "enRoute": "/en/countries/dominican-republic/",
+      "path": "assets/countries/dominikanische-republik.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Straße mit Häusern in der Altstadt von Santo Domingo",
+        "en": "Street with houses in Santo Domingo’s colonial district"
+      },
+      "caption": {
+        "de": "Santo Domingo. Foto: Miguel Discart (Flickr: miguel_discart_vrac_3), CC BY-SA 2.0.",
+        "en": "Santo Domingo. Photo: Miguel Discart (Flickr: miguel_discart_vrac_3), CC BY-SA 2.0."
+      },
+      "author": "Miguel Discart (Flickr: miguel_discart_vrac_3)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Dominican_Republic_Neighborhoods.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "e16051891271624452ccab533496526f1609aaf8449d986d81ab38afa964d914"
+    },
+    {
+      "country": "irland",
+      "deRoute": "/de/laender/irland/",
+      "enRoute": "/en/countries/ireland/",
+      "path": "assets/countries/irland.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Häuserdächer und Gebäude in Dublin 7",
+        "en": "Rooftops and buildings in Dublin 7"
+      },
+      "caption": {
+        "de": "Dublin. Foto: John Flanagan, CC BY 2.0.",
+        "en": "Dublin. Photo: John Flanagan, CC BY 2.0."
+      },
+      "author": "John Flanagan",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_7,_Ireland_cityscape.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "687bbb292622e9258b2022fa68a4a320e1d962bfaa05e1117fbf425eb36078af"
+    },
+    {
+      "country": "malaysia",
+      "deRoute": "/de/laender/malaysia/",
+      "enRoute": "/en/countries/malaysia/",
+      "path": "assets/countries/malaysia.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Nächtliche Skyline von Kuala Lumpur am See",
+        "en": "Kuala Lumpur skyline across a lake at night"
+      },
+      "caption": {
+        "de": "Kuala Lumpur. Foto: Saad Abdullah, CC BY-SA 3.0.",
+        "en": "Kuala Lumpur. Photo: Saad Abdullah, CC BY-SA 3.0."
+      },
+      "author": "Saad Abdullah",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Cityscape.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "b9073e691295d636c6810322ab8ba415f8fdda55aab81ef2883ce7a9f09e3ebd"
+    },
+    {
+      "country": "mexiko",
+      "deRoute": "/de/laender/mexiko/",
+      "enRoute": "/en/countries/mexico/",
+      "path": "assets/countries/mexiko.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Blick über den Chapultepec-Park zur Skyline von Mexiko-Stadt",
+        "en": "View across Chapultepec Park to Mexico City’s skyline"
+      },
+      "caption": {
+        "de": "Mexiko-Stadt. Foto: Jonathan Salvador, CC BY-SA 4.0.",
+        "en": "Mexico City. Photo: Jonathan Salvador, CC BY-SA 4.0."
+      },
+      "author": "Jonathan Salvador",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mexico_City_Reforma_skyline.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "9a026728075603cbb9503ec90e71554a6fc1fa40c17d4eef5604b190533bdc6b"
+    },
+    {
+      "country": "panama",
+      "deRoute": "/de/laender/panama/",
+      "enRoute": "/en/countries/panama/",
+      "path": "assets/countries/panama.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Skyline von Panama-Stadt vom Ufer aus",
+        "en": "Panama City skyline viewed from the shore"
+      },
+      "caption": {
+        "de": "Panama-Stadt. Foto: Marissa Strniste, CC BY 2.0.",
+        "en": "Panama City. Photo: Marissa Strniste, CC BY 2.0."
+      },
+      "author": "Marissa Strniste",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panama_City_Skyline.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "8d9b294ef9c1673db5f145d084540148afb3369802cf05f55a0050be8823746c"
+    },
+    {
+      "country": "schweiz",
+      "deRoute": "/de/laender/schweiz/",
+      "enRoute": "/en/countries/switzerland/",
+      "path": "assets/countries/schweiz.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Zürcher Altstadt an der Limmat",
+        "en": "Zurich’s old town beside the Limmat"
+      },
+      "caption": {
+        "de": "Zürich. Foto: Thomas Wolf , www.foto-tw.de, CC BY-SA 3.0 de.",
+        "en": "Zurich. Photo: Thomas Wolf , www.foto-tw.de, CC BY-SA 3.0 de."
+      },
+      "author": "Thomas Wolf , www.foto-tw.de",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Altstadt_Z%C3%BCrich_2015.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "0f4109add39bb6ee0f3b4a5bf416c7454f8796e10cb000a21c47ffbe5396a0cd"
+    },
+    {
+      "country": "thailand",
+      "deRoute": "/de/laender/thailand/",
+      "enRoute": "/en/countries/thailand/",
+      "path": "assets/countries/thailand.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Stadtgraben und Bäume entlang einer Straße in Chiang Mai",
+        "en": "Moat and trees along a road in Chiang Mai"
+      },
+      "caption": {
+        "de": "Chiang Mai. Foto: Stefan Fussan, CC BY-SA 3.0.",
+        "en": "Chiang Mai. Photo: Stefan Fussan, CC BY-SA 3.0."
+      },
+      "author": "Stefan Fussan",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_Chiang_Mai_Moat_-_0002.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "26a9113b87ed959f628501ac8635939efc84e0b4f94f33f2b8dea30b27b75a81"
+    },
+    {
+      "country": "zypern",
+      "deRoute": "/de/laender/zypern/",
+      "enRoute": "/en/countries/cyprus/",
+      "path": "assets/countries/zypern.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": {
+        "de": "Gebäude in der Innenstadt von Nikosia",
+        "en": "Buildings in central Nicosia"
+      },
+      "caption": {
+        "de": "Nikosia. Foto: NicosiaEurope, CC BY-SA 3.0.",
+        "en": "Nicosia. Photo: NicosiaEurope, CC BY-SA 3.0."
+      },
+      "author": "NicosiaEurope",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Nicosia_the_capital_of_Republic_of_Cyprus.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "adaptation": "Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.",
+      "sha256": "c2b7b8ca2f76a6880303722c77cb807976b483ff46a9c09497f6304356abc6ab"
+    }
+  ]
+}

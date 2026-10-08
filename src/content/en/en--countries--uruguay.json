@@ -1,0 +1,197 @@
+{
+  "route": "/en/countries/uruguay/",
+  "lang": "en",
+  "title": "Uruguay as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/uruguay/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-864d9fe7f52fef"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-6cfe68947a9bff"
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Moving to Uruguay: residency, housing and family life | EXOBASIS",
+  "description": "Prepare your move to Uruguay: legal residence, Montevideo or the coast, renting and buying property, schools, healthcare, banking and a home ready for arrival.",
+  "intro": "<p>Moving to Uruguay puts the Atlantic between your family and Europe. For some, that distance is the reason to look: they want somewhere to live if war, repression or restrictions make staying at home unacceptable. For others, Uruguay is the intended family future. In both cases, the important work is turning a country on your shortlist into a home you can reach, afford and use.</p><p>EXOBASIS prepares and carries out that work with you: the residence process, choice of location, rental or property purchase, arrival and the continuing care of your arrangements.</p>",
+  "primary": {
+    "label": "Prepare my Uruguay base",
+    "intent": "General enquiry"
+  },
+  "countryContext": "/en/countries/uruguay/",
+  "country": {
+    "name": "Uruguay",
+    "slug": "uruguay",
+    "region": "South America",
+    "map": "countries/uruguay-locator.svg",
+    "imageAlt": "Map showing Uruguay between Brazil, Argentina and the South Atlantic.",
+    "caption": "Uruguay: a South American base for a prepared move or a lasting home.",
+    "summary": [
+      [
+        "Plan the distance",
+        "Arrange the journey, first accommodation and access to money before they become urgent."
+      ],
+      [
+        "Build a family home",
+        "Choose the neighbourhood around school, treatment, work and daily life."
+      ],
+      [
+        "Keep the option usable",
+        "Follow residence obligations and maintain the property while you are away."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "A reserve abroad or your next family home?",
+      "body": "<p>Uruguay makes most sense when you can support a household there and are willing to build a Spanish-speaking daily life. Start with the people moving, the income that will continue and the treatment or education they need. A couple living on established pension income has a different task from a family continuing a UK business or leaving a UAE employment package.</p><p>A reserve base needs a lawful stay, a reliable journey, accessible money and accommodation ready for use. A permanent move adds school progression, work arrangements and everyday integration. Decide which job Uruguay must do before choosing between an apartment in Montevideo and a house on the coast.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "Prepare the arrival before you need the distance",
+      "body": "<p>The practical value of a distant base is greatest when you have already visited it. Use that visit to test the route into Uruguay, view homes, meet a healthcare provider and establish how you would pay for the first months. A refundable booking is useful for a reconnaissance trip; a longer-term fallback needs a dependable arrangement beyond the next holiday season.</p><p>For British-citizen passport holders, Uruguay allows visits of up to 90 days without a visa, with a possible further 90-day extension through immigration. A UK or UAE residence permit does not determine another passport holder’s entry rights: use the nationality on each traveller’s passport when preparing the journey.</p><p class=\"exb-source-note\"><a href=\"https://www.gov.uk/foreign-travel-advice/uruguay/entry-requirements\" rel=\"noreferrer\">UK FCDO: Uruguay entry requirements</a></p><p class=\"exb-source-note\"><a href=\"https://www.impo.com.uy/bases/decretos/394-2009/13\" rel=\"noreferrer\">Uruguay Decree 394/009: article 13, visitor stay and extension</a></p><p>Leave enough time for transit permissions, children’s travel consent and access to essential medication. Keep usable payment methods from more than one provider. If one account is frozen or a card fails abroad, your arrival costs and accommodation should remain payable.</p><p>If war is the reason you are preparing, use the <a class=\"exb-text-link\" href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">family destination and travel-planning guide</a> to connect this country option with the timing and practicalities of leaving.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Choose a place where ordinary weekdays work",
+      "body": "<p><strong>Montevideo</strong> is the natural starting point when your family needs a broad choice of education, medical services and year-round city life. Compare Pocitos or Punta Carretas if you want an urban daily routine, and Carrasco if proximity to the airport and schools on the eastern side shapes your search. Visit the actual streets at different times, then make the school and clinic journeys yourself.</p><p><strong>Maldonado and Punta del Este</strong> suit a different preference: a coastal home with services in the surrounding urban area. Judge a prospective home outside the summer peak. Building occupancy, shops, school transport, heating and winter damp matter more for a family base than a summer rental photograph. <strong>Colonia del Sacramento</strong> deserves a look when links with Buenos Aires are useful, provided the local school and medical arrangements meet your needs.</p><p>For children arriving from a UK or UAE school, agree the year group, curriculum and recognition of previous studies before fixing the move date. Ask the receiving school to confirm its calendar and the start date your child can use. A home becomes a workable family option when those decisions are settled together.</p><p class=\"exb-source-note\"><a href=\"https://www.liveinuruguay.uy/education\" rel=\"noreferrer\">Uruguay XXI / Live in Uruguay: education and school-year planning</a></p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Time away needs its own arrangements",
+      "body": "<p>If you divide your time between countries, pay particular attention while your Uruguay residency application is still pending. The Dirección Nacional de Migración requires a re-entry permit for each departure during the application process. Once residence is granted, that particular permit is no longer required.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/tramites/permiso-reingreso\" rel=\"noreferrer\">Dirección Nacional de Migración: re-entry permits during a residence application</a></p><p>Permanent residence also needs to be maintained. Article 47 of the Migration Law allows cancellation after an absence exceeding three years; article 48 provides an exception for the parent, spouse or cohabiting partner of a Uruguayan national. Keep your travel record and resolve your own position before planning a prolonged absence.</p><p class=\"exb-source-note\"><a href=\"https://www.impo.com.uy/bases/leyes/18250-2008\" rel=\"noreferrer\">Uruguay Migration Law 18.250: articles 47 and 48</a></p><p>For the home, name the person responsible for keys, inspections, bills and preparing it before you return. Agree what they may authorise when a leak, power failure or security problem occurs. If you also let the property, reserve your own arrival periods explicitly rather than relying on a vacancy at the right time.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Uruguay residency: match the application to your circumstances",
+      "body": "<p>The standard permanent-residence route is open to foreign nationals who intend to settle in Uruguay. There are separate Mercosur and Uruguayan-family routes, and temporary residence for purposes including work or study. A British citizen or a non-Mercosur national living in the UAE normally starts by examining the ordinary route, unless their nationality or family relationship provides another one.</p><p>For ordinary permanent residence, prepare current identity documents, criminal-record evidence, health and vaccination certificates, and proof of means of support. For adult applicants, the criminal-record requirement covers your country of origin and countries where you lived for at least six months during the five years before entering Uruguay. The supporting records must have the required national coverage.</p><p>Your income evidence follows the source of the money. A pensioner or person living on investment income supplies an <em>escribano</em> certificate identifying the income, its monthly amount and how it is received in Uruguay. For employment with a foreign company, the certificate records the relationship, company details, earnings, payment method and how the work is carried out from Uruguay, including the relevant local labour and social-security position. That is a more useful starting point than a generic bank-balance figure.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/tramites/residencia-legal-permanente\" rel=\"noreferrer\">Dirección Nacional de Migración: residence categories, records and means of support</a></p><p>We organise the <a href=\"/en/services/residence-documents/\">residence and document work</a>, coordinate the required local professional input and schedule the steps around your family’s move. You can commission that work as a defined assignment.</p><table><caption>Uruguay: rights and preparation for the way you will use your base</caption><thead><tr><th scope=\"col\">Intended use</th><th scope=\"col\">Rights that fit</th><th scope=\"col\">Documents and presence to arrange</th><th scope=\"col\">Work you can commission</th></tr></thead><tbody><tr><th scope=\"row\">A reserve for short-notice refuge</th><td>A British citizen can normally visit visa-free for up to 90 days. An Emirati or another national living in the UAE needs the rule for their own passport checked. Ordinary permanent residence is for someone intending to settle in Uruguay; a house held in reserve is not, by itself, that residence status.</td><td>Prepare valid passports, any required entry visa, onward-travel arrangements and the documents needed for accompanying children. If actual settlement is intended, obtain the relevant civil and criminal-record evidence before leaving the UK, UAE or other issuing country, with the authentication and translation required for the chosen procedure.</td><td>We clarify the arrival position for each traveller, organise the document work and arrange an accessible home and arrival contact. A residence assignment is prepared around genuine settlement and the appropriate procedure, rather than added as a label to a holiday property.</td></tr><tr><th scope=\"row\">A lasting family base</th><td>Use ordinary permanent residence where there is genuine intent to settle, or the Mercosur or Uruguayan-family procedure where nationality or the specific relationship qualifies. Residence in the UK or UAE does not determine eligibility. Work- or study-based temporary residence is a separate option when it fits the intended stay.</td><td>For the ordinary route, assemble the identity, criminal-record, health, vaccination and income evidence described above. Income proof follows the actual employment, business, pension or investment-income category. Add the applicable family records, parental permissions and school evidence for children. Attend the booked appointment with valid originals and an interpreter if you do not speak Spanish.</td><td>We prepare the appropriate family files, coordinate the required local health and professional documents, organise the appointment sequence and follow up the residence and cédula work. Housing, school admission and healthcare preparation are scheduled around the family’s actual arrival and personal attendance.</td></tr><tr><th scope=\"row\">Mobile use between countries</th><td>For visits without settlement, use the entry permission applicable to the passport and planned stay. During a residence application, a re-entry permit is required for each departure. After residence is granted, that particular permit no longer applies. For permanent residence, the separate absence rule in article 47 and the family exception in article 48 remain relevant.</td><td>Keep travel records and distinguish a pending application from a granted status. During processing, prepare the re-entry permission before departure; an absence of more than six months also requires criminal-record evidence from the country where you stayed. For granted permanent residence, assess an absence exceeding three years and, where relevant, document your status as the parent, spouse or cohabiting partner of a Uruguayan national.</td><td>We organise the file, return appointments and re-entry work for the actual procedural stage, then the status-maintenance calendar once residence is granted. We can also arrange inspections, payments and the home’s readiness for your return, with your own arrival periods kept clear if the property is let.</td></tr></tbody></table><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Furuguay%2F#short-enquiry\">Prepare my Uruguay base</a><p>Tell us who would move, the intended timing and which part you want us to handle. Personal records belong in the protected exchange agreed for the work.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Renting or buying a home in Uruguay",
+      "body": "<h3>Use the first rental to test the location</h3><p>A furnished apartment gives you a practical first base while you view neighbourhoods and complete appointments. For a longer lease, agree the term, currency, rent adjustment, inventory and responsibility for repairs in writing. In an apartment, establish the <em>gastos comunes</em>, the building’s shared charges, alongside the rent. Ask whether services and internet are already connected and whose name will appear on the bills.</p><p>Rental guarantees are an important part of the local process. Landlords may work with an insurer, an approved guarantor or a cash-backed guarantee. Banco Hipotecario del Uruguay offers a deposit guarantee held in indexed units, UI, under an agreement between landlord and tenant. Agree a guarantee the landlord accepts before paying for a long lease; a newcomer’s foreign income documents may need a different approach from a local employee’s payslips.</p><p class=\"exb-source-note\"><a href=\"https://www.liveinuruguay.uy/housing\" rel=\"noreferrer\">Uruguay XXI / Live in Uruguay: finding accommodation and rental guarantees</a></p><p class=\"exb-source-note\"><a href=\"https://www.bhu.com.uy/ahorro/garantia-de-alquiler\" rel=\"noreferrer\">Banco Hipotecario del Uruguay: deposit-backed rental guarantees</a></p><h3>Buying property as a foreigner</h3><p>Uruguay’s Investment Law provides equal treatment for foreign and national investment. Foreign individuals can buy ordinary residential property without first becoming Uruguayan residents. Appoint your own <em>escribano</em>, a local notarial professional, before signing the reservation or purchase commitment. They investigate the seller’s authority, title history, registered charges, outstanding obligations and the legal description of what you are buying.</p><p class=\"exb-source-note\"><a href=\"https://www.impo.com.uy/bases/leyes-originales/16906-1998/2\" rel=\"noreferrer\">Uruguay Investment Law 16.906: article 2, equal treatment</a></p><p>The Dirección General de Registros provides certified information on acts recorded in the property register. Its search uses the department, cadastral locality and <em>padrón</em>, the property’s identifying number, with additional unit or plan details where needed. The certificate reflects the register at its issue time. Your professional must connect that evidence with the deed, cadastral plan and the home on the ground, including building works and any occupants.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/tramites/certificados-informacion-inmuebles\" rel=\"noreferrer\">Dirección General de Registros: certified property-register information</a></p><p>The usual purchase sequence runs from an agreed reservation and due diligence to the purchase deed, payment, registration and possession. Budget separately for the applicable property-transfer tax, notarial fees, registration charges, any agency fee and the ongoing property and building charges. Confirm the transaction currency and the bank’s source-of-funds requirements before arranging the completion payment.</p><p class=\"exb-source-note\"><a href=\"https://www.deloitte.com/dl/en/services/legal/about/real-estate-law-uruguay.html\" rel=\"noreferrer\">Local property-law guidance: acquisition, documentation and completion in Uruguay</a></p><p>Through <a href=\"/en/services/arrange-arrival/\">arrival and home setup</a>, EXOBASIS can carry out the search brief, organise viewings and independent title and purchase checks, coordinate the contract and completion, and arrange the handover. We can then organise utilities, furnishing, property inspections and preparation for your return. The home you buy should serve the life you are preparing, including the months when you are elsewhere.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schools, healthcare and the people who depend on you",
+      "body": "<h3>Arrange the school place around your child</h3><p>Uruguay has public and private education, including bilingual and international options. Public education is free; the normal language of schooling is Spanish. Bring school reports, identity and birth records, and vaccination information. For older pupils, confirm how previous studies will be recognised and which qualification their next school leads towards. An available place and a workable daily journey should guide the housing search.</p><p>The Migration Law protects children’s access to education regardless of their parents’ irregular migration status. For your own planned move, complete the residence and enrolment records together. The ordinary residence application also asks for a study certificate for children from age four.</p><p class=\"exb-source-note\"><a href=\"https://www.liveinuruguay.uy/education\" rel=\"noreferrer\">Uruguay XXI / Live in Uruguay: schools and recognition of studies</a></p><p class=\"exb-source-note\"><a href=\"https://www.impo.com.uy/bases/leyes/18250-2008\" rel=\"noreferrer\">Uruguay Migration Law 18.250: article 11, children’s access to education</a></p><p>Our <a href=\"/en/knowledge/family-life-abroad/children-family/\">family-move guidance</a> covers the connected decisions about children, consent and dependent relatives.</p><h3>Choose the treatment route as well as the cover</h3><p>Healthcare options include the public ASSE network, mutual providers and private cover. FONASA entitlement is linked to the national health system and eligibility, including covered workers and family members. ASSE also has fee-paying membership for people outside the free or FONASA categories, including foreign non-residents. Its enrolment process asks for identity, household-income information and the relevant residence documents.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/tramites/afiliacion-asse\" rel=\"noreferrer\">ASSE: enrolment, FONASA and fee-paying membership</a></p><p>Choose a provider against actual needs: the specialist, prescription, paediatric service or ongoing treatment your family uses. Ask the provider about acceptance, waiting periods and what is available at the branch nearest the proposed home. Keep travel or interim medical cover in force through the move, with dates aligned to the start of local cover. The <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">health-cover and care guide</a> helps you connect those arrangements.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Banking, income and the tax position of your move",
+      "body": "<h3>Make the money usable</h3><p>A Uruguayan account can help you pay household bills and receive funds locally. BROU’s published requirements include identity, address and income evidence; its foreign-customer documents call for two valid photographic identity documents. The bank can request further evidence to understand the customer and the intended account activity. Prepare the documents for the account you actually need, including the source of a property-purchase payment.</p><p class=\"exb-source-note\"><a href=\"https://www.brou.com.uy/documents/20182/56177/Anexo_10_PF_Requisitos_para_operar_con_el_Banco_PF.pdf/f3ff91ad-6324-4dcf-83bb-57f3cd5b0ef9\" rel=\"noreferrer\">Banco República: individual-customer identification and income documents</a></p><p>BROU also publishes a specific condition for new foreign non-resident customers: a fixed-term deposit of at least USD 5,000, or its equivalent, for a minimum of 181 days. Account and administration charges are additional. Include that tied-up money in the comparison if you intend to open with BROU before becoming resident.</p><p class=\"exb-source-note\"><a href=\"https://www.brou.com.uy/personas/cuentas/clientes-no-residentes-extranjeros\" rel=\"noreferrer\">Banco República: published conditions for new foreign non-resident customers</a></p><p>Test a transfer and an ordinary payment before making the account essential to your move. Keep a second functioning payment route, with login recovery and authentication available outside your old country. A large purchase also needs a separate payment timetable agreed with the bank and the escribano.</p><p>Through our <a class=\"exb-text-link\" href=\"/en/services/banking-liquidity/\">banking and liquidity preparation</a>, EXOBASIS organises the bank's documents for your resident or non-resident status and plans everyday household payments around the funds you can actually use, separately from any fixed-term deposit required by BROU. Once the account is accepted, we coordinate the agreed payment and access tests.</p><h3>Separate legal residence from tax residence</h3><p>The DGI’s tax-residence tests include spending more than 183 days in Uruguay during the calendar year and other tests concerning principal activities or vital interests. Short absences can count towards the presence test under the rules. Buying a house, receiving a cédula and becoming tax-resident are different events.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/causales-residencia-fiscal\" rel=\"noreferrer\">Dirección General Impositiva: individual tax-residence conditions</a></p><p>For professional services delivered online from Uruguay, the DGI states that income received by a Uruguayan tax resident is subject to IRPF because the activity takes place in Uruguay, even when the client is overseas. This is a material point for anyone planning to continue a consultancy or other client work after moving.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/ingresos-servicios-profesionales-prestados-desde-pais-empresa-del\" rel=\"noreferrer\">Dirección General Impositiva: professional services supplied from Uruguay to an overseas client</a></p><p>If you will keep a UK company, employment or investments, or move after years based in the UAE, establish how each income stream and the work you perform will be treated before departure. The residence application itself asks foreign-company employees to document how they work from Uruguay and their local labour and social-security position. We organise the cross-border tax and professional work alongside the move, so your household budget uses the income available after the relevant obligations.</p><h3>Fund the move on three separate levels</h3><p>Build the budget from your chosen home and household needs, using the income available after the obligations above. Keep three amounts distinct, with a payment date and a funding source for each.</p><dl><dt>Ongoing life in Uruguay</dt><dd>Allow for rent or the running costs of an owned home, building charges, utilities, food, transport, schooling, health cover and any regular care. Include property inspections and essential bills during months you are away. Obtain the figures for the actual address and services before committing to a recurring household budget.</dd><dt>One-off setup</dt><dd>Set aside the money for the initial journeys, temporary accommodation, document procurement, authentication, translation, local appointments and agreed professional work. Add the housing deposit or purchase-completion payments, moving and furnishing costs, and connection or setup charges. Record refundable deposits separately from fees and spending, and schedule each payment against the move.</dd><dt>Reserves and commitments in the country you leave</dt><dd>Keep a separate reserve for obligations that continue in the UK, UAE or your other existing base: a retained home, insurance, family support, outstanding contractual payments and any overlap before departure is complete. Include funds for a return journey or a delayed move. Do not count the same money as both the Uruguay setup budget and this retained reserve; check that it remains accessible from abroad.</dd></dl><p>EXOBASIS can organise the local cost enquiries and payment timetable alongside the arrival assignment, using your continuing commitments to establish what remains available for Uruguay. The BROU deposit discussed above is tied-up capital to track separately, not a substitute for these three budgets or for money available to pay the household.</p><p>See <a class=\"exb-text-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\">how to keep banking and payments usable abroad</a> for the wider preparation when an account or device becomes unavailable.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Prepare the paperwork in the right order",
+      "body": "<p>Begin with the records that are slowest to obtain from abroad: criminal-record certificates for the relevant countries, birth and marriage records, and income evidence. Uruguay generally requires foreign public documents to be apostilled or legalised and, where necessary, translated by a Uruguayan public translator. The immigration authority identifies exceptions, including verifiable electronically issued documents. Match each document to the authority’s current requirement before commissioning the translation.</p><p>Children need properly documented parental permission to settle in Uruguay. An overseas power authorising another adult to act must expressly cover residence and meet the Uruguayan formalities. The birth certificate is also needed for the identity-document process. If you do not speak Spanish, immigration requires an interpreter at the appointment.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/tramites/residencia-legal-permanente\" rel=\"noreferrer\">Dirección Nacional de Migración: document formalities, minors and interpreters</a></p><p>Arrange local health and vaccination certificates, the income certification and the immigration appointment as one sequence. If you leave during the application, obtain the re-entry permit before departure; a stay abroad exceeding six months during the process also creates a further criminal-record requirement. We coordinate these dependencies through the <a href=\"/en/services/residence-documents/\">residence and document service</a>.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep the home and the preparations ready",
+      "body": "<p>Set a review date for residence documents, identity cards, insurance, bank details and the household’s travel arrangements. Changes in a child’s school, your income or a relative’s health can alter what the base needs to provide. Update the plan when the household changes, rather than discovering the gap on arrival.</p><p>For the property, schedule inspections, ventilation, bill payment and checks after heavy weather. Uruguay experiences heavy rain and flooding; coastal conditions and storm warnings also matter when choosing and maintaining a home. In Montevideo and elsewhere, evaluate entry security and parking as part of the property visit. The FCDO identifies theft and vehicle break-ins as practical risks.</p><p class=\"exb-source-note\"><a href=\"https://www.gov.uk/foreign-travel-advice/uruguay/safety-and-security\" rel=\"noreferrer\">UK FCDO: local safety, road conditions and weather risks in Uruguay</a></p><p>With <a href=\"/en/services/maintain-preparations/\">ongoing preparation and property care</a>, we can organise the checks and practical work, keep the relevant contacts current and prepare the home before you return. Agree the inspection frequency, authorisation for repairs and the evidence you receive after each visit.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Commission the part of your Uruguay move you need",
+      "body": "<p>If Uruguay is your chosen country, you can commission residence preparation, a home search, property-purchase coordination or arrival setup directly. We define the work, organise the required local professional execution and connect it with the rest of your preparations. A useful handover gives you the documents, appointments, property arrangements and responsibilities you need to act.</p><p>If you are still deciding, <a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">country and location selection</a> compares the options against your household. If you are unsure which service fits, use a free 20-minute orientation conversation.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Furuguay%2F#short-enquiry\">Prepare my Uruguay base</a><p>Tell us who would move, the intended timing and which part you want us to handle. Personal records belong in the protected exchange agreed for the work.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div><div class=\"exb-country-comparisons\"><h3>Other South American bases to compare</h3><article><p><a class=\"exb-text-link\" href=\"/en/countries/paraguay/\">Paraguay: an inland alternative</a></p><p>Compare its temporary-residence starting point, local services and housing with the Uruguay option.</p></article><article><p><a class=\"exb-text-link\" href=\"/en/countries/argentina/\">Argentina: a different family setting</a></p><p>Compare the residence route and cities that fit your income, family connections and intended way of life.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Can I buy a home in Uruguay before becoming a resident?",
+    "answer": "Foreign individuals can buy ordinary residential property in Uruguay without first obtaining legal residence. Your escribano handles the title, seller and registration checks. Buying the home and obtaining permission to live in the country remain separate processes, so prepare both around the time you intend to spend there."
+  },
+  "editorialSources": [
+    "uy"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 878,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 880,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 881,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 882,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 883,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 884,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 885,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 886,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 887,
+      "target": "/de/laender/uruguay/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1429,
+      "target": "/en/countries/paraguay/",
+      "label": "Paraguay as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1431,
+      "target": "/en/countries/argentina/",
+      "label": "Argentina as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Moving to Uruguay: prepare a lasting home for your family"
+}

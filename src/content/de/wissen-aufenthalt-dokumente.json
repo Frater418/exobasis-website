@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/aufenthalt-dokumente/",
+  "lang": "de",
+  "title": "Aufenthalt und Dokumente vorbereiten",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-fa724bb3d8d8e8"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-14c23480192f12"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-98e968c8d735fc"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Dein Plan B / Wissen",
+  "seoTitle": "Aufenthalt und Dokumente vorbereiten | EXOBASIS",
+  "description": "Kläre bestehende Aufenthaltsrechte, benötigte Urkunden, Familiennachweise und Wiederzugang. Bereite Dokumente vor, die am Ziel tatsächlich verwendbar sind.",
+  "intro": "<p>Ein nutzbarer Ausweichort beginnt mit den Rechten jeder einzelnen Person und den Unterlagen, die die zuständige Stelle dafür tatsächlich annimmt. Ein Pass allein schafft weder einen Aufenthaltstitel noch eine Arbeitserlaubnis; eine korrekt beglaubigte Urkunde ersetzt nicht die materielle Entscheidung der Behörde.</p><p>Kläre zuerst eure vorhandenen Rechte. Danach lässt sich entscheiden, welche Unterlagen fehlen und welche zusätzlichen Schritte überhaupt notwendig sind.</p>",
+  "primary": {
+    "label": "Deinen nächsten Schritt klären",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Rechte zuerst. Dann die richtigen Unterlagen.",
+    "facts": [
+      [
+        "Personen",
+        "Jedes Familienmitglied mit eigener Rechtslage"
+      ],
+      [
+        "Verwendung",
+        "Anforderungen der tatsächlichen Zielstelle"
+      ],
+      [
+        "Nutzung",
+        "Gültige Fassung und berechtigter Zugang"
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift als Symbol für geordnete Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Welche Rechte bestehen bereits?",
+      "body": "<p>Erstelle für jede mitreisende Person eine eigene Übersicht: Staatsangehörigkeit, bestehender Aufenthaltstitel, familiäre Beziehung und geplante Nutzung am Ziel. Ein Recht des Hauptverdieners deckt den Partner oder erwachsene Angehörige nicht automatisch ab.</p><p>Prüfe dabei auch Rechte, die bereits aus Staatsangehörigkeit, Familie oder einem früheren Aufenthalt bestehen. Ein zusätzlich angebotenes Programm ist nicht zwangsläufig der beste erste Schritt. Bei EU-Freizügigkeit kommt es auf den konkreten Personenkreis und die Voraussetzungen der jeweiligen Aufenthaltskategorie an.<p class=\"exb-source-note\"><a href=\"https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm\" rel=\"noopener noreferrer\">Your Europe: residence rights</a></p></p>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Aufenthalt, Staatsangehörigkeit und Steuerpflicht auseinanderhalten",
+      "body": "<p>Aufenthalt beantwortet, ob und unter welchen Bedingungen du bleiben darfst. Staatsangehörigkeit betrifft die rechtliche Zugehörigkeit und daraus folgende Rechte. Steuerliche Ansässigkeit folgt ihren eigenen Regeln und deiner tatsächlichen Situation. Auch die Erlaubnis zur Erwerbstätigkeit braucht eine eigene Antwort.</p><p>Diese Trennung schützt vor teuren Fehlentscheidungen: Eine Aufenthaltskarte ist kein Nachweis, dass alle steuerlichen Bindungen am alten Wohnsitz beendet sind. Ein zweiter Pass sagt noch nichts darüber, ob eine konkrete berufliche Tätigkeit am Ziel zulässig ist.<p class=\"exb-source-note\"><a href=\"https://www.oecd.org/en/networks/global-forum-tax-transparency/resources/aeoi-implementation-portal/tax-residency.html\" rel=\"noopener noreferrer\">OECD: Tax residency</a></p></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\" data-route=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\"><span>Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/laender/\" data-route=\"/de/laender/\"><span>Länder und Möglichkeiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/laender-standortauswahl/\" data-route=\"/de/leistungen/laender-standortauswahl/\"><span>Passende Länder und Standortoptionen</span><span aria-hidden=\"true\">→</span></a></div>",
+      "criteria": {
+        "title": "Drei unterschiedliche Fragen",
+        "headers": [
+          "Bereich",
+          "Was geklärt wird",
+          "Was daraus nicht automatisch folgt"
+        ],
+        "rows": [
+          [
+            "Aufenthalt",
+            "Einreise, Bleiben und Erhaltung des Status",
+            "Staatsangehörigkeit oder allgemeines Arbeitsrecht"
+          ],
+          [
+            "Staatsangehörigkeit",
+            "Rechtliche Zugehörigkeit und zugehörige Rechte",
+            "Beendigung alter steuerlicher Pflichten"
+          ],
+          [
+            "Steuerliche Ansässigkeit",
+            "Anwendbare Regeln und tatsächliche Bindungen",
+            "Ein Aufenthaltsrecht allein aus der Steuerzuordnung"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Vom benötigten Dokument zur verwendbaren Urkunde",
+      "body": "<p>Beginne bei der empfangenden Stelle: Welche Urkunde verlangt sie für welches Verfahren, in welcher Fassung und Sprache? Danach folgen Beschaffung, gegebenenfalls Beglaubigung oder Apostille, Übersetzung und Einreichung in der richtigen Reihenfolge.</p><p>Eine Apostille bestätigt bestimmte formelle Herkunftsmerkmale einer öffentlichen Urkunde. Sie entscheidet nicht über den Inhalt und ersetzt keine materielle Anerkennungsprüfung. Lass die Anforderungen deshalb vor der Bestellung mehrerer Übersetzungen und Bescheinigungen abgleichen. Das spart doppelte Arbeit und unbrauchbare Fassungen.<p class=\"exb-source-note\"><a href=\"https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille\" rel=\"noopener noreferrer\">HCCH: Apostille Convention</a></p></p><p>Lege für jede benötigte Urkunde eine kleine Vorgangskette an: empfangende Stelle, konkretes Verfahren, verlangte Fassung und Sprache, ausstellende Stelle, nötige Echtheitsbestätigung, verantwortliche Person und Einreichungsweg. Erst wenn die empfangende Stelle ihre Anforderungen bestätigt hat, lohnt sich die Beschaffung. Das verhindert, dass eine alte Personenstandsurkunde oder eine Übersetzung für das falsche Verfahren bestellt wird.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/apostillen-uebersetzungen-urkunden/\" data-route=\"/de/leistungen/apostillen-uebersetzungen-urkunden/\"><span>Apostillen, Übersetzungen und Urkunden organisieren</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Familienrechte brauchen passende Nachweise",
+      "body": "<p>Namen, Geburtsdaten und familiäre Beziehungen müssen in den verwendeten Unterlagen nachvollziehbar zusammenpassen. Bei Kindern kommen Sorgeberechtigung, Begleitung und gegebenenfalls Zustimmung anderer Berechtigter hinzu. Eine Reisevollmacht ersetzt keine Entscheidung über einen dauerhaften Wohnsitzwechsel.</p><p>Auch Angehörige, die später nachkommen sollen, gehören in die Vorbereitung. Halte fest, welche Rechte für sie bestehen, welche Nachweise noch fehlen und wer die Beschaffung übernimmt. Die Reisedokumente der Familie sind eine zusammenhängende Aufgabe, aber keine identische Checkliste für alle.<p class=\"exb-source-note\"><a href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/travel-documents-minors/index_en.htm\" rel=\"noopener noreferrer\">Your Europe: documents for minors travelling in the EU</a></p></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\" data-route=\"/de/wissen/familie-alltag/kinder-angehoerige/\"><span>Mit Kindern und Angehörigen vorbereitet gehen</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Einreise und Wiedereinreise praktisch vorbereiten",
+      "body": "<p>Prüfe Dokumentengültigkeit, Verbindung zwischen Titel und Reisedokument, erforderliche Einreiseerlaubnisse und die Regeln relevanter Transitländer. Auch bei einer nur vorbereiteten Zweitbasis ist wichtig, unter welchen Bedingungen du erneut einreisen und den Status erhalten kannst.</p><p>Digitale Nachweise brauchen einen funktionierenden Zugang. Für Inhaber einer britischen eVisa gehört beispielsweise die korrekte Verbindung des Reisedokuments mit dem UKVI-Konto zur Reisevorbereitung. Ein Foto einer Anzeige ist kein allgemeiner Ersatz für den vorgesehenen Nachweisweg.<p class=\"exb-source-note\"><a href=\"https://www.gov.uk/evisa/travel-with-evisa\" rel=\"noopener noreferrer\">UKVI: Travel with your eVisa</a></p></p>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Unterlagen so hinterlegen, dass Berechtigte handeln können",
+      "body": "<p>Lege nicht alles einfach in einen gemeinsamen Cloudordner. Unterscheide Unterlagen, zulässige Empfänger und geheime Zugangsmittel. Eine berechtigte Person muss wissen, welche Fassung gilt, wie sie sie findet und wie sie ihre eigene Rolle nachweist.</p><p>Prüfe den vorgesehenen Ablauf auch ohne dein Haupttelefon. Eine verschlüsselte Ablage hilft wenig, wenn nur du den einzigen Zugang bedienen kannst und kein zulässiger Wiederzugangsweg besteht. Passwörter, Bankfreigaben und private Schlüssel gehören nicht in das öffentliche Kontaktformular.</p><p>Eine sinnvolle Übergabe ist handlungsbezogen: Welche berechtigte Person benötigt im Fall einer Reiseverzögerung die Geburtsurkunde, wer darf gegenüber der Behörde antworten und welche Identifikation verlangt diese Stelle? Die Dokumentenliste enthält deshalb eine Zuständigkeit und einen erlaubten Wiederzugang, nicht nur einen Speicherort.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\" data-route=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\"><span>Notfallunterlagen, die Angehörige tatsächlich nutzen können</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-7",
+      "title": "Die Vorbereitung organisieren lassen",
+      "body": "<p>EXOBASIS kann den Unterlagenbestand aufnehmen, die Anforderungen der beteiligten Stellen zusammenführen und die vereinbarte Beschaffung, Übersetzung und Einreichungsfolge organisieren. Fehlende Nachweise, Termine und Rückfragen werden nachgehalten.</p><p>Die zuständige Behörde entscheidet über Aufenthalt, die befugte Fachstelle über ihre Fachaufgabe. Unsere Organisationsleistung besteht darin, diese Entscheidungen und Unterlagen in einen brauchbaren Ablauf zu bringen. Du kannst die gesamte Vorbereitung oder einen bereits klaren Dokumentenauftrag anfragen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/dokumente-aufenthalt/\" data-route=\"/de/leistungen/dokumente-aufenthalt/\"><span>Dokumente und Aufenthalt vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Welche Rechte bestehen bereits?"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Aufenthalt, Staatsangehörigkeit und Steuerpflicht auseinanderhalten"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Vom benötigten Dokument zur verwendbaren Urkunde"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Familienrechte brauchen passende Nachweise"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Einreise und Wiedereinreise praktisch vorbereiten"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Unterlagen so hinterlegen, dass Berechtigte handeln können"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Die Vorbereitung organisieren lassen"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 69,
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 72,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 73,
+        "target": "/de/leistungen/laender-standortauswahl/",
+        "label": "Passende Länder und Standortoptionen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt individueller Ländervergleich",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 70,
+        "target": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+        "label": "Apostillen, Übersetzungen und Urkunden organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Urkunden und Verwendbarkeit",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 75,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 71,
+        "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+        "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt nutzbare Unterlagen für Berechtigte",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 74,
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 76,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      }
+    ],
+    "seeding": [
+      "D19",
+      "D20",
+      "D21"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  }
+}

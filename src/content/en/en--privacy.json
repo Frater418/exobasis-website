@@ -1,0 +1,142 @@
+{
+  "route": "/en/privacy/",
+  "lang": "en",
+  "title": "Privacy notice",
+  "parent": "/en/",
+  "translation": "/de/datenschutz/",
+  "model": "recht-funktion",
+  "schemaVersion": 1,
+  "kind": "legal",
+  "reviewStatus": "blocked_required_facts",
+  "releaseStatus": "blocked_required_facts",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-e8fa52d7106d18",
+      "startLine": 2556
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-2dc42f47e43ad4",
+      "startLine": 3539
+    }
+  ],
+  "eyebrow": "EXOBASIS / Legal information",
+  "seoTitle": "Privacy notice | EXOBASIS",
+  "description": "Data paths for visits, first enquiries and assignments, and your rights.",
+  "intro": "<p>Visiting the website, making a short enquiry and later working together involve different data paths. This notice explains the scope of first contact and rights that may apply under the relevant law.</p>",
+  "sections": [
+    {
+      "id": "p-verantwortlicher",
+      "title": "Responsibility for processing",
+      "body": "<p>A website visit, an organisational enquiry and later confidential records are separate activities. The controller for each must be clearly linked to the actual provider. Its full identity, address and reachable privacy contact belong here and must match the <a href=\"/en/provider-information/\">Provider information</a>.</p><p>A technical host or mail service does not become the controller for the advisory service merely by handling data. The role of any specialist engaged directly needs separate consideration.</p>",
+      "reviewRequirements": [
+        "Legal controller, address and privacy contact",
+        "Applicable jurisdictions and any required representative or data protection officer"
+      ]
+    },
+    {
+      "id": "p-kontaktformular",
+      "title": "When you send an enquiry",
+      "body": "<p>The ordinary <a href=\"/en/enquiry/\">Private enquiry</a> requires a reachable email address and a broad choice of topic. Name and message are optional. Do not use this route for identity documents, medical information, financial records or access keys. First contact serves to classify and answer an enquiry; it is not automatically a full case intake.</p><p>A separate server-side mail delivery to the staffed enquiry inbox is planned for the short form. Its body is not also kept in a form log or full-text archive. Confirmed transport produces a short-lived, language-bound, one-use confirmation; that does not prove inbox delivery or create an assignment. Opening the confirmation page directly does not prove a submission.</p><p>Direct email, a deliberately opened booking page and optional encrypted first contact have different recipients and data paths. A separate protected exchange is agreed for later personal records. The purposes, legal bases and recipients of each contact route actually activated must be specified before public use.</p>",
+      "reviewRequirements": [
+        "Actual form/email recipient and the purpose/legal basis for each processing activity",
+        "Real delivery, status handling and selected optional channels"
+      ]
+    },
+    {
+      "id": "p-technik",
+      "title": "Technical website processing",
+      "body": "<p>Content pages are static HTML with locally supplied presentation files. The short-form connection is a separate server-side process. Its ordinary operation does not call for advertising pixels, CAPTCHA services, session replay or recording the form body. External source links open only when selected and are not embedded in the background.</p><p>A production host may keep technical access or error logs. The actual data, legal basis and deletion rules depend on the host and its configuration. The local website does not establish that the operating service keeps no logs or cookies at all.</p>",
+      "reviewRequirements": [
+        "Production host, logs, purposes and retention",
+        "Actual necessary cookies/sessions and any additional processing"
+      ]
+    },
+    {
+      "id": "p-dienstleister",
+      "title": "Providers, recipients and countries",
+      "body": "<p>Serving the website, sending a first enquiry by SMTP, opening a booking page deliberately and using an optional protected channel are distinct processing operations. A later specialist should receive only the information needed for the commissioned task. <a href=\"/en/discretion/\">Discretion and protected collaboration</a> explains how confidential exchange differs from first contact.</p><p>For each service actually used, the operator, role, processing location and any basis for an international transfer must be established. A calendar not yet activated, an unverified CryptPad instance or a merely proposed mail service is not represented here as a current recipient.</p>",
+      "reviewRequirements": [
+        "Specific providers, instances and recipient countries",
+        "Processing arrangements and transfer safeguards",
+        "Verified data flows, not only an intended architecture"
+      ]
+    },
+    {
+      "id": "p-rechte",
+      "title": "Your rights and how to exercise them",
+      "body": "<p>Where the General Data Protection Regulation applies to a particular activity, its conditions may give you rights of access, rectification, erasure, restriction, portability and objection. Withdrawal only concerns processing based on consent; it does not erase a separate obligation to retain records such as invoices. A requester’s authority and identity should be checked with as little additional information as possible.</p><p class=\"exb-citation\">Legal framework: <a href=\"https://commission.europa.eu/law/law-topic/data-protection/information-individuals_en\" rel=\"noreferrer\">European Commission: individual data-protection rights</a>.</p><p>The relevant complaints authority depends on the responsible provider and applicable law, not the language of your request. A reachable privacy contact must be specified before public use.</p>",
+      "reviewRequirements": [
+        "Actual rights-request and complaint contacts",
+        "Competent supervisory authority and applicable rights",
+        "Identity checks and the real handling process"
+      ]
+    },
+    {
+      "id": "p-aufbewahrung",
+      "title": "Retention and privacy contact",
+      "body": "<p>An initial enquiry without an assignment, ongoing work, an invoice, a protected case file and a technical log serve different purposes. Data is handled according to its purpose, necessary evidence and applicable retention obligations; backups also require defined handling. The operated service must specify actual periods or defensible deletion criteria for each category. A generic number of days would not be reliable.</p><p>Ask an initial privacy question through <a href=\"/en/enquiry/\">Private enquiry</a> without sending a copy of your identity document. If identity evidence is needed for a request, an appropriate route can be agreed. Sensitive follow-up records belong in <a href=\"/en/discretion/\">protected collaboration</a>.</p>",
+      "reviewRequirements": [
+        "Retention/deletion periods or justified criteria by category",
+        "Statutory retention and backup handling",
+        "Verified privacy contact"
+      ]
+    }
+  ],
+  "linkPlan": [
+    {
+      "sourceLine": 828,
+      "target": "/en/",
+      "label": "EXOBASIS: Your own base beyond your home country",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 830,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 831,
+      "target": "/en/discretion/",
+      "label": "Discretion and protected collaboration",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Am Anfrageübergang: geschützte Zusammenarbeit"
+    },
+    {
+      "sourceLine": 832,
+      "target": "/en/provider-information/",
+      "label": "Provider information",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Rechtliche Anbieterzuordnung"
+    },
+    {
+      "sourceLine": 833,
+      "target": "/de/datenschutz/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    }
+  ],
+  "legalType": "privacy",
+  "releaseBlockers": [
+    "Legal controller, address and privacy contact",
+    "Applicable jurisdictions and any required representative or data protection officer",
+    "Actual form/email recipient and the purpose/legal basis for each processing activity",
+    "Real delivery, status handling and selected optional channels",
+    "Production host, logs, purposes and retention",
+    "Actual necessary cookies/sessions and any additional processing",
+    "Specific providers, instances and recipient countries",
+    "Processing arrangements and transfer safeguards",
+    "Verified data flows, not only an intended architecture",
+    "Actual rights-request and complaint contacts",
+    "Competent supervisory authority and applicable rights",
+    "Identity checks and the real handling process",
+    "Retention/deletion periods or justified criteria by category",
+    "Statutory retention and backup handling",
+    "Verified privacy contact"
+  ]
+}

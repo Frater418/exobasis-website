@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/residence-and-documents/",
+  "lang": "en",
+  "title": "Prepare residence rights and documents",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-fa724bb3d8d8e8"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-14c23480192f12"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-98e968c8d735fc"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Prepare residence rights and documents | EXOBASIS",
+  "description": "Establish residence rights, citizenship, family evidence and document requirements. Connect the right records with practical preparation and authorised access.",
+  "intro": "<p>A usable residence option begins with the rights of each person and the records the receiving authority will actually accept. A passport does not by itself grant permission to stay or work, and an authenticated record does not replace the authority’s decision on the underlying right.</p><p>Establish the rights you already hold before choosing additional programmes. Then organise the records and procedures that make those rights usable for your household.</p>",
+  "primary": {
+    "label": "Discuss your next step",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "Existing rights. Accepted evidence. Usable access.",
+    "facts": [
+      [
+        "People",
+        "The position of each family member"
+      ],
+      [
+        "Acceptance",
+        "Requirements of the receiving institution"
+      ],
+      [
+        "Practical use",
+        "Current records and an authorised access route"
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notebook and pen, symbolising organised preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Which rights do you already hold?",
+      "body": "<p>Record nationality, current residence status, family relationships and intended use for each person. A main applicant's position does not automatically establish the same rights for a partner, child or dependent adult.</p><p>Existing citizenship or family-based rights may provide a route before any additional programme is considered. EU residence categories, for example, have their own conditions; they do not apply simply because a person lives in the UK or UAE or reads an English-language page.<p class=\"exb-source-note\"><a href=\"https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm\" rel=\"noopener noreferrer\">Your Europe: residence rights</a></p></p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Separate residence, citizenship and tax status",
+      "body": "<p>Residence status establishes permission to stay and the conditions for retaining it. Citizenship establishes legal nationality and its associated rights. Tax residence follows its own legal tests and the actual facts. Permission to work must also be established separately.</p><p>Do not let one certificate stand in for all four answers. An overseas residence card does not prove that your previous tax obligations ended. A second passport does not settle where a business is managed or whether a particular activity is authorised.<p class=\"exb-source-note\"><a href=\"https://www.oecd.org/en/networks/global-forum-tax-transparency/resources/aeoi-implementation-portal/tax-residency.html\" rel=\"noopener noreferrer\">OECD: Tax residency</a></p></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/residence-and-documents/rights-citizenship/\" data-route=\"/en/knowledge/residence-and-documents/rights-citizenship/\"><span>Residence, existing rights and second citizenship</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/countries/\" data-route=\"/en/countries/\"><span>Countries and options</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/country-location-selection/\" data-route=\"/en/services/country-location-selection/\"><span>Choose suitable countries and locations</span><span aria-hidden=\"true\">→</span></a></div>",
+      "criteria": {
+        "title": "Separate the legal questions",
+        "headers": [
+          "Area",
+          "What it establishes",
+          "What it does not establish by itself"
+        ],
+        "rows": [
+          [
+            "Residence",
+            "Permission to stay and maintain status",
+            "Citizenship or unrestricted work rights"
+          ],
+          [
+            "Citizenship",
+            "Nationality and associated rights",
+            "The end of previous tax obligations"
+          ],
+          [
+            "Tax residence",
+            "Applicable fiscal tests and factual connections",
+            "Immigration permission"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-3",
+      "title": "From a required document to a usable record",
+      "body": "<p>Work backwards from the receiving authority or institution. Confirm the required document, permitted age, accepted language and form of certification. Then organise issue, authentication, translation and submission in the appropriate order.</p><p>An apostille addresses formal origin, not the substantive validity of everything written in a record. Its use also depends on the applicable treaty and document arrangements. Confirm acceptance before paying for a bundle of documents that the intended recipient cannot use.<p class=\"exb-source-note\"><a href=\"https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille\" rel=\"noopener noreferrer\">HCCH: Apostille Convention</a></p></p><p>For every required record, work from the receiving decision backwards: name the institution and procedure, the required issue date or form, language, issuing body, any authentication and the person responsible for submission. Confirm those requirements before ordering multiple translations. The Hague apostille framework concerns the origin of eligible public documents; it does not make an unrelated record acceptable for a different immigration procedure.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/apostilles-translations-documents/\" data-route=\"/en/services/apostilles-translations-documents/\"><span>Arrange apostilles, translations and documents</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-4",
+      "title": "Support family rights with the right evidence",
+      "body": "<p>Names and family relationships must be supported by consistent records. Where children travel, establish who has parental responsibility, who accompanies them and whether consent or a court decision is needed. Permission for a short trip is not necessarily permission to relocate.</p><p>The UK guidance distinguishes parental permissions and court orders. Other jurisdictions require their own assessment. A family with mixed nationalities or dependent residence status needs a person-by-person sequence rather than one checklist copied from the main applicant.<p class=\"exb-source-note\"><a href=\"https://www.gov.uk/permission-take-child-abroad\" rel=\"noopener noreferrer\">GOV.UK: Permission to take a child abroad</a></p></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/family-life-abroad/children-family/\" data-route=\"/en/knowledge/family-life-abroad/children-family/\"><span>Prepare to move abroad with children and family</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-5",
+      "title": "Prepare entry and re-entry in practice",
+      "body": "<p>Check travel-document validity, the link to any digital residence record, transit permissions and the terms for returning. A temporary second base can still create absence and status-maintenance questions at the existing base.</p><p>For UK eVisa holders, keep the travel document connected to the correct UKVI account and check access before travel. For UAE residents, distinguish the actual residence category, validity, sponsor and applicable absence rules. Neither example can be substituted for the other's procedure.<p class=\"exb-source-note\"><a href=\"https://www.gov.uk/evisa/travel-with-evisa\" rel=\"noopener noreferrer\">UKVI: Travel with your eVisa</a> · <a href=\"https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/general-provisions-for-the-residence-visa\" rel=\"noopener noreferrer\">UAE Government: General provisions for residence visas</a></p></p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Make documents usable by authorised family members",
+      "body": "<p>An authorised person needs more than a folder link. They must locate the current record, know which action it supports and demonstrate their own authority. Keep access secrets separate from the documents needed to establish a right.</p><p>Rehearse a realistic permitted route without the main device. Encrypted storage is useful only if the intended people can use it under the agreed conditions. Do not send passwords, banking approval codes or private keys through a public enquiry.</p><p>Give authorised relatives an action map rather than an indiscriminate document dump. If a child’s record or residence evidence is needed during a delayed journey, specify who may present it, how that person proves their authority and how they reach the current version without using your personal login.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/residence-and-documents/emergency-documents/\" data-route=\"/en/knowledge/residence-and-documents/emergency-documents/\"><span>Emergency documents your family can actually use</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-7",
+      "title": "Have the preparation organised",
+      "body": "<p>EXOBASIS can coordinate the document inventory, recipient requirements, procurement, translations, appointments and follow-up. The output is a usable sequence of agreed preparation, with outstanding decisions clearly assigned rather than hidden.</p><p>Authorities and directly mandated professionals retain responsibility for their decisions. We connect their work with the preparation you need. Commission an individual document task directly, or have the wider residence and family preparation organised together.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/residence-documents/\" data-route=\"/en/services/residence-documents/\"><span>Arrange residence and document preparation</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Which rights do you already hold?"
+      },
+      {
+        "id": "section-2",
+        "title": "Separate residence, citizenship and tax status"
+      },
+      {
+        "id": "section-3",
+        "title": "From a required document to a usable record"
+      },
+      {
+        "id": "section-4",
+        "title": "Support family rights with the right evidence"
+      },
+      {
+        "id": "section-5",
+        "title": "Prepare entry and re-entry in practice"
+      },
+      {
+        "id": "section-6",
+        "title": "Make documents usable by authorised family members"
+      },
+      {
+        "id": "section-7",
+        "title": "Have the preparation organised"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 80,
+        "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+        "label": "Residence, existing rights and second citizenship",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#section-2"
+      },
+      {
+        "line": 83,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-2"
+      },
+      {
+        "line": 84,
+        "target": "/en/services/country-location-selection/",
+        "label": "Choose suitable countries and locations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt individueller Ländervergleich",
+        "position": "#section-2"
+      },
+      {
+        "line": 81,
+        "target": "/en/services/apostilles-translations-documents/",
+        "label": "Arrange apostilles, translations and documents",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Urkunden und Verwendbarkeit",
+        "position": "#section-3"
+      },
+      {
+        "line": 86,
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "label": "Prepare to move abroad with children and family",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#section-4"
+      },
+      {
+        "line": 82,
+        "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+        "label": "Emergency documents your family can actually use",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt nutzbare Unterlagen für Berechtigte",
+        "position": "#section-6"
+      },
+      {
+        "line": 85,
+        "target": "/en/services/residence-documents/",
+        "label": "Arrange residence and document preparation",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#section-7"
+      },
+      {
+        "line": 87,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      }
+    ],
+    "seeding": [
+      "EN08",
+      "EN09",
+      "EN12"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  }
+}

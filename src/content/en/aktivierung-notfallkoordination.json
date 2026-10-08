@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/activation-emergency-coordination/",
+  "lang": "en",
+  "title": "Agreed activation and emergency coordination",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-77da1635c006e9"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-d03e5bd99fd1a4"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Activation / Advance agreement and coordination",
+  "seoTitle": "Agreed activation and emergency coordination | EXOBASIS",
+  "description": "Arrange in advance who acts, how decisions are authorised and which specialists take over when your family needs to activate its departure plan.",
+  "intro": "<p>When flights stop, a conflict escalates or your family needs to leave earlier than expected, the difficult part is often getting several people to act together. Someone must confirm the situation, reach the decision-maker, organise the agreed work and keep those travelling informed.</p><p>EXOBASIS prepares that coordination with you in advance. Your agreement names the situations covered, contact windows, authority, expenditure and delivery arrangements. For an immediate threat to life, use the local emergency services; this enquiry starts the preparation of an agreed support arrangement.</p>",
+  "primary": {
+    "label": "Enquire about activation arrangements",
+    "intent": "Agreed activation and emergency coordination"
+  },
+  "summary": {
+    "kicker": "Your assignment with EXOBASIS",
+    "title": "A known process before the urgent call.",
+    "image": "einstieg-laender.webp",
+    "imageAlt": "A map and compass, illustrating international planning.",
+    "facts": [
+      [
+        "Agreement",
+        "Named support cases, people and decision-makers"
+      ],
+      [
+        "Readiness",
+        "Verified contacts, payment authority and specialist acceptance"
+      ],
+      [
+        "Delivery",
+        "Coordinated actions and a documented handover"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Define the situation you want help with",
+      "layout": "prose",
+      "body": "<p>The assignment starts with a specific support case: bringing forward an already prepared departure, coordinating family members travelling separately, arranging arrival after transport disruption or connecting you to an accepted specialist service.</p><p>We identify the people covered, present location, intended destination, relevant documents and the preparations already completed. The <a href=\"/en/services/departure-contingency-plan/\">personal departure and contingency plan</a> provides the broader sequence where you need one. Existing plans can also form the basis of the agreement.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Agree when to act and what must still be confirmed",
+      "layout": "prose",
+      "body": "<p>You decide which developments should trigger a review, an agreed action or a pause. A cancelled service, a change in official advice or the loss of a required permission can affect different parts of the plan. We establish which source will confirm the change and who decides what follows.</p><p><a href=\"/en/services/maintain-preparations/\">Ongoing preparation support</a> keeps the agreed documents, permissions, contacts and local arrangements under review. Before activation, we check their recorded status and resolve the prerequisites that still need confirmation.</p><p>Before a departure is carried out, the relevant carrier, transit requirements, destination entry conditions and receiving arrangements need current confirmation for everyone travelling. If a route is unavailable, the next step is a reassessment of the prepared alternative and the arrangements for staying put in the meantime.</p><p>The <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">FCDO's crisis guidance</a> advises British nationals to maintain their own emergency plans, current travel documents and transit permissions, rather than expect government evacuation. We make those dependencies part of the case you commission.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Know whom to contact and when",
+      "layout": "prose",
+      "body": "<p>The support agreement records the contact channel, time zone, staffed windows, acknowledgement procedure and named cover. It also specifies the fallback if the primary coordinator cannot be reached or the operational base is affected.</p><p>We test the agreed contact sequence before it becomes part of your preparation. Your family knows which message to send, how receipt is confirmed and when to use the next contact. Routine maintenance and reserved response capacity are separate commitments; your agreement identifies the capacity actually arranged.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Confirm identity and decision-making authority",
+      "layout": "prose",
+      "body": "<p>An urgent message still needs to come from someone entitled to act. We agree how the caller is verified, who may authorise the work and who can substitute if the main decision-maker is unavailable. A pre-agreed callback or other verification method reduces the risk of acting on an impersonated instruction.</p><p>For children, dependant adults, medical information and third-party payments, the relevant consent and authority are established beforehand. Instructions, contact records and the information needed by the accepted provider are held in the agreed protected working arrangement.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Set spending authority before urgency makes it difficult",
+      "layout": "prose",
+      "body": "<p>Transport, accommodation, specialist support and changes to bookings may require rapid payment. We agree what can be authorised, by whom and through which payment route. A spending threshold tells the coordinator when a further decision is needed.</p><p>We also prepare for the main payer being unreachable. The alternative is an accepted authorisation and payment arrangement, not a shared password or an assumption that a family member can use another person's account. Quotes, approvals and committed costs are recorded as the work proceeds.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Match security evacuation to an accepted specialist service",
+      "layout": "prose",
+      "body": "<p>Security evacuation, political evacuation and medical assistance have different triggers and delivery requirements. If your case needs a specialist provider, EXOBASIS organises the selection and acceptance around the people, locations and scenario concerned.</p><p>An evacuation membership needs to be read as a contract: who is eligible, where cover applies, which event activates it, who decides, which costs are included and where transport would take you. A family resident abroad may have different requirements from a short-stay traveller. The provider's acceptance and current ability to perform the work belong in the arrangement.</p><p>For a Dubai or wider UAE departure, the provider's transport plan must connect to each traveller's exit, transit and entry position. We coordinate the agreed information and handover. If health is part of the case, <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">health cover and available care</a> must be addressed alongside transport.</p>"
+    },
+    {
+      "id": "section-7",
+      "title": "Keep everyone informed through handover",
+      "layout": "prose",
+      "body": "<p>During agreed activation, we record the confirmed facts, decisions, instructions, costs and status of each task. Family contacts receive the updates agreed with you. The receiving person or provider confirms the handover at the next stage.</p><p>Afterwards, we reconcile outstanding work and identify what the experience changes in your preparation. <a href=\"/en/services/maintain-preparations/\">Ongoing maintenance</a> can incorporate updated contacts, documents, arrangements and another practical test.</p>"
+    }
+  ],
+  "working": {
+    "title": "How we work together",
+    "body": "<p>You identify the people and situations to cover. We coordinate the preparation with your authorised contacts and the selected providers, then organise the agreed test. Sensitive locations and detailed instructions are exchanged privately.</p>"
+  },
+  "nextWork": {
+    "title": "The next practical step",
+    "body": "<p>If your departure arrangements still need to be developed, commission the <a href=\"/en/services/departure-contingency-plan/\">personal plan</a> first or alongside the necessary setup. Where the arrangements already exist, we can define activation around them.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "Arrange the support before the situation becomes urgent",
+    "body": "Tell us which prepared plan or support case you want covered and where the people concerned are based. We will establish the scope, contact requirements and specialist work needed."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [
+      "EN10"
+    ],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "369",
+        "label": "Personal departure and contingency plan",
+        "target": "/en/services/departure-contingency-plan/",
+        "position": "Passende nächste Arbeit / Relevant next work",
+        "purpose": "Einen zusammenhängenden Plan für Personen, Vermögen, Geschäft und benannte Szenarien ausarbeiten lassen."
+      },
+      {
+        "line": "370",
+        "label": "Review and maintain your preparations",
+        "target": "/en/services/maintain-preparations/",
+        "position": "Kernabschnitt 2: Triggers and prerequisites",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      },
+      {
+        "line": "371",
+        "label": "Health cover and care abroad",
+        "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+        "position": "Kernabschnitt 6: Specialist delivery",
+        "purpose": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden."
+      },
+      {
+        "line": "372",
+        "label": "Discretion and protected collaboration",
+        "target": "/en/discretion/",
+        "position": "Dein Auftrag / Your enquiry",
+        "purpose": "Verstehen, wer welche Informationen erhält und wie Zusammenarbeit kontrolliert bleibt."
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages.",
+    "redaction": {
+      "package": "leistungen-a-en",
+      "seeding": [
+        "EN10"
+      ],
+      "sourceScope": "PB-D65 English editorial candidate; see QUELLEN-EN.md and SEITEN-EN.jsonl. No integration or approval claimed.",
+      "mappedLinks": [
+        {
+          "line": "369",
+          "label": "Personal departure and contingency plan",
+          "target": "/en/services/departure-contingency-plan/",
+          "position": "Passende nächste Arbeit / Relevant next work",
+          "purpose": "Einen zusammenhängenden Plan für Personen, Vermögen, Geschäft und benannte Szenarien ausarbeiten lassen."
+        },
+        {
+          "line": "370",
+          "label": "Review and maintain your preparations",
+          "target": "/en/services/maintain-preparations/",
+          "position": "Kernabschnitt 2: Triggers and prerequisites",
+          "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+        },
+        {
+          "line": "371",
+          "label": "Health cover and care abroad",
+          "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+          "position": "Kernabschnitt 6: Specialist delivery",
+          "purpose": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden."
+        },
+        {
+          "line": "372",
+          "label": "Discretion and protected collaboration",
+          "target": "/en/discretion/",
+          "position": "Dein Auftrag / Your enquiry",
+          "purpose": "Verstehen, wer welche Informationen erhält und wie Zusammenarbeit kontrolliert bleibt."
+        }
+      ],
+      "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+    }
+  },
+  "scope": {
+    "id": "scope",
+    "title": "What you receive",
+    "body": "<p>You receive a case-specific activation arrangement and the commissioned preparation behind it: contact procedures, authority, expenditure rules, specialist handovers and the agreed test. The proposal identifies any response capacity that must be reserved.</p>",
+    "items": [
+      [
+        "Defined support",
+        "The case and tasks are understandable before you commission them."
+      ],
+      [
+        "Verified decision routes",
+        "Identity, substitute authority and spending approval are agreed."
+      ],
+      [
+        "Connected delivery",
+        "Transport, receiving arrangements and specialist work fit the same case."
+      ]
+    ],
+    "costs": "Preparation, reserved availability, specialist membership or cover and actual activated work are distinct costs. The proposal sets out what is included, what needs separate acceptance and how additional expenditure is approved."
+  },
+  "displayTitle": "Put your agreed departure plan into action"
+}

@@ -1,0 +1,197 @@
+{
+  "route": "/de/laender/chile/",
+  "lang": "de",
+  "title": "Chile als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/chile/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-a6d5e3f5ccc446"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-bda511dad020a1"
+    }
+  ],
+  "eyebrow": "Dein neuer Lebensmittelpunkt in Südamerika",
+  "seoTitle": "Auswandern nach Chile: Aufenthalt, Wohnen & Immobilien",
+  "description": "Chile als zweite Basis oder neue Familienzukunft: Aufenthaltswege, Regionen, Mietvertrag, Immobilienkauf, Schule, Versorgung und Steuern verständlich erklärt.",
+  "intro": "<p>Chile kann ein Ort sein, an dem du mit deiner Familie Abstand zu Krieg und staatlichem Druck in Europa gewinnst und eine neue Zukunft aufbaust. Dafür müssen Aufenthaltsweg, Einkommen und Wohnort zusammenpassen. Besonders wichtig ist die Reihenfolge: Die längerfristige Aufenthaltserlaubnis wird grundsätzlich aus dem Ausland beantragt, während Schule, Wohnung und Versorgung parallel vorbereitet werden.</p>",
+  "primary": {
+    "label": "Vorbereitung für Chile anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "countryContext": "/de/laender/chile/",
+  "country": {
+    "name": "Chile",
+    "slug": "chile",
+    "region": "Südamerika",
+    "map": "countries/chile-locator.svg",
+    "imageAlt": "Lage Chiles an der Westküste Südamerikas",
+    "caption": "Chile an der Westküste Südamerikas.",
+    "summary": [
+      [
+        "Familienzukunft planen",
+        "Den befristeten Aufenthaltsweg von Beginn an mit der späteren Dauerperspektive verbinden."
+      ],
+      [
+        "Den richtigen Ort wählen",
+        "Santiago, Küste und Süden stellen unterschiedliche Anforderungen an Alltag und Naturgefahrenvorsorge."
+      ],
+      [
+        "Wohnen konkret organisieren",
+        "Mietvertrag oder Immobilienkauf mit RUT, Titelprüfung, Übergabe und laufender Betreuung vorbereiten."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Passt Chile zu deinem Vorhaben?",
+      "body": "<p>Wer nach Chile auswandern will, sollte zuerst entscheiden, wie viel Leben tatsächlich dorthin verlagert wird. Für den dauerhaften Familienumzug sind Schule, spanischer Alltag und ein tragfähiger Aufenthaltsweg entscheidend. Für eine zeitweise genutzte zweite Basis zählen zusätzlich der Erhalt des Status und die Organisation während deiner Abwesenheit. Ein vorbereiteter Zufluchtsort braucht vor allem rechtzeitige Anreise, Unterkunft, verfügbare Mittel und erreichbare Hilfe.</p><p>Chile ist besonders dann einen vertieften Vergleich wert, wenn du eine ernsthafte südamerikanische Lebensperspektive suchst und bereit bist, örtliche Abläufe und Sprache zu lernen. Das kann auf Rentner mit regelmäßigen Bezügen, Vermögensinhaber mit laufenden Erträgen oder Erwerbstätige mit einem passenden Aufenthalt zutreffen. Die passende Kategorie folgt deinem tatsächlichen Lebensunterhalt.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Krisenvorsorge: weite Entfernung, eigener örtlicher Plan",
+      "body": "<p>Wenn dich ein möglicher Krieg in Europa beschäftigt, kann die Entfernung Chiles ein wichtiges Argument sein. Für deine Familie muss daraus ein nutzbarer Weg werden: gültige Reisedokumente, passende Transitbedingungen, erreichbare Unterkunft und ausreichend Geld für einen längeren Aufenthalt. Die erste Besichtigung und alle wesentlichen Unterlagen sollten deshalb nicht erst unter Zeitdruck beginnen.</p><p>Vor Ort bestimmen andere Risiken die Vorbereitung. Chile ist erdbebengefährdet; an der Küste kommen Tsunamis hinzu, in betroffenen Regionen Vulkane, Waldbrände und unterbrochene Straßen. Bei der Wohnungssuche gehören Gebäudezustand, Evakuierungsweg, Trinkwasserreserve und ein erreichbarer Treffpunkt zum Standortentscheid. Die <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/chilesicherheit-201230\">amtlichen Sicherheitshinweise</a> verweisen für Warnungen und Evakuierung auf SENAPRED und für Vulkanaktivität auf SERNAGEOMIN.</p><p>Ein abgelegenes Grundstück ist als Krisenbasis nur dann sinnvoll, wenn Zufahrt, Wasser, Strom, Kommunikation und Versorgung im Alltag funktionieren. Wer regelmäßig Behandlung oder Pflege benötigt, braucht meist eine andere Wohnlage als jemand, der wenige Wochen unabhängig leben kann.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Dauerhaft mit der Familie in Chile leben",
+      "body": "<p>Für die langfristige Familienzukunft wird die Residencia Temporal zusammen mit ihrer späteren Anschlussmöglichkeit geplant. SERMIG verlangt für die Residencia Definitiva grundsätzlich einen geeigneten gültigen temporären Titel und bei den aktuellen Kategorien im Regelfall mindestens 24 Monate Voraufenthalt. Bestimmte persönliche Voraussetzungen können die erforderliche Dauer auf zwölf Monate verkürzen; längere Abwesenheit, fehlende wirtschaftliche Stabilität oder Verstöße können sie verlängern. <a href=\"https://serviciomigraciones.cl/residencia-definitiva/\">SERMIG: Voraussetzungen des Daueraufenthalts</a>.</p><p>Für temporäre Aufenthaltstitel, die nach dem 14. Mai 2022 beantragt wurden, staffelt SERMIG den erforderlichen Voraufenthalt nach der gesamten Abwesenheit während des temporären Aufenthalts, ob am Stück oder in mehreren Reisen: bis einschließlich zwei Monate Abwesenheit erfordern 24 Monate Voraufenthalt; mehr als zwei bis einschließlich sechs Monate erfordern 30 Monate; mehr als sechs bis einschließlich zwölf Monate erfordern 36 Monate; mehr als zwölf Monate erfordern 48 Monate. Diese Staffel betrifft den Zugang zur Residencia Definitiva. Sie ist von der gesonderten Zweijahresregel für den Verlust eines bereits erteilten Daueraufenthalts zu unterscheiden.</p><p>Die Verkürzung auf zwölf Monate nach Art. 79 des Migrationsgesetzes und Art. 66 seiner Verordnung kommt unter anderem bei Familienbindungen zu chilenischen Staatsangehörigen oder Inhabern einer Residencia Definitiva sowie bei verfügbaren Renten oder Pensionen in Betracht. SERMIG entscheidet darüber anhand deiner persönlichen Voraussetzungen und Nachweise; der Rentnerstatus allein löst die Verkürzung nicht aus.</p><p>Für Dependientes kann die eigene Mindestfrist entfallen, wenn der Hauptinhaber die für seine Unterkategorie erforderliche Aufenthaltsdauer erfüllt hat und sein Titel den Antrag auf Residencia Definitiva ausdrücklich zulässt. Entscheidend sind damit der berechtigende temporäre Titel und die erfüllte Zeit des Hauptinhabers.</p><p>Für eine Familie bedeutet das: Jede Person wird mit ihrem eigenen oder abgeleiteten Status erfasst, und die geplanten Reisen müssen zum Aufenthaltsaufbau passen. Die Wohnung wird anschließend so gewählt, dass Schule, Arbeit, Einkauf und Versorgung zusammen einen machbaren Alltag ergeben. Eine Erkundungsphase ist dafür sinnvoller als die sofortige Festlegung auf ein Haus, das ihr nur aus Bildern kennt.</p><p>Bei getrennt reisenden Eltern, unterschiedlichen Staatsangehörigkeiten oder einem Sorgebeschluss werden die Reisebefugnisse der Kinder vor Buchung geklärt. Chile kontrolliert die Ausreise Minderjähriger streng. Die <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/chilesicherheit-201230\">Einreise- und Ausreisehinweise für Kinder</a> nennen die erforderlichen Zustimmungen und Beglaubigungen. Die <a href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Vorbereitung mit Kindern und Angehörigen</a> verbindet diese Unterlagen mit dem tatsächlichen Umzug.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Chile zeitweise nutzen: Einreise und Abwesenheit",
+      "body": "<p>Mit deutschem, österreichischem oder Schweizer Pass ist eine touristische Einreise grundsätzlich ohne vorheriges Visum für bis zu 90 Tage möglich. Die Aufenthaltsfrist wird bei Einreise dokumentiert; die Tarjeta Única Migratoria wird aufbewahrt. Maßgeblich ist dein Pass, nicht nur dein Wohnsitz in einem DACH-Land. Quellen: <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/chilesicherheit-201230\">Auswärtiges Amt für deutsche Staatsangehörige</a>, <a href=\"https://www.bmeia.gv.at/reise-services/reiseinformation/land/chile\">BMEIA für österreichische Staatsangehörige</a> und <a href=\"https://www.consulado.gob.cl/informacion-sobre-visas-para-ingresar-a-chile\">chilenische Visaauskunft nach Staatsangehörigkeit</a>.</p><p>Die Permanencia Transitoria kann einmal um bis zu weitere 90 Tage verlängert werden. Sie ist für einen begrenzten Besuch ohne Niederlassungsabsicht bestimmt und erlaubt grundsätzlich keine bezahlte Tätigkeit. Die begrenzten gesetzlichen Arbeitsausnahmen benötigen eine eigene Bewilligung. Für den Wechsel in die Residencia Temporal gilt grundsätzlich die Antragstellung von außerhalb Chiles; Ausnahmen bestehen unter anderem bei bestimmten Familienbeziehungen. <a href=\"https://serviciomigraciones.cl/permanencia-transitoria/\">SERMIG: Besuch, Verlängerung und Arbeit</a>.</p><p>Eine bereits erteilte Residencia Definitiva kann nach mehr als zwei Jahren ununterbrochener Abwesenheit erlöschen. SERMIG beschreibt eine einmalige Verlängerungsmöglichkeit über das Konsulat, die innerhalb der letzten 60 Tage vor Ablauf dieser zwei Jahre beantragt wird. Wer eine zweite Basis nur selten nutzt, braucht deshalb einen Statuskalender ebenso wie eine Schlüsselverwaltung. <a href=\"https://serviciomigraciones.cl/residencia-definitiva/\">SERMIG: Abwesenheit und Erhalt des Daueraufenthalts</a>.</p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Aufenthaltsgenehmigung für Rentner, Rentistas und Berufstätige",
+      "body": "<p>Chile unterscheidet verschiedene Unterkategorien der Residencia Temporal. Für Rentner und Menschen mit regelmäßigen Vermögenserträgen veröffentlicht SERMIG einen eigenen Zugang:</p><ul><li><strong>Jubilado:</strong> Eine anerkannte Altersrente muss den grundlegenden Lebensbedarf decken. Rentenbescheinigung mit Betrag und Dauer sowie der letzte Zahlungsnachweis gehören zum Antrag.</li><li><strong>Rentista:</strong> Regelmäßige Erträge aus Immobilien oder Finanzvermögen tragen den Lebensunterhalt. Bei vermieteten Immobilien werden Eigentumsnachweis, Mietvertrag und Belege der Einnahmen verlangt; bei Finanzanlagen die entsprechenden Eigentums- und Ertragsbelege.</li><li><strong>Erwerbstätigkeit:</strong> Für Anstellung oder selbstständige Tätigkeit wird die einschlägige Arbeitskategorie mit den konkreten Vertrags- und Tätigkeitsnachweisen vorbereitet. Ein vorhandenes Vermögen beantwortet die Zulässigkeit der geplanten Arbeit nicht.</li></ul><p>Den Rentner- beziehungsweise Rentista-Antrag stellst du über das digitale SERMIG-Portal aus dem Ausland. Die Behörde knüpft die wirtschaftliche Anforderung an die veröffentlichten Bedarfsindikatoren des Sozialministeriums, nicht an einen für jeden Haushalt identischen Eurobetrag. Ehepartner und bestimmte Kinder können unter den gesetzlichen Voraussetzungen als Dependientes einbezogen werden. <a href=\"https://serviciomigraciones.cl/residencia-temporal/subcategorias/jubilados-y-rentistas/\">SERMIG: Rentner, Rentistas und Angehörige</a>.</p><div class=\"exb-criteria-table\" role=\"region\" aria-labelledby=\"chile-nutzungsvergleich\" tabindex=\"0\"><table><caption id=\"chile-nutzungsvergleich\">Besuch, Familienbasis und mobile Nutzung im Vergleich</caption><thead><tr><th scope=\"col\">Nutzung</th><th scope=\"col\">Passendes Recht</th><th scope=\"col\">Nachweise und Anwesenheit</th><th scope=\"col\">Was wir dafür organisieren</th></tr></thead><tbody><tr><th scope=\"row\">Krisenreserve</th><td>Ein zulässiger Besuch eignet sich für Erkundung oder einen begrenzten Aufenthalt. Der Jubilado-/Rentista-Weg zur Residencia Temporal wird aus dem Ausland beantragt, nicht allgemein während eines touristischen Aufenthalts.</td><td>Vor der Reise werden Einreiseberechtigung, Unterkunft und Versorgung geklärt. Für den Einkommensweg gehören die oben beschriebenen Renten- oder Vermögensnachweise in den Auslandsantrag.</td><td>Wir organisieren die Erkundung und parallel die erforderlichen Dokumente. Die Ankunft als Resident wird mit der tatsächlichen Bewilligung abgestimmt.</td></tr><tr><th scope=\"row\">Dauerhafte Familienbasis</th><td>Eine passende Residencia Temporal trägt den Aufbau; Angehörige benötigen einen eigenen oder zulässigen Dependiente-Status. Der spätere Antrag auf Residencia Definitiva setzt eine dafür geeignete Unterkategorie voraus.</td><td>Einkommen, Familienbeziehungen und Status werden je Person belegt. Reisezeiten müssen zur vollständigen Abwesenheitsstaffel und den persönlichen Ausnahmen im Familienabschnitt passen. Schule und Wohnung werden für den tatsächlichen Alltag gewählt.</td><td>Wir führen Antragsunterlagen, Angehörigenaufnahme, Schulklärung und Wohnungssuche zusammen und betreuen den späteren Statuswechsel im vereinbarten Umfang.</td></tr><tr><th scope=\"row\">Mobile Nutzung</th><td>Wiederholte Besuche und Reisen mit temporärem oder bereits dauerhaftem Status haben unterschiedliche Folgen. Eine geplante Erwerbstätigkeit braucht ihre passende Kategorie.</td><td>Du dokumentierst Aus- und Einreisen und hältst Einkommens- und Tätigkeitsnachweise aktuell. Längere Abwesenheit kann den Aufbau zum Dauerstatus verlängern; dessen späterer Verlust folgt der getrennten Zweijahresregel.</td><td>Wir stimmen Reisen, Verlängerungen und erforderliche Fachtermine aufeinander ab und organisieren die Betreuung der Unterkunft während deiner Abwesenheit.</td></tr></tbody></table></div><p>Wir organisieren die Vorbereitung aus deinem tatsächlichen Einkommens- und Familienfall heraus: passende Unterlagen, erforderliche Fachklärung, Übersetzungen und eine zeitlich abgestimmte Ankunft. <a href=\"/de/anfrage/\">Aufenthaltsvorbereitung für Chile anfragen</a>.</p><p><a href=\"/de/anfrage/#kontaktbeginn\">Diskrete Anfrage</a></p>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Wohnen in Chile: Stadt, Küste oder Süden?",
+      "body": "<p>Santiago ist ein naheliegender Ausgangspunkt, wenn internationale Anreise, Fachmedizin und eine größere Schulauswahl im Vordergrund stehen. Der tatsächliche Schul- und Arbeitsweg entscheidet darüber, welcher Teil der Stadt passt. An der Küste, etwa in Viña del Mar, gehören Tsunamievakuierung und sichere tägliche Wege direkt zur Wohnentscheidung. Valdivia oder die Region um Puerto Varas kommen für einen südlicheren Lebensmittelpunkt in Betracht, wenn du ein feuchteres Klima akzeptierst und den konkreten Versorgungsweg organisierst.</p><p>Gerade im Süden sollten Haus, Heizung, Feuchtigkeit, Zufahrt und örtliche Gefahrenlage über das ganze Jahr betrachtet werden. Für ländliche Vorhaben kommen Wasser, Abwasser und die rechtliche Zulässigkeit der vorgesehenen Nutzung hinzu. Die <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/chilesicherheit-201230\">amtlichen Hinweise zu Klima, Naturgefahren und Sicherheit</a> dienen als Ausgangspunkt; die Entscheidung fällt am konkreten Grundstück.</p><h3>Mieten: Was in den Vertrag gehört</h3><p>Für die erste Ankunft bietet sich eine möblierte Übergangswohnung an. Beim langfristigen Mieten verlangen Vermieter häufig Einkommensunterlagen, Kaution und einen Bürgen beziehungsweise Mitschuldner. Wenn dir als Neuankömmling lokale Unterlagen fehlen, müssen akzeptierte Alternativen vor der Bindung vereinbart werden. Der örtliche Relocation-Anbieter <a href=\"https://www.expat.cl/es/vivienda/preguntas-arrendatario-chile/\">Expat.cl beschreibt diese Mietpraxis</a>; seine Erfahrungswerte sind keine gesetzlichen Einheitspreise.</p><p>Schriftlich festgelegt werden Mietbetrag und Währung, Anpassung, Laufzeit, Kündigung, Kautionsrückgabe, Nebenkosten und Inventar. Bei einer Wohnung im Gebäude sind die Gastos comunes als eigener Kostenblock wichtig. Die chilenische Parlamentsbibliothek erläutert Vertragsformen und Beendigung; möblierte Ferienvermietungen bis zu drei Monaten fallen nicht unter dieselben Bestimmungen des städtischen Mietgesetzes. <a href=\"https://www.bcn.cl/portal/leyfacil/recurso/ley-de-arriendo\">BCN: Mietrecht und Vertragsgestaltung</a>.</p><h3>Immobilienkauf: RUT, unabhängige Prüfung und Eintragung</h3><p>Auch ausländische Besucher können in Chile eine Immobilie erwerben. Vorher brauchen sie einen RUT. Nach der aktuellen Auskunft des SII wird für die Investition ein Vertreter mit Wohnsitz und Aufenthalt in Chile bevollmächtigt, der die Registrierung und entsprechenden Steuerpflichten übernimmt. <a href=\"https://www.sii.cl/preguntas_frecuentes/rut_inicio_actividades/001_105_2105.htm\">SII: Immobilienkauf durch ausländische Touristen</a>.</p><p>Der unabhängige Estudio de títulos prüft unter anderem Eigentum und Erwerbskette, Belastungen, Verfügungsbeschränkungen, offene Grundstücksabgaben und die Übereinstimmung von Register, Plänen und tatsächlichem Objekt. Bei Land kommen Zufahrt, Wasserversorgung und Bebaubarkeit hinzu. Erst auf dieser Grundlage werden Kaufversprechen, Zahlungsbedingungen und die öffentliche Kaufurkunde abgestimmt. Auf die notarielle Escritura folgt die Eintragung beim örtlich zuständigen Conservador de Bienes Raíces. <a href=\"https://www.chileatiende.gob.cl/fichas/12116-inscripcion-de-una-propiedad\">ChileAtiende: Eigentumseintragung und Unterlagen</a>.</p><p>Für staatliche Flächen im Grenz- und Küstenbereich bestehen besondere Erwerbsbeschränkungen. Daneben enthält Artikel 7 des DL 1.939 Beschränkungen für Staatsangehörige von Nachbarländern in ausgewiesenen Grenzzonen. Das ist von einem allgemeinen Kaufverbot für deutsche, österreichische oder Schweizer Käufer zu unterscheiden. <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=6778\">DL 1.939, Artikel 6 bis 8</a>.</p><p>Neben dem Kaufpreis kalkulierst du Titelprüfung, Notariat, Register, gegebenenfalls Makler, Steuern und anschließende Objektkosten. Als örtlich begrenztes Beispiel nennt ChileAtiende beim Abruf vom 26. September 2026 für eine einfache Eintragung beim Conservador in Santiago 0,2 Prozent des Kaufpreises bis zur dort veröffentlichten Obergrenze; das ist nicht die Gesamtkostenquote eines Kaufs. Wir organisieren Bedarf und Suchauftrag, Besichtigungen, unabhängige Prüfung, Abschluss, Übergabe und anschließende Betreuung als Baustein der <a href=\"/de/leistungen/ankunft-organisieren/\">Ankunft und Einrichtung in Chile</a>.</p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, medizinische Versorgung und Pflege",
+      "body": "<p>Für Kinder ohne chilenische RUN vergibt das Bildungsministerium eine vorläufige Schulkennung, den IPE. Damit sind unter anderem die Teilnahme am Aufnahmeverfahren und die Anerkennung ausländischer Schulleistungen möglich. Für einen verantwortlichen Erwachsenen ohne RUN gibt es den IPA. Der IPE erleichtert den Bildungszugang, während ihr parallel den Aufenthaltsstatus ordnet. <a href=\"https://www.ayudamineduc.cl/ficha/solicitud-de-identificador-provisorio-escolar-ipe-e-identificador-provisorio-de-apoderado-ipa\">Mineduc: IPE und IPA für ausländische Familien</a>.</p><p>Private und deutschsprachige Schulen haben eigene Aufnahmeverfahren, Jahrgangs- und Platzbedingungen. Beim Colegio Alemán de Santiago werden die konkreten Zugänge über den <a href=\"https://dsstgo.cl/proceso-de-admision/\">Aufnahmebereich der Schule</a> veröffentlicht. Für die Standortwahl werden Unterrichtssprache, Zeugnisanerkennung, tatsächliche Aufnahme, Schulweg und laufende Gebühren zusammen betrachtet.</p><p>Die medizinische Versorgung unterscheidet sich stark zwischen großen Städten und ländlichen Orten. Das Auswärtige Amt beschreibt gute Möglichkeiten in den großen Städten und Einschränkungen auf dem Land. Bei dauerhafter Krankheit oder Pflegebedarf lässt du die benötigte Leistung am ausgewählten Ort bestätigen und stimmst sie mit dem Versicherungsschutz und einer erforderlichen Rückholung ab. <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/chilesicherheit-201230\">Medizinische Versorgung in Chile</a>.</p><p>Die passende Police, tatsächlich verfügbare Behandlung und Bezahlung sind drei getrennte Aufgaben. Die Vertiefung <a href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a> hilft, sie vor dem Umzug zusammenzuführen.</p><p>Die <a href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Vorbereitung mit Kindern und Angehörigen</a> verbindet Schulwechsel, Dokumente und Begleitung im Alltag.</p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Lebenshaltungskosten, Bankzugang und Steuern",
+      "body": "<p>Für deinen Finanzplan sind konkrete Angebote nützlicher als eine Durchschnittssumme für ganz Chile. Rechne Miete oder Eigentumskosten, Gastos comunes, Heizung, Schule, Krankenversicherung, Fahrzeug und die regelmäßigen Reisen zusammen. Ergänze Gebühren für den Aufenthalt, Übersetzungen und die erste Einrichtung. So erkennst du, welche laufenden Verpflichtungen auch während einer Abwesenheit weiterbezahlt werden müssen.</p><p>Für den Geldzugang ist der Unterschied zwischen Steuer-RUT und chilenischer Identitätskarte wichtig. BancoEstado beschreibt die Kontoeröffnung für Erwachsene mit gültiger chilenischer Cédula de identidad, auch für Ausländer. Ein RUT für den Immobilienkauf allein ersetzt diese Voraussetzung nicht. <a href=\"https://www.educacionfinancierabancoestado.cl/cuidar-tu-dinero/detalle-cuidar-tu-dinero/preguntas-frecuentes-cuentarut\">BancoEstado: CuentaRUT und erforderliche Identifikation</a>. Bis deine örtlichen Zahlungswege eingerichtet sind, müssen die vorbereiteten Alternativen die Übergangszeit tragen.</p><p>Bei den Steuern gilt für Ausländer mit Wohnsitz oder steuerlicher Ansässigkeit eine wichtige Anfangsregel: In den ersten drei Jahren des Aufenthalts besteuert Chile grundsätzlich nur Einkünfte chilenischer Quelle, danach auch die ausländischen. Die <a href=\"https://www.sii.cl/preguntas_frecuentes/declaracion_renta/001_140_1219.htm\">SII-Auskunft vom 8. April 2026</a> erklärt diesen Übergang. Einkommen aus einer Tätigkeit, die du in Chile ausübst, wird nicht schon deshalb zur ausländischen Quelle, weil der Auftraggeber im Ausland sitzt.</p><p>Wir verbinden den tatsächlichen Lebensunterhalt mit dem Aufenthaltsantrag, dem <a href=\"/de/leistungen/bankzugang-liquiditaet/\">Aufbau nutzbarer Bank- und Zahlungswege</a> und der erforderlichen Steuerfachklärung. Fortbestehende Bindungen in Deutschland, Österreich oder der Schweiz werden beim <a href=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\">Wegzug und der Unternehmensfortführung</a> gesondert eingeordnet.</p><p>Eine Verzögerung bei Kontoeröffnung oder Überweisung darf nicht zugleich Miete, Schule und medizinische Versorgung blockieren. Halte dafür eine nutzbare Reserve und einen zweiten Zahlungsweg bereit, der nicht vom selben Konto oder Gerät abhängt. <a href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Bankkonto und Zahlungsfähigkeit</a> zeigt, wie du diese Wege und den berechtigten Wiederzugang vorbereitest.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Vor dem Antrag: Dokumente und Zeitplan",
+      "body": "<p>Bei Rentnern und Rentistas verlangt SERMIG unter anderem den Pass, einen Strafregisterbeleg, ein aktuelles Foto und die jeweiligen Renten- oder Ertragsunterlagen. Für den Auslandsantrag muss der Pass noch mindestens ein Jahr gültig sein; der Strafregisterbeleg darf nach der veröffentlichten Anforderung höchstens 60 Tage alt sein. Deutsche Unterlagen benötigen eine amtliche Übersetzung, weil SERMIG Dokumente außerhalb von Spanisch oder Englisch mit offizieller Übersetzung verlangt.</p><p>Ausländische Urkunden werden entsprechend der Vorgabe apostilliert oder legalisiert. Für Immobilienerträge gehört neben dem Eigentum der Zahlungszusammenhang aus Mietvertrag und tatsächlichen Einnahmen in die Akte. <a href=\"https://serviciomigraciones.cl/residencia-temporal/subcategorias/jubilados-y-rentistas/\">SERMIG: vollständige Nachweis- und Übersetzungsvorgaben</a>.</p><p>Wir organisieren die Beschaffung so, dass zeitlich befristete Nachweise beim Einreichen noch verwendbar sind, und stimmen den Antrag mit eurer Anreise und Unterkunft ab. <a href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten lassen</a>.</p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Deinen Wohnsitz während Abwesenheiten erhalten",
+      "body": "<p>Eine chilenische Basis braucht laufende Aufmerksamkeit: Aufenthalts- und Ausweisfristen, Steuertermine, Versicherungen und Bankdaten bleiben aktuell. Für die Immobilie werden Gemeinschafts- und Versorgungsrechnungen bezahlt, Kontrollen durchgeführt und Schäden rechtzeitig bearbeitet. Im Süden gehören Heizung und Feuchtigkeit dazu, an gefährdeten Standorten auch die Vorbereitung auf örtliche Naturereignisse.</p><p>Vor deiner Rückkehr werden Schlüsselzugang, Funktionsfähigkeit der Wohnung und Transport abgestimmt. Die <a href=\"/de/leistungen/vorbereitung-betreuen/\">Betreuung deiner Vorbereitung</a> kann diese Aufgaben übernehmen und dir den Stand der erledigten Arbeit berichten. Gerade bei längerer Abwesenheit bleiben damit Wohnraum und Aufenthaltsplan miteinander verbunden.</p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Chile vom Vorhaben zum nutzbaren Zuhause machen",
+      "body": "<p>EXOBASIS führt die beauftragten Teile deiner Vorbereitung aus: Standortvergleich, Dokumentenorganisation, Abstimmung der Fachausführung, Wohnungssuche, Kaufkoordination, Übergabe und laufende Betreuung. Du kannst einen einzelnen Baustein beauftragen oder die Vorbereitung als zusammenhängendes Vorhaben organisieren lassen.</p><p>Wenn du zwischen <a href=\"/de/laender/argentinien/\">Argentinien</a>, <a href=\"/de/laender/paraguay/\">Paraguay</a> und Chile schwankst, vergleichen wir die Länder anhand eures Aufenthaltswegs, Einkommens und Familienalltags. Aus dieser <a href=\"/de/leistungen/laender-standortauswahl/\">Länder- und Standortauswahl</a> entsteht ein begründeter nächster Schritt.</p><p><strong>Argentinien</strong> verlangt beim Rentista fortlaufend belegte Erträge aus eigenem Auslandsvermögen; beim Pensionado zählt die regelmäßige Rente für frühere Arbeit. Wir prüfen, welche Herkunft und Nachweiskette euer Einkommen tatsächlich hat. Anders als beim chilenischen Auslandsantrag beginnt der argentinische RaDEX-Antrag vor Ort. Auch dort steht zunächst ein temporärer Titel; der spätere Daueraufenthalt hat seine eigenen Voraussetzungen.</p><p><strong>Paraguay</strong> ist eine Binnenlandoption mit einem eigenen Aufenthaltsaufbau: Im regulären Weg steht die persönlich vor Ort beantragte Residencia Temporal vor dem späteren Wechsel zur Residencia Permanente. Ob diese Alternative eure Familie trägt, entscheiden wir am konkreten Wohnort: Ist die benötigte Behandlung erreichbar, welche Schule kommt infrage, welche Unterkunft könnt ihr nutzen und wie gelangt ihr dorthin? Diese Versorgung wird der chilenischen Standortoption gegenübergestellt.</p><p><a href=\"/de/anfrage/\">Vorbereitung für Chile anfragen</a>. Nenne die mitreisenden Personen, eure Einkommensgrundlage, den gewünschten Zeitrahmen und ob es zunächst um eine zweite Basis oder um den dauerhaften Umzug geht. Bei unklarer Zuordnung steht dir eine kostenlose 20-Minuten-Orientierung offen.</p><p>Für ein anderes oder noch offenes Anliegen: <a href=\"/de/anfrage/#kontaktbeginn\">Diskrete Anfrage</a>.</p>"
+    }
+  ],
+  "faq": {
+    "question": "Kann ich als Tourist nach Chile kommen und dort meinen dauerhaften Umzug beantragen?",
+    "answer": "Der längerfristige Aufenthaltsantrag wird grundsätzlich aus dem Ausland gestellt. Für einen Antrag innerhalb Chiles bestehen gesetzliche Ausnahmen, etwa bestimmte Familienbeziehungen. Wer dauerhaft bleiben möchte, plant deshalb die passende Residencia Temporal vor der Übersiedlung und verbindet sie mit der späteren Daueraufenthaltsperspektive."
+  },
+  "editorialSources": [
+    "cl"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 928,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 930,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 931,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 932,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 933,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 934,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 935,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 936,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 937,
+      "target": "/en/countries/chile/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1440,
+      "target": "/de/laender/argentinien/",
+      "label": "Argentinien als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1442,
+      "target": "/de/laender/paraguay/",
+      "label": "Paraguay als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Auswandern nach Chile: Aufenthalt und ein Zuhause für deine Familie"
+}

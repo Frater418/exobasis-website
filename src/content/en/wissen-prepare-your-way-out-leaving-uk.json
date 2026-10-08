@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+  "lang": "en",
+  "title": "Leaving the UK with a prepared alternative",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-80a7afa6a5cece"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-f814f18f26cbc3"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-770b74d19817c3"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Leaving the UK: prepare your family and finances | EXOBASIS",
+  "description": "Plan your UK departure around immigration status, HMRC, banking, family permissions and a usable home abroad, whether leaving permanently or keeping a return option.",
+  "intro": "<p>If you are thinking about leaving the UK because of war, political pressure or the fear that your family could lose its freedom to act, start preparing the alternative now. The useful question is what you can put in place before a hurried decision becomes necessary.</p><p>Leaving the UK permanently, keeping a second base abroad and making a temporary move are different plans. Each needs a departure process that fits your household, a destination you can legally use and arrangements for the responsibilities that remain in Britain.</p>",
+  "primary": {
+    "label": "Ask us to prepare your UK departure",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "Leave with the next part of your life prepared.",
+    "facts": [
+      [
+        "Personal status",
+        "Citizenship, immigration permission and service obligations"
+      ],
+      [
+        "Continuing responsibilities",
+        "HMRC, bank service, property and business"
+      ],
+      [
+        "Your destination",
+        "Rights, a usable home and support for the family"
+      ]
+    ],
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Map and compass, symbolising personal preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Start with the people and obligations in your household",
+      "body": "<p>Record where each family member lives, their citizenships, immigration permission, work, schooling and care needs. British residence is not British citizenship. One person may be able to return freely while another depends on an immigration status affected by time abroad.</p><p>Choose the intended use of your overseas base: an option held ready, a temporary refuge or a permanent move. Keep a record of the home, work and family ties you expect to retain in the UK. They matter to housing, tax, banking and the ability to return.</p><h3>UK conscription fears and existing service obligations</h3><p><strong>Position checked on 5 October 2026:</strong> Parliament's <a href=\"https://bills.parliament.uk/bills/4065/stages\">Armed Forces Bill stages</a> showed Lords committee stage from 2 September and a provisional report stage on 20 October. The <a href=\"https://www.gov.uk/government/collections/armed-forces-bill-2026\">Ministry of Defence overview</a> describes proposals concerning reserves and recall, including recall for warlike operations. A Bill undergoing scrutiny is not a commenced civilian call-up requirement.</p><p>If you serve, belong to a reserve force or have a former-service recall liability, establish your actual obligations with the relevant service before planning dates. An overseas address does not itself release you from those obligations. A civilian family should keep military headlines separate from the immigration, family and travel rules that actually govern its journey.</p><p>For a civilian family, the next decision is <a href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">where you could actually go if war disrupts your plans</a>. Establish an option the whole household can use, then put the triggers, responsibilities and remaining work into a <a href=\"/en/services/departure-contingency-plan/\">personal departure and contingency plan</a>.</p>",
+      "after": "<div class=\"exb-origin-alternatives\"><h3>A different current country of residence</h3><p>If your present home is elsewhere, use the relevant departure guide. The German, Austrian and Swiss guides are in German.</p><div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\"><span>Aus Deutschland einen Ausweg vorbereiten (Deutsch)</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-oesterreich/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-oesterreich/\"><span>Aus Österreich einen Ausweg vorbereiten (Deutsch)</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-schweiz/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-schweiz/\"><span>Wegzug aus der Schweiz vorbereiten (Deutsch)</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\" data-route=\"/en/knowledge/prepare-your-way-out/leaving-uae/\"><span>Leaving the UAE or preparing a second option</span><span aria-hidden=\"true\">→</span></a></div></div>"
+    },
+    {
+      "id": "section-2",
+      "title": "Protect the right to travel and the option to return",
+      "body": "<p>For each traveller, match the passport used for the journey to the destination's entry conditions and any transit requirements. British citizenship, a UK visa and a right to live in another country are separate bases of entitlement.</p><p>If you use a UK eVisa, check that your UKVI account shows the correct status and current travel document, and that the passenger details match. GOV.UK says incorrect details can prevent boarding or delay you at the border. Its <a href=\"https://www.gov.uk/evisa/travel-with-evisa\">eVisa travel guidance</a> provides account recovery and explains additional travel proof, including a share code valid for 90 days.</p><p>Before a long absence, establish the absence conditions for the particular immigration permission you hold and any effect on a future settlement or citizenship application. Keep that deadline with your departure plan. A second home overseas is much more useful when you understand both entry there and return here.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Tell HMRC and keep your money and business working",
+      "body": "<h3>Use the HMRC route that fits your tax affairs</h3><p>HMRC requires notification when you leave to live abroad permanently, go abroad to work full-time for at least a full tax year, or leave as a foreign national. If you do not usually complete Self Assessment, the normal route is P85. If you do, report through the residence pages, SA109, using an appropriate paper return, commercial software or your adviser. HMRC's own online service cannot submit those departure details. Full-time work abroad for a UK employer for at least a full tax year can require P85 as well as Self Assessment and SA109. See <a href=\"https://www.gov.uk/tax-right-retire-abroad-return-to-uk\">HMRC's departure instructions</a>.</p><p>Notification does not determine your tax residence by itself. Keep your dates, working pattern and continuing UK ties. UK rent, a later return, company distributions and inheritance-tax exposure need their own analysis. The tax guide below explains the separate timelines, including the dividend change for returns from 6 April 2026.</p><h3>Will your bank serve your new address?</h3><p>Get confirmation for the legal bank entity, account and destination before relying on the account overseas. In its <a href=\"https://www.barclays.co.uk/important-information/living-outside-the-uk/\">published non-UK-residence guidance</a>, Barclays UK describes restrictions and specific exceptions, and explicitly rejects using a friend's or relative's address in place of where you live. Another group entity or product can have different rules.</p><p>Arrange an eligible receiving account, move incoming payments and essential bills, retain statements and test access before a closure deadline. A residence-policy closure and an account freeze need different responses. <a href=\"/en/knowledge/assets-and-access/banking-payments/\">Banking and payments abroad</a> connects the complaint or legal route with continuity; <a href=\"/en/services/banking-liquidity/\">banking and liquidity preparation</a> is the corresponding implementation work.</p><p>For a business, assign responsibility for contracts, payroll, filings and bank approvals while you travel. Confirm the consequences of managing or working for it from the destination rather than assuming the company moves with its owner.</p><h3>Close the other UK administration gaps</h3><p>Give your local council a forwarding address and settle the Council Tax position for the home you leave or retain. If you receive benefits, tell the office paying them and confirm whether payments can continue abroad. For State Pension questions, contact the International Pension Centre about your move and payment arrangements. If you have a student loan, update the Student Loans Company so repayments reflect your overseas circumstances. <a href=\"https://www.gov.uk/moving-or-retiring-abroad\">GOV.UK lists the offices to contact when moving or retiring abroad</a>.</p><p>National Insurance needs a separate check: establish how your existing record and work abroad affect your position, and whether paying while abroad is available and useful for a future State Pension or return. <a href=\"https://www.gov.uk/tax-right-retire-abroad-return-to-uk\">HMRC’s departure guidance</a> explains that contributions already paid are not refunded simply because you leave permanently. The answer for you depends on your circumstances and any applicable social security agreement.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/business-and-income/departure-tax/\" data-route=\"/en/knowledge/business-and-income/departure-tax/\"><span>Departure, tax and business obligations</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/overseas-company/\" data-route=\"/en/services/overseas-company/\"><span>Arrange an overseas company and ongoing administration</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-4",
+      "title": "Make the departure work for children and dependent relatives",
+      "body": "<p>Children need their own travel documents, the relevant parental consent or court permission and a realistic school transition. Permission for a short trip is not permission to relocate permanently. The family guide below separates the England/Wales example from UAE arrangements and other UK jurisdictions.</p><p>For a relative who needs treatment, organise the receiving care, lawful medication supply and assistance throughout the journey. If someone stays behind, agree who visits, pays for care and responds if their condition changes. Keep those contacts and authorities in the <a href=\"/en/knowledge/residence-and-documents/emergency-documents/\">family emergency document set</a>.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/family-life-abroad/children-family/\" data-route=\"/en/knowledge/family-life-abroad/children-family/\"><span>Prepare to move abroad with children and family</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/residence-documents/\" data-route=\"/en/services/residence-documents/\"><span>Arrange residence and document preparation</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-5",
+      "title": "Have somewhere usable to arrive",
+      "body": "<p>Choose a destination against the family's rights, health, school and income needs, then choose the location and home. A short-term furnished rental can make the first arrival workable while you establish a longer tenancy or complete a purchase. Check who can receive you, how you collect keys and whether the home is suitable for any mobility or treatment needs.</p><p>If you want to buy, define the location and requirements before viewing. Commission an independent review of title, debts or restrictions affecting the property, purchase rights and the contract, then coordinate funds, completion and handover. The <a href=\"https://www.gov.uk/guidance/guidance-for-buying-property-abroad\">FCDO guide to buying property abroad</a> explains why independent legal advice matters. Purchase rights and residence rights need separate confirmation.</p><p>Keep the UK home in the plan too: tenancy or mortgage commitments, the insurer's vacancy conditions, maintenance, post and an authorised contact. Budget for overlap between two homes. A return option is a maintained arrangement, not simply an unsold property.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/residence-and-documents/rights-citizenship/\" data-route=\"/en/knowledge/residence-and-documents/rights-citizenship/\"><span>Residence, existing rights and second citizenship</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/countries/\" data-route=\"/en/countries/\"><span>Countries and options</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-6",
+      "title": "Give the work a sequence and an owner",
+      "body": "<p>EXOBASIS can prepare your UK departure as one connected assignment: establish the household's options, organise specialist tax or service-status questions, arrange documents and the destination, prepare money and communications, and coordinate the agreed implementation.</p><p>You receive a clear sequence with responsibilities and the conditions that must be met before each commitment. Ask for the whole departure plan or the specific work holding you back. Start with where you live, who needs to be covered and whether the base is for a permanent move or a prepared alternative.</p><p>Not sure which work to commission first? You can request an optional, free 20-minute orientation through the <a href=\"/en/enquiry/\">private enquiry</a>. If the task is already clear, enquire about it directly; the call is not a prerequisite.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/departure-contingency-plan/\" data-route=\"/en/services/departure-contingency-plan/\"><span>Personal departure and contingency plan</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Your present base, nationality and family circumstances"
+      },
+      {
+        "id": "section-2",
+        "title": "Keep UK residence status and nationality separate"
+      },
+      {
+        "id": "section-3",
+        "title": "Prepare HMRC, business and ongoing responsibilities"
+      },
+      {
+        "id": "section-4",
+        "title": "Establish rights and practical support for your family"
+      },
+      {
+        "id": "section-5",
+        "title": "Prepare destination rights, arrival and return options"
+      },
+      {
+        "id": "section-6",
+        "title": "Turn your departure into a coordinated plan"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 1420,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+        "label": "Aus Deutschland einen Ausweg vorbereiten (Deutsch)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      },
+      {
+        "line": 1421,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+        "label": "Aus Österreich einen Ausweg vorbereiten (Deutsch)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      },
+      {
+        "line": 1422,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+        "label": "Wegzug aus der Schweiz vorbereiten (Deutsch)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      },
+      {
+        "line": 1423,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+        "label": "Leaving the UAE or preparing a second option",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      },
+      {
+        "line": 433,
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "label": "Departure, tax and business obligations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#section-3"
+      },
+      {
+        "line": 436,
+        "target": "/en/services/overseas-company/",
+        "label": "Arrange an overseas company and ongoing administration",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#section-3"
+      },
+      {
+        "line": 435,
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "label": "Prepare to move abroad with children and family",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#section-4"
+      },
+      {
+        "line": 438,
+        "target": "/en/services/residence-documents/",
+        "label": "Arrange residence and document preparation",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#section-4"
+      },
+      {
+        "line": 434,
+        "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+        "label": "Residence, existing rights and second citizenship",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#section-5"
+      },
+      {
+        "line": 439,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-5"
+      },
+      {
+        "line": 437,
+        "target": "/en/services/departure-contingency-plan/",
+        "label": "Personal departure and contingency plan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#section-6"
+      },
+      {
+        "line": 440,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-6"
+      }
+    ],
+    "seeding": [
+      "EN02",
+      "EN03",
+      "EN04",
+      "EN05"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "departureContext": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+  "displayTitle": "Leaving the UK with a prepared place to go"
+}

@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/prepare-your-way-out/",
+  "lang": "en",
+  "title": "Prepare your way out",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-7f069bcde54445"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-3cf35cab33b542"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-770b74d19817c3"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Plan B abroad: a practical family emergency plan | EXOBASIS",
+  "description": "Prepare a usable way out: residence rights, money, family permissions, travel, a home abroad and clear decisions when conditions change.",
+  "intro": "<p>You may be preparing because you fear war, political repression, conscription or losing control of what you have built. You do not have to wait for certainty about the future to give your family another place to go.</p><p>A useful family emergency plan connects the whole move: the right to leave and enter, a route you can use, money you can reach and somewhere ready to receive you. It also explains what happens if departure is delayed. That is how a Plan B abroad becomes a choice you can actually make.</p>",
+  "primary": {
+    "label": "Ask us to prepare your Plan B",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "A place to go. A way to get there. A family ready to use it.",
+    "facts": [
+      [
+        "Decisions",
+        "Agreed triggers for preparing, leaving or holding"
+      ],
+      [
+        "Readiness",
+        "Rights, funds, people and a receiving home"
+      ],
+      [
+        "Continuity",
+        "Support during departure and during delay"
+      ]
+    ],
+    "image": "einstieg-ausweg.webp",
+    "imageAlt": "Landscape symbolising an alternative base abroad."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Build the alternative while you still have choices",
+      "body": "<p>Decide first what the overseas base is for. A temporary refuge with a return option needs different schooling, housing and tax arrangements from a permanent family move. A second residence kept ready for occasional use has its own renewal, property-care and running costs.</p><p>Choose the people covered and the period the base must support them. Then work backwards from the hardest dependency: a child's travel permission, a residence application, regular treatment or the income that pays for the household. Those tasks determine the sequence more usefully than a list of attractive countries.</p><p>Begin with a realistic landing arrangement. A furnished short-term home can bridge the first weeks while a longer tenancy or purchase is completed. If buying is part of the plan, commission a location brief, property search and viewings, an independent title and contract review, completion coordination and a managed handover. Keep enough accessible money for the family while capital is tied up in the purchase. <a href=\"/en/services/arrange-arrival/\">Arrival and setup work</a> connects the property to utilities, keys and an actual receiving person.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Decide in advance what would make you prepare, leave or hold",
+      "body": "<p>A trigger is an observable change linked to a decision. It might be a significant change in official travel advice, a carrier reducing the family's route, a treatment supply running short or a new legal obligation affecting a household member. Agree who verifies the information, who decides and who takes over if that person cannot be reached.</p><ul><li><strong>Prepare:</strong> bring documents and balances up to date, reconfirm accommodation and review the remaining lead times.</li><li><strong>Leave:</strong> proceed when the chosen trigger is met and the rights, route, medical arrangements, funds and reception still work together.</li><li><strong>Hold or change route:</strong> if one of those conditions fails, use the agreed place to stay and support arrangements while the next lawful option is established.</li></ul><p>If flights from the UAE stop, a road journey is a new route with its own border, transit, vehicle and passenger requirements. Treat it as a complete journey to confirm, not a shortcut inferred from a map. The <a href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\">UAE departure guide</a> addresses the origin-country checks. For any overseas crisis, use <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">FCDO crisis guidance</a>, local instructions and the relevant carrier's current information.</p><div class=\"exb-criteria-table\" role=\"region\" tabindex=\"0\" aria-labelledby=\"scenario-comparison\"><table><caption id=\"scenario-comparison\">Match the decision to the situation</caption><thead><tr><th scope=\"col\">Situation</th><th scope=\"col\">What prompts a decision</th><th scope=\"col\">What needs to be ready</th><th scope=\"col\">What to confirm again</th></tr></thead><tbody><tr><th scope=\"row\">Planned relocation</th><td>Your agreed moving date approaches, or you decide to use the overseas base. Sequence the handovers and travel around that decision.</td><td>Permission for each person, usable documents, a funded household and accommodation, schooling or treatment ready for the arrival date.</td><td>Check document validity, travel bookings and the receiving arrangements before ending support at your current home.</td></tr><tr><th scope=\"row\">Regional escalation</th><td>Verified warnings, a new personal legal obligation or reduced transport options change the plan. Review whether to leave earlier or use an assessed alternative.</td><td>Lawful departure, transit and entry for everyone, accessible funds, family contact and a receiving base outside the affected area.</td><td>Confirm the complete route and carrier acceptance, not just an available ticket. If a necessary condition fails, use the prepared safe place to stay.</td></tr><tr><th scope=\"row\">Supply or transport disruption</th><td>A cancelled connection, treatment shortage or loss of essential local services makes the current arrangement unworkable. Secure immediate support before choosing onward travel or a delay.</td><td>Enough support to bridge the interruption, suitable accommodation, independent payment and contact channels, and alternatives for transport or treatment.</td><td>Verify actual supplies, the replacement journey and the receiving person. Rebooking requires fresh checks for each traveller, medication, equipment and transit point.</td></tr></tbody></table></div>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\" data-route=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\"><span>Where could your family go if war disrupts your plans?</span><span aria-hidden=\"true\">→</span></a></div>",
+      "illustration": {
+        "title": "When a flight route becomes unavailable",
+        "note": "Use the sequence with current information for your journey.",
+        "steps": [
+          [
+            "Confirm",
+            "Check the carrier notice and relevant official advice."
+          ],
+          [
+            "Decide",
+            "The named decision-maker reviews the family impact."
+          ],
+          [
+            "Recheck",
+            "Confirm each traveller, transit right, medical need and receiving arrangement."
+          ],
+          [
+            "Act or hold",
+            "Use the confirmed alternative or the prepared place to stay."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-3",
+      "title": "Check what is ready, not just what you have researched",
+      "body": "<p>A residence route you have read about is different from permission held by every person travelling. A bank account is useful only if it serves your new residence and you can approve a payment. A home is ready when you can enter it and live there, including arriving late or without your usual phone.</p><p>For each essential arrangement, keep the confirmation, responsible person and next review date together. Test modest tasks in advance: reach the secondary contact, locate the child's permission, make an authorised small payment through the alternative channel and confirm who can let you into the property.</p><p>Use the readiness descriptions below to find the unfinished work. Prioritise anything that would stop the whole household rather than polishing items that already work.</p>",
+      "criteria": {
+        "title": "How ready is each arrangement?",
+        "headers": [
+          "Stage",
+          "What you have",
+          "What comes next"
+        ],
+        "rows": [
+          [
+            "Identified",
+            "A possible route or provider",
+            "Confirm requirements and fit."
+          ],
+          [
+            "Assessed",
+            "A route that fits the household on paper",
+            "Obtain the permission, contract or appointment."
+          ],
+          [
+            "Established",
+            "The necessary arrangement is in place",
+            "Try the permitted task."
+          ],
+          [
+            "Tested",
+            "A defined task has worked",
+            "Record the result and the next review date."
+          ],
+          [
+            "Currently usable",
+            "The conditions still fit your intended use",
+            "Reconfirm before activation."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-4",
+      "title": "Plan departure, transit and the first days together",
+      "body": "<p>Your moving abroad checklist should follow the journey. Before departure, settle travel documents, child permissions, essential prescriptions and the funds needed to move. For transit, establish entry requirements even if the stay is short, the treatment of medication and pets, and what happens after a missed connection.</p><p>At arrival, someone needs to handle access to the home, local transport, a working phone connection, food and the first necessary appointment. For a family with care needs, the receiving clinician or carer must be ready when the existing support ends.</p><p>Work out the cost of the whole sequence: travel and rebooking, temporary accommodation, deposits, insurance, school entry, professional work and continuing costs at home. Separate money available immediately from assets that need a sale or approval before release. The <a href=\"/en/knowledge/assets-and-access/\">assets and access guide</a> explains that distinction.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/countries/\" data-route=\"/en/countries/\"><span>Countries and options</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-5",
+      "title": "Keep the preparation usable, then activate the agreed work",
+      "body": "<p>Preparations age. A passport expires, a bank changes its residence policy, a landlord ends a lease or a named helper moves away. Review on those changes and at an agreed interval, with one person responsible for closing each gap.</p><p>When you activate the plan, reconfirm the live conditions and then assign the actual jobs: travel coordination, receiving arrangements, document support, family contact or work left behind. Agree the contact channels, hours and responsibilities in advance so you know whom to reach and what they will do.</p><p>EXOBASIS can maintain the preparation and coordinate the activation you commission. Specialist transport or security work requires its own confirmed operator and terms at the point it is needed.</p><p>Name the person who confirms activation and the spending they may approve. Before work starts, verify the identity of anyone acting or authorising the task and check that their power of attorney or other authority covers that specific action. Where the relevant bank, authority or commissioned provider requires evidence, it must be accepted for that transaction before you proceed. Reconfirm family consent, the receiving arrangements and the provider's accepted work before committing funds. If those conditions have changed, agree the revised task and cost first.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/maintain-preparations/\" data-route=\"/en/services/maintain-preparations/\"><span>Review and maintain your preparations</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/activation-emergency-coordination/\" data-route=\"/en/services/activation-emergency-coordination/\"><span>Agreed activation and emergency coordination</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-6",
+      "title": "Start from the country where you actually live",
+      "body": "<p>Your current country determines many departure tasks; your citizenship determines other rights and obligations. A British citizen living in Dubai, a non-British resident leaving London and a dual-national family may need different documents and return arrangements.</p><p>Use the UK or UAE origin guide for the relevant starting point, then pair it with the destination's requirements. If family members are leaving from different countries, give each journey its own documents, timing and meeting arrangement.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uk/\" data-route=\"/en/knowledge/prepare-your-way-out/leaving-uk/\"><span>Leaving the UK with a prepared alternative</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\" data-route=\"/en/knowledge/prepare-your-way-out/leaving-uae/\"><span>Leaving the UAE or preparing a second option</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-7",
+      "title": "Have the plan prepared and the work carried out",
+      "body": "<p>EXOBASIS turns your household's situation into a personal departure and contingency plan: workable options, decisions, responsibilities and a sequence for the preparation. You can then commission the implementation that makes it usable, including residence documents, banking access, a home abroad, family arrangements and independent communications.</p><p>If the task is already clear, ask for it directly. If you need help deciding where to begin, use the free 20-minute orientation available through your private enquiry. Tell us what you want to protect, where you are based and the dependency that concerns you most.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/departure-contingency-plan/\" data-route=\"/en/services/departure-contingency-plan/\"><span>Personal departure and contingency plan</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Build your options before you need them"
+      },
+      {
+        "id": "section-2",
+        "title": "Which situation calls for which action?"
+      },
+      {
+        "id": "section-3",
+        "title": "What is genuinely ready?"
+      },
+      {
+        "id": "section-4",
+        "title": "Plan departure, transit and arrival together"
+      },
+      {
+        "id": "section-5",
+        "title": "Maintain preparations and activate an agreed plan"
+      },
+      {
+        "id": "section-6",
+        "title": "Start with your present country of residence"
+      },
+      {
+        "id": "section-7",
+        "title": "Turn your preparations into an actionable plan"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 58,
+        "target": "/en/knowledge/prepare-your-way-out/where-to-go-if-war/",
+        "label": "Where could your family go if war disrupts your plans?",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krieg und rechtzeitige Ausreise",
+        "position": "#section-2"
+      },
+      {
+        "line": 64,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-4"
+      },
+      {
+        "line": 62,
+        "target": "/en/services/maintain-preparations/",
+        "label": "Review and maintain your preparations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Voraussetzungen aktuell halten",
+        "position": "#section-5"
+      },
+      {
+        "line": 63,
+        "target": "/en/services/activation-emergency-coordination/",
+        "label": "Agreed activation and emergency coordination",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vereinbarten Fall aktivieren",
+        "position": "#section-5"
+      },
+      {
+        "line": 59,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+        "label": "Leaving the UK with a prepared alternative",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#section-6"
+      },
+      {
+        "line": 60,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+        "label": "Leaving the UAE or preparing a second option",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#section-6"
+      },
+      {
+        "line": 61,
+        "target": "/en/services/departure-contingency-plan/",
+        "label": "Personal departure and contingency plan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#section-7"
+      },
+      {
+        "line": 65,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      }
+    ],
+    "seeding": [
+      "EN10",
+      "EN11",
+      "EN13"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Prepare a Plan B abroad for your family"
+}

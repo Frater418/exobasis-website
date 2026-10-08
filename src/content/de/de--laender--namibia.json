@@ -1,0 +1,359 @@
+{
+  "route": "/de/laender/namibia/",
+  "lang": "de",
+  "title": "Namibia als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/namibia/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-d8cd232cfbafbe",
+      "startLine": 9672
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-1f2227817a8513",
+      "startLine": 12323
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern nach Namibia: Aufenthalt und Wohnen | EXOBASIS",
+  "description": "Namibia als zweite Basis oder neues Zuhause: Visa, Ruhestand, Familie, Miete, Immobilien- und Farmkauf, Geldzugang und Versorgung konkret vorbereiten.",
+  "intro": "<p>Namibia schafft geografischen Abstand zu Europa und bietet konkrete Anknüpfungspunkte für eine neue Familienbasis, etwa in Windhoek und Swakopmund. Wenn du wegen Kriegssorge oder politischem Druck rechtzeitig einen anderen Lebensort vorbereiten willst, kommt es hier besonders auf die Verbindung von Aufenthaltsrecht, erreichbarer Versorgung und betreuter Unterkunft an.</p><p>Ob du nach Namibia auswandern, den Ruhestand dort verbringen oder zunächst einige Monate bleiben möchtest: EXOBASIS organisiert die passenden Vorarbeiten, die Wohnungs- oder Immobiliensuche und die örtliche Fachausführung. So wird aus einer Länderidee ein nutzbarer Ort für dich und deine Familie.</p>",
+  "countryContext": "/de/laender/namibia/",
+  "linkPlan": [
+    {
+      "sourceLine": 1288,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1290,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1291,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1292,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1293,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1294,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1295,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1296,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1297,
+      "target": "/en/countries/namibia/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1512,
+      "target": "/de/laender/suedafrika/",
+      "label": "Südafrika als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1514,
+      "target": "/de/laender/mauritius/",
+      "label": "Mauritius als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "FACT SHEET",
+      "url": "https://www.namibia-botschaft.de/wp-content/uploads/2025/03/FactSheetVisaRequirementstoNamibia-1.pdf",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "New VISA Requirements 1 April 2025 - missionofnamibia.ch",
+      "url": "https://missionofnamibia.ch/index.php?id=31&Itemid=376&option=com_content&view=article",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "All Permits General Information - MHAISS - Portal Ariel",
+      "url": "https://mha.gov.na/all-permits-general-information",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Application for Permanent Residence",
+      "url": "https://www.namibia-botschaft.de/application-for-permanent-residence-2/",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Namibia Digital Nomad Visa",
+      "url": "https://www.nipdb.com/digital-nomad-visa",
+      "section": 4,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Namibische Verfassung: Artikel 16, Eigentum",
+      "url": "https://mawlr.gov.na/documents/268157/1044711/Namibia_Constitution+latest+ed.pdf/b75f3931-0738-60ff-754a-0cf5f31ff248?download=true",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Agricultural (Commercial) Land Reform Act: §§ 1, 17 und 58",
+      "url": "https://www.lac.org.na/laws/annoSTAT/Agricultural%20(Commercial)%20Land%20Reform%20Act%206%20of%201995.pdf",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Directorate Deeds Registration - MAFWLR - Portal Ariel",
+      "url": "https://mawf.gov.na/directorate-deeds-registration",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "The Expat's Guide to Buying Property in Namibia",
+      "url": "https://www.ibn.co.za/blog-and-news/expat-buying-property-namibia/",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "What to include in a lease agreement - The Brief | Namibia's Leading Business & Financial News",
+      "url": "https://thebrief.com.na/2023/02/what-to-include-in-a-lease-agreement/",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Namibisches Gesetzblatt: Transfer Duty Amendment Act 6 of 2024",
+      "url": "https://mfpe.gov.na/documents/76368/3405432/%238444+-+Gov+N266+Transfer+Duty+Amendment+Act+%28Act+_240917_084847.pdf/18c19fa9-fbc4-1756-f1be-cf9323d18183?t=1728304576040",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Namibia: Reise- und Sicherheitshinweise - Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/service/laender/namibia-node/namibiasicherheit-208314",
+      "section": 2,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "DHPS Windhoek: Deutsches Internationales Abitur und Cambridge",
+      "url": "https://www.dhps-windhoek.de/de/page/sekundarstufe-ii-diap",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Application for Study Permit | Embassy Of Namibia Berlin Germany",
+      "url": "https://www.namibia-botschaft.de/application-for-study-permit/",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Emergency - Mediclinic Windhoek",
+      "url": "https://www.mediclinic.co.za/en/windhoek/emergency.html",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Service Offerings - Mediclinic Swakopmund",
+      "url": "https://www.mediclinic.co.za/en/swakopmund/service-offering.html",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Exchange Control",
+      "url": "https://www.bon.com.na/Informations/FAQ/Exchange-Control.aspx",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Bank Windhoek: Allgemeine Geschäftsbedingungen, 31. Juli 2026",
+      "url": "https://www.bankwindhoek.com.na/Terms%20and%20Conditions/Part%20C%20-%20General%20Terms%20and%20Conditions.pdf",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "NamRA: Income Tax Act 24 of 1981, Einkommensdefinition",
+      "url": "https://www.namra.org.na/documents/cms/uploaded/income-tax-act-24-of-1981-debf9c72ad.pdf",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "NIPDB: Fragen zur Investition und Unternehmensregistrierung",
+      "url": "https://www.nipdb.com/_files/ugd/77942a_c736a4a8741d47fa86ae05e3f2eacde0.pdf",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Vorbereitung für Namibia anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "country": {
+    "name": "Namibia",
+    "slug": "namibia",
+    "region": "Afrika und Indischer Ozean",
+    "map": "countries/namibia-locator.svg",
+    "imageAlt": "Lage Namibias im südlichen Afrika an der Atlantikküste",
+    "caption": "Namibia im südlichen Afrika",
+    "summary": [
+      [
+        "Aufenthaltsweg zuerst",
+        "Besuch, Remote-Arbeit, örtliche Tätigkeit und Ruhestand benötigen unterschiedliche Grundlagen."
+      ],
+      [
+        "Windhoek oder Küste",
+        "Schule, medizinische Leistungen und Anreise entscheiden über den geeigneten Wohnort."
+      ],
+      [
+        "Stadthaus oder Farm",
+        "Erwerbsrechte, unabhängige Titelprüfung und laufender Betrieb unterscheiden sich erheblich."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Welche Art von Basis möchtest du aufbauen?",
+      "body": "<p>Eine Wohnung für zeitweilige Aufenthalte kann dir die Entscheidung erleichtern: Du lernst Wege, Versorgung und Alltag kennen, bevor du deinen Lebensmittelpunkt verlegst. Für dauerhaftes Auswandern müssen dagegen der Aufenthaltsweg jedes Familienmitglieds, das laufende Einkommen und Schule beziehungsweise Pflege zusammenpassen. Ein Haus bindet Kapital; für einen noch ungeklärten Lebensplan ist ein gut organisierter Mietaufenthalt oft der bessere erste Schritt.</p><p>Namibia wird in Erfahrungsberichten häufig über Landschaft, Weite und deutschsprachige Kontakte beschrieben. Für deine Vorbereitung sind die Einzelheiten entscheidend: Wie weit ist der benötigte Arzt entfernt? Wer betreut das Haus? Welche Erlaubnis trägt deinen wirklichen Aufenthaltszweck? Daran messen wir mögliche Standorte und Objekte.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Abstand gewinnen und vor Ort handlungsfähig bleiben",
+      "body": "<p>Eine Basis im südlichen Afrika kann räumlichen Abstand zu einem Krieg in Europa schaffen. Plane dafür frühzeitig die Reise bis zum Haus: Flugverbindung, Transfer bei Tageslicht, erreichbare Schlüsselübergabe und eine Alternative bei einer Anschlussstörung. Wenn du erst bei Abreise nach Unterkunft und Hilfe suchst, verlierst du genau den zeitlichen Spielraum, den du aufbauen wolltest.</p><p>Die örtlichen Risiken sind konkret. Das Auswärtige Amt berichtet über Raub- und Eigentumsdelikte, auch in Windhoek und gegen Unterkünfte. Bei der Objektwahl zählen Zugangsschutz, beleuchtete Ankunft, ein verlässlicher Kontakt und die Umgebung. Lange Überlandfahrten, Schotterstraßen und Wildtiere erhöhen zudem das Unfallrisiko; Rettung kann in abgelegenen Gebieten Stunden benötigen.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.auswaertiges-amt.de/de/service/laender/namibia-node/namibiasicherheit-208314\" rel=\"noreferrer\">Namibia: Reise- und Sicherheitshinweise - Auswärtiges Amt</a></p><p>Auch Naturgefahren unterscheiden sich regional. Buschbrände können die Infrastruktur beeinträchtigen, im Norden können Überschwemmungen Straßen unterbrechen. Trockenflussbetten können sich in der Regenzeit rasch mit Wasser füllen. Eine allein gelegene Farm verlangt deshalb eine deutlich umfangreichere Betriebs- und Notfallvorbereitung als eine betreute Wohnung in einem Versorgungszentrum.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.auswaertiges-amt.de/de/service/laender/namibia-node/namibiasicherheit-208314\" rel=\"noreferrer\">Namibia: Reise- und Sicherheitshinweise - Auswärtiges Amt</a></p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Mit Kindern oder als Rentner nach Namibia auswandern",
+      "body": "<p>Für Familien mit Schulkindern ist Windhoek ein sinnvoller Ausgangspunkt der Standortsuche. Die Deutsche Höhere Privatschule bietet Wege zum Deutschen Internationalen Abitur und zu Cambridge-Abschlüssen. Ob der konkrete Jahrgang und Unterricht zu deinem Kind passen, klären wir mit der Schule, bevor sich die Familie auf eine Wohnung festlegt.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.dhps-windhoek.de/de/page/sekundarstufe-ii-diap\" rel=\"noreferrer\">DHPS Windhoek: Deutsches Internationales Abitur und Cambridge</a></p><p>Im Ruhestand stehen regelmäßige Behandlung, Alltagshilfe und ein gut erreichbares Umfeld oft vor der Grundstücksgröße. Plane mit deiner tatsächlichen Rente und frei verfügbarem Vermögen: Miete oder Unterhaltung, private Gesundheitskosten, Auto, Heimatreisen und Unterstützung im Haushalt. Eine passende Seniorenresidenz oder Pflegeleistung wird nach Bedarf, Aufnahmebedingungen und real verfügbarem Platz ausgewählt.</p><p>Die namibische Botschaft unterscheidet bei Daueraufenthaltsanträgen ausdrücklich zwischen Beschäftigten, Rentnern, Investoren und anderen Fällen. Ein tragfähiger Antrag beschreibt deine wirkliche Situation und belegt die Mittel, mit denen du deinen Aufenthalt finanzierst. Wir organisieren diese Vorarbeit und die örtliche fachliche Klärung, bevor langfristige Wohnverpflichtungen entstehen.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.namibia-botschaft.de/application-for-permanent-residence-2/\" rel=\"noreferrer\">Application for Permanent Residence</a></p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Ein halbes Jahr mit ausländischem Einkommen in Namibia",
+      "body": "<p>Wenn du für Unternehmen oder Kunden außerhalb Namibias arbeitest, kann das Digital Nomad Visa einen begrenzten Aufenthalt tragen. NIPDB nennt sechs Monate und monatliche Einkommensnachweise von mindestens 2.000 US-Dollar für den Antragsteller, zusätzlich 1.000 US-Dollar für den mitreisenden Ehepartner und 500 US-Dollar je mitreisendem Kind. Zum Antrag gehören unter anderem Arbeits- oder Einkommensnachweise, Kontoauszüge sowie gültige internationale Kranken- und Reiseversicherung.</p><p>Das Visum ist nach der aktuellen Programmbeschreibung nicht verlängerbar; ein erneuter Antrag ist erst zwölf Monate nach Ablauf möglich. Auch ein Wechsel der Bedingungen innerhalb dieses Visums ist ausgeschlossen. Es eignet sich daher für eine klar begrenzte Erprobung mit Remote-Arbeit. Für eine dauerhafte Familienbasis organisieren wir rechtzeitig den dafür vorgesehenen Aufenthaltsweg.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.nipdb.com/digital-nomad-visa\" rel=\"noreferrer\">Namibia Digital Nomad Visa</a></p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Visa und längerer Aufenthalt: die Voraussetzungen",
+      "body": "<h3>Zur Erkundung einreisen</h3><p>Für gewöhnliche deutsche, österreichische und Schweizer Reisepässe gilt seit 1. April 2025 die neue Visumpflicht. Du kannst das Visum vorab über das amtliche E-Services-Portal beantragen; Visa on Arrival werden außerdem an den dafür benannten Einreisestellen erteilt, unter anderem an den internationalen Flughäfen Hosea Kutako und Walvis Bay. Das amtliche Merkblatt verlangt einen ausreichend gültigen Pass mit freien Seiten, Unterkunfts- und Reiseangaben sowie Kranken- beziehungsweise Reiseversicherung. Für Kinder kommen Familien- und gegebenenfalls Zustimmungserklärungen hinzu.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.namibia-botschaft.de/wp-content/uploads/2025/03/FactSheetVisaRequirementstoNamibia-1.pdf\" rel=\"noreferrer\">FACT SHEET</a>; <a href=\"https://missionofnamibia.ch/index.php?id=31&amp;Itemid=376&amp;option=com_content&amp;view=article\" rel=\"noreferrer\">New VISA Requirements 1 April 2025 - missionofnamibia.ch</a></p><p>Die tatsächlich erteilte Aufenthaltsdauer wird bei Einreise kontrolliert und mit dem Reiseplan abgeglichen. Ein touristischer Aufenthalt trägt eine Erkundung; Beschäftigung, Studium und längerfristiges Leben werden mit dem entsprechenden Verfahren vorbereitet.</p><h3>Arbeiten oder dauerhaft bleiben</h3><p>Für ein Employment Permit liefert der Arbeitgeber unter anderem das Stellenangebot, Unternehmensunterlagen, den Nachweis der lokalen Stellenausschreibung und Informationen zu namibischen Bewerbern. Von dir werden unter anderem Pass, Qualifikation, medizinische Unterlagen und Führungszeugnisse verlangt. Eine regulierte Tätigkeit, etwa als Arzt, erfordert zusätzlich die einschlägige örtliche Registrierung.</p><p class=\"exb-citation\">Quellen: <a href=\"https://mha.gov.na/all-permits-general-information\" rel=\"noreferrer\">All Permits General Information - MHAISS - Portal Ariel</a></p><p>Für Permanent Residence nennt die Behörde neben Personen- und Familienunterlagen auch medizinische Berichte, Führungszeugnisse, Lebenslauf und Nachweise finanzieller Mittel. Der Antrag wird nach seiner jeweiligen Grundlage beurteilt. Bei einer Familie verbinden wir Beschäftigung, Ruhestand, abhängige Angehörige und Schulaufenthalt zu einem gemeinsamen Zeitplan, ohne die einzelnen Erlaubnisse miteinander zu verwechseln.</p><p class=\"exb-citation\">Quellen: <a href=\"https://mha.gov.na/all-permits-general-information\" rel=\"noreferrer\">All Permits General Information - MHAISS - Portal Ariel</a>; <a href=\"https://www.namibia-botschaft.de/application-for-permanent-residence-2/\" rel=\"noreferrer\">Application for Permanent Residence</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fnamibia%2F#kurzanfrage\">Vorbereitung für Namibia anfragen</a><p>Nenne uns dein Vorhaben und den gewünschten Zeitrahmen. Persönliche Unterlagen besprechen wir anschließend im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Windhoek, Swakopmund und der richtige Immobilienweg",
+      "body": "<h3>Städtische Basis oder Leben außerhalb?</h3><p>Windhoek ist besonders interessant, wenn die DHPS, Behördenwege und medizinische Anlaufstellen deinen Alltag bestimmen. Swakopmund ist eine Küstenalternative mit eigener privater Versorgung; Walvis Bay bietet einen weiteren internationalen Flughafen für die Region. Ob der Küstenstandort passt, hängt vor allem von der benötigten Behandlung, Schule und tatsächlichen Reiseverbindung ab. Mit regelmäßigem Facharztbedarf ist ein abgelegener Standort deutlich aufwendiger zu betreiben.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.namibia-botschaft.de/wp-content/uploads/2025/03/FactSheetVisaRequirementstoNamibia-1.pdf\" rel=\"noreferrer\">FACT SHEET</a>; <a href=\"https://www.dhps-windhoek.de/de/page/sekundarstufe-ii-diap\" rel=\"noreferrer\">DHPS Windhoek: Deutsches Internationales Abitur und Cambridge</a>; <a href=\"https://www.mediclinic.co.za/en/windhoek/emergency.html\" rel=\"noreferrer\">Emergency - Mediclinic Windhoek</a>; <a href=\"https://www.mediclinic.co.za/en/swakopmund/service-offering.html\" rel=\"noreferrer\">Service Offerings - Mediclinic Swakopmund</a></p><h3>Erst ankommen, dann langfristig mieten</h3><p>Eine möblierte Übergangsunterkunft gibt dir Zeit für Besichtigungen. Beim anschließenden Mietvertrag werden Laufzeit, Verlängerung, Kündigung, mögliche Mieterhöhungen, Kaution und Rückgabezustand schriftlich festgelegt. Die örtliche Fachkolumne in The Brief hebt außerdem Wasser- und Stromkosten, mögliche Versorgerkautionen, Instandhaltung und erlaubte Bewohnerzahl hervor. Halte bei Einzug Mängel, Inventar und Zählerstände fest. Wenn Haustiere mitkommen oder das Haus länger leer steht, gehören auch diese Nutzungen in die Vereinbarung.</p><p class=\"exb-citation\">Quellen: <a href=\"https://thebrief.com.na/2023/02/what-to-include-in-a-lease-agreement/\" rel=\"noreferrer\">What to include in a lease agreement - The Brief | Namibia&#x27;s Leading Business &amp; Financial News</a></p><h3>Als Ausländer ein Haus kaufen</h3><p>Städtisches Wohneigentum kann grundsätzlich auch von ausländischen Käufern erworben werden. Artikel 16 der Verfassung schützt Eigentum, lässt aber gesetzliche Erwerbsbeschränkungen für Nichtstaatsbürger zu. Deshalb werden das konkrete Grundstück und seine rechtliche Einordnung vor der Bindung geklärt. Für den Titel ist die Directorate of Deeds Registration zuständig. Der örtliche Conveyancer untersucht unter anderem Eigentümer, Belastungen, übertragbare Rechte und kommunale Abgaben; dazu kommt eine unabhängige Prüfung von Bauzustand und Nutzung.</p><p class=\"exb-citation\">Quellen: <a href=\"https://mawlr.gov.na/documents/268157/1044711/Namibia_Constitution+latest+ed.pdf/b75f3931-0738-60ff-754a-0cf5f31ff248?download=true\" rel=\"noreferrer\">Namibische Verfassung: Artikel 16, Eigentum</a>; <a href=\"https://mawf.gov.na/directorate-deeds-registration\" rel=\"noreferrer\">Directorate Deeds Registration - MAFWLR - Portal Ariel</a>; <a href=\"https://www.ibn.co.za/blog-and-news/expat-buying-property-namibia/\" rel=\"noreferrer\">The Expat&#x27;s Guide to Buying Property in Namibia</a></p><h3>Eine Farm kaufen: andere Rechte, anderer Betrieb</h3><p>Landwirtschaftliches Land ist rechtlich ein eigener Fall. § 58 des Agricultural (Commercial) Land Reform Act verlangt für den Erwerb durch ausländische Staatsangehörige grundsätzlich die vorherige schriftliche Zustimmung des Ministers. Auch langfristige Besitz- und Pachtvereinbarungen können darunterfallen. Hinzu kommt das staatliche Vorkaufsverfahren. Eine ausländisch kontrollierte Gesellschaft ist deshalb kein einfacher Umweg. Kommunale Stadtgrundstücke sind von der landwirtschaftlichen Definition des Gesetzes ausgenommen.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.lac.org.na/laws/annoSTAT/Agricultural%20(Commercial)%20Land%20Reform%20Act%206%20of%201995.pdf\" rel=\"noreferrer\">Agricultural (Commercial) Land Reform Act: §§ 1, 17 und 58</a></p><p>Vor einem Farmkauf müssen außerdem Wasserzugang, Energie, Zufahrt, Personal, Brandschutz und Versorgung im Notfall praktisch geklärt werden. Das ist ein eigener Betriebsauftrag. Für eine Familie, die nur einige Monate im Jahr vor Ort sein wird, kann eine betreute Stadtimmobilie erheblich besser zum tatsächlichen Bedarf passen.</p><h3>Immobiliensuche und Abschluss beauftragen</h3><p>EXOBASIS übernimmt den abgestimmten Suchauftrag, organisiert Besichtigungen und unabhängige örtliche Titel-, Vertrags- und Kaufprüfung, koordiniert Bedingungen, Abschluss und Übergabe und richtet die Betreuung ein. Zum Budget gehören neben dem Kaufpreis die Erwerbsabgabe, gegebenenfalls Stempelabgaben, Conveyancer, Register, bauliche Prüfung, Finanzierung und Versorgerkosten. Die <a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Organisation deiner Ankunft</a> verbindet den Kauf oder Mietvertrag mit einem tatsächlich beziehbaren Zuhause.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.ibn.co.za/blog-and-news/expat-buying-property-namibia/\" rel=\"noreferrer\">The Expat&#x27;s Guide to Buying Property in Namibia</a>; <a href=\"https://mfpe.gov.na/documents/76368/3405432/%238444+-+Gov+N266+Transfer+Duty+Amendment+Act+%28Act+_240917_084847.pdf/18c19fa9-fbc4-1756-f1be-cf9323d18183?t=1728304576040\" rel=\"noreferrer\">Namibisches Gesetzblatt: Transfer Duty Amendment Act 6 of 2024</a></p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Krankenversorgung und Pflege am gewählten Ort",
+      "body": "<p>Die DHPS in Windhoek bietet deutsch-englische beziehungsweise englische Abschlusswege. Eine Schulzusage und der ausländerrechtliche Status des Kindes sind getrennte Schritte. Für ein Study Permit verlangt die Botschaft unter anderem die Unterlagen der aufnehmenden Einrichtung, Unterkunft, Versicherung und bei Minderjährigen die Zustimmung der Eltern. Sie nennt zwei bis drei Monate Bearbeitungszeit als Orientierung. Schulgebühren, Jahrgang, Fahrtweg und mögliche Unterstützung werden direkt mit der Schule vereinbart.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.dhps-windhoek.de/de/page/sekundarstufe-ii-diap\" rel=\"noreferrer\">DHPS Windhoek: Deutsches Internationales Abitur und Cambridge</a>; <a href=\"https://www.namibia-botschaft.de/application-for-study-permit/\" rel=\"noreferrer\">Application for Study Permit | Embassy Of Namibia Berlin Germany</a></p><p>In Windhoek und Swakopmund bestehen private Krankenhausangebote, darunter Mediclinic. Der Standort Swakopmund nennt etwa Notfallversorgung, Intensiv- beziehungsweise Highcare, Versorgung von Neugeborenen und Bildgebung. Für eine bestimmte Krankheit zählt trotzdem der konkret verfügbare Facharzt und der Ablauf bis zur Behandlung. Kläre mit Versicherer und Klinik, welche Leistungen gedeckt sind, wie eine Kostenzusage erteilt wird und wann du selbst vorleisten musst.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.mediclinic.co.za/en/windhoek/emergency.html\" rel=\"noreferrer\">Emergency - Mediclinic Windhoek</a>; <a href=\"https://www.mediclinic.co.za/en/swakopmund/service-offering.html\" rel=\"noreferrer\">Service Offerings - Mediclinic Swakopmund</a></p><p>Außerhalb der großen Zentren ist die Versorgung deutlich dünner. Eine medizinische Evakuierung muss zur Versicherung und zum persönlichen Notfallplan passen. Auch Malaria ist eine regionale Frage: Das Auswärtige Amt unterscheidet die nördlichen und nordöstlichen Risikogebiete von Windhoek und der Küstenregion. Wer einen Ausflug oder einen dauerhaften Aufenthalt im Norden plant, braucht entsprechend andere medizinische Vorbereitung.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.auswaertiges-amt.de/de/service/laender/namibia-node/namibiasicherheit-208314\" rel=\"noreferrer\">Namibia: Reise- und Sicherheitshinweise - Auswärtiges Amt</a></p><p>EXOBASIS organisiert die Rückfragen zu Behandlung, Medikamenten, Pflegediensten und Unterstützung im Haushalt und verbindet sie mit <a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und tatsächlicher Versorgung</a>. Die <a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Vorbereitung für Kinder und Angehörige</a> erfolgt für jede mitziehende Person.</p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Geldmittel, Bankzugang und Unternehmensfortführung",
+      "body": "<p>Dein Alltag wird in Namibia-Dollar abgerechnet; auch der südafrikanische Rand wird im Land verwendet. Wenn dein Einkommen in Euro oder Schweizer Franken zufließt, gehören Umrechnung und ausreichende lokale Liquidität in den laufenden Plan. Richte zwei voneinander unabhängige Zahlwege ein und teste Karte, Onlinezugang und Überweisung bereits während der Vorbereitung.</p><p>Bei einer lokalen Kontoeröffnung werden Identität, Wohn- beziehungsweise Aufenthaltsverhältnisse, Steuerangaben und Mittelherkunft dokumentiert. Bank Windhoek führt diese Angaben in ihren Kunden- und Prüfunterlagen ausdrücklich auf. Für größere Beträge, etwa den Immobilienkauf, sollten Herkunft und Überweisungszweck vor dem Zahlungstermin mit Bank und Conveyancer geklärt sein.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.bankwindhoek.com.na/Terms%20and%20Conditions/Part%20C%20-%20General%20Terms%20and%20Conditions.pdf\" rel=\"noreferrer\">Bank Windhoek: Allgemeine Geschäftsbedingungen, 31. Juli 2026</a></p><p>Ein nahender Kauf- oder Behandlungstermin braucht einen getesteten Zahlweg und verfügbare Reserve. <a class=\"exb-text-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Bankkonto und Zahlungsfähigkeit</a> erklärt, wie du diese Abhängigkeiten vorbereitest. Mit <a class=\"exb-text-link\" href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität</a> koordinieren wir die Kontoanforderungen, Nachweise und Zahlungstests für deinen Namibia-Aufenthalt.</p><p>Namibia hat Devisenkontrollen. Die Bank of Namibia unterscheidet insbesondere Residenten und Nichtresidenten; Auslandszahlungen laufen über zugelassene Banken beziehungsweise Devisenstellen mit den nötigen Belegen. Hebe Nachweise über eingeführtes Geld und Kaufzahlungen auf. Sie sind wichtig, wenn du später Geld wieder ins Ausland übertragen willst. Der Wechsel deines Aufenthalts- oder Devisenstatus gehört deshalb auch in die Bankplanung.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.bon.com.na/Informations/FAQ/Exchange-Control.aspx\" rel=\"noreferrer\">Exchange Control</a></p><p>Die Einkommensteuer knüpft an Einkünfte aus namibischer oder gesetzlich als namibisch behandelter Quelle an. Dazu können Einnahmen für vor Ort erbrachte Leistungen gehören. Ein Kunde in Europa oder die Zahlung auf ein Auslandskonto beantwortet die Steuerfrage daher noch nicht. Für ein örtliches Unternehmen kommen die Registrierung bei BIPA und gegebenenfalls sektorale Erlaubnisse hinzu; Arbeits- und Aufenthaltsrecht werden daneben vorbereitet.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.namra.org.na/documents/cms/uploaded/income-tax-act-24-of-1981-debf9c72ad.pdf\" rel=\"noreferrer\">NamRA: Income Tax Act 24 of 1981, Einkommensdefinition</a>; <a href=\"https://www.nipdb.com/_files/ugd/77942a_c736a4a8741d47fa86ae05e3f2eacde0.pdf\" rel=\"noreferrer\">NIPDB: Fragen zur Investition und Unternehmensregistrierung</a></p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Dokumente und Ankunft in der richtigen Reihenfolge",
+      "body": "<p>Vor der ersten längeren Bindung stehen Aufenthaltszweck, Personen und finanzieller Rahmen fest. Danach organisieren wir Pass- und Familienunterlagen, Führungszeugnisse, die verlangten medizinischen Nachweise, gegebenenfalls Berufsregistrierung und die Unterkunft. Für Schul- und Familienverfahren werden englische Unterlagen beziehungsweise Übersetzungen und die passenden Zustimmungserklärungen vorbereitet.</p><p class=\"exb-citation\">Quellen: <a href=\"https://mha.gov.na/all-permits-general-information\" rel=\"noreferrer\">All Permits General Information - MHAISS - Portal Ariel</a>; <a href=\"https://www.namibia-botschaft.de/application-for-study-permit/\" rel=\"noreferrer\">Application for Study Permit | Embassy Of Namibia Berlin Germany</a></p><p>Die <a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Organisation von Dokumenten und Aufenthalt</a> umfasst den Abgleich mit der zuständigen Stelle und der örtlichen Fachausführung. Flug, Langzeitmiete, Schulbeginn und größere Zahlungen werden auf die erforderlichen Entscheidungen abgestimmt. Für die erste Ankunft stehen Unterkunft, Transfer und erreichbare Kontaktpersonen fest.</p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Eine unbewohnte Basis braucht Betreuung",
+      "body": "<p>Vereinbare regelmäßige Hauskontrollen, Schlüsselverwaltung, Wartung und einen Ablauf für Schäden. Bei längerer Abwesenheit gehören Wasser, Elektrik, Sicherheitseinrichtungen, Garten und gegebenenfalls Fahrzeug in die Kontrolle. Vor deiner Ankunft werden Versorgung, Reinigung, Einkäufe und Mobilfunk- beziehungsweise Internetzugang vorbereitet.</p><p>Parallel bleiben Aufenthaltsfristen, Versicherungen, Schulunterlagen und Bankdaten aktuell. Veränderungen bei Familienstand oder Erwerbstätigkeit werden mit dem jeweiligen Verfahren abgeglichen. EXOBASIS kann diese <a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Betreuung deiner Vorbereitung</a> übernehmen und die erforderlichen örtlichen Arbeiten koordinieren. Gerade bei einem großen Grundstück ist diese laufende Verantwortung Teil der Kaufentscheidung.</p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Deine Namibia-Basis aufbauen lassen",
+      "body": "<p>Du kannst uns mit der <a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Länder- und Standortauswahl</a>, dem Aufenthaltsvorlauf, einem Miet- oder Immobilienauftrag oder der Betreuung einer vorhandenen Basis beauftragen. Wir führen die konkrete Arbeit aus und organisieren die erforderliche lokale Fachausführung: vom Suchprofil und den Besichtigungen über unabhängige Kaufprüfung und Vertragskoordination bis zur Übergabe.</p><p>Für den Vergleich stehen <a class=\"exb-text-link\" href=\"/de/laender/suedafrika/\">Südafrika</a> und <a class=\"exb-text-link\" href=\"/de/laender/mauritius/\">Mauritius</a> mit eigenen Aufenthaltswegen und Versorgungsbedingungen. Maßgeblich bleiben dein Familienmodell, die tatsächlich benötigte medizinische Leistung und das Budget für laufenden Betrieb.</p><p>Beschreibe uns, wer mitkommen soll, wie lange du Namibia nutzen möchtest und welche Aufgabe wir übernehmen sollen. Daraus entsteht ein klar abgegrenzter Auftrag. Für die erste Zuordnung kannst du die kostenlose 20-Minuten-Orientierung nutzen.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fnamibia%2F#kurzanfrage\">Vorbereitung für Namibia anfragen</a><p>Nenne uns dein Vorhaben und den gewünschten Zeitrahmen. Persönliche Unterlagen besprechen wir anschließend im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Kann ich durch den Kauf eines Hauses oder einer Farm nach Namibia auswandern?",
+    "answer": "Der Immobilienerwerb und dein Aufenthaltsrecht werden getrennt vorbereitet. Für eine Stadtimmobilie ist ein Erwerb grundsätzlich möglich; bei landwirtschaftlichem Land verlangt § 58 des Agricultural (Commercial) Land Reform Act grundsätzlich die vorherige schriftliche Zustimmung des Ministers. Für dein Leben in Namibia brauchst du zusätzlich den zu Beschäftigung, Ruhestand, Familie oder Remote-Arbeit passenden Aufenthaltsweg."
+  },
+  "displayTitle": "Auswandern nach Namibia: Aufenthalt, Wohnen und Familie"
+}

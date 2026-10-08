@@ -1,0 +1,207 @@
+{
+  "route": "/de/laender/suedafrika/",
+  "lang": "de",
+  "title": "Südafrika als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/south-africa/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-4bb598aaa0d352",
+      "startLine": 13904
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-253feaf7d5e546",
+      "startLine": 17661
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern nach Südafrika: Aufenthalt, Hauskauf, Familie | EXOBASIS",
+  "description": "Südafrika konkret vorbereiten: Besuch, Remote Work und Ruhestand unterscheiden, Wohnviertel auswählen, Hauskauf, Versorgung und Geldzugriff organisieren.",
+  "intro": "<p>Du willst einen Ausweg außerhalb Europas aufbauen, bevor Krieg oder staatlicher Druck deine Entscheidungen verengen. Südafrika bietet sehr unterschiedliche Lebensräume. Ob eure Familie dort wirklich Fuß fassen kann, hängt vom passenden Aufenthalt, einem gut gewählten Wohnviertel und verlässlicher Versorgung ab. Genau diese Verbindung bereiten wir mit dir vor.</p>",
+  "countryContext": "/de/laender/suedafrika/",
+  "linkPlan": [
+    {
+      "sourceLine": 1308,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1310,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1311,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1312,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1313,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1314,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1315,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1316,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1317,
+      "target": "/en/countries/south-africa/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1516,
+      "target": "/de/laender/namibia/",
+      "label": "Namibia als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1518,
+      "target": "/de/laender/mauritius/",
+      "label": "Mauritius als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "South African Government: permanent residence",
+      "url": "https://www.gov.za/faq/government-services/how-do-i-obtain-permanent-residence-permit",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Vorbereitung für Südafrika anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "country": {
+    "name": "Südafrika",
+    "slug": "suedafrika",
+    "region": "Afrika und Indischer Ozean",
+    "map": "countries/suedafrika-locator.svg",
+    "imageAlt": "Lagegrafik: Südafrika. Geografische Orientierung, keine Sicherheitsbewertung.",
+    "caption": "Geografische Orientierung. Keine Reise-, Sicherheits- oder Grenzbewertung.",
+    "summary": [
+      [
+        "Den Aufenthalt passend wählen",
+        "Besuch, Remote Work, Ruhestand und Daueraufenthalt erfüllen unterschiedliche Aufgaben."
+      ],
+      [
+        "Vom Wohnviertel aus planen",
+        "Schulweg, Klinik, Sicherheit und Hausversorgung entscheiden über den Alltag."
+      ],
+      [
+        "Geld tatsächlich verfügbar machen",
+        "Randzahlungen, Bankannahme und dokumentierte Auslandsüberweisungen vorbereiten."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Für welchen Plan B Südafrika infrage kommt",
+      "body": "<p>Südafrika ist eine andere Art von Entscheidung als ein Umzug innerhalb Europas. Die Distanz kann zu deinem Wunsch passen, europäische Konflikt- und Lebensbedingungen hinter dir zu lassen. Gleichzeitig musst du Sicherheit, Verkehr und Hausversorgung am Zielort konkreter organisieren. Ein gutes Einkommen eröffnet Wahlmöglichkeiten; es ersetzt die sorgfältige Wahl von Wohnung, Wegen und Aufenthaltskategorie nicht.</p><p>Eine zeitweise Basis für mehrere Monate, ein Ruhestandswohnsitz und die dauerhafte Zukunft mit schulpflichtigen Kindern brauchen unterschiedliche Vorbereitung. Beginne mit eurem tatsächlichen Vorhaben: Wie lange wollt ihr bleiben, wer muss arbeiten und wer benötigt verlässliche Betreuung? Daraus ergeben sich Aufenthaltsweg und Suchauftrag. Ein attraktives Haus allein beantwortet keine dieser Fragen.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Bei Krieg aus Europa ausweichen: Anreise und erste Wochen",
+      "body": "<p>Wer Südafrika wegen Krieg oder eingeschränkter Freiheit in Europa erwägt, muss die Fernreise als Teil der Vorbereitung behandeln. Ihr braucht gültige Pässe, den für jede Person richtigen Einreiseweg, erreichbare Flüge und eine Unterkunft, deren Verfügbarkeit bestätigt ist. Eine Rückflugbuchung und vorhandenes Guthaben helfen wenig, wenn der Familienstatus oder die Dokumente eines Kindes ungeklärt sind.</p><p>Organisiere die ersten Tage möglichst vor Abflug: Abholung, sicherer Weg zur Unterkunft, funktionierendes Telefon, Geld für die ersten Ausgaben und ein erreichbarer Ansprechpartner. Die amtlichen <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/suedafrikasicherheit-208400\">Reisehinweise für Südafrika</a> beschreiben erhebliche Kriminalitätsrisiken und Risiken einzelner Fahrwege. Die konkrete Strecke vom Flughafen gehört deshalb zur Ortsauswahl. Vermeide einen Ankunftsplan, der euch erst nachts nach einer unbekannten Adresse suchen lässt.</p><p>Eine südafrikanische Aufenthaltsoption verändert keine bestehenden Pflichten aus deiner Staatsangehörigkeit. Bei Sorge vor Einberufung oder Ausreisehindernissen müssen rechtzeitiger Aufbruch und die Herkunftsfrage eigenständig geklärt sein. Die Vertiefung <a href=\"/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/\">Wohin bei Krieg?</a> verbindet diese Entscheidung mit dem tatsächlich erreichbaren Ziel.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Als Familie dauerhaft in Südafrika leben",
+      "body": "<p>Für eine Familienzukunft zählt nicht das Image von Kapstadt oder die Größe eines Hauses, sondern die wiederkehrende Woche: Schulweg, Arbeitsweg, Einkauf, Behandlung und Freizeit. Prüfe diese Wege zu den Zeiten, zu denen ihr sie nutzen würdet. Eine abgeschlossene Wohnanlage kann einzelne Zugänge kontrollieren; sie erledigt weder die sichere Weiterfahrt noch die Versorgung außerhalb der Anlage.</p><p>Für Kinder ist die Unterrichtssprache ebenso wichtig wie Lehrplan und Anschluss an die bisherige Schullaufbahn. Für ältere Angehörige können ein nahes Krankenhaus und verlässlich organisierte Hilfe wichtiger sein als Meerblick. Eine längere Erkundung mit Alltagsterminen zeigt, ob sich die Vorstellung trägt. Wenn eure Mindestbedingungen an Schule, Behandlung oder Bewegung am konkreten Ort nicht zusammenkommen, gehört ein anderes Viertel oder ein anderes Land auf den Tisch.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Zeitweise bleiben, aus der Ferne arbeiten oder den Ruhestand planen",
+      "body": "<p>Für wiederkehrende Aufenthalte müssen Aufenthaltszweck und tatsächliche Tätigkeit zusammenpassen. Ein normaler Besuch ist nicht der gleiche Rechtsweg wie das Arbeiten für einen ausländischen Arbeitgeber. Auch regelmäßige Aus- und Wiedereinreisen begründen keinen Daueraufenthalt. Plane deshalb zuerst die passende Kategorie und erst danach lange Mietzeiten oder die Anschaffung einer Immobilie.</p><p>Saisonale Nutzung wirft praktische Fragen auf: Wer sieht nach dem Haus, reagiert auf einen Alarm, kontrolliert Wasser und Strom und nimmt Reparaturen ab? Ein Objekt, das monatelang leer steht, braucht einen verbindlichen Betreuungsauftrag. Wenn du zwischen Standorten wechselst, müssen Bankunterlagen, Versicherungsschutz und Unternehmensvertretung ebenfalls zu diesem Rhythmus passen.</p><p>Beim Ruhestandsweg geht es um nachgewiesene laufende Mittel, beispielsweise Pensionen, Rentenansprüche oder ausreichend Ertrag aus Vermögen. Ein hoher Kontostand und ein laufendes Einkommen sind nicht automatisch derselbe Nachweis. Kläre vor einer langfristigen Bindung, welche Einkommensbelege die zuständige südafrikanische Vertretung für deine konkrete Antragstellung verlangt.</p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Einreise und Aufenthalt: die passenden südafrikanischen Wege",
+      "body": "<h3>Erkundungsaufenthalt mit deutschem, österreichischem oder Schweizer Pass</h3><p>Die amtliche <a href=\"https://dirco.gov.za/canberra/visa-countries/\">Liste der südafrikanischen Visumbefreiungen</a> führt Deutschland, Österreich und die Schweiz für gewöhnliche Reisepässe mit einer Befreiung bis zu 90 Tagen. Die tatsächlich gewährte Aufenthaltsdauer und der Zweck stehen in der Einreiseentscheidung. Andere Pässe innerhalb derselben Familie werden separat betrachtet. Ein Besuch erlaubt euch, Orte kennenzulernen; für Arbeit, Schulbesuch und längeren Aufenthalt muss die jeweils passende Berechtigung vorliegen.</p><h3>Remote Work für einen ausländischen Arbeitgeber</h3><p>Der Remote-Work-Weg setzt einen entsprechenden Arbeitsvertrag mit einem Arbeitgeber außerhalb Südafrikas voraus. Das amtliche Merkblatt nennt ein Bruttojahresgehalt von mindestens 650.796 ZAR und aktuelle Nachweise der Zahlung. Dieser Weg ist daher nicht einfach ein Visum für jeden Selbstständigen mit Laptop. Das <a href=\"https://dirco.gov.za/newyork/wp-content/uploads/sites/77/2026/09/Port-of-Entry-Vissa-Remote-Work-Visa-June-2026.pdf\">Remote-Work-Merkblatt von DIRCO</a> erläutert auch die Steuerregistrierung: Bei Ansässigkeit in einem Staat mit einschlägigem Doppelbesteuerungsabkommen wird unter den dort beschriebenen Voraussetzungen die Grenze von insgesamt mehr als 183 Tagen innerhalb von zwölf Monaten relevant; ohne diese Abkommenskonstellation besteht die Registrierungspflicht nach dem Merkblatt unabhängig davon. Zuständiger Antragsort und örtliche Einreichungsanforderungen richten sich nach deinem Wohnsitz.</p><h3>Ruhestand und dauerhafter Aufenthalt</h3><p>Das <a href=\"https://dirco.gov.za/canberra/retired-person-non-working/\">Retired Person Visa</a> ist für einen nachgewiesenen Ruhestandsfall vorgesehen und kann jeweils für bis zu vier Jahre erteilt werden. Die finanziellen Nachweise beziehen sich auf passende Renten-, Versorgungs- oder Vermögenseinkünfte. Eine Arbeitsaufnahme folgt daraus nicht automatisch. Für längere Familienpläne ist außerdem die <a href=\"https://www.gov.za/faq/government-services/how-do-i-obtain-permanent-residence-permit\">Permanent Residence mit ihren eigenen Kategorien</a> zu betrachten. Ein befristetes Visum und ein gekaufter Wohnsitz ergeben zusammen noch keinen Daueraufenthalt.</p><p>EXOBASIS verbindet den Aufenthaltsweg mit deiner konkreten Aufgabe: Wer soll mitkommen, wer arbeitet und wann muss die Basis nutzbar sein? Du kannst <a href=\"/de/anfrage/\">die Vorbereitung für Südafrika direkt anfragen</a>, sobald du den Bedarf kennst.</p>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Kapregion, Gauteng oder KwaZulu-Natal: wohnen, mieten und kaufen",
+      "body": "<h3>Suchräume nach euren täglichen Wegen eingrenzen</h3><p>Kapstadt und die Kapregion eignen sich als eigener Suchraum, wenn eure Wohn-, Schul- und Arbeitsplanung dort zusammenkommt. Stellenbosch oder Somerset West können dazugehören, verlangen aber eine andere tägliche Wegeplanung als ein zentraler Stadtteil. Johannesburg und Pretoria bilden für Geschäfts- und Arbeitsbeziehungen in Gauteng einen anderen Ausgangspunkt. Durban und Umhlanga an der Küste von KwaZulu-Natal sind wiederum gesondert auf Klima, Überflutungsrisiken und die konkrete Anbindung zu betrachten.</p><p>Besichtige nicht nur die Räume: Prüfe die Zufahrt, Beleuchtung, Sicherung, Alarmreaktion sowie vorhandene Wasser- und Stromreserven. Lass dir erklären, was bei Netzausfall tatsächlich weiterläuft. Eine Solaranlage auf dem Dach sagt noch nicht, ob Kühlung, Internet, Tor und medizinische Geräte versorgt werden. Waldbrandnähe, starke Regenfälle und lokale Überschwemmungslagen gehören objektbezogen dazu.</p><h3>Mieten mit dokumentierter Übergabe</h3><p>Eine möblierte Unterkunft kann die ersten Wochen abdecken. Für einen längeren Mietvertrag werden Miete, Kaution, Laufzeit, Kündigung, Versorgungsabrechnung und Inventar eindeutig festgehalten. Der <a href=\"https://www.westerncape.gov.za/infrastructure/frequently-asked-questions-tenants\">Mietleitfaden des Western Cape</a> beschreibt die verzinsliche Anlage einer Kaution sowie gemeinsame Ein- und Auszugsinspektionen. Halte vorhandene Schäden schriftlich und mit Bildern fest; so lässt sich später zwischen übernommenem Zustand und neuem Schaden unterscheiden. Kläre auch, welche Sicherheits- und Versorgungsleistungen wirklich im Mietpreis enthalten sind.</p><h3>Immobilienkauf durch Nichtansässige</h3><p>Nichtansässige können in Südafrika Wohnimmobilien erwerben. Käuferstatus, Objekt und Finanzierung bestimmen die Durchführung; der Erwerb verleiht kein Aufenthaltsrecht. Vor einer verbindlichen Offer to Purchase müssen Verkäuferberechtigung, Titel, Belastungen, Nutzungs- und Baufragen sowie gegebenenfalls Regeln und Kosten einer Eigentümergemeinschaft geprüft sein. Über den staatlichen <a href=\"https://www.gov.za/services/services-residents/place-live/get-deeds-registry-information\">Zugang zu Deeds-Registry-Informationen</a> lassen sich Eigentümer und eingetragene Rechtsverhältnisse feststellen.</p><p>Ein zugelassener Conveyancer führt die Eigentumsübertragung beim Deeds Office durch. Der <a href=\"https://stbb.co.za/wp-content/uploads/2026/08/STBB_Buying_property_as_a_non-resident_in_South_Africa_2026.pdf\">Kaufleitfaden der südafrikanischen Kanzlei STBB</a> erläutert den Nichtansässigenfall, ausländische Finanzierung und Herkunftsnachweise. Kaufpreis und Zahlungstermine, Transfer Duty beziehungsweise die Behandlung einer umsatzsteuerpflichtigen Transaktion, Anwalts- und Registrierungsgebühren sowie gegebenenfalls die Grundschuldbestellung werden getrennt kalkuliert. Die <a href=\"https://www.sars.gov.za/tax-rates/transfer-duty/\">SARS-Tarife der Transfer Duty</a> hängen vom maßgeblichen Transaktionsdatum und Wert ab.</p><p>Für spätere Veräußerung und Rücküberweisung ist es wichtig, eingebrachte Auslandsmittel sauber zu dokumentieren. EXOBASIS kann <a href=\"/de/leistungen/ankunft-organisieren/\">Wohnungs- und Immobiliensuche bis zur Übergabe organisieren</a>: Suchprofil, Besichtigungen, unabhängige Kaufprüfung, Abstimmung mit Conveyancer und Bank, Abschlusskoordination, Inventar und Betreuung während deiner Abwesenheit. Die Finanzierung und rechtliche Prüfung werden vor einer bindenden Kaufentscheidung zusammengeführt.</p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Behandlung und Pflege: Aufnahme statt bloßer Adressen",
+      "body": "<p>Bei schulpflichtigen Kindern gehören Aufnahmezusage und Aufenthaltsberechtigung zusammen. Für einen vorübergehenden Aufenthalt mit Study Visa verlangt DIRCO unter anderem die Bestätigung der Bildungseinrichtung, passende Eltern-/Sorgerechtsunterlagen und den geforderten Krankenversicherungsnachweis. Das <a href=\"https://dirco.gov.za/brussels/study-visa/\">DIRCO-Merkblatt zum Study Visa</a> nennt eine in Südafrika registrierte Medical Scheme. Eine Reisepolice ist dafür nicht automatisch austauschbar. Andere Aufenthaltsrechte der Familie können eine andere Einordnung ergeben.</p><p>Plane zuerst die schulische Eignung und mögliche Aufnahme, dann Wohnlage und täglichen Weg. Der Beitrag <a href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a> verbindet das mit Reiseberechtigung und verantwortlichen Erwachsenen. Bei unterschiedlich reisenden Eltern müssen die notwendigen Zustimmungen und Unterlagen vor dem Flug griffbereit sein.</p><p>Die medizinische Versorgung unterscheidet sich stark nach Ort und Einrichtung. Private Kliniken können vor Behandlung eine Kostenübernahme oder Vorauszahlung verlangen. Deshalb gehören Versicherung, erreichbare geeignete Klinik und sofort nutzbare Zahlungsmittel in denselben Plan. Bei Pflegebedarf werden Betreuung, Medikamente, Überleitung und mögliche Rücktransportleistungen ausdrücklich vereinbart. Die Vertiefung <a href=\"/de/wissen/familie-alltag/pflege-medikamente/\">Pflege und Medikamente vorbereiten</a> hilft, Vorrat, Behandlung und Hilfe vor Ort lückenlos zu verbinden. <a href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a> erklärt die Leistungsfragen; über <a href=\"/de/leistungen/familie-unternehmen/\">Familie und Unternehmen vorbereiten</a> organisieren wir die konkreten Übergänge.</p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Bankkonto, Randzahlungen und Unternehmen weiterführen",
+      "body": "<p>Südafrikanische Banken unterscheiden unter anderem vorübergehend Ansässige und Nichtansässige. Bei Standard Bank verlangt der <a href=\"https://www.standardbank.co.za/southafrica/personal/products-and-services/bank-with-us/foreign-nationals/temporary-residents\">Weg für Temporary Residents</a> passende Identitäts-, Aufenthalts- und Adressnachweise. Das <a href=\"https://www.standardbank.co.za/southafrica/personal/products-and-services/bank-with-us/foreign-nationals/non-residents\">Non-Resident-Angebot</a> ist eine eigene Produktkategorie. Ein Hauskauf allein macht dich nicht zu einem Resident-Kunden. Entscheidend ist, ob das angenommene Konto deine tatsächlichen Zahlungen und Überweisungen leisten kann.</p><p>Bewahre Belege zur Herkunft und Überweisung eingeführter Mittel auf, besonders beim Immobilienkauf. Südafrika hat Devisenregeln; Banken als Authorized Dealers prüfen und melden entsprechende Vorgänge. Die <a href=\"https://www.resbank.co.za/en/home/what-we-do/financial-surveillance/FinSurvFAQ\">SARB-Auskunft zur Financial Surveillance</a> unterscheidet unter anderem den Status von Resident und Non-Resident sowie ein- und ausgehende Gelder. Ein Kontostand in Rand ist daher nicht dieselbe Frage wie die spätere Rücküberweisung ins Ausland.</p><p>Ein funktionsfähiger Plan enthält die ersten Miet- und Behandlungsausgaben, laufende Zahlungen und einen zweiten erreichbaren Zugang. Teste eine kleine zulässige Überweisung und die Freigabe vom tatsächlich genutzten Gerät vor der Abreise. Bei Debanking oder blockierten Mitteln im Herkunftsland wird zunächst getrennt, was frei verfügbar ist und welche rechtlichen Schritte notwendig sind. Die Wissensvertiefung <a href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Bankkonto und Zahlungsfähigkeit</a> erklärt die Zusammenhänge. Über <a href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität vorbereiten</a> übernehmen wir Dokumentenaufbereitung, Abstimmung und die Einrichtung der vereinbarten Zahlungswege.</p><p>Wenn du ein Unternehmen weiterführst, müssen Unterschriften, Lohnzahlungen und Kundenarbeit auch ohne deine ständige Erreichbarkeit funktionieren. Für die persönliche Besteuerung kennt SARS neben gewöhnlichem Aufenthalt einen mehrjährigen Physical-Presence-Test. Ein einzelnes Jahr unter 183 Tagen ist deshalb keine vollständige steuerliche Entwarnung. Die <a href=\"https://www.sars.gov.za/faq/faq-how-do-i-know-that-i-fall-within-the-definition-of-a-resident/\">SARS-Erklärung zur Ansässigkeit</a> und die <a href=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\">Wegzugs- und Unternehmensplanung</a> müssen mit den fortbestehenden DACH-Bindungen zusammengeführt werden. Für den operativen Ausfall werden <a href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\">Vollmachten und Vertretung</a> mit den tatsächlichen Bank- und Unternehmensbefugnissen abgestimmt: Wer darf eine fällige Zahlung freigeben, wenn du auf der Fernreise unerreichbar bist? Diesen Teil kannst du über <a href=\"/de/leistungen/familie-unternehmen/\">Familie und Unternehmen vorbereiten</a> organisieren lassen.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Dokumente und Vorbereitung in der richtigen Reihenfolge",
+      "body": "<p>Beginne mit dem Aufenthaltsweg jeder Person und dem zuständigen Antragsort. Danach lassen sich Passgültigkeit, Personenstandsnachweise, Führungszeugnisse, Gesundheitsnachweise, Einkommensunterlagen und erforderliche Übersetzungen gezielt beschaffen. Besondere Nachweise für Kinder oder eine Reiseroute durch Gelbfiebergebiete werden daran angeschlossen. Das verhindert, dass zeitlich begrenzte Unterlagen schon ablaufen, bevor ein entscheidendes anderes Dokument vorliegt.</p><p>Mit dem Auftrag <a href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a> kannst du die Organisation zusammenhängend beauftragen. EXOBASIS koordiniert Unterlagen, zuständige Fachausführung und die vorgesehenen Schritte. Parallel werden Unterkunft, Schulaufnahme, Bankannahme und Versorgung so geordnet, dass eine spätere Anreise tatsächlich nutzbare Verhältnisse vorfindet.</p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Die südafrikanische Basis betreuen und funktionsfähig halten",
+      "body": "<p>Eine eingerichtete Basis muss deinen längeren Abwesenheiten standhalten. Vereinbare Hauskontrollen, Alarmreaktion, Wartung von Strom- und Wasserreserven, Versicherungsbedingungen bei Leerstand und einen klaren Weg für dringende Reparaturen. Vor Anreise braucht ihr einen aktuellen Zustandsbericht und bestätigte Übergabe, nicht nur die Erinnerung an den letzten Besuch.</p><p>Bei Dokumenten und Bankzugang zählen Ablaufdaten, Statuswechsel und aktuelle Nachweise. Berechtigte Angehörige oder betriebliche Vertreter brauchen einen erreichbaren Kontakt und geordneten <a href=\"/de/wissen/wiederzugang-telefon-email/\">Wiederzugang bei Telefon- oder E-Mail-Ausfall</a>. Mit <a href=\"/de/leistungen/vorbereitung-betreuen/\">laufender Betreuung der Vorbereitung</a> halten wir die vereinbarten Termine und Ortsaufgaben zusammen und organisieren notwendige Anpassungen.</p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Mit Namibia und Mauritius vergleichen, dann konkret werden",
+      "body": "<p><a href=\"/de/laender/namibia/\">Namibia</a> ist eine passende Gegenprüfung, wenn du ebenfalls im südlichen Afrika suchst. Vergleiche beim tatsächlich erreichbaren Wohnort Entfernungen, Wege zur Versorgung, die gewünschte Unterrichtssprache und euren Aufenthaltsweg. Die Nähe auf der Landkarte bedeutet nicht, dass beide Länder denselben Alltag oder dieselben Rechtsbedingungen bieten.</p><p><a href=\"/de/laender/mauritius/\">Mauritius</a> bringt die andere Grundentscheidung einer Inselbasis in den Vergleich. Stelle verfügbare Behandlung und Schule, passende Aufenthaltskategorie sowie Flug- und Versorgungsabhängigkeit der südafrikanischen Wohnortlösung gegenüber. Die <a href=\"/de/leistungen/laender-standortauswahl/\">Länder- und Standortauswahl</a> soll herausarbeiten, welche dieser Optionen eure Anforderungen tatsächlich erfüllt.</p><p>Wenn Südafrika feststeht, kannst du einen klar umrissenen Teil oder die zusammenhängende Vorbereitung beauftragen: Aufenthaltsunterlagen, Standort- und Immobiliensuche, Ankunft, Bankzugang, Familie oder Betreuung. Nenne uns Personenkreis, Staatsangehörigkeiten, geplante Nutzung, Zeitrahmen und vorhandene Vorarbeiten. <a href=\"/de/anfrage/\">Vorbereitung für Südafrika anfragen</a>. Für die erste Zuordnung gibt es bei Bedarf die kostenlose 20-Minuten-Orientierung; eine bereits klare Aufgabe kannst du unmittelbar anfragen.</p>"
+    }
+  ],
+  "faq": {
+    "question": "Kann ich mit einem südafrikanischen Haus dauerhaft bleiben?",
+    "answer": "Der Immobilienkauf ist vom Aufenthaltsrecht getrennt. Für eine längerfristige Nutzung braucht jede Person die passende Berechtigung, etwa einen geeigneten befristeten Aufenthaltsweg oder eine gesondert erteilte Permanent Residence. Für vorübergehenden Schulbesuch, Arbeit und Ruhestand gelten unterschiedliche Nachweise."
+  },
+  "displayTitle": "Nach Südafrika auswandern: eine Familienbasis außerhalb Europas"
+}

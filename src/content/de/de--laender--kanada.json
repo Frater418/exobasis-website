@@ -1,0 +1,197 @@
+{
+  "route": "/de/laender/kanada/",
+  "lang": "de",
+  "title": "Kanada als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/canada/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-bfed48d3e0568a"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-bb9a2f19ea818f"
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern nach Kanada: Aufenthalt, Familie, Immobilien | EXOBASIS",
+  "description": "Kanada als zweite Basis oder neue Heimat: Aufenthaltswege, Regionen, Miete, Hauskauf, Schule und Geldzugang. EXOBASIS organisiert deine Vorbereitung.",
+  "intro": "<p>Du möchtest deine Familie außerhalb Europas in Sicherheit wissen und dir rechtzeitig einen anderen Lebensweg eröffnen. Wer nach Kanada auswandern will, braucht dafür einen passenden Einwanderungsweg und einen Ort, an dem Wohnen, Arbeit und Versorgung zusammenpassen. Hier erfährst du, was einen vorbereiteten Aufenthalt von einer dauerhaften Familienbasis unterscheidet und welche Arbeit EXOBASIS für dich übernimmt.</p>",
+  "primary": {
+    "label": "Vorbereitung für Kanada anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "countryContext": "/de/laender/kanada/",
+  "country": {
+    "name": "Kanada",
+    "slug": "kanada",
+    "region": "Nordamerika",
+    "map": "countries/kanada-locator.svg",
+    "imageAlt": "Kanada auf der Weltkarte: Lage in Nordamerika zwischen Atlantik und Pazifik.",
+    "caption": "Kanada in Nordamerika. Wohnort, Provinz und Aufenthaltsweg entscheiden über deine Vorbereitung.",
+    "summary": [
+      [
+        "Familienzukunft",
+        "Einwanderungsweg und Provinz gemeinsam auswählen."
+      ],
+      [
+        "Wohnlösung",
+        "Miete vorbereiten; Kaufberechtigung vor der Objektsuche klären."
+      ],
+      [
+        "Reservebasis",
+        "Aufenthaltstage, Gesundheitsversorgung und Hausbetreuung verbinden."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Was Kanada für deinen Plan B leisten kann",
+      "body": "<p>Vielleicht willst du wegen Krieg, politischem Druck oder der Sorge um deine Freiheit gehen. Vielleicht soll deine Familie zunächst nur eine bewohnbare zweite Adresse haben. In Kanada führen diese Vorhaben zu unterschiedlichen Entscheidungen: Eine gemietete Wohnung für einen befristeten Besuch lässt sich anders vorbereiten als ein neuer Lebensmittelpunkt mit Schule und Beruf.</p><p>Für die langfristige Familienperspektive sprechen die Auswahl an städtischen Standorten und die Möglichkeit, mit einem passenden Daueraufenthaltsstatus zu leben und zu arbeiten. Entscheidend ist, ob dein berufliches Profil, eine Provinznominierung oder ein Familienweg diesen Status trägt. Für Rentner und Privatiers beginnt die Auswahl ebenfalls mit dem Aufenthaltsweg, nicht mit dem Hausbudget. Ein hohes Vermögen allein beantwortet die Einwanderungsfrage nicht.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Eine vorbereitete Zuflucht braucht mehr als ein Flugticket",
+      "body": "<p>Der Atlantik schafft Abstand zu Europa. Für eine nutzbare Ausweichoption brauchst du außerdem einen gültigen Einreiseweg, erreichbare Unterkunft, mehrere Zahlungszugänge und eine Lösung für alle mitreisenden Angehörigen. Lege vorab fest, wann ihr reisen würdet und wer Unterkunft, Tickets, Medikamente und Dokumente aktiviert. Wenn du wegen eines möglichen Krieges vorbereitest, gehört die politische und militärische Einbindung des Ziellandes in denselben Vergleich wie seine Entfernung.</p><p>Eine jederzeit freigehaltene Wohnung kostet auch während deiner Abwesenheit. Bei gelegentlichen Aufenthalten kann zunächst eine verlässlich organisierte möblierte Ankunftsunterkunft sinnvoller sein. Soll ein eigenes Haus leer stehen, braucht es jemanden, der Heizung, Wasser, Post und Schäden kontrolliert. Gerade Frostschäden können eine lange unbemerkte Undichtigkeit teuer machen. Kontrollintervalle und erlaubte Leerstandszeiten gehören ausdrücklich in den Versicherungs- und Betreuungsauftrag.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Mit Familie nach Kanada: die Provinz wird Teil der Entscheidung",
+      "body": "<p>Ein beruflich passender Einwanderungsweg, eine Schulaufnahme und die Gesundheitsversorgung müssen für denselben Standort funktionieren. Toronto und sein Umland bieten einen großen Ballungsraum für Beruf und spezialisierte Versorgung. Vancouver richtet den Alltag zur Pazifikküste aus; Halifax ist eine kleinere atlantische Stadt. Die Wahl betrifft deshalb auch eure Verbindung nach Europa, tägliche Wege und das Umfeld, in dem Kinder neu ankommen.</p><p>Englisch ist in diesen drei Beispielen die naheliegende Alltagssprache. Eine Entscheidung für Québec setzt einen eigenen Blick auf Französisch, Schule und die dortigen Einwanderungswege voraus. Für Kinder zählen Unterrichtssprache, Jahrgang und Schulbezirk; für Eltern Arbeitsplatz und Pendelstrecke. Besichtigt deshalb nicht nur Wohnungen, sondern fahrt die Schul- und Arbeitswege zur üblichen Uhrzeit.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-regions.html\" rel=\"noreferrer\">IRCC: Kanadas Regionen</a></p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Kanada zeitweise nutzen und aus dem Ausland weiterarbeiten",
+      "body": "<p>Ein Erkundungsaufenthalt kann zeigen, ob Klima, Tagesrhythmus und Familienalltag zu euch passen. IRCC beschreibt auch die Möglichkeit, als digitaler Nomade mit Besucherstatus bis zu sechs Monate für einen ausländischen Arbeitgeber weiterzuarbeiten. Wer in den kanadischen Arbeitsmarkt wechselt, braucht den dafür passenden Status. Für Kundenarbeit, die örtliche Geschäftstätigkeit oder die Leitung eines eigenen Unternehmens werden Tätigkeit und steuerliche Folgen zusätzlich eingeordnet.</p><p>Berücksichtige bei europäischen Kunden die Zeitverschiebung: Besprechungen am europäischen Vormittag können deinen kanadischen Tagesbeginn bestimmen. Sichere vor der Mietentscheidung den tatsächlich verfügbaren Internetanschluss und einen zweiten Zugang. Ein längerer Aufenthalt wird außerdem steuerlich relevant, sobald persönliche Bindungen oder die maßgeblichen Aufenthaltsregeln greifen.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/tech-talent.html\" rel=\"noreferrer\">IRCC: Tech Talent Strategy und digitale Nomaden</a></p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Einreise und Aufenthalt: welcher Weg steht dir offen?",
+      "body": "<h3>Besuch mit deutschem, österreichischem oder schweizerischem Pass</h3><p>Für die Flugreise benötigen Staatsangehörige dieser drei Länder grundsätzlich einen gültigen Pass und eine Electronic Travel Authorization, kurz eTA. Die eTA ist an den Pass gebunden; mit einem neuen Pass brauchst du eine neue eTA. Bei Einreise auf dem Land- oder Seeweg gelten andere eTA-Regeln. Wer zusätzlich kanadischer Staatsbürger oder bereits Permanent Resident ist, reist mit den dafür vorgesehenen Dokumenten.</p><p>Die meisten Besucher dürfen bis zu sechs Monate bleiben. Der Grenzbeamte kann eine kürzere oder längere Aufenthaltsdauer festlegen. Die eTA kann mehrere Jahre gültig sein, verlängert aber den einzelnen erlaubten Aufenthalt nicht. Ein Wohnsitz in Deutschland, Österreich oder der Schweiz genügt für diese Passregel nicht: Für andere Staatsangehörigkeiten zählt der tatsächlich verwendete Pass.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html\" rel=\"noreferrer\">IRCC: Einreisedokumente nach Staatsangehörigkeit</a></p><p class=\"exb-citation\">Quelle: <a href=\"https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1016&amp;top=16\" rel=\"noreferrer\">IRCC: Aufenthaltsdauer für Besucher</a></p><h3>Daueraufenthalt und Familiennachzug</h3><p>Express Entry verwaltet Anträge über qualifikationsbezogene Einwanderungsprogramme. Zwischen dem angelegten Profil, einer Einladung und dem bewilligten Daueraufenthalt liegen unterschiedliche Schritte. Nach einer Einladung bleiben laut IRCC 60 Tage für den vollständigen Antrag. Eine Provinznominierung oder Familien-Sponsoring kann je nach persönlichen Voraussetzungen einen anderen Zugang eröffnen. Ein Sprachtest, Qualifikationsnachweise und die Unterlagen der Angehörigen gehören deshalb früh in die Vorbereitung.</p><p>Das Start-up-Visa-Programm nimmt derzeit keine neuen Anträge an. Ein früher gelesener Investoren- oder Gründerartikel ist damit keine Grundlage für einen neuen Antrag. Für deinen Fall bestimmen wir zuerst den tatsächlich nutzbaren Weg und erst danach die Reihenfolge von Umzug, Arbeit und langfristiger Wohnbindung.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/apply-permanent-residence.html\" rel=\"noreferrer\">IRCC: Express Entry, Einladung und Antrag</a></p><p class=\"exb-citation\">Quelle: <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/eligibility.html\" rel=\"noreferrer\">IRCC: aktueller Status des Start-up Visa</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fkanada%2F#kurzanfrage\">Vorbereitung für Kanada anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Wo wohnen? Mieten und Immobilienkauf in Kanada",
+      "body": "<h3>Drei Standorte mit unterschiedlichem Alltag</h3><ul><li><strong>Toronto und Umland:</strong> sinnvoll, wenn Arbeit, Schule und Fachmedizin im großen Ballungsraum zusammenkommen sollen. Vergleiche die konkrete Adresse mit dem Schulbezirk und der täglichen Fahrzeit.</li><li><strong>Halifax:</strong> ein atlantischer Stadtstandort für eine überschaubarere Basis. Für regelmäßige Spezialbehandlung zählt die erreichbare Klinik, nicht das ruhigere Wohngefühl allein.</li><li><strong>Vancouver und Umgebung:</strong> eine westliche Metropolregion mit anderem Klima und anderer Zeitzone. Zur Objektprüfung gehören örtliche Überflutungs- und Erdbebenrisiken ebenso wie die Auswirkungen von Waldbrandrauch.</li></ul><p>Waldbrandrauch kann auch Menschen weit vom Brandort erreichen. Health Canada empfiehlt, Luftqualität und Gesundheitswarnungen zu verfolgen und Innenräume vorzubereiten. Bei Asthma oder anderen Vorerkrankungen ist das ein konkretes Wohn- und Versorgungskriterium.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.canada.ca/en/services/health/healthy-living/environment/air-quality/wildfire-smoke.html\" rel=\"noreferrer\">Health Canada: Waldbrandrauch und Gesundheit</a></p><h3>Mieten: erst ankommen, dann langfristig binden</h3><p>Eine möblierte Unterkunft für die erste Zeit hält dich beweglich, bis Schulplatz, Arbeit und Viertel feststehen. Bei der langfristigen Miete werden Identität, finanzielle Tragfähigkeit und gegebenenfalls Referenzen abgestimmt. Halte im Vertrag fest, ob Heizung, Strom, Parkplatz und Einrichtung enthalten sind und wie Kündigung, Schäden und längere Abwesenheit behandelt werden.</p><p>Das Mietrecht ist provinziell. In Ontario ist für die meisten privaten Wohnraummietverhältnisse das amtliche Standardformular vorgeschrieben. Es benennt Miethöhe, enthaltene Leistungen, Hausregeln und Verantwortlichkeiten. Bei Besichtigung und Übergabe werden Zustand und Inventar dokumentiert. Die Ontario-Regeln werden bei einem Umzug nach British Columbia oder Nova Scotia durch deren eigenes Mietrecht ersetzt.</p><p class=\"exb-citation\">Quelle: <a href=\"http://www.ontario.ca/page/renting-ontario-your-rights\" rel=\"noreferrer\">Ontario: Mietrechte und Standardmietvertrag</a></p><h3>Ein Haus kaufen: zuerst die Berechtigung und das konkrete Grundstück</h3><p>Kanadas bundesweite Kaufbeschränkung für bestimmte Wohnimmobilien durch Nichtkanadier gilt nach dem derzeit veröffentlichten Stand bis zum 1. Januar 2027. Sie erfasst insbesondere Häuser mit bis zu drei Wohneinheiten und Eigentumswohnungen in Census Metropolitan Areas und Census Agglomerations. Kanadische Staatsbürger und Permanent Residents fallen nicht unter diesen Personenkreis; bestimmte vorübergehend Aufenthaltsberechtigte können eine Ausnahme erfüllen. Außerhalb der erfassten Ballungsräume greift diese bundesweite Beschränkung nicht. Provinzrecht und die genaue Grundstücksart bleiben zusätzlich maßgeblich.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-research/consultations/prohibition-purchase-residential-property-non-canadians-act\" rel=\"noreferrer\">CMHC: Kaufbeschränkung, betroffene Immobilien und Ausnahmen</a></p><p>Vor einer verbindlichen Zusage wird der Eigentumstitel mit Belastungen und Rechten Dritter geprüft. In Ontario erfolgt die Registrierung über das provinzielle elektronische Grundbuchsystem. Ein eigener örtlicher Rechtsbeistand prüft Kaufvertrag und Titel; die technische Inspektion untersucht das Gebäude. Zur Kalkulation gehören Rechts- und Registrierungskosten, Inspektion, Grunderwerbsteuern, Versicherung und laufende kommunale Abgaben. In Ontario kann zusätzlich die Non-Resident Speculation Tax anfallen. Eine Ausnahme vom Bundesverbot und eine Befreiung von dieser Steuer sind unterschiedliche Fragen.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.ontario.ca/page/register-land-documents-electronically?redirect_id=page%2Fsearch-land-property-records&amp;redirect_year=2025\" rel=\"noreferrer\">Ontario: elektronische Registrierung von Grundstücksrechten</a></p><p class=\"exb-citation\">Quelle: <a href=\"https://www.ontario.ca/document/land-transfer-tax\" rel=\"noreferrer\">Ontario: Land Transfer Tax</a></p><p>Du kannst EXOBASIS mit der Vorbereitung des Immobilienkaufs beauftragen: Standort- und Bedarfsprofil, Suchauftrag, Besichtigungen, Organisation einer unabhängigen Titel- und Kaufprüfung, Vertrags- und Abschlusskoordination sowie Übergabe. Die konkrete lokale Fachausführung wird dafür eingebunden. Für die Zeit danach organisieren wir auf Wunsch die Objektbetreuung und eure nächste Ankunft.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Unterkunft, Immobilienkauf und Ankunft organisieren</a></p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Krankenversicherung und Pflege vorbereiten",
+      "body": "<h3>Schulbesuch mit dem passenden Status</h3><p>Für minderjährige Kinder unterscheidet IRCC unter anderem danach, ob ein Elternteil in Kanada zum Arbeiten oder Studieren berechtigt ist oder nur als Besucher einreist. Bei ausschließlich besuchenden Eltern kann für längeren Schulbesuch ein Study Permit nötig sein. Aufenthaltsrecht, Schulzulassung und mögliche Schulgebühren sind deshalb gemeinsam zu klären. Die örtliche Schulbehörde benötigt die für die Aufnahme maßgeblichen Personen-, Wohnsitz- und Schulunterlagen.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html\" rel=\"noreferrer\">IRCC: Schulbesuch minderjähriger Kinder</a></p><p>Bei getrennt reisenden Eltern gehören Sorge- und Reisebefugnisse zu den Vorbereitungen. Wie du das für die ganze Familie ordnest, erklärt die Seite <a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a>.</p><h3>Gesundheitsversorgung ist provinziell geregelt</h3><p>Am Beispiel Ontario: OHIP setzt neben einem passenden Status den Hauptwohnsitz in Ontario und grundsätzlich 153 Anwesenheitstage in jedem Zwölfmonatszeitraum voraus; zu Beginn gelten außerdem 153 der ersten 183 Tage. Für berechtigte Neuzuziehende besteht dort keine allgemeine Wartezeit. Ein reiner Besucherstatus begründet jedoch keine reguläre OHIP-Berechtigung. Andere Provinzen haben eigene Aufnahmebedingungen.</p><p class=\"exb-citation\">Quelle: <a href=\"http://www.ontario.ca/page/apply-ohip-and-get-health-card\" rel=\"noreferrer\">Ontario: OHIP-Berechtigung und Anwesenheit</a></p><p>Für die erste Reise und jede nicht öffentlich gedeckte Zeit brauchst du einen passenden Versicherungsschutz. Daneben wird die tatsächliche Behandlung organisiert: Hausarztaufnahme, Fachtermine, Medikamente und bei Pflegebedarf ein konkreter Versorgungsdienst. Eine Versicherungskarte beschafft keinen verfügbaren Pflegeplatz. Übernimm deshalb Befunde, Wirkstoffnamen, Dosierungen und die notwendige laufende Behandlung in das medizinische Dossier.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Behandlung im Ausland</a></p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Geld, Einkommen und Steuern beim Umzug nach Kanada",
+      "body": "<p>Ein kanadisches Konto kann auch für Menschen möglich sein, die keine kanadischen Staatsbürger sind oder im Ausland leben. Die Financial Consumer Agency nennt dafür die Identitätsprüfung als Voraussetzung; eine persönliche Vorsprache kann erforderlich sein. Ein üblicher Nachweisweg kombiniert ein Dokument mit Name und Adresse mit einem zweiten Dokument mit Name und Geburtsdatum. Originaldokumente sind erforderlich.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.canada.ca/en/financial-consumer-agency/services/banking/opening-bank-account.html\" rel=\"noreferrer\">Financial Consumer Agency of Canada: Kontoeröffnung und Identität</a></p><p>Bereite deshalb Banktermin, akzeptierte Adressbelege und die Herkunft größerer Überweisungen vor. Teste anschließend Zahlung, Abhebung und Wiederzugang. Eine zusätzliche Karte hilft bei einer Kontosperre nur, wenn sie tatsächlich auf einen getrennt nutzbaren Zahlungsweg zugreift. Für die ersten Wochen bleibt eine erreichbare Reserve außerhalb einer noch laufenden Kontoaufnahme sinnvoll.</p><p>Wie du Identitäts- und Mittelherkunftsnachweise, Kontoannahme und einen zweiten Zahlungsweg zusammenbringst, erklärt <a class=\"exb-text-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Bankkonto und Zahlungsfähigkeit im Ausland</a>. Für Kanada werden zuerst die akzeptierten Originalunterlagen und der mögliche persönliche Termin mit dem Institut abgestimmt. Danach folgen die geplante Transferfolge und der Test des tatsächlich verfügbaren Zugriffs, bevor du Miete und laufende Zahlungen davon abhängig machst. Mit <a class=\"exb-text-link\" href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität vorbereiten</a> kannst du diese Aufnahme- und Zahlungskoordination als konkrete Arbeit beauftragen.</p><p>Die kanadische Steueransässigkeit hängt besonders von tatsächlichen Wohn- und Familienbindungen ab. Die Canada Revenue Agency nennt etwa eine Wohnung, Ehepartner und unterhaltsabhängige Kinder in Kanada. Die 183-Tage-Regel ist ein weiterer möglicher Anknüpfungspunkt und kein allgemeiner steuerfreier Schonraum. Bei steuerlicher Ansässigkeit wird grundsätzlich das Welteinkommen relevant. Ein fortbestehender Wohnsitz, Immobilien oder ein Unternehmen in Deutschland, Österreich oder der Schweiz erfordern die jeweils eigene Wegzugs- und Abkommensprüfung.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/determining-your-residency-status.html\" rel=\"noreferrer\">Canada Revenue Agency: steuerliche Ansässigkeit</a></p><p>Plane deinen Haushalt getrennt von gebundenem Vermögen: Wohnung, Heizung, Transport, Versicherung, Schulgebühren soweit erforderlich, Fachkosten und Reserve für einen verzögerten Arbeitsbeginn. Ein lokales Unternehmen, Fernarbeit für Europa und die Leitung einer bestehenden Gesellschaft sind unterschiedliche Aufgaben. EXOBASIS organisiert die passende steuerliche Fachklärung und den Übergang der vereinbarten laufenden Arbeit.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Welche Dokumente rechtzeitig bereitliegen sollten",
+      "body": "<p>Der bestätigte Aufenthaltsweg bestimmt die Unterlagen: Pässe, Familienstand, Geburtsurkunden, Sprach- und Qualifikationsnachweise sowie gegebenenfalls Führungszeugnisse, medizinische Untersuchungen und Mittelbelege. Für Schule und Behandlung kommen Zeugnisse, Impfdokumentation und Befunde hinzu. Übersetzung und Beglaubigung richten sich nach dem Empfänger; dieselbe Kopie ist nicht automatisch für Behörde, Bank und Schule ausreichend.</p><p>Wir ordnen Beschaffung, Gültigkeit und Abgabe nach der tatsächlichen Frist. Gerade die 60 Tage nach einer Express-Entry-Einladung machen vorbereitete Nachweise wertvoll. Für eine erste Standortreise werden Unterkunft, Besichtigungen und vereinbarte Bank-, Schul- oder Fachtermine so gelegt, dass du mit geklärten nächsten Schritten zurückkommst.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a></p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Die kanadische Basis während deiner Abwesenheit erhalten",
+      "body": "<p>Permanent Residents müssen grundsätzlich mindestens 730 Tage innerhalb von fünf Jahren in Kanada verbringen; bestimmte Auslandszeiten können angerechnet werden. Für die Rückreise mit einem kommerziellen Verkehrsmittel brauchst du als Permanent Resident die gültige PR Card oder das passende Permanent Resident Travel Document. Ein abgelaufenes Kartendokument und der Verlust des Aufenthaltsstatus sind unterschiedliche Dinge.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html\" rel=\"noreferrer\">IRCC: Permanent Residence, Anwesenheit und Reisedokumente</a></p><p>Führe Aufenthaltszeiten, Kartengültigkeit und Gesundheitsberechtigung deshalb getrennt. Hinzu kommen Miet- oder Eigentumspflichten, Steuern, Versicherungsbedingungen und die Betreuung des Hauses. Vor einer Rückkehr werden Heizung, Wasser, Schlüssel, Lebensmittel, Medikamente und Erreichbarkeit wieder aktiviert. EXOBASIS kann diesen Pflegekalender und die vereinbarten Kontrollen für dich betreuen.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a></p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Deine Kanada-Vorbereitung beauftragen",
+      "body": "<p>Du kannst mit einem vollständigen Vorhaben oder einer klaren Einzelaufgabe zu uns kommen. EXOBASIS vergleicht die passende Provinz und Wohnlage, organisiert Dokumenten- und Aufenthaltsarbeit und setzt die beauftragte Ankunftsvorbereitung um. Ein Immobilienkauf kann als eigener Baustein von der Suche bis zur Übergabe geführt werden. Schule, medizinischer Anschluss, Zahlungswege und laufende Betreuung werden nach deinem Bedarf damit verbunden.</p><p>Am Ende der jeweiligen Arbeit stehen konkrete Ergebnisse: ein begründeter Standortentscheid, geordnete und eingereichte Unterlagen im vereinbarten Verfahren, eine vertraglich geklärte Wohnlösung oder eine vorbereitete Ankunft mit benannten Zuständigkeiten. Für die Anfrage genügen zunächst dein bisheriger Wohnsitz, die Pässe der Mitreisenden, dein Ziel und der zeitliche Rahmen. Wenn du noch nicht weißt, welche Unterstützung passt, kannst du eine kostenlose 20-Minuten-Orientierung anfragen.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen vergleichen</a></p><h3>Wenn du zwischen Ländern abwägst</h3><p><a class=\"exb-text-link\" href=\"/de/laender/neuseeland/\">Neuseeland als persönliche Ausweichoption</a> bietet einen Vergleich für eine weit entfernte Familienbasis mit eigenen Qualifikations- und Investorenwegen. Für eine Krisenbasis kommt ein konkreter Ernährungsbefund hinzu: In der <a href=\"https://onlinelibrary.wiley.com/doi/10.1111/risa.14072\" rel=\"noreferrer\">Szenariostudie von Boyd und Wilson</a> bleibt Neuseelands rechnerische Nahrungsproduktion selbst bei einem schweren nuklearen Winter über der angesetzten Versorgungsschwelle. Der hohe Exportüberschuss trägt dieses Potenzial; Treibstoff, Verarbeitung und Transport müssen es für die Bevölkerung nutzbar machen. Wäge diesen Befund gegen den langen, transitabhängigen Reiseweg und eure tatsächlich erreichbaren Aufenthaltsrechte ab. Die Studie berechnet damit keine Sicherheitsrangfolge zwischen Kanada und Neuseeland. <a class=\"exb-text-link\" href=\"/de/laender/irland/\">Irland als persönliche Ausweichoption</a> ist ein näherer englischsprachiger Vergleich; für EU-Staatsangehörige verändert die Freizügigkeit den Ausgangspunkt.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fkanada%2F#kurzanfrage\">Vorbereitung für Kanada anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Kann ich als Rentner oder Privatier durch einen Hauskauf nach Kanada auswandern?",
+    "answer": "Ein Hauskauf schafft keinen kanadischen Aufenthaltsstatus. Für eine dauerhafte Niederlassung brauchst du einen persönlich passenden Einwanderungsweg; zusätzlich muss der Kauf nach Bundes- und Provinzrecht zulässig sein. Ein befristeter Besuch und eine Mietwohnung können zunächst der Erkundung dienen."
+  },
+  "editorialSources": [
+    "ca"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 1088,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1090,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1091,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1092,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1093,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1094,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1095,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1096,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1097,
+      "target": "/en/countries/canada/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1472,
+      "target": "/de/laender/neuseeland/",
+      "label": "Neuseeland als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1474,
+      "target": "/de/laender/irland/",
+      "label": "Irland als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Auswandern nach Kanada: eine Familienbasis, die wirklich trägt"
+}

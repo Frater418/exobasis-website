@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+  "lang": "de",
+  "title": "Kontozugang und Zahlungsfähigkeit im Ausland",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-e96fc32ccb5314"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-be1938b12975bb"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-e37b182705c78e"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Dein Plan B / Wissen",
+  "seoTitle": "Konto im Ausland und Zahlungsfähigkeit | EXOBASIS",
+  "description": "Auslandskonto, Debanking und Kontosperre: Bankaufnahme, Mittelherkunft und unabhängige Zahlungswege für Familie und Unternehmen vorbereiten.",
+  "intro": "<p>Ein Konto im Ausland soll dir einen zusätzlichen nutzbaren Zahlungsweg geben. Entscheidend ist, dass du Miete, Behandlung, Reise und betriebliche Verpflichtungen bezahlen kannst, auch wenn deine Hauptbank kündigt, eine Prüfung beginnt oder dein Telefon ausfällt.</p><p>Dafür zählen die annehmende Bank, deine tatsächliche Wohnsitz- und Steuersituation, nachvollziehbare Mittelherkunft und ein getesteter Zugriff. Zwei Konten helfen erst dann wirklich, wenn ihre wichtigsten Abhängigkeiten nicht identisch sind.</p>",
+  "primary": {
+    "label": "Bankzugang und Zahlungswege vorbereiten",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Dein Geld muss für die richtigen Aufgaben erreichbar sein.",
+    "facts": [
+      [
+        "Ursache",
+        "Kündigung, Prüfung, Technik oder Maßnahme"
+      ],
+      [
+        "Abhängigkeit",
+        "Institut, Netz, Gerät und Person"
+      ],
+      [
+        "Nachweis",
+        "Erlaubter Zugriff und verwendbarer Zahlweg"
+      ]
+    ],
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Karte und Kompass als Symbol für die persönliche Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Debanking, Kontokündigung oder Sperre: Was ist passiert?",
+      "body": "<p>Debanking bezeichnet den Ausschluss von Bankdienstleistungen oder die Beendigung einer Geschäftsbeziehung. Ob eine konkrete Kündigung politisch motiviert ist, ergibt sich aus dem belegten Vorgang, nicht aus dem Wort selbst. Für deinen nächsten Schritt musst du zunächst unterscheiden, was die Bank tatsächlich getan hat.</p><p><strong>Eine technische Sperre:</strong> Funktionieren nur Anmeldung oder Karte nicht, oder sind auch Überweisungen und Guthaben betroffen? Nutze einen bekannten Kontaktweg des Instituts, dokumentiere die Fehlermeldung und sichere bei einem Betrugsverdacht den Zugang. Ein gesperrtes Gerät ist ein anderer Fall als ein gesperrtes Konto.</p><p><strong>Eine Kündigung:</strong> Halte Kündigungsdatum, Wirksamkeit, Kontotyp und vereinbarten Umgang mit Restguthaben fest. Eine Kündigung lässt Guthaben nicht einfach verschwinden; wann und wie du darüber verfügen kannst, hängt aber auch von offenen Forderungen oder zusätzlichen Sperren ab. Fordere eine schriftliche Abwicklung und eine Schlussabrechnung an. Verlass dich nicht auf eine pauschale Auszahlungsfrist.</p><p>Stelle vor Kontoschließung die Ein- und Ausgänge um: Gehalt, Renten, Kunden, Lastschriften, Kreditraten und wiederkehrende Kartenzahlungen. Sichere Auszüge und Nachweise. Bestätige die neue Verbindung über bekannte Kanäle und kontrolliere anschließend eine echte Zahlung. Beim Geschäftskonto kommen Löhne, Steuern, Zahlungsanbieter und die Rechte deiner Vertretung hinzu.</p><p><strong>Eine Prüfung oder hoheitliche Maßnahme:</strong> Frage nach Umfang, verlangten Unterlagen, zuständigem Ansprechpartner und zulässigen nächsten Schritten. Bei Pfändung, Geldwäscheprüfung oder Sanktionen führt die fachliche Klärung über das Institut und gegebenenfalls einen spezialisierten Rechtsanwalt. Der Ersatzweg dient rechtlich zulässigen Zahlungen aus verfügbaren Mitteln.</p><p><strong>Konto gesperrt: Was geht heute vor?</strong> Führe zwei kurze Listen. Auf der ersten stehen Sperrgrund, Nachweise, Fristen und Bankkontakt. Auf der zweiten stehen fällige Grundbedürfnisse und Verpflichtungen mit Empfänger, Betrag, Termin und zulässiger Finanzierung. Stimme bei absehbaren Verzögerungen frühzeitig einen Zahlungsaufschub ab.</p><p>Für Verbraucher mit rechtmäßigem Aufenthalt in der EU kann in Deutschland ein Basiskonto in Betracht kommen, auch ohne festen Wohnsitz. Gesetzliche Ablehnungsgründe bleiben möglich. Bei Ablehnung nennt die BaFin unter anderem ein Verwaltungsverfahren, Verbraucherschlichtung oder Zivilklage. Der Basiskontoanspruch ist von der Eröffnung eines Geschäftskontos zu unterscheiden.</p><p><strong>Sanktion oder falsche Zuordnung?</strong> Bei einer Finanzsanktion werden betroffene Person, Rechtsakt und Reichweite der Sperre festgestellt. Das Russland-/Ukraine-Regime unterscheidet unter anderem eingefrorene Gelder und Bereitstellungsverbote. Die Bundesbank kann unter den jeweiligen Voraussetzungen Ausnahmegenehmigungen, etwa für Grundbedürfnisse gelisteter Personen, erteilen. Eine falsche Zuordnung wird mit belastbaren Identitäts- und Sachnachweisen angegriffen; eingefrorene Gelder werden nur im zulässigen Freigabeverfahren verfügbar gemacht.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/konten-zahlungen/konten/girokonto/girokonto_node.html\" rel=\"noopener noreferrer\">BaFin: Girokonto und Bankwechsel</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/konten-zahlungen/konten/basiskonto/basiskonto_node.html\" rel=\"noopener noreferrer\">BaFin: Anspruch und Verfahren beim Basiskonto</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.bundesbank.de/de/service/finanzsanktionen/sanktionsregimes/-/russland-ukraine-610842\" rel=\"noopener noreferrer\">Bundesbank: Russland-/Ukraine-Sanktionen und Ausnahmegenehmigungen</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/wiederzugang-telefon-email/\" data-route=\"/de/wissen/wiederzugang-telefon-email/\"><span>Wenn Telefon, SIM und Haupt-E-Mail ausfallen</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Was ein unabhängiger zweiter Zahlungsweg leisten muss",
+      "body": "<p>Vergleiche die konkrete Bankgesellschaft und ihre Aufsicht, nicht nur zwei Markennamen. Danach folgen Zahlungsnetz, Währungen, Karten, Freigabegeräte und die Möglichkeit einer berechtigten Vertretung. Mehrere Karten an derselben Bank und demselben Telefon lassen viele Ausfallursachen gemeinsam bestehen.</p><p>Unterscheide außerdem ein Bankkonto von einem Zahlungs- oder E-Geld-Konto. Der Schutzmechanismus kann verschieden sein. Die britische FCA erläutert beispielsweise, dass die Absicherung von Kundengeldern bei E-Geld-Instituten nicht mit dem Einlagenschutz eines Bankkontos gleichzusetzen ist. Maßgeblich ist die tatsächliche Vertragsgesellschaft deines Produkts.</p><p>Ein sogenanntes Offshore-Konto ist zunächst ein Konto in einer anderen Jurisdiktion. Der Begriff beantwortet weder die Annahmebedingungen noch die Steuer- und Meldepflichten oder die Qualität des Zugriffs. Für deine Auswahl zählt, was das konkrete Konto in deinem Fall leisten darf und kann.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.fca.org.uk/consumers/using-payment-service-providers\" rel=\"noopener noreferrer\">FCA: Bankkonto, Zahlungsdienste und Schutz von Kundengeldern</a></p><p class=\"exb-source-note\">Zum Unterschied zwischen Kontostand und verfügbarem Betrag: <a href=\"https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/understanding-your-balance/\" rel=\"noopener noreferrer\">HSBC UK: verfügbare Beträge und vorgemerkte Zahlungen</a>. Die Darstellung erläutert HSBC-UK-Produkte; für dein Konto gelten dessen eigene Verfügbarkeitsangaben und Bedingungen.</p>",
+      "criteria": {
+        "title": "Geldzugang prüfen: Fragen und Nachweise",
+        "headers": [
+          "Prüfgegenstand",
+          "Konkrete Frage",
+          "Benötigter Nachweis"
+        ],
+        "rows": [
+          [
+            "Kontoinhaber",
+            "Wer ist rechtmäßiger Kontoinhaber: du, eine andere Person oder dein Unternehmen?",
+            "Kontovertrag oder Eröffnungsbestätigung mit Inhabername und Kontokennung, abgeglichen mit Ausweis oder Unternehmensunterlagen. Die Inhaberschaft belegt noch keinen funktionierenden Zugriff."
+          ],
+          [
+            "Institut",
+            "Eigenständige Bankgesellschaft oder dieselbe Gruppe? Welche Gesellschaft führt das Konto und wozu ist sie zugelassen?",
+            "Vertragspartner im Kontovertrag und passender Eintrag im zuständigen Aufsichtsregister mit Zulassungsumfang. Die Gruppenzugehörigkeit zusätzlich anhand der Anbieterangaben prüfen."
+          ],
+          [
+            "Produkt",
+            "Welcher Vertrags- und Schutzrahmen gilt? Handelt es sich um eine Bankeinlage, ein E-Geld-Guthaben oder ein anderes Produkt?",
+            "Produktvertrag und Unterlagen zum tatsächlich geltenden Sicherungsmechanismus mit Voraussetzungen und Ausschlüssen. Einlagenschutz und E-Geld-Safeguarding unterscheiden; eine mögliche spätere Entschädigung ersetzt keinen heutigen Zahlungsweg."
+          ],
+          [
+            "Verfügbare Mittel",
+            "Welcher Betrag ist nach Reservierungen, Bindungen und Limits für deine nächste zulässige Zahlung nutzbar?",
+            "Aktuelle Verfügbarkeitsanzeige samt Vormerkungen und Sperren, Produktlimits sowie Beleg einer zulässigen Testzahlung. Betrag, Währung und Zeitpunkt festhalten; der Kontostand allein genügt nicht."
+          ],
+          [
+            "Zahlweg",
+            "Erreichen Ein- und Auszahlungen die benötigten Empfänger?",
+            "Zahlungsanweisungen des Instituts und Belege tatsächlich eingegangener Testzahlungen über die benötigte Währung und Zahlungskette. Empfänger, Dauer, Gebühren und beteiligte Zwischenbanken dokumentieren."
+          ],
+          [
+            "Vertretung",
+            "Darf und kann die vorgesehene Person die Aufgabe erledigen?",
+            "Zur Aufgabe passende Vollmacht oder Zeichnungsberechtigung, Bestätigung des Instituts über den dort eingerichteten Umfang und dokumentierter Funktionstest über das zugelassene Verfahren. Geteilte Passwörter ersetzen keine Berechtigung."
+          ],
+          [
+            "Authentifizierung",
+            "Funktioniert der Zugang ohne Haupttelefon und Haupt-E-Mail? Lassen sich auch Zahlungen freigeben und Zugänge berechtigt wiederherstellen?",
+            "Anbieteranleitung und bestätigte Einrichtung der vorgesehenen Verfahren; datiertes Testprotokoll für Anmeldung, Zahlungsfreigabe und den zugelassenen Wiederherstellungsweg. Keine Passwörter oder Wiederherstellungscodes im Protokoll speichern."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Zahlungen nach Empfänger und Währung vorbereiten",
+      "body": "<p>Liste die Zahlungen auf, die funktionieren müssen: Unterkunft und Kaution, medizinische Vorschüsse, laufender Familienbedarf, Löhne und geschäftliche Rechnungen. Prüfe, ob das jeweilige Konto diese Empfänger in der benötigten Währung erreicht und welche Limits, Entgelte und Umrechnungen gelten.</p><p>Teste den vorgesehenen Weg mit einer kleinen zulässigen Zahlung und kontrolliere den tatsächlichen Eingang. Teste auch die Anmeldung nach einem Gerätewechsel über das erlaubte Wiederherstellungsverfahren. Eine große Überweisung am Abreisetag sollte nicht der erste praktische Versuch sein.</p><p>Für eine Kaution, etwa bei einer Hotel- oder Mietwagenbuchung, klärst du mit dem konkreten Anbieter am jeweiligen Ort, welches Kartenprodukt er akzeptiert und auf wessen Namen die Karte ausgestellt sein muss. Prüfe, ob für die Vorautorisierung genügend Guthaben oder Kreditrahmen tatsächlich frei ist und welche Mittel bis zur Freigabe gebunden bleiben. Eine erfolgreiche Überweisung oder Alltagskartenzahlung weist diese Kautionsfunktion nicht nach.</p><p>Verteile die Reise- und Ankunftsreserve so, dass eine einzelne technische Störung nicht alle notwendigen Zahlungen stoppt. Bargeldmitnahme, grenzüberschreitende Zahlungen und Kontoführung haben jeweils eigene Regeln. Eine Reserve wird deshalb offen und rechtmäßig vorbereitet, passend zu Route und persönlicher Situation.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/vermoegen-uebertragen/\" data-route=\"/de/leistungen/vermoegen-uebertragen/\"><span>Vermögen übertragen und legal verfügbar halten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Auslandskonto ohne dortigen Wohnsitz: Aufnahme und Mittelherkunft",
+      "body": "<p>Ein Konto im Ausland ohne Wohnsitz im Bankland ist bei manchen Instituten möglich. Das bedeutet nicht, dass du ohne nachvollziehbare Wohnadresse und steuerliche Angaben aufgenommen wirst. Die Bank beurteilt Staatsangehörigkeit, tatsächliches Wohnsitzland, steuerliche Ansässigkeit, Kontozweck und Geldbewegungen. Privat- und Geschäftsnutzung müssen zum Produkt passen.</p><p><strong>Georgien:</strong> TBC stellt einen eigenen Registrierungsweg für Nichtansässige bereit. Die Bank verlangt einen gültigen Pass; zusätzliche Unterlagen können angefordert werden. Ihre Expat-Seite beschreibt außerdem die Filialaufnahme sowie Aktualisierung von Pass- und Kundendaten. Vor Reise und Transfer wird die Annahme deiner konkreten Konstellation geklärt.</p><p><strong>Schweiz:</strong> Die Schweizerische Bankiervereinigung nennt Identifikation, wirtschaftlich Berechtigte sowie mögliche Nachweise zu Tätigkeit, finanziellen Verhältnissen und Herkunft der Gelder. Schweizer Banken berücksichtigen auch die grenzüberschreitenden Regeln des Kundenfalls und können Kunden ablehnen. Der Standort allein begründet keinen Aufnahmeanspruch.</p><p>Baue dein Nachweisdossier entlang des wirklichen Vermögenswegs auf. Bei einem Immobilienverkauf gehören zum Beispiel Kaufvertrag, Abrechnung, Zahlungseingang und anschließender Transfer zusammen. Bei Unternehmensmitteln sind Gesellschaft, Gewinnentstehung und die Berechtigung zur Auszahlung relevant. Stimme die geforderte Form vorab mit abgebender und empfangender Bank ab und plane Zeit für Rückfragen ein.</p><p>Für in Deutschland Ansässige können Zahlungen von mehr als 50.000 Euro an oder von Ausländern nach der AWV meldepflichtig sein; gesetzliche Ausnahmen und der wirtschaftliche Vorgang sind entscheidend. Reine Überträge zwischen eigenen In- und Auslandskonten sind nach der Bundesbank-FAQ davon ausgenommen. Die anschließende Zahlung vom Auslandskonto an einen Verkäufer kann dagegen meldepflichtig sein. Die allgemeine Frist ist der siebte Werktag nach Ende des Berichtsmonats. Diese Statistikmeldung und die Herkunftsprüfung der Bank sind getrennte Aufgaben.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://nonresident.tbcbank.ge/\" rel=\"noopener noreferrer\">TBC: Registrierung für Nichtansässige</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.swissbanking.ch/de/finanzplatz/informationen-fuer-kunden/informationen-fuer-privatkunden\" rel=\"noopener noreferrer\">Schweizerische Bankiervereinigung: Kontoeröffnung und Sorgfaltspflichten</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.bundesbank.de/resource/blob/611818/322dc306160147799d35615f61a029d3/472B63F073F071307366337C94F8C870/faqs-zur-awv-zahlungsmeldungen-data.pdf\" rel=\"noopener noreferrer\">Bundesbank: AWV-Zahlungsmeldungen, Fragen 1, 2, 5 und 13</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/bankzugang-liquiditaet/\" data-route=\"/de/leistungen/bankzugang-liquiditaet/\"><span>Bankzugang und Liquidität vorbereiten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Familie und Vertretung müssen selbst handeln können",
+      "body": "<p>Lege fest, wer welche Zahlung ausführen darf, wenn du nicht erreichbar bist. Eine Bankvollmacht, ihre Annahme durch das Institut und ein eigener zugelassener Zugang gehören zusammen. Persönliche Passwörter oder Freigabecodes weiterzugeben ersetzt das nicht.</p><p>Gehe den Ablauf mit der vorgesehenen Person durch: richtige Unterlage finden, Bankkontakt erreichen, verfügbare Mittel sehen und eine vereinbarte Zahlung im erlaubten Umfang veranlassen. Berücksichtige Limits, erforderliche zweite Freigaben und den Fall, dass auch dein Ersatzgerät ausfällt.</p><p>Für dein Unternehmen wird derselbe Test auf Gehalt, Steuern und wichtige Lieferanten angewendet. Die Befugnisse der handelnden Person müssen dabei zur Gesellschaft und zum Konto passen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Bankvorbereitung und Zahlungsfähigkeit organisieren lassen",
+      "body": "<p>EXOBASIS führt deinen Zahlungsbedarf, die persönliche Ausgangslage und die erforderlichen Nachweise zusammen. Wir organisieren die vereinbarte Bankvorbereitung, Antrags- und Dokumentenarbeit, Abstimmung von Transfers sowie den praktischen Zugriffstest. Die Bank entscheidet über die Aufnahme und ihre Geschäftsbedingungen.</p><p>Bei einer bestehenden Sperre wird zuerst der konkrete Fachweg geklärt. Bei einer rechtzeitigen Vorbereitung richten wir den zusätzlichen Zahlungsweg so ein, dass er zu Familie, Betrieb und Außenbasis passt. Beschreibe im Erstkontakt Aufgabe und betroffene Länder; Kontodaten, Nachweise und Berechtigungen werden anschließend gezielt aufgenommen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/diskretion/\" data-route=\"/de/diskretion/\"><span>Diskretion und geschützte Zusammenarbeit</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Eigenständige deutsche Neuredaktion nach PB-D65 aus Originalbriefing, DACH-Recherche und gelesenen Fachquellen.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Debanking, Kontokündigung oder Sperre: Was ist passiert?"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Was ein unabhängiger zweiter Zahlungsweg leisten muss"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Zahlungen nach Empfänger und Währung vorbereiten"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Auslandskonto ohne dortigen Wohnsitz: Aufnahme und Mittelherkunft"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Familie und Vertretung müssen selbst handeln können"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Bankvorbereitung und Zahlungsfähigkeit organisieren lassen"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 522,
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 520,
+        "target": "/de/leistungen/vermoegen-uebertragen/",
+        "label": "Vermögen übertragen und legal verfügbar halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Übertragungsschritte",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 519,
+        "target": "/de/leistungen/bankzugang-liquiditaet/",
+        "label": "Bankzugang und Liquidität vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Bankaufnahme und Liquidität vorbereiten",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 521,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 523,
+        "target": "/de/diskretion/",
+        "label": "Diskretion und geschützte Zusammenarbeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Am Anfrageübergang: geschützte Zusammenarbeit",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 524,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-6"
+      }
+    ],
+    "seeding": [
+      "D01",
+      "D02",
+      "D03",
+      "D04",
+      "D22"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Konto im Ausland eröffnen und zahlungsfähig bleiben"
+}

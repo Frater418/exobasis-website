@@ -1,0 +1,198 @@
+{
+  "route": "/en/countries/spain/",
+  "lang": "en",
+  "title": "Spain as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/spanien/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-a9dbaf3e536813"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-20db6c5297fbc7"
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Moving to Spain: residency, family and property | EXOBASIS",
+  "description": "Prepare a move to Spain from the UK, UAE or elsewhere: residence routes, family life, renting and buying property, healthcare, work and practical setup.",
+  "intro": "<p>Spain can bring your family closer to the life you want: a settled home, a different daily rhythm and a base within Europe. Making it work starts with the right residence route and a location that suits your children, health and income. The route for a British citizen moving now differs from EU free movement and from the rights of someone already protected by the Withdrawal Agreement.</p><p>EXOBASIS prepares and carries out the work around your move, from documents and location selection to renting or buying a home, arrival and continuing care of the property.</p>",
+  "primary": {
+    "label": "Prepare my move to Spain",
+    "intent": "General enquiry"
+  },
+  "countryContext": "/en/countries/spain/",
+  "country": {
+    "name": "Spain",
+    "slug": "spanien",
+    "region": "Europe",
+    "map": "countries/spanien-locator.svg",
+    "imageAlt": "Map showing Spain on the Iberian Peninsula in south-western Europe.",
+    "caption": "Spain: choose the residence route and the region together.",
+    "summary": [
+      [
+        "Match the route to your life",
+        "Work, retirement, family and EU citizenship lead to different preparations."
+      ],
+      [
+        "A home for the whole year",
+        "Compare schools, treatment, transport and the property outside holiday season."
+      ],
+      [
+        "Buying and residence are separate",
+        "Arrange the home purchase alongside the permission needed to live there."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "Is Spain the right place for your next chapter?",
+      "body": "<p>If you want a permanent family move, Spain offers a choice of city, coast and smaller-town living without leaving Europe. If you want a second home while retaining work and family ties elsewhere, the question is how much time you can spend there and on what legal basis. Establish that before committing to a property.</p><p>For someone worried about war, state pressure or future restrictions at home, geography is part of the decision. Spain gives you another national base within the EU; an option outside Europe serves a different purpose. We compare the country against the situation you are preparing for, including how you would travel and whether your family could settle there for longer than a visit.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "A second home you can actually use",
+      "body": "<p>A prepared Spanish home can give you somewhere familiar to go at short notice. Its usefulness depends on available entry rights, transport and a property kept ready between visits. Arrange access, utilities, insurance and a local contact before relying on it.</p><p>For British citizens visiting without a Spanish residence permission, the general Schengen allowance is up to 90 days in any 180-day period. Time spent visiting other Schengen countries uses the same allowance. Buying a Spanish property does not extend it. If your plan requires the family to remain through an entire school year, establish a suitable residence route from the outset.</p><p>Keep passports, status documents and a record of travel accessible. A genuine resident should travel with the relevant proof of residence, including the TIE where applicable, rather than be recorded as an ordinary visitor.</p><p class=\"exb-source-note\"><a href=\"https://www.gov.uk/foreign-travel-advice/spain/entry-requirements\" rel=\"noreferrer\">UK FCDO: Spain entry and Schengen stay rules</a></p><p>If war is the reason you are preparing, use the <a class=\"exb-text-link\" href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">family destination and travel-planning guide</a> to connect this country option with the timing and practicalities of leaving.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Moving to Spain with your family",
+      "body": "<p>Choose a normal week before choosing a view. Work out the school journey, the treatment you need, how your partner will spend the day and whether your work can legally continue from Spain. That gives the home search a clear purpose.</p><p>For children, the timing of admission and the language of instruction may determine the region and move date. For a parent who needs regular treatment or care, the relevant clinic and home support may determine the neighbourhood. We connect these decisions instead of finding the house first and trying to make everything else fit around it.</p><p>A trial stay is especially useful if you know Spain only from holidays. Use it for school and property visits, ordinary shopping, commuting and appointments. Visit outside the peak season if you intend to live there throughout the year.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Part-year living and residence renewal",
+      "body": "<p>Decide whether you are buying a place for visits or moving your residence. A non-lucrative residence is built around living in Spain with sufficient means and without working. The ministry’s renewal requirements include real and effective residence in Spain for more than 183 days during the calendar year, continuing health cover, sufficient funds and schooling for children of compulsory school age.</p><p>That has a direct consequence for a reserve home: a permission requiring substantial residence will not suit a plan to leave the property unused for most of every year. Remote-worker, family, EU and other routes have their own conditions. We align the proposed pattern of use with the applicable permission before you commit.</p><p class=\"exb-source-note\"><a href=\"https://www.inclusion.gob.es/web/migraciones/w/renovacion-de-la-autorizacion-de-residencia-temporal-no-lucrativa\" rel=\"noreferrer\">Spanish migration ministry: renewal of non-lucrative residence</a></p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Spain residency: choose the route before the property",
+      "body": "<h3>British and other non-EU citizens moving now</h3><p>A non-lucrative residence can suit someone living from sufficient savings or other qualifying resources without employment or professional activity. A remote worker needs a route permitting the intended work. Spain’s international telework route covers qualifying work for businesses outside Spain; for self-employed applicants, Spanish-client activity is limited to 20% of total professional activity.</p><p>The telework application requires evidence of the professional relationship, qualifications or relevant experience, adequate resources, health cover and the social-security arrangement. Your employer’s agreement to remote work in Spain is a substantive part of the preparation. A work laptop and a UK contract alone do not settle it.</p><p>If you apply from the UAE, use the consular jurisdiction linked to your legal residence and the requirements for your passport and family. The London application instructions are for applicants within that consulate’s district.</p><p class=\"exb-source-note\"><a href=\"https://exteriores.gob.es/Consulados/londres/en/ServiciosConsulares/Documents/Checklist%20NON%20LUCRATIVE%20VISA%20RES.pdf\" rel=\"noreferrer\">Spanish Consulate in London: non-lucrative visa requirements</a></p><p class=\"exb-source-note\"><a href=\"https://www.exteriores.gob.es/Consulados/londres/en/ServiciosConsulares/Paginas/Consular/Digital-Nomad-Visa.aspx\" rel=\"noreferrer\">Spanish Consulate in London: international telework visa and family requirements</a></p><h3>EU citizens and established British residents</h3><p>EU, EEA and Swiss citizens have a separate framework. For a stay exceeding three months, qualifying circumstances include working in Spain or having sufficient resources and comprehensive health insurance. Registration is required within three months of entry. Each non-EU family member needs the appropriate family documentation.</p><p>British citizens who were lawfully living in Spain before 1 January 2021 and have continued to do so may have rights under the Withdrawal Agreement. Keep that case separate from a new move today.</p><p class=\"exb-source-note\"><a href=\"https://administracion.gob.es/pag_Home/en/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/residencia/obtencion-residencia/inscribirte-residente\" rel=\"noreferrer\">Spanish government: residence registration for EU, EEA and Swiss citizens</a></p><p class=\"exb-source-note\"><a href=\"https://www.gov.uk/guidance/living-in-spain\" rel=\"noreferrer\">UK government: living in Spain and Withdrawal Agreement residents</a></p><h3>Buying a home and the former investor route</h3><p>Spain has ended the investor visa and residence provisions for new applications; transitional arrangements remain for qualifying existing cases. Buying a home is still a property decision. For a new move, we prepare the residence route that fits your work, family or financial circumstances alongside the purchase.</p><p class=\"exb-source-note\"><a href=\"https://prie.comercio.gob.es/es-es/Paginas/Inversores.aspx\" rel=\"noreferrer\">Spanish government investor-residence portal: repeal and transitional renewals</a></p><table><caption>Spain: rights and preparation for the way you will use your base</caption><thead><tr><th scope=\"col\">Intended use</th><th scope=\"col\">Rights that fit</th><th scope=\"col\">Documents and presence to arrange</th><th scope=\"col\">Work you can commission</th></tr></thead><tbody><tr><th scope=\"row\">A reserve for short-notice refuge</th><td>For a new British visitor, the usual limit is 90 days in any 180 across Schengen. That visit is not a right to settle or work. Other third-country passports require their own visa check. Existing EU, EEA, Swiss or protected Withdrawal Agreement rights must be assessed separately; a UAE residence permit does not supply Spanish residence rights.</td><td>Check passport validity, days already spent in Schengen, any required visa, accommodation, travel cover and funds for the stay. Keep evidence of any existing residence or family rights available. A home purchase does not replace these entry documents or extend a permitted visit.</td><td>We map who can enter on which basis, assemble the arrival documents and arrange accommodation and access to the home. If the family needs to remain beyond a visit, we prepare the relevant residence application before relying on the property as a longer-term refuge.</td></tr><tr><th scope=\"row\">A lasting family base</th><td>Choose by the work you will actually do: non-lucrative residence for living without gainful activity, qualifying telework or another suitable work route where earnings depend on work. EU, EEA and Swiss citizens use their applicable framework; established British residents first establish any continuing Withdrawal Agreement rights. Each family member needs the corresponding entitlement.</td><td>For a new third-country application, prepare the route-specific financial, insurance, criminal-record and family evidence, with required legalisation and translation. Telework also needs the professional relationship, employer consent where applicable and social-security arrangements. EU-framework registration needs the relevant work evidence or sufficient resources and comprehensive cover. Use the consulate for your lawful place of residence, including the UAE where applicable.</td><td>We organise the person-by-person files, consular and local appointments, and the registration or identity-card steps that apply after arrival. We coordinate the residence timetable with the home, school and healthcare arrangements, so the family move follows a workable permission and document sequence.</td></tr><tr><th scope=\"row\">Mobile use between countries</th><td>A visitor must keep within the applicable short-stay allowance. Non-lucrative residence does not permit remote work and its renewal requires real and effective residence for more than 183 days in the calendar year. Telework is an option only when the stated professional and other conditions fit. Existing EU-framework or Withdrawal Agreement status has its own continuity conditions.</td><td>Record time in Spain and elsewhere, the work performed from Spain, and the evidence needed for the status you hold. Keep resources and health cover current; for telework, maintain the relevant employment or client and social-security records. Check renewal and absence conditions against the planned travel pattern, rather than assuming a second home preserves residence.</td><td>We match the intended travel and work pattern to the applicable route, organise renewals and required attendance, and maintain a document calendar. Property care and arrival preparation can then run alongside that legal timetable without presenting non-lucrative residence as a mobile work solution.</td></tr></tbody></table><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fspain%2F#short-enquiry\">Prepare my move to Spain</a><p>Tell us who the preparation is for, what you already have in place and what you want us to handle.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Choose the region, then rent or buy well",
+      "body": "<h3>Different places, different daily lives</h3><ul><li><strong>Madrid:</strong> a capital-city base to assess if work, appointments and regular travel are central. Compare the actual school and work journeys before choosing between the city and an outlying home.</li><li><strong>Valencia and its surrounding towns:</strong> a city-and-coast option. Include school language, the exact address’s flood exposure and transport links in the comparison.</li><li><strong>Málaga and the Costa del Sol:</strong> a coastal option where a holiday location needs a separate year-round living assessment. Establish what remains convenient outside the visitor season and how far the home is from daily services.</li><li><strong>A smaller inland town or an island:</strong> assess it around your household’s treatment, school and travel needs. A quiet setting can add a car journey, and an island adds dependence on air or sea connections.</li></ul><p>Spain’s weather risks are practical housing questions. Heat, wildfires and flash flooding can affect the property and its access. Inspect cooling and shading, the route out of the area, flood exposure and the insurer’s terms. Follow AEMET and local civil-protection warnings rather than relying on the region’s holiday reputation.</p><p class=\"exb-source-note\"><a href=\"https://www.gov.uk/foreign-travel-advice/spain/safety-and-security\" rel=\"noreferrer\">UK FCDO: heat, wildfire and flash-flood risks in Spain</a></p><h3>Renting a home rather than a holiday booking</h3><p>A furnished arrival stay gives you time for viewings. For a home you will live in, establish whether the agreement is an ordinary residential tenancy or a genuine temporary/seasonal let: the intended use changes the legal framework.</p><p>Under Spain’s Urban Leases Act, an ordinary residential tenancy has a statutory cash deposit of one month’s rent. For contracts up to five years, or seven where the landlord is a legal entity, an additional guarantee is capped at two months’ rent. Landlord-side agency management and contract-formalisation costs are payable by the landlord. Put any allocated building costs in writing and keep a dated inventory.</p><p>The normal residential framework also provides annual extensions towards five or seven years, subject to the statutory conditions. A tenant can withdraw after six months with at least 30 days’ notice; an agreed compensation clause may apply. These details matter if a trial move may become permanent, or if you expect to leave earlier.</p><p class=\"exb-source-note\"><a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003\" rel=\"noreferrer\">BOE: Urban Leases Act, articles 9, 11, 20 and 36</a></p><h3>Buying property in Spain</h3><p>Foreign buyers can purchase a home. Obtain an NIE for the transaction and appoint a lawyer independent of the seller or selling agent before signing a reservation or <em>arras</em> agreement. The deposit contract determines what happens if financing, legal checks or either party’s plans change.</p><p>The lawyer’s work should connect the <em>nota simple</em> from the Property Registry with the cadastral description, seller’s authority, charges, planning and occupancy position, and outstanding community or municipal obligations. Arrange a separate inspection of the building. In defence-restricted zones, acquisition by a non-EU buyer can require prior military authorisation. The law generally exempts EU-national individuals from these foreign-acquisition restrictions. Have the lawyer establish the position for your nationality and exact property before committing.</p><p>Completion is normally documented by a public deed before a notary, followed by tax formalities and registration. Separate the purchase price from the applicable purchase taxes, legal and notarial work, registry charges, survey and any financing or currency costs. Within Spain’s IVA system, the tax authority distinguishes VAT on a new home first sold by a developer from transfer tax, ITP, on a resale. Rates, reliefs and territorial tax rules depend on the transaction and location, so use a property-specific cost statement.</p><p class=\"exb-source-note\"><a href=\"https://sede.agenciatributaria.gob.es/Sede/iva/iva-operaciones-inmobiliarias/compro-vivienda-tengo-que-pagar-itp.html\" rel=\"noreferrer\">Spanish Tax Agency: IVA or ITP on the purchase of a home</a></p><p>Establish the completion costs before binding the purchase deposit.</p><p>EXOBASIS can handle the property brief, search and viewings, organise independent title and purchase checks, coordinate the contract and completion, and arrange handover, utilities and care while you are absent. If you want to rent the property to others between visits, establish the permitted use and applicable regional/local rules before relying on that income.</p><p class=\"exb-source-note\"><a href=\"https://administracion.gob.es/en/tu-espacio-europeo/derechos-obligaciones/ciudadanos/residencia/compraventa-bienes-inmuebles/notarias-registros-propiedad\" rel=\"noreferrer\">Spanish government: property checks, notarial completion and registration</a></p><p class=\"exb-source-note\"><a href=\"https://www.boe.es/eli/es/l/1975/03/12/8/con\" rel=\"noreferrer\">BOE: Law 8/1975, property acquisition in defence-restricted zones</a></p><p><a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Arrange a home purchase, housing and arrival in Spain</a></p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schooling and healthcare before the moving date",
+      "body": "<h3>School and language</h3><p>Basic education in Spain is compulsory and free of charge, with primary education generally covering ages 6 to 12 and compulsory secondary education ages 12 to 16. Education is decentralised: the autonomous communities manage provision within their territories. Contact the relevant education authority about admission and records for a child arriving from abroad.</p><p>For each shortlisted school, establish the actual languages of instruction, year placement, support for a new language and the recognition needed for prior studies. If you want a British or other international curriculum, confirm the particular school’s programme, admissions decision and full fees before signing the long-term housing contract.</p><p class=\"exb-source-note\"><a href=\"https://eurydice.eacea.ec.europa.eu/eurypedia/spain/overview\" rel=\"noreferrer\">Eurydice Spain: school stages and regional responsibilities, updated September 2026</a></p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare the move with children and family</a></p><h3>Healthcare you can use</h3><p>Someone working or self-employed in Spain can qualify for public healthcare through the Spanish social-security system; registration with the relevant authorities and local health centre completes access. Eligible UK pensioners and other qualifying people may use an S1, which must be registered with the INSS. Someone arriving without either route may need suitable private insurance.</p><p>For ongoing treatment, arrange the receiving doctor, transfer records and prescriptions, and establish which appointments are public or private. A health policy does not itself book the specialist you need. For an older relative, include help at home, accessible housing and transport in the location decision.</p><p class=\"exb-source-note\"><a href=\"https://www.gov.uk/guidance/healthcare-in-spain-including-the-balearic-and-canary-islands\" rel=\"noreferrer\">UK government: healthcare registration, working residents and S1 cover in Spain</a></p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Arrange health cover and continuing care</a></p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Work, taxes and banking across borders",
+      "body": "<p>Spain’s tax-residence test goes beyond counting days. The tax authority identifies more than 183 days in the calendar year as one test and the main base of economic activities or interests as another. There is also a rebuttable presumption connected to a spouse and dependent minor children living in Spain. A residence document and tax residence answer different questions.</p><p>Before moving from the UK or UAE, connect that assessment with your salary, business, pensions, property and investments, including any continuing obligations in the country you leave. A family home in Spain can change the facts even when contracts and bank accounts remain overseas. Arrange the relevant tax and social-security work before the first cross-border working month.</p><p>For banking, select an account suited to your resident or non-resident status and intended payments. Banco de España explains that banks require identification and can request evidence of the source of funds, including after account opening. Prepare the record of savings, income or sale proceeds before transferring a property deposit, and establish transfer limits and account-access arrangements.</p><p>Keep a second usable payment route during the move. That is practical protection against a delayed compliance review, a lost card or failed authentication, especially when rent, completion funds or medical bills fall due.</p><p>With our <a class=\"exb-text-link\" href=\"/en/services/banking-liquidity/\">banking and liquidity preparation</a>, EXOBASIS organises the identification and source-of-funds records your chosen bank requires, then coordinates household-payment setup and agreed access tests from abroad once the account is accepted.</p><p class=\"exb-source-note\"><a href=\"https://sede.agenciatributaria.gob.es/Sede/no-residentes/residencia-personas-fisicas-juridicas/persona-fisica-residente-espana.html\" rel=\"noreferrer\">Spanish Tax Agency: personal tax residence and double residence</a></p><p class=\"exb-source-note\"><a href=\"https://clientebancario.bde.es/pcb/es/blog/cuales-son-los-tramites-para-abrir-una-cuenta-.html\" rel=\"noreferrer\">Banco de España: identification, source of funds and account conditions</a></p><p>See <a class=\"exb-text-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\">how to keep banking and payments usable abroad</a> for the wider preparation when an account or device becomes unavailable.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Get the sequence right",
+      "body": "<p>Start with the residence category and the consulate or Spanish authority responsible for the application. Then obtain the identity, financial, criminal-record, family, health and professional documents required by that route, with the appropriate authentication and translations.</p><p>Coordinate housing evidence, appointments and any required NIE or TIE steps rather than treating them as interchangeable registrations. The NIE identifies you for administrative and economic purposes; the residence permission governs your stay, and municipal registration, the <em>padrón</em>, records your address. Children need their own applicable residence documentation.</p><p>EXOBASIS organises the document work, appointments and local execution, then connects arrival with municipal, school and healthcare tasks. You can commission this preparation on its own when the country and home are already chosen.</p><p class=\"exb-source-note\"><a href=\"https://www.gov.uk/guidance/living-in-spain\" rel=\"noreferrer\">UK government: residence documents, municipal registration and family preparation</a></p><p><a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange residence and documents for Spain</a></p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep a Spanish home ready between visits",
+      "body": "<p>Keep residence renewal, insurance, tax filings and address changes on a clear schedule. A non-resident individual’s urban home can generate Spanish non-resident income tax on imputed income even while it is kept for personal use or left empty. Include that filing alongside community charges, municipal bills, utilities, maintenance and the conditions your insurer applies during vacancy.</p><p>Agree who checks the property after severe weather, responds to a leak, holds keys and prepares the home for your next arrival. A reserve apartment and a detached home with a garden or pool need different care. EXOBASIS can organise the agreed inspections, maintenance and follow-up so that problems do not wait for your next visit.</p><p><a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Maintain your Spanish home and preparations</a></p><p class=\"exb-source-note\"><a href=\"https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-tributacion-no-residentes/capitulo-03-tributacion-rentas-comunes-nr/rentas-imputadas-bienes-inmuebles-urbanos.html\" rel=\"noreferrer\">Spanish Tax Agency: imputed income from a non-resident owner’s urban home, July 2026 manual</a></p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Commission the work you need in Spain",
+      "body": "<p>Tell us whether you want to move permanently, establish a second home or complete work already started. We can compare suitable locations, organise the residence file, find accommodation, manage a property-purchase assignment and prepare arrival around your household’s needs.</p><p>You can ask for a defined task directly. If you are unsure where to start, a free 20-minute orientation helps identify the appropriate assignment.</p><p><a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Choose the country and location around your family</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fspain%2F#short-enquiry\">Prepare my move to Spain</a><p>Tell us who the preparation is for, what you already have in place and what you want us to handle.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div><div class=\"exb-country-comparisons\"><h3>Two other European bases to consider</h3><article><p><a class=\"exb-text-link\" href=\"/en/countries/portugal/\">Portugal: compare the residence route and local life</a></p><p>Compare the applicable permission, locations and practical family setup with the Spanish option.</p></article><article><p><a class=\"exb-text-link\" href=\"/en/countries/switzerland/\">Switzerland: a different residence and cost framework</a></p><p>Compare the route available to your nationality, the household budget and the particular canton and location.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Does buying a property let me live in Spain?",
+    "answer": "A property purchase gives you a home, while your passport, residence status and the applicable route determine how long you may live there. Spain has ended its investor-residence provisions for new applications. For a British citizen visiting without Spanish residence permission, the general Schengen limit remains 90 days in any 180-day period."
+  },
+  "editorialSources": [
+    "es",
+    "eu"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 1138,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1140,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1141,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1142,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1143,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1144,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1145,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1146,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1147,
+      "target": "/de/laender/spanien/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1481,
+      "target": "/en/countries/portugal/",
+      "label": "Portugal as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1483,
+      "target": "/en/countries/switzerland/",
+      "label": "Switzerland as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Moving to Spain: a home and a residence route that fit your life"
+}

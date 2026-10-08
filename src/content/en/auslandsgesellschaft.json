@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/overseas-company/",
+  "lang": "en",
+  "title": "Arrange an overseas company and ongoing administration",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-582098b73c7db2"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-d965575a147a85"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Company formation and ongoing administration",
+  "seoTitle": "Overseas company formation and administration | EXOBASIS",
+  "description": "Organise an overseas company around your real business: jurisdiction, tax review, formation, banking, administration and someone authorised to act.",
+  "intro": "<p>Your business may need a second operating base before you need to leave. It may need a new company, a workable banking relationship or someone able to keep customers and staff paid while you are elsewhere. The useful starting point is what must keep working.</p><p>EXOBASIS organises overseas company formation and the administration that follows. We assemble the facts, obtain the relevant specialist assessment and carry the agreed setup through to its operational handover. You can commission a defined formation or administration task directly.</p>",
+  "primary": {
+    "label": "Discuss your company setup",
+    "intent": "Arrange an overseas company and ongoing administration"
+  },
+  "summary": {
+    "kicker": "An operating business, built in the right order",
+    "title": "Choose the jurisdiction around the work your company will do.",
+    "image": "einstieg-laender.webp",
+    "imageAlt": "World map with a compass.",
+    "facts": [
+      [
+        "Start with",
+        "Activity, customers, management and your residence"
+      ],
+      [
+        "Set up",
+        "Entity, records, banking and authorised representation"
+      ],
+      [
+        "Keep current",
+        "Accounts, returns, licences and recurring duties"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "What must your business be able to do?",
+      "layout": "prose",
+      "body": "<p>Tell us where your customers are, where you and your team work, how decisions are made and how money moves. An online consultancy, a trading business and a company holding family assets have different requirements. We identify the contracts, payment services, licences and people on which your income depends.</p><p>If war, repression or a forced change of location is driving the decision, the question becomes practical: can the business invoice, receive money and fulfil its commitments from the alternative base? A new entity is useful only where it solves an identified dependency. <a href=\"/en/knowledge/business-and-income/\">Business and income continuity</a> explains the wider decisions.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Offshore company formation: compare the obligations, not just the address",
+      "layout": "prose",
+      "body": "<p>For a UK-based owner, incorporation abroad must be considered alongside where the business is actually controlled. HMRC explains that central management and control is a question of fact, concerned with the highest level of control. If you continue directing the company from Britain, an overseas registration does not settle its tax residence. <a href=\"https://www.gov.uk/hmrc-internal-manuals/international-manual/intm120060\">HMRC: central management and control</a>.</p><p>A US LLC for a non-US resident brings a different set of questions. A foreign-owned US disregarded entity can have Form 5472 obligations for reportable related-party transactions, with a pro forma Form 1120. The IRS instructions distinguish income-tax treatment from this reporting duty. We put that work in the administration scope before you incorporate. <a href=\"https://www.irs.gov/instructions/i5472\">IRS: Form 5472 instructions</a>.</p><p>The LLC’s legal form and its US tax classification are separate. Depending on membership and a valid tax election, the IRS treats it as a corporation, a partnership or a disregarded entity; specific exceptions need their own assessment. That US classification does not settle your personal tax position elsewhere. <a href=\"https://www.irs.gov/businesses/small-businesses-self-employed/llc-filing-as-a-corporation-or-partnership\">IRS: LLC tax classification</a>.</p><p>For a disregarded LLC owned by an individual classified as a nonresident alien under US tax law, the actual US business and income connection matters separately: where is the work performed, and is a business operated in the US? For personal services, the <a href=\"https://www.irs.gov/individuals/international-taxpayers/source-of-income-personal-service-income\">income source generally follows where the work is done</a>, rather than the customer’s location; exceptions and tax treaties need separate consideration. Income connected with a US business can be taxable as <a href=\"https://www.irs.gov/individuals/international-taxpayers/effectively-connected-income-eci\">effectively connected income (ECI)</a>. Certain <a href=\"https://www.irs.gov/individuals/international-taxpayers/taxation-of-nonresident-aliens\">US-source income without that business connection</a> can also be taxable. Incorporation and Form 5472 reporting do not answer these income-tax questions.</p><p>No revenue, or no income-tax return for the entity itself, does not establish that no information return is due. We have the actual formation and owner transactions assessed against the reporting rules and their exceptions before allocating the filing work. <a href=\"https://www.irs.gov/instructions/i5472\">IRS: filing exceptions and Part V transactions</a>.</p><p>FinCEN’s final rule, effective 14 August 2026, confirms the CTA beneficial-ownership reporting exemption for entities created in the United States. An entity formed under foreign law and registered to do business in the US is a separate case. Bank due diligence remains distinct. A personal FinCEN ID held by a non-US person can also carry continuing update duties; that status is not determined by living outside the US alone. We keep company reporting, personal identifiers and banking requirements separate in the assignment. <a href=\"https://www.federalregister.gov/documents/2026/08/14/2026-16576/beneficial-ownership-information-reporting-requirement-revision\">FinCEN: final BOI rule, personal IDs and bank due diligence</a>.</p><p>For Dubai company formation, free-zone status also has conditions. The UAE Federal Tax Authority links the 0% corporate-tax treatment to a Qualifying Free Zone Person and Qualifying Income, with substance and compliance requirements. We obtain advice on your actual activity and income rather than apply a headline rate to the whole business. <a href=\"https://tax.gov.ae/datafolder/Files/Pdf/2024/CT%20Bulletin/Basic%20Tax%20Information%20bulletin-%20Free%20Zone%20Person-English.pdf\">FTA: Free Zone Persons</a>.</p><p>Georgia company formation, a UK LLP and other options enter the comparison where they fit the activity. For each serious option, the specialist brief covers owners, management, tax residence, customers, licensing, annual duties and the cost of closing or changing the structure. Your personal departure is considered separately through <a href=\"/en/knowledge/business-and-income/departure-tax/\">departure and tax planning</a>.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "From the agreed structure to company records",
+      "layout": "prose",
+      "body": "<p>Once you approve the structure and costs, we organise the documents and execution: ownership information, identity and address evidence, source-of-funds records where required, registered-office instructions, signatures and the filings handled by the appropriate professionals. We follow queries through to resolution.</p><p>The handover distinguishes the registry confirmation from the tasks still needed to operate. We assemble the formation documents, ownership and management records, relevant tax identifiers and the schedule of outstanding appointments or approvals. You know what has been completed and who owns each remaining task.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Banking, address and a route for customer payments",
+      "layout": "prose",
+      "body": "<p>We prepare the banking case alongside formation: what the company does, who owns it, where its customers and suppliers are and which payments it expects. A bank or payment provider assesses that relationship separately from the registry. We organise the evidence and correspondence through the selected institution’s process.</p><p>The registered address, operating location and location of management each have a purpose. We make those purposes explicit in the setup. Before treating the payment route as usable, the authorised person needs the accepted account, appropriate limits and working access. Connect this work with <a href=\"/en/services/banking-liquidity/\">banking and liquidity preparation</a>.</p><p>We organise the agreed business address and any local facilities needed for the assignment. Before commissioning them, we confirm the permitted use, costs and who receives, forwards and deals with incoming post. The setup handover records the confirmed arrangements, responsible contacts and any outstanding work, so official correspondence reaches the person who must act.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Company administration services after incorporation",
+      "layout": "prose",
+      "body": "<p>We allocate bookkeeping, accounts, returns, registry changes, licence renewals and official correspondence to named responsible people. The calendar records the due date, the information you must supply and the person who confirms completion. Regular administration can be commissioned for an existing company as well as a new one.</p><p>Formation fees, recurring professional fees, address and agent charges, banking costs and taxes are separate cost categories. We organise a first-year and recurring-cost view before the commitment. Changes in ownership, activity or your working location trigger a review of the relevant obligations through <a href=\"/en/services/maintain-preparations/\">ongoing maintenance</a>.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "A handover you can use to run the company",
+      "layout": "prose",
+      "body": "<p>You receive the company records, contacts, filing calendar, agreed costs and access arrangements. We identify where the originals are held, how official notices reach the responsible person and which decisions require your approval. Banking or licence applications still awaiting acceptance are recorded as unfinished tasks.</p><p>We walk through a real operating sequence appropriate to the assignment: issuing an invoice, locating the contract, receiving payment or passing the records to the accountant. The purpose is to discover a missing permission or document while it can still be resolved calmly.</p>"
+    },
+    {
+      "id": "section-7",
+      "title": "Who acts if you cannot?",
+      "layout": "prose",
+      "body": "<p>A company that depends on your phone, signature and memory remains vulnerable when you travel or become unavailable. We identify the decisions that cannot wait: payroll, supplier payments, customer commitments, renewal deadlines and urgent correspondence.</p><p>The appropriate professionals establish the substitute’s corporate authority; the institution confirms the accepted mandate; we organise the contact and access route. The handover connects these arrangements with <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">representation and succession</a> and, where needed, <a href=\"/en/services/family-business-continuity/\">family and business continuity</a>.</p>"
+    }
+  ],
+  "working": {
+    "title": "One managed assignment, defined professional responsibilities",
+    "body": "<p>We keep the sequence, documents and follow-up together. Lawyers, tax advisers, accountants and registration providers perform their agreed specialist work. Your existing advisers can remain involved, with a clear division of responsibilities.</p>"
+  },
+  "nextWork": {
+    "title": "Keep the new base usable",
+    "body": "<p>After setup, you can commission administration, access recovery or representation arrangements as needed. A change in where you live or direct the business is a reason to revisit the setup, not merely update the correspondence address.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "What should your overseas company make possible?",
+    "body": "Tell us the activity, relevant countries and what already exists. We will identify the setup or administration work that moves the business forward."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [
+      "EN13"
+    ],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "723",
+        "label": "Keep your business and income running",
+        "target": "/en/knowledge/business-and-income/",
+        "position": "Kernabschnitt 1: Your activity and business requirements",
+        "purpose": "Betrieb, Kunden und Einkommen während Ausreise, Ausfall und Standortwechsel weiterführen."
+      },
+      {
+        "line": "724",
+        "label": "Departure, tax and business obligations",
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "position": "Kernabschnitt 2: Location and legal structure",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      },
+      {
+        "line": "725",
+        "label": "Prepare banking access and liquidity",
+        "target": "/en/services/banking-liquidity/",
+        "position": "Kernabschnitt 4: Banking and business address",
+        "purpose": "Bankaufnahme, zulässige Zahlwege und berechtigten Geldzugriff organisiert vorbereiten lassen."
+      },
+      {
+        "line": "726",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 7: Representation and continuity",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "727",
+        "label": "Review and maintain your preparations",
+        "target": "/en/services/maintain-preparations/",
+        "position": "Kernabschnitt 5: Ongoing administration and filings",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "scope": {
+    "id": "scope",
+    "title": "Commission the part your business needs",
+    "body": "<p>The assignment can cover comparison and specialist assessment, a formation already decided on, a defined reorganisation or ongoing administration. We agree the intended result and work backwards through its dependencies.</p><p>You approve the jurisdiction, structure, professional appointments and costs. EXOBASIS carries out the agreed organisation and follows the specialist work through to delivery.</p>",
+    "items": [
+      [
+        "Choose",
+        "A comparison based on the real activity and ownership"
+      ],
+      [
+        "Establish",
+        "Formation, records and connected operational tasks"
+      ],
+      [
+        "Maintain",
+        "Responsible people, calendar and administration"
+      ]
+    ],
+    "costs": "The proposal separates EXOBASIS work, legal and tax assessment, registry and licence charges, address and agent services, banking tasks and recurring administration. Any additional work is agreed before it is commissioned."
+  },
+  "displayTitle": "Overseas company formation, ready for real business"
+}

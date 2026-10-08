@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/family-business-continuity/",
+  "lang": "en",
+  "title": "Keep your family and business functioning",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-88ee12142eaf96"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-5d539c659edd22"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Family and business continuity",
+  "seoTitle": "Family and business continuity abroad | EXOBASIS",
+  "description": "Organise the people, authority, payments, property care and access your family and business need during departure, absence or an unexpected loss of availability.",
+  "intro": "<p>Leaving does not pause the mortgage, payroll or your parents’ care. Children still need decisions made for them. Customers still expect delivery. If war, repression or a sudden loss of your availability makes departure necessary, those responsibilities need people who can actually carry them.</p><p>EXOBASIS turns the critical tasks into working arrangements: accepted authority, practical access, clear instructions and a substitute who knows what to do. Commission the family work, the business work or both, with a handover that connects them.</p>",
+  "primary": {
+    "label": "Discuss what must keep running",
+    "intent": "Keep your family and business functioning"
+  },
+  "summary": {
+    "kicker": "People, authority and a usable handover",
+    "title": "Make the essential tasks possible without your daily presence.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Open notebook and pen on a terrace overlooking a bay.",
+    "facts": [
+      [
+        "Household",
+        "Children, care, property and recurring commitments"
+      ],
+      [
+        "Business",
+        "Payments, customers, staff and decisions"
+      ],
+      [
+        "Handover",
+        "Named people, accepted authority and an agreed rehearsal"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Start with the people who depend on you",
+      "layout": "prose",
+      "body": "<p>We establish what must happen in the first days of absence and what must continue over the following months. That includes school collection, medication, care visits, housing costs and family contact, alongside payroll, supplier payments and important customer work.</p><p>For each task we name a responsible person, the decision they may take, the information they need and the point at which they must contact someone else. Family members participate in the parts that concern them. A workable plan should fit their abilities and willingness, not assume that one relative can absorb every responsibility.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Keep what works; close the gaps around it",
+      "layout": "prose",
+      "body": "<p>Existing advisers, staff, family arrangements and <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">powers of attorney</a> are the starting point. We establish which are current, where the records are held and which institutions have accepted the authority. An informal agreement to help may still need a bank mandate, company decision or properly executed legal instrument.</p><p>We also organise the obligations left behind: insurance notifications, property inspections, keys, repairs, post, contract renewals and agreed spending authority. For an unoccupied home, the actual policy determines notification and inspection requirements. We obtain those requirements and put the visits and records into the caretaker’s assignment.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Children, care and permission to act",
+      "layout": "prose",
+      "body": "<p>Family relocation services must connect the journey with the people’s actual needs: school records and admission work, care contacts, <a href=\"/en/knowledge/family-life-abroad/care-medication/\">medication and continuing-care documentation</a> and authority for decisions. We organise the agreed enquiries and appointments, and connect the practical work with <a href=\"/en/knowledge/family-life-abroad/children-family/\">children and family arrangements</a> and <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">health cover and access to treatment</a>.</p><p>When a relative depends on care, we coordinate the transition with the treating and receiving health and care professionals. We arrange transport to their assessed requirements and obtain the receiving provider's confirmation of the admission and care arrangements before the move. If departure or admission is delayed, we coordinate interim care, medication and support with the responsible professionals.</p><p>Travel consent belongs before the booking. GOV.UK explains that taking a child abroad generally requires permission from everyone with parental responsibility or a court, with an exception for certain child-arrangements orders. The exact legal position must match the family and UK jurisdiction concerned. For families covered by the UAE Personal Status Law described in the government’s guidance, the custodian may travel abroad with the child with the other parent’s consent or a court order; the court may require guarantees of return. Under the separate civil-divorce joint-custody framework, an objection by the other parent means travel permission must be sought from the competent court. We establish which framework and orders govern your family, then organise the professional work, consent and documents for that route. <a href=\"https://www.gov.uk/permission-take-child-abroad\">GOV.UK: permission to take a child abroad</a>; <a href=\"https://u.ae/en/information-and-services/social-affairs/Life-events/divorce-in-the-uae\">UAE government: family and custody information</a>.</p><p>In England and Wales, a property and financial affairs lasting power of attorney and a health and welfare LPA serve different decisions. The former can be used after registration subject to its terms and the donor’s permission while they have capacity; the latter operates when the donor lacks capacity for the decision. We organise the right professional and institutional checks for the powers you need, including any use abroad. <a href=\"https://www.gov.uk/government/publications/lasting-power-of-attorney-forms/lp12-make-and-register-your-lasting-power-of-attorney-a-guide-web-version\">Office of the Public Guardian: LPA guide</a>.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Keep payments, customers and deadlines moving",
+      "layout": "prose",
+      "body": "<p>We map essential outgoing payments against the authorised person and usable payment route. A spouse’s knowledge of the bills and an employee’s familiarity with the bank portal do not establish authority to operate the account. The bank mandate, company permissions and access setup must support the task.</p><p>For the business, we organise the critical customer and supplier contacts, records, commitments and decision limits. The substitute needs to know which work can wait, which commitments require approval and how to reach the accountant or other specialist. Where <a href=\"/en/services/overseas-company/\">an overseas company</a> or departure changes management, ownership or tax circumstances, we coordinate the relevant specialist work before the related change.</p><p>For UK-connected owners, this includes carrying the departure date, residence history and intended return into the tax brief. HMRC’s temporary non-residence rules can bring certain gains into charge on return when their conditions apply; inheritance-tax exposure can also continue after departure under the long-term residence rules. We build the resulting dates and responsibilities into the handover. <a href=\"https://www.gov.uk/government/publications/temporary-non-residents-and-capital-gains-tax-hs278-self-assessment-helpsheet/hs278-temporary-non-residents-and-capital-gains-tax-2026\">HMRC: temporary non-residence</a> and <a href=\"https://www.gov.uk/guidance/inheritance-tax-if-youre-a-long-term-uk-resident\">HMRC: long-term residence and Inheritance Tax</a> explain the conditions. See the fuller <a href=\"/en/knowledge/business-and-income/departure-tax/\">departure-tax explanation</a>.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Put the local and technical arrangements in place",
+      "layout": "prose",
+      "body": "<p>We organise the commissioned caretaking, appointments and document handovers, and set up the agreed <a href=\"/en/services/communications-recovery/\">communication and recovery arrangements</a>. A replacement contact should be able to reach the relevant person without relying on your unavailable phone. The permissions they receive are limited to their actual role.</p><p>Where you are preparing a second home, <a href=\"/en/services/arrange-arrival/\">arrival and property support</a> can cover access, utilities and readiness for the family. At the original home, the assignment can cover inspections, post and repairs within an approved budget. Each location has a named contact and an escalation route.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Rehearse the handover before you need it",
+      "layout": "prose",
+      "body": "<p>We walk through an agreed absence scenario with the people involved. Can the authorised substitute find the insurance details, identify the next payment, contact the school, locate the customer commitment and obtain a needed document? The rehearsal reveals missing authority and dependencies that a folder alone will not show.</p><p>You receive the responsibilities, contacts, document locations, decision limits and completed arrangements together. We record what was actually tested and what still requires an institution’s response or specialist execution. A scheduled review keeps the plan aligned when family circumstances, staff or accounts change.</p>"
+    }
+  ],
+  "working": {
+    "title": "Work with the people already around you",
+    "body": "<p>We involve your family, staff and existing advisers in their own responsibilities. You decide who may act and approve the expenditure. We organise the appointments, evidence, implementation and follow-up that connect their work.</p>"
+  },
+  "nextWork": {
+    "title": "Keep the arrangement current",
+    "body": "<p>Changes to a bank, phone, school, care provider or key employee can break a previously usable arrangement. Agreed ongoing care keeps contacts and permissions current and repeats the relevant checks after material changes.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "What would stop working if you were unavailable?",
+    "body": "Tell us which family or business responsibilities concern you and what arrangements already exist. We will define the work needed to make the next person able to act."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [
+      "EN09",
+      "EN13"
+    ],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "314",
+        "label": "Prepare to move abroad with children and family",
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "position": "Kernabschnitt 3: School, care and authorised representation",
+        "purpose": "Reise, Sorge, Schule und Unterstützung für alle betroffenen Personen vorbereiten."
+      },
+      {
+        "line": "315",
+        "label": "Health cover and care abroad",
+        "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+        "position": "Kernabschnitt 3: School, care and authorised representation",
+        "purpose": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden."
+      },
+      {
+        "line": "316",
+        "label": "Care needs, medication and medical dependencies when moving",
+        "target": "/en/knowledge/family-life-abroad/care-medication/",
+        "position": "Kernabschnitt 3: School, care and authorised representation",
+        "purpose": "Kontinuierliche Versorgung für pflege- oder behandlungsabhängige Angehörige organisieren."
+      },
+      {
+        "line": "317",
+        "label": "Arrange your arrival abroad",
+        "target": "/en/services/arrange-arrival/",
+        "position": "Kernabschnitt 5: Local and technical implementation",
+        "purpose": "Erkundung, Unterkunft, Übergabe und einen funktionierenden ersten Alltag vorbereiten lassen."
+      },
+      {
+        "line": "318",
+        "label": "Arrange an overseas company and ongoing administration",
+        "target": "/en/services/overseas-company/",
+        "position": "Kernabschnitt 4: Payments and business continuity",
+        "purpose": "Eine passende Gründung und laufende Pflichten als Teil der Geschäftsfortführung organisieren."
+      },
+      {
+        "line": "319",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 2: Arrangements already in place",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "320",
+        "label": "Set up private communications and recovery access",
+        "target": "/en/services/communications-recovery/",
+        "position": "Kernabschnitt 5: Local and technical implementation",
+        "purpose": "Berechtigte Kontakt- und Zugangswege einrichten und praktisch testen lassen."
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "scope": {
+    "id": "scope",
+    "title": "Choose the responsibilities you want organised",
+    "body": "<p>The work can cover household continuity, property left behind, children and care, business operations or an integrated family-and-business assignment. We agree the essential tasks and carry out the organisation needed to make them manageable.</p><p>The result is a set of working responsibilities with the required authority and access, supported by a handover and the agreed rehearsal.</p>",
+    "items": [
+      [
+        "Allocate",
+        "Critical tasks and people willing to take them on"
+      ],
+      [
+        "Enable",
+        "Legal authority, institutional acceptance and practical access"
+      ],
+      [
+        "Exercise",
+        "A handover tested against the agreed absence scenario"
+      ]
+    ],
+    "costs": "The proposal separates organisation, legal documents, institutional work, local caretaking, technical setup and any continuing service. Specialist and third-party charges are identified alongside the EXOBASIS work."
+  },
+  "displayTitle": "Keep family life and business running when you are elsewhere"
+}

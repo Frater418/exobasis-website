@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/communications-recovery/",
+  "lang": "en",
+  "title": "Set up private communications and recovery access",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-3b4627308bf19f"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-77b6f8b72c8326"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Private communications and authorised recovery",
+  "seoTitle": "Communications and account recovery setup | EXOBASIS",
+  "description": "Set up private communications and practical recovery routes for lost phones, unavailable email and key-person absence. Configure, test and hand over authorised access.",
+  "intro": "<p>Your bank, email, identity documents and family contacts may all depend on the phone in your pocket. Losing it abroad can turn an ordinary problem into a chain of locked accounts precisely when you need to pay, travel or prove who you are.</p><p>EXOBASIS sets up the agreed communications and recovery arrangements with you. We trace the dependencies, configure supported alternatives and test a controlled loss scenario. You leave with working routes and clear instructions for the people authorised to use them.</p>",
+  "primary": {
+    "label": "Arrange communications and recovery setup",
+    "intent": "Set up private communications and recovery access"
+  },
+  "summary": {
+    "kicker": "Prepare the alternative before the loss",
+    "title": "A second route must survive the failure of the first.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Open notebook and pen on a terrace overlooking a bay.",
+    "facts": [
+      [
+        "Map",
+        "Phones, email, identity services and critical accounts"
+      ],
+      [
+        "Configure",
+        "Supported backup methods and limited permissions"
+      ],
+      [
+        "Test",
+        "Agreed loss scenario, recovery and practical handover"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Find the dependencies behind your logins",
+      "layout": "prose",
+      "body": "<p>We start with the tasks you must be able to complete: contact family, make essential payments, retrieve documents, reach a business system and use relevant identity or immigration services. For each, we trace the account, device, number, email address and approval method it relies on.</p><p>The important weakness is often circular recovery: the email needs the lost phone, while the mobile account sends its recovery message to that email. A second app on the same device has the same physical point of failure. We identify genuinely separate supported routes and the records needed to use them.</p><p>For a walkthrough of these dependencies and the alternative routes, read <a href=\"/en/knowledge/phone-email-access-failure/\">When your phone, SIM and main email fail</a>.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Secure communication abroad that fits the people using it",
+      "layout": "prose",
+      "body": "<p>We agree which conversations and records need restricted access and choose channels that the actual participants can use. Everyday coordination and sensitive document sharing need not use the same channel. The setup includes identity checks for new contacts, access permissions and a clear place for final instructions.</p><p>CryptPad can be an optional shared workspace for suitable documents. Its access controls allow document permissions to be restricted to selected users; the configuration and the way invitations are shared matter to who can enter. We set up the agreed workspace and show the relevant people how to use it. <a href=\"https://docs.cryptpad.org/en/user_guide/share_and_access.html\">CryptPad: sharing and access</a>. See also how <a href=\"/en/discretion/\">discreet collaboration</a> works across the assignment.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Separate recovery access from permission to act",
+      "layout": "prose",
+      "body": "<p>We distinguish your own recovery route from a substitute acting for you. Someone may know where a document is stored without being entitled to operate a bank account or make a company decision. <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">Institutional mandates and legal powers</a> are arranged through the appropriate process; access is configured for the authorised role.</p><p>A family or business handover identifies who may contact the provider, what they may request and which evidence they need. Recovery material stays under your agreed control. We keep passwords, live verification codes and recovery secrets out of the initial enquiry and ordinary correspondence.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Configure the supported alternatives",
+      "layout": "prose",
+      "body": "<p>The work can include a separately available recovery email, provider-supported backup codes or security keys, an alternative contact number where accepted, restricted document access and a safely stored set of recovery instructions. We configure the options the actual services support, then check that you can find and use them.</p><p>An active attack or an already compromised device or account calls for qualified IT security specialists to assess and address the incident. We coordinate their involvement, with this work agreed separately from the preparatory setup and loss-scenario test.</p><p>For people using a UKVI account, the account is the route to viewing an eVisa and obtaining a share code. UKVI publishes a recovery route for lost access. We include the relevant account and contact dependencies in the setup; this case applies to people with UKVI digital immigration status, not every UK passport holder. <a href=\"https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status\">GOV.UK: view an eVisa and get a share code</a>; <a href=\"https://www.gov.uk/government/publications/how-to-recover-your-ukvi-account-video\">UKVI account recovery guidance</a>.</p><p>For UAE residents who rely on UAE PASS and linked services, the official recovery route starts in the mobile app: select “I have an account” on the initial screen to recover the account or register a new device. We include that route and its identity checks in the preparation, keeping device loss, mobile-number access and identity evidence as separate dependencies. <a href=\"https://uaepass.ae/account-recovery\">UAE PASS: recover your account or register a new device</a>. The setup also connects to <a href=\"/en/services/residence-documents/\">residence and document preparation</a> and <a href=\"/en/knowledge/residence-and-documents/emergency-documents/\">emergency documents</a> where needed.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Test a controlled phone-loss scenario",
+      "layout": "prose",
+      "body": "<p>We agree the test before changing anything: which account, which alternative method and how normal access will be preserved. The exercise can test whether you can reach the recovery instructions without your main phone, authenticate through a supported alternative and retrieve the document required for the next task.</p><p>A lost-device problem and a bank freeze are different failures. Restoring a login does not change a bank’s account restriction. Where a payment relationship is closed or restricted, we connect access work with <a href=\"/en/services/banking-liquidity/\">lawful payment continuity and banking support</a> and the bank’s own resolution process. Your family’s essential spending is planned around funds they are entitled and able to use.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "A handover you can follow under pressure",
+      "layout": "prose",
+      "body": "<p>You receive concise instructions for the configured routes, where the recovery material is held and who to contact if a step fails. The handover records which actions were actually tested and which require provider support, identity verification or a separate legal authority.</p><p>For the records and permissions your family will need alongside these instructions, see <a href=\"/en/knowledge/residence-and-documents/emergency-documents/\">Emergency documents your family can actually use</a>.</p><p>Your personal passwords and recovery secrets stay under your control after setup and handover. EXOBASIS does not keep a collection of your account passwords and recovery keys. Authorised relatives receive instructions for their role, not automatic access to your personal secrets.</p><p>We show the relevant people the parts they will use. A change of phone, SIM, email, bank or key person is a reason to update the arrangement and repeat the affected check. The fuller <a href=\"/en/knowledge/phone-email-access-failure/\">phone and email access-failure guide</a> explains the dependencies this service puts into practice.</p><p>To arrange follow-up checks and updates after those changes, see <a href=\"/en/services/maintain-preparations/\">Review and maintain your preparations</a>.</p>"
+    }
+  ],
+  "working": {
+    "title": "Work on your arrangements, with your authority",
+    "body": "<p>You control the accounts and the approved changes. We organise the setup around your providers’ supported methods and keep each person’s permissions tied to their task. Sensitive material is handled through the agreed working route.</p>"
+  },
+  "nextWork": {
+    "title": "Connect technical access with family continuity",
+    "body": "<p>If someone else may need to act, connect the setup with accepted representation and family or business responsibilities. <a href=\"/en/services/maintain-preparations/\">Regular maintenance</a> can keep the arrangements current after account, device and staffing changes.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "Which essential task depends on your phone?",
+    "body": "Tell us the systems and the failure you want to prepare for. Start with their names and purpose; keep passwords, codes and private recovery material out of your enquiry."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [
+      "EN12"
+    ],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "334",
+        "label": "When your phone, SIM and main email fail",
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "position": "Kernabschnitt 1: Device and account dependencies",
+        "purpose": "Legitimen Wiederkontakt und Wiederzugang ohne das übliche Gerät vorbereiten."
+      },
+      {
+        "line": "335",
+        "label": "Emergency documents your family can actually use",
+        "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+        "position": "Kernabschnitt 6: Handover and ongoing care",
+        "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+      },
+      {
+        "line": "336",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 3: Backup contacts and permissions",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "337",
+        "label": "Discretion and protected collaboration",
+        "target": "/en/discretion/",
+        "position": "Dein Auftrag / Your enquiry",
+        "purpose": "Verstehen, wer welche Informationen erhält und wie Zusammenarbeit kontrolliert bleibt."
+      },
+      {
+        "line": "338",
+        "label": "Review and maintain your preparations",
+        "target": "/en/services/maintain-preparations/",
+        "position": "Kernabschnitt 6: Handover and ongoing care",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "scope": {
+    "id": "scope",
+    "title": "An agreed setup, a controlled test and a usable handover",
+    "body": "<p>Commission the communications and recovery work for your own essential accounts, your family arrangements or defined business tasks. We agree the systems and authorised participants before setup.</p><p>We perform the configuration work with you, document the supported routes and run the agreed checks. Institution-specific recovery and representation requirements are built into the assignment.</p>",
+    "items": [
+      [
+        "Map",
+        "Critical tasks and shared points of failure"
+      ],
+      [
+        "Set up",
+        "Supported alternatives, permissions and records"
+      ],
+      [
+        "Test and hand over",
+        "Observed results and clear recovery instructions"
+      ]
+    ],
+    "costs": "The scope separates assessment, configuration, testing and ongoing care. Devices, security keys, subscriptions and specialist representation work are separate items where required. Work by qualified IT security specialists on an active attack or a compromised device or account has a separately agreed scope and cost."
+  },
+  "displayTitle": "Stay reachable and recover access when your phone is gone"
+}

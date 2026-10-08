@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/diskretion/",
+  "lang": "de",
+  "title": "Diskretion und geschützte Zusammenarbeit",
+  "kind": "trust",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c029a22992a66e"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-20b4957c9ce01f"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Diskretion / Persönliche Informationen",
+  "seoTitle": "Diskrete Zusammenarbeit und geschützte Unterlagen | EXOBASIS",
+  "description": "Wie EXOBASIS persönliche Informationen behandelt: ein klarer Erstkontakt, geschützter Austausch und gezielte Weitergabe an die zuständigen Fachpersonen.",
+  "intro": "<p>Vielleicht möchtest du einen zweiten Wohnsitz vorbereiten, ohne dein Umfeld schon einzubeziehen. Vielleicht geht es um Familie, Vermögen oder die Sorge vor Repression. Für passende Hilfe musst du deine gesamte Lebenssituation nicht bei jeder beteiligten Stelle erneut offenlegen.</p><p>Wir organisieren die Zusammenarbeit so, dass Informationen der konkreten Aufgabe folgen: ein knapper Erstkontakt, ein vereinbarter geschützter Austausch und die gezielte Übergabe an benannte Fachpersonen. Du weißt, welche Angaben wofür benötigt werden.</p>",
+  "summary": {
+    "kicker": "Persönliche Vorbereitung, klare Datenwege",
+    "title": "Die richtige Information beim richtigen Empfänger.",
+    "facts": [
+      [
+        "Zu Beginn",
+        "Anliegen und geeigneter Rückweg"
+      ],
+      [
+        "Im Auftrag",
+        "Die Unterlagen für die vereinbarte Arbeit"
+      ],
+      [
+        "Bei Fachaufgaben",
+        "Benannter Empfänger und erforderlicher Ausschnitt"
+      ]
+    ]
+  },
+  "primary": {
+    "label": "Diskret Kontakt aufnehmen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "protectedPrimary": true,
+  "sections": [
+    {
+      "id": "d-erstkontakt",
+      "title": "Für den ersten Kontakt reicht dein Anliegen",
+      "body": "<p>Du kannst uns zunächst sagen, was du vorbereiten möchtest, aus welchem Land du kommst und wie wir dich erreichen dürfen. Eine grobe Beschreibung genügt, um den nächsten Schritt zuzuordnen. Ausweiskopien, Kontounterlagen oder ausführliche Vermögensangaben werden erst angefordert, wenn sie für eine bestimmte Arbeit gebraucht werden.</p><p>Nutze den <a href=\"/de/anfrage/\">regulären Anfrageweg</a>. Für eine verschlüsselte Nachricht ist ein CryptPad-Einstieg vorgesehen. Dieser zusätzliche Weg ist freiwillig. Falls ein Rückruf unerwünscht ist oder du nur zu bestimmten Zeiten sprechen kannst, teile uns das zusammen mit deinem Rückkontakt mit.</p>",
+      "layout": "prose",
+      "protectedAction": true
+    },
+    {
+      "id": "d-aufnahme",
+      "title": "Unterlagen gemeinsam geordnet austauschen",
+      "body": "<p>Für einen beauftragten Schritt vereinbaren wir, welche Unterlagen benötigt werden und über welchen Zugang du sie bereitstellst. Wir erklären dir die Handhabung, damit du Dokumente finden, ergänzen und wieder herunterladen kannst. Relevante Änderungen sollen nachvollziehbar bleiben, ohne die gesamte Familien- oder Vermögensakte an jeden Fachkontakt zu verteilen.</p><p>Wie wir Umfang, deine Mitwirkung und den Ablauf vor einem Auftrag klären, erfährst du unter <a href=\"/de/arbeitsweise/\">Wie EXOBASIS arbeitet</a>.</p><p>CryptPad verschlüsselt Dokumentinhalte Ende zu Ende. Freigabelinks und gegebenenfalls zusätzliche Dokumentpasswörter sind dabei Teil des Zugangs: Wer einen entsprechenden Freigabelink erhält, kann die damit eingeräumten Rechte nutzen. Deshalb gehören solche Links nicht in öffentliche Chats, frei zugängliche Notizen oder unbedachte Bildschirmaufnahmen. <a href=\"https://docs.cryptpad.org/en/user_guide/security.html\">CryptPad: Sicherheitsmodell und Freigaben</a>.</p><p>Die Speicherung wichtiger Unterlagen braucht auch einen Wiederzugang. Ein verlorenes CryptPad-Kontopasswort lässt sich vom Betreiber nicht zurücksetzen. Wir verbinden die Einrichtung deshalb mit einer für dich verständlichen, getrennt aufbewahrten Zugangssicherung. <a href=\"https://docs.cryptpad.org/en/user_guide/user_account.html\">CryptPad: Kontozugang und Sicherung</a>.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "d-fachweitergabe",
+      "title": "Was eine Fachperson von dir erhält",
+      "body": "<p>Ein Übersetzer benötigt die betreffende Urkunde. Eine Schule braucht die für eine Aufnahme erforderlichen Angaben. Ein Steuerberater kann dagegen Informationen über Wohnsitz, Unternehmen und Einkünfte benötigen. Der jeweilige Zweck bestimmt den notwendigen Ausschnitt.</p><p>Vor einer vorgesehenen Übergabe benennen wir Empfänger, Aufgabe und benötigte Informationen. Wo eine Stelle eigene Identifizierungs-, Dokumentations- oder Aufbewahrungspflichten hat, werden diese in den Ablauf einbezogen. Eine Bankaufnahme kann deshalb andere Angaben verlangen als eine Unterkunftssuche.</p><p>Die organisatorische Führung bleibt bei EXOBASIS für den vereinbarten Auftrag. Fachpersonen verantworten ihre jeweilige Facharbeit. Wie wir diese Rollen verbinden, beschreibt <a href=\"/de/arbeitsweise/\">unsere Arbeitsweise</a>.</p>",
+      "layout": "prose",
+      "roles": [
+        [
+          "Empfänger",
+          "Du kennst die Person oder Stelle, die deine Fachaufgabe übernimmt."
+        ],
+        [
+          "Umfang",
+          "Weitergegeben wird der für diese Aufgabe erforderliche Ausschnitt."
+        ],
+        [
+          "Übergabe",
+          "Datenweg und erforderliche Freigaben werden vor der Übergabe geklärt."
+        ]
+      ]
+    },
+    {
+      "id": "d-berechtigung",
+      "title": "Berechtigungen an den tatsächlichen Bedarf anpassen",
+      "body": "<p>Lesen, Bearbeiten und Weitergeben sind unterschiedliche Rechte. Wir legen für die vereinbarte Zusammenarbeit fest, wer welche Unterlagen erhält und wer Änderungen vornehmen darf. Eine unterstützende Person erhält die Angaben für ihre Aufgabe. Wenn ein Angehöriger die Rechnung übernimmt, wird dadurch nicht automatisch die gesamte persönliche Akte zugänglich. Für Vertretung und weitergehende Einsicht werden die jeweiligen Berechtigungen gesondert geklärt.</p><p>Auch verschlüsselte Dokumente können von berechtigten Empfängern kopiert oder exportiert werden. Bei besonders sensiblen Inhalten zählt deshalb zusätzlich die Auswahl des Empfängers. Die CryptPad-Dokumentation erläutert außerdem, dass der Instanzbetreiber technische Verbindungsdaten wie IP-Adresse und Browserkennung sehen kann. Verschlüsselung der Inhalte und Unsichtbarkeit einer Verbindung sind verschiedene Dinge.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "d-wiederkontakt",
+      "title": "Wiederkontakt, wenn dein üblicher Weg ausfällt",
+      "body": "<p>Wenn dein Telefon verloren geht oder dein E-Mail-Konto gesperrt ist, soll die Zusammenarbeit nicht an einer einzigen Anmeldung hängen. Wir vereinbaren einen zweiten Kontaktweg und das Vorgehen, mit dem ein erneuter Kontakt deiner Person zugeordnet werden kann. Eine neue Telefonnummer allein reicht nicht, um sensible Unterlagen herauszugeben.</p><p>Eine von dir benannte Vertretung braucht einen nachvollziehbaren Auftrag und die nötige Berechtigung. Für die weitergehende technische Einrichtung deiner eigenen Kommunikations- und Zugangswege kannst du <a href=\"/de/leistungen/kommunikation-wiederzugang/\">Kommunikation und Wiederzugang einrichten lassen</a>.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "d-abschluss",
+      "title": "Nach Abschluss: Unterlagen, Rechte und nächste Schritte",
+      "body": "<p>Zur Übergabe gehört, welche Arbeit erledigt wurde, wo deine Unterlagen liegen und welche Zugänge oder Fristen du weiter benötigst. Für eine anschließende Betreuung vereinbaren wir den fortbestehenden Zugriff und die Aktualisierung der benötigten Informationen.</p><p>Aufbewahrung und Löschung richten sich nach dem jeweiligen Zweck und den geltenden Pflichten. Die Angaben zur Verarbeitung deiner Anfrage und zu deinen Rechten findest du im <a href=\"/de/datenschutz/\">Datenschutz</a>. Für einen ersten Kontakt reicht weiterhin die kurze Beschreibung dessen, was du klären oder erledigen lassen möchtest.</p>",
+      "layout": "prose"
+    }
+  ],
+  "closing": {
+    "id": "geschuetzter-kontakt",
+    "title": "Beginne mit deiner Aufgabe.",
+    "body": "Beschreibe kurz, welche Vorbereitung du brauchst und welcher Rückkontakt für dich passt. Den Umgang mit persönlichen Unterlagen vereinbaren wir im nächsten Schritt."
+  },
+  "faq": {
+    "question": "Brauche ich für eine Anfrage ein CryptPad-Konto?",
+    "answer": "Nein. Nutze für deine Anfrage den regulären Anfrageweg. Ein CryptPad-Einstieg ist als freiwillige Zusatzmöglichkeit vorgesehen. Für die spätere geschützte Zusammenarbeit vereinbaren wir gemeinsam den passenden Weg und erklären dir seine Nutzung."
+  },
+  "displayTitle": "Deine Vorbereitung bleibt in den richtigen Händen"
+}

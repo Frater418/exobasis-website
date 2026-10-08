@@ -1,0 +1,214 @@
+{
+  "route": "/en/countries/malaysia/",
+  "lang": "en",
+  "title": "Malaysia as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/malaysia/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-25dfd8a3551ad8",
+      "startLine": 7522
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-5296e670472ce4",
+      "startLine": 9631
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Malaysia as your Plan B | EXOBASIS",
+  "description": "Assess Malaysia for your family: residence routes, housing, essential services and practical preparation with EXOBASIS.",
+  "intro": "<p>You want a second base your family can actually use. In Malaysia, the appropriate MM2H category, dependant rights, committed capital and presence requirements must fit how you intend to live. A general nomad recommendation does not answer those questions.</p>",
+  "countryContext": "/en/countries/malaysia/",
+  "linkPlan": [
+    {
+      "sourceLine": 1338,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1340,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1341,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1342,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1343,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1344,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1345,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1346,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1347,
+      "target": "/de/laender/malaysia/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1521,
+      "target": "/en/countries/thailand/",
+      "label": "Thailand as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1523,
+      "target": "/en/countries/mauritius/",
+      "label": "Mauritius as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Tourism Malaysia: MM2H category overview",
+      "url": "https://www.mm2h.gov.my/category/overview",
+      "section": 4,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "Ministry of Tourism Malaysia: MM2H guidelines",
+      "url": "https://www.mm2h.gov.my/apply/guidelines",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Ask us to prepare your Malaysia option",
+    "intent": "General enquiry"
+  },
+  "country": {
+    "name": "Malaysia",
+    "slug": "malaysia",
+    "region": "Asia",
+    "map": "countries/malaysia-locator.svg",
+    "imageAlt": "Locator map: Malaysia. Geographic orientation, not a safety assessment.",
+    "caption": "Geographic orientation. Not a travel, safety or border assessment.",
+    "summary": [
+      [
+        "A category, not a slogan",
+        "MM2H is not one identical route for every family."
+      ],
+      [
+        "Funds and presence",
+        "Tier, age and household circumstances affect the conditions."
+      ],
+      [
+        "A usable location",
+        "Align the home, education, treatment and workplace."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "Your starting point",
+      "body": "<p>Malaysia may suit a second home when the residence category and family life align. MM2H alone does not tell you which funds will be committed, who can be included or what use is permitted. Start with your household, intended stays and work. That produces an assessable route rather than a general recommendation for mobile living.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "Contingency base and return",
+      "body": "<p>A prepared alternative connects entry, housing and essential services before they are needed. Distance is only one criterion; travel dependencies and delays remain. Plan assistance if one person arrives first and the arrangements for the rest of the household to follow. Residence eligibility without a functioning place to arrive is not a complete contingency base. For temporary refuge, a multiple-entry permission is only one component. Check whether the selected category survives a long absence, who maintains housing and payments locally, and whether the family can travel together. Long-distance access and regional care also belong in the return plan.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "A lasting future for your family",
+      "body": "<p>Identify who will live there and the education, language and treatment requirements involved. Then compare actual locations and admissions. Parents or adult children may face different programme and care conditions from the main applicant. Make those distinctions before long-term property or capital commitments. Inclusion of a partner, children or parents depends on the particular MM2H category; sharing a home does not itself give everyone residence rights. A property meeting a programme condition also needs to work as a home: assess school travel, treatment, language and available support before committing.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Mobile living",
+      "body": "<p>The official national MM2H overview differentiates presence requirements by age and specifies which family members can fulfil a stated stay requirement. A blanket claim that everyone must remain for 90 days is therefore unsuitable. National categories and regional programmes also need separate treatment. Check the chosen category against the travel and work pattern you intend.</p><p class=\"exb-citation\">Source: <a href=\"https://www.mm2h.gov.my/category/overview\" rel=\"noreferrer\">Ministry of Tourism Malaysia: MM2H category overview</a></p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Existing rights and suitable routes",
+      "body": "<p>The national MM2H framework distinguishes Platinum, Gold, Silver and a special economic-zone category. Fixed deposits, property requirements and other payments have different functions. The appropriate tier depends on eligibility, capital, family and intended activity. Residence is neither unrestricted permission to work nor a complete tax assessment. Compare the category as a whole before an attractive isolated feature drives the decision. The official MM2H information separates Silver, Gold, Platinum and the special economic-zone route. Committed capital, property conditions, dependant rules and presence vary by category and age; permitted activity also needs checking. A visitor stay cannot replace those conditions, and the programme requires an authorised application channel.</p><p class=\"exb-citation\">Source: <a href=\"https://www.mm2h.gov.my/apply/guidelines\" rel=\"noreferrer\">Ministry of Tourism Malaysia: MM2H guidelines</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fmalaysia%2F#short-enquiry\">Ask us to prepare your Malaysia option</a><p>A defined task can be requested directly. Personal documents follow only through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Regions and housing",
+      "body": "<p>Compare specific locations for education, treatment, access and work. A programme-qualifying property and a suitable family home require separate assessment. Viewings should test everyday journeys and available services, not only interiors. Prepared temporary accommodation may help with first arrival while a longer-term choice is completed.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Arrange your arrival abroad</a></p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schooling, healthcare and care",
+      "body": "<h3>Children and relatives</h3><p>Confirm inclusion under the residence route separately from actual education and care arrangements. A child’s inclusion as a dependant does not establish school admission. Confirm teaching language, the appropriate year group and travel from the chosen home. Regular treatment or care requires acceptance, payment cover and a reachable backup contact.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare to move abroad with children and family</a></p><h3>Cover and treatment</h3><p>Check required insurance, existing conditions and the facilities needed. A general claim about healthcare quality is not a case assessment.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and care abroad</a></p><h3>Continuing care</h3><p>Arrange regular assistance and medication access around the proposed home.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Income, money and work",
+      "body": "<p>Distinguish committed deposits, property, non-refundable fees and available living funds. Money used to meet a programme condition is not necessarily free to spend on daily needs. Permitted work, income source and tax connections need separate advice. The household also requires confirmed payments and a functioning workplace during the move. A committed deposit serves a different purpose from liquid rent, school fees and business reserves. Budget property purchase, fees and ongoing maintenance separately before judging a category affordable. An MM2H pass establishes neither tax residence nor unrestricted permission to work locally.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Documents and preparation time",
+      "body": "<p>Determine the category and family scope first. Check current requirements with the responsible programme body and required licensed application channel. Put identity, relationship, financial and insurance evidence into a clear sequence. Align appointments, entry and setup conditions. A general provider checklist cannot replace the personal eligibility assessment. Start with the category, age and family scope against the current official guidance. Only then prepare banking, identity and relationship evidence and the accepted document versions through the required licensed application channel. We procure suitable assistance for the agreed assignment; we do not claim an existing exclusive partner.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a></p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Ongoing obligations",
+      "body": "<p>Track the conditions of the category actually selected: evidence, applicable presence, housing and renewal. Changes in age, family, activity or committed capital may affect the arrangement. Keep education, treatment, payments and contacts current as well. Maintenance should distinguish programme requirements from local preparations already established. At renewal, review the capital and property conditions and any presence rule that applies to this category. If the family spends time elsewhere, maintain the home, treatment contacts and re-entry position; obligations and tax connections at the former home require their own assessment.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Review and maintain your preparations</a></p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Practical preparation",
+      "body": "<p>EXOBASIS can compare Malaysia against your family and intended use, then coordinate the preparation. We connect category assessment, documents, specialist arrangements and a usable place to arrive. Defined tasks can be commissioned directly. The purpose is not to obtain any MM2H tier quickly, but to establish a foundation that fits your circumstances.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Choose suitable countries and locations</a></p><h3>Options to compare</h3><div class=\"exb-country-related\"><article><a class=\"exb-text-link\" href=\"/en/countries/thailand/\">Thailand as a personal alternative</a><p>Thailand uses different residence and work categories. Compare personal eligibility and family life rather than programme names.</p></article><article><a class=\"exb-text-link\" href=\"/en/countries/mauritius/\">Mauritius as a personal alternative</a><p>Mauritius changes travel, island supplies and the transition between temporary use and a lasting family base.</p></article></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fmalaysia%2F#short-enquiry\">Ask us to prepare your Malaysia option</a><p>A defined task can be requested directly. Personal documents follow only through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Does every MM2H participant have the same presence requirement?",
+    "answer": "No. Check the category, age and permitted fulfilment by family members against the current rules. Regional programmes require separate assessment."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/vorbereitung-betreuen/",
+  "lang": "de",
+  "title": "Vorbereitung prüfen und aktuell halten",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-af7c328d3e7466"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c0e39e62f20640"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Laufende Betreuung / Nutzbar bleiben",
+  "seoTitle": "Notfallplan aktualisieren und Vorbereitung betreuen",
+  "description": "Pässe, Rechte, Zugänge und Unterkunft bleiben nicht von allein nutzbar. EXOBASIS prüft und betreut die vereinbarten Teile deiner Vorbereitung.",
+  "intro": "<p>Du hast einen Plan, Dokumente, einen zweiten Geldzugang oder bereits eine Unterkunft im Ausland eingerichtet. Damit diese Vorbereitung später funktioniert, muss sie zu deinem aktuellen Leben passen. Ein neues Telefon, eine geänderte Vollmacht oder eine abgelaufene Frist kann sonst genau im falschen Moment zum Hindernis werden.</p><p>EXOBASIS betreut die vereinbarten Teile deiner Vorbereitung. Wir prüfen Fristen und Änderungen, organisieren nötige Erledigungen und halten mit dir fest, was tatsächlich wieder nutzbar ist.</p>",
+  "primary": {
+    "label": "Betreuung anfragen",
+    "intent": "Vorbereitung prüfen und aktuell halten"
+  },
+  "summary": {
+    "kicker": "Vorbereitung erhalten",
+    "title": "Aktuell halten, was du später brauchen wirst.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift auf einem Tisch als Sinnbild für Vorbereitung.",
+    "facts": [
+      [
+        "Gegenstand",
+        "Benannte Unterlagen, Rechte, Kontakte, Zugänge und örtliche Vorkehrungen"
+      ],
+      [
+        "Rhythmus",
+        "Vereinbarte Intervalle und konkrete Änderungsanlässe"
+      ],
+      [
+        "Ergebnis",
+        "Erledigte Pflege, verständlicher Bericht und nächste Prüfung"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Den tatsächlich vorhandenen Bestand übernehmen",
+      "layout": "prose",
+      "body": "<p>Wir halten fest, was zu deinem Auftrag gehört: etwa Pässe und Personenstandsurkunden, Aufenthaltsfristen, Bank- und Kommunikationszugänge, Vollmachten, Versicherungsunterlagen oder die vorbereitete Unterkunft. Vorhandene Nachweise zeigen, was eingerichtet ist und wo zunächst eine Klärung nötig wird.</p><p>Der Pflegeumfang kann einzelne Bausteine oder eine zusammenhängende Vorbereitung umfassen. Eine bereits organisierte Wohnung braucht andere laufende Arbeit als ein Dokumentendossier. Deshalb erhält jeder Gegenstand seine zuständige Person, seinen nächsten Termin und ein nachvollziehbares Prüfergebnis.</p>"
+    },
+    {
+      "id": "kern-2",
+      "title": "Regelmäßige Prüfung und Änderungen im Leben verbinden",
+      "layout": "prose",
+      "body": "<p>Wir vereinbaren Intervalle passend zur Aufgabe. Daneben lösen bestimmte Ereignisse eine zusätzliche Nachprüfung aus: neuer Pass, Umzug, Geburt, Trennung, veränderte Gesundheit, ein anderes Gerät oder eine neue Unternehmensvertretung. Relevant ist, welcher Ablauf dadurch betroffen sein kann. Bei Bankzugängen gehört dazu eine angekündigte Produktumstellung oder eine Einschränkung wegen längerer Inaktivität. Wir klären am konkreten Konto, welche Zahlungsfunktionen betroffen sind und was zu ihrer weiteren Nutzung erforderlich ist.</p><p>Beispiel: Nach einem Telefonwechsel wird nicht nur die neue Nummer eingetragen. Wir prüfen die damit verbundenen Bankfreigaben, Wiederzugangswege und Kontakte der berechtigten Angehörigen. Erst wenn die vereinbarten Funktionen wieder getestet sind, ist diese Änderung abgeschlossen.</p>"
+    },
+    {
+      "id": "kern-3",
+      "title": "Fristen nachhalten und die notwendige Arbeit erledigen",
+      "layout": "prose",
+      "body": "<p>Bei Dokumenten und Aufenthaltsrechten führen wir die Gültigkeit des Titels, das Ablaufdatum der zugehörigen Karte und die zulässige Abwesenheit getrennt. Entscheidend sind die Bedingungen des jeweiligen Aufenthaltsrechts; das Datum auf der Karte beantwortet nicht allein, ob du nach längerer Abwesenheit zurückkehren darfst. Eine bevorstehende Verlängerung wird mit den dafür benötigten Nachweisen, Terminen und persönlicher Anwesenheit verbunden. Wir organisieren die im Auftrag enthaltene Beschaffung und Abstimmung.</p><p>Ändern sich Anforderungen eines Instituts oder einer zuständigen Stelle, gleichen wir die Auswirkung auf deinen Fall ab. Die Rückmeldung benennt die konkrete Handlung: welches Dokument fehlt, wer es beschafft und welcher Schritt danach wieder möglich wird. Neue Regelungen werden nicht pauschal auf sämtliche Familienmitglieder oder Länder übertragen.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/dokumente-aufenthalt/\" data-route=\"/de/leistungen/dokumente-aufenthalt/\" data-link-description=\"Benötigte Dokumente und die Vorbereitung des Aufenthalts organisieren lassen.\"><span>Dokumente und Aufenthalt vorbereiten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/leistungen/kommunikation-wiederzugang/\" data-route=\"/de/leistungen/kommunikation-wiederzugang/\" data-link-description=\"Geschützte Kommunikation und geregelte Wiederzugangswege einrichten.\"><span>Diskrete Kommunikation und Wiederzugang einrichten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-4",
+      "title": "Eine Unterkunft während deiner Abwesenheit betreuen",
+      "layout": "prose",
+      "body": "<p>Eine selten genutzte Wohnung muss bei deiner Ankunft zugänglich und bewohnbar sein. Der vereinbarte örtliche Umfang kann Schlüsselverwaltung, Sichtkontrollen, Wartung, Versorgungsverträge und die Vorbereitung vor einer angekündigten Ankunft umfassen. Wer Zugang hat und welche Ausgaben freigegeben sind, wird vorher festgelegt.</p><p>Bei einer Kontrolle sollen konkrete Zustände zurückgemeldet werden: Gibt es sichtbare Schäden, ist die vereinbarte Versorgung aktiv, wurde eine Reparatur abgeschlossen? Bei Miet- oder Eigentumsobjekten gehören die jeweils geltenden Vertrags-, Versicherungs- und Verwaltungspflichten in die Abstimmung. Umfangreichere Reparaturen oder neue Bestellungen erhalten eine eigene Freigabe.</p>"
+    },
+    {
+      "id": "kern-5",
+      "title": "Ein Bericht, aus dem du entscheiden kannst",
+      "layout": "prose",
+      "body": "<p>Du erhältst eine kurze, sachliche Rückmeldung: was kontrolliert wurde, was geändert oder erledigt ist, welche Abweichung besteht und welche Entscheidung du treffen musst. Eine offene Aufgabe wird mit Verantwortlichem und nächstem Schritt geführt.</p><p>Wenn etwa eine neue Familienkonstellation zusätzliche Aufenthaltsarbeit auslöst, erläutern wir den Umfang und bieten die nötige Erweiterung an. Die laufende Pflege und ein neues Einrichtungsprojekt bleiben so wirtschaftlich und fachlich nachvollziehbar. Die Verantwortung erläutert auch <a href=\"/de/arbeitsweise/\">unsere Arbeitsweise</a>.</p>"
+    },
+    {
+      "id": "kern-6",
+      "title": "Den betroffenen Ablauf erneut testen",
+      "layout": "prose",
+      "body": "<p>Nach einer Änderung prüfen wir die vereinbarte Funktion: Kann die berechtigte Person den neuen Kontakt erreichen, den vorgesehenen Zugang nutzen oder die Unterlagen finden? Bei einem geänderten oder reaktivierten Bankzugang testen wir die tatsächlich benötigte Zahlung und den vereinbarten Wiederzugang nach dem Verfahren des Instituts. Bei einer vorbereiteten Ankunft gehört der örtliche Übergabepunkt dazu. Das Ergebnis und der nächste Prüfanlass gehen in den Plan ein.</p><p>Für eine vereinbarte Notfallkoordination werden deren eigene Kontakte und Ausführungsvoraussetzungen mitgeprüft. Welche Unterstützung zu welchen Zeiten ausgelöst werden kann, richtet sich nach dieser ausdrücklich abgestimmten Aktivierungsvereinbarung.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/aktivierung-notfallkoordination/\" data-route=\"/de/leistungen/aktivierung-notfallkoordination/\" data-link-description=\"Auslöser, Berechtigungen, Kontaktfenster und den Ablauf einer vereinbarten Aktivierung klären.\"><span>Vereinbarte Aktivierung und Notfallkoordination</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    }
+  ],
+  "working": {
+    "title": "So arbeiten wir zusammen",
+    "body": "<p>Zu Beginn gleichen wir den vorhandenen Plan und seine Nachweise ab. Du meldest wesentliche Änderungen in Familie, Gesundheit, Wohnsitz, Geschäft und Geräten. Wir sagen dir konkret, welche Unterlage oder Entscheidung für die nächste Arbeit gebraucht wird. Wie Aufgaben, Verantwortung und die Übergabe der Ergebnisse vereinbart werden, erläutert <a href=\"/de/arbeitsweise/\">unsere Arbeitsweise</a>.</p>"
+  },
+  "nextWork": {
+    "title": "So geht es danach weiter",
+    "body": "<p>Ein größerer Wechsel kann eine Aktualisierung des <a href=\"/de/leistungen/flucht-notfallplan/\">persönlichen Gesamtplans</a> erfordern. Für Unterstützung zu einem benannten Ereignis wird der entsprechende Aktivierungsauftrag mit Erreichbarkeit und Ausführung abgestimmt.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Welche Vorbereitung soll nutzbar bleiben?",
+    "body": "Nenne den bestehenden Plan, die eingerichteten Zugänge oder den Standort, den du betreuen lassen möchtest. Wir klären Bestand und Pflegeumfang gemeinsam."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "343",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "position": "Passende nächste Arbeit / Relevant next work",
+        "purpose": "Einen zusammenhängenden Plan für Personen, Vermögen, Geschäft und benannte Szenarien ausarbeiten lassen."
+      },
+      {
+        "line": "344",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "position": "Kernabschnitt 3: Fristen und Änderungen",
+        "purpose": "Ein verwendbares, nachverfolgtes Dossier und die beauftragten Dokumenten-/Aufenthaltsschritte organisieren lassen."
+      },
+      {
+        "line": "345",
+        "label": "Diskrete Kommunikation und Wiederzugang einrichten",
+        "target": "/de/leistungen/kommunikation-wiederzugang/",
+        "position": "Kernabschnitt 3: Fristen und Änderungen",
+        "purpose": "Berechtigte Kontakt- und Zugangswege einrichten und praktisch testen lassen."
+      },
+      {
+        "line": "346",
+        "label": "Vereinbarte Aktivierung und Notfallkoordination",
+        "target": "/de/leistungen/aktivierung-notfallkoordination/",
+        "position": "Kernabschnitt 6: nächster Test",
+        "purpose": "Für benannte Unterstützungsfälle einen besetzten, verifizierbaren und getesteten Ablauf vereinbaren."
+      },
+      {
+        "line": "347",
+        "label": "Wie EXOBASIS arbeitet",
+        "target": "/de/arbeitsweise/",
+        "position": "Zusammenarbeit / Working together",
+        "purpose": "Auftrag, Verantwortung, praktische Ausführung und Übergabe verstehen."
+      }
+    ],
+    "seedingSupporting": [],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages.",
+    "redaction": {
+      "package": "leistungen-a-de",
+      "seeding": [],
+      "sourceScope": "Eigenständige DACH-Neuredaktion nach PB-D65; Quellen und Abschnittsbelege in SEITEN-DE.jsonl.",
+      "mappedLinks": [
+        {
+          "line": "343",
+          "label": "Persönlicher Flucht- und Notfallplan",
+          "target": "/de/leistungen/flucht-notfallplan/",
+          "position": "Passende nächste Arbeit / Relevant next work",
+          "purpose": "Einen zusammenhängenden Plan für Personen, Vermögen, Geschäft und benannte Szenarien ausarbeiten lassen."
+        },
+        {
+          "line": "344",
+          "label": "Dokumente und Aufenthalt vorbereiten",
+          "target": "/de/leistungen/dokumente-aufenthalt/",
+          "position": "Kernabschnitt 3: Fristen und Änderungen",
+          "purpose": "Ein verwendbares, nachverfolgtes Dossier und die beauftragten Dokumenten-/Aufenthaltsschritte organisieren lassen."
+        },
+        {
+          "line": "345",
+          "label": "Diskrete Kommunikation und Wiederzugang einrichten",
+          "target": "/de/leistungen/kommunikation-wiederzugang/",
+          "position": "Kernabschnitt 3: Fristen und Änderungen",
+          "purpose": "Berechtigte Kontakt- und Zugangswege einrichten und praktisch testen lassen."
+        },
+        {
+          "line": "346",
+          "label": "Vereinbarte Aktivierung und Notfallkoordination",
+          "target": "/de/leistungen/aktivierung-notfallkoordination/",
+          "position": "Kernabschnitt 6: nächster Test",
+          "purpose": "Für benannte Unterstützungsfälle einen besetzten, verifizierbaren und getesteten Ablauf vereinbaren."
+        },
+        {
+          "line": "347",
+          "label": "Wie EXOBASIS arbeitet",
+          "target": "/de/arbeitsweise/",
+          "position": "Zusammenarbeit / Working together",
+          "purpose": "Auftrag, Verantwortung, praktische Ausführung und Übergabe verstehen."
+        }
+      ],
+      "seedingSupporting": [],
+      "seedingScope": "Direktzuordnung und unterstützende Anwendung im deutschen Seitenjournal dokumentiert."
+    }
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Was wir für dich übernehmen",
+    "body": "<p>Wir übernehmen den vereinbarten Bestand und legen fest, was regelmäßig oder bei einem bestimmten Ereignis kontrolliert wird. Die Betreuung verbindet Prüfung mit der enthaltenen praktischen Arbeit: Unterlagen aktualisieren, Rückfragen klären, Kontakte bestätigen und örtliche Erledigungen abstimmen.</p>",
+    "items": [
+      [
+        "Überblick",
+        "Für jede Vorkehrung Zustand, Frist und Verantwortlichen führen."
+      ],
+      [
+        "Pflege",
+        "Vereinbarte Änderungen erledigen und ihre Folgen im Plan nachziehen."
+      ],
+      [
+        "Kontrolle",
+        "Den betroffenen Ablauf erneut prüfen und das Ergebnis verständlich übergeben."
+      ]
+    ],
+    "costs": "Laufende Betreuung hat einen benannten Umfang und Rhythmus. Neue Verfahren, umfangreiche Umbauten, Reisen, Objektarbeiten und gesondert reservierte Einsatzkapazität werden zusätzlich angeboten. Wiederkehrende Anbieter- und Objektkosten bleiben eigene Positionen."
+  },
+  "displayTitle": "Deinen Notfallplan und die Außenbasis aktuell halten"
+}

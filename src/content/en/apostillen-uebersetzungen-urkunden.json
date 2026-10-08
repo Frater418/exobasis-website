@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/apostilles-translations-documents/",
+  "lang": "en",
+  "title": "Arrange apostilles, translations and documents",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-1c9cff828fe023"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-b1925b4404aa8c"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Documents / Apostilles, legalisation and translation",
+  "seoTitle": "Apostille and document legalisation services | EXOBASIS",
+  "description": "Arrange certificates, apostilles, legalisation and translations for residence, family or business use. UK and UAE document routes coordinated end to end.",
+  "intro": "<p>A residence appointment, a child's enrolment or a property transaction can stall because the right document arrived in the wrong form. The solution is to work backwards from the receiving authority: which document it needs, who must authenticate it and which translation it will accept.</p><p>EXOBASIS obtains and prepares the agreed documents, organises the necessary professional work and follows the chain through to delivery. You can commission a single certificate or a coordinated family dossier.</p>",
+  "primary": {
+    "label": "Enquire about document services",
+    "intent": "Arrange apostilles, translations and documents"
+  },
+  "summary": {
+    "kicker": "Your assignment with EXOBASIS",
+    "title": "The right document, in the form its recipient needs.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "A notebook and pen on a table, illustrating preparation.",
+    "facts": [
+      [
+        "Starting point",
+        "The document, issuing country and intended use"
+      ],
+      [
+        "Work",
+        "Obtain, authenticate, translate and deliver"
+      ],
+      [
+        "Handover",
+        "Completed documents and the record of their preparation"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Start with the document, its origin and its destination",
+      "layout": "prose",
+      "body": "<p>A UK birth certificate for use abroad, a UAE-issued marriage certificate and a power of attorney signed in another country can require different routes. Your present address does not determine which authority can legalise the document.</p><p>We identify the issuing country, the document holder, the intended procedure and the receiving organisation. We then confirm the required original or certified copy, acceptable age, language and authentication sequence. Where names have changed, we connect the supporting marriage, adoption or name-change records so the file explains the difference.</p><p>If the larger question is which residence route your family can use, <a href=\"/en/knowledge/residence-and-documents/rights-citizenship/\">residence rights and citizenship</a> explains that decision. Here, the assignment is to prepare the documents for a defined use.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "An apostille, a translation and attestation do different jobs",
+      "layout": "prose",
+      "body": "<p>An apostille authenticates the signature, the signer's capacity and, where applicable, the seal or stamp on a public document. It does not certify the truth of its contents. Under the <a href=\"https://assets.hcch.net/upload/conventions/txt12en.pdf\">Hague Apostille Convention</a>, the receiving country, issuing country and document must fall within the applicable convention relationship.</p><p>For UK documents, <a href=\"https://www.gov.uk/get-document-legalised\">the Legalisation Office</a> offers paper apostilles and eligible electronic apostilles. UK birth, death, marriage, civil partnership and adoption certificates cannot receive an e-Apostille. A qualifying electronic document must be a PDF electronically signed by a UK notary or solicitor, and its recipient must accept that format.</p><p>For document attestation in the UAE, the <a href=\"https://www.mofa.gov.ae/en/Services/Attestation\">Ministry of Foreign Affairs</a> distinguishes UAE-issued documents from those issued abroad. Its digital route is for supported original digital UAE documents intended for use outside the UAE. A scan of a paper certificate is not an original digital document. Foreign-issued documents follow the relevant UAE mission route. We establish the complete chain for your particular origin and destination before ordering work.</p><p>A translation makes the content usable in another language. The recipient's requirements determine the translator's qualification, certification and whether authentication must precede or follow translation. Ordering a generic translation first can mean paying for the same work again.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Obtain the correct record from the right issuing body",
+      "layout": "prose",
+      "body": "<p>We establish whether your existing certificate is suitable or whether the registry or other issuing body needs to supply a replacement. For a power of attorney, the receiving lawyer, bank or registry confirms the required wording and form before it is signed.</p><p>The UK Legalisation Office handles eligible UK documents; foreign documents must be legalised through their country of issue. Some documents need a notary or solicitor's certification first. We organise those appointments and instructions, then track the document between the issuer, professional, legalisation authority and intended recipient.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Protect the originals and build the timetable around their use",
+      "layout": "prose",
+      "body": "<p>We record who holds each original, where it is going, how it will be returned and whether it is needed for another appointment. If a deadline is approaching, obtaining the record, certification, translation, authority processing and delivery all belong in the timetable.</p><p>The FCDO's published standard paper-apostille timeframe is usually up to 25 working days plus delivery, with the current period shown at application; eligible e-Apostilles are listed at up to two working days. These are authority-processing periods, not the total time for a complete dossier. Signature verification can add time.</p><p>For UAE courier-based attestation, MoFA requires an original in Arabic or English, or a legally certified translation, with the necessary prior certification. Laminated documents are not accepted. We check these physical requirements before dispatch.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Keep queries moving until the agreed work is complete",
+      "layout": "prose",
+      "body": "<p>EXOBASIS prepares the submission, books agreed appointments, coordinates translators and other professionals, and follows requests for clarification. You receive a specific request when a signature, original or personal attendance is needed, with the reason and next deadline.</p><p>If a record is rejected, we identify the stated reason and organise the correction before another submission. We keep the versions and correspondence together so the receiving institution can follow the document's history. For the wider application, use <a href=\"/en/services/residence-documents/\">residence and document preparation</a>.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Receive the finished documents and an understandable cost record",
+      "layout": "prose",
+      "body": "<p>Your handover identifies each document, its original or digital form, completed authentication and translation steps, intended use and any remaining recipient action. We confirm the location of physical originals and provide the agreed working copies. If the documents are for a residence application, <a href=\"/en/services/residence-documents/\">residence and document preparation</a> connects this handover to the remaining submission, appointment and follow-up steps.</p><p>As retrieved on 26 September 2026, GOV.UK lists the standard paper apostille at £45 per document plus postage or courier charges, and the e-Apostille at £35. Certificate replacement, certification, translation, consular work and EXOBASIS coordination are separate items. The proposal distinguishes them so you can compare the cost of the whole document chain.</p><p>We also explain which papers belong in your <a href=\"/en/knowledge/residence-and-documents/emergency-documents/\">family's emergency document preparation</a>, where copies will be accessible and when a new version may be needed.</p>"
+    }
+  ],
+  "working": {
+    "title": "How we work together",
+    "body": "<p>At the outset, tell us the type of document, its issuing country, its intended use and your deadline. Document images and personal records follow through the protected working channel. You provide required authorisations and attend appointments that require you personally; we organise the remaining agreed work.</p>"
+  },
+  "nextWork": {
+    "title": "The next practical step",
+    "body": "<p>If the documents are part of an application, we can connect their preparation to <a href=\"/en/services/residence-documents/\">your residence dossier and submission</a>. If you already have the application handled, the document assignment can stand on its own.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "Which document is holding up your next step?",
+    "body": "Tell us what it is, where it was issued and where you need to use it. We will define the preparation and delivery work around that purpose."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "492",
+        "label": "Arrange residence and document preparation",
+        "target": "/en/services/residence-documents/",
+        "position": "Kernabschnitt 6: Handover and cost components",
+        "purpose": "Ein verwendbares, nachverfolgtes Dossier und die beauftragten Dokumenten-/Aufenthaltsschritte organisieren lassen."
+      },
+      {
+        "line": "493",
+        "label": "Emergency documents your family can actually use",
+        "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+        "position": "Kernabschnitt 6: Handover and cost components",
+        "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+      },
+      {
+        "line": "494",
+        "label": "Residence, existing rights and second citizenship",
+        "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+        "position": "Kernabschnitt 1: The document and destination",
+        "purpose": "Vorhandene Rechte zuerst nutzen und zusätzliche Aufenthalts-/Staatsangehörigkeitswege richtig einordnen."
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages.",
+    "redaction": {
+      "package": "leistungen-a-en",
+      "seeding": [],
+      "sourceScope": "PB-D65 English editorial candidate; see QUELLEN-EN.md and SEITEN-EN.jsonl. No integration or approval claimed.",
+      "mappedLinks": [
+        {
+          "line": "492",
+          "label": "Arrange residence and document preparation",
+          "target": "/en/services/residence-documents/",
+          "position": "Kernabschnitt 6: Handover and cost components",
+          "purpose": "Ein verwendbares, nachverfolgtes Dossier und die beauftragten Dokumenten-/Aufenthaltsschritte organisieren lassen."
+        },
+        {
+          "line": "493",
+          "label": "Emergency documents your family can actually use",
+          "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+          "position": "Kernabschnitt 6: Handover and cost components",
+          "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+        },
+        {
+          "line": "494",
+          "label": "Residence, existing rights and second citizenship",
+          "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+          "position": "Kernabschnitt 1: The document and destination",
+          "purpose": "Vorhandene Rechte zuerst nutzen und zusätzliche Aufenthalts-/Staatsangehörigkeitswege richtig einordnen."
+        }
+      ],
+      "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+    }
+  },
+  "scope": {
+    "id": "scope",
+    "title": "What you receive",
+    "body": "<p>You receive the certificates and supporting work specified in the proposal, with a clear record of what has been obtained, authenticated, translated and delivered. The scope can cover one document or a connected set for several family members.</p>",
+    "items": [
+      [
+        "A confirmed document route",
+        "The recipient and procedure determine what needs to be ordered."
+      ],
+      [
+        "Managed execution",
+        "We coordinate issuing bodies, professional appointments, submissions and delivery."
+      ],
+      [
+        "Traceable originals",
+        "You know where originals are and which version to present."
+      ]
+    ],
+    "costs": "EXOBASIS coordination, official fees, certificate procurement, professional certification, translation and delivery are itemised separately. The document count, countries and deadline determine the proposal."
+  },
+  "displayTitle": "Apostilles, translations and documents prepared for their real purpose"
+}

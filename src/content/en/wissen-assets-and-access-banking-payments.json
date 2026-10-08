@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/assets-and-access/banking-payments/",
+  "lang": "en",
+  "title": "Banking access and payments abroad",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-e96fc32ccb5314"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-be1938b12975bb"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-e37b182705c78e"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Offshore bank accounts and banking access abroad | EXOBASIS",
+  "description": "Prepare banking abroad around usable funds, honest residence details and independent payment routes. Understand UK closures and UAE departure-related restrictions.",
+  "intro": "<p>An offshore bank account can form part of your preparation, but the real objective is to keep paying for your family’s life if one bank, card or access method stops working. A balance you cannot reach will not pay a landlord or a hospital.</p><p>Separate the reason for the disruption from the continuity work. A UK account closure, a security block, a UAE end-of-service hold and the loss of your phone call for different action.</p>",
+  "primary": {
+    "label": "Prepare my banking access and payment routes",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "Offshore bank accounts: keep your family able to pay",
+    "facts": [
+      [
+        "Continuity",
+        "Keep essential spending funded and independently accessible."
+      ],
+      [
+        "Status",
+        "Account closure, a funds hold and a failed login need different action."
+      ],
+      [
+        "Preparation",
+        "Match the account, documents and access to your real residence."
+      ]
+    ],
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Map and compass, symbolising personal preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Debanked, frozen or locked out: identify what has happened",
+      "body": "<table><caption>Different restrictions need different responses</caption><thead><tr><th scope=\"col\">What happened</th><th scope=\"col\">What to establish</th><th scope=\"col\">Immediate legitimate route</th></tr></thead><tbody><tr><th scope=\"row\">An account is being closed</th><td>The account contract, reason given, notice and closure date.</td><td>Challenge the decision through the bank while arranging eligible replacement banking.</td></tr><tr><th scope=\"row\">Funds or a payment are frozen</th><td>The scope of the restriction and any information the bank can request or provide.</td><td>Use the bank’s formal process; obtain legal help for a court, sanctions or other legal restriction.</td></tr><tr><th scope=\"row\">Only a card or credit limit is affected</th><td>Whether the account and other permitted payment methods remain available.</td><td>Contact the card issuer and use an authorised alternative that is actually working.</td></tr><tr><th scope=\"row\">Your phone or login fails</th><td>Whether the money is restricted or you have lost authentication.</td><td>Use the provider’s supported recovery process and your prepared independent access.</td></tr></tbody></table><p>If your family is missing essential payments, tell the bank precisely what is due and when, and ask what permitted arrangements it can make. Keep notices, messages, complaint references and evidence of the loss or disruption. The Financial Ombudsman explains that banks may freeze accounts or block payments without advance warning in cases involving suspected unlawful activity or a court order; it assesses complaints against the circumstances, contract and applicable rules.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/frozen-accounts-blocked-payments\">Financial Ombudsman: frozen accounts and blocked payments</a>.</p><h3>UK closure notices: the contract date matters</h3><p>For qualifying indefinite framework contracts entered into on or after 28 April 2026, regulation 51B requires at least 90 days’ notice of termination, a sufficiently detailed and specific explanation, and information on complaints. Earlier indefinite contracts fall under the separate two-month provision where the contract permits termination. The legislation contains exceptions, including specified money-laundering, immigration and serious-crime circumstances. These closure rules do not turn every account freeze into a 90-day notice case.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.legislation.gov.uk/uksi/2017/752/regulation/51B\">Payment Services Regulations 2017, regulation 51B</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.legislation.gov.uk/uksi/2025/688/body/made\">2025 amending regulations: contract dates and exceptions</a>.</p><p>Complain to the provider first. If the complaint is unresolved, follow the applicable Financial Ombudsman route and deadline. If you believe political views influenced the decision, set out the specific evidence and the decision you want reviewed. Deal with any legal restriction through the competent authority or adviser. A complaint and keeping lawful everyday payments going are parallel tasks.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/phone-email-access-failure/\" data-route=\"/en/knowledge/phone-email-access-failure/\"><span>When your phone, SIM and main email fail</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-2",
+      "title": "Keep ownership, protection and usable access separate",
+      "body": "<p>An offshore bank account is an account held outside your home jurisdiction. It remains subject to its institution’s eligibility, verification, reporting and account terms. An international bank account may be useful for currencies and cross-border life, but the country name alone does not establish that it fits your residence or payment needs.</p><p>Identify the legal entity holding the money, its regulator, the account holder and the applicable protection. A bank deposit, an investment and an e-money balance have different legal arrangements. Also check access hours, cards, transfers, correspondent-bank charges and the support available from abroad.</p><p>A second bank account reduces a dependency only if it is independently usable. Two brands in the same group, two cards requiring the same phone and two accounts funded from one restricted source can still fail together. Keep a proportionate reserve of accessible funds for rent, care, travel and the costs of a disrupted transition.</p><p class=\"exb-source-note\">UK product examples: <a href=\"https://www.fca.org.uk/consumers/using-payment-service-providers\" rel=\"noopener noreferrer\">FCA guidance on banks, payment providers and safeguarding</a>; <a href=\"https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/understanding-your-balance/\" rel=\"noopener noreferrer\">HSBC UK on available balances and pending transactions</a>. Check the terms and availability information for the legal provider and product you actually use.</p>",
+      "criteria": {
+        "title": "Check usable access: questions and evidence",
+        "headers": [
+          "What to check",
+          "Question to answer",
+          "Evidence to obtain"
+        ],
+        "rows": [
+          [
+            "Account holder",
+            "Who legally holds the account: you, another person or your company?",
+            "The account agreement or opening confirmation naming the holder and account, checked against identity or company documents. Being the named holder does not establish that access works."
+          ],
+          [
+            "Banking entity",
+            "Which legal provider controls the relationship? Is it separate from your other bank, and what is it authorised to do?",
+            "The contracting entity in the agreement and its entry in the relevant regulator’s register, including the authorised activities. Check the provider’s ownership information for shared group dependencies."
+          ],
+          [
+            "Product",
+            "Which contract and protection mechanism applies? Is this a bank deposit, an e-money balance or another product?",
+            "The product agreement and documents for its applicable protection arrangement, including eligibility and exclusions. Distinguish deposit protection from e-money safeguarding; potential later compensation is not a payment route today."
+          ],
+          [
+            "Available funds",
+            "How much can you lawfully use for the intended payment after holds, restrictions and transaction limits?",
+            "The current available-funds display, pending transactions and holds, product limits and the receipt for a permitted test payment. Record the amount, currency and time; a headline balance alone is insufficient."
+          ],
+          [
+            "Payment chain",
+            "What intermediary or local route is required? Can incoming and outgoing payments reach the intended recipients?",
+            "The bank’s payment instructions and receipts confirming arrival of test payments in the required currency and through the required route. Record recipients, timing, charges and intermediary banks."
+          ],
+          [
+            "Authority",
+            "Can the authorised person complete the task? Has the institution put the required authority into effect?",
+            "The relevant power of attorney or signing mandate, the institution’s confirmation of the authority it has set up and a recorded test using its permitted process. Shared passwords do not establish authority."
+          ],
+          [
+            "Recovery",
+            "Does the alternative still need the failed phone or email? Can the legitimate user sign in, approve a payment and recover access?",
+            "The provider’s instructions, confirmation that the permitted methods are set up and a dated record of tests for sign-in, payment approval and authorised recovery. Keep passwords and recovery codes out of the test record."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-3",
+      "title": "Leaving the UK and leaving the UAE create different banking tasks",
+      "body": "<h3>UK: will the bank serve you at your real overseas address?</h3><p>Ask each bank whether its exact product can remain open when you live in the destination country. Include joint holders, cards, savings and lending. Obtain the answer before relying on that account for continuing UK payments.</p><p>Barclays UK’s published guidance says living outside the UK can affect its products and describes limited exceptions. It explicitly says that a UK address used to keep affected accounts open must be where you actually live, not a friend’s or relative’s address. Other parts of the Barclays group and other banks have their own products and rules.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.barclays.co.uk/important-information/living-outside-the-uk/\">Barclays UK: living or moving outside the UK</a>.</p><p>Once the replacement is available, test a small legitimate payment, redirect incoming money and regular bills, retain statements and confirm how any residual balance will be returned. Update residence and tax information accurately. The <a href=\"/en/knowledge/prepare-your-way-out/leaving-uk/\">UK departure guide</a> places this alongside the wider move.</p><h3>UAE: separate final benefits, credit and non-resident status</h3><table><caption>Published Emirates NBD mechanisms, not a rule for every UAE bank</caption><thead><tr><th scope=\"col\">Event</th><th scope=\"col\">Published treatment</th><th scope=\"col\">What to arrange</th></tr></thead><tbody><tr><th scope=\"row\">End-of-service benefits with relevant liabilities</th><td>A personal-loan balance or overdue liabilities can restrict some or all of the benefit; credit cards have a separate limit and blocking process.</td><td>Confirm the outstanding obligations, new employment evidence or settlement, and the release process before spending against the expected benefit.</td></tr><tr><th scope=\"row\">Changing from resident to non-resident</th><td>The bank lists different documents and outcomes for savings-only, current-only and combined relationships.</td><td>Provide the relevant passport, FATCA/CRS and account forms and confirm the resulting product.</td></tr><tr><th scope=\"row\">Both current and savings accounts held</th><td>The published non-resident process closes the current account and leaves the savings account open.</td><td>Check which payments, facilities and instructions need moving.</td></tr></tbody></table><p class=\"exb-source-note\">Source: <a href=\"https://www.emiratesnbd.com/en/help-and-support/all-about-end-of-service-benefits\">Emirates NBD: end-of-service benefits</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.emiratesnbd.com/en/help-and-support/update-your-residency-status\">Emirates NBD: residency-status update</a>.</p><p>Visa cancellation does not by itself describe what happened to a particular payment. Establish whether the restriction concerns the gratuity, a credit facility or the account as a whole. Coordinate the bank process with the <a href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\">UAE departure sequence</a> and keep funds for essential bills available through a lawful, working route.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/asset-transfers/\" data-route=\"/en/services/asset-transfers/\"><span>Transfer assets and retain lawful access</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-4",
+      "title": "Open the account for the life you actually lead",
+      "body": "<p>For a non-resident bank account, present the real nationality, residence, tax position and purpose. Prepare identification, address evidence, the source of funds and, where requested, the source of wealth. Business accounts also need the entity, ownership, activity and expected payment pattern explained.</p><p>Compare eligibility before spending on an application. HSBC Expat, for example, locates its account in Jersey and publishes qualifying relationship or asset requirements alongside an eligible-country condition. That is a specific product framework, not a general right for every UK resident or UAE expatriate to open an offshore account.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.expat.hsbc.com/international-banking/products/bank-account/\">HSBC Expat: account location and eligibility</a>.</p><p>The same approach applies when considering a Georgia bank account for foreigners or a Dubai non-resident account: start with the named bank’s current product and the applicant’s facts. Country-level reputation does not establish approval, permitted activity or remote onboarding.</p><p>Set the payment requirements before choosing: currencies, recipients, recurring bills, card use, transfer sizes and how access will work from the destination. After approval, complete the agreed access setup and test the relevant payment route.</p><p>For a hotel or car-hire deposit, check with the actual recipient at the location where you will collect the car or check in: which credit, debit or prepaid card product is accepted, whose name it must carry and how much available balance or credit is needed for the pre-authorisation. Confirm how much of that money or credit remains tied up until the hold is released. A successful transfer or everyday card payment does not establish that the same card will meet those deposit requirements.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/banking-liquidity/\" data-route=\"/en/services/banking-liquidity/\"><span>Prepare banking access and liquidity</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-5",
+      "title": "Let an authorised person help without sharing your identity",
+      "body": "<p>If someone else may need to pay for the family, ask the institution what mandate or legal authority it accepts and how that person receives access. Define permitted actions, limits and the circumstances in which they may act. A personal power of attorney, joint ownership and a company mandate should not be treated as interchangeable.</p><p>Keep authentication independent where the provider permits it. A replacement should use their own authorised access, not impersonate you through a shared password. Test recovery after loss of the main device and retain the official support route separately from that device.</p><p>The <a href=\"/en/knowledge/phone-email-access-failure/\">phone and email recovery guide</a> covers technical access; the <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">representation guide</a> covers legal authority. Both need to work before you rely on another person.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/assets-and-access/powers-representation-succession/\" data-route=\"/en/knowledge/assets-and-access/powers-representation-succession/\"><span>Powers of attorney, representation and succession abroad</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-6",
+      "title": "Have banking preparation carried through",
+      "body": "<p>EXOBASIS compares the banking requirements with your intended life, prepares the supporting records, coordinates onboarding and follows up the agreed institutional steps. We help organise the payment transition, accepted representation and access tests so your family knows which route to use.</p><p>You can commission banking and liquidity preparation directly, add an agreed asset transfer or connect it to a wider departure plan. Tell us where you live, where you expect to go and which essential payments must keep working. Bank acceptance and individual restrictions remain decisions for the relevant institution or authority; our engagement organises and carries through the work required around them.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/discretion/\" data-route=\"/en/discretion/\"><span>Discretion and protected collaboration</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Independent English redraft for PB-D65 from original briefs, market research and cited primary sources.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Distinguish restrictions, checks and technical failures"
+      },
+      {
+        "id": "section-2",
+        "title": "Connect ownership, the account and actual access"
+      },
+      {
+        "id": "section-3",
+        "title": "Define currencies, recipients and usable payment routes"
+      },
+      {
+        "id": "section-4",
+        "title": "Prepare evidence and the account-opening process"
+      },
+      {
+        "id": "section-5",
+        "title": "Make authorised representation workable"
+      },
+      {
+        "id": "section-6",
+        "title": "Organise preparation with a clear handover"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 531,
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "label": "When your phone, SIM and main email fail",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#section-1"
+      },
+      {
+        "line": 529,
+        "target": "/en/services/asset-transfers/",
+        "label": "Transfer assets and retain lawful access",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Übertragungsschritte",
+        "position": "#section-3"
+      },
+      {
+        "line": 528,
+        "target": "/en/services/banking-liquidity/",
+        "label": "Prepare banking access and liquidity",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Bankaufnahme und Liquidität vorbereiten",
+        "position": "#section-4"
+      },
+      {
+        "line": 530,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#section-5"
+      },
+      {
+        "line": 532,
+        "target": "/en/discretion/",
+        "label": "Discretion and protected collaboration",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Am Anfrageübergang: geschützte Zusammenarbeit",
+        "position": "#section-6"
+      },
+      {
+        "line": 533,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-6"
+      }
+    ],
+    "seeding": [
+      "EN01",
+      "EN02",
+      "EN07"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-27",
+    "noPublication": true
+  },
+  "displayTitle": "Offshore bank accounts: keep your family able to pay"
+}

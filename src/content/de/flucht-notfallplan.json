@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/flucht-notfallplan/",
+  "lang": "de",
+  "title": "Persönlicher Flucht- und Notfallplan",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-9c30898a864dae"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-dd48943fbb7b1e"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Persönliche Vorbereitung / Familie, Vermögen und Geschäft",
+  "seoTitle": "Fluchtplan für die Familie erstellen lassen | EXOBASIS",
+  "description": "Dein persönlicher Plan B verbindet Auslöser, Personen, Aufenthalt, Geld, Unterkunft und Geschäft. Mit klaren Zuständigkeiten und einem gemeinsamen Probelauf.",
+  "intro": "<p>Wenn Krieg, Einberufung oder Repression näher an dein Leben rücken, willst du mit deiner Familie handeln können. Dafür müsst ihr wissen, wann ihr entscheidet, wohin ihr gehen könnt und was bei der Abreise bereits funktionieren muss.</p><p>EXOBASIS erarbeitet deinen persönlichen Flucht- und Notfallplan. Wir verbinden die Situation jedes Angehörigen mit Aufenthalt, Unterkunft, Geldzugang, Versorgung und Geschäft. Du erhältst eine verständliche Reihenfolge für die Vorbereitung und den vereinbarten Ernstfall.</p>",
+  "primary": {
+    "label": "Persönlichen Plan anfragen",
+    "intent": "Persönlicher Flucht- und Notfallplan"
+  },
+  "summary": {
+    "kicker": "Dein persönlicher Plan B",
+    "title": "Wissen, wer wann was tut.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Unterlagen und ein Notizbuch als Symbol für vorausschauende Planung.",
+    "facts": [
+      [
+        "Für wen",
+        "Dein vereinbarter Haushalt und die relevanten betrieblichen Aufgaben"
+      ],
+      [
+        "Im Plan",
+        "Auslöser, nutzbare Optionen, Zuständigkeiten und Reihenfolge"
+      ],
+      [
+        "Bei der Übergabe",
+        "Gemeinsamer Durchgang, offene Aufgaben und nächste Prüfungen"
+      ]
+    ]
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Was wir für dich übernehmen",
+    "body": "<p>Wir erfassen deinen Ausgangsstand, recherchieren die vereinbarte Option, führen die nötigen Fachfragen zusammen und erstellen den persönlichen Plan. In den Gesprächen und der Übergabe wird daraus ein Ablauf, den die Beteiligten verstehen. Eine vereinbarte Überarbeitung nimmt eure Rückmeldungen auf.</p>",
+    "items": [
+      [
+        "Personen",
+        "Für jedes Familienmitglied Rechte, Unterlagen, Versorgung und Unterstützung zusammenführen."
+      ],
+      [
+        "Vorkehrungen",
+        "Festhalten, was schon nutzbar ist und welche Einrichtung zuerst erfolgen muss."
+      ],
+      [
+        "Entscheidung",
+        "Auslöser, Freigaben und einen Ersatzweg bei Ausfall der Hauptoption festlegen."
+      ]
+    ],
+    "costs": "Das Angebot benennt Haushalt, Unternehmensbezug, Szenarien und recherchierte Optionen. Weitere Länder, Fachgutachten, praktische Einrichtung, Reisen und laufende Betreuung erhalten ihren eigenen Umfang. Bereits enthaltene Erstklärungsarbeit wird berücksichtigt."
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Eure Familie ist der Ausgangspunkt",
+      "body": "<p>Wer gehört zum Plan, wer lebt wo und wer braucht Unterstützung? Wir betrachten Pässe und Staatsangehörigkeiten, Sorgeberechtigung, Mobilität, Medikamente und laufende Verpflichtungen. Ein deutscher Pass eines Elternteils beantwortet die Einreisefrage für den anderen Elternteil noch nicht. Ein schulpflichtiges Kind braucht mehr als einen freien Sitz im Flugzeug.</p><p>Zum Haushalt kommen die wirtschaftlichen Aufgaben: Wer darf im Betrieb unterschreiben, Zahlungen auslösen und Kunden weiter betreuen? Vorhandene Vollmachten, Aufenthaltsrechte und Kontakte werden mit ihrer tatsächlichen Nutzbarkeit aufgenommen.</p><p>Für die praktische Vertretung und Fortführung lässt sich <a href=\"/de/leistungen/familie-unternehmen/\">Familie und Unternehmen vorbereiten</a> als eigener Ausführungsauftrag anschließen.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-2",
+      "title": "Was soll der Plan auffangen?",
+      "body": "<p>Wir unterscheiden die von dir benannten Szenarien: frühzeitige Abreise bei wachsender Kriegsangst, kurzfristiger Ortswechsel, Kontensperre, Ausfall einer entscheidenden Person oder längerer Aufenthalt der Familie im Ausland. Daraus folgt, welche Voraussetzung zuerst gebraucht wird.</p><p>Wenn dich Einberufung oder eine staatliche Inanspruchnahme von Eigentum betrifft, gehört der konkrete deutsche, österreichische oder schweizerische Rechtsfall in die fachliche Klärung. Bescheide, Staatsangehörigkeit, Wohnsitz und betroffene Vermögenswerte werden festgehalten. Eine allgemeine Nachrichtenlage ersetzt diese persönliche Einordnung nicht.</p><p>Persönliche <a href=\"/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/\">Fragen zu Einberufung und Ausreise in Deutschland</a> werden in der eigenen Fachvertiefung behandelt.</p>",
+      "layout": "prose",
+      "illustration": {
+        "title": "Was für eure Entscheidung zusammenkommt",
+        "note": "Beispiel für die gemeinsame Durchsprache. Die konkreten Auslöser und Rollen werden für deine Familie festgelegt.",
+        "steps": [
+          [
+            "Personen",
+            "Rechte, Dokumente und Unterstützungsbedarf der Beteiligten."
+          ],
+          [
+            "Ort",
+            "Nutzbarer Aufenthalt, Unterkunft und Versorgung."
+          ],
+          [
+            "Mittel",
+            "Verfügbare Reserve und berechtigte Zahlungszugriffe."
+          ],
+          [
+            "Verantwortung",
+            "Entscheidung, Vertretung und erreichbare Kontakte."
+          ],
+          [
+            "Nachhalten",
+            "Zuständigkeit, Rückmeldung und nächste Prüfung bleiben festgelegt."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "kern-3",
+      "title": "Ein erreichbarer Ort mit Rechten für alle",
+      "body": "<p>Eine kurzfristige Zuflucht stellt andere Anforderungen als eine dauerhafte Familienbasis. Wir verbinden deshalb die <a href=\"/de/leistungen/laender-standortauswahl/\">Länder- und Standortauswahl</a> mit der Aufenthaltsdauer, den Rechten aller Mitreisenden und den möglichen Reisewegen. Transit zählt mit: Eine passende Einreiseerlaubnis am Ziel hilft wenig, wenn ein Familienmitglied den Umsteigeweg nicht nutzen kann.</p><p>Für die Ankunft braucht ihr eine konkrete Wohnlösung. Das kann zunächst eine möblierte Unterkunft und später eine langfristige Miete oder ein Kauf sein. Zugang, Vertragslaufzeit, Kosten während eurer Abwesenheit und örtliche Betreuung werden als eigene Aufgaben eingeplant.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-4",
+      "title": "Unterlagen, Geld und Ankunft müssen zusammen funktionieren",
+      "body": "<p>Wir ordnen die Vorbereitung nach Abhängigkeiten: Eine Urkunde wird vor dem Antrag gebraucht, ein angenommenes Konto vor dem vorgesehenen Transfer und eine verlässlich zugängliche Unterkunft vor der Ankunft. Bei jeder Aufgabe steht, was bereits vorliegt und was bis zu welchem Schritt erledigt sein muss.</p><p>Für Angehörige werden die notwendigen Informationen verständlich abgelegt: Dokumente, zuständige Kontakte, rechtmäßige Vertretung und erreichbare Kopien. Der <a href=\"https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/vorsorge_node.html\">BBK-Ratgeber zur Vorsorge</a> liefert die allgemeine Grundlage für Dokumentensicherung und persönliche Vorbereitung; dein internationaler Familienablauf verbindet sie mit euren konkreten Rechten und Zugängen.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-5",
+      "title": "Entscheidungen und Ausgaben haben einen Verantwortlichen",
+      "body": "<p>Für die wesentlichen Schritte legen wir eine entscheidungsberechtigte Person und eine Vertretung fest. Wer löst die Abreise aus? Wer holt die Kinder? Wer organisiert Medikamente, informiert den Betrieb und bezahlt die erste Unterkunft? Die Verantwortung wird mit den tatsächlich vorhandenen Befugnissen abgeglichen.</p><p>Im Budget unterscheiden wir Einrichtung, laufende Kosten und die verfügbare Reserve für die Nutzung. Ein geplanter Verkaufserlös und ein möglicher Kredit werden nicht wie bereits verfügbares Reisegeld behandelt. Zusätzliche Ausgaben brauchen einen vorher vereinbarten Freigabeweg.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-6",
+      "title": "Wann gehen wir? Ein Musterablauf für eure Entscheidung",
+      "body": "<p>Das folgende Muster zeigt die Arbeitsweise, nicht den Fall eines Kunden: Eine Familie benennt eine amtliche Lageänderung für ihre konkrete Route als Anlass zur erneuten Prüfung. Die dafür verantwortliche Person ruft die anderen über den vereinbarten Kontaktweg zusammen. Eine zweite Person prüft parallel Reisedokumente, verfügbare Verbindung und Unterkunft.</p><ol><li><strong>Beobachten:</strong> Die festgelegte Quelle und den betroffenen Reise- oder Aufenthaltsweg prüfen.</li><li><strong>Entscheiden:</strong> Die benannte Person entscheidet anhand der vereinbarten Kriterien, die Vertretung übernimmt bei Nichterreichbarkeit.</li><li><strong>Ausführen:</strong> Kinder und Angehörige zusammenführen, bestätigte Unterlagen mitnehmen, Zahlweg und Ankunft aktivieren.</li><li><strong>Umschalten:</strong> Fällt die Hauptverbindung aus, wird der zuvor geprüfte Ersatzweg neu auf aktuelle Nutzbarkeit geprüft.</li></ol><p>Eure tatsächlichen Auslöser entstehen aus eurem Fall. Sie müssen klar genug sein, damit ihr unter Druck nicht erst über ihre Bedeutung verhandelt.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-7",
+      "title": "Gemeinsam durchspielen, bevor es eilig wird",
+      "body": "<p>Bei der Übergabe gehen wir den Ablauf mit den vorgesehenen Beteiligten durch. Findet die Vertretung die Unterlagen? Erreicht sie den richtigen Ansprechpartner? Funktioniert der vereinbarte Zahlungszugriff? Ist bekannt, wer die Unterkunft öffnet? Ein verpasster Rückruf oder eine fehlende Vollmacht wird so zu einer konkreten Nacharbeit.</p><p>Der Plan hält den erreichten Stand, die offenen Aufgaben und den nächsten Prüfzeitpunkt fest. Besonders sensible Angaben werden nur den Personen zugänglich gemacht, die sie für ihre Rolle brauchen.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-8",
+      "title": "Vom Plan zur eingerichteten Vorbereitung",
+      "body": "<p>Du entscheidest, welche Arbeiten EXOBASIS anschließend übernimmt. Dazu gehören etwa das <a href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumenten- und Aufenthaltsverfahren</a> und die <a href=\"/de/leistungen/bankzugang-liquiditaet/\">Vorbereitung nutzbarer Bankzugänge</a>. So wird jede Empfehlung zu einer klaren Erledigung mit eigener Übergabe.</p><p>Später hält die <a href=\"/de/leistungen/vorbereitung-betreuen/\">Betreuung</a> eure Vorbereitung aktuell. Für praktische Unterstützung im vereinbarten Fall wird die <a href=\"/de/leistungen/aktivierung-notfallkoordination/\">Aktivierung</a> mit Kontaktfenstern und Ausführung gesondert eingerichtet.</p>",
+      "layout": "prose"
+    }
+  ],
+  "working": {
+    "title": "So arbeiten wir zusammen",
+    "body": "<p>Du bringst deine Ziele, vorhandene Unterlagen und die Entscheidungen für deine Familie ein. Wir ordnen den Fall und übernehmen Recherche und Ausarbeitung. Namen, Vermögensdetails, konkrete Aufenthaltsorte und persönliche Auslöser besprechen wir über den vereinbarten geschützten Arbeitsweg.</p>"
+  },
+  "nextWork": {
+    "title": "So geht es danach weiter",
+    "body": "<p>Aus dem Plan entstehen klare Einzelaufträge. Über <a href=\"/de/leistungen/\">unsere Leistungen</a> kannst du Dokumente, Geldzugang, Unterkunft und weitere Einrichtung ausführen lassen oder gezielt selbst übernehmen.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Lass euren persönlichen Plan B ausarbeiten.",
+    "body": "Nenne die beteiligten Personen in groben Zügen, deinen Handlungsgrund und die vorhandene Vorbereitung. Das Zielland darf noch offen sein."
+  },
+  "seedingRefs": [
+    "16_Seeding_DE_und_gemeinsame_Uebernahme.md#d18"
+  ],
+  "displayTitle": "Ein Flucht- und Notfallplan für deine Familie"
+}

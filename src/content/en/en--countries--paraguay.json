@@ -1,0 +1,198 @@
+{
+  "route": "/en/countries/paraguay/",
+  "lang": "en",
+  "title": "Paraguay as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/paraguay/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-562278779e284f"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-21f6742ce03581"
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Moving to Paraguay: residency, housing and family | EXOBASIS",
+  "description": "Plan Paraguay residency and a usable family base: entry, residence stages, Asunción, renting or buying, healthcare, banking and practical setup.",
+  "intro": "<p>If you are considering moving to Paraguay, the important question is how you and your family would actually live there. You may want distance from the threat of war, a second home outside Europe, or a permanent change while you still control the timing. Paraguay offers a residence route worth examining, with personal application steps and a real need for local preparation.</p><p>EXOBASIS connects that route with the place you will stay, the people and services you will need, and access to your money. You can commission the whole preparation or a defined part of it, including finding and buying a home.</p>",
+  "primary": {
+    "label": "Prepare my Paraguay base",
+    "intent": "General enquiry"
+  },
+  "countryContext": "/en/countries/paraguay/",
+  "country": {
+    "name": "Paraguay",
+    "slug": "paraguay",
+    "region": "South America",
+    "map": "countries/paraguay-locator.svg",
+    "imageAlt": "Map showing Paraguay in central South America, bordered by Argentina, Bolivia and Brazil.",
+    "caption": "Paraguay: an inland South American base, with Asunción as a practical starting point.",
+    "summary": [
+      [
+        "Residence in stages",
+        "Temporary residence normally comes before the permanent route."
+      ],
+      [
+        "Start with a workable location",
+        "Put school, treatment and the airport journey ahead of a low property price."
+      ],
+      [
+        "Keep a reserve usable",
+        "Plan absence limits, payments and someone to care for the home."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "What would Paraguay give you?",
+      "body": "<p>Paraguay is most useful when you want an option you can prepare before making a final move. A first visit can combine immigration work with a serious test of daily life. You can then decide whether to establish a reserve home, move the household, or use the country between longer periods elsewhere.</p><p>Those choices lead to different spending. A reserve needs reliable access and modest upkeep. A permanent move needs a school-year budget, continuing healthcare and an income arrangement that works from Paraguay. If your concern is war, repression or losing the freedom to leave your present country, begin the work while you can travel and obtain documents normally.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "A refuge you can reach, then return from",
+      "body": "<p>For a prepared refuge, work backwards from the front door. Where will you land, who will meet you, and can the entire household reach the property without depending on an untested border crossing? Asunción is a useful first base for appointments and onward travel. A remote plot creates a much longer chain of practical dependencies.</p><p>Paraguay is landlocked. Connecting flights and overland routes through neighbouring countries bring their own entry and transit rules. During a preparation visit, test the journey with luggage, children and any medication you will need. Keep an alternative arrival arrangement and accessible travel funds. The right time to establish those options is before a crisis disrupts transport.</p><p>A return journey also deserves preparation. Paraguayan-resident children under 18 travelling without both parents need the appropriate permission from the non-accompanying parent or parents to leave. Arrange the documents for your family before a hurried departure becomes necessary.</p><p class=\"exb-source-note\"><a href=\"https://www.gov.uk/foreign-travel-advice/paraguay/entry-requirements\" rel=\"noreferrer\">UK FCDO: Paraguay entry rules and travel with resident children</a></p><p>If war is the reason you are preparing, use the <a class=\"exb-text-link\" href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">family destination and travel-planning guide</a> to connect this country option with the timing and practicalities of leaving.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Moving to Paraguay with your family",
+      "body": "<p>Living in Paraguay means building a Spanish-speaking daily life, even if your work and some schooling remain in English. Start with the week your family will actually have: school runs, shopping, medical appointments and a quiet place to work. A larger house further out can become an expensive choice in time and transport.</p><p>For an initial family assessment, use Asunción to compare neighbourhoods and services in person. Visit the school and the treating clinic before settling on a home. If you are drawn to a quieter location outside the city, repeat the same journeys from that address, including after heavy rain. This turns an appealing idea into a decision your household can live with.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Using Paraguay between stays elsewhere",
+      "body": "<p>A second residence needs a calendar as well as a key. Paraguay’s migration authority says it may cancel temporary residence after more than one continuous year of unjustified absence, and permanent residence after more than three continuous years. It describes prior authorisation as the route for protecting status before an extended absence.</p><p>For a reserve you intend to leave unused for long periods, that distinction matters. Plan visits around the status you actually hold, its expiry and any required immigration work. Give a trusted property contact clear instructions for inspections, bills and preparing the home before you return.</p><p class=\"exb-source-note\"><a href=\"https://migraciones.gov.py/migraciones-recuerda-las-causales-de-cancelacion-de-residencia-a-extranjeros-por-ausencia-injustificada-del-pais/\" rel=\"noreferrer\">Paraguay migration authority: absence and possible cancellation of residence, 8 April 2026</a></p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Paraguay residency: entry, temporary status and the next step",
+      "body": "<p>For visitors travelling on a full British citizen passport, UK guidance states that no visit visa is needed and permission is normally given for 90 days on arrival. Have your passport stamped at the point of entry, including at a land border. Keep that evidence: the residence application requires proof of lawful entry. Paraguay’s official 2026 visa table lists a visa requirement for British nationals seeking an extension, residence or paid activity. If you are moving from the UK to Paraguay, arrange the relevant consular visa step before the residence-application trip. Emirati nationals have the same distinction in the table between a visa-free tourist visit and these other purposes. If you live in the UAE, eligibility follows your passport, not your Emirates residence card.</p><p>Under the regular route in Law 6984/2022, temporary residence is granted for up to two years, renewable for the same period, and is the usual prerequisite for permanent residence. The application is personal and in person. During processing, the authority describes a provisional status, <em>residente precario</em>, permitting departure and re-entry, study and work for its duration. A Paraguayan identity card, the <em>cédula</em>, is a separate document with the same validity period as the temporary residence.</p><p>For the later change to permanent residence, the normal application window is the three months before the temporary card expires. The authority requires evidence of actual income or available resources and identifies a ten-year renewal cycle for the permanent-residence card. Put that later application on your calendar from the start.</p><p class=\"exb-source-note\"><a href=\"https://migraciones.gov.py/wp-content/uploads/2026/01/ACUERDOS-DE-SUPRESION-DE-VISAS-2026.pdf\" rel=\"noreferrer\">Paraguay migration authority: 2026 visa table, United Kingdom and UAE</a></p><p class=\"exb-source-note\"><a href=\"https://migraciones.gov.py/residencia-permanente-para-el-cambio-de-categoria-de-residente-temporal/\" rel=\"noreferrer\">Paraguay migration authority: changing from temporary to permanent residence</a></p><p>We organise the relevant route for each person, including any family or other category that changes the sequence. That gives you the appointments and evidence to prepare before booking a visit, and the later steps to keep in view after the first application.</p><p class=\"exb-source-note\"><a href=\"https://www.gov.uk/foreign-travel-advice/paraguay/entry-requirements\" rel=\"noreferrer\">UK FCDO: entry on a British citizen passport</a></p><p class=\"exb-source-note\"><a href=\"https://migraciones.gov.py/residencia-temporal/\" rel=\"noreferrer\">Dirección Nacional de Migraciones: temporary residence under Law 6984/2022</a></p><table><caption>Paraguay: rights and preparation for the way you will use your base</caption><thead><tr><th scope=\"col\">Intended use</th><th scope=\"col\">Rights that fit</th><th scope=\"col\">Documents and presence to arrange</th><th scope=\"col\">Work you can commission</th></tr></thead><tbody><tr><th scope=\"row\">A reserve for short-notice refuge</th><td>A British citizen can normally make the 90-day visit described above; Emirati tourist entry is also distinct from residence. Other passport holders need their own entry and visa position checked. A prepared home gives you somewhere to stay, not a right to settle or a guaranteed journey during a crisis.</td><td>Keep each passport, any required visa, travel consent for children and onward-travel arrangements ready. Retain the entry stamp. If the plan requires residence rather than a visit, obtain the appropriate consular visa and residence documents before the application trip, while issuing authorities remain reachable.</td><td>We establish the lawful arrival route for each family member, organise the document sequence and arrange the home, keys and arrival contact. Where residence is part of the assignment, we schedule the personal application visit separately from housing preparation.</td></tr><tr><th scope=\"row\">A lasting family base</th><td>For the regular route, build the move around temporary residence and the later application for permanent residence. Precario covers its own processing period; the temporary residence and cédula are separate steps. The status of each accompanying relative must fit their case.</td><td>Prepare identity and relevant birth, marriage and criminal-record documents with the required authentication and translation, plus the local records for the application. Applicants attend in person; children need the applicable parental authorisations. Plan household support and the evidence of income or resources required for the later permanent-residence application.</td><td>We organise the family files, local document work and appointments, then coordinate housing and school or healthcare arrangements around attendance. The assignment includes the cédula follow-up and a calendar for the later category change, rather than treating the first application as a finished permanent status.</td></tr><tr><th scope=\"row\">Mobile use between countries</th><td>For occasional visits, work within the entry permission for your passport and purpose. For a resident, use the status actually granted. DNM may cancel temporary residence after more than one continuous year of unjustified absence and permanent residence after more than three; prior authorisation must be addressed before an extended absence.</td><td>Keep entry and exit records, the current residence document and cédula, and the expiry and category-change dates together. Match the travel plan to those dates and resolve any prior-authorisation requirement before leaving the home unused for a prolonged period.</td><td>We organise the status and document calendar, preparation for required return appointments and any agreed authorisation work. Alongside it, we arrange inspections, bill handling and preparation of the home for your next arrival. Personal attendance remains part of your travel plan.</td></tr></tbody></table><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fparaguay%2F#short-enquiry\">Prepare my Paraguay base</a><p>Tell us who the preparation is for, what you already have in place and what you want us to handle.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Where to live, what to rent and how to buy",
+      "body": "<h3>Start with Asunción, then test the alternatives</h3><p>Asunción is a practical place to combine residence appointments, bilingual schooling and access to major-city private healthcare. Villa Morra is one area to investigate: the American School of Asunción is based there. Choose a home by the actual school and clinic journey, the street after heavy rain and the building’s water, power and internet arrangements.</p><p>Paraguay’s road conditions make distance important. The FCDO reports flooding even on major paved roads and rural roads that can become impassable in the rainy season. A countryside property needs an all-weather access check, water and power arrangements, and a realistic route to treatment. Security also changes by address: assess lighting, access control and transport rather than treating a whole city as uniformly safe.</p><p class=\"exb-source-note\"><a href=\"https://www.gov.uk/foreign-travel-advice/paraguay/safety-and-security\" rel=\"noreferrer\">UK FCDO: road conditions, flooding and security in Paraguay</a></p><h3>Rent first if the location is still a decision</h3><p>A furnished short stay lets you attend appointments and test a neighbourhood without furnishing a permanent home immediately. For a longer tenancy, agree the term, payment currency, included building charges, repairs, notice and inventory in writing. Establish early what the landlord will accept as financial evidence.</p><p>Local property firm Zuba distinguishes the cash deposit from a personal guarantor or other rental security. Its guidance makes the deposit amount and refund terms a matter for the agreement. A newly arrived household should therefore settle the guarantee arrangement before relying on a particular property. Record the condition at handover and who may enter to deal with a leak or power problem while you are away.</p><p class=\"exb-source-note\"><a href=\"https://www.zuba.com.py/blog/garantias-de-alquiler/\" rel=\"noreferrer\">Zuba: rental deposits, guarantees and handover practice</a></p><h3>Buying property in Paraguay</h3><p>Paraguay’s investment law gives foreign investors the same legal guarantees and obligations as domestic investors, subject to statutory restrictions. A specific restriction applies to rural land within the 50-kilometre border security zone: nationals originating from neighbouring countries, and entities majority-owned by them, require authorisation by executive decree unless a statutory exception applies. Under <a href=\"https://www.bacn.gov.py/leyes-paraguayas/4202/ley-n-2647-modifica-el-articulo-3-de-la-ley-n-2532-del-17-de-febrero-de-2005-que-establece-la-zona-de-seguridad-fronteriza-de-la-republica-del-paraguay-br\" rel=\"noreferrer\">article 3 as amended by Law 2647</a>, the restriction does not apply to neighbouring-country nationals with permanent residence in Paraguay (<em>radicación permanente</em>). The amended article also protects duly proven rights acquired before the law took effect, inheritance rights of neighbouring-country nationals over property or companies in the zone, and charges established before the legislation took effect. This rule concerns the buyer, the land and its location; it is not a blanket ban on all foreign home buyers.</p><p>Before committing funds, appoint an independent Paraguayan <em>escribano</em> to establish the seller’s authority, registered title, mortgages or other encumbrances, cadastral identity and any special restrictions. The plot you visit, the cadastral description and the registered property must correspond. A building inspection and confirmation of access, services and permitted use answer different questions from the title search.</p><p>For a purchase assignment, EXOBASIS develops the location and property brief, organises the search and viewings, commissions independent title and purchase checks, and coordinates the contract, completion and handover. The purchase budget separates the price from notarial and registration work, applicable taxes, technical checks and any agreed agency charge. You receive the property-specific costs before deciding to proceed.</p><p>For a home kept in reserve, include key custody, regular inspections, utilities and arrival preparation in the assignment. Ownership is useful when the home can be opened and occupied when you need it.</p><p class=\"exb-source-note\"><a href=\"https://www.bacn.gov.py/leyes-paraguayas/785/ley-n-117-de-inversiones\" rel=\"noreferrer\">Paraguay Law 117: equal investment treatment and property rights</a></p><p class=\"exb-source-note\"><a href=\"https://www.catastro.gov.py/public/439bc5_ley%202532-05%20seguridad%20fronteriza.pdf\" rel=\"noreferrer\">Paraguay Law 2532/2005, as amended: rural land in the border security zone</a></p><p class=\"exb-source-note\"><a href=\"https://www.pj.gov.py/contenido/154-direccion-general-de-los-registros-publicos/\" rel=\"noreferrer\">Paraguay public property registers and cadastral/registration services</a></p><p><a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Arrange housing, a property purchase and arrival in Paraguay</a></p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schools, treatment and support close to home",
+      "body": "<h3>A school your child can continue in</h3><p>The American School of Asunción offers a bilingual programme from early childhood through college preparation, following US and Paraguayan educational standards. It is a concrete English/Spanish option to investigate, rather than a reason to assume that any neighbourhood has equivalent provision. Obtain the admissions requirements, year placement, fees and a decision on a place before making the school central to your housing choice.</p><p>Bring recent reports, identity and family records and details of language or learning support. If one parent will remain elsewhere, residence consent and permission for later travel deserve the same attention as admission. We connect those tasks with the home search and your planned arrival.</p><p class=\"exb-source-note\"><a href=\"https://www.asa.edu.py/\" rel=\"noreferrer\">American School of Asunción: bilingual programme and location</a></p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare the move around your children and family</a></p><h3>Arrange treatment and the means to pay</h3><p>The FCDO reports good private facilities in major cities, while provision elsewhere may be much more limited. It also says hospitals and doctors expect immediate payment and that some medicines may be unavailable. Insurance coverage, a clinic able to treat you and money you can use at reception are therefore three separate preparations.</p><p>For recurring treatment, arrange a clinical handover, confirm the medicine and dose locally, and establish appointment and payment arrangements. Include evacuation or repatriation cover where needed. Dengue, chikungunya and periods of poor air quality belong in the household’s health preparation. For an older relative, organise the actual help required at home and transport to treatment before choosing a more isolated property.</p><p class=\"exb-source-note\"><a href=\"https://www.gov.uk/foreign-travel-advice/paraguay/health\" rel=\"noreferrer\">UK FCDO: healthcare, medicine availability and health risks in Paraguay</a></p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Plan health cover and continuing care abroad</a></p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Banking and work: make the money usable",
+      "body": "<p>Build the arrival budget around rent or purchase costs, schooling, treatment, transport and a reserve for another trip. Keep more than one working payment method, test a small transfer and check that you can access banking security codes from abroad. A second country is a weak contingency if all available money still depends on one card or one blocked account.</p><p>Local banks set their own account requirements. For example, Sudameris lists a Paraguayan cédula, RUC tax identification and proof of income for its current account, together with an opening deposit and account conditions. Prepare identity, address, income and source-of-funds records for the bank you select. We organise the application work and resolve documentary requests with you.</p><p>Through our <a class=\"exb-text-link\" href=\"/en/services/banking-liquidity/\">banking and liquidity preparation</a>, EXOBASIS organises the paperwork for your selected account, including the cédula where required, income and source-of-funds evidence. Once the bank accepts the account, we coordinate the agreed access and payment tests for a usable second payment route for your household.</p><p>For remote work, the place where you perform the work matters. In a published ruling about an IT engineer, Paraguay’s tax authority distinguishes services performed abroad from the portion performed in Paraguay: the latter can fall within Paraguayan personal income tax even where the client is overseas. A foreign invoice or UK company does not make work carried out in Paraguay foreign-source by itself.</p><p>Have the local tax registration, invoicing and social-security position coordinated with obligations retained in the UK, UAE or another country before moving the work. The same preparation should establish whether your employer or business can continue the intended activity from the new address.</p><p class=\"exb-source-note\"><a href=\"https://www.sudameris.com.py/cuenta-corriente\" rel=\"noreferrer\">Sudameris: published current-account requirements</a></p><p class=\"exb-source-note\"><a href=\"https://www.dnit.gov.py/documents/20123/215475/IVA+e+IRP+RSP+-+Prestaci%C3%B3n+de+servicios+en+el+exterior+como+ingeniero+inform%C3%A1tico.pdf/43f843f6-3b17-64f1-1bef-61c89f4aeb2d?t=1683049013908\" rel=\"noreferrer\">Paraguay tax authority: source of income for an IT professional working in and outside Paraguay</a></p><p>See <a class=\"exb-text-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\">how to keep banking and payments usable abroad</a> for the wider preparation when an account or device becomes unavailable.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Prepare the file before travelling",
+      "body": "<p>The temporary-residence list includes identity, proof of entry, birth and applicable civil-status certificates, criminal-record evidence and local police/INTERPOL checks. Foreign documents require the accepted apostille or legalisation and Spanish translation. The authority’s current rules distinguish the country of origin from countries where you have lived: for a UK citizen based in the UAE, that residence history changes which police evidence is needed.</p><p>For children, the parent or guardian arrangements are part of the application. Where one parent is absent, the official list specifies judicial or notarised authorisation for the child to live in Paraguay. Resolve that before arranging the family’s application visit.</p><p>EXOBASIS assembles the document sequence, organises the required translations and local work, and coordinates your personal appointments. We align document validity with travel rather than ordering every certificate at once. Preparation continues through follow-up and the next residence stage.</p><p class=\"exb-source-note\"><a href=\"https://migraciones.gov.py/residencia-temporal/\" rel=\"noreferrer\">Paraguay migration authority: current document, translation and child-consent requirements</a></p><p><a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange your Paraguay residence and documents</a></p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep the home and the status ready",
+      "body": "<p>Put residence validity, absence periods, passport and cédula renewals on one calendar. Keep the migration authority’s contact and address records accurate, and plan the later permanent-residence work while the temporary status is current.</p><p>The property needs a separate routine: payment of bills, inspections after storms, checking water and air conditioning, and confirmation that keys and access still work. Before each arrival, arrange cleaning, basic supplies and any school or medical appointments. EXOBASIS can manage the follow-up and local tasks included in your ongoing assignment.</p><p><a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Keep your Paraguay preparations up to date</a></p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Ask us to prepare your Paraguay option",
+      "body": "<p>You may already have chosen Paraguay and need the work carried out. Tell us whether the priority is residence, a first visit, a rental home, a property purchase or the complete family setup. We use the groundwork you already have and organise the remaining work, including appropriate local professional execution.</p><p>If the country or location is still open, we compare it against your household’s rights, health and school needs, intended use and budget. A free 20-minute orientation can help identify the right assignment. You can also commission a defined task directly.</p><p><a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Compare countries and locations for your situation</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fparaguay%2F#short-enquiry\">Prepare my Paraguay base</a><p>Tell us who the preparation is for, what you already have in place and what you want us to handle.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div><div class=\"exb-country-comparisons\"><h3>Other South American options to compare</h3><article><p><a class=\"exb-text-link\" href=\"/en/countries/uruguay/\">Uruguay: a longer-term family base</a></p><p>Compare the residence process, coastal and capital-city options, schooling and the cost of keeping a home available.</p></article><article><p><a class=\"exb-text-link\" href=\"/en/countries/chile/\">Chile: another route to life in South America</a></p><p>Compare the applicable residence route and specific regions, including the natural hazards and services around the intended home.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Can I keep Paraguay residency while living mainly abroad?",
+    "answer": "The status and the length of absence matter. Paraguay’s migration authority may cancel temporary residence after more than one continuous year of unjustified absence, and permanent residence after more than three. It describes prior authorisation for longer absences. Plan visits, expiry dates and any authorisation around the status you actually hold."
+  },
+  "editorialSources": [
+    "py",
+    "pyp"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 898,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 900,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 901,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 902,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 903,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 904,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 905,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 906,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 907,
+      "target": "/de/laender/paraguay/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1433,
+      "target": "/en/countries/uruguay/",
+      "label": "Uruguay as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1435,
+      "target": "/en/countries/chile/",
+      "label": "Chile as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Moving to Paraguay: residency and a home ready for you"
+}

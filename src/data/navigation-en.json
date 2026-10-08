@@ -1,0 +1,250 @@
+[
+  {
+    "label": "Your Plan B",
+    "route": "/en/knowledge/",
+    "groups": [
+      {
+        "label": "",
+        "links": [
+          {
+            "label": "Prepare your way out",
+            "original_label": "Prepare your way out",
+            "route": "/en/knowledge/prepare-your-way-out/",
+            "description": "Understand departure options, personal dependencies and what to arrange beforehand."
+          },
+          {
+            "label": "Protect assets and retain access",
+            "original_label": "Protect assets and retain access",
+            "route": "/en/knowledge/assets-and-access/",
+            "description": "Consider your assets, payment routes and authority to act together."
+          },
+          {
+            "label": "Prepare family life abroad",
+            "original_label": "Prepare family life abroad",
+            "route": "/en/knowledge/family-life-abroad/",
+            "description": "Plan everyday life for your children and other family members."
+          },
+          {
+            "label": "Keep business and income running",
+            "original_label": "Keep your business and income running",
+            "route": "/en/knowledge/business-and-income/",
+            "description": "Connect income, business responsibilities and your change of location."
+          },
+          {
+            "label": "Residence rights and documents",
+            "original_label": "Prepare residence rights and documents",
+            "route": "/en/knowledge/residence-and-documents/",
+            "description": "Identify the rights and usable documents your plans depend on."
+          },
+          {
+            "label": "Digital continuity",
+            "original_label": "When your phone, SIM and main email fail",
+            "route": "/en/knowledge/phone-email-access-failure/",
+            "description": "Prepare for losing access to your phone, SIM or main email."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Help and services",
+    "route": "/en/services/",
+    "groups": [
+      {
+        "label": "Plans and countries",
+        "links": [
+          {
+            "label": "Personal initial assessment",
+            "original_label": "Personal initial assessment",
+            "route": "/en/services/initial-assessment/",
+            "description": "Have your main question assessed and receive a reasoned recommendation with next steps."
+          },
+          {
+            "label": "Personal departure and contingency plan",
+            "original_label": "Personal departure and contingency plan",
+            "route": "/en/services/departure-contingency-plan/",
+            "description": "Connect the preparations for your family, assets and business."
+          },
+          {
+            "label": "Personal country selection",
+            "original_label": "Choose suitable countries and locations",
+            "route": "/en/services/country-location-selection/",
+            "description": "A commissioned comparison of countries and locations against your family, budget and plans."
+          }
+        ],
+        "icon": "compass",
+        "description": "Find a direction and prepare"
+      },
+      {
+        "label": "Documents and residence",
+        "links": [
+          {
+            "label": "Residence and document preparation",
+            "original_label": "Arrange residence and document preparation",
+            "route": "/en/services/residence-documents/",
+            "description": "Organise the documents and preparatory work your intended residence requires."
+          },
+          {
+            "label": "Documents, apostilles and translations",
+            "original_label": "Arrange apostilles, translations and documents",
+            "route": "/en/services/apostilles-translations-documents/",
+            "description": "Organise documents, authentication and translations for the receiving authority."
+          },
+          {
+            "label": "Emergency documents for your family",
+            "original_label": "Emergency documents your family can actually use",
+            "route": "/en/knowledge/residence-and-documents/emergency-documents/",
+            "description": "Prepare documents and authority that the right family members can actually use."
+          }
+        ],
+        "icon": "file",
+        "description": "Arrange evidence and residence"
+      },
+      {
+        "label": "Money and business",
+        "links": [
+          {
+            "label": "Banking access and liquidity",
+            "original_label": "Prepare banking access and liquidity",
+            "route": "/en/services/banking-liquidity/",
+            "description": "Prepare bank onboarding, payment routes and usable funds."
+          },
+          {
+            "label": "Asset structures and succession",
+            "original_label": "Arrange asset structures, custody and succession",
+            "route": "/en/services/asset-structures/",
+            "description": "Coordinate ownership, custody and succession with suitable professionals."
+          },
+          {
+            "label": "Transfer assets",
+            "original_label": "Transfer assets and retain lawful access",
+            "route": "/en/services/asset-transfers/",
+            "description": "Prepare an asset transfer together with continued lawful access."
+          },
+          {
+            "label": "Arrange a trust structure",
+            "original_label": "Arrange a trust structure",
+            "route": "/en/services/trust-structure/",
+            "description": "Coordinate professional assessment and the establishment of a suitable trust."
+          },
+          {
+            "label": "A Liechtenstein foundation",
+            "original_label": "Arrange a Liechtenstein foundation",
+            "route": "/en/services/liechtenstein-foundation/",
+            "description": "Organise assessment and establishment with the relevant professionals."
+          },
+          {
+            "label": "Custody and access to tangible assets",
+            "original_label": "Arrange custody and access to tangible assets",
+            "route": "/en/services/tangible-asset-custody/",
+            "description": "Coordinate custody, ownership evidence and the practical route to your assets."
+          },
+          {
+            "label": "Overseas company and administration",
+            "original_label": "Arrange an overseas company and ongoing administration",
+            "route": "/en/services/overseas-company/",
+            "description": "Organise formation, documents and continuing company administration."
+          }
+        ],
+        "icon": "globe",
+        "description": "Organise access and business"
+      },
+      {
+        "label": "Family and continuity",
+        "links": [
+          {
+            "label": "Family and business continuity",
+            "original_label": "Keep your family and business functioning",
+            "route": "/en/services/family-business-continuity/",
+            "description": "Coordinate family care with essential business responsibilities."
+          },
+          {
+            "label": "Private communications and recovery",
+            "original_label": "Set up private communications and recovery access",
+            "route": "/en/services/communications-recovery/",
+            "description": "Set up appropriate communications and agreed recovery routes."
+          },
+          {
+            "label": "Arrange your arrival abroad",
+            "original_label": "Arrange your arrival abroad",
+            "route": "/en/services/arrange-arrival/",
+            "description": "Organise accommodation, appointments, essential services and the first steps on arrival."
+          }
+        ],
+        "icon": "people",
+        "description": "Prepare daily life and contact"
+      },
+      {
+        "label": "Maintenance and activation",
+        "links": [
+          {
+            "label": "Review and maintain preparations",
+            "original_label": "Review and maintain your preparations",
+            "route": "/en/services/maintain-preparations/",
+            "description": "Keep agreed documents, contacts and arrangements under regular review."
+          },
+          {
+            "label": "Agreed emergency coordination",
+            "original_label": "Agreed activation and emergency coordination",
+            "route": "/en/services/activation-emergency-coordination/",
+            "description": "Agree triggers, authority, contact windows and the procedure for activation."
+          }
+        ],
+        "icon": "shield",
+        "description": "Stay prepared and act"
+      }
+    ]
+  },
+  {
+    "label": "Countries",
+    "route": "/en/countries/",
+    "groups": [
+      {
+        "label": "",
+        "links": [
+          {
+            "label": "Compare countries yourself",
+            "original_label": "Countries and options",
+            "route": "/en/countries/",
+            "description": "Read public country profiles, understand the requirements and form your own view."
+          },
+          {
+            "label": "Personal country selection",
+            "original_label": "Choose suitable countries and locations",
+            "route": "/en/services/country-location-selection/",
+            "description": "A commissioned comparison of countries and locations against your family, budget and plans."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "EXOBASIS",
+    "route": "/en/how-we-work/",
+    "groups": [
+      {
+        "label": "",
+        "links": [
+          {
+            "label": "How we work",
+            "original_label": "How EXOBASIS works",
+            "route": "/en/how-we-work/",
+            "description": "Understand how EXOBASIS manages the work, responsibilities and handover."
+          },
+          {
+            "label": "Discretion and responsibility",
+            "original_label": "Discretion and protected collaboration",
+            "route": "/en/discretion/",
+            "description": "How personal information and protected collaboration are handled."
+          },
+          {
+            "label": "Specialist collaboration",
+            "original_label": "Collaboration for advisers and specialist providers",
+            "route": "/en/collaboration/",
+            "description": "The route for advisers and specialist providers to discuss working together."
+          }
+        ]
+      }
+    ]
+  }
+]

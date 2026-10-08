@@ -1,0 +1,325 @@
+{
+  "route": "/en/countries/uae/",
+  "lang": "en",
+  "title": "UAE as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/vae/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-b6257fc454042c",
+      "startLine": 15881
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-9d9051691ae7bd",
+      "startLine": 20202
+    }
+  ],
+  "eyebrow": "UAE: residence, family life and business continuity",
+  "seoTitle": "Moving to the UAE: Residence, Homes and Family | EXOBASIS",
+  "description": "Prepare a UAE base around the right residence, home, family cover and money access. Understand Dubai property routes, regional exposure and ongoing duties.",
+  "intro": "<p>A UAE base can bring your home, international work and family arrangements into one place. It also places you in the Gulf, with the region’s security and travel dependencies. If you are moving because you fear war or losing room to act, assess that exposure alongside the residence offer, school place and property.</p>",
+  "countryContext": "/en/countries/uae/",
+  "linkPlan": [
+    {
+      "sourceLine": 1398,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1400,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1401,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1402,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1403,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1404,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1405,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1406,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1407,
+      "target": "/de/laender/vae/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1533,
+      "target": "/en/countries/panama/",
+      "label": "Panama as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1535,
+      "target": "/en/countries/malaysia/",
+      "label": "Malaysia as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "AE-RISK | www.gov.uk",
+      "url": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates",
+      "section": 2,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "AE-ENTRY | www.gov.uk",
+      "url": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/print",
+      "section": 2,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "AE-FAMILY | u.ae",
+      "url": "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/residence-visa-for-family-members",
+      "section": 3,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "AE-GOLD-ALT | u.ae",
+      "url": "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa",
+      "section": 4,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "AE-GOLD | dubailand.gov.ae",
+      "url": "https://dubailand.gov.ae/en/eservices/request-for-golden-visa-investor/",
+      "section": 5,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "AE-GREEN | icp.gov.ae",
+      "url": "https://icp.gov.ae/en/green-residency/",
+      "section": 5,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "AE-ENTRY | www.gov.uk",
+      "url": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates/print",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "AE-PROPERTY | u.ae",
+      "url": "https://u.ae/en/information-and-services/moving-to-the-uae/expatriates-buying-a-property-in-the-uaE",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "AE-SALE | dubailand.gov.ae",
+      "url": "https://dubailand.gov.ae/en/eservices/property-sale-registration",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "AE-EJARI | dubailand.gov.ae",
+      "url": "https://dubailand.gov.ae/en/eservices/register-renew-ejari-contract/",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "AE-SCHOOL | web.khda.gov.ae",
+      "url": "https://web.khda.gov.ae/en/Guides/Parents/Schools-Fees-Fact-Sheet-FAQs",
+      "section": 7,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "AE-HEALTH | u.ae",
+      "url": "https://u.ae/en/information-and-services/health-and-fitness/Healthcare-access-and-insurance/getting-a-health-insurance",
+      "section": 7,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "AE-TAX | tax.gov.ae",
+      "url": "https://tax.gov.ae/en/taxes/corporate.tax/corporate.tax.topics/basis.of.taxation.natural.person.aspx",
+      "section": 8,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "AE-BANK | www.emiratesnbd.com",
+      "url": "https://www.emiratesnbd.com/en/accounts/savings-accounts/savings-account",
+      "section": 8,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": "bank product conditions"
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Prepare my UAE base",
+    "intent": "General enquiry"
+  },
+  "country": {
+    "name": "UAE",
+    "slug": "vae",
+    "region": "Other assessed options",
+    "map": "countries/vae-locator.svg",
+    "imageAlt": "The United Arab Emirates highlighted on a regional locator map.",
+    "caption": "The United Arab Emirates on the Arabian Peninsula.",
+    "summary": [
+      [
+        "Build around your residence route",
+        "Employment, self-sponsored residence and investment routes have different evidence and dependencies."
+      ],
+      [
+        "Choose the emirate and neighbourhood",
+        "Property rights, tenancy registration, school and healthcare arrangements need a local answer."
+      ],
+      [
+        "Keep regional exposure visible",
+        "A usable base needs travel options, accessible money and a plan if ordinary routes are disrupted."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "What do you want the UAE base to achieve?",
+      "body": "<p>A business relocation, a permanent family home and a second residence used a few times a year are different projects. Your residence route should support the way you intend to live and work. The property should follow that decision, not force it.</p><p>Start with who will move, which passports they hold, how the household earns its income and what must continue if the original country becomes difficult to remain in. An existing UAE address or company is not a complete family fallback. Every person still needs the right status, practical access to the home and money they can use.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "A Gulf base must include a disruption plan",
+      "body": "<p>Regional war and the risk of interrupted air travel belong in the decision, not in the small print. In the FCDO guidance retrieved on 5 October 2026, the regional-tensions section reports recent strikes and retaliatory attacks and warns of further attacks and unforeseen escalation. Read <a href=\"https://www.gov.uk/foreign-travel-advice/united-arab-emirates\">the current UAE travel advice</a> before committing to a journey or treating the country as a refuge from conflict elsewhere.</p><p>Choose a home you can reach and occupy, hold records offline and keep a payment method that does not depend on one phone or employer account. Decide where your family would go if ordinary flights were disrupted. An alternative transit country is useful only if each traveller can enter it and the onward route is available.</p><p>A visit and a move are different permissions. Entry depends on nationality and the purpose of travel; residence adds its own steps. The <a href=\"https://www.gov.uk/foreign-travel-advice/united-arab-emirates/print\">British-passport entry and safety guidance</a> is relevant to British citizens, not everyone living in the UK or Dubai. Bring the destination decision into your <a href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">contingency and return planning</a>.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Moving to the UAE with family",
+      "body": "<p>Build the household budget around recurring commitments: school, housing, health cover, transport and any support a relative needs. An employer package may cover one person well while leaving substantial family costs with you. Confirm precisely which benefits continue if that employment ends.</p><p>The UAE government's family-residence guidance states that employees with valid residence can sponsor their families with a minimum salary of AED 4,000, or AED 3,000 plus accommodation; medical fitness screening applies from age eighteen. The applicable relationship and documentary requirements also have to be met. <a href=\"https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/residence-visa-for-family-members\">Family sponsorship requirements</a> should be matched to each person, including the child approaching adulthood or the parent you hope to bring.</p><p>Settle school admission, healthcare needs and the daily journey before choosing between a flat and a villa. If one parent or child will join later, keep the family documents and responsibility for each application explicit.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Will your residence support long periods abroad?",
+      "body": "<p>A base used intermittently needs a status that remains usable when you return. The UAE government's Golden Visa guidance specifically allows holders to remain outside the country for longer than the usual six-month period associated with ordinary residence validity. That privilege belongs to the relevant Golden Residence; it should not be assumed for every visa sold as long-term. <a href=\"https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa\">The official Golden Visa benefits</a> explain the distinction.</p><p>Check the conditions on your actual permit, the family permits attached to it and what happens if its basis changes. Keep the expiry dates and travel records together. Buying a property does not turn a separate, expired residence document into a valid entry permission.</p><p>For an empty home, arrange inspections and a clear maintenance response. Cooling, leaks, building access and utility accounts need attention even when you are away. Confirm that the building or community permits your intended use, especially if you plan to let the property between visits.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "UAE residency and the Dubai Golden Visa question",
+      "body": "<p>Employment-sponsored residence suits a move tied to a qualifying job, but it also creates a dependency on that employment and the associated permit. A licensed business, an eligible self-sponsored route and a qualifying investment are different starting points. Establish the right to carry out your intended work as well as the right to reside.</p><p>The ICP Green Residency framework provides a renewable five-year self-sponsored route for specified groups, including eligible skilled workers, freelancers and investors. Freelancers have permit, qualification and financial requirements; a remote income alone is not automatic eligibility. <a href=\"https://icp.gov.ae/en/green-residency/\">The ICP Green Residency requirements</a> define the actual categories.</p><h3>Buying property for a Dubai Golden Visa</h3><p>Dubai Land Department's property-investor service describes an application for a renewable ten-year residence where the purchase value is at least AED 2 million. For mortgaged property, the service asks for bank evidence of the paid amount and balance and specifies AED 2 million paid in its introduction. Do not treat an advertised property value as sufficient evidence for every financed purchase. Obtain a transaction-specific eligibility assessment before making the residence outcome part of the buying decision.</p><p>The <a href=\"https://dubailand.gov.ae/en/eservices/request-for-golden-visa-investor/\">DLD Golden Visa investor service</a> is a Dubai procedure. It requires an application and supporting documents; the purchase itself does not issue the permit. The national framework includes other qualifying categories, so the right route may have nothing to do with property.</p><p>EXOBASIS can organise the <a href=\"/en/services/residence-documents/\">residence and document work</a>, coordinate the required local execution and connect it to the family move. <a href=\"/en/enquiry/\">Ask about the defined task you need</a>, whether or not you need a wider location assessment first.</p>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Choose the emirate, then the address and tenure",
+      "body": "<h3>Dubai, Abu Dhabi and the wider choice</h3><p>Dubai can suit a plan centred on international business connections, a particular school curriculum and frequent flights. Abu Dhabi deserves its own comparison when the employer, school or required medical provider is there. A cheaper home in another emirate can change the daily commute substantially. Sharjah or Ras Al Khaimah should be assessed around your real journeys, not as interchangeable Dubai neighbourhoods.</p><p>Test access to the building, traffic at school times, cooling, parking, pedestrian practicality and drainage. Extreme heat affects the way children, older relatives and pets use the area. Heavy rain can disrupt roads and expose building defects. Use <a href=\"https://www.gov.uk/foreign-travel-advice/united-arab-emirates/print\">the official local safety guidance</a> alongside an inspection of the actual property.</p><h3>Renting and Ejari in Dubai</h3><p>A serviced apartment can bridge the period while residence and identity documents are arranged. For the longer-term home, verify the landlord's title or the agent's authority and agree rent instalments, deposit, maintenance, notice terms and the inventory before payment. Find out separately who pays cooling, utilities, connection deposits and any building charges.</p><p>Dubai registers residential tenancy contracts through Ejari. DLD's service requires the unified tenancy contract and, through service centres, the applicant's Emirates ID; a representative needs the appropriate authority. <a href=\"https://dubailand.gov.ae/en/eservices/register-renew-ejari-contract/\">Ejari registration</a> produces the registered contract, not ownership. Other emirates have their own tenancy arrangements, so a Dubai process should not be copied across the country.</p><h3>Buying as a foreign owner</h3><p>In Dubai, foreigners, including non-residents, may acquire freehold property in designated areas. Elsewhere, the permitted location and the right being purchased need to be established under the emirate's rules. Freehold, usufruct and a long lease are different legal interests. The <a href=\"https://u.ae/en/information-and-services/moving-to-the-uae/expatriates-buying-a-property-in-the-uaE\">UAE government’s property-ownership guide</a> explains the emirate distinctions.</p><p>For a completed Dubai property, verify title, the seller's authority, any mortgage or other burden, service-charge position, occupancy and permitted use. Agree the finance, deposit and completion conditions with independent professional support before signing. DLD's sale-registration process calls for identity documents and the developer's electronic no-objection certificate where applicable, and produces an electronic title deed. <a href=\"https://dubailand.gov.ae/en/eservices/property-sale-registration\">DLD’s sale-registration requirements and fees</a> are the reference for the transfer.</p><p>The DLD schedule lists seller and buyer charges of 2% each plus relevant certificate, map and service-partner fees. Confirm the agreed allocation in your contract and add legal, agency, finance, service-charge and setup costs separately. An off-plan contract introduces developer and delivery risk as well; it cannot serve as a home available for an immediate arrival.</p><p>EXOBASIS can develop your search brief, arrange viewings, organise independent title and purchase checks, coordinate the contract and completion, and prepare the handover. The <a href=\"/en/services/arrange-arrival/\">arrival and home-setup service</a> connects the transaction with utilities, keys and a place ready for your family.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Secure the school place and the right medical cover",
+      "body": "<p>Choose a school around curriculum continuity, admission, learning support and the journey from home. In Dubai, KHDA's School Fees Fact Sheet sets out school-specific tuition and other charges. Compare the full commitment, including transport and additional activities, rather than the headline tuition alone. <a href=\"https://web.khda.gov.ae/en/Guides/Parents/Schools-Fees-Fact-Sheet-FAQs\">KHDA’s school-fee information</a> helps you obtain the relevant facts before accepting a place.</p><p>Keep school records, birth and marriage documents and any custody or travel-consent papers ready in the required form. The <a href=\"/en/knowledge/family-life-abroad/children-family/\">children and family guide</a> connects those documents with a move that may happen in stages.</p><p>In Dubai, employers must provide health insurance for their employees, while sponsors must arrange it for resident dependants. Abu Dhabi has its own employer and sponsor obligations. These are not the same as every member of your family having the cover they need. <a href=\"https://u.ae/en/information-and-services/health-and-fitness/Healthcare-access-and-insurance/getting-a-health-insurance\">The government health-insurance guidance</a> sets out the emirate distinctions.</p><p>Before arrival, confirm your hospital network, specialist access, prescriptions, maternity or chronic-condition cover and direct-billing arrangements. Check medicine import requirements for any controlled medication. <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and care abroad</a> helps turn a policy into a workable treatment and support plan, including care for an older relative.</p><h3>Confirm care at the address and times you need it</h3><p>If an older relative or another family member needs personal help, set out the daily tasks and any nursing support with their treating team. Who will help with washing, dressing, meals, movement and clinic visits, and who accompanies them on the journey to the UAE? Find a care service or appropriately qualified professional who can take on that work in the emirate and neighbourhood where you will live. Check building access, cooling and door-to-door transport against the person's needs and the chosen clinic.</p><p>Before arrival, confirm the agreed hours, start date, charges, replacement arrangements and who pays each cost. Ask the insurer about the specific proposed care and provider; record any payment the family must fund separately. Arrange a protected handover between current and receiving carers, including the care plan, necessary equipment and the person meeting your relative. Our <a href=\"/en/services/family-business-continuity/\">family continuity and care preparation service</a> can coordinate these tasks with residence, housing and treatment arrangements. Detailed medical records go through the agreed protected intake; the open short form is for the broad organisational request.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Make bank access and business continuity independent",
+      "body": "<p>A residence application, an Emirates ID and a bank account are separate steps. Emirates NBD's published savings-account conditions distinguish resident and non-resident applicants and request different identity and supporting records. A non-resident savings product is not automatically a substitute for every salary, cheque or business-account function. <a href=\"https://www.emiratesnbd.com/en/accounts/savings-accounts/savings-account\">The bank’s published account conditions</a> are one product example, not a rule guaranteeing acceptance across UAE banks.</p><p>Prepare identity, address, tax-residence and source-of-funds evidence that tells a consistent story. For a business account, expect the business and ownership records as well. Keep access to funds while an application or compliance review is pending, and test payments, withdrawals and recovery after a lost phone before depending on the new setup.</p><p>If protection from debanking is one of your aims, another country is only part of the answer. Avoid leaving every usable payment method tied to one institution, device or employment relationship. The <a href=\"/en/knowledge/assets-and-access/banking-payments/\">banking and payments guide</a> explains the dependencies; our <a href=\"/en/services/banking-liquidity/\">banking and liquidity service</a> organises the application evidence, transfer sequence and access tests.</p><p>For work, distinguish salary from business activity. The FTA states that a natural person conducting business in the UAE comes within Corporate Tax where business turnover exceeds AED 1 million in a calendar year; wages are excluded from that business-activity test. <a href=\"https://tax.gov.ae/en/taxes/corporate.tax/corporate.tax.topics/basis.of.taxation.natural.person.aspx\">The FTA rules for natural persons</a> do not make every foreign company or owner tax-free. Obtain the company, licensing and cross-border tax assessment that matches where decisions and work will actually take place.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Arrange the move in the order the dependencies require",
+      "body": "<p>Prepare passport and relationship documents, income or employment evidence and the papers supporting your chosen residence route. Then coordinate the application, medical fitness steps where required, Emirates ID, family sponsorship, insurance, bank applications and the longer-term home.</p><p>Give each family member a complete document list and track what needs attestation or translation. Keep short-term accommodation flexible until the steps on which the lease, school and account depend are in place. <a href=\"/en/services/residence-documents/\">Residence and document coordination</a> can be commissioned together with the practical arrival or as a standalone assignment.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep the UAE base usable when circumstances change",
+      "body": "<p>Maintain a calendar for residence and family permits, Emirates IDs, insurance, school commitments, tenancy renewal, company licences and banking records. Review the dependencies when employment changes, a child reaches a different status or your pattern of visits changes.</p><p>For the home, agree inspections, cooling and water checks, building access and a repair budget. Record who can act and which institutions accept their authority. An informal keyholder arrangement does not give somebody control of your accounts or the right to sign a legal document for you. <a href=\"/en/services/maintain-preparations/\">Ongoing preparation support</a> keeps these obligations and agreed local tasks connected.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Prepare the UAE base or compare a different region",
+      "body": "<p>If the UAE fits your aims, commission the actual work: establish the residence route, compare neighbourhoods, arrange a rental, support a purchase or coordinate the family arrival. We agree the scope, carry out the commissioned preparation and organise the professional execution it requires.</p><h3>Compare the UAE with Panama and Malaysia</h3><p><a href=\"/en/countries/panama/\">Panama</a> is a relevant alternative if your aim includes geographic separation from the Gulf and a base in the Americas. Compare flight access, residence, money movement and family requirements on their own merits.</p><p><a href=\"/en/countries/malaysia/\">Malaysia</a> belongs in the comparison if an Asian family base may meet your needs better. Its residence, foreign-property rules, schooling and medical access require a separate location assessment rather than an assumption that a second Asian option works like Dubai.</p><p>Our <a href=\"/en/services/country-location-selection/\">country and location selection service</a> makes that comparison around your real dependencies. <a href=\"/en/enquiry/\">Tell us what you want ready in the UAE</a>. If the scope is still unclear, a free 20-minute orientation can establish the next step.</p><p>Already based in the UAE? <a class=\"exb-text-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\">Leaving the UAE or preparing a second option</a> addresses that separate departure task.</p>"
+    }
+  ],
+  "faq": {
+    "question": "Does a property purchase automatically give my family a Dubai Golden Visa?",
+    "answer": "No. The Dubai Land Department procedure is a separate application with value, ownership and documentary requirements. Its published service describes a renewable ten-year permit for qualifying property investors, with additional bank evidence for financed property. Establish eligibility before signing, and coordinate family sponsorship, insurance, the home and school arrangements separately."
+  },
+  "displayTitle": "Moving to the UAE: build a working family and business base"
+}

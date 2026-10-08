@@ -1,0 +1,43 @@
+# Dependencies and generated output
+node_modules/
+dist/
+dist-release/
+.build-stage/
+.build-previous/
+.release-stage/
+.release-previous/
+START_HIER.html
+STATUS.md
+PRUEFBERICHT.md
+RELEASE_SHA256.json
+
+# Private reference, operating and audit material
+reference/
+reviews/
+deployment/
+editorial/*
+!editorial/package-scope.json
+!editorial/source-index.json
+!editorial/checks/
+editorial/checks/*
+!editorial/checks/package02-content-contract.json
+!editorial/checks/package03-content-contract.json
+
+# Credentials and private key material never enter the source repository
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.dump
+*.sql
+*.sqlite
+*.db
+
+# Local caches
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.log

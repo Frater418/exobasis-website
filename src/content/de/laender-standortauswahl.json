@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/laender-standortauswahl/",
+  "lang": "de",
+  "title": "Passende Länder und Standortoptionen",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-45b59d35963b43"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-bc1f283d917295"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Individuelle Länderauswahl / Ein persönlicher Rechercheauftrag",
+  "seoTitle": "Länder- und Standortauswahl für deinen Plan B | EXOBASIS",
+  "description": "Lass Länder und konkrete Orte nach Rechten, Familie, Erreichbarkeit, Geld und Wohnen vergleichen. Mit beauftragbarer Suche, Prüfung und Immobilienkauf.",
+  "intro": "<p>Du suchst einen Ort, an dem deine Familie tatsächlich ankommen und leben kann. Vielleicht als rechtzeitig vorbereitete Zuflucht vor Krieg oder Repression, vielleicht als zweiter Wohnsitz oder dauerhafte Zukunft. Welches Land dazu passt, entscheidet sich an euren Rechten und eurem Alltag.</p><p>EXOBASIS vergleicht die vereinbarten Länder und konkreten Standorte für deinen Fall. Wir verbinden Aufenthalt, Reisewege, Versorgung, Einkommen und Wohnen zu einer begründeten Auswahl und übernehmen auf Wunsch die weitere Vorbereitung bis zur Mietwohnung oder zum Immobilienkauf.</p>",
+  "primary": {
+    "label": "Länderauswahl anfragen",
+    "intent": "Passende Länder und Standortoptionen"
+  },
+  "summary": {
+    "kicker": "Persönliche Länder- und Standortauswahl",
+    "title": "Ein Ort, der für euch erreichbar und nutzbar ist.",
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Karte als Sinnbild für den Vergleich von Ländern und Standorten.",
+    "facts": [
+      [
+        "Grundlage",
+        "Lebensmodell, Familienrechte und wirtschaftliche Aufgabe"
+      ],
+      [
+        "Vergleich",
+        "Konkrete Orte mit belegten Bedingungen und offenen Punkten"
+      ],
+      [
+        "Anschluss",
+        "Besichtigung, Unterkunft, Einrichtung und Kaufvorbereitung"
+      ]
+    ]
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Was wir für dich übernehmen",
+    "body": "<p>Wir erarbeiten den vereinbarten Länder- und Ortsvergleich aus euren Prioritäten. Du erhältst eine begründete Auswahl, die entscheidenden Voraussetzungen, Kostenarten und die Reihenfolge der Vorbereitung. Eine bereits vorhandene Länderpräferenz wird an denselben Kriterien geprüft.</p>",
+    "items": [
+      [
+        "Passung",
+        "Kurzfristigen Ausweichort und dauerhaften Lebensmittelpunkt unterschiedlich bewerten."
+      ],
+      [
+        "Ortsvergleich",
+        "Wohnlagen, Versorgung, Schule, Erreichbarkeit und Alltag konkret gegenüberstellen."
+      ],
+      [
+        "Umsetzung",
+        "Besichtigungen, Miet- oder Kaufsuche und erforderliche Fachprüfungen organisieren."
+      ]
+    ],
+    "costs": "Ländervergleich, örtliche Recherche, Reisen, Besichtigungen, Fachprüfungen und anschließende Einrichtung werden im Angebot abgegrenzt. Kaution, Kaufpreis, Steuern, Register- und Vertragskosten sowie laufende Objektkosten gehören in dein gesondertes Standortbudget."
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Zuflucht, zweiter Wohnsitz oder neues Zuhause?",
+      "body": "<p>Für eine kurzfristige Zuflucht zählen vor allem rechtzeitige Erreichbarkeit, erlaubte Aufenthaltsdauer und eine sofort nutzbare Unterkunft. Ein zweiter Wohnsitz muss auch während deiner Abwesenheit betreut werden. Bei einer dauerhaften Familienbasis kommen Schule, langfristige Versorgung, Einkommen und der tatsächliche Lebensmittelpunkt hinzu.</p><p>Bei mobiler Nutzung zwischen mehreren Ländern vergleichen wir den geplanten Aufenthaltsrhythmus, die erlaubte Tätigkeit je Etappe, laufende Zahlwege und die Betreuung der Basis während deiner Abwesenheit. Soll die Zuflucht nur vorübergehend dienen, gehört auch die gewünschte Rückkehr in den Vergleich: Welche Rechte, Wohnung und familiären oder betrieblichen Verbindungen müssen am bisherigen Ort erhalten bleiben, und wie gelangt ihr wieder dorthin?</p><p>Wir legen zuerst fest, welche dieser Aufgaben der Standort erfüllen soll. Daraus folgt, was zwingend funktionieren muss und wo du bereit bist, Abstriche zu machen. So wird ein sonniger Urlaubsort nicht ungeprüft zum Familienplan für den Kriegsfall.</p><p>Die <a href=\"/de/laender/\">Länderübersicht</a> zeigt dir die vorhandenen Optionen. Wenn Standortwahl, Familie und wirtschaftliche Aufgaben gemeinsam geordnet werden sollen, verbindet sie der <a href=\"/de/leistungen/flucht-notfallplan/\">persönliche Flucht- und Notfallplan</a>.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-2",
+      "title": "Die Rechte jedes Mitreisenden bestimmen die Auswahl",
+      "body": "<p>Wir erfassen Staatsangehörigkeiten, vorhandene Aufenthaltsrechte und die geplante Dauer für alle Beteiligten. Unterschiedliche Pässe können Einreise, Transit und spätere Aufenthaltsverfahren verändern. Auch die gewünschte Tätigkeit muss zum jeweiligen Status passen.</p><p>Für den Vergleich bedeutet das: Ein Land kommt erst dann in die engere Wahl, wenn der Weg für den gesamten vereinbarten Haushalt nachvollziehbar ist. Zusätzliche Verfahren, persönliche Termine und erforderliche Nachweise gehen mit ihrem Aufwand in die Entscheidung ein.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-3",
+      "title": "Der Alltag entscheidet zwischen zwei scheinbar ähnlichen Orten",
+      "body": "<p>Wir vergleichen, was für euch vor Ort gebraucht wird: erreichbare medizinische Fachrichtungen, Beschaffung regelmäßig benötigter Medikamente, Schulform und Unterrichtssprache, Wege zu Versorgung und Verkehrsanbindung. Versicherungsschutz und tatsächlich erreichbare Behandlung werden getrennt betrachtet.</p><p>Für Unternehmer und Selbstständige kommen Internet- und Stromversorgung, Zeitzonen, zulässige Tätigkeit und die Fortführung betrieblicher Entscheidungen hinzu. Eine gute Wohnlage kann ungeeignet sein, wenn eine regelmäßige Behandlung nur nach einer langen Fahrt oder ein Schulplatz erst nach einem zusätzlichen Aufnahmeverfahren erreichbar ist.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-4",
+      "title": "Ein Hauptort und ein sinnvoller Ersatzweg",
+      "body": "<p>Wir vergleichen Orte, nicht nur Landesnamen. Zur jeweiligen Wohnlage gehören Zufahrten, saisonale Belastungen, örtliche Sicherheitsbedingungen und relevante Naturgefahren. Flüge, Landwege und Transit werden auf eure Personen und Dokumente bezogen.</p><p>Fällt die wichtigste Verbindung aus, soll der Ersatzweg möglichst nicht an derselben Engstelle hängen. Wir halten daher gemeinsame Abhängigkeiten fest: derselbe Umsteigeort, nur ein nutzbarer Grenzübergang oder ausschließlich ein Verkehrsmittel. Die tatsächliche Reiseentscheidung verwendet anschließend die aktuellen Bedingungen.</p>",
+      "layout": "prose",
+      "criteria": {
+        "title": "Was ein konkreter Standort erfüllen muss",
+        "headers": [
+          "Bereich",
+          "Frage für euren Fall",
+          "Grundlage der Entscheidung"
+        ],
+        "rows": [
+          [
+            "Rechte",
+            "Können alle Personen kommen und wie lange bleiben?",
+            "Persönlicher Status und Anforderungen der zuständigen Stellen"
+          ],
+          [
+            "Erreichbarkeit",
+            "Welche Route und welcher Ersatz sind nutzbar?",
+            "Personenbezogene Einreise- und Transitbedingungen"
+          ],
+          [
+            "Alltag",
+            "Sind Schule, Behandlung und Versorgung erreichbar?",
+            "Konkrete Einrichtungen, Wege und Aufnahmebedingungen"
+          ],
+          [
+            "Wohnen",
+            "Passt Miete oder Kauf zur geplanten Nutzung?",
+            "Vertrag, Erwerbsrecht, örtliche Prüfung und laufende Kosten"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "kern-5",
+      "title": "Wohnen vorbereiten: mieten oder eine Immobilie kaufen",
+      "body": "<p>Für die erste Ankunft kann eine möblierte Unterkunft Zeit schaffen, den Standort kennenzulernen. Eine längerfristige Miete braucht geklärte Laufzeit, Kaution, Nutzung während Abwesenheit, Nebenkosten und Zugang. Bei einem Kauf gehören Kaufberechtigung, Eigentumstitel, Lasten, Nutzungsrechte und laufende Pflichten bereits vor eine verbindliche Zahlung.</p><p>Den <strong>Immobilienkauf kannst du als konkrete Arbeit beauftragen</strong>: Wir präzisieren Bedarf und Suchgebiet, organisieren Objektsuche und Besichtigungen, führen die Ergebnisse zusammen und organisieren eine unabhängige örtliche Titel- und Kaufprüfung. Danach koordinieren wir die freigegebenen Vertrags- und Abschlussschritte, Übergabe und gewünschte Betreuung. Die rechtliche Prüfung erfolgt durch die dafür zuständige örtliche Fachrolle; Makler, Verkäufer, Prüfer und beurkundende Stelle werden mit ihren jeweiligen Aufgaben benannt.</p><p>Kaufrechte sind landesspezifisch. In der Schweiz kann für Personen im Ausland eine kantonale Erwerbsbewilligung nötig sein; das <a href=\"https://www.bj.admin.ch/de/fragen-und-antworten\">Bundesamt für Justiz erläutert die Fallgruppen der Lex Koller</a>. Deshalb wird der persönliche Erwerbsfall vor dem Kauf geklärt. Eigentum an einer Wohnung und das Recht, dort dauerhaft zu leben, werden als getrennte Voraussetzungen bearbeitet.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "kern-6",
+      "title": "Du entscheidest auf einer nachvollziehbaren Grundlage",
+      "body": "<p>Die Gegenüberstellung zeigt, warum eine Option passt, welche Bedingung noch erfüllt werden muss und was Einrichtung und laufender Unterhalt voraussichtlich umfassen. Belegte Beträge werden mit Ort, Zeitpunkt und Leistungsumfang verwendet; noch fehlende Angebote werden als eigene Beschaffungsaufgabe geführt.</p><p>Nach deiner Entscheidung übernehmen wir die beauftragte Vorbereitung. Für eine zeitweise leere Wohnung gehören Schlüsselverwaltung, Versorgung, Wartung, Versicherungsbedingungen und die nächste Ankunft in den Betreuungsumfang. Damit endet die Standortwahl nicht bei einer Adresse, sondern führt zu einem Ort, den du tatsächlich nutzen kannst.</p>",
+      "layout": "prose"
+    }
+  ],
+  "working": {
+    "title": "So arbeiten wir zusammen",
+    "body": "<p>Du bringst Prioritäten und Ausschlusskriterien ein: Aufenthaltsdauer, Familienbedarf, Sprache, Einkommen und Budget. Wir recherchieren die vereinbarten Optionen und besprechen die Unterschiede mit dir. Die Zahl der Länder folgt deiner Aufgabe, nicht einer festen Rangliste.</p>"
+  },
+  "nextWork": {
+    "title": "So geht es danach weiter",
+    "body": "<p>Aus der Auswahl können <a href=\"/de/leistungen/dokumente-aufenthalt/\">Aufenthaltsvorbereitung</a>, <a href=\"/de/leistungen/ankunft-organisieren/\">Ankunft und Einrichtung</a> sowie laufende <a href=\"/de/leistungen/vorbereitung-betreuen/\">Betreuung</a> entstehen. Du kannst die passende Teilaufgabe unmittelbar anfragen.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Wo soll deine Familie eine nutzbare Alternative haben?",
+    "body": "Beschreibe eure gewünschte Nutzung und die wichtigsten Voraussetzungen. Ein bestimmtes Land musst du noch nicht gewählt haben."
+  },
+  "seedingRefs": [
+    "16_Seeding_DE_und_gemeinsame_Uebernahme.md#d17"
+  ],
+  "displayTitle": "Das passende Land und den richtigen Standort finden"
+}

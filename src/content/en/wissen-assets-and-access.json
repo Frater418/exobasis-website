@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/assets-and-access/",
+  "lang": "en",
+  "title": "Protect assets and retain access",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-65e49e40abab11"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-6d1619e0300971"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-e37b182705c78e"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "International asset protection and access | EXOBASIS",
+  "description": "Connect asset protection with usable money, lawful authority and practical access. Plan banking, transfers, structures and succession around your family.",
+  "intro": "<p>You may own enough to start again abroad and still struggle to pay for a home, treatment or a flight when one account becomes unavailable. Asset protection has to address both the wealth you hold and the money your family can actually use.</p><p>If war, political repression or the possibility of state interference is driving your decision, identify the exposure precisely. Which assets, institutions, people and jurisdictions does your family depend on? That is the starting point for a lawful structure and a usable alternative.</p>",
+  "primary": {
+    "label": "Discuss your asset and access arrangements",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "Protection needs usable access",
+    "facts": [
+      [
+        "Ownership",
+        "Know the asset and the rights attached to it"
+      ],
+      [
+        "Liquidity",
+        "Keep essential payments functioning"
+      ],
+      [
+        "Authority",
+        "Prepare who can act and how"
+      ]
+    ],
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Map and compass, symbolising personal preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "When money exists but you cannot use it",
+      "body": "<p>A lost phone, a bank's decision to close an account and a legal freeze require different responses. Losing the device calls for authorised recovery. A closure calls for the account's contractual and complaint route, alongside continuity of payments. A court or sanctions restriction calls for the competent legal process.</p><p>Start with the bills that keep life functioning: accommodation, food, treatment, school and the business expenses that sustain income. Record which account pays each one, who may instruct payment and what would happen if that account became unavailable today. A property sale or an investment redemption that takes time is a different resource from an immediately usable reserve.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Keep ownership, authority and practical access separate",
+      "body": "<p>Family asset protection works only when three questions have answers. <strong>Who owns it?</strong> That is established by the relevant register, contract or legal arrangement. <strong>Who may act?</strong> That depends on the account mandate, company powers or other recognised authority. <strong>How will they act?</strong> That requires accepted identification, usable communications and the institution's procedure.</p><p>A spouse who knows where an account is held may still lack authority to operate it. A person with authority may still be unable to receive the authentication message. Record these as separate dependencies so that the legal work and the technical setup meet in a procedure the intended person can use.</p>",
+      "criteria": {
+        "title": "Four different questions",
+        "headers": [
+          "Layer",
+          "Question",
+          "Evidence"
+        ],
+        "rows": [
+          [
+            "Ownership",
+            "Who owns it?",
+            "The relevant account, contract or register"
+          ],
+          [
+            "Authority",
+            "Who may act?",
+            "An accepted legal instrument"
+          ],
+          [
+            "Authentication",
+            "Who can obtain access?",
+            "Identity and permitted recovery routes"
+          ],
+          [
+            "Payment",
+            "Can it fund the required expense?",
+            "A usable, lawful payment or release route"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-3",
+      "title": "Build payment continuity before changing residence",
+      "body": "<p>Two cards attached to the same account do not remove dependence on that account. Look at the underlying institution, available payment methods, currencies, device and recovery channel. A useful reserve covers the period your family may need to live through while an interrupted payment route is resolved.</p><p>Moving abroad also changes the bank's customer-service question. Confirm whether the precise legal bank entity will continue your product at your genuine destination address. Then establish the documents, transfer limits, beneficiary setup and access arrangements needed for the alternative. Work through the <a href=\"/en/knowledge/assets-and-access/banking-payments/\">banking and payment-continuity guide</a> before treating an account abroad as ready to use.</p><p>EXOBASIS can organise the agreed <a href=\"/en/services/banking-liquidity/\">banking-access and liquidity work</a>: gather the required records, coordinate the provider process and connect the accepted arrangement to your family's payments. Include <a href=\"/en/knowledge/phone-email-access-failure/\">recovery after losing your phone or email</a> in the same preparation.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\" data-route=\"/en/knowledge/assets-and-access/banking-payments/\"><span>Banking access and payments abroad</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/banking-liquidity/\" data-route=\"/en/services/banking-liquidity/\"><span>Prepare banking access and liquidity</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-4",
+      "title": "Choose the structure for the problem it must solve",
+      "body": "<p>International asset protection can involve a transfer, a legal structure, separate custody or a change in who can act. These are different jobs. Match the arrangement to ownership, access, succession, tax treatment and the costs of keeping it functioning.</p><ul><li><strong>Transfers:</strong> establish the purpose, source of funds, receiving requirements, currency and timing before moving capital.</li><li><strong>Trusts or foundations:</strong> establish who will control decisions, who can benefit, the governing law, reporting and tax treatment, and the ongoing administration.</li><li><strong>Tangible assets:</strong> identify the custodian, ownership evidence, insurance, release procedure and the person's ability to collect or realise the asset.</li><li><strong>Property abroad:</strong> connect the purchase to the family's actual use, local title and purchase checks, funding, succession and maintenance while absent. Keep accessible reserves alongside the property commitment.</li></ul><p>If you are considering asset protection in Dubai, start with your actual residence history and the assets involved. In particular, a former UK resident may retain <a href=\"/en/knowledge/business-and-income/departure-tax/\">UK inheritance-tax exposure after moving</a>. A structure's address does not answer that question.</p><h3>State access, capital controls and tax proposals</h3><p>Concern about protecting assets from government needs a defined legal question: a tax charge, an enforcement measure, a sanctions restriction or a limit on moving capital. Identify the authority, the assets and people covered, commencement dates and any recognised review or appeal route. Assess alternatives before taking an irreversible step; an offshore label does not determine how a court or tax authority will treat ownership or control.</p><p>Treat a proposed UK wealth tax and an enacted liability as different planning inputs. For a proposal, record what legislative step would change your decision. For an existing duty, organise compliance and any lawful challenge around the actual deadline. This keeps contingency planning tied to evidence rather than a predicted date of confiscation.</p><h3>UK policy watch: the digital pound, 5 October 2026</h3><p>The <a href=\"https://www.bankofengland.co.uk/the-digital-pound\">Bank of England's digital-pound project page</a> describes a design phase and states that a decision to introduce a digital pound has not been made. Its proposed model would sit alongside cash; the Bank says proposed safeguards would protect privacy and prevent the Bank or government from controlling how users spend it. Under that proposed model, a private wallet provider would still require identity information and have a commercial relationship with the user; the Bank and government would not see personal spending data. Those are stated design commitments, not enacted terms of a live product.</p><p>Follow the <a href=\"https://www.bankofengland.co.uk/the-digital-pound/digital-pound-news\">Bank's decision and legislative updates</a> as this develops. Meanwhile, reducing dependence on one institution, one phone or one authorised person is work you can undertake now. Include relevant policy changes in <a href=\"/en/services/maintain-preparations/\">ongoing preparation reviews</a>.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/asset-transfers/\" data-route=\"/en/services/asset-transfers/\"><span>Transfer assets and retain lawful access</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/trust-structure/\" data-route=\"/en/services/trust-structure/\"><span>Arrange a trust structure</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/liechtenstein-foundation/\" data-route=\"/en/services/liechtenstein-foundation/\"><span>Arrange a Liechtenstein foundation</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/tangible-asset-custody/\" data-route=\"/en/services/tangible-asset-custody/\"><span>Arrange custody and access to tangible assets</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/business-and-income/departure-tax/\" data-route=\"/en/knowledge/business-and-income/departure-tax/\"><span>Departure, tax and business obligations</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-5",
+      "title": "Make sure the right person can act without you",
+      "body": "<p>If you make every financial decision, the family's vulnerability may be your absence rather than the location of its assets. Name the tasks another person must perform: paying essential bills, receiving official correspondence, instructing a professional, managing the business or arranging care.</p><p>Have the appropriate instrument prepared for each legal system and obtain the relevant institution's requirements for using it. Keep the document, the acceptance process and the practical access arrangements together. The guide to <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">powers, representation and succession abroad</a> explains that connection. A shared password is not a substitute for authority.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/assets-and-access/powers-representation-succession/\" data-route=\"/en/knowledge/assets-and-access/powers-representation-succession/\"><span>Powers of attorney, representation and succession abroad</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-6",
+      "title": "Commission the work that closes your actual gap",
+      "body": "<p>You may already know that you need a second payment route, a property-related transfer or a succession arrangement. That work can be commissioned directly. Where several exposures overlap, EXOBASIS puts the facts and dependencies together, organises the necessary specialist assessment and carries out the agreed preparation.</p><p>The <a href=\"/en/services/asset-structures/\">asset structures, custody and succession service</a> connects professional decisions to records, applications, provider coordination and handover. Start by describing the dependency you want to reduce and the outcome your family needs. Detailed holdings and account records belong in the protected follow-up.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/asset-structures/\" data-route=\"/en/services/asset-structures/\"><span>Arrange asset structures, custody and succession</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "When your usual access stops working"
+      },
+      {
+        "id": "section-2",
+        "title": "Separate ownership, authority and access"
+      },
+      {
+        "id": "section-3",
+        "title": "Maintain payments beyond your usual residence"
+      },
+      {
+        "id": "section-4",
+        "title": "Choose transfers, structures and custody by purpose"
+      },
+      {
+        "id": "section-5",
+        "title": "Who can act when you cannot?"
+      },
+      {
+        "id": "section-6",
+        "title": "Have the right work organised"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 104,
+        "target": "/en/knowledge/assets-and-access/banking-payments/",
+        "label": "Banking access and payments abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#section-3"
+      },
+      {
+        "line": 111,
+        "target": "/en/services/banking-liquidity/",
+        "label": "Prepare banking access and liquidity",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Bankaufnahme und Liquidität vorbereiten",
+        "position": "#section-3"
+      },
+      {
+        "line": 105,
+        "target": "/en/services/asset-transfers/",
+        "label": "Transfer assets and retain lawful access",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Übertragungsschritte",
+        "position": "#section-4"
+      },
+      {
+        "line": 106,
+        "target": "/en/services/trust-structure/",
+        "label": "Arrange a trust structure",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Trust als Strukturvariante",
+        "position": "#section-4"
+      },
+      {
+        "line": 107,
+        "target": "/en/services/liechtenstein-foundation/",
+        "label": "Arrange a Liechtenstein foundation",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Stiftung als Strukturvariante",
+        "position": "#section-4"
+      },
+      {
+        "line": 108,
+        "target": "/en/services/tangible-asset-custody/",
+        "label": "Arrange custody and access to tangible assets",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Sachwerte und tatsächlicher Zugriff",
+        "position": "#section-4"
+      },
+      {
+        "line": 110,
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "label": "Departure, tax and business obligations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#section-4"
+      },
+      {
+        "line": 109,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#section-5"
+      },
+      {
+        "line": 112,
+        "target": "/en/services/asset-structures/",
+        "label": "Arrange asset structures, custody and succession",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt fachliche Strukturierungsarbeit organisieren",
+        "position": "#section-6"
+      },
+      {
+        "line": 113,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-6"
+      }
+    ],
+    "seeding": [
+      "EN01",
+      "EN02",
+      "EN03",
+      "EN04",
+      "EN07",
+      "EN13",
+      "EN14"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Asset protection your family can actually use"
+}

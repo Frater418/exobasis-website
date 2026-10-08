@@ -1,0 +1,198 @@
+{
+  "route": "/de/laender/spanien/",
+  "lang": "de",
+  "title": "Spanien als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/spain/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-a9dbaf3e536813"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-20db6c5297fbc7"
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern nach Spanien: Aufenthalt, Miete und Hauskauf | EXOBASIS",
+  "description": "Spanien als Familienbasis oder zweiten Wohnsitz vorbereiten: EU- und Schweizer Rechte, Mietvertrag, Immobilienkauf, Krankenversicherung und konkrete Umsetzung.",
+  "intro": "<p>Spanien kann dir einen neuen Familienalltag und einen zweiten Wohnsitz bieten, den du von DACH aus regelmäßig erreichst. Für deutsche und österreichische Staatsangehörige erleichtert die EU-Freizügigkeit den Weg; Schweizer haben einen eigenen Zugang über das Freizügigkeitsabkommen. Die entscheidende Arbeit beginnt bei der passenden Region, einer langfristig nutzbaren Wohnung und einer verlässlichen Versorgung.</p><p>Wenn du wegen Kriegssorge oder politischem Druck einen Ausweg vorbereitest, zählt außerdem, welchen Abstand du suchst: Spanien bleibt Teil der EU. Ein Standortwechsel innerhalb Europas und eine Basis außerhalb Europas erfüllen unterschiedliche Zwecke.</p>",
+  "primary": {
+    "label": "Vorbereitung für Spanien anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "countryContext": "/de/laender/spanien/",
+  "country": {
+    "name": "Spanien",
+    "slug": "spanien",
+    "region": "Europa",
+    "map": "countries/spanien-locator.svg",
+    "imageAlt": "Spanien auf der Europakarte mit seiner Lage auf der Iberischen Halbinsel",
+    "caption": "Spanien: Festland und Inselstandorte haben unterschiedliche Anreisewege.",
+    "summary": [
+      [
+        "DACH-Pass genau zuordnen",
+        "EU-Freizügigkeit für DE und AT; Schweizer Zugang über das Abkommen."
+      ],
+      [
+        "Wohnform bewusst wählen",
+        "Dauerwohnen und Saisonmiete haben unterschiedliche Vertragsregeln."
+      ],
+      [
+        "Kauf und Aufenthalt trennen",
+        "Ein neuer Immobilienkauf eröffnet seit April 2025 keinen Golden-Visa-Weg."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Für welches Lebensmodell Spanien passt",
+      "body": "<p>Spanien ist besonders dann eine konkrete Option, wenn du dein bisheriges Leben schrittweise verlagern willst: zunächst eine Erkundung, dann eine eigene Wohnung, später der vollständige Familienumzug. Eine gute Verbindung zu Kunden, Angehörigen oder deinem Unternehmen in DACH kann dabei wichtiger sein als maximale Entfernung.</p><p>Für eine Reserve brauchst du verlässliche Verfügbarkeit und jemanden, der die Unterkunft betreut. Für einen zweiten Wohnsitz müssen wiederkehrende Aufenthalte, Arbeit und steuerliche Bindungen zusammenpassen. Beim dauerhaften Auswandern nach Spanien richtet sich die Wohnortwahl nach Schule, Behandlung und täglichem Leben. Ein Ferienort, der im Sommer begeistert, kann für diese Aufgaben eine andere Entscheidung verlangen.</p><p>EXOBASIS übersetzt diese Unterschiede in einen konkreten Standort- und Ausführungsauftrag. Du musst weder zuerst eine Immobilie kaufen noch deine bisherige Existenz aufgeben, um eine nutzbare Option vorzubereiten.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Festland oder Insel: wie du deine Basis erreichst",
+      "body": "<p>Das spanische Festland lässt sich aus Mitteleuropa auch auf dem Landweg erreichen. Diese zusätzliche Möglichkeit kann für eine Familie mit viel Gepäck, Haustieren oder regelmäßig benötigten Hilfsmitteln ausschlaggebend sein. Auf Mallorca oder den Kanaren gehören Flug beziehungsweise Fähre fest zum Weg. Ein Inselhaus braucht deshalb eine andere Ankunftsplanung als eine Wohnung in Valencia oder Málaga.</p><p>Die Region entscheidet auch über örtliche Gefahren. Das Auswärtige Amt nennt Waldbrände, heftige Regenfälle und Überschwemmungen, besonders an der Mittelmeerküste und auf den Balearen. Auf den Kanaren kommen vulkanische Risiken und Calima hinzu. Bei einem Kauf werden deshalb nicht nur Haus und Aussicht betrachtet, sondern Zufahrt, Wasserabfluss, Gelände und erreichbare Ausweichwege.</p><p>Wenn deine Familie wegen einer sich verschärfenden Lage gehen will, sollten Wohnung, Schlüssel und Zahlungsfähigkeit bereits stehen. Auch eine spätere Rückkehr nach DACH wird mitgedacht: Wer hält dort den Betrieb am Laufen, wer betreut zurückbleibende Angehörige und welche Verträge laufen weiter?</p><p class=\"exb-source-note\"><a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/spaniensicherheit-210534\" rel=\"noreferrer\">Auswärtiges Amt: Spanien, Verkehr und Naturgefahren</a> <span>Abruf: 26.09.2026</span></p><p>Wenn dich eine mögliche Einberufung oder ein Ausreisehindernis beschäftigt, gehört die Klärung deiner persönlichen Pflichten in den Herkunftsfall. Der Länderplan verbindet das Ergebnis mit einem rechtzeitig nutzbaren Weg für deine Familie. <a href=\"/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/\">So vergleichst du Ausweichorte und Reisewege im Kriegsfall.</a></p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Mit Kindern nach Spanien auswandern",
+      "body": "<p>Beginne den Familienvergleich bei einer normalen Woche: Wo gehen die Kinder zur Schule? Wer bringt sie hin? Wo findet eine notwendige Behandlung statt? An welchem Ort kannst du arbeiten? Erst daraus entsteht eine sinnvolle Wohnlage.</p><ul><li><strong>Madrid:</strong> Als Großstadtstandort vergleichst du konkrete Stadtviertel anhand von Schule, Praxis, Arbeitsplatz und Wegen zum Flughafen. Eine weit entfernte Vorortimmobilie kann den Tagesablauf stärker bestimmen als erwartet.</li><li><strong>Valencia und Alicante:</strong> Küstennahe Optionen auf dem Festland. Zum Vergleich gehören ganzjähriges Wohnumfeld, Unterrichtssprache, sommerliche Belastung und die Lage zu möglichen Überflutungsbereichen.</li><li><strong>Málaga und Umgebung:</strong> Stadtwohnung, Küstengemeinde und Haus im Hinterland sind unterschiedliche Alltagsmodelle. Entscheidend ist, welche Wege ihr täglich und ganzjährig bewältigen wollt.</li><li><strong>Mallorca oder Kanaren:</strong> Eine bewusste Inselentscheidung. Prüfe die benötigte Behandlung und Schule auf der jeweiligen Insel, bevor der Blick auf eine schöne Immobilie den Standort festlegt.</li></ul><p>Wir organisieren die Erkundung und die Gespräche mit den tatsächlich benötigten Einrichtungen. Der Wohnungsvergleich folgt dann euren bestätigten Anforderungen.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Zweiter Wohnsitz: Verfügbarkeit und Steuerbezug zusammendenken",
+      "body": "<p>Bei einer zeitweise genutzten Wohnung ist die erste Frage, wann sie dir tatsächlich zur Verfügung steht. Eine durchgehend angemietete oder selbst genutzte eigene Wohnung ist anders planbar als eine Unterkunft, die der Eigentümer in der Hauptsaison anderweitig vermietet. Halte Nutzungszeiten, Schlüsselzugang und Abwesenheitsbetreuung schriftlich fest.</p><p>Ebenso wichtig ist die steuerliche Seite. Spanien stellt unter anderem auf mehr als 183 Aufenthaltstage im Kalenderjahr oder den Schwerpunkt wirtschaftlicher Interessen ab. Für einen dort lebenden Ehepartner und abhängige minderjährige Kinder besteht zudem eine widerlegbare Vermutung. Eine Planung nach dem Motto „unter 183 Tagen passiert nichts“ greift deshalb zu kurz. Aufenthaltsregistrierung und steuerliche Ansässigkeit sind getrennte Fragen.</p><p class=\"exb-source-note\"><a href=\"https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-tributacion-no-residentes/capitulo-01-contribuyente-residencia/residencia-personas-fisicas.html\" rel=\"noreferrer\">Agencia Tributaria: steuerliche Ansässigkeit natürlicher Personen</a> <span>Abruf: 26.09.2026</span></p><p>Auch als Nichtansässiger kann deine selbst genutzte oder leerstehende städtische Immobilie spanische Einkommensteuerpflichten auslösen. Die Steuerbehörde beschreibt dafür eine zugerechnete Immobilienrente. Diese laufende Pflicht gehört neben Gemeindesteuer, Hausgeld und Betreuung in die Kosten deiner Reserve.</p><p class=\"exb-source-note\"><a href=\"https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-tributacion-no-residentes/capitulo-03-tributacion-rentas-comunes-nr/rentas-imputadas-bienes-inmuebles-urbanos.html\" rel=\"noreferrer\">Agencia Tributaria: Eigennutzung und Leerstand bei Nichtansässigen</a> <span>Abruf: 26.09.2026</span></p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Aufenthalt in Spanien: deutsche, österreichische und Schweizer Fälle",
+      "body": "<h3>Freizügigkeit und Registrierung</h3><p>Als deutscher oder österreichischer Staatsangehöriger nutzt du die EU-Freizügigkeit. Schweizer Staatsangehörige fallen über das Abkommen mit der EU in den entsprechenden spanischen Regelungsbereich. Für die ersten drei Monate genügt grundsätzlich ein gültiger Personalausweis beziehungsweise Reisepass. Wer länger bleibt, muss die Voraussetzungen für den weiteren Aufenthalt erfüllen und die Registrierung persönlich innerhalb von drei Monaten ab Einreise beantragen.</p><p>Für Arbeitnehmer dient beispielsweise der Arbeitsvertrag oder Beschäftigungsnachweis als Grundlage; Selbstständige belegen ihre Tätigkeit. Wer in Spanien nicht arbeitet, weist ausreichende Mittel für sich und seine Familie sowie umfassenden Krankenversicherungsschutz nach. Das gilt etwa, wenn du als Rentner oder Pensionist von vorhandenem Einkommen lebst.</p><p>Der kommunale <em>Padrón</em> erfasst deinen tatsächlichen Wohnort. Daneben steht das <em>Certificado de Registro de Ciudadano de la Unión</em> aus dem Ausländerregister. Die enthaltene <em>NIE</em> ist deine Identifikationsnummer; eine isoliert erteilte NIE ersetzt die Aufenthaltsregistrierung nicht. Hat ein Familienmitglied einen anderen Pass, wird sein eigener Zugang, etwa als begünstigter Angehöriger, in die gemeinsame Vorbereitung aufgenommen.</p><p class=\"exb-source-note\"><a href=\"https://administracion.gob.es/pag_Home/es/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/residencia/obtencion-residencia/info-general\" rel=\"noreferrer\">Spanische Verwaltung: Aufenthaltsrecht und erfasste Staatsangehörige</a> <span>Abruf: 26.09.2026</span></p><p class=\"exb-source-note\"><a href=\"https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/residencia/obtencion-residencia/inscribirte-residente.html\" rel=\"noreferrer\">Spanische Verwaltung: Registrierung, Frist und Nachweise</a> <span>Abruf: 26.09.2026</span></p><h3>Immobilienkauf und Golden Visa</h3><p>Neue spanische Investorenvisa wurden zum 3. April 2025 abgeschafft. Ein heute neu geplanter Hauskauf schafft daher keinen Golden-Visa-Zugang. Du wählst den passenden Aufenthaltsweg aus deinen persönlichen Rechten und deiner Tätigkeit; die Immobilie wird danach als Wohnentscheidung behandelt.</p><p class=\"exb-source-note\"><a href=\"https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/vivienda-agenda-urbana/paginas/2025/020425-fin-golden-visa.aspx\" rel=\"noreferrer\">Spanische Regierung: Ende der Golden Visa am 3. April 2025</a> <span>Abruf: 26.09.2026</span></p><div class=\"exb-criteria-table\" role=\"region\" tabindex=\"0\" aria-labelledby=\"spanien-nutzungen-caption\"><table><caption id=\"spanien-nutzungen-caption\">Spanien: Rechte und Vorbereitung für deine geplante Nutzung</caption><thead><tr><th scope=\"col\">Nutzung</th><th scope=\"col\">Passendes Aufenthaltsrecht</th><th scope=\"col\">Nachweise und persönliche Vorbereitung</th><th scope=\"col\">Was EXOBASIS auf Auftrag erledigt</th></tr></thead><tbody><tr><th scope=\"row\">Krisenreserve / kurzfristig vorbereitete Zuflucht</th><td>Für einen kurzen Aufenthalt greifen bei DE-/AT-Pass die EU-Freizügigkeit und bei Schweizer Staatsangehörigen die entsprechenden Abkommensrechte. Soll aus der Ankunft ein Aufenthalt von mehr als drei Monaten werden, brauchst du die passende Grundlage als Erwerbstätiger oder mit ausreichenden Mitteln und Krankenversicherung.</td><td>Halte gültige Ausweise, Familienurkunden und die für euren weiteren Aufenthalt nötigen Arbeits-, Einkommens- oder Versicherungsbelege bereit. Für Angehörige mit anderem Pass klärst du vorab den eigenen Einreise- und Familienzugang. Eine NIE oder bereitstehende Wohnung erledigt das nicht.</td><td>Wir bereiten die personenweise Dokumentenakte und notwendige Registrierungstermine vor und organisieren eine erreichbare Unterkunft mit Übergabe. Soll die Familie bleiben, können Wohnung, Schule und Versorgung direkt mit vorbereitet werden.</td></tr><tr><th scope=\"row\">Dauerhafte Familienbasis</th><td>DE-/AT-Staatsangehörige und Schweizer nutzen ihren jeweiligen Freizügigkeits-/Abkommenszugang. Der dauerhafte Umzug wird auf tatsächliche Beschäftigung oder Selbstständigkeit gestützt; ohne Erwerbstätigkeit auf ausreichende Familienmittel und umfassenden Krankenversicherungsschutz. Angehörige mit anderem Pass brauchen den auf sie zutreffenden Familienweg.</td><td>Zur persönlichen Registrierung innerhalb von drei Monaten ab Einreise gehören die passenden Nachweise: etwa Arbeitsvertrag, belegte Selbstständigkeit oder Mittel und Versicherung. Bereite außerdem die erforderlichen Familienurkunden und den Padrón am tatsächlichen Wohnort vor. Den nötigen persönlichen Termin nimmst du selbst wahr.</td><td>Wir koordinieren die vollständige Akte, kommunale Anmeldung und Registrierungstermine. Die Wohnungssuche stimmen wir mit Schulwegen, Arbeitsalltag und erreichbarer Versorgung ab; die praktische Einrichtung lässt sich als eigener Auftrag anschließen.</td></tr><tr><th scope=\"row\">Mobile Nutzung</th><td>Bei wechselnden Aufenthalten bleibt entscheidend, ob du kurz zu Besuch bist oder dich tatsächlich in Spanien niederlässt. Für DE/AT/CH gelten die oben getrennten Rechte. Wer von Spanien aus arbeitet, plant mit seiner wirklichen Tätigkeit; der Nachweis als Nichterwerbstätiger ersetzt diese Einordnung nicht.</td><td>Halte Reisezeiten, Wohnort und Arbeitsmodell nachvollziehbar fest. Bei entsprechend längerem Aufenthalt bereitest du Registrierung und Tätigkeitsbelege oder, ohne Erwerbstätigkeit, Mittel und Versicherung vor. Arbeitgeber, Sozialversicherung und steuerliche Ansässigkeit werden zur tatsächlichen Arbeit geprüft; die Familienakte umfasst auch abweichende Pässe.</td><td>Wir stimmen Dokumente und Termine mit deinen Aufenthalten ab und koordinieren die nötige Fachklärung zur Tätigkeit. Die Wohnung kann auf Auftrag zwischen Besuchen kontrolliert und für die nächste Ankunft vorbereitet werden.</td></tr></tbody></table></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fspanien%2F#kurzanfrage\">Vorbereitung für Spanien anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Wohnung mieten oder Immobilie in Spanien kaufen",
+      "body": "<h3>Der richtige Mietvertrag für deine Nutzung</h3><p>Für die erste Erkundung bietet sich eine möblierte Übergangsunterkunft an. Willst du dort dauerhaft wohnen, muss der anschließende Vertrag diesen Zweck abbilden. Das spanische Mietgesetz unterscheidet die dauerhafte Wohnnutzung von einer Saisonmiete. Eine als Ferien- oder Saisonmiete angebotene Wohnung ist daher nicht einfach ein kürzerer Vertrag mit denselben Schutzregeln.</p><ul><li><strong>Dauerwohnen:</strong> Die gesetzliche Barkaution beträgt eine Monatsmiete. Bei kürzer vereinbarter Dauer greifen grundsätzlich Verlängerungsrechte bis fünf Jahre, bei einem Vermieter als juristischer Person bis sieben Jahre; gesetzliche Ausnahmen bleiben zu beachten.</li><li><strong>Saisonmiete:</strong> Sie fällt nach dem Mietgesetz unter eine andere Nutzungsart. Die gesetzliche Kaution beträgt dort zwei Monatsmieten. Nutzungsgrund, Enddatum und Verlängerung werden besonders wichtig.</li><li><strong>Ausstieg:</strong> Beim gewöhnlichen Wohnraummietvertrag erlaubt Artikel 11 den Ausstieg nach mindestens sechs Monaten mit mindestens 30 Tagen Vorlauf. Eine vertraglich vereinbarte Entschädigung kann hinzukommen.</li><li><strong>Vertragskosten:</strong> Beim Wohnraummietvertrag trägt nach Artikel 20 der Vermieter die Immobilienverwaltungs- und Vertragsabschlusskosten. Zusatzsicherheiten, laufende Nebenkosten und Inventar werden getrennt festgehalten.</li></ul><p>Vor einer Zahlung prüfen wir im Auftrag Identität und Berechtigung des Vermieters, Nutzungszeit, enthaltene Leistungen und Rückgabe. Einkommensunterlagen und die verlangte Mietsicherheit werden früh abgestimmt, damit du nicht erst nach der Reise von einer nicht erfüllbaren Bedingung erfährst.</p><p class=\"exb-source-note\"><a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003\" rel=\"noreferrer\">BOE: Mietgesetz, Artikel 2, 3, 9, 11, 20 und 36</a> <span>Abruf: 26.09.2026</span></p><h3>Hauskauf mit unabhängiger Kaufprüfung</h3><p>Auch ausländische Käufer können in Spanien Wohneigentum erwerben. Zur Vorbereitung gehören Identifizierung, NIE, nachvollziehbare Finanzierung und die Prüfung des konkreten Objekts. In ausgewiesenen militärischen Schutzzonen bestehen besondere Erwerbsregeln für Ausländer. Das Gesetz nimmt EU-Staatsangehörige grundsätzlich aus; die genaue Anwendung auf andere Staatsangehörigkeiten und das Grundstück gehört vor jede bindende Anzahlung.</p><p class=\"exb-source-note\"><a href=\"https://www.boe.es/eli/es/l/1975/03/12/8/con\" rel=\"noreferrer\">BOE: Gesetz 8/1975, Erwerb in Schutzzonen und EU-Ausnahme</a> <span>Abruf: 26.09.2026</span></p><p>Die <em>Nota simple</em> des zuständigen <em>Registro de la Propiedad</em> gibt Auskunft über Eigentümer, Beschreibung und eingetragene Lasten. Dazu kommen der Abgleich mit Catastro, Baugenehmigung und zulässiger Nutzung, Nachweise über Gemeinschaftskosten und Grundsteuer sowie die technische Besichtigung. Bei einem Kauf vom Bauträger sind auch dessen Berechtigung, die Baugenehmigung und die Absicherung von Vorauszahlungen wesentlich.</p><p>Ein unabhängiger örtlicher Rechtsberater begleitet diese Prüfung und den Vorvertrag; der Notar beurkundet den Abschluss. Danach folgen Steuerabwicklung, Registereintragung und Übergabe. EXOBASIS organisiert die Suche und Besichtigungen, beschafft die unabhängige Fachprüfung und koordiniert diese Schritte bis zu Schlüsseln, Versorgungsverträgen und vereinbarter Betreuung.</p><p class=\"exb-source-note\"><a href=\"https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/residencia/compraventa-bienes-inmuebles/notarias-registros-propiedad.html\" rel=\"noreferrer\">Spanische Verwaltung: Registerprüfung, Notar und Kaufabschluss</a> <span>Abruf: 26.09.2026</span></p><h3>Welche Kosten zum Kaufpreis kommen</h3><p>Beim gewöhnlichen Neubau-Ersterwerb vom Bauträger nennt die Steuerbehörde im spanischen IVA-Gebiet grundsätzlich 10 Prozent IVA. Bei einer gebrauchten Wohnung fällt regelmäßig ITP an; die konkrete Belastung richtet sich nach der zuständigen Region und dem Kauf. Hinzu kommen je nach Vorgang Dokumentensteuer, Notar, Register, unabhängige Rechts- und technische Prüfung sowie vereinbarte Vermittlungskosten. Für die Kanaren gilt ein eigenes indirektes Steuersystem. Zum Objektvergleich erhältst du eine Nebenkostenaufstellung für genau diesen Kauf.</p><p class=\"exb-source-note\"><a href=\"https://sede.agenciatributaria.gob.es/Sede/iva/iva-operaciones-inmobiliarias/compro-vivienda-tengo-que-pagar-itp.html\" rel=\"noreferrer\">Agencia Tributaria: IVA oder ITP beim Wohnungskauf</a> <span>Abruf: 26.09.2026</span></p><p><a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Wohnungssuche, Immobilienkauf und Ankunft in Spanien organisieren</a></p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Krankenversicherung und Pflege richtig anschließen",
+      "body": "<h3>Schulaufnahme vor der dauerhaften Wohnentscheidung</h3><p>In Spanien ist die Schulbildung von sechs bis 16 Jahren verpflichtend und im öffentlichen System kostenlos. Die autonomen Regionen verwalten ihre Schulen. Wohnadresse, örtliches Aufnahmeverfahren und Unterrichtssprache bestimmen deshalb die praktische Auswahl. Bei einem Wechsel in eine internationale oder deutsche Schule kommen deren eigene Aufnahmebedingungen und Gebühren hinzu.</p><p>Für deine Kinder bringen wir bisherige Zeugnisse, Klassenstufe, Sprachstand und den gewünschten Schulweg zusammen. Die Anmeldung am Wohnort und die tatsächliche Schulaufnahme werden mit dem Umzug abgestimmt, damit die Familie nicht dauerhaft aus einer Übergangsunterkunft heraus improvisieren muss.</p><p class=\"exb-source-note\"><a href=\"https://www.educacionyfp.gob.es/francia/estudiar-en-espana/sistema-educativo-espa-ol.html\" rel=\"noreferrer\">Spanisches Bildungsministerium: Schulpflicht und Zuständigkeit</a> <span>Abruf: 26.09.2026</span></p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Schulwechsel und Rechte der Kinder vorbereiten</a></p><h3>Versicherungsschutz ist ein eigener Umzugsschritt</h3><p>Bei Arbeit in Spanien gehört die Einordnung in das zuständige Sozialversicherungssystem zur Vorbereitung. Für Rentner und andere berechtigte Personen kann das Formular S1 des zuständigen Versicherers den Zugang im neuen Wohnland ermöglichen; es muss dort registriert werden. Welcher Staat zuständig ist, hängt von Arbeit, Wohnort und Rentenbezug ab, nicht allein vom Pass.</p><p>Für eine Erkundungsreise ist die Europäische Krankenversicherungskarte etwas anderes als die geregelte Absicherung eines dauerhaften Umzugs. Bei privater Versicherung werden längerer Aufenthalt, Vorerkrankungen, Selbstbehalte und das örtliche Behandlungsnetz konkret abgeglichen. Parallel organisieren wir die benötigte Praxis oder Klinik und den Übergang laufender Behandlung.</p><p>Wenn ein Angehöriger Pflege braucht, werden Umfang, tägliche Hilfe, Medikamente, Transport und Vertretung vor dem Miet- oder Kaufabschluss vereinbart. Die bisherigen Pflegeleistungen aus DACH dürfen nicht ungeprüft als unverändert verfügbar eingeplant werden.</p><p class=\"exb-source-note\"><a href=\"https://europa.eu/youreurope/citizens/health/when-living-abroad/health-insurance-cover/index_es.htm\" rel=\"noreferrer\">Your Europe: Krankenversicherung bei Wohnortwechsel und S1</a> <span>Abruf: 26.09.2026</span></p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Versicherung und Behandlung im Ausland verbinden</a></p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Arbeiten in Spanien und handlungsfähig bleiben",
+      "body": "<p>Wenn du dein Einkommen aus einem bestehenden Unternehmen oder Arbeitsverhältnis beziehst, kommt es auf die tatsächliche Tätigkeit an. Ein dauerhaftes Homeoffice in Spanien, regelmäßige Arbeit in mehreren Ländern und eine vorübergehende Entsendung sind verschiedene Fälle. Wir organisieren die notwendige steuerliche und sozialversicherungsrechtliche Klärung, bevor Arbeitsplatz und Familienumzug auf einen vermeintlich unveränderten Zustand gebaut werden.</p><p>Für den Bankzugang erläutert die Banco de España Identifizierung, gegebenenfalls NIE, Nachweis des Nichtansässigenstatus und die Prüfung der Mittelherkunft. Stelle diese Unterlagen zusammen, bevor größere Beträge für Miete oder Kauf übertragen werden. Eine Bank kann Herkunftsnachweise auch später verlangen.</p><p class=\"exb-source-note\"><a href=\"https://clientebancario.bde.es/pcb/es/blog/cuales-son-los-tramites-para-abrir-una-cuenta-.html\" rel=\"noreferrer\">Banco de España: Identifizierung, Mittelherkunft und Kontovertrag</a> <span>Abruf: 26.09.2026</span></p><p>Deine laufenden Zahlungen müssen von Anfang an funktionieren: Wohnkosten, Versicherungen, Schule und Geschäftsausgaben. Teste den vorgesehenen Zahlungsweg und den Wiederzugang bei Geräteverlust. Besteht die Sorge vor einer Kontensperre, gehört ein zweiter rechtmäßig nutzbarer Zugang in die Vorbereitung. Innerhalb des Euroraums umzuziehen verändert weder eine bestehende Sperre noch von selbst die Abhängigkeit von derselben Bank.</p><p>Für deine <a href=\"/de/leistungen/bankzugang-liquiditaet/\">Bank- und Liquiditätsvorbereitung</a> stimmt EXOBASIS die Identifikations- und Herkunftsnachweise mit den Anforderungen des gewählten Instituts ab. Wir koordinieren die Einrichtung und Erprobung deiner Haushaltszahlungen sowie des Zugriffs aus dem Ausland, damit Miete, Versorgung und Schule auch während deiner Abwesenheit bezahlt werden können.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Zahlungsfähig bleiben, wenn ein Konto ausfällt</a></p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Die Reihenfolge vor deiner Ankunft",
+      "body": "<ol><li><strong>Personen und Rechtswege festhalten:</strong> Pässe aller Angehörigen, geplanter Aufenthalt, Tätigkeit und vorhandene Rechte bestimmen die Unterlagen.</li><li><strong>Standort eingrenzen:</strong> Schule, Behandlung und tägliche Wege führen zu konkreten Wohnlagen und einem realistischen Suchprofil.</li><li><strong>Übergangswohnung und Nachweise vorbereiten:</strong> Pass, Einkommens- oder Arbeitsnachweise, Versicherungsdeckung sowie relevante Familienurkunden liegen für die tatsächlichen Verfahren bereit.</li><li><strong>Wohnort anmelden und registrieren:</strong> Kommunaler Padrón und erforderliche Aufenthaltsregistrierung werden mit Terminen und verwendbaren Originalen organisiert.</li><li><strong>Alltag anschließen:</strong> Schulaufnahme, Gesundheitsregistrierung, Versorgung, Bankzugriff und ein tatsächlich arbeitsfähiger Platz folgen in abgestimmter Reihenfolge.</li></ol><p>EXOBASIS übernimmt die beauftragte Dokumenten- und Terminorganisation und bindet benötigte lokale Fachstellen ein. Du siehst, welche Voraussetzung bereits erfüllt ist und welcher Schritt als Nächstes ansteht.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt für Spanien vorbereiten</a></p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Deine Wohnung und Vorbereitung betreuen lassen",
+      "body": "<p>Eine Wohnung, die monatelang leer steht, braucht mehr als einen hinterlegten Schlüssel. Die Betreuung umfasst nach Vereinbarung regelmäßige Kontrollen, Prüfung von Wasser und Strom, Reparaturkoordination, Post, Hausverwaltung und die Vorbereitung deiner Ankunft. Bei Küsten- oder Inselobjekten gehören Feuchtigkeit und wetterbedingte Schäden in den Kontrollumfang.</p><p>Parallel bleiben Mietfristen, Versicherungen, Schul- und Gesundheitstermine sowie steuerliche Pflichten im Blick. Ändern sich dein tatsächlicher Aufenthalt oder deine berufliche Tätigkeit, wird die fachliche Einordnung aktualisiert. Die Außenbasis wächst dadurch mit deinem Leben, statt nach dem ersten Umzugstermin ungepflegt zu bleiben.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Deine Spanien-Vorbereitung laufend betreuen</a></p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Spanien konkret vorbereiten lassen",
+      "body": "<p>Du kannst EXOBASIS mit dem passenden Länder- und Standortvergleich, einer Mietsuche, der Dokumentenorganisation oder dem vollständigen Ankommen beauftragen. Ein Immobilienkauf ist ein eigener möglicher Baustein: Bedarf und Lage festlegen, Suchauftrag ausführen, Besichtigungen organisieren, unabhängige Titel- und Kaufprüfung beschaffen, Vertrag und Abschluss koordinieren sowie Übergabe und Betreuung organisieren.</p><p>Wenn Spanien bereits feststeht, nutzen wir deine Vorarbeit. Nenne uns die beteiligten Personen, deine gewünschte Nutzung und die noch offenen Aufgaben. Wir vereinbaren daraus einen konkreten Umfang und die Kosten. Für eine erste Zuordnung steht dir die kostenlose 20-Minuten-Orientierung offen.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Spanien mit passenden Standortalternativen vergleichen</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fspanien%2F#kurzanfrage\">Vorbereitung für Spanien anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div><div class=\"exb-country-comparisons\"><h3>Zwei andere Antworten auf dieselbe Frage</h3><article><p><a class=\"exb-text-link\" href=\"/de/laender/portugal/\">Portugal als persönliche Ausweichoption</a></p><p>Portugal: Prüfe vorhandene Rechte und Familienalltag unter einem anderen europäischen Aufenthalts- und Organisationsrahmen.</p></article><article><p><a class=\"exb-text-link\" href=\"/de/laender/schweiz/\">Schweiz als persönliche Ausweichoption</a></p><p>Schweiz: Vergleiche eine nahe europäische Option mit eigenem Rechtsrahmen, kantonalen Aufgaben und gesonderten Versicherungsbedingungen.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Kann ich mit einem Hauskauf heute noch ein spanisches Golden Visa erhalten?",
+    "answer": "Für neue Vorhaben nicht: Die Investorenvisa wurden zum 3. April 2025 abgeschafft. Deutsche und Österreicher nutzen grundsätzlich die EU-Freizügigkeit, Schweizer den Zugang über das Freizügigkeitsabkommen. Ein Immobilienkauf wird als eigenständige Wohn- und Vermögensentscheidung vorbereitet. Für bestehende Alttitel gelten die jeweiligen Übergangsregeln."
+  },
+  "editorialSources": [
+    "es",
+    "eu"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 1128,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1130,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1131,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1132,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1133,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1134,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1135,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1136,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1137,
+      "target": "/en/countries/spain/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1480,
+      "target": "/de/laender/portugal/",
+      "label": "Portugal als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1482,
+      "target": "/de/laender/schweiz/",
+      "label": "Schweiz als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Auswandern nach Spanien: Wohnen, Familie und Arbeit vorbereiten"
+}

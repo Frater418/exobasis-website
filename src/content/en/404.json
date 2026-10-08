@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/404/",
+  "lang": "en",
+  "title": "Page not found",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-5062cd5c99b867"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-6b8f8cea474a45"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "kind": "error",
+  "eyebrow": "404 / EXOBASIS",
+  "seoTitle": "Page not found | EXOBASIS",
+  "description": "The page you requested could not be found. Continue to EXOBASIS guides, practical services, country options or the enquiry page.",
+  "intro": "<p>We could not find the page you tried to open. The link may be out of date or the address incomplete. Choose one of the routes below to continue.</p>",
+  "status": {
+    "id": "f-fehler",
+    "title": "This address does not lead to a page",
+    "body": "If you typed the address, check it for a missing or extra character. Otherwise, choose the topic, service or country you were looking for."
+  },
+  "choices": {
+    "id": "f-einstiege",
+    "title": "Where would you like to go?",
+    "items": [
+      {
+        "route": "/en/knowledge/",
+        "title": "Practical guides",
+        "description": "Find answers about preparing to leave, protecting access to money, documents and family life abroad."
+      },
+      {
+        "route": "/en/services/",
+        "title": "Services and practical help",
+        "description": "Find the work you want EXOBASIS to plan, organise or carry out."
+      },
+      {
+        "route": "/en/countries/",
+        "title": "Countries and options",
+        "description": "Explore country options before choosing a place for your family or a second base."
+      },
+      {
+        "route": "/en/enquiry/",
+        "title": "Contact EXOBASIS",
+        "description": "Ask about a specific task or help deciding what to do first."
+      }
+    ]
+  }
+}

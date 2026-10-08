@@ -1,0 +1,26 @@
+{
+  "name": "exobasis-static",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "EXOBASIS: konsolidierte lokale Website aus Paket 03, 04 und 05",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:release": "node scripts/build.mjs --mode production",
+    "preview": "node scripts/serve.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "check": "node scripts/check.mjs",
+    "check:release": "node scripts/check.mjs --mode production",
+    "test": "node --test tests/*.test.mjs",
+    "verify": "python scripts/verify-delivery.py"
+  },
+  "dependencies": {
+    "nodemailer": "10.0.10"
+  },
+  "devDependencies": {
+    "smtp-server": "3.19.13"
+  }
+}

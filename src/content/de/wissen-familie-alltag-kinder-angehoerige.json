@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/familie-alltag/kinder-angehoerige/",
+  "lang": "de",
+  "title": "Mit Kindern und Angehörigen vorbereitet gehen",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-0292b9d1a42d4d"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-02b6751b0c8b04"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-be7b4f69cc6f25"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "EXOBASIS Wissen",
+  "seoTitle": "Auswandern mit Kindern und Angehörigen | EXOBASIS",
+  "description": "Sorgerecht, Reisepapiere, Schule, Haustiere und Ankunft verbinden. So bereitest du den Ausweg für jedes Familienmitglied vor.",
+  "intro": "<p>Du möchtest deine Familie rechtzeitig in Sicherheit bringen oder mit ihr ein neues Leben aufbauen. Dafür muss der Weg für jedes Mitglied funktionieren: für das Kind mit einem anderen Pass, den getrennt lebenden Elternteil, die Großmutter mit Unterstützungsbedarf und den Hund, der mitkommen soll.</p><p>Auswandern mit Kindern beginnt deshalb bei den Personen und ihren Rechten. Danach folgen Schule, Versorgung, Reise und eine Unterkunft, in der euer Alltag tatsächlich möglich ist. Ein Plan, der nur für den Hauptentscheider funktioniert, lässt die entscheidenden Fragen offen.</p>",
+  "primary": {
+    "label": "Vorbereitung für Kinder und Angehörige anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Ein gemeinsamer Weg für unterschiedliche Bedürfnisse",
+    "facts": [
+      [
+        "Rechte",
+        "Sorge, Zustimmung und Aufenthalt je Person"
+      ],
+      [
+        "Alltag",
+        "Schule, Betreuung und Versorgung zusammenführen"
+      ],
+      [
+        "Ankunft",
+        "Reise und nutzbare Unterkunft organisieren"
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift als Symbol für geordnete Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Für jedes Familienmitglied einen vollständigen Weg festhalten",
+      "body": "<p>Beginne mit einer Personenübersicht. Für jeden Menschen gehören Identität, Staatsangehörigkeit, Reisedokument, Aufenthaltsrecht, benötigte Unterstützung und eine erreichbare Vertretung zusammen. Eine andere Staatsangehörigkeit kann bedeuten, dass ein Elternteil ein Visum braucht, während die anderen visumfrei reisen.</p><p>Denke dabei auch an getrennte Abreisen: Wer begleitet welches Kind, wenn ein Elternteil später kommt? Welche Dokumente müssen bei dieser Person sein? Wer darf am Ziel eine Behandlung oder Schulaufnahme veranlassen? Der Ersatzablauf muss dieselben Rechte respektieren wie die gemeinsame Reise.</p><table><caption>Die Personenübersicht für euren Ausweg</caption><thead><tr><th scope=\"col\">Bereich</th><th scope=\"col\">Was für jede Person feststeht</th></tr></thead><tbody><tr><th scope=\"row\">Identität und Reise</th><td>Pass, Gültigkeit, Staatsangehörigkeit und benötigte Visa entlang der Route</td></tr><tr><th scope=\"row\">Aufenthalt</th><td>Erlaubte Dauer und Grundlage für einen längeren Verbleib</td></tr><tr><th scope=\"row\">Sorge und Vertretung</th><td>Wer entscheiden darf und welcher Nachweis dafür vorliegt</td></tr><tr><th scope=\"row\">Versorgung</th><td>Medikamente, Hilfsmittel, Betreuung und zuständige Kontaktperson</td></tr><tr><th scope=\"row\">Getrennte Reise</th><td>Berechtigte Begleitung, Treffpunkt und erreichbarer Ersatzkontakt</td></tr></tbody></table><p>Bei einer geplanten Geburt im Ausland sind drei Fragen getrennt zu klären: Welche Staatsangehörigkeit erhält das Kind durch Abstammung oder Geburtsort? Kann daraus für die Eltern ein Aufenthaltsweg entstehen? Und unter welchen eigenen Voraussetzungen könnten sie später selbst die Staatsangehörigkeit erwerben? Das Recht des Kindes überträgt sich nicht automatisch auf die Eltern. Lege für jede Stufe die erforderlichen Nachweise, Aufenthaltsbedingungen und den zuständigen Verfahrensweg fest, bevor du daraus eine Familienentscheidung ableitest. Bei einer Adoption klärst du gesondert, ob und unter welchen Voraussetzungen das Kind dadurch eine Staatsangehörigkeit erwirbt. Ein möglicher Aufenthaltsweg und ein späterer eigener Staatsangehörigkeitserwerb der Adoptiveltern sind davon getrennt zu prüfen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\" data-route=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\"><span>Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit</span><span aria-hidden=\"true\">→</span></a></div>",
+      "criteria": {
+        "title": "Privat vorzubereitende Personenübersicht",
+        "headers": [
+          "Frage",
+          "Einzeln klären"
+        ],
+        "rows": [
+          [
+            "Wer reist?",
+            "Sofort, später oder zunächst nicht"
+          ],
+          [
+            "Wer darf entscheiden?",
+            "Eigenentscheidung, Sorge oder Vertretung"
+          ],
+          [
+            "Was muss verfügbar sein?",
+            "Dokument, Betreuung, Versorgung und Kontakt"
+          ],
+          [
+            "Was ist noch offen?",
+            "Konkreter Nachweis oder zuständige Entscheidung"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Ausreise mit Kind ohne Vater oder Mutter: Reise und Umzug unterscheiden",
+      "body": "<p>Reist ein Kind allein, mit einer anderen erwachsenen Person oder nur einem Elternteil, können zusätzliche Einwilligungsdokumente erforderlich sein. Dafür gibt es keine einheitliche EU-Regel. Herkunfts-, Transit- und Zielland sowie die Fluggesellschaft können unterschiedliche Nachweise verlangen. <a href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/travel-documents-minors/index_de.htm\">Your Europe: Reisedokumente für Minderjährige</a></p><p>Eine Reisevollmacht beantwortet außerdem nicht, wer über eine dauerhafte Verlegung des Lebensmittelpunkts entscheiden darf. In Deutschland verlangt § 1687 BGB bei getrennt lebenden Eltern mit gemeinsamer Sorge Einvernehmen über Angelegenheiten von erheblicher Bedeutung. Bei einer nicht auflösbaren Meinungsverschiedenheit kann das Familiengericht nach § 1628 BGB die Entscheidung einem Elternteil übertragen. <a href=\"https://www.gesetze-im-internet.de/bgb/__1687.html\">§ 1687 BGB</a> <a href=\"https://www.gesetze-im-internet.de/bgb/__1628.html\">§ 1628 BGB</a></p><p>In Österreich kommt es zusätzlich auf die bestehende Betreuungsregelung an. Die Justizbroschüre nennt für den Auslandsumzug bei gemeinsamer Obsorge grundsätzlich die Zustimmung des anderen Elternteils oder eine vorherige gerichtliche Genehmigung. Für getrennt lebende Eltern mit vereinbarter oder gerichtlich festgelegter hauptsächlicher Betreuung beschreibt sie eine wichtige Ausnahme: Der Betreuungselternteil darf den Wohnort allein verlegen, muss den anderen Elternteil aber rechtzeitig vorher verständigen und dessen Äußerung im Hinblick auf das Kindeswohl berücksichtigen. Unterlassene Verständigung kann einen Sorgerechtsbruch nach dem Haager Kindesentführungsübereinkommen begründen. In Schweizer Fällen weist das Bundesamt für Justiz ausdrücklich auf das widerrechtliche Verbringen oder Zurückhalten im Ausland hin. Die zuständige familienrechtliche Prüfung muss deshalb vor Reisebuchung klären, wer den Aufenthaltsort bestimmen darf. <a href=\"https://www.justiz.gv.at/service/familienrecht/obsorge-und-kontaktrecht/broschuere-obsorge-und-kinderrechte.ec.de.html\">Österreichische Justiz: Obsorge und Kinderrechte</a> <a href=\"https://www.bj.admin.ch/de/internationale-kindesentfuehrungen-ausuebung-des-besuchsrechts\">Schweizer Bundesamt für Justiz: internationale Kindesentführungen</a></p><p>Auch Angst vor Krieg ersetzt weder Zustimmung noch einen erforderlichen Gerichtsbeschluss. Gerade wenn ein Elternteil ausfällt, nicht erreichbar ist oder widerspricht, gehört der rechtmäßige Ersatzweg früh in euren Plan. EXOBASIS organisiert die erforderlichen Dokumenten- und Fachaufträge und führt die verwendbaren Nachweise mit dem Reisebestand zusammen.</p><p>Mit <a href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a> organisieren wir die vereinbarte Beschaffung und Zusammenstellung der benötigten Familiennachweise. Im <a href=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\">Notfallordner für deine Familie</a> werden Originalablage, berechtigte Begleitung und der Weg zu diesen Unterlagen so verbunden, dass auch eine getrennte Abreise vorbereitet ist.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Mit schulpflichtigen Kindern auswandern: den Übergang organisieren",
+      "body": "<p>Für EU-Bürger haben Kinder in einem anderen EU-Land unter denselben Bedingungen wie die dortigen Staatsangehörigen Zugang zur Schule. Unterschiede zwischen Schulsystemen und die Anerkennung von Zeugnissen bleiben trotzdem relevant. Ein grundsätzlicher Zugang sagt noch nichts über den Platz in deiner Wunschschule aus. <a href=\"https://europa.eu/youreurope/citizens/education/school/enrol/index_en.htm\">Your Europe: Schulbeginn in einem anderen EU-Land</a></p><p>Kläre mit der konkreten Schule die Alters- und Klassenstufe, erforderliche Zeugnisse, Unterrichtssprache, Aufnahmeverfahren, Kosten und den möglichen Starttermin. Ergänze den täglichen Weg, Nachmittagsbetreuung und Unterstützung bei Sprache oder besonderem Lernbedarf. Eine Schule passt nur, wenn auch der Familienalltag darum herum tragfähig ist.</p><p>Mit der bisherigen Schule und zuständigen Schulbehörde regelst du die tatsächliche Abmeldung, einen etwaigen vorübergehenden Aufenthalt und die Nachweise über den weiteren Schulbesuch. Ein Onlinekurs allein beantwortet die Schulpflichtfrage nicht. Bewahre Zeugnisse und Lernstand so auf, dass auch eine spätere Rückkehr oder ein weiterer Wechsel möglich bleibt.</p>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Angehörige mit Unterstützungsbedarf in die Entscheidung einbeziehen",
+      "body": "<p>Bei erwachsenen Angehörigen stehen eigener Wille, wirksame Vertretung und tatsächliche Versorgung im Mittelpunkt. Gemeinsames Reisen, späteres Nachholen und ein vorerst organisierter Verbleib sind unterschiedliche Aufgaben. Sprecht aus, welche Lösung die betroffene Person selbst möchte und welche Hilfe sie täglich braucht.</p><p>Für Pflege, regelmäßige Behandlung oder spezielle Medikamente muss der Übergang vor dem Reisetermin organisiert sein. Eine finanzierte Versicherung ersetzt weder eine bestätigte Aufnahme noch eine erreichbare Facharztpraxis. Aus dem konkreten Bedarf folgen Unterkunft, Begleitung, Transportart und die erste Versorgung am Ziel.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\" data-route=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\"><span>Krankenversicherung und Versorgung im Ausland</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/pflege-medikamente/\" data-route=\"/de/wissen/familie-alltag/pflege-medikamente/\"><span>Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Auswandern mit Hund: Route und Begleitung früh festlegen",
+      "body": "<p>Für die nichtkommerzielle Reise mit Hund, Katze oder Frettchen innerhalb der EU gehören Identifizierung, gültige Tollwutimpfung und der passende Heimtierausweis zu den Grundvoraussetzungen. Bei einer Erstimpfung beginnt die Gültigkeit grundsätzlich frühestens 21 Tage nach Abschluss des Impfprotokolls; Sonderfälle junger Tiere und einzelne Zielanforderungen sind gesondert geregelt. <a href=\"https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en\">EU-Kommission: Heimtierreise innerhalb der EU</a></p><p>Reist eine bevollmächtigte Person mit dem Tier, statt dass du es selbst begleitest, ist für diesen nichtkommerziellen EU-Fall auch dein zeitlicher Reisebezug wichtig: Die Kommission nennt eine Reise des Eigentümers innerhalb von fünf Tagen vor oder nach dem Tier und eine schriftliche Erklärung. Für eine Einreise aus einem Drittland oder eine andere Tierart gelten andere Anforderungen.</p><p>Lass Tierarzt, Beförderer und zuständige Einfuhrstelle den konkreten Ablauf bestätigen. Rasse, Größe, Gesundheitszustand, Transportbox, Umsteigeorte und Temperaturbedingungen können die Beförderung beeinflussen. Plane zugleich einen verantwortlichen Betreuungsplatz, falls das Tier erst später nachreisen kann.</p>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Eine Unterkunft wählen, in der ihr wirklich ankommen könnt",
+      "body": "<p>Für die erste Zeit kann eine möblierte Unterkunft den Druck nehmen, sofort einen langfristigen Miet- oder Kaufvertrag abzuschließen. Sie muss zu eurer Ankunft passen: genug Platz, sichere Schlafmöglichkeiten, gegebenenfalls stufenloser Zugang, verlässliche Schlüsselübergabe und erreichbare Einkaufsmöglichkeiten.</p><p>Bei langfristiger Miete oder Immobilienkauf gibst du die Familienanforderungen als Suchauftrag vor. Schulweg, medizinische Versorgung, Alltagssprache und Unterstützung zählen ebenso wie das Haus selbst. EXOBASIS organisiert nach Auftrag Suche, Besichtigungen, unabhängige lokale Titel- und Kaufprüfung, Abschlusskoordination und Übergabe. Für eine nur zeitweise genutzte Außenbasis kommt die Betreuung während eurer Abwesenheit dazu.</p><p>Der erste Tag wird konkret geplant: Transfer für alle Personen und Tiere, Zugang zur Unterkunft, erste Lebensmittel, Medikamente und ein erreichbarer Ansprechpartner. Bestätige diese Punkte mit den tatsächlich beteiligten Stellen, bevor du dich auf die gemeinsame Ankunft verlässt.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/ankunft-organisieren/\" data-route=\"/de/leistungen/ankunft-organisieren/\"><span>Ankunft im Zielland organisieren</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-7",
+      "title": "Den Kindern Halt geben und die Vorbereitung ausführen lassen",
+      "body": "<p>Erkläre den Kindern altersgerecht, was feststeht und was noch offen ist. Bekannte Abläufe, vertraute Dinge und verlässlicher Kontakt zu wichtigen Menschen geben dem Übergang Halt. Plane auch Zeit für die Eingewöhnung ein, statt den ersten Schultag, Behördenwege und deinen Arbeitsstart auf denselben Moment zu legen.</p><p>Wenn die Rückkehr offenbleibt, hältst du Dokumente, Bildungsnachweise und Ansprechpartner dafür bereit. Bei einem dauerhaften Neubeginn geht es anschließend um Sprache, soziale Kontakte und den verlässlichen Alltag.</p><p>EXOBASIS führt die beauftragten Vorbereitungsarbeiten für eure Familie zusammen: Dokumente, Fachklärung, Schule und Betreuung, Wohnlösung, Reise und Ankunft. Du kannst einen einzelnen Baustein anfragen oder den gesamten Übergang organisieren lassen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/familie-unternehmen/\" data-route=\"/de/leistungen/familie-unternehmen/\"><span>Familie und Unternehmen handlungsfähig halten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Alle Personen und ihre Rechte berücksichtigen"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Sorgeberechtigung und Reiseunterlagen klären"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Schule, Betreuung und Sprache vorbereiten"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Besondere Angehörige und Versorgung mitnehmen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Haustiere, Transit und Begleitung vorbereiten"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Unterkunft und organisierte Ankunft sichern"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Rückkehr offenhalten oder den neuen Alltag aufbauen"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 624,
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 625,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 621,
+        "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+        "label": "Krankenversicherung und Versorgung im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krankenversicherung und Behandlung",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 622,
+        "target": "/de/wissen/familie-alltag/pflege-medikamente/",
+        "label": "Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Pflege und medizinische Abhängigkeiten",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 623,
+        "target": "/de/leistungen/ankunft-organisieren/",
+        "label": "Ankunft im Zielland organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 626,
+        "target": "/de/leistungen/familie-unternehmen/",
+        "label": "Familie und Unternehmen handlungsfähig halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 627,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      }
+    ],
+    "seeding": [
+      "D19",
+      "D20",
+      "D21"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Auswandern mit Kindern: als Familie vorbereitet gehen"
+}

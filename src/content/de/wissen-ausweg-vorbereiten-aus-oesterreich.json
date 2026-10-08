@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+  "lang": "de",
+  "title": "Aus Österreich einen Ausweg vorbereiten",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-d6022a27200c18"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-5a7c16c50cdba2"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-770b74d19817c3"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "EXOBASIS Wissen",
+  "seoTitle": "Auswandern aus Österreich vorbereiten | EXOBASIS",
+  "description": "Den Weg aus Österreich vorbereiten: Abmeldung, Wehrpflicht im Ausland, Unterlagen, Versorgung und Ankunft mit der Familie aufeinander abstimmen.",
+  "intro": "<p>Wenn du aus Österreich einen Ausweg vorbereitest, sollen deine Familie, deine Arbeit und dein Erarbeitetes mitgedacht sein. Der Plan kann ein rechtzeitig eingerichteter Rückzugsort sein oder ein dauerhafter Neubeginn. Die österreichischen Ausgangspflichten bleiben dabei ein eigener Teil der Vorbereitung.</p><p>Für österreichische Staatsbürger gehören auch Wehrstatus und die dazugehörigen Auslandsregeln in diesen Plan. Wohnsitzmeldung, Wehrpflicht und steuerliche Ansässigkeit folgen unterschiedlichen Voraussetzungen. Du brauchst eine klare Antwort für deinen Fall, bevor Termine und Reise feststehen.</p>",
+  "primary": {
+    "label": "Vorbereitung aus Österreich anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Österreichische Pflichten und dein Ziel zusammenführen",
+    "facts": [
+      [
+        "Wohnsitz",
+        "Tatsächliche Unterkunftsaufgabe statt bloßer Reise"
+      ],
+      [
+        "Wehrstatus",
+        "Auslandsregeln samt Ausnahmen zuordnen"
+      ],
+      [
+        "Ankunft",
+        "Unterkunft, Familie und Versorgung vorbereiten"
+      ]
+    ],
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Karte und Kompass als Symbol für die persönliche Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Deine Ausgangslage: Wohnsitz, Pass und Auslandsziel",
+      "body": "<p>Ein Wohnsitz in Österreich sagt noch nicht, mit welchen Rechten du in einem anderen Land leben kannst. Erfasse für jede mitreisende Person Staatsangehörigkeit, Reisedokument und bestehende Aufenthaltsrechte. Ein österreichischer Aufenthaltstitel und ein österreichischer Pass eröffnen unterschiedliche Wege.</p><p>Entscheide anschließend, ob du deine Wohnung tatsächlich aufgibst oder zunächst einen zweiten nutzbaren Standort vorbereitest. Für einen zeitweisen Rückzugsort musst du die neue Unterkunft, Versorgung und Aufenthaltsdauer organisieren, ohne deshalb jede österreichische Bindung zu beenden. Für einen dauerhaften Wegzug kommt die geordnete Übergabe oder Auflösung dieser Bindungen hinzu.</p><p>Willst du als österreichischer Staatsbürger eine weitere Staatsangehörigkeit erwerben, kläre die Beibehaltung vor diesem Erwerb. Nach § 27 StbG verlierst du die österreichische Staatsbürgerschaft, wenn du die fremde auf eigenen Antrag, durch Erklärung oder mit ausdrücklicher Zustimmung erwirbst und dir die Beibehaltung nicht vorher bewilligt wurde. Ein automatischer Erwerb bei Geburt ist davon zu unterscheiden. Die Bewilligung nach § 28 setzt einen anerkannten gesetzlichen Grund voraus und ist keine bloße Formalität. Die <a href=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\">Vertiefung zu vorhandenen Rechten und Staatsangehörigkeit</a> hilft dir, diesen Weg von einem Aufenthaltsrecht zu trennen; die maßgeblichen Regeln stehen in <a href=\"https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10005579\">§§ 27 und 28 des Staatsbürgerschaftsgesetzes</a>.</p>",
+      "after": "<div class=\"exb-origin-alternatives\"><h3>Anderer heutiger Wohnsitz</h3><p>Diese Seiten behandeln andere Ausgangslagen. Sie sind keine Übersetzungen dieses Beitrags.</p><div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\"><span>Aus Deutschland einen Ausweg vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-schweiz/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-schweiz/\"><span>Wegzug aus der Schweiz vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uk/\" data-route=\"/en/knowledge/prepare-your-way-out/leaving-uk/\"><span>Leaving the UK with a prepared alternative (English)</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\" data-route=\"/en/knowledge/prepare-your-way-out/leaving-uae/\"><span>Leaving the UAE or preparing a second option (English)</span><span aria-hidden=\"true\">→</span></a></div></div>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Abmeldung und Wehrpflicht: Diese Regeln sind zu trennen",
+      "body": "<p>Wenn du deine Unterkunft in Österreich aufgibst, erfolgt die Abmeldung bei der zuständigen Meldebehörde innerhalb von drei Tagen davor oder danach. Gemeindeamt, Magistrat beziehungsweise Magistratisches Bezirksamt sind die passenden Stellen. Bewahre die Bestätigung für spätere Verfahren auf. <a href=\"https://www.bmeia.gv.at/reise-services/leben-im-ausland/uebersiedlung/uebersiedlung-ins-ausland\">BMEIA: Übersiedlung ins Ausland</a></p><p>Die amtliche <a href=\"https://eausweise.oesterreich.gv.at/de/themen/persoenliche_dokumente_und_bestaetigungen/an__abmeldung_des_wohnsitzes/Seite.1180220\">Verfahrensseite zur Wohnsitzabmeldung</a> nennt persönliche und postalische Abmeldung, die Überbringung durch einen Boten sowie das Online-Meldewesen mit ID Austria oder EU Login. Für die persönliche oder postalische Abmeldung wird je Person ein eigener unterschriebener Meldezettel benötigt. Bei Übermittlung gehören Original-Identitätsnachweise oder beglaubigte Kopien dazu. Eine gewöhnliche E-Mail oder ein Fax ist kein vorgesehener Abmeldeweg. Prüfe den gewählten Meldeservice und seine Unterlagenanforderungen vor der Einreichung; die schriftliche Bestätigung schließt den Vorgang ab.</p><p><strong>Wehrpflicht bei längerem Auslandsaufenthalt.</strong> Nach § 11 Absatz 4 Wehrgesetz müssen Wehrpflichtige die Verlegung ihres Aufenthalts ins Ausland für länger als sechs Monate unverzüglich dem Militärkommando melden. Bei einem Aufenthalt von mehr als sechs Monaten ist außerdem der jeweilige ausländische Wohnsitz unverzüglich der zuständigen österreichischen Vertretungsbehörde mitzuteilen. Die Rückverlegung nach Österreich ist binnen drei Wochen dem Militärkommando zu melden.</p><p>Von diesen Meldepflichten nach Absatz 4 ausgenommen sind Wehrpflichtige mit festgestellter dauernder Untauglichkeit sowie Personen, die den Grundwehrdienst vollständig geleistet haben und dem Reservestand angehören. Der vollständig geleistete Grundwehrdienst allein genügt für die zweite Ausnahme nicht: Die Zugehörigkeit zum Reservestand gehört dazu.</p><p><strong>Die ersten sechs Monate nach dem Grundwehrdienst.</strong> Absatz 6 enthält einen eigenen Tatbestand: Jede Änderung des Hauptwohnsitzes ist in dieser Zeit unverzüglich dem Militärkommando zu melden. Für ein Verlassen Österreichs von mehr als drei Tagen ist grundsätzlich eine Bewilligung nötig. Sie gilt als erteilt, wenn der schriftliche Antrag nicht innerhalb von zwei Wochen nach seinem Einlangen untersagt wird. Eine besondere Ausnahme betrifft die Rückkehr zu einem schon unmittelbar vor dem Grundwehrdienst und bei der Entlassung bestehenden Auslands-Hauptwohnsitz, solange dieser beibehalten wird.</p><p>Absatz 5 ermöglicht zudem eine Verordnung, die aus wichtigen militärischen Interessen für bestimmte Wehrpflichtige eine Ausreisebewilligung verlangt. Der Gesetzestext ist deshalb von einer tatsächlich erlassenen Verordnung zu unterscheiden. Frage mit deinem konkreten Wehrstatus beim Militärkommando nach und bewahre die Antwort sowie erforderliche Bewilligungen im Reisebestand auf. <a href=\"https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=20001612\">RIS: Wehrgesetz 2001, § 11 Absätze 4 bis 6</a></p><p>Zivildienstpflicht und deren Meldungen gehören in ein eigenes Verfahren bei der zuständigen Zivildienststelle. Ein Auslandswohnsitz ist kein Ersatz für die Klärung eines offenen Einberufungs- oder Zuweisungsbescheids.</p>"
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Steuer, Arbeit und Versicherung rechtzeitig zusammenbringen",
+      "body": "<p>Eine melderechtliche Abmeldung beantwortet weder die Steuerfrage noch die Finanzierung deiner Krankenversorgung. Für die steuerliche Einordnung zählen die tatsächlichen Verhältnisse, fortbestehende Wohnungen, Einkünfte und die Regeln des Ziellands. Kapitalvermögen und betriebliche Werte benötigen vor dem Wegzug eine eigene Prüfung.</p><p>Lege der Steuerberatung deshalb vor der Terminentscheidung deine Beteiligungen, Depots, Immobilien, betrieblichen Funktionen und den vorgesehenen Wohn- und Arbeitsort vor. Die österreichische Wegzugsbesteuerung unterscheidet sich von der deutschen; auch Zielstaat und Zeitpunkt können die Behandlung verändern. Die verlinkte Steuervertiefung erklärt diese Unterschiede.</p><p>Mit deinem Krankenversicherungsträger klärst du, welches System nach dem Umzug zuständig ist und welche Nachweise du am Ziel brauchst. Bei einem Arbeitsverhältnis muss der Arbeitgeber den neuen tatsächlichen Arbeitsort mit Steuer-, Sozialversicherungs- und Vertragsfragen verbinden. Ein unverändert österreichischer Arbeitsvertrag allein löst diese Aufgaben nicht.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\" data-route=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\"><span>Wegzug, Steuern und Unternehmenspflichten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/auslandsgesellschaft/\" data-route=\"/de/leistungen/auslandsgesellschaft/\"><span>Auslandsgesellschaft und laufende Verwaltung organisieren</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Dokumente nach den Bedürfnissen deiner Familie vorbereiten",
+      "body": "<p>Ordne den Bestand nach Personen und nach der Stelle, die eine Unterlage verwenden soll. Neben Pässen und Aufenthaltstiteln können Personenstandsurkunden, Sorgerechtsnachweise, Schulunterlagen und medizinische Informationen nötig sein. Bei einer Familie mit verschiedenen Staatsangehörigkeiten prüfst du jede Person entlang derselben Reiseroute.</p><p>Für die Nutzung österreichischer Urkunden im Ausland klärst du zuerst Dokumentart, empfangende Stelle und erforderliche Sprache. Danach folgen Beschaffung, Beglaubigung beziehungsweise Apostille oder Legalisation und Übersetzung in der passenden Form.</p><p>Eine vertretungsberechtigte Person braucht ihre eigenen Nachweise und einen erreichbaren Unterlagenbestand. Für pflegebedürftige Angehörige kommen Transport und bestätigte Anschlussversorgung hinzu. Diese Aufgaben beginnen vor der Buchung, weil sie Ziel und Reisetermin bestimmen können.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\" data-route=\"/de/wissen/familie-alltag/kinder-angehoerige/\"><span>Mit Kindern und Angehörigen vorbereitet gehen</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/dokumente-aufenthalt/\" data-route=\"/de/leistungen/dokumente-aufenthalt/\"><span>Dokumente und Aufenthalt vorbereiten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Unterkunft, Ankunft und Rückkehr praktisch vorbereiten",
+      "body": "<p>Wähle für die Ankunft eine Unterkunft, die zur tatsächlichen Aufenthaltsdauer und Familie passt: eine kurzfristig verfügbare möblierte Lösung, eine längerfristige Miete oder ein eigener Wohnsitz. Entscheidend sind Zugänglichkeit, Übergabe, Versorgung und die Wege zu Schule, Ärzten und Alltag.</p><p>Bei einem Immobilienkauf übernimmt EXOBASIS nach Auftrag die Organisation von Suche und Besichtigungen, unabhängiger lokaler Kauf- und Titelprüfung, Abschluss und Übergabe. Ob du als Ausländer die konkrete Immobilie erwerben darfst, welche Register maßgeblich sind und welche Kosten entstehen, wird am Ziel geprüft. Die Betreuung während deiner Abwesenheit gehört von Anfang an zur Nutzungsentscheidung.</p><p>Halte österreichische Zustell- und Vertretungswege aufrecht, solange Pflichten bestehen. Wenn die Rückkehr offenbleibt, beschreibe auch dafür Wohnung, Versorgung und die dann nötigen Meldungen. So werden die Aufgaben in Österreich und am neuen Standort zu einem zusammenhängenden Ablauf.</p><p>Für österreichische Staatsbürger bietet das BMEIA eine freiwillige Auslandsregistrierung an. Hinterlege dafür einen tatsächlich erreichbaren Kontakt und halte ihn bei Änderungen aktuell. Die Registrierung unterstützt den Kontakt mit der Auslandsvertretung; eure Unterkunft, Anreise und Versorgung werden unabhängig davon mit den beteiligten Stellen vereinbart.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\" data-route=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\"><span>Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/laender/\" data-route=\"/de/laender/\"><span>Länder und Möglichkeiten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Aus deiner Entscheidung einen ausführbaren Weg machen",
+      "body": "<p>EXOBASIS bringt die österreichische Ausgangslage mit Aufenthaltsrechten, Familienbedarf und der Einrichtung am Ziel zusammen. Wir organisieren erforderliche Fachaufträge, beschaffen vereinbarte Unterlagen und führen die beauftragten Vorbereitungsschritte aus.</p><p>Du kannst eine konkrete Lücke direkt anfragen oder die gesamte Vorbereitung aufeinander abstimmen lassen. Ein sinnvoller Einstieg nennt den heutigen Wohnsitz, die betroffenen Personen, ein mögliches Zielland und den gewünschten Zeitrahmen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/flucht-notfallplan/\" data-route=\"/de/leistungen/flucht-notfallplan/\"><span>Persönlicher Flucht- und Notfallplan</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Heutiger Wohnsitz und persönliche Rechte"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Meldeweg und österreichische Unterlagen vorbereiten"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Steuer, Tätigkeit und Sozialversicherung zusammen prüfen"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Familienrechte und Unterlagen nach Personen ordnen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Vorhandene Zielrechte und organisierte Ankunft verbinden"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Die österreichische Ausgangslage in einen umsetzbaren Plan bringen"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 1412,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+        "label": "Aus Deutschland einen Ausweg vorbereiten",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1413,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+        "label": "Wegzug aus der Schweiz vorbereiten",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1414,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+        "label": "Leaving the UK with a prepared alternative (English)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1415,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+        "label": "Leaving the UAE or preparing a second option (English)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 413,
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 416,
+        "target": "/de/leistungen/auslandsgesellschaft/",
+        "label": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 415,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 418,
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 414,
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 419,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 417,
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 420,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-6"
+      }
+    ],
+    "seeding": [
+      "D18",
+      "D19"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "departureContext": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+  "displayTitle": "Auswandern aus Österreich: Rechte, Meldungen und Vorbereitung"
+}

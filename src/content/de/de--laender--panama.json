@@ -1,0 +1,196 @@
+{
+  "route": "/de/laender/panama/",
+  "lang": "de",
+  "title": "Panama als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/panama/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-5d8b37142edc25"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-d615b8fe4f73ab"
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Panama als Plan B: Wohnbasis und Vorbereitung | EXOBASIS",
+  "description": "Vergleiche Panama als Familienbasis und Fachstandort. Aufenthalt, Ankunft, Geldzugriff und laufende Pflichten werden passend zu deinem Bedarf vorbereitet.",
+  "intro": "<p>Du willst einen eigenen Standort aufbauen und finanziell handlungsfähig bleiben. Panama muss dabei als Wohnort, Fachleistungsort und Krisenoption getrennt geprüft werden. Ein Konto oder Aufenthaltsprodukt allein schafft noch keinen Ausweg für deine Familie.</p>",
+  "primary": {
+    "label": "Vorbereitung für Panama anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "countryContext": "/de/laender/panama/",
+  "country": {
+    "name": "Panama",
+    "slug": "panama",
+    "region": "Mittelamerika und Karibik",
+    "map": "countries/panama-locator.svg",
+    "imageAlt": "Lagegrafik: Panama. Hervorhebung zur geografischen Orientierung, keine Sicherheitsbewertung.",
+    "caption": "Geografische Orientierung. Keine Reise-, Sicherheits- oder Grenzbewertung.",
+    "summary": [
+      [
+        "Wohnbasis oder Fachstandort?",
+        "Die Rolle folgt deinem Bedarf, nicht einem Produkt."
+      ],
+      [
+        "Ankunft mitdenken",
+        "Reiseweg, Haushalt und Versorgung gemeinsam vorbereiten."
+      ],
+      [
+        "Aufgaben zusammenführen",
+        "Bank, Aufenthalt und Unternehmen sauber unterscheiden."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Passende Ausgangslage",
+      "body": "<p>Panama kann in deinem Vorhaben unterschiedliche Rollen haben: ein Wohnort für die Familie, ein Standort für bestimmte Fachleistungen oder eine vorbereitete Ausweichbasis. Diese Rollen müssen nicht am selben Ort liegen. Die erste Entscheidung lautet deshalb, was hier für dich funktionieren soll und welche Abhängigkeiten du damit tatsächlich verringerst.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Krisenbasis und Rückkehr",
+      "body": "<p>Eine vorbereitete Ankunft hängt nicht nur von Panamas Entfernung zu Europa ab. Internationale Verkehrs- und Versorgungsverbindungen gehören ebenso in die Betrachtung wie die konkrete Wohnregion. Plane den Weg zur Unterkunft, eine zulässige Alternative bei Reiseänderungen und den Geldzugriff während der Ankunft. Panamas internationale Transitfunktion kann eine Anreise erleichtern und gleichzeitig von Verkehrsverbindungen abhängig machen. Die vorliegende FCDO-Einordnung nennt mögliche Proteste und Straßensperren mit Auswirkungen auf Flughafen- und Grenzzugang; für deine gewählte Route werden aktuelle Lage und Alternativen vor Nutzung erneut geprüft. Einen Rückweg und fortbestehende Pflichten im bisherigen Staat halten wir parallel vor.</p><p class=\"exb-source-note\"><a href=\"https://www.gov.uk/foreign-travel-advice/panama/safety-and-security\" rel=\"noreferrer\">FCDO: Reise- und Verkehrsrisiken in Panama</a> <span>Rohtextstand: 24.09.2026; aktuelle Lage vor Reise erneut prüfen</span></p><p>Eine Transitfunktion ist keine Zusage, dass dein persönlicher Reiseweg im Ernstfall offen bleibt. Rückkehr und weitere Aufenthalte werden anhand des tatsächlichen Status vorbereitet. Regionale Lagehinweise werden für das gewählte Gebiet geprüft, nicht zu einem Urteil über das ganze Land verkürzt.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Dauerhafte Zukunft für die Familie",
+      "body": "<p>Eine dauerhafte Familienbasis braucht einen gemeinsam tragfähigen Standort. Schule, Behandlung, Arbeitsalltag und Haushalt müssen von der vorgesehenen Wohnung aus erreichbar sein. Ein bekannter internationaler Dienstleistungsstandort beantwortet diese Wohnfrage noch nicht. Die Wohnentscheidung für Kinder fällt nicht am Sitz eines Bank- oder Gesellschaftsdienstleisters. Ein Haushalt braucht rechtlich passenden Aufenthalt, erreichbare Schule und Medizin und eine finanzierbare Region. Eine Gesellschaft kann eine Geschäftsaufgabe erfüllen, ohne dass alle Familienmitglieder in Panama wohnen sollten.</p><p>Nimm alle Personen in die Planung auf. Der passende Weg für den Hauptantragsteller sagt allein noch nicht, ob Partner, Kinder oder andere Angehörige auf derselben Grundlage bleiben können. Familienunterlagen und Aufnahmebedingungen werden zusammen mit der Standortwahl geklärt.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Mobile Nutzung",
+      "body": "<p>Ein Aufenthaltsprodukt oder eine Bankverbindung ist noch keine Strategie für wechselnde Wohnorte. Für die tatsächliche Nutzung zählen zulässige Aufenthalte, Wiedereinreise, Tätigkeit und die Pflichten des gewählten Status. Das gilt auch dann, wenn du nur einige Monate im Jahr vor Ort sein möchtest.</p><p>Lege getrennt fest, wer die Unterkunft betreut, welche Post oder Nachweise ankommen und wer eine notwendige persönliche Handlung übernehmen darf. Ein Kontakt zu einem Verwalter ersetzt keine bestätigte Befugnis.</p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Vorhandene Rechte und passende Wege",
+      "body": "<p>Der Servicio Nacional de Migración führt unterschiedliche Aufenthaltserlaubnisse und Antragswege. Welcher davon passt, hängt von deiner Person, den Nachweisen und dem Zweck des Aufenthalts ab. Wir beginnen deshalb nicht mit einem pauschalen „Panama-Paket“, sondern mit dem passenden Verfahrensweg. Der Servicio Nacional de Migración ordnet Aufenthaltsgenehmigungen nach unterschiedlichen Grundlagen. Vor einer Bewerbung prüfen wir den konkreten Antragsteller, Familiennachweise und die passende Verfahrensart; eine Bankbeziehung oder Gesellschaft eröffnet keinen allgemeinen Familienaufenthalt. Für zeitweise Nutzung gehören Statusfortbestand, Wiedereinreise und tatsächliche Tätigkeit in dieselbe Entscheidung.</p><p>Für eine Reservebasis stehen Fortbestand und Wiedernutzung im Mittelpunkt. Für die Familienverlagerung zählt die gemeinsame längerfristige Perspektive. Bei mobiler Nutzung kommen tatsächliche Anwesenheit und zulässige Tätigkeit hinzu. Behördenentscheidung, Bankannahme und eine eventuelle Gesellschaftsgründung bleiben eigene Vorgänge.</p><p class=\"exb-source-note\"><a href=\"https://www.migracion.gob.pa/permisos-migratorios/\" rel=\"noreferrer\">Servicio Nacional de Migración, Panamá</a> <span>Quelle geprüft: 26.09.2026</span></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fpanama%2F#kurzanfrage\">Vorbereitung für Panama anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Regionen und Wohnen",
+      "body": "<p>Die Wohnregion wird nach deinem Alltag ausgewählt, nicht nach dem Sitz eines Rechts- oder Bankdienstleisters. Vergleiche erreichbare Schule, Behandlung, Wege, Wohnumfeld und die Kosten eines tatsächlich nutzbaren Haushalts. Eine Erkundung bekommt dafür konkrete Termine statt nur Besichtigungsfotos.</p><p>Ist das Ziel bereits entschieden, können wir Unterkunft, Übergabe und die ersten Termine als eigenen Auftrag organisieren. Eine umfassende Länderberatung ist dafür keine Pflicht, wenn die erforderlichen Vorarbeiten bereits belastbar vorliegen.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Ankunft im Zielland organisieren</a></p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Gesundheit und Pflege",
+      "body": "<h3>Kinder und Angehörige</h3><p>Ordne Schulunterlagen, Unterrichtssprache und Starttermin dem konkreten Wohnort zu. Bei unterschiedlichen Pässen oder Familienrechten muss auch der Aufenthaltsweg je Person passen. Schule und Familienrecht werden nicht allein aus dem Status des Hauptantragstellers abgeleitet. Für Kinder verbinden wir die benötigten Schulnachweise mit Sprache, Aufnahme und täglicher Strecke von der Unterkunft. Bei Behandlung und Pflege prüfen wir Zugänglichkeit und Zahlung in der gewählten Region. Eine zentrale Dienstleisteradresse beantwortet keine dieser Familienfragen.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a></p>\n<h3>Versicherung und Behandlung</h3><p>Kläre, welche Einrichtung deine regelmäßige Behandlung übernehmen kann, wie Aufnahme und Bezahlung funktionieren und ob die Wege realistisch sind. Eine vorhandene Police bestätigt weder einen Termin noch die Versorgung am gewählten Wohnort.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a></p>\n<h3>Pflege und Begleitung</h3><p>Bei Angehörigen mit besonderem Unterstützungsbedarf werden Betreuung, Transport und benötigte Hilfsmittel vor der Ankunft organisiert. Die fachlichen Vorgaben kommen von den zuständigen Stellen; EXOBASIS führt die vereinbarten organisatorischen Aufgaben zusammen.</p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Einkommen, Geld und Arbeitsplatz",
+      "body": "<p>Wohnbasis, Konto und Gesellschaft können verschiedene Aufgaben erfüllen. Ein Konto in Panama bedeutet weder, dass deine Familie dort wohnen darf, noch dass sämtliche Zahlungen oder Vertretungen eingerichtet sind. Jede benötigte Zahlung erhält einen zulässigen Weg, passende Nachweise und eine zuständige Person. Ein Konto kann den Zugriff auf bestimmte Mittel organisieren, doch Annahme, berechtigte Verfügungen und Zahlungswege sind eigenständige Institutsentscheidungen. Bei einer Gesellschaft werden Leitung, laufende Verwaltung und die Tätigkeit der handelnden Personen gesondert geprüft. Aufenthaltsrecht, Wohnsitz und Steueransässigkeit sind nicht dasselbe Ergebnis.</p><p>Unternehmer betrachten außerdem laufende Verträge, Rechnungsstellung und den Ort ihrer tatsächlichen Tätigkeit. Eine Gesellschaft allein stellt den Betrieb nicht um. Steuerliche und rechtliche Fachfragen werden mit den betroffenen Herkunfts- und Tätigkeitsländern abgestimmt.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Dokumente und Vorlauf",
+      "body": "<p>Zuerst werden die Kategorie und die zuständigen Stellen festgelegt. Danach beschaffen wir die dafür passenden Identitäts-, Familien- und gegebenenfalls Einkommensnachweise, koordinieren anerkannte Übersetzungen oder Beglaubigungen und ordnen persönliche Termine ein. Vom ausgewählten Aufenthaltstatbestand aus ordnen wir persönliche und familiäre Nachweise, erforderliche Beglaubigungen und örtliche Termine. Parallel erhält ein Bank- oder Gesellschaftsauftrag seine eigenen Unterlagen und direkten Vertragspartner, falls er überhaupt Teil deines Vorhabens ist.</p><p>Die Reihenfolge ist wichtig: Aufenthaltsverfahren, Bankaufnahme und eine mögliche Unternehmensaufgabe dürfen nicht widersprüchliche Nachweise oder unvereinbare Termine voraussetzen. Wir halten fest, was eingereicht wurde, welche Rückfrage offen ist und welcher Schritt als Nächstes möglich wird.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a></p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Laufende Pflichten",
+      "body": "<p>Pflege nicht nur einen Aufenthaltstitel, sondern die ganze vorbereitete Option. Unterkunft, Kontaktwege, Dokumente und Zahlungsfähigkeit brauchen einen aktuellen Stand. Verändert sich die familiäre Nutzung oder das Geschäft, muss die Vorbereitung gezielt nachgezogen werden. Bei einer nur zeitweise genutzten Basis werden Titel, Unterkunft und Zahlungswege vor erneuter Einreise auf Nutzbarkeit geprüft. Verkehrs- und regionale Lageänderungen können den geplanten Weg zur Unterkunft betreffen. Für die Rückkehr bleiben Unterlagen und Verpflichtungen im bisherigen Land unabhängig vom Panama-Auftrag bestehen.</p><p>Eine betreute Bank- oder Gesellschaftsaufgabe und die Betreuung einer Familienbasis sind nicht automatisch derselbe Auftrag. Umfang, Zuständigkeit und zusätzliche Fachkosten werden so ausgewiesen, dass klar bleibt, wer wofür verantwortlich ist.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a></p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Konkrete Vorbereitung",
+      "body": "<p>EXOBASIS verbindet die vereinbarten Panama-Aufgaben: den Standortvergleich, erforderliche Dokumentenarbeit, lokale Termine, Unterkunft und Ankunft. Bank- oder Unternehmensaufgaben werden passend ergänzt, nicht als verpflichtender Bestandteil jeder Familienlösung verkauft.</p><p>Du erhältst eine geführte Durchführung mit nachvollziehbaren Zuständigkeiten und offenen nächsten Schritten. Fachmandate, Annahmeentscheidungen und institutionelle Verträge bleiben erkennbar. Entscheidend ist, welche Voraussetzungen für deine Nutzung hergestellt werden, nicht wie viele Produkte auf einer Rechnung stehen.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fpanama%2F#kurzanfrage\">Vorbereitung für Panama anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div><div class=\"exb-country-comparisons\"><h3>Zwei andere Antworten auf dieselbe Frage</h3><article><p><a class=\"exb-text-link\" href=\"/de/laender/costa-rica/\">Costa Rica als persönliche Ausweichoption</a></p><p>Costa Rica: Vergleiche vor allem Familienalltag, Aufenthaltsfolge und Gesundheitsanschluss, nicht nur internationale Fachleistungen.</p></article><article><p><a class=\"exb-text-link\" href=\"/de/laender/paraguay/\">Paraguay als persönliche Ausweichoption</a></p><p>Paraguay: Prüfe eine Binnenlandoption mit anderer Anreise und Aufenthaltsfolge gegen die Panama-Aufgaben.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Muss meine Familie dort wohnen, wo meine Fachleistungen organisiert werden?",
+    "answer": "Nein. Wohnbasis, Bankbeziehung und Unternehmensstandort werden nach ihrer jeweiligen Aufgabe ausgewählt und miteinander abgestimmt."
+  },
+  "editorialSources": [
+    "pa"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 968,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 970,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 971,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 972,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 973,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 974,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 975,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 976,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 977,
+      "target": "/en/countries/panama/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1448,
+      "target": "/de/laender/costa-rica/",
+      "label": "Costa Rica als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1450,
+      "target": "/de/laender/paraguay/",
+      "label": "Paraguay als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ]
+}

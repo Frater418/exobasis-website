@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+  "lang": "de",
+  "title": "Apostillen, Übersetzungen und Urkunden organisieren",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-1c9cff828fe023"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-b1925b4404aa8c"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Dokumentenservice / Herkunft und Verwendung verbinden",
+  "seoTitle": "Apostille beantragen und Urkunden beschaffen | EXOBASIS",
+  "description": "Wir organisieren Urkunden, Apostillen und Übersetzungen für deinen konkreten Zweck: zuständige Stellen, richtige Reihenfolge, Versand und Übergabe.",
+  "intro": "<p>Deine Geburtsurkunde liegt vor. Die Behörde im Zielland verlangt trotzdem eine andere Ausfertigung, eine Apostille oder eine bestätigte Übersetzung. Jetzt kommt es auf die richtige Reihenfolge an: Was verlangt die empfangende Stelle, wer stellt es aus und wie gelangt das vollständige Dokument rechtzeitig dorthin?</p><p>EXOBASIS übernimmt den vereinbarten Dokumentenlauf: Anforderungen klären, Urkunden beschaffen, Beglaubigungen und Übersetzungen organisieren, Rückfragen nachhalten und die Unterlagen übergeben. Du kannst auch eine einzelne Urkunde beauftragen.</p>",
+  "primary": {
+    "label": "Dokumentenservice anfragen",
+    "intent": "Apostillen, Übersetzungen und Urkunden organisieren"
+  },
+  "summary": {
+    "kicker": "Urkunden für ihren tatsächlichen Zweck",
+    "title": "Vom richtigen Dokument zur vollständigen Übergabe.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift auf einem Tisch als Sinnbild für Vorbereitung.",
+    "facts": [
+      [
+        "Ausgangspunkt",
+        "Urkundenart, Ausstellerstaat und empfangende Stelle"
+      ],
+      [
+        "Arbeit",
+        "Beschaffung, Beglaubigungsweg, Übersetzung und Versand"
+      ],
+      [
+        "Ergebnis",
+        "Nachverfolgte Dokumente mit klarer Zuordnung zur Verwendung"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Zuerst zählt, wo die Urkunde verwendet wird",
+      "layout": "prose",
+      "body": "<p>Eine Apostille für die Geburtsurkunde ist erst dann die passende Bestellung, wenn das konkrete Verfahren sie verlangt. Deshalb beginnen wir bei der Empfängerstelle: Soll die Urkunde eine Abstammung belegen, einen Aufenthalt ermöglichen oder für eine Eheschließung verwendet werden? Benötigt werden kann das Original, eine bestimmte Registerausfertigung oder ein aktueller Auszug.</p><p>Wir halten die Anforderung schriftlich fest und gleichen Namen, Schreibweisen und Personenstand mit den übrigen Unterlagen ab. Das verhindert, dass eine korrekt beglaubigte Urkunde am Ende zur falschen Person, Ausfertigung oder Verwendung gehört.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\" data-route=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\"><span>Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-2",
+      "title": "Apostille, Legalisation und Übersetzung haben verschiedene Aufgaben",
+      "layout": "prose",
+      "body": "<p>Die Apostille bestätigt den amtlichen Echtheitszusammenhang einer öffentlichen Urkunde, insbesondere Unterschrift, Funktion des Unterzeichners und gegebenenfalls Siegel. Sie ersetzt im anwendbaren Haager Übereinkommen die konsularische Legalisation. Ob das Übereinkommen zwischen Aussteller- und Verwendungsstaat gilt und ob eine Ausnahme eingreift, wird für diese Kombination bestimmt.</p><p>Eine Übersetzung macht den Inhalt in der geforderten Sprache verwendbar. Welche Qualifikation des Übersetzers und welche Bestätigung verlangt werden, richtet sich nach dem Empfänger. Wir klären auch, ob die Apostille mitübersetzt werden muss. So wird die Übersetzung zum richtigen Zeitpunkt bestellt.</p><p>Für bestimmte öffentliche Urkunden innerhalb der EU erleichtert die <a href=\"https://e-justice.europa.eu/topics/your-rights/public-documents_de\">Verordnung (EU) 2016/1191</a> den Verkehr: Erfasste Urkunden brauchen zwischen EU-Mitgliedstaaten keine Apostille; ein mehrsprachiges Formular kann eine Übersetzung ersparen. Die Verordnung betrifft die Echtheit, während die Rechtswirkung im Zielverfahren gesondert zu beurteilen bleibt. Diese EU-Regel wird nicht pauschal auf Schweizer Urkunden oder andere Zielstaaten übertragen.</p>"
+    },
+    {
+      "id": "kern-3",
+      "title": "Wer stellt die Apostille aus?",
+      "layout": "prose",
+      "body": "<p><strong>Deutschland:</strong> Das <a href=\"https://bfaa.diplo.de/bfaa-de/service/apostillenundbeglaubigungen/apostille-2566120\">BfAA</a> apostilliert vorbeglaubigte Urkunden von Bundesbehörden. Für Geburts- und Heiratsurkunden sind dagegen die jeweils zuständigen Landesstellen maßgeblich. Bei einem Führungszeugnis beschreibt das BfAA eine feste Reihenfolge: Apostillenantrag und Gebührenzahlung beim BfAA, anschließend Beantragung beim Bundesamt für Justiz unter Angabe der BfAA-Antragsnummer.</p><p><strong>Österreich:</strong> Die Zuständigkeit hängt ebenfalls von der ausstellenden Behörde ab. Das <a href=\"https://www.bmeia.gv.at/reise-services/urkunden-und-beglaubigungen/beglaubigung-apostille/apostille\">BMEIA</a> erläutert den Apostillenweg und elektronische Apostillen. Ein amtssigniertes elektronisches Original ist dabei etwas anderes als der Scan eines Ausdrucks.</p><p><strong>Schweiz:</strong> Die <a href=\"https://www.bk.admin.ch/de/legalisationen\">Bundeskanzlei</a> nennt ihren Zuständigkeitsbereich und verweist auf die kantonalen Beglaubigungsstellen. Wir ordnen die Urkunde ihrer Herkunftsstelle zu, statt sie auf Verdacht an eine zentrale Adresse zu schicken.</p>"
+    },
+    {
+      "id": "kern-4",
+      "title": "Originale, Dokumentenalter und Versand zusammen planen",
+      "layout": "prose",
+      "body": "<p>Wir unterscheiden drei Fristen: Wie lange die Beschaffung dauert, wann der nächste Termin stattfindet und welches Höchstalter die Empfängerstelle für das Dokument akzeptiert. Deshalb lohnt es sich etwa bei einem Strafregisterauszug, den Bestellzeitpunkt mit dem Einreichungstermin abzustimmen.</p><p>Vor dem Versand wird festgehalten, wer das Original übernimmt und wohin es zurückgeht. Das BfAA versendet bearbeitete Urkunden nach seiner veröffentlichten Verfahrensbeschreibung innerhalb Deutschlands. Wenn du schon im Ausland lebst, gehört daher ein berechtigter Empfang mit anschließend abgestimmtem Weitertransport zum Ablauf.</p>"
+    },
+    {
+      "id": "kern-5",
+      "title": "Wir erledigen den Lauf und halten Rückfragen nach",
+      "layout": "prose",
+      "body": "<p>Nach geklärter Anforderung organisieren wir Neubeschaffung, Vorbeglaubigung, Apostille oder erforderlichen Legalisationsweg sowie die passende Übersetzung. Jede Übergabe wird dem Dokument zugeordnet. Fehlt eine Unterschrift oder fordert eine Stelle eine andere Ausfertigung, klären wir den Grund und den nächsten Schritt.</p><p>Bei einer Vollmacht beginnt die Arbeit mit ihrer vorgesehenen Verwendung: Eine Beglaubigung ersetzt nicht den Inhalt und die Befugnisse, die eine Bank, ein Register oder ein Vertragspartner verlangt. Erforderliche rechtliche Gestaltung lassen wir passend zum Auftrag fachlich ausführen.</p>"
+    },
+    {
+      "id": "kern-6",
+      "title": "Du erhältst ein geordnetes, nachvollziehbares Ergebnis",
+      "layout": "prose",
+      "body": "<p>Bei der Übergabe wird jede Urkunde mit ihrer Übersetzung und Bestätigung zusammengeführt. Du erfährst, welches Original für welchen Termin vorgesehen ist, welche Kopien verfügbar sind und ob die Empfängerstelle noch einen eigenen Prüfungsschritt vornehmen wird.</p><p>Die Kostenübersicht zeigt, welche Gebühren tatsächlich für Beschaffung, Bestätigung, Übersetzung und Versand angefallen sind. Für den Familienplan werden Aufbewahrung und berechtigter Zugriff so organisiert, dass Angehörige die Unterlagen auch finden und verwenden können.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/dokumente-aufenthalt/\" data-route=\"/de/leistungen/dokumente-aufenthalt/\" data-link-description=\"Benötigte Dokumente und die Vorbereitung des Aufenthalts organisieren lassen.\"><span>Dokumente und Aufenthalt vorbereiten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\" data-route=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\" data-link-description=\"Unterlagen und Befugnisse so vorbereiten, dass Angehörige sie tatsächlich nutzen können.\"><span>Notfallunterlagen, die Angehörige tatsächlich nutzen können</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    }
+  ],
+  "working": {
+    "title": "So arbeiten wir zusammen",
+    "body": "<p>Zum Einstieg genügen Dokumentart, Ausstellerland, Verwendungsland und Zweck. Wir vereinbaren danach den geschützten Weg für Dokumentkopien und die nötige Vollmacht. Du gibst Originalversand und kostenpflichtige Zusatzschritte vorab frei.</p>"
+  },
+  "nextWork": {
+    "title": "So geht es danach weiter",
+    "body": "<p>Gehören die Urkunden zu einem vollständigen Aufenthaltsverfahren, können wir den Auftrag mit <a href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a> verbinden.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Welche Urkunde brauchst du wofür?",
+    "body": "Nenne uns Art und Herkunft des Dokuments, Empfängerstelle und bekannten Termin. Sensible Dokumentkopien folgen erst über den vereinbarten Arbeitsweg."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "485",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "position": "Kernabschnitt 6: Übergabe und Preisbestandteile",
+        "purpose": "Ein verwendbares, nachverfolgtes Dossier und die beauftragten Dokumenten-/Aufenthaltsschritte organisieren lassen."
+      },
+      {
+        "line": "486",
+        "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+        "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+        "position": "Kernabschnitt 6: Übergabe und Preisbestandteile",
+        "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+      },
+      {
+        "line": "487",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "position": "Kernabschnitt 1: Urkunde und Verwendungsland",
+        "purpose": "Vorhandene Rechte zuerst nutzen und zusätzliche Aufenthalts-/Staatsangehörigkeitswege richtig einordnen."
+      }
+    ],
+    "seedingSupporting": [],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages.",
+    "redaction": {
+      "package": "leistungen-a-de",
+      "seeding": [],
+      "sourceScope": "Eigenständige DACH-Neuredaktion nach PB-D65; Quellen und Abschnittsbelege in SEITEN-DE.jsonl.",
+      "mappedLinks": [
+        {
+          "line": "485",
+          "label": "Dokumente und Aufenthalt vorbereiten",
+          "target": "/de/leistungen/dokumente-aufenthalt/",
+          "position": "Kernabschnitt 6: Übergabe und Preisbestandteile",
+          "purpose": "Ein verwendbares, nachverfolgtes Dossier und die beauftragten Dokumenten-/Aufenthaltsschritte organisieren lassen."
+        },
+        {
+          "line": "486",
+          "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+          "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+          "position": "Kernabschnitt 6: Übergabe und Preisbestandteile",
+          "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+        },
+        {
+          "line": "487",
+          "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+          "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+          "position": "Kernabschnitt 1: Urkunde und Verwendungsland",
+          "purpose": "Vorhandene Rechte zuerst nutzen und zusätzliche Aufenthalts-/Staatsangehörigkeitswege richtig einordnen."
+        }
+      ],
+      "seedingSupporting": [],
+      "seedingScope": "Direktzuordnung und unterstützende Anwendung im deutschen Seitenjournal dokumentiert."
+    }
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Was wir für dich übernehmen",
+    "body": "<p>Wir legen für jede beauftragte Urkunde die Bearbeitungsschritte fest und führen sie zusammen. Dazu gehören die Kommunikation mit den beteiligten Stellen, die erforderliche Bevollmächtigung, Termin- und Versandabstimmung sowie die Kontrolle auf Vollständigkeit. Bei einer größeren Familienakte werden die Dokumente personengenau zugeordnet.</p>",
+    "items": [
+      [
+        "Anforderung",
+        "Klären, welche Ausfertigung und Sprache die konkrete Stelle benötigt."
+      ],
+      [
+        "Erledigung",
+        "Beschaffung und notwendige Bestätigungen in der richtigen Reihenfolge organisieren."
+      ],
+      [
+        "Übergabe",
+        "Originale, Übersetzungen und Bearbeitungsnachweise geordnet bereitstellen."
+      ]
+    ],
+    "costs": "EXOBASIS-Arbeit, Urkundengebühren, Apostille oder Legalisation, Übersetzung, Beglaubigungen und Kurierkosten werden getrennt erfasst. Bearbeitungsdauer und Dokumentenalter richten sich nach den beteiligten Stellen und dem Zielverfahren."
+  },
+  "displayTitle": "Apostillen, Übersetzungen und Urkunden erledigen lassen"
+}

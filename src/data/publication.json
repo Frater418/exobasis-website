@@ -1,0 +1,16 @@
+{
+  "domain": null,
+  "operatorFacts": {
+    "legalName": "Exobasis LLC",
+    "legalForm": "LLC",
+    "representative": "Raphael Rechberger",
+    "postalAddress": "131 Continental Dr, Suite 305\nNewark, DE 19713\nUnited States",
+    "publicEmail": "legal@exobasis.com",
+    "privacyContact": "legal@exobasis.com"
+  },
+  "approvals": {
+    "content": false,
+    "legal": false,
+    "publication": false
+  }
+}

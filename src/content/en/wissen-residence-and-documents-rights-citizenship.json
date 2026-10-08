@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/residence-and-documents/rights-citizenship/",
+  "lang": "en",
+  "title": "Residence, existing rights and second citizenship",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-7566a8cf2e1da1"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-8e3e113de02a37"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-98e968c8d735fc"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Second residency and citizenship by descent | EXOBASIS",
+  "description": "Compare existing rights, citizenship by descent, a second residence and investment routes. Understand what each changes for your family, work and return.",
+  "intro": "<p>Before you pay for a second residency or citizenship programme, establish what your family can already use. Your nationality, a parent’s citizenship or an existing residence right may open a more direct route. Different members of the same household may need different solutions.</p><p>The useful question is where you can lawfully live, for how long and with whom. A passport, a residence permit, permission to work and tax residence each answer a different part of it.</p>",
+  "primary": {
+    "label": "Arrange my family’s residence and document work",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "Second residency or citizenship: start with the rights you already have",
+    "facts": [
+      [
+        "First",
+        "Establish existing rights and the evidence behind them."
+      ],
+      [
+        "Choice",
+        "Separate citizenship, residence and additional passports."
+      ],
+      [
+        "Use",
+        "Connect legal status with a home, work and family life."
+      ]
+    ],
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Map and compass, symbolising personal preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Citizenship by descent: trace the right, not just the ancestor",
+      "body": "<p>Citizenship by descent turns on a legal chain between generations. Start with the ancestor’s citizenship, the dates of births and marriages, changes of name and any acquisition or loss of nationality. A family story is a reason to investigate; the records establish which route applies.</p><table><caption>Different descent questions for UK-based and international families</caption><thead><tr><th scope=\"col\">Country connection</th><th scope=\"col\">What the official process establishes</th></tr></thead><tbody><tr><th scope=\"row\">British parent</th><td>British citizenship is normally passed automatically for one generation born abroad. The child’s birth date, birthplace and the parent’s circumstances determine automatic citizenship or a possible registration route.</td></tr><tr><th scope=\"row\">Irish parent or grandparent</th><td>A person born abroad to an Irish citizen parent born on the island of Ireland is generally already Irish. Where an Irish-born grandparent or an Irish citizen parent born abroad provides the connection, Foreign Birth Registration can be the route.</td></tr><tr><th scope=\"row\">Polish ancestry</th><td>A confirmation procedure establishes possession or loss of Polish citizenship. Registry records, evidence concerning parents or grandparents and name changes support the application to the provincial governor.</td></tr><tr><th scope=\"row\">Italian ancestry</th><td>The London consulate’s new adult-application framework requires either an Italian parent’s continuous residence in Italy for at least two years after acquiring citizenship and before the child’s birth, or a parent or grandparent who holds only Italian citizenship, or held only Italian citizenship at death. The previous framework has separate March 2025 cut-off conditions.</td></tr></tbody></table><p class=\"exb-source-note\">Source: <a href=\"https://www.gov.uk/apply-citizenship-british-parent\">GOV.UK: British citizenship through a parent</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.ireland.ie/en/dfa/citizenship/born-abroad/registering-a-foreign-birth/\">Ireland DFA: Foreign Birth Registration</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.gov.pl/web/unitedkingdom/confirming-polish-citizenship-or-its-loss\">Polish government: confirmation of citizenship</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://conslondra.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/cittadinanza/citizenship-iure-sanguinis-new-regulatory-framework/\">Italian Consulate London: new descent framework</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://conslondra.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/cittadinanza/cittadinanza-per-discendenza/\">Italian Consulate London: previous framework and cut-off</a>.</p><p>For an Irish claim through a parent born abroad, that parent must have been Irish when you were born. Registration timing can therefore decide the route for the next generation. Obtain the records before assuming that a parent’s later passport establishes a child’s entitlement.</p><p>British naturalisation as a spouse, citizenship through adoption and resumption after renunciation are separate routes with their own conditions. Marriage alone does not make you British, and an adoption needs to be assessed by its date, legal form and the parents’ circumstances. Include marriage and adoption records and any earlier nationality or renunciation documents in the assessment, so it does not stop at biological ancestry.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/family-life-abroad/children-family/\" data-route=\"/en/knowledge/family-life-abroad/children-family/\"><span>Prepare to move abroad with children and family</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-2",
+      "title": "EU, EEA and Swiss status: identify the person and the route",
+      "body": "<p>An EU citizen’s right to move within the EU and a non-EU family member’s application are connected, but they are not identical. Identify the country you are moving from, the destination, the relationship and whose rights the application relies on. A residence card from one country should not be treated as citizenship of that country.</p><p>More distant or dependent relatives need particular attention. The European Commission’s guidance for other family members describes the evidence of dependency, household membership or serious health grounds and the authority’s assessment. That is different from assuming that every relative can move on the lead applicant’s status.</p><p class=\"exb-source-note\">Source: <a href=\"https://europa.eu/youreurope/citizens/residence/family-residence-rights/other-family/index_en.htm\">Your Europe: other family members</a>.</p><p>British citizenship, an EU nationality held alongside it and a residence right protected by a particular agreement are separate starting points. Switzerland and EEA destinations also have their own applicable arrangements. Name the right you intend to use and obtain the destination requirements for each accompanying person.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "A second residence must survive the time you spend elsewhere",
+      "body": "<p>A Plan B residency is useful when you can maintain it without abandoning the life you intend to keep. Compare renewal dates, minimum presence, maximum absence, sponsor or income conditions, health-cover requirements and the treatment of dependants. Add the actual cost of maintaining the base between visits.</p><p>The UAE illustrates the distinction. General residence rules provide for loss of visa validity after more than 180 consecutive days outside the UAE, with exceptions; the Golden Visa permits longer absence. That does not extend every family member’s permit or replace its own expiry date. A cancellation grace period concerns a different situation.</p><p class=\"exb-source-note\">Source: <a href=\"https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/general-provisions-for-the-residence-visa\">UAE Government: residence-visa provisions</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa\">UAE Government: Golden Visa</a>.</p><p>If your main base is in Dubai or another emirate, the <a href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\">UAE departure guide</a> connects a second base with sponsorship, banking and the right to return.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "A second passport book is different from second citizenship",
+      "body": "<p>An additional passport issued by the same country is another travel document for the same nationality. HM Passport Office can issue additional or overlapping British passports where there is a genuine, evidenced need, including relevant business-visa and frequent-travel circumstances. This can solve a document-availability problem while one passport is being used for an application.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.gov.uk/government/publications/additional-passports/additional-passports-accessible\">HM Passport Office: additional passports</a>.</p><p>Second citizenship changes your legal relationship with another state. It can bring rights and duties that an extra passport book cannot. Before acquiring it, establish the consequences under the law of every nationality you currently hold, including whether prior permission is needed to retain one.</p><p>Use the additional-document route for a genuine travel-document need and the citizenship route for its actual legal purpose. Neither should be sold as a way around an individual court restriction.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/apostilles-translations-documents/\" data-route=\"/en/services/apostilles-translations-documents/\"><span>Arrange apostilles, translations and documents</span><span aria-hidden=\"true\">→</span></a></div>",
+      "criteria": {
+        "title": "What the document actually proves",
+        "headers": [
+          "Item",
+          "Purpose",
+          "Separate question"
+        ],
+        "rows": [
+          [
+            "Citizenship",
+            "A legal status",
+            "Acquisition, retention and obligations"
+          ],
+          [
+            "Passport",
+            "Travel and identity evidence",
+            "Validity and destination entry rules"
+          ],
+          [
+            "Residence permission",
+            "A particular right to remain",
+            "Activity, absence, dependants and renewal"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-5",
+      "title": "Connect residence to work, tax and everyday life",
+      "body": "<p>Picture the life you expect to lead: occasional stays, remote work, running a business, local employment or permanent family residence. Match the permission to those activities. A right to visit a country may not authorise the work you intend to do there.</p><p>Tax residence is established under tax rules and your circumstances, not by the label on a residency programme. Keep a record of time spent, homes available, family connections and business activity for the relevant tax advice. The <a href=\"/en/knowledge/business-and-income/departure-tax/\">departure and tax guide</a> addresses the transition between countries.</p><p>Then make the status usable: a real place to stay, health cover and treatment access, a school solution, payment arrangements and an address that your providers accept. A residence document without these arrangements leaves much of the move still to do.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Investment routes: compare the complete commitment",
+      "body": "<p>Residency by investment and citizenship by investment produce different legal outcomes. Compare the status granted, who can accompany you, the permitted activity, ongoing conditions and any separate future naturalisation process. Capital committed to a qualifying investment, government charges, professional fees and the cost of maintaining a home are distinct parts of the budget.</p><p>Programmes change. The Court of Justice of the EU ruled in April 2025 that Malta’s 2020 investor-citizenship scheme infringed EU law. An old programme brochure is therefore a poor basis for committing funds. Use the current competent authority’s route and terms for the specific application.</p><p class=\"exb-source-note\">Source: <a href=\"https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/cp250052en.pdf\">Court of Justice: Commission v Malta, C-181/23</a>.</p><p>Where a property is part of the plan, establish two things separately: whether you may acquire that property and whether it meets the residence route’s requirements. Commission independent title and purchase review before committing to the transaction. Compare suitable locations through the existing country profiles, rather than letting an advertised property decide your family’s future.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/countries/\" data-route=\"/en/countries/\"><span>Countries and options</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/country-location-selection/\" data-route=\"/en/services/country-location-selection/\"><span>Choose suitable countries and locations</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-7",
+      "title": "Turn the suitable route into completed preparation",
+      "body": "<p>EXOBASIS organises the evidence, professional assessments and applications required for the route you choose. We coordinate registry documents, accepted translations, authentication, appointments and follow-up, then connect the result with accommodation and arrival.</p><p>You can commission that work directly or begin with a country and residence comparison. The result should tell you what each family member can use, which conditions must be maintained and what remains to be completed before the move.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/residence-documents/\" data-route=\"/en/services/residence-documents/\"><span>Arrange residence and document preparation</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Independent English redraft for PB-D65 from original briefs, market research and cited primary sources.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Start with nationality and family rights"
+      },
+      {
+        "id": "section-2",
+        "title": "Assign EU, EEA and Swiss rights precisely"
+      },
+      {
+        "id": "section-3",
+        "title": "Check residence rights and how they are maintained"
+      },
+      {
+        "id": "section-4",
+        "title": "Distinguish a passport from citizenship"
+      },
+      {
+        "id": "section-5",
+        "title": "Separate work, tax residence and actual living arrangements"
+      },
+      {
+        "id": "section-6",
+        "title": "Compare programmes within the relevant country profile"
+      },
+      {
+        "id": "section-7",
+        "title": "Have the required steps organised"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 480,
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "label": "Prepare to move abroad with children and family",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#section-1"
+      },
+      {
+        "line": 479,
+        "target": "/en/services/apostilles-translations-documents/",
+        "label": "Arrange apostilles, translations and documents",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Urkunden und Verwendbarkeit",
+        "position": "#section-4"
+      },
+      {
+        "line": 476,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-6"
+      },
+      {
+        "line": 477,
+        "target": "/en/services/country-location-selection/",
+        "label": "Choose suitable countries and locations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt individueller Ländervergleich",
+        "position": "#section-6"
+      },
+      {
+        "line": 478,
+        "target": "/en/services/residence-documents/",
+        "label": "Arrange residence and document preparation",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#section-7"
+      },
+      {
+        "line": 481,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      }
+    ],
+    "seeding": [
+      "EN08",
+      "EN09",
+      "EN12"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-27",
+    "noPublication": true
+  },
+  "displayTitle": "Second residency or citizenship: start with the rights you already have"
+}

@@ -1,0 +1,407 @@
+{
+  "route": "/de/laender/irland/",
+  "lang": "de",
+  "title": "Irland als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/ireland/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-908214a70ff013",
+      "startLine": 5360
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-65af01b2ccb13f",
+      "startLine": 6905
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern nach Irland: Familie und Plan B | EXOBASIS",
+  "description": "Irland als Familienbasis vorbereiten: Aufenthaltsrechte, Wohnung oder Kauf, Schule, Versorgung und Geldzugang. EXOBASIS organisiert die konkrete Umsetzung.",
+  "intro": "<p>Du willst bei Krieg, politischem Druck oder wachsender Unsicherheit nicht erst anfangen, einen Ausweg für deine Familie zu suchen. Irland bietet einen englischsprachigen Lebensmittelpunkt in Europa. Ob daraus deine zweite Basis oder euer neues Zuhause wird, hängt an den Rechten aller Angehörigen, einer nutzbaren Wohnung und einem Alltag, den ihr tatsächlich finanzieren und organisieren könnt.</p><p>EXOBASIS verbindet diese Aufgaben: vom begründeten Standortvergleich über Unterlagen und Wohnungssuche bis zu Kaufbegleitung, Geldzugang, Ankunft und laufender Betreuung.</p>",
+  "countryContext": "/de/laender/irland/",
+  "linkPlan": [
+    {
+      "sourceLine": 1168,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1170,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1171,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1172,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1173,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1174,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1175,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1176,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1177,
+      "target": "/en/countries/ireland/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1488,
+      "target": "/de/laender/portugal/",
+      "label": "Portugal als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1490,
+      "target": "/de/laender/island/",
+      "label": "Island als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Irish Immigration Service Delivery: EU Treaty Rights",
+      "url": "https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-an-eea-or-swiss-national/eu-treaty-rights/",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "UK Government: Common Travel Area guidance",
+      "url": "https://www.gov.uk/government/publications/common-travel-area-guidance/common-travel-area-guidance",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.revenue.ie: resident-for-tax-purposes.aspx",
+      "url": "https://www.revenue.ie/en/jobs-and-pensions/tax-residence/resident-for-tax-purposes.aspx",
+      "section": 4,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.revenue.ie: 42-04-65.pdf",
+      "url": "https://www.revenue.ie/en/tax-professionals/tdm/income-tax-capital-gains-tax-corporation-tax/part-42/42-04-65.pdf",
+      "section": 4,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.irishstatutebook.ie: print",
+      "url": "https://www.irishstatutebook.ie/eli/2015/si/548/made/en/print",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.irishimmigration.ie: joining-your-uk-national-family-member",
+      "url": "https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.transportforireland.ie: dublin-area-train-tram-services",
+      "url": "https://www.transportforireland.ie/plan-a-journey/network-maps/dublin-area-train-tram-services/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.transportforireland.ie: tfi-local-link",
+      "url": "https://www.transportforireland.ie/tfi-local-link/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "rtb.ie: security-deposits",
+      "url": "https://rtb.ie/renting/rights-responsibilities/security-deposits/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "rtb.ie: rental-law-changes-from-1-march-2",
+      "url": "https://rtb.ie/renting/rental-law-changes-from-1-march-2/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.lawsociety.ie: buying-a-home",
+      "url": "https://www.lawsociety.ie/public/legal-guides/property/buying-a-home/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "tailte.ie: first-registration",
+      "url": "https://tailte.ie/services/first-registration/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.revenue.ie: you-are-buying-a-property.aspx",
+      "url": "https://www.revenue.ie/en/property/local-property-tax/selling-buying-or-transferring-a-property/you-are-buying-a-property.aspx",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.gov.ie: school-admissionsenrolment",
+      "url": "https://www.gov.ie/en/department-of-education/policy-information/school-admissionsenrolment/",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www2.hse.ie: what-it-covers",
+      "url": "https://www2.hse.ie/services/schemes-allowances/medical-cards/about-the-medical-card/what-it-covers/",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www2.hse.ie: gps-who-accept-medical-cards",
+      "url": "https://www2.hse.ie/services/schemes-allowances/medical-cards/about-the-medical-card/gps-who-accept-medical-cards/",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www2.hse.ie: after-you-apply",
+      "url": "https://www2.hse.ie/services/home-support-service/after-you-apply/",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "personalbanking.bankofireland.com: coming-to-ireland",
+      "url": "https://personalbanking.bankofireland.com/bank/current-accounts/personal-current-account/coming-to-ireland/",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "businessbanking.bankofireland.com: switching-to-bank-of-ireland",
+      "url": "https://businessbanking.bankofireland.com/support-centre/business-banking/business-current-accounts/switching-to-bank-of-ireland/",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.revenue.ie: what-you-should-do.aspx",
+      "url": "https://www.revenue.ie/en/jobs-and-pensions/starting-your-first-job/what-you-should-do.aspx",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.revenue.ie: 42-04-65.pdf",
+      "url": "https://www.revenue.ie/en/tax-professionals/tdm/income-tax-capital-gains-tax-corporation-tax/part-42/42-04-65.pdf",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.revenue.ie: how-to-register-for-tax-as-a-sole-trader.aspx",
+      "url": "https://www.revenue.ie/en/starting-a-business/registering-for-tax/how-to-register-for-tax-as-a-sole-trader.aspx",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.revenue.ie: company-residency-rules.aspx",
+      "url": "https://www.revenue.ie/en/companies-and-charities/corporation-tax-for-companies/corporation-tax/company-residency-rules.aspx",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "cro.ie: company-officers",
+      "url": "https://cro.ie/registration/company/incidental-obligations/company-officers/",
+      "section": 8,
+      "checkedAt": "2026-10-05",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.irishimmigration.ie: joining-your-uk-national-family-member",
+      "url": "https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/",
+      "section": 9,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.irishimmigration.ie: joining-your-uk-national-family-member",
+      "url": "https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/",
+      "section": 10,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Vorbereitung für Irland anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "country": {
+    "name": "Irland",
+    "slug": "irland",
+    "region": "Europa",
+    "map": "countries/irland-locator.svg",
+    "imageAlt": "Lagegrafik: Irland. Geografische Orientierung, keine Sicherheitsbewertung.",
+    "caption": "Geografische Orientierung. Keine Reise-, Sicherheits- oder Grenzbewertung.",
+    "summary": [
+      [
+        "Europäische Familienbasis",
+        "Englischsprachiger Alltag mit eigenem irischem Recht, nicht ein Ausstieg aus ganz Europa."
+      ],
+      [
+        "Jede Person zählt",
+        "EU-/EWR-/Schweizer Rechte, britische CTA-Rechte und andere Familienwege unterscheiden."
+      ],
+      [
+        "Vor der Anreise nutzbar",
+        "Wohnung, Schule, Behandlung und verfügbare Zahlungen in einem Ablauf vorbereiten."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Für wen Irland als zweite Basis passt",
+      "body": "<p>Wenn du in Deutschland, Österreich oder der Schweiz lebst und einen englischsprachigen Familienalltag suchst, ist Irland eine ernsthafte europäische Option. Für deutsche und österreichische Staatsangehörige beginnt die Aufenthaltsplanung bei der EU-Freizügigkeit; Schweizer Staatsangehörige haben eine eigene entsprechende Grundlage. Ein Aufenthaltstitel in einem DACH-Land allein verschafft diese Rechte nicht. Bei einer Familie mit verschiedenen Pässen kann deshalb ein Elternteil unmittelbar umziehen, während für den anderen ein eigener Nachweis- oder Antragsweg nötig ist.</p><p>Irland passt besonders dann, wenn du eine tatsächlich nutzbare europäische Alternative willst und bereit bist, Wohnort, laufendes Einkommen und Familienversorgung gemeinsam aufzubauen. Für einen geographischen Rückzug aus ganz Europa erfüllt es eine andere Aufgabe als ein Ziel auf einem anderen Kontinent. Entscheidend ist auch nicht, ob du sofort alles aufgibst: Du kannst die Voraussetzungen vorbereiten und erst später entscheiden, wann ihr sie nutzt.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Krisenreserve: ankommen können und einen Weg zurück behalten",
+      "body": "<p>Die Angst vor Krieg verlangt mehr als einen Punkt auf der Landkarte. Irlands Inselposition trennt dich räumlich vom europäischen Festland, macht die Anreise aber von Flug- oder Fährverbindungen abhängig. Dazu kommen eingeführte Waren, Medikamente und Energie. Eine Insel ist deshalb nicht automatisch ein krisensicherer Ort.</p><h3>Was vor einer Verschärfung stehen muss</h3><p>Für jedes Familienmitglied müssen Einreise, ein möglicher Transit und der spätere Aufenthalt zusammenpassen. Eine Fährroute über das Vereinigte Königreich kann andere Transitfragen aufwerfen als eine direkte Verbindung. Dazu brauchst du eine Unterkunft, die ihr zum benötigten Zeitpunkt wirklich nutzen dürft, Zugang auch bei verspäteter Ankunft und Geld für die erste Zeit. Eine Reservierung ohne geklärte Nutzungsdauer oder ein vermietetes Kaufobjekt löst das nicht.</p><p>Erstmalige Anreise und erhaltene Reserve sind zwei Aufgaben: Vor der Abfahrt werden die tatsächliche Verbindung, Unterlagen, Schlüsselübergabe und Anschlussversorgung bestätigt. Während ihr wieder im bisherigen Wohnland seid, müssen Zahlungen, Unterkunft und erreichbare Hilfe weiter funktionieren. Wenn Kapitalverkehrsbeschränkungen oder eine Kontosperre deine Sorge sind, gehört eine rechtmäßig verfügbare Zahlungsreserve vor die Krise, nicht auf die Einkaufsliste am Abreisetag.</p><h3>Rückkehr mit vorbereiten</h3><p>Lege fest, ob euer bisheriges Zuhause erhalten bleibt, wie Schule, Arbeit und Behandlung dort weitergehen und wer während eurer Abwesenheit handeln darf. Irische Familienrechte und die Möglichkeit, später wieder nach Irland zu kommen, werden getrennt von der Rückkehr ins Herkunftsland betrachtet. Die Vertiefung <a href=\"/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/\">Wohin bei Krieg?</a> hilft, diese Anforderungen statt einer pauschalen Sicherheitsrangliste zu vergleichen. Bei der <a href=\"/de/leistungen/laender-standortauswahl/\">Länder- und Standortauswahl</a> machen wir daraus einen begründeten Vergleich für deine Familie.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Eine dauerhafte Familienbasis entsteht am konkreten Wohnort",
+      "body": "<p>Für einen dauerhaften Umzug muss eine normale Woche funktionieren: Schule, Arbeitsbeginn, Einkauf, Behandlung und Betreuung. Deshalb wählen wir nicht zuerst ein Haus und suchen danach irgendeine Schule. Wir verbinden erreichbare Schulen und deren Aufnahmeverfahren mit geeigneten Wohnangeboten, Pendelwegen und medizinischen Anlaufstellen. Ein niedrigerer Objektpreis hilft nicht, wenn der Schulweg oder die laufende Versorgung den Alltag untragbar macht.</p><p>Bei gestaffelter Ankunft braucht auch der später nachziehende Elternteil einen passenden Aufenthaltsweg. Für Kinder gehören Pässe, Geburts- und Sorgerechtsnachweise sowie erforderliche Zustimmungen zur Vorbereitung. Ein Schulplatz verschafft Eltern kein eigenes Bleiberecht. Unterschiedliche Staatsangehörigkeiten oder getrennt lebende Eltern werden deshalb vor einer bindenden Wohnentscheidung berücksichtigt.</p><p>Das laufende Familienbudget umfasst mehr als die Miete: Übergangsunterkunft, Einrichtung, Wege, Kinderbetreuung, Versicherung und laufende Behandlung müssen neben dem Lebensunterhalt bezahlt werden können. Ein Einkommensnachweis für ein Aufenthaltsverfahren ist nicht automatisch Geld, auf das du morgen zugreifen kannst. Wir trennen nachgewiesenen Unterhalt, tatsächlich verfügbares Haushaltsgeld und Reserve für Verzögerungen.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Mobile Nutzung: Aufenthalte und Arbeit sauber auseinanderhalten",
+      "body": "<p>Eine Wohnung für einzelne Aufenthalte ist etwas anderes als der gemeinsame dauerhafte Familienwohnsitz. Für EU-Freizügigkeitsfälle über drei Monate muss der passende Aufenthaltsgrund getragen sein, etwa tatsächliche Arbeit oder ausreichende Mittel und Krankenversicherung. Der gesonderte UK-Familienweg setzt die Absicht voraus, dauerhaft gemeinsam in Irland zu leben. Er ist kein beliebiges Besuchsrecht für Angehörige, während der Sponsor dauerhaft anderswo lebt.</p><p>Führe bei wechselnden Aufenthalten Kalender über Anwesenheit und tatsächliche Arbeitsorte. Revenue beurteilt die persönliche Steueransässigkeit grundsätzlich nach mindestens 183 Tagen im Kalenderjahr oder insgesamt 280 Tagen im laufenden und vorherigen Jahr. Bei höchstens 30 Tagen im betreffenden Jahr greift diese Ansässigkeit nicht; grundsätzlich zählt bereits ein Teil eines Tages. Diese Regeln sind keine steuerfreie Arbeitserlaubnis für die ersten 182 Tage. Auch unterhalb der Ansässigkeitsgrenze können in Irland ausgeübte Tätigkeiten steuerlich relevant sein.</p><p>Vor jeder erneuten Nutzung gehören gültige Reisedokumente, gegebenenfalls Aufenthaltsnachweis und fortbestehende Familienvoraussetzungen in dieselbe Planung wie Schuljahr und Behandlung. Deutsche, österreichische und Schweizer Wegzugs- oder Rückkehrfolgen bleiben jeweils eigene Fälle. Eine irische Adresse beendet sie nicht.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.revenue.ie/en/jobs-and-pensions/tax-residence/resident-for-tax-purposes.aspx\" rel=\"noreferrer\">Revenue: Steuern und Registrierung</a>; <a href=\"https://www.revenue.ie/en/tax-professionals/tdm/income-tax-capital-gains-tax-corporation-tax/part-42/42-04-65.pdf\" rel=\"noreferrer\">Revenue: Steuern und Registrierung</a></p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Welche Rechte deine Familie in Irland tatsächlich nutzen kann",
+      "body": "<h3>EU, EWR und Schweiz: vorhandene Berechtigung nutzen</h3><p>Für einen längeren Aufenthalt in Irland tragen bei Freizügigkeitsberechtigten insbesondere Arbeit oder echte Selbstständigkeit den Aufenthaltsgrund. Wer ohne Erwerbstätigkeit von eigenen Mitteln lebt, braucht ausreichende Mittel für sich und die Familie sowie umfassende Krankenversicherung. Dafür ist keine britische Sponsorschwelle maßgeblich. Einkommen, verfügbare Ersparnisse und die konkrete Absicherung müssen den gewählten Fall tatsächlich tragen. Studium und Arbeitssuche haben eigene Bedingungen und sind keine austauschbaren Etiketten für einen unbegrenzten Aufenthalt.</p><p>Bei nicht freizügigkeitsberechtigten Angehörigen kommt es auf Beziehung, Abhängigkeit und das ausgeübte Recht der Bezugsperson an. Die irische Behörde unterscheidet unmittelbar erfasste und gesondert zu berücksichtigende Angehörige. Eine Familienkarte aus einem anderen EU-Staat ersetzt nicht einfach die irische Aufenthaltskarte für einen langfristigen Aufenthalt.</p><h3>Britische Staatsangehörige und ihre nichtbritischen Angehörigen</h3><p>British und Irish citizens besitzen unter der Common Travel Area besondere Rechte. Bloßer Wohnsitz im Vereinigten Königreich oder in den VAE genügt dafür nicht. Nichtbritische Angehörige erhalten diese Rechte nicht allein durch die Beziehung. Bei einem britischen Zuzug nach dem 31. Dezember 2020 ist für betroffene Nicht-EWR-/Nicht-Schweizer Angehörige der gesonderte Join-Family-Weg relevant; frühere Aufenthalts- und Familienkonstellationen können dem Austrittsabkommen zuzuordnen sein.</p><p>Im UK-Scheme wird aus dem Heimatstaat oder dem Staat des rechtmäßigen Wohnsitzes vor der Reise beantragt. Visumpflichtige benötigen das Long Stay D-Visum „Join Family UK National“, nichtvisumpflichtige Angehörige eine Preclearance. Jede betroffene Person stellt einen eigenen Antrag über AVATS. Die unterschriebene Zusammenfassung bezeichnet die zuständige Abgabestelle; Dokumente und Gebühr sind innerhalb von 30 Tagen nach dem Onlineantrag einzureichen. Während der Bearbeitung bleibt der Antragsteller außerhalb Irlands. Erst danach folgen Reise, Einreiseentscheidung und gegebenenfalls Registrierung. Eine Besucherreise ist unter diesem Scheme kein allgemeiner Weg zur nachträglichen Umwandlung.</p><p>Ehe und eingetragene Partnerschaft verlangen die anerkannten Nachweise und eine nachvollziehbare Beziehung. Bei De-facto-Partnern sind mindestens zwei Jahre Zusammenleben zu belegen. Kinder benötigen die passende Abstammungs-, Abhängigkeits- und gegebenenfalls Sorgerechtsgrundlage; bei gemeinsamer Sorge kann die Zustimmung des anderen Elternteils entscheidend sein. Abhängige Eltern ab 66 Jahren bilden eine eigene Kategorie. Dass ein Elternteil Unterstützung braucht, ersetzt weder den Abhängigkeitsnachweis noch die Prüfung anderer tragfähiger Betreuungsmöglichkeiten.</p><p>Zum Antrag gehört private Krankenversicherung für ein Jahr ab geplanter Einreise, bei einem von der irischen Health Insurance Authority zugelassenen Unternehmen. Die Deckung muss private Versorgung während eines Aufenthalts in einem privaten Krankenhaus umfassen. Eine passende Gruppenversicherung des Sponsors ist möglich. Hinzu kommen aktuelle Bankauszüge für sechs Monate und der Nachweis, dass der Sponsor den Unterhalt ohne Abhängigkeit von öffentlichen Mitteln tragen kann.</p><p>Für kinderlose Ehe-, Civil-partnership- oder De-facto-Paare nennt die UK-Scheme-Seite mit Stand 12. Juni 2026 mindestens 20.000 EUR anrechenbares Jahreseinkommen zusätzlich zu etwaigen staatlichen Leistungsansprüchen. Das ist weder eine allgemeine EU-Schwelle noch ein ausreichendes Familienbudget für jeden Wohnort. Kinder und abhängige Eltern werden nach ihrer eigenen Kategorie beurteilt.</p><p>Nach der Einreise erfolgt die erforderliche Registrierung vor Ablauf des Einreisestempels; das Scheme nennt zunächst zwölf Monate. Unter 16-Jährige müssen nicht registriert werden. Für abhängige Eltern nennt ISD Stamp 0. Daraus lässt sich kein einheitliches Arbeitsrecht für jeden Angehörigen ableiten. Ohne Freizügigkeits-, CTA- oder passenden Familienfall muss der eigene Aufenthaltsweg vor einer Wohnungsbindung geklärt sein. Eine Firmenregistrierung oder ein Hauskauf erledigt das nicht.</p><div class=\"exb-criteria-table\" role=\"region\" tabindex=\"0\" aria-label=\"Irland nach Nutzung, Recht und Vorbereitung vergleichen\"><table><caption>Welche Voraussetzungen deine Nutzung Irlands tragen müssen</caption><thead><tr><th scope=\"col\">Nutzung</th><th scope=\"col\">Recht und Nichtfolge</th><th scope=\"col\">Nachweise und Anwesenheit</th><th scope=\"col\">Konkrete Vorbereitung</th></tr></thead><tbody><tr><th scope=\"row\">Vorbereitete Krisenreserve</th><td>Jede Person braucht einen passenden Einreiseweg; länger bleiben zu dürfen ist eine eigene Frage. Eigentum ersetzt keinen Status.</td><td>Reisepapiere, erforderliche Vorabgenehmigung und tatsächlich nutzbare Unterkunft. Eine nur vorgehaltene Adresse begründet keinen gelebten Familienaufenthalt.</td><td>Reise-/Transitweg, verfügbare Wohnung, Schlüssel, Erstversorgung und unabhängige Zahlmöglichkeit organisieren.</td></tr><tr><th scope=\"row\">Dauerhafte Familienbasis</th><td>EU-/EWR-/Schweizer Aufenthaltsgrund, CTA oder passender individueller Familienweg. Die Rechte eines Elternteils gelten nicht automatisch für alle.</td><td>Arbeit oder Mittel/Versicherung, Familien- und Sorgerechtsbelege; nötige Registrierung und Fortbestand des gemeinsamen Lebens.</td><td>Wohnung, Schule, Behandlung, Dokumentenfolge und finanzierten Einzug zusammenführen.</td></tr><tr><th scope=\"row\">Mobile Nutzung</th><td>Erneute Einreise, fortbestehender Status und zulässige Arbeit getrennt beurteilen. Keine Steuerfreiheit aus einem zweiten Konto.</td><td>Tatsächliche Anwesenheits- und Arbeitstage, Familienbindung, Versicherung und geltende Karten-/Titelfristen nachhalten.</td><td>Abwesenheit, Zahlungen, Vertretung und Unterkunft betreuen; nächste Nutzung vor der Abreise bestätigen.</td></tr></tbody></table></div><p class=\"exb-citation\">Quellen: <a href=\"https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-an-eea-or-swiss-national/eu-treaty-rights/\" rel=\"noreferrer\">ISD: Aufenthalt und Familie</a>; <a href=\"https://www.irishstatutebook.ie/eli/2015/si/548/made/en/print\" rel=\"noreferrer\">Irish Statute Book: S.I. 548/2015</a>; <a href=\"https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/\" rel=\"noreferrer\">ISD: Aufenthalt und Familie</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Firland%2F#kurzanfrage\">Vorbereitung für Irland anfragen</a><p>Beschreibe kurz, was für Irland stehen soll: Familienbasis, konkrete Unterkunft, Dokumente oder Ankunft. Persönliche Nachweise folgen im vereinbarten geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/#kontaktbeginn\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Dublin, angebundener Ort oder ländliche Lage: Wohnen muss funktionieren",
+      "body": "<p>In Dublin lassen sich Wohnlagen entlang von Luas, DART, Commuter Rail und Busverbindungen vergleichen. Relevant sind die tatsächliche Haltestelle, Umstiege und Wege zur gewählten Schule oder Behandlung. Außerhalb Dublins sind ein kleinerer Ort an einer festen Local-Link-Verbindung und ein verstreut liegendes Haus mit vorbestelltem Verkehr zwei verschiedene Alltagsmodelle. Für den ländlichen Door-to-door-Dienst nennt TFI mindestens 24 Stunden Vorbuchung; einzelne Dienste fahren täglich, wöchentlich oder vierzehntäglich. „Local Link vorhanden“ bedeutet deshalb nicht automatisch einen täglichen Schul- oder Arztweg.</p><p>Wir stellen konkrete Wohnangebote neben diese Wege und die verfügbare Reserve. Eine zunächst befristete Ankunftsunterkunft kann Besichtigungen und Aufnahmegespräche ermöglichen, bevor du dich langfristig bindest. Für längere Abwesenheit braucht die spätere Wohnung zusätzlich geregelten Zugang, laufende Versorgung und eine tatsächlich vereinbarte Betreuung.</p><h3>Mieten: vor der Kaution das Objekt und den Vertrag kennen</h3><p>Besichtige das Objekt oder lass die Besichtigung organisiert durchführen. Vor einer Kautionszahlung müssen Vermieterkontakt, Zahlungsempfänger, vereinbarte Nutzung und Mietbedingungen feststehen. Für gewöhnliche private Mietverhältnisse nennt die RTB höchstens eine Monatsmiete als Kaution. Bargeldlose Zahlung, datierte Quittung sowie ein dokumentierter Zustand mit Inventar und Übergabetermin machen die Vereinbarung nachvollziehbar. Ein früher Ausstieg aus einem befristeten Vertrag kann Folgen haben. Hotel, Ferienunterkunft und Wohnen im Haushalt des Vermieters sind nicht automatisch derselbe Vertragstyp wie eine private Tenancy.</p><p>Seit 1. März 2026 gelten nationale Mietkontrollen für private Tenancies und studentische Spezialunterkünfte: grundsätzlich höchstens eine Erhöhung pro Jahr um 2 Prozent oder die niedrigere CPI-Inflation. Bei neuen Apartments und entsprechenden Studentenunterkünften mit Baubeginn ab 10. Juni 2025 gilt als Ausnahme CPI ohne die 2-Prozent-Kappe. Approved-Housing-Body- und Cost-Rental-Mietverhältnisse fallen nicht unter diese allgemeine Regel.</p><p>Für ab 1. März 2026 begonnene private Mietverhältnisse greifen nach sechs ununterbrochenen Monaten ohne wirksame Kündigung die neuen Bestandsschutzregeln. Bei Unternehmensvermietern oder mindestens vier Mietverhältnissen sind danach Vertragsverstöße und eine für den Bedarf ungeeignete Wohnung die genannten Kündigungsgründe. Kleine Vermieter mit ein bis drei Mietverhältnissen haben zusätzliche gesetzliche Gründe, unter anderem eigenen beziehungsweise familiären Wohnbedarf oder einen Verkauf zur Vermeidung unzumutbarer Härte. Sechsjährige Zyklen sind deshalb keine unbedingte persönliche Wohnzusage. Für ältere Verträge gelten andere Kündigungsgründe.</p><p>Auch eine Neuvermietung erlaubt nicht beliebig eine neue Marktmiete. Die RTB unterscheidet unter anderem den Beginn des Vertrags, den Grund für das Ende des Vorgängervertrags und den Ablauf des sechsjährigen Zyklus. Für zwei Jahre nicht vermietete Objekte nennt sie einen besonderen Reset-Fall. Diese Mietgeschichte gehört vor Unterschrift zur Objektprüfung.</p><h3>Kaufen: Titel, Zustand und freie Nutzung sind drei Fragen</h3><p>Beziehe einen irischen Solicitor ein, bevor du zahlst oder dich bindest. Er prüft Eigentumstitel, Belastungen, Miteigentumsform und Vertragsfragen. Bei einer Auktion muss das vor dem bindenden Zuschlag geschehen. Beim Bestandsobjekt wird ein baulicher Survey vor Vertragsunterzeichnung organisiert; bei Neubauten gehören Baukontrollen und Mängelliste in den Ablauf. Ein rechtlich übertragbarer Titel sagt noch nichts über den baulichen Zustand oder eure sofortige Einzugsmöglichkeit.</p><p>Ein vermietetes Objekt kann mit fortbestehendem Mietverhältnis auf dich übergehen. Kaufe es daher nicht als unmittelbar verfügbare Familienbasis, ohne die tatsächliche freie Nutzbarkeit zu klären. Finanzierung, Mittelherkunft, Identitätsprüfung und der Restkaufpreis müssen rechtzeitig bereitstehen. Der Solicitor koordiniert Vertrag, Titelfragen, Searches, Closing-Unterlagen und Abschluss. Danach folgen steuerliches Stamping und Titelregistrierung. Für seit dem 1. Juni 2011 erworbenes unregistriertes Land greift die verpflichtende Erstregistrierung bei Tailte Éireann.</p><p>Vor Closing werden außerdem Property ID und LPT Property History, Bewertung, behauptete Befreiungen, Rückstände oder aufgeschobene Beträge und Revenue Clearance geprüft. Unbezahlte Local Property Tax kann am Objekt haften. Kaufpreis, Stamp Duty, Rechts- und Registerkosten, Survey, Finanzierung und Reparaturen sind getrennte Budgetposten, keine pauschale Nebenkostenquote.</p><p>Über <a href=\"/de/leistungen/ankunft-organisieren/\">Ankunft im Zielland organisieren</a> kannst du Suchauftrag, Besichtigungen, organisierte unabhängige Kaufprüfung, Abschlusskoordination, Schlüsselübergabe und Einrichtung verbinden lassen. EXOBASIS führt die organisatorische Arbeit zusammen; der Solicitor übernimmt die juristische Kaufabwicklung.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.transportforireland.ie/plan-a-journey/network-maps/dublin-area-train-tram-services/\" rel=\"noreferrer\">Transport for Ireland</a>; <a href=\"https://www.transportforireland.ie/tfi-local-link/\" rel=\"noreferrer\">Transport for Ireland</a>; <a href=\"https://rtb.ie/renting/rights-responsibilities/security-deposits/\" rel=\"noreferrer\">RTB: Mietrecht</a>; <a href=\"https://rtb.ie/renting/rental-law-changes-from-1-march-2/\" rel=\"noreferrer\">RTB: Mietrecht</a>; <a href=\"https://www.lawsociety.ie/public/legal-guides/property/buying-a-home/\" rel=\"noreferrer\">Law Society of Ireland: Buying a home</a>; <a href=\"https://tailte.ie/services/first-registration/\" rel=\"noreferrer\">Tailte Éireann: First registration</a>; <a href=\"https://www.revenue.ie/en/property/local-property-tax/selling-buying-or-transferring-a-property/you-are-buying-a-property.aspx\" rel=\"noreferrer\">Revenue: Steuern und Registrierung</a></p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Arzt und Pflege vor dem Umzug zusammenbringen",
+      "body": "<h3>Kinder und Angehörige</h3><p>Irische Schulen veröffentlichen ihre Admission Policy, eine jährliche Admission Notice und das Antragsformular. Darin stehen Auswahlregeln, Termine, angebotene Plätze und der Entscheidungszeitpunkt. Der jährliche Aufnahmeprozess darf frühestens am 1. Oktober des vorausgehenden Schuljahres beginnen. Bei einem späteren Zuzug ist die tatsächliche Aufnahme mit der Schule zu klären, statt daraus ein allgemeines Verbot unterjähriger Anfragen abzuleiten.</p><p>Bei Überbelegung greifen die veröffentlichten Auswahlregeln. Eine Anfrage oder eine nahe gelegene Wohnung reserviert deshalb keinen Platz. Wir verbinden Lernstand, Alter, Unterlagen, Entscheidungstermine und Schulweg mit der Wohnsuche und halten eine Alternative offen, bis eine Aufnahme bestätigt ist. Die Vertiefung <a href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a> erklärt zusätzlich die personen- und sorgerechtsbezogenen Unterlagen.</p><h3>Krankenversicherung und tatsächliche Behandlung</h3><p>Ein Aufenthaltsrecht, eine Versicherung und ein Arzt, der dich aufnimmt, sind unterschiedliche Dinge. Wer in der Republik lebt und mindestens ein Jahr dort leben will, kann eine Medical Card beantragen. Ob sie bewilligt wird, hängt von den persönlichen Umständen ab; ohne automatische Berechtigung prüft HSE unter anderem Einkommen, Ausgaben und Angehörige. Für den Antrag werden PPS-Nummern und die entsprechenden Angaben benötigt. Wer keine Medical Card erhält, wird anschließend auf eine GP Visit Card geprüft.</p><p>Die Medical Card umfasst unter anderem GP-Besuche und bestimmte weitere Leistungen; sie ist nicht mit einer privaten Krankenversicherung gleichzusetzen. Die GP Visit Card betrifft den GP-Zugang und ersetzt nicht den umfassenderen Leistungsumfang der Medical Card. Plane bei entsprechendem Einkommen nicht einfach mit einer kostenlosen Familienversorgung. Für laufende Behandlung müssen Finanzierung, Versicherung, ärztliche Aufnahme und Übergabe der Befunde zusammenpassen.</p><p>Die HSE fragt im Medical-Card-Verfahren den gewählten GP um Aufnahme. Erst wenn in dieser Konstellation drei GPs ablehnen, nennt HSE einen Zuweisungsweg. Daraus folgt keine allgemeine sofortige Arztzusage für jeden Zuziehenden. Vor dem Umzug gehören benötigte Behandlung, Medikamente und eine Überbrückung an den konkreten Wohnort. Die Vertiefung <a href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a> trennt Versicherungsdeckung und Behandlungsweg.</p><h3>Pflege und Begleitung</h3><p>Home Support beginnt mit einem Antrag und einer Bedarfsprüfung: Ein Gesundheitsfachberuf betrachtet alltägliche Tätigkeiten, medizinische Unterstützung, Familie und örtliche Hilfe. Erst danach teilt HSE die Entscheidung mit und organisiert gegebenenfalls Leistungen durch HSE oder einen zugelassenen Anbieter. Eine Adresse beim Kind oder eine Versicherung ersetzt diese Entscheidung nicht.</p><p>Für einen pflegebedürftigen Angehörigen bereiten wir Unterstützungsbedarf, Befunde, Medikamente, Hilfsmittel, Reisebegleitung und die Versorgung zwischen Ankunft und bestätigter Aufnahme gemeinsam vor. <a href=\"/de/wissen/familie-alltag/pflege-medikamente/\">Pflege und Medikamente beim Ortswechsel</a> vertieft diesen Übergang. Über <a href=\"/de/leistungen/familie-unternehmen/\">Familie und Unternehmen handlungsfähig halten</a> lässt sich die Organisation einschließlich Zuständigkeiten und notwendiger Facharbeit beauftragen.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.gov.ie/en/department-of-education/policy-information/school-admissionsenrolment/\" rel=\"noreferrer\">Department of Education: School admissions</a>; <a href=\"https://www2.hse.ie/services/schemes-allowances/medical-cards/about-the-medical-card/what-it-covers/\" rel=\"noreferrer\">HSE: Versorgung und Anträge</a>; <a href=\"https://www2.hse.ie/services/schemes-allowances/medical-cards/about-the-medical-card/gps-who-accept-medical-cards/\" rel=\"noreferrer\">HSE: Versorgung und Anträge</a>; <a href=\"https://www2.hse.ie/services/home-support-service/after-you-apply/\" rel=\"noreferrer\">HSE: Versorgung und Anträge</a></p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Geldzugang und Einkommen: was in Irland wirklich funktionieren muss",
+      "body": "<h3>Ein Konto für den tatsächlichen Umzug</h3><p>Bank of Ireland bietet mit „Coming to Ireland“ einen veröffentlichten Privatkonto-Antragsweg für Personen ab 18 Jahren, die innerhalb der nächsten 45 Tage in die Republik ziehen oder zurückkehren und die Produktkriterien erfüllen. Benötigt werden gültiger Fotoausweis, Adressnachweis und beim Onlineantrag ein Selfie. Nichtenglische Adressbelege müssen vor Antragstellung übersetzt und beglaubigt werden. Die Bank entscheidet über die Aufnahme.</p><p>Innerhalb von 60 Tagen nach Eröffnung muss eine irische Postadresse nachgetragen werden. Ohne dieses Update wird das Konto gesperrt; fehlt die Adresse weitere 30 Tage später noch, wird es geschlossen. Dieser Weg ist deshalb kein dauerhaft voraussetzungsloses Auslandskonto für eine nur auf dem Papier vorbereitete Reserve.</p><h3>Nachweisbares Vermögen ist noch keine verfügbare Zahlung</h3><p>Für Miete, Einrichtung und einen Kauf brauchst du rechtzeitig verfügbare Euro-Beträge. Die Bank kann Mittelherkunftsnachweise verlangen; beim Kauf kommen die Prüfung des Solicitors und das Closingdatum hinzu. Herkunft, Absender, Empfänger, Währungsumrechnung und Verfügbarkeit des Kaufpreises werden vor der Hauptübertragung abgestimmt. Eine kurz vorher beantragte neue Bankverbindung sollte nicht der einzige Zahlungsweg sein.</p><p>Ein zweites Konto hilft bei einer Sperre des ersten nur, wenn Guthaben, Karte, Authentifizierung und Befugnisse tatsächlich unabhängig nutzbar sind. Beide Konten am selben verlorenen Telefon zu haben, löst diese Abhängigkeit nicht. Ein irisches Konto schützt auch nicht automatisch vor Kapitalverkehrsbeschränkungen oder Ansprüchen des Herkunftsstaats. <a href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Bankkonto und Zahlungsfähigkeit</a> erklärt diese Unterschiede. Mit <a href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität</a> bereiten wir die passenden Antragsunterlagen, Zahlungsschritte und Ersatzwege vor. Für einen größeren Kaufpreis kannst du die <a href=\"/de/leistungen/vermoegen-uebertragen/\">Vermögensübertragung</a> einschließlich Herkunftsunterlagen und abgestimmtem Zahlungsablauf beauftragen.</p><h3>Arbeiten, selbstständig sein oder eine Firma leiten</h3><p>Als EU-/EWR- oder Schweizer Staatsangehöriger darfst du in Irland angestellt oder selbstständig arbeiten. Für britische und irische Staatsbürger gilt das im Rahmen der Common Travel Area ebenfalls. Bei anderen Staatsangehörigkeiten zählt für jede Person der konkrete Aufenthalts-, Familien- oder Beschäftigungsstatus samt seinen Bedingungen. Prüfe vor Arbeitsbeginn das Erlaubnisschreiben und ein gegebenenfalls erforderliches Employment Permit. Stamp 1G erlaubt beispielsweise Beschäftigung, aber keine Selbstständigkeit; Stamp 3 erlaubt beides nicht. Ein Konto, eine Steuerregistrierung, Englischkenntnisse oder ein ausländischer Auftraggeber schaffen keine Tätigkeitsberechtigung. Auch ein bloß eingereichter Familienantrag ersetzt sie nicht. Sobald deine geplante Tätigkeit abgedeckt ist, folgen die steuerlichen Schritte.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-an-eea-or-swiss-national/eu-treaty-rights/\" rel=\"noreferrer\">ISD: EU Treaty Rights</a>; <a href=\"https://www.gov.uk/government/publications/common-travel-area-guidance/common-travel-area-guidance\" rel=\"noreferrer\">GOV.UK: Working in the Common Travel Area</a>; <a href=\"https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/\" rel=\"noreferrer\">ISD: Immigration permission/stamps</a></p><p>Beim ersten irischen Job werden PPSN, myAccount und die Registrierung des Jobs mit Arbeitgeber-Steuernummer, Beginn und Zahlungsrhythmus benötigt. Revenue stellt dem Arbeitgeber die Payroll Notification bereit. Das betrifft auch einen ersten vorübergehenden oder Teilzeitjob und hilft, eine vermeidbare Emergency-Tax-Abrechnung zu verhindern.</p><p>Ein ausländischer Arbeitsvertrag und ein ausländisches Gehaltskonto machen tatsächlich in Irland ausgeübte Arbeit nicht pauschal steuerfrei. Der Arbeitgeber muss die irische PAYE-Behandlung und etwaige Registrierungen berücksichtigen. Entsendungs- und Abkommensfälle haben eigene Voraussetzungen; sie sind keine allgemeine Remote-Work-Ausnahme.</p><p>Bei echter Selbstständigkeit als Sole Trader ist zuerst eine PPSN nötig; erst mit der passenden Steuerregistrierung wird sie zur Tax Reference Number. Bisherige PAYE-/LPT-Nutzer können die Income-Tax-Self-assessment-Registrierung über myAccount vornehmen. Anschließende Erklärungen und Zahlungen laufen über ROS. VAT und Arbeitgeber-PAYE sind gesonderte Steuerarten, nicht automatisch Pflichten jeder mobilen Person.</p><p>Leitest du eine ausländische Gesellschaft tatsächlich von Irland aus, kann Revenue deren zentrale Leitung und Kontrolle dort verorten, etwa anhand von Unternehmensentscheidungen, Investitionen und wesentlichen Verträgen. Das ist etwas anderes als deine persönliche Steueransässigkeit oder die EWR-Director-Regel einer irischen Gesellschaft. Bei einem Geschäftskonto verlangt die Bank formbezogene Unternehmens-, Identitäts- und Berechtigungsnachweise. EXOBASIS organisiert die nötige Steuer- und Unternehmensfacharbeit passend zur tatsächlichen Tätigkeit.</p><p class=\"exb-citation\">Quellen: <a href=\"https://personalbanking.bankofireland.com/bank/current-accounts/personal-current-account/coming-to-ireland/\" rel=\"noreferrer\">Bank of Ireland: Coming to Ireland</a>; <a href=\"https://businessbanking.bankofireland.com/support-centre/business-banking/business-current-accounts/switching-to-bank-of-ireland/\" rel=\"noreferrer\">Bank of Ireland: Business account documents</a>; <a href=\"https://www.revenue.ie/en/jobs-and-pensions/starting-your-first-job/what-you-should-do.aspx\" rel=\"noreferrer\">Revenue: Steuern und Registrierung</a>; <a href=\"https://www.revenue.ie/en/tax-professionals/tdm/income-tax-capital-gains-tax-corporation-tax/part-42/42-04-65.pdf\" rel=\"noreferrer\">Revenue: Steuern und Registrierung</a>; <a href=\"https://www.revenue.ie/en/starting-a-business/registering-for-tax/how-to-register-for-tax-as-a-sole-trader.aspx\" rel=\"noreferrer\">Revenue: Steuern und Registrierung</a>; <a href=\"https://www.revenue.ie/en/companies-and-charities/corporation-tax-for-companies/corporation-tax/company-residency-rules.aspx\" rel=\"noreferrer\">Revenue: Steuern und Registrierung</a>; <a href=\"https://cro.ie/registration/company/incidental-obligations/company-officers/\" rel=\"noreferrer\">CRO: Company officers</a></p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Unterlagen und Vorlauf: die Schritte in eine brauchbare Reihenfolge bringen",
+      "body": "<ol><li><strong>Personen und Weg festlegen.</strong> Pässe, heutiger rechtmäßiger Wohnsitz, Familienbeziehungen, Sorge und geplante Nutzung bestimmen, welches Verfahren jede Person braucht. Bei Freizügigkeit folgen die passenden Arbeits- oder Mittel-/Versicherungsnachweise, beim UK-Scheme die dort verlangten Familienunterlagen und Vorabgenehmigungen.</li><li><strong>Belege in der richtigen Form beschaffen.</strong> Personenstand, gegebenenfalls Sorgebeschluss, Zusammenleben, Unterhalt und Versicherung werden nach den Anforderungen der empfangenden Stelle vorbereitet. Das UK-Scheme verlangt außerdem entsprechende Führungszeugnisse beziehungsweise Police Clearance für die erfassten Wohnstaaten. Übersetzung oder Beglaubigung richtet sich nach Dokument und Verfahren, nicht nach einer pauschalen Apostillenliste für alles.</li><li><strong>Anträge und verbindliche Termine verbinden.</strong> AVATS-Zusammenfassung und Einreichstelle, erforderliche Originale, Schulfristen, Besichtigungen und früheste realistische Ankunft werden aufeinander abgestimmt. Ein Antrag ist noch keine Genehmigung; eine geplante Ankunft kein bestätigter Einzug.</li><li><strong>Nach Ankunft anschließen.</strong> Erforderliche Aufenthaltsregistrierung, echte Bankadresse, PPSN beziehungsweise Jobregistrierung, Übergabe, Versorgungsverträge und vereinbarte Arztkontakte werden in der passenden Reihenfolge erledigt.</li></ol><p>Du kannst <a href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a> direkt beauftragen. Wir beschaffen und ordnen die vereinbarten Unterlagen, koordinieren Übersetzungen und Facharbeit, bereiten die Einreichung vor und verfolgen Rückfragen. Persönlich erforderliche Identitäts- oder Behördentermine bleiben bei der betroffenen Person. Sensible Nachweise gehören in den vereinbarten geschützten Austausch.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/\" rel=\"noreferrer\">ISD: Aufenthalt und Familie</a></p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Die irische Basis erhalten, auch wenn du nicht dort bist",
+      "body": "<p>Eine einmal eingerichtete Option bleibt nur nutzbar, wenn ihre Voraussetzungen weiterbestehen. Bei registrierungspflichtigen Angehörigen gehören Ablauf und Verlängerung, fortbestehende Beziehung und Sponsorstatus in die laufende Betreuung. Tod oder Wegzug des Sponsors und eine Trennung können den Aufenthaltsfall verändern. Die nächste Reise wird deshalb nicht allein nach dem Ablaufdatum des Passes geplant.</p><p>Für die Unterkunft werden Mietzahlungen oder Eigentumspflichten, LPT, Versicherung, Versorgungsverträge, Schlüssel und vereinbarte Kontrollen nachgehalten. Bei längerer Abwesenheit muss klar sein, wer einen Schaden bemerkt, Zugang organisieren darf und die Wohnung vor eurer Rückkehr vorbereitet. Ein Steuer- oder Bankbrief an eine nicht mehr genutzte Adresse darf nicht zum ersten Hinweis werden, dass die Basis nicht mehr funktioniert.</p><p>Für dein Unternehmen braucht es eine Person, die nicht nur erreichbar, sondern tatsächlich befugt ist: Verträge, Bankmandate und technische Zugänge müssen zu ihrer Aufgabe passen. Eine Directorbenennung ersetzt diese Arbeitsfähigkeit nicht. Die Vertiefung <a href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\">Vollmachten, Vertretung und Nachfolge</a> erklärt den Unterschied; mit <a href=\"/de/leistungen/familie-unternehmen/\">Familie und Unternehmen handlungsfähig halten</a> organisieren wir die vereinbarte Umsetzung.</p><p>Bei Selbstständigkeit laufen Erklärungen und Zahlungen über ROS weiter; andere Unternehmenspflichten richten sich nach der tatsächlichen Form. Über <a href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a> kannst du Fristen, Unterlagen, Wohnlösung und vereinbarte Kontakte betreuen lassen. Änderungen bei Schule, Pflege oder Einkommen lösen einen konkreten Abgleich aus, bevor die nächste Nutzung scheitert.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/\" rel=\"noreferrer\">ISD: Aufenthalt und Familie</a></p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Was EXOBASIS für deine Irland-Vorbereitung übernimmt",
+      "body": "<p>Du kannst einen zusammenhängenden Aufbau oder eine konkrete Teilaufgabe beauftragen. Wir übersetzen deinen Bedarf in eine begründete Ortsauswahl, organisieren geeignete Wohnangebote und Besichtigungen, führen Dokumenten- und Aufenthaltsarbeit zusammen und koordinieren notwendige Rechts-, Steuer- und Versorgungsfachleute. Beim Kauf begleiten wir den organisatorischen Weg von Suchauftrag und unabhängiger Prüfung bis Abschluss, Übergabe und Einrichtung. Für die Ankunft verbinden wir Reiseablauf, Unterkunft, erste Termine und verfügbare Zahlungen.</p><p>Du erhältst nicht nur Empfehlungen, sondern die vereinbarten erledigten Aufgaben, geordneten Unterlagen und nachvollziehbaren Zuständigkeiten für das, was weiterläuft. Fachmandate, eigene Arbeit und Fremdkosten werden im Angebot auseinandergehalten. Betreiber und Vertragspartner ist Exobasis LLC. Eine vorgelagerte Beratung ist kein Pflichtkauf für eine bereits klar benannte Aufgabe.</p><h3>Irland mit Portugal und Island vergleichen</h3><p><a href=\"/de/laender/portugal/\">Portugal als persönliche Ausweichoption</a> ist wie Irland eine europäische Familienentscheidung. Wer als EU-Bürger vorhandene Rechte nutzen kann, muss nicht zuerst ein zusätzliches Aufenthaltsprodukt kaufen. Gegenüber der irischen Inselbasis steht bei einem Standort auf dem portugiesischen Festland eine mögliche Landanreise; dafür ändert sich der Sprach- und konkrete Versorgungsalltag. Weder Portugal noch Irland bedeutet einen geographischen Ausstieg aus einem gesamteuropäischen Kriegsszenario. Vergleiche eure konkrete Reise, Wohnlage und Familienversorgung, nicht nur Klima oder Sprache.</p><p><a href=\"/de/laender/island/\">Island als persönliche Ausweichoption</a> verschiebt die Entscheidung weiter in den Nordatlantik. EWR-/EFTA-Zugang, nördliches Klima, Anreise und tatsächliche Versorgung gehören dort in denselben Vergleich. Englische Verständigung ersetzt nicht den lokalen Schul- und Betreuungsalltag. Ernährungs- oder Energievergleiche und Resilienzforschung sind keine persönliche Sicherheitszusage; auch die Bündnisrolle ist davon getrennt zu betrachten. Irland ist die passendere Wahl, wenn gerade sein englischsprachiger Alltag und der konkrete erreichbare Wohn-/Versorgungsraum deine Aufgabe besser erfüllen.</p><p>Mit <a href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen</a> erhältst du einen Vergleich anhand der Menschen, Rechte, Mittel und Abhängigkeiten, die für dich zählen. Wenn Irland bereits feststeht, beginnen wir direkt bei der Arbeit, die noch fehlt.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Firland%2F#kurzanfrage\">Vorbereitung für Irland anfragen</a><p>Beschreibe kurz, was für Irland stehen soll: Familienbasis, konkrete Unterkunft, Dokumente oder Ankunft. Persönliche Nachweise folgen im vereinbarten geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/#kontaktbeginn\">Diskrete Anfrage</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Kann ich Irland und das Vereinigte Königreich rechtlich gleich behandeln?",
+    "answer": "Nein. Die Republik Irland hat eigene Aufenthalts-, Steuer- und Verwaltungsverfahren. Britische und irische Staatsangehörige haben besondere CTA-Rechte; bloßer UK-Wohnsitz reicht nicht. Bei EU-/EWR-/Schweizer Bürgern und bei Angehörigen greifen die jeweils passenden irischen Regeln. Ein englischsprachiger Alltag, ein Konto oder eine Immobilie ersetzt diese Berechtigung nicht."
+  },
+  "displayTitle": "Auswandern nach Irland: eine Basis für deine Familie"
+}

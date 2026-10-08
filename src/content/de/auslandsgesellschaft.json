@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/auslandsgesellschaft/",
+  "lang": "de",
+  "title": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-582098b73c7db2"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-d965575a147a85"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-327568101d023a"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Auslandsgesellschaft / Gründung und laufender Betrieb",
+  "seoTitle": "Firma im Ausland gründen und verwalten | EXOBASIS",
+  "description": "Auslandsgesellschaft, US-LLC oder anderer Standort: EXOBASIS organisiert passende Fachprüfung, Gründung, Bankvorbereitung und die laufenden Verwaltungsaufgaben.",
+  "intro": "<p>Dein Unternehmen soll auch dann weiterarbeiten können, wenn du an einem anderen Ort lebst. Dafür müssen Kundenverträge, Leitung, Bankzugang und Verwaltung zusammenpassen. Die Eintragung einer Gesellschaft ist ein Schritt auf diesem Weg.</p><p>EXOBASIS organisiert die fachlich vorbereitete Gründung und die vereinbarten laufenden Aufgaben. Wir führen deine bestehenden Berater, örtliche Gründungsstellen und weitere Fachleistungen zusammen und halten den Auftrag bis zur Übergabe nachvollziehbar.</p>",
+  "primary": {
+    "label": "Gesellschaft und Verwaltung anfragen",
+    "intent": "Auslandsgesellschaft und laufende Verwaltung organisieren"
+  },
+  "summary": {
+    "kicker": "Deine Vorbereitung als konkreter Auftrag",
+    "title": "Eine Gesellschaft, die zu deinem tatsächlichen Geschäft passt.",
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Karte und Kompass als Sinnbild für internationale Planung.",
+    "facts": [
+      [
+        "Ausgangspunkt",
+        "Tätigkeit, Eigentümer, Leitung und persönliche Wohnsitze"
+      ],
+      [
+        "Gründung",
+        "Fachprüfung, Unterlagen, Register und betriebliche Anschlüsse"
+      ],
+      [
+        "Fortführung",
+        "Benannte Zuständigkeiten für Verwaltung, Fristen und Änderungen"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Wozu brauchst du die Auslandsgesellschaft?",
+      "layout": "prose",
+      "body": "<p>Eine neue Gesellschaft kann für einen tatsächlichen Geschäftsbetrieb, einen neuen Standort oder eine geordnete Unternehmensfortführung vorgesehen sein. Zuerst wird die Aufgabe konkret: Welche Leistungen werden verkauft, wo sitzen Kunden und Mitarbeiter, wer schließt Verträge und von wo aus wird das Geschäft geführt?</p><p>Wir bringen diese Angaben in einen fachlich bearbeitbaren Auftrag. Bei einem bestehenden Unternehmen gehören vorhandene Beteiligungen, Verträge und Vermögenswerte dazu. So lässt sich unterscheiden, ob eine Neugründung, eine zusätzliche Gesellschaft oder eine Änderung des bisherigen Aufbaus die Aufgabe trifft.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/unternehmen-einkommen/\" data-route=\"/de/wissen/unternehmen-einkommen/\" data-link-description=\"Laufendes Einkommen, Unternehmen und einen Standortwechsel zusammen planen.\"><span>Unternehmen und Einkommen fortführen</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-2",
+      "title": "Standort und Rechtsform mit Leitung und Wohnsitz abstimmen",
+      "layout": "prose",
+      "body": "<p>Die Adresse im Gründungsregister und der Ort, an dem du tatsächlich leitest, können auseinanderfallen. Für Deutschland definiert § 10 Abgabenordnung die Geschäftsleitung als Mittelpunkt der geschäftlichen Oberleitung. Bei den von § 1 Körperschaftsteuergesetz erfassten Körperschaften kann bereits eine Geschäftsleitung im Inland die unbeschränkte Körperschaftsteuerpflicht begründen. <a href=\"https://www.gesetze-im-internet.de/ao_1977/__10.html\">§ 10 AO</a> und <a href=\"https://www.gesetze-im-internet.de/kstg_1977/__1.html\">§ 1 KStG</a>.</p><p>Deshalb werden die steuerliche Einordnung der ausländischen Rechtsform, tatsächliche Entscheidungswege, Betriebsstätten und dein persönlicher Wohnsitz vor der Umsetzung zusammengeführt. Ob du eine LLC als Deutscher mit Wohnsitz in Deutschland gründest oder bereits in einem anderen Land lebst, ist eine wesentliche Fallunterscheidung.</p><p>Für Österreich und die Schweiz werden die jeweiligen Anknüpfungen eigenständig bearbeitet. Eine deutschsprachige Gründungsanleitung aus einem anderen Herkunftsland ersetzt diese Zuordnung nicht. EXOBASIS organisiert den notwendigen Austausch zwischen den betroffenen Fachstellen.</p><p>Rechtsform und US-steuerliche Klassifikation sind dabei zwei verschiedene Fragen. Je nach Mitgliederzahl und steuerlicher Wahl behandelt die IRS eine LLC als Corporation, Partnership oder als dem Eigentümer zugeordnete „disregarded entity“. Sonderregeln werden im konkreten Fall geprüft; diese US-Einordnung entscheidet nicht über deinen persönlichen Steuerbezug in einem anderen Staat. <a href=\"https://www.irs.gov/businesses/small-businesses-self-employed/llc-filing-as-a-corporation-or-partnership\">IRS: Steuerklassifikation einer LLC</a>.</p><p>Bei einer für die US-Einkommensteuer dem Eigentümer zugerechneten LLC mit einem nach US-Recht als „nonresident alien“ eingeordneten Eigentümer zählt zusätzlich der tatsächliche US-Bezug: Wo wird gearbeitet, und wird in den USA ein Geschäft betrieben? Bei persönlich erbrachten Dienstleistungen richtet sich die <a href=\"https://www.irs.gov/individuals/international-taxpayers/source-of-income-personal-service-income\">Einkunftsquelle grundsätzlich nach dem Arbeitsort</a>, nicht allein nach dem Sitz des Kunden; Sonderfälle und Steuerabkommen sind gesondert zu berücksichtigen. Mit einer US-Geschäftstätigkeit verbundene Einkünfte können dort als <a href=\"https://www.irs.gov/individuals/international-taxpayers/effectively-connected-income-eci\">effectively connected income (ECI)</a> steuerpflichtig sein. Auch <a href=\"https://www.irs.gov/individuals/international-taxpayers/taxation-of-nonresident-aliens\">bestimmte US-Einkünfte ohne diesen Geschäftsbezug</a> können steuerpflichtig sein. US-Gründung und Form 5472 beantworten diese Einkunftsfragen nicht.</p><p>Eine US-LLC ist eine mögliche Rechtsform. Ihre Behandlung hängt unter anderem von Eigentümerstruktur, steuerlicher Einordnung und Tätigkeit ab. Bei einer ausländisch gehaltenen US-Gesellschaft, die in den USA als „disregarded entity“ behandelt wird, können meldepflichtige Transaktionen mit verbundenen Personen eine Form 5472 auslösen. Die IRS-Anleitung beschreibt dafür eine Einreichung zusammen mit einer Pro-forma-Form 1120. <a href=\"https://www.irs.gov/instructions/i5472\">IRS: Instructions for Form 5472</a>.</p><p>Auch ohne Umsatz oder eigene Einkommensteuererklärung können Informationsmeldungen erforderlich sein. Wir lassen deshalb die tatsächlichen Gründungs- und Gesellschaftertransaktionen prüfen, statt aus fehlenden Einnahmen auf fehlende Pflichten zu schließen. Maßgeblich sind die erfassten Vorgänge und die einschlägigen Ausnahmen. <a href=\"https://www.irs.gov/instructions/i5472\">IRS: Meldepflicht, Ausnahmen und Part V</a>.</p><p>Für in den USA gegründete Gesellschaften bestätigt die seit 14. August 2026 geltende FinCEN-Regel die Ausnahme von der CTA-Meldung wirtschaftlich Berechtigter (BOI). Nach ausländischem Recht gegründete, in den USA registrierte Gesellschaften sind ein anderer Fall. Die Bankprüfung bleibt davon getrennt. Auch eine persönliche FinCEN ID kann bei einer Nicht-US-Person weiterhin eigene Aktualisierungspflichten auslösen; dieser Status ergibt sich nicht allein aus dem Wohnort. Wir halten Unternehmensmeldung, persönliche ID und Bankaufnahme in der Aufgabenklärung auseinander. <a href=\"https://www.federalregister.gov/documents/2026/08/14/2026-16576/beneficial-ownership-information-reporting-requirement-revision\">FinCEN: Final Rule zu BOI, FinCEN IDs und Bankprüfung</a>.</p><p>Wer eine LLC gründen und Kosten vergleichen möchte, sollte deshalb nicht nur Registereintrag und Gründungsservice betrachten. Laufende Vertretung, bundesstaatliche Pflichten, Buchführung und die tatsächlich erforderlichen Steuer- und Informationsmeldungen gehören in denselben Vergleich.</p><p>Bei einer Firmengründung in Georgien oder Dubai wird ebenso zuerst die zulässige Tätigkeit und konkrete Ausgestaltung festgelegt. Wir organisieren den Vergleich anhand des passenden Gründungsorts, erforderlicher Genehmigungen, tatsächlicher Leitung, Bankaufnahme und laufender Verwaltung. Die Bezeichnung „Offshore-Firma“ beschreibt diese Voraussetzungen nicht. Ein Standort wird erst ausgewählt, wenn die fachlich geklärte Ausführung zu deinem Geschäft passt.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\" data-route=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\"><span>Wegzug, Steuern und Unternehmenspflichten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-3",
+      "title": "Gründung, Beteiligte und Registerunterlagen organisieren",
+      "layout": "prose",
+      "body": "<p>Wir organisieren die benötigten Personen- und Gesellschaftsunterlagen, Fachentwürfe und Einreichungen. Je nach Verfahren können beglaubigte Unterlagen, Übersetzungen, Vollmachten oder persönliche Termine erforderlich sein. Du erhältst die zu entscheidenden Punkte vor Unterschrift und Beauftragung.</p><p>Für die Gründung stimmen wir mit den zuständigen Fachstellen ab, wer als Gesellschafter, Leitung oder bevollmächtigte Person beteiligt ist und welche Nachweise das Register verlangt. Wir koordinieren den Registervorgang bis zur Rückmeldung und führen die bestätigten Gesellschaftsunterlagen zusammen. Ein noch offener Bankanschluss, eine erforderliche Betriebsgenehmigung oder ein Aufenthaltsverfahren wird als eigener Folgeschritt festgehalten.</p>"
+    },
+    {
+      "id": "kern-4",
+      "title": "Bankaufnahme und Geschäftsadresse organisieren",
+      "layout": "prose",
+      "body": "<p>Parallel wird geklärt, wie die Gesellschaft Geld empfangen und Rechnungen bezahlen soll. Banken und Zahlungsdienstleister verlangen ihre eigenen Angaben zu Beteiligten, Geschäftstätigkeit und Mittelherkunft. Die Gesellschaftseintragung und die Annahme durch ein Institut sind getrennte Vorgänge. Wir bereiten die Aufnahme vor und halten Anforderungen und Rückfragen nach.</p><p>Die Geschäftsadresse klären und organisieren wir als eigenen vereinbarten Teil der Einrichtung: Welche Adressleistung wird benötigt, welche Stelle bestätigt sie und wie erreicht die eingehende Post die verantwortliche Person? Nutzungsumfang, Weiterleitung und Kosten werden vor Beauftragung festgehalten. Die Adresse ersetzt weder tatsächliche Geschäftsleitung oder erforderliche Substanz noch die gesonderte Bankannahme.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/bankzugang-liquiditaet/\" data-route=\"/de/leistungen/bankzugang-liquiditaet/\" data-link-description=\"Bankannahme, Zahlungswege und nutzbare Liquidität konkret vorbereiten.\"><span>Bankzugang und Liquidität vorbereiten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-5",
+      "title": "Laufende Pflichten von Anfang an zuordnen",
+      "layout": "prose",
+      "body": "<p>Nach der Eintragung beginnt die regelmäßige Arbeit. Belege müssen an die Buchhaltung gelangen, Erklärungen fristgerecht erstellt, Gebühren bezahlt und Änderungen an zuständige Stellen gemeldet werden. Wir führen diese Aufgaben mit den jeweiligen Fachleuten und Dienstleistern in einer verständlichen Zuständigkeits- und Terminübersicht zusammen.</p><p>Wichtig ist der Informationsfluss: Wer erfährt von einem neuen Gesellschafter, einer anderen Geschäftsadresse oder einem Wechsel deiner persönlichen Ansässigkeit? Wer fordert fehlende Unterlagen an? Die Betreuung kann diese organisatorischen Schritte übernehmen und ihre Erledigung nachhalten.</p><p>Schon vor der Beauftragung ordnen wir Gründungsaufwand und wiederkehrende Kosten den jeweiligen Leistungen und Verantwortlichen zu. So ist klar, welche Registergebühren, Adress- oder Vertreterleistungen, Buchhaltung und Meldungen später weiterzuführen sind.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/vorbereitung-betreuen/\" data-route=\"/de/leistungen/vorbereitung-betreuen/\" data-link-description=\"Vereinbarte Unterlagen, Kontakte und Vorkehrungen regelmäßig prüfen und nachführen.\"><span>Vorbereitung prüfen und aktuell halten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-6",
+      "title": "Die Gesellschaft geordnet übernehmen",
+      "layout": "prose",
+      "body": "<p>Zur Übergabe gehören die Gründungs- und Registerunterlagen, vereinbarten Verträge, Ansprechpartner und Zugangswege sowie die Übersicht der wiederkehrenden Pflichten. Du kannst sehen, welche Aufgaben abgeschlossen sind und welche konkrete Rückmeldung noch aussteht.</p><p>Weitere Verwaltung lässt sich anschließend beauftragen. Wir stimmen ab, welche Fristen und Änderungen betreut werden und wann eine neue fachliche Beurteilung nötig wird, etwa bei einem Wechsel von Wohnsitz, Tätigkeit oder Gesellschaftern.</p><p>Die Übergabe benennt außerdem die bestätigten Institute, die zuständige Person für jede laufende Aufgabe sowie Meldefristen und vereinbarte wiederkehrende Kosten. Ausstehende Annahmen und Folgearbeiten bleiben mit Ansprechpartner und nächstem Schritt sichtbar.</p>"
+    },
+    {
+      "id": "kern-7",
+      "title": "Auch bei deiner Abwesenheit arbeitsfähig bleiben",
+      "layout": "prose",
+      "body": "<p>Eine Auslandsgesellschaft soll nicht an deiner einzigen Unterschrift oder deinem Telefon hängen. Wir verbinden Vertretungsregeln mit den tatsächlich nötigen Bank-, Vertrags- und Systemzugängen. Dabei bleiben rechtliche Befugnis und technische Berechtigung getrennte Aufgaben, die gemeinsam funktionieren müssen.</p><p>Wenn du einen Test beauftragst, wird ein ausgewählter Ablauf ohne deine laufende Mithilfe erprobt. Beispielsweise bereitet die zuständige Person eine freigegebene Zahlung vor oder findet die Unterlagen für eine Kundenentscheidung. Festgestellt wird, was tatsächlich funktioniert und wo noch eine Freigabe oder Einrichtung fehlt.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    }
+  ],
+  "working": {
+    "title": "Vorhandene Berater einbeziehen",
+    "body": "<p>EXOBASIS organisiert den Auftrag und übernimmt die vereinbarten Verwaltungsschritte. Rechts- und Steuerfachleute verantworten die Gestaltung und fachliche Beurteilung; Register und Institute entscheiden über ihre Verfahren. Wir halten die Übergaben zusammen, damit die Beteiligten mit demselben Sachstand arbeiten.</p>"
+  },
+  "nextWork": {
+    "title": "Gesellschaft und persönlicher Plan bleiben verbunden",
+    "body": "<p>Wenn dein Wohnsitz oder der tatsächliche Arbeitsort wechselt, werden die betroffenen Fachstellen und Verwaltungsaufgaben einbezogen. Die laufende Betreuung kann diese Änderungen mit den übrigen Vorbereitungen für Familie und Geschäft verbinden.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Was soll deine Auslandsgesellschaft ermöglichen?",
+    "body": "Nenne Tätigkeit, heutigen Wohn- und Leitungsort und den gewünschten nächsten Schritt. Ob Gründungsorganisation oder Vorprüfung: Wir klären den passenden Auftrag."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "714",
+        "label": "Unternehmen und Einkommen fortführen",
+        "target": "/de/wissen/unternehmen-einkommen/",
+        "position": "Kernabschnitt 1: Tätigkeit und Bedarf",
+        "purpose": "Betrieb, Kunden und Einkommen während Ausreise, Ausfall und Standortwechsel weiterführen."
+      },
+      {
+        "line": "715",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "position": "Kernabschnitt 2: Standort/Struktur",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      },
+      {
+        "line": "716",
+        "label": "Bankzugang und Liquidität vorbereiten",
+        "target": "/de/leistungen/bankzugang-liquiditaet/",
+        "position": "Kernabschnitt 4: Konto/Adresse",
+        "purpose": "Bankaufnahme, zulässige Zahlwege und berechtigten Geldzugriff organisiert vorbereiten lassen."
+      },
+      {
+        "line": "717",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 7: Vertretung und Ausfall",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "718",
+        "label": "Vorbereitung prüfen und aktuell halten",
+        "target": "/de/leistungen/vorbereitung-betreuen/",
+        "position": "Kernabschnitt 5: laufende Verwaltung und Meldungen",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seedingSupporting": [
+      "D24"
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Von der Standortfrage zum organisierten Betrieb",
+    "body": "<p>Du kannst eine bereits festgelegte Gründung organisieren lassen oder zunächst die passende Rechtsform und den Standort mit Fachleuten klären. Wir verwenden vorhandene Unterlagen und stimmen ab, welche Entscheidung noch vor der Ausführung nötig ist.</p><p>Zum Auftrag können Gründungsunterlagen, Registerschritte, geeignete Verwaltungsleistungen, Vorbereitung der Bankaufnahme und ein Kalender für laufende Pflichten gehören. Du erhältst die Ergebnisse und weißt, welche Stelle künftig welche Aufgabe übernimmt.</p>",
+    "items": [
+      [
+        "Passung klären",
+        "Rechtsform und Standort mit dem Geschäftsmodell und der tatsächlichen Leitung verbinden."
+      ],
+      [
+        "Gründung organisieren",
+        "Fachmandate, Nachweise, Einreichungen und Anschlussarbeiten koordinieren."
+      ],
+      [
+        "Verwaltung übergeben",
+        "Unterlagen, Fristen, Zugänge und Verantwortliche nachvollziehbar zusammenführen."
+      ]
+    ],
+    "costs": "Die Gesamtkosten umfassen neben unserer Arbeit die fachliche Prüfung, Gründungs- und Registergebühren, gegebenenfalls Vertreter oder Geschäftsadresse, Bankvorbereitung und laufende Buchhaltung, Erklärungen sowie Verlängerungen. Ein günstiger Gründungspreis beantwortet die Jahreskosten nicht."
+  },
+  "displayTitle": "Eine Firma im Ausland gründen und laufend organisieren"
+}

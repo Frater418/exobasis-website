@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/familie-alltag/",
+  "lang": "de",
+  "title": "Familie und Alltag vorbereiten",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-d3fc892159bdbd"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-2e2ede0ee6e48c"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-be7b4f69cc6f25"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Dein Plan B / Wissen",
+  "seoTitle": "Familie und Alltag im Ausland vorbereiten | EXOBASIS",
+  "description": "Kinder, Angehörige, Gesundheit, Wohnen und Haustiere gemeinsam vorbereiten. Damit eure Familie bei einer Ausreise auch am neuen Ort zurechtkommt.",
+  "intro": "<p>Wenn du deine Familie auf Krieg und einen möglichen Wegzug vorbereiten willst, muss aus dem Gedanken an Ausreise ein gemeinsamer, tragfähiger Plan werden. Deine Kinder brauchen Orientierung, ein pflegebedürftiger Angehöriger passende Unterstützung und euer Hund einen erlaubten Transportweg. Der neue Ort muss all das tragen.</p><p>Beginne mit dem Alltag, den ihr erhalten wollt: zusammen wohnen, behandelt werden, lernen, arbeiten und füreinander erreichbar bleiben. Daraus ergeben sich die Aufgaben für eure Außenbasis und die Reihenfolge, in der ihr sie erledigt.</p>",
+  "primary": {
+    "label": "Familienvorbereitung anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Damit ihr gemeinsam gehen und gemeinsam ankommen könnt.",
+    "facts": [
+      [
+        "Personen",
+        "Rechte und Bedarf einzeln klären"
+      ],
+      [
+        "Alltag",
+        "Schule, Versorgung und Unterkunft verbinden"
+      ],
+      [
+        "Umsetzung",
+        "Verantwortliche und Vorlauf festlegen"
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift als Symbol für geordnete Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Wer kommt mit, wer später und wer braucht Unterstützung?",
+      "body": "<p>Erstelle eine gemeinsame Übersicht mit allen Personen, die jetzt oder später mitkommen sollen. Dazu gehören Pässe und Aufenthaltsrechte ebenso wie Mobilität, Sprache, gesundheitliche Bedürfnisse und die Frage, wer für wen entscheiden darf. Erwachsene Angehörige können andere Voraussetzungen haben als dein Partner oder minderjährige Kinder.</p><p>Besprecht zwei Situationen: Ihr reist gemeinsam, oder eine Person ist verhindert. Wer holt die Kinder ab? Wer begleitet den Angehörigen? Wer verfügt über Dokumente und Geld? Diese Antworten sollten beiden Erwachsenen bekannt sein. Kinder brauchen eine ruhige, altersgerechte Erklärung und einen vertrauten Ansprechpartner, keinen ständigen Alarm.</p><p>Bei mehreren Staatsangehörigkeiten wird jeder Aufenthaltsweg einzeln geklärt. Deine eigene Reisefreiheit hilft der Familie erst, wenn die anderen Personen tatsächlich mitreisen und bleiben können.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://europa.eu/youreurope/citizens/residence/residence-rights/index_de.htm\" rel=\"noopener noreferrer\">Your Europe: Aufenthaltsrechte für Familien</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/laender/\" data-route=\"/de/laender/\"><span>Länder und Möglichkeiten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Schule und Betreuung: den Anschluss vor dem Umzug herstellen",
+      "body": "<p>Kläre zuerst die konkrete Aufnahme, nicht nur den guten Ruf einer Schule. Alter und Klassenstufe, Unterrichtssprache, bisheriger Lehrplan, Förderbedarf und verfügbare Plätze bestimmen, welche Einrichtung passt. Halte Zeugnisse, Lernstandsunterlagen und erforderliche Nachweise bereit. Bei einer privaten Schule kommen Gebühren, Aufnahmebedingungen und Kündigungsregeln hinzu.</p><p>Für EU-Kinder besteht in einem anderen EU-Land grundsätzlich Zugang zum Bildungssystem unter denselben Bedingungen wie für dessen Staatsangehörige. Die Einstufung und Anerkennung bisheriger Schulzeiten bleiben praktische Aufgaben vor Ort. Bei einer nur vorübergehenden Ausweichlösung gehört außerdem der spätere Anschluss an die bisherige Schule in die Absprache.</p><p>Bei gemeinsamer Sorge werden Zustimmung zum Wohnsitzwechsel, Reisebegleitung und erforderliche Vollmachten rechtzeitig geklärt. Ein gebuchter Schulplatz ersetzt diese Entscheidung nicht. Organisiere auch die ersten Wochen: Schulweg, Abholung, Betreuung und einen Ansprechpartner, der mit euch kommunizieren kann.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://europa.eu/youreurope/citizens/education/school/enrol/index_en.htm\" rel=\"noopener noreferrer\">Your Europe: Einschulung in einem anderen EU-Land</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/travel-documents-minors/index_en.htm\" rel=\"noopener noreferrer\">Your Europe: Reisedokumente und Zustimmungen für Minderjährige</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\" data-route=\"/de/wissen/familie-alltag/kinder-angehoerige/\"><span>Mit Kindern und Angehörigen vorbereitet gehen</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Gesundheit, Medikamente und Pflege dürfen keine Lücke haben",
+      "body": "<p>Für jede Person braucht ihr eine passende Versorgungskette: bestätigter Versicherungsschutz, erreichbare Behandlung, erforderliche Medikamente und gegebenenfalls Pflege. Bei einer laufenden Therapie entscheidet deren Fortführung mit über den Standort. Eine nahegelegene Klinik ist nur dann hilfreich, wenn sie die benötigte Leistung tatsächlich anbietet und die Aufnahme möglich ist.</p><p>Lasst Befunde und Medikationsplan verständlich aufbereiten. Der Wirkstoffname ist für die weitere Behandlung wichtiger als allein der heimische Handelsname. Bei kontrollierten Arzneimitteln unterscheiden sich Einfuhrvorgaben nach Land; erforderliche Bescheinigungen und zulässige Mengen müssen auch zur Transitroute passen.</p><p>Pflegeleistungen aus dem bisherigen System und bezahlbare Pflege am Ziel sind zwei verschiedene Fragen. Klärt mit dem zuständigen Träger, welche Leistungen bei eurem konkreten Aufenthalt weitergehen, und organisiert vor Ort eine Aufnahme oder Betreuung. Haltet einen Ersatzkontakt bereit, falls die zuerst vorgesehene Hilfe ausfällt.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.incb.org/incb/en/travellers/general-information.html\" rel=\"noopener noreferrer\">INCB: Mitnahme kontrollierter Arzneimittel</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.dvka.de/media/dokumente/merkblaetter/merkblatt-fuer-rentner/pflegeleistungen_ausland.pdf\" rel=\"noopener noreferrer\">DVKA: Pflegeleistungen im Ausland</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\" data-route=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\"><span>Krankenversicherung und Versorgung im Ausland</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/pflege-medikamente/\" data-route=\"/de/wissen/familie-alltag/pflege-medikamente/\"><span>Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Eine Wohnung auswählen, in der euer Alltag funktioniert",
+      "body": "<p>Für die erste Ankunft kann eine möblierte Übergangswohnung sinnvoll sein. Achtet auf genügend Schlafplätze, Küche, Waschmöglichkeit und die Erreichbarkeit von Schule und Behandlung. Bei eingeschränkter Mobilität zählen Eingang, Aufzug und Bad oft mehr als die Aussicht. Vor Zusage gehören Mietdauer, Kaution, Nebenkosten, Kündigung, Tierhaltung und die tatsächliche Schlüsselübergabe geklärt.</p><p>Eine Erkundungsreise sollte deshalb normale Tage enthalten: morgens zur Schule fahren, Einkauf und Behandlung erreichen, arbeiten und abends zurückkehren. Daraus entsteht eine belastbare Standortentscheidung für langfristige Miete oder Immobilienkauf.</p><p>EXOBASIS organisiert auf Auftrag Standort- und Objektsuche, Besichtigungen sowie die unabhängige Prüfung der Kaufrechte, des Titels und der Vertragsbedingungen durch örtliche Fachstellen. Abschlusskoordination, Übergabe und Einrichtung schließen daran an. Wird die Immobilie zunächst nur als Reserve genutzt, braucht sie laufende Betreuung und eine vorbereitete Ankunft.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/ankunft-organisieren/\" data-route=\"/de/leistungen/ankunft-organisieren/\"><span>Ankunft im Zielland organisieren</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Auswandern mit Hund oder anderen Haustieren",
+      "body": "<p>Plant das Tier mit der Route, nicht erst nach der Flugbuchung. Bei Reisen mit Hund, Katze oder Frettchen innerhalb der EU gehören unter den regulären Regeln unter anderem Kennzeichnung, gültige Tollwutimpfung und Heimtierausweis zusammen. Nach einer Erstimpfung gilt grundsätzlich eine Wartezeit von mindestens 21 Tagen; die Kennzeichnung muss zur gültigen Impfung passen. Für bestimmte Ziele kommen weitere Maßnahmen hinzu.</p><p>Bei Einreise aus einem Drittstaat können je nach Herkunft unter anderem eine Gesundheitsbescheinigung, ein Tollwut-Antikörpertest und zusätzliche Wartezeiten erforderlich sein. Der konkrete Veterinärweg und die Beförderungsregeln der Gesellschaft müssen zusammenpassen: Transportbox, Tiergröße, Route und Annahmebedingungen.</p><p>Für andere Tierarten gelten eigene Vorgaben. Lass die Anforderungen durch den zuständigen Veterinärdienst und den Beförderer bestätigen, bevor du feste Termine bindest. Kümmert sich zunächst jemand um das Tier zu Hause, braucht diese Person Unterlagen, Tierarztkontakt und eine klare Übergabe. Für das zurückbleibende Zuhause gehören Post, Schlüssel, Haustechnik und die Information des Versicherers über längere Abwesenheit organisiert.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/travelling-pet-within-eu_en\" rel=\"noopener noreferrer\">Europäische Kommission: Reisen mit Heimtieren innerhalb der EU</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/bringing-pet-eu-non-eu-country_en\" rel=\"noopener noreferrer\">Europäische Kommission: Heimtiere aus Nicht-EU-Staaten</a></p>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Eine Reserve nutzen oder einen neuen Lebensmittelpunkt schaffen",
+      "body": "<p>Eine vorbereitete Reserve darf einfach bleiben, muss aber regelmäßig benutzbar gehalten werden. Dokumente, Versicherung, Schlüssel, Geldzugang und Kontakte werden bei Änderungen aktualisiert. Plane die laufenden Kosten der Außenbasis gemeinsam mit den Verpflichtungen am bisherigen Wohnort.</p><p>Bei einem dauerhaften Umzug verändern sich Schule, Arbeit, Versicherungszuständigkeit und möglicherweise Steueransässigkeit. Dafür braucht es einen bewussten Übergang. Haltet auch fest, was eine Rückkehr auslösen würde und wie Wohnung, Behandlung oder Schule dann wieder anschließen können. So müssen wichtige Familienentscheidungen nicht erst unter Zeitdruck getroffen werden.</p>",
+      "criteria": {
+        "title": "Zwei Nutzungen, unterschiedliche Entscheidungen",
+        "headers": [
+          "Aufgabe",
+          "Vorbereitete Reserve",
+          "Dauerhafter Wechsel"
+        ],
+        "rows": [
+          [
+            "Wohnen",
+            "Zugang und Parallelkosten klären",
+            "Langfristigen Alltag und Verträge aufbauen"
+          ],
+          [
+            "Schule",
+            "Übergang und Rückkehr abstimmen",
+            "Aufnahme und Integration vorbereiten"
+          ],
+          [
+            "Versorgung",
+            "Überbrückung und Behandlung am Ziel sichern",
+            "Dauerhafte Zuständigkeit und Betreuung klären"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "abschnitt-7",
+      "title": "Die Familienvorbereitung ausführen lassen",
+      "body": "<p>EXOBASIS bringt eure Rechte, Wohn- und Versorgungsbedürfnisse in einen gemeinsamen Ablauf und führt die vereinbarten Aufgaben aus. Wir organisieren Dokumente, Termine, Standortsuche, Ankunft und erforderliche Fachausführung. Du behältst eine klare Übersicht darüber, was für wen bereits steht und welcher nächste Schritt noch ansteht.</p><p>Du kannst die gesamte Familienvorbereitung oder einzelne Aufgaben beauftragen. Für die erste Anfrage reichen Haushaltsgröße, gewünschte Nutzung und die wichtigsten Abhängigkeiten. Die persönlichen Details werden anschließend passend zur Aufgabe aufgenommen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/familie-unternehmen/\" data-route=\"/de/leistungen/familie-unternehmen/\"><span>Familie und Unternehmen handlungsfähig halten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Eigenständige deutsche Neuredaktion nach PB-D65 aus Originalbriefing, DACH-Recherche und gelesenen Fachquellen.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Wer kommt mit, wer später und wer braucht Unterstützung?"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Schule und Betreuung: den Anschluss vor dem Umzug herstellen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Gesundheit, Medikamente und Pflege dürfen keine Lücke haben"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Eine Wohnung auswählen, in der euer Alltag funktioniert"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Auswandern mit Hund oder anderen Haustieren"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Eine Reserve nutzen oder einen neuen Lebensmittelpunkt schaffen"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Die Familienvorbereitung ausführen lassen"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 121,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 122,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 117,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 118,
+        "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+        "label": "Krankenversicherung und Versorgung im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krankenversicherung und Behandlung",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 119,
+        "target": "/de/wissen/familie-alltag/pflege-medikamente/",
+        "label": "Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Pflege und medizinische Abhängigkeiten",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 120,
+        "target": "/de/leistungen/ankunft-organisieren/",
+        "label": "Ankunft im Zielland organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 123,
+        "target": "/de/leistungen/familie-unternehmen/",
+        "label": "Familie und Unternehmen handlungsfähig halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 124,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      }
+    ],
+    "seeding": [],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Deine Familie auf einen Ausweg ins Ausland vorbereiten"
+}

@@ -1,0 +1,198 @@
+{
+  "route": "/de/laender/australien/",
+  "lang": "de",
+  "title": "Australien als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/australia/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-fc560f8e2385b1"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-9c37cebe53aedc"
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern nach Australien: Aufenthalt & Wohnen | EXOBASIS",
+  "description": "Australien als zweite Basis oder neue Familienheimat: Visa, Regionen, Miete, Immobilienkauf, Schule und Geldzugang. Konkrete Vorbereitung mit EXOBASIS.",
+  "intro": "<p>Wenn du deine Familie vor Krieg, politischer Repression oder wachsender Fremdbestimmung schützen willst, kann Australien eine weit entfernte neue Heimat sein. Die entscheidende Frage kommt vor der Haussuche: Welches Visum trägt euer Leben dort? Wer nach Australien auswandern oder eine zweite Basis vorbereiten will, sollte diesen Zugang früh schaffen. EXOBASIS verbindet Aufenthaltsvorbereitung, Wohnortwahl, Unterkunft und Familienalltag zu einem ausführbaren Auftrag.</p>",
+  "primary": {
+    "label": "Vorbereitung für Australien anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "countryContext": "/de/laender/australien/",
+  "country": {
+    "name": "Australien",
+    "slug": "australien",
+    "region": "Pazifik",
+    "map": "countries/australien-locator.svg",
+    "imageAlt": "Karte mit der Lage Australiens südöstlich von Asien zwischen Indischem und Pazifischem Ozean",
+    "caption": "Australien: große Entfernung zu Europa, lange Wege innerhalb des Landes.",
+    "summary": [
+      [
+        "Aufenthalt zuerst",
+        "Beruf, Familienbeziehung und vorhandene Rechte bestimmen den tragfähigen Weg."
+      ],
+      [
+        "Wohnen mit klarem Status",
+        "Miete ist ein anderer Einstieg als der genehmigungspflichtige Immobilienkauf."
+      ],
+      [
+        "Familienalltag vorbereiten",
+        "Schule, Behandlung, Einkommen und Rückkehrrecht gehören in denselben Plan."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Für wen Australien als zweite Basis passt",
+      "body": "<p>Australien passt besonders zu einer langfristig vorbereiteten Familienverlagerung: Du willst auf Englisch leben, kannst die große Entfernung zu Angehörigen und Geschäftspartnern tragen und hast einen erreichbaren Aufenthaltsweg. Ein gefragter Beruf, ein passendes Arbeitsangebot oder eine anerkannte Familienbeziehung kann dabei wichtiger sein als die Höhe deines Vermögens.</p><p>Für eine gelegentlich genutzte Ausweichbasis fällt die Entscheidung anders aus. Dann brauchst du ein Recht für die jeweilige Einreise, eine tatsächlich verfügbare Unterkunft und jemanden, der sie zwischen euren Aufenthalten betreut. Ein Besuchsvisum, ein dauerhaftes Aufenthaltsrecht und der Besitz eines Hauses erfüllen jeweils eine andere Aufgabe.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Abstand zu Europa schaffen, solange die Anreise planbar ist",
+      "body": "<dl><dt>Szenario</dt><dd><p>Die Inselresilienzforschung der University of Otago führt Australien unter den Ländern, die in den untersuchten Szenarien eines nuklearen Winters ausreichend Nahrung erzeugen könnten. Der Befund betrifft die landwirtschaftliche Versorgung unter Modellannahmen. Für deine Familie kommen erreichbare Verkehrswege, Medikamente, Energie und die Versorgung am konkreten Wohnort hinzu.</p><p>Zur Distanz gehört Australiens eigene Bündnisrolle: ANZUS und die enge Allianz mit den USA sind tragende Teile seiner Verteidigungs- und Sicherheitspolitik im Indo-Pazifik. Bei einem Krieg in Europa bewertest du deshalb eine andere Lage als bei einer Eskalation im Indo-Pazifik. Nahrungsresilienz aus einem Modell macht Australien nicht zu einem neutralen Ort außerhalb möglicher Konflikte.</p></dd><dt>Zugang</dt><dd><p>Australien ist eine Fernreise. Wenn deine Sorge ein Krieg in Europa ist, muss der Plan deshalb deutlich vor einer akuten Abreise beginnen: gültige Rechte für alle Mitreisenden, eine nutzbare Flugverbindung einschließlich Transit, zugängliches Geld und die erste Unterkunft. Zwei Verbindungen, die denselben Umsteigeflughafen nutzen, teilen eine wesentliche Abhängigkeit. Eine Ersatzroute sollte diese möglichst auflösen.</p></dd><dt>Abhängigkeiten</dt><dd><p>Zwischen landesweiter Nahrungsproduktion und einer versorgten Familie liegen funktionierende Transporte, Kühlung, Strom, Behandlung und Geldzugriff. Prüfe für deinen Ort, welche Versorgung an importiertem Treibstoff, Medikamenten oder Ersatzteilen hängt und was bei Lieferausfällen tatsächlich weiterläuft. Eine erreichbare Wohnung mit Anschluss an Versorgung und Behandlung ist dafür konkreter als ein abgelegenes Grundstück ohne vorbereiteten Alltag.</p></dd><dt>Rückkehr</dt><dd><p>Vor jeder Abreise klärst du für jedes Familienmitglied die spätere Wiedereinreise. Beim eVisitor müssen Reisegültigkeit, Besuchszweck und erlaubte Aufenthaltsdauer passen. Beim permanenten Skilled Independent Visa 189 ist das unbefristete Leben im Land von der zunächst fünfjährigen Reiseberechtigung getrennt; danach ist für die Rückkehr als Permanent Resident ein Resident Return Visa nötig. Eigentum ersetzt keine dieser Berechtigungen. Halte Titel, Passzuordnung, Unterkunft und Rückreiseoption deshalb gemeinsam aktuell, statt erst bei einer Krise einen neuen Zugang zu suchen.</p></dd></dl><p class=\"exb-source-note\">Quelle: <a href=\"https://www.otago.ac.nz/news/newsroom/nz-one-of-few-island-nations-with-potential-to-produce-enough-food-in-a-nuclear-winter\" rel=\"noreferrer\">University of Otago: Inselstaaten und Nahrungsversorgung</a>.</p><p class=\"exb-source-note\">Bündnisbindung: <a href=\"https://www.minister.defence.gov.au/media-releases/2026-09-01/75-years-anzus\" rel=\"noreferrer\">Australian Government: 75 Jahre ANZUS</a>. Rückkehr mit dauerhaftem Aufenthalt: <a href=\"https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-tested\" rel=\"noreferrer\">Home Affairs: Skilled Independent 189 und Reiseberechtigung</a>.</p><p>Eine vorbereitete Abreise hat einen vereinbarten Entscheidungspunkt: Wer entscheidet, wer bucht, wer holt die Kinder ab und wer öffnet die Unterkunft? Wir führen diese Aufgaben mit deinem bestehenden <a class=\"exb-text-link\" href=\"/de/leistungen/flucht-notfallplan/\">persönlichen Flucht- und Notfallplan</a> zusammen. Für den umfassenden Szenariovergleich findest du die maßgeblichen Fragen unter <a class=\"exb-text-link\" href=\"/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/\">Wohin bei Krieg?</a>.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Auswandern mit Familie: wessen Visum trägt den Umzug?",
+      "body": "<p>Beginnt eine Person über ihren Beruf, brauchen Partner und Kinder trotzdem die passenden eigenen Angaben und Nachweise. Beim Skilled Independent Visa 189 können berechtigte Mitglieder der Familieneinheit einbezogen werden; Gesundheits- und gegebenenfalls Führungsanforderungen gelten auch für sie. Pflegebedürftige Eltern gehören nicht automatisch zum selben Antrag. Ihre Aufenthalts- und Versorgungslösung muss vor einer gemeinsamen Wohnentscheidung stehen.</p><p>Für die Familie sind drei Entscheidungen eng verbunden: Wer besitzt den tragfähigen Einwanderungsweg? In welchem Bundesstaat lässt sich die Arbeit ausüben? Welche Schule und Behandlung sind von dort erreichbar? Bei einem ärztlichen oder anderen reglementierten Beruf gehört die erforderliche Berufszulassung zusätzlich zur Einwanderungsvorbereitung. Ein Visum ersetzt diese Zulassung nicht.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-tested\" rel=\"noreferrer\">Home Affairs: Skilled Independent Visa 189</a>.</p><p>Wer mit 55 nach Australien auswandern oder dort den Ruhestand verbringen möchte, braucht eine andere Ausgangsprüfung als ein jüngerer Fachkräftebewerber. Die Altersgrenze des unten beschriebenen 189-Wegs lässt sich nicht durch ein höheres Kaufbudget ausgleichen. Wir beginnen dann bei bereits vorhandenen Rechten, passenden Familienwegen oder einer zeitlich begrenzten Nutzung.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Besuche, mobile Arbeit und längere Abwesenheit",
+      "body": "<p>Mit einem geeigneten deutschen, österreichischen oder Schweizer Pass kannst du ein eVisitor-Visum der Subclass 651 beantragen. Es erlaubt während seiner zwölfmonatigen Reisegültigkeit mehrere Einreisen und jeweils bis zu drei Monate Aufenthalt. Jede mitreisende Person benötigt ihr eigenes Visum. Der Antrag wird außerhalb Australiens gestellt.</p><p>Damit lässt sich eine Erkundung oder ein begrenzter Aufenthalt vorbereiten. Für Arbeit bei einem australischen Arbeitgeber oder Leistungen an ein australisches Unternehmen ist ein passendes Arbeitsvisum nötig. Auch für deine bisherige digitale Tätigkeit wird vorab geklärt, welches Visum die tatsächlich geplante Arbeit erlaubt. Wiederholte lange Besuche können eine Prüfung auslösen, ob du noch als echter Besucher einreist.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651\" rel=\"noreferrer\">Home Affairs: eVisitor, zulässige Nutzung und Aufenthaltsdauer</a>.</p><p>Bei einem dauerhaften Visum ist wiederum die Rückreisebefugnis gesondert wichtig: Beim 189-Visum läuft die anfängliche Reisekomponente nach fünf Jahren aus, obwohl das Aufenthaltsrecht innerhalb Australiens unbefristet ist. Vor einer späteren Rückkehr aus dem Ausland muss dann beispielsweise ein passendes Resident Return Visa vorliegen. Das gehört in den Kalender einer nur zeitweise genutzten Außenbasis.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-tested\" rel=\"noreferrer\">Home Affairs: dauerhaftes Aufenthaltsrecht und Reisekomponente</a>.</p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Aufenthaltsgenehmigung und Punktesystem: der passende Weg",
+      "body": "<p>Für das punktbasierte Skilled Independent Visa 189 brauchst du einen Beruf auf der maßgeblichen Liste, eine passende Qualifikationsbewertung, mindestens das geforderte Englischniveau und eine Einladung über SkillSelect. Bei der Einladung musst du unter 45 sein. Mindestens 65 Punkte sind die Zugangsschwelle; eine Einladung setzt außerdem die tatsächliche Auswahl voraus. Berufsbezeichnung, nachgewiesene Erfahrung, Alter und Sprachkenntnisse entscheiden gemeinsam.</p><p>Deshalb beantwortet eine allgemeine Liste „Berufe zum Auswandern nach Australien“ deinen Fall erst zur Hälfte. Ein Arzt muss seine fachliche Anerkennung und Berufszulassung mit dem Visum verbinden. Bei Fahrern oder Menschen ohne formalen Ausbildungsabschluss führt der erste Schritt zur konkret passenden Berufskategorie und zum Arbeitgeberweg, statt eine 189-Eignung zu unterstellen. Wir organisieren die auf dein Profil bezogene Fachklärung und anschließend die verwendbaren Nachweise.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-tested\" rel=\"noreferrer\">Home Affairs: Voraussetzungen des punktbasierten 189-Visums</a>.</p><p>Das frühere Business Innovation and Investment Program ist seit dem 31. Juli 2024 für neue Subclass-188-Anträge geschlossen. Vorhandene Verfahren und Rechte werden gesondert behandelt. Ein altes Investorenangebot ist deshalb kein Startpunkt für einen neuen Australien-Auftrag.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://immi.homeaffairs.gov.au/visas/getting-a-visa/biip-closure-and-refunds\" rel=\"noreferrer\">Home Affairs: Schließung des BIIP</a>.</p><div class=\"exb-criteria-table\" role=\"region\" aria-label=\"Nutzungsvergleich Australien, horizontal scrollbar\" tabindex=\"0\"><table><caption>Australien nach deiner tatsächlichen Nutzung vorbereiten</caption><thead><tr><th scope=\"col\">Nutzung</th><th scope=\"col\">Nutzbares Recht</th><th scope=\"col\">Nachweise und Präsenz</th><th scope=\"col\">Beauftragbare Umsetzung</th></tr></thead><tbody><tr><th scope=\"row\">Dauerhafter Umzug / Familienbasis</th><td>Ein passender Arbeits-/Qualifikations- oder Familienweg muss den tatsächlichen Haushalt tragen. Beim 189-Weg gelten die oben erläuterten Einladungs-, Punkte-, Alters- und Sprachbedingungen. Ein Familienweg setzt die passende persönliche Beziehung und Berechtigung voraus, nicht bloß einen gemeinsamen Umzugswunsch.</td><td>Beruf, Qualifikationsbewertung, Sprachbeleg und gegebenenfalls Arbeitgebergrundlage oder Familienbeziehung beschaffen; Partner und Kinder je nach Visum einordnen. Vor dem Umzug muss feststehen, wer arbeiten und wer mit welchem Titel mitreisen darf.</td><td>EXOBASIS organisiert die passende migrationsrechtliche Prüfung, ordnet fehlende Nachweise und stimmt Antragsschritte mit Wohnung, Schulbeginn und Versorgung ab. Das Ergebnis ist ein ausführbarer Haushaltsplan mit zuständigen Fachleuten.</td></tr><tr><th scope=\"row\">Geteilte / mobile Nutzung</th><td>Für echte Besuche kann ein eVisitor passen. Geplante Arbeit wird nach Art und Umfang gesondert einem zulässigen Visum zugeordnet; mehrere Wohnorte oder ausländische Kunden erteilen keine allgemeine Arbeitserlaubnis.</td><td>Je Familienmitglied eigener eVisitor-Antrag; gültiger Pass, genehmigtes Visum, Reisetermine und Aufenthaltszweck müssen zusammenpassen. Drei Monate je Einreise und zwölf Monate Reisegültigkeit bleiben die Besuchsgrenzen; regelmäßige lange Besuche können erneut geprüft werden.</td><td>EXOBASIS lässt Tätigkeits- und Besuchsfall klären und organisiert Unterkunft, Versicherung und Reiseplanung für die tatsächlich erlaubte Nutzung. Ein Arbeitsvorhaben wird nicht als Tourismus eingeplant.</td></tr><tr><th scope=\"row\">Vorbereitete Außen- / Krisenbasis</th><td>Ein vorhandener Titel mit passender Wiedereinreise ist belastbarer als die Absicht, später einen Antrag zu stellen. Besuchsrecht bleibt zeitlich begrenzt; bei dauerhaftem Aufenthalt ist die gültige Reiseberechtigung gesondert zu prüfen.</td><td>Zuerst persönlichen Zugangsweg sichern, dann den Ort erproben und nutzbare Unterkunft vorbereiten. Pass-/Titel-/Reisefristen, Geldzugriff, Dokumente und Ansprechpartner während Abwesenheit pflegen; lange Anreise und Transit müssen zum Haushalt passen.</td><td>EXOBASIS verbindet Rechteklärung, vorbereiteten Wohnraum und lokale Versorgung mit laufender Betreuung. Bei späterem Kauf folgt die Immobilienprüfung den tatsächlich geltenden Erwerbsregeln, nicht einer vermeintlichen Einreiseberechtigung aus Eigentum.</td></tr></tbody></table></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Faustralien%2F#kurzanfrage\">Vorbereitung für Australien anfragen</a><p>Nenne uns deinen Vorbereitungsstand und die Aufgabe, die wir für Australien übernehmen sollen. Persönliche Nachweise klären wir anschließend geschützt.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Wo leben? Regionen, Miete und Immobilienkauf",
+      "body": "<p>Sydney und sein Umland sind ein sinnvoller Vergleichspunkt, wenn dein Beruf oder eure Schulwahl nach New South Wales führt. Entscheidend ist dann der tägliche Weg zwischen Wohnung, Schule und Arbeitsplatz. Perth ist eine andere Option an der Westküste: Die Abstände zu den Städten im Osten machen eine dortige Familie oder Geschäftstätigkeit zu einer eigenen Reiseaufgabe. In Brisbane und im Umland gehört die Überflutungslage des einzelnen Grundstücks früh in die Auswahl. Bei ländlichen und abgelegenen Standorten gewinnen die Entfernung zur Klinik, Straßenanbindung, Wasserversorgung und Buschbrandvorsorge zusätzliches Gewicht.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/australiensicherheit-213920\" rel=\"noreferrer\">Auswärtiges Amt: Infrastruktur und Naturgefahren in Australien</a>.</p><h3>Für die Ankunft mieten</h3><p>Für eine Erkundung ist eine möblierte Unterkunft mit klarer Verlängerungs- und Stornoregel sinnvoll. Vor einem dauerhaften Mietvertrag folgen Besichtigung, Prüfung des Wohnumfelds und ein vollständiger Mietantrag. Dafür hältst du Identitäts-, Einkommens- und gegebenenfalls Referenznachweise bereit. Mietrecht und Verfahren unterscheiden sich nach Bundesstaat.</p><p>In NSW darf die Mietkaution höchstens vier Wochenmieten betragen. Vermieter oder Verwaltung müssen dir Rental Bonds Online als erste Hinterlegungsmöglichkeit anbieten; alternativ gibt es ein Papierverfahren. Zum Einzug gehören Mietvertrag, Zustandsprotokoll, dokumentierte Schäden und klare Zuständigkeiten für Strom, Wasser und Internet. Prüfe bei einer längeren Abwesenheit zusätzlich Versicherungsbedingungen, Kontrolltermine und den erlaubten Zutritt der Betreuung.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants\" rel=\"noreferrer\">NSW Government: Mietkaution und Rental Bonds Online</a>.</p><h3>Ein Haus oder eine Wohnung kaufen</h3><p>Für Käufer, die unter die australischen Regeln für „foreign persons“ fallen, ist der Erwerb bestehender Wohnimmobilien nach der aktuellen Bundesregel grundsätzlich vom 1. April 2025 bis zum 30. Juni 2029 gesperrt; eng begrenzte Ausnahmen betreffen insbesondere bestimmte wohnraumschaffende Vorhaben. Ein gewöhnliches Bestandswohnhaus für die eigene zweite Basis fällt damit regelmäßig aus. Die Einordnung des Käufers ist der erste Schritt: Australische Staatsbürger und Inhaber eines dauerhaften Visums benötigen für Wohnimmobilien einschließlich Bestandsobjekten keine vorherige ausländische Investitionsgenehmigung. Weitere Ausnahmen sind an den jeweiligen Status gebunden.</p><p>Neue Wohnungen oder geeignetes unbebautes Wohnbauland können zugänglich sein, grundsätzlich mit vorheriger ausländischer Investitionsgenehmigung. Bei Bauland wird regelmäßig eine Fertigstellung innerhalb von vier Jahren verlangt. Ein Kauf schafft kein Aufenthaltsrecht. Bei einer selten bewohnten Immobilie kommen die australischen Melde- und Leerstandsregeln hinzu.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://foreigninvestment.gov.au/sites/foreigninvestment.gov.au/files/2026-06/guidance-note-6-residential-land-v5.pdf\" rel=\"noreferrer\">Australian Treasury: Residential Land, Guidance Note 6, Version 5</a>.</p><p>Die Kaufvorbereitung umfasst mehr als Besichtigungen. Ein örtlich zugelassener Conveyancer oder Solicitor übernimmt die rechtliche Abwicklung; eine unabhängige Bau- und Schädlingsprüfung ergänzt sie. In NSW gehören Registertitel, Belastungen, baurechtliche Unterlagen, bei Wohnungseigentum die Strata-Unterlagen und die Übertragung bei NSW Land Registry Services dazu. Erst danach werden Vertragsbedingungen, Anzahlung, Finanzierung und Settlement zusammengeführt.</p><p>Im Budget stehen neben dem Kaufpreis Genehmigungsgebühren, Transfer Duty und gegebenenfalls Ausländerzuschläge, Register- und Fachkosten, Gebäudeprüfung, Versicherung sowie laufende Council- und gegebenenfalls Strata-Kosten. EXOBASIS kann Standort und Suchauftrag ausarbeiten, Besichtigungen organisieren, die unabhängige Kaufprüfung beschaffen und Vertragsabschluss, Übergabe und Betreuung koordinieren. Die <a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Organisation deiner Ankunft</a> schließt eine bezugsfertige Unterkunft, Versorgungsanschlüsse und die praktische Übergabe ein.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.nsw.gov.au/housing-and-construction/buying-and-selling-property/conveyancing-for-property-buyers-and-sellers\" rel=\"noreferrer\">NSW Government: Conveyancing, Titelprüfung und Kaufkosten</a>.</p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Krankenversicherung und erreichbare Behandlung",
+      "body": "<h3>Schule nach Wohnort und Visum auswählen</h3><p>Die Unterrichtssprache ist Englisch. Bei der Schulwahl zählen nicht nur Jahrgang und Adresse, sondern auch der Visastatus des Kindes. In NSW zahlen viele vorübergehend ansässige Schüler auch an staatlichen Schulen Gebühren. Für die in Tabelle 1 erfassten vorübergehend ansässigen Schüler nennt das Temporary Residents Program 2026 jährlich 6.400 AUD für Grundschule und Klassen 7 bis 10 sowie 7.600 AUD für die Klassen 11 und 12. Diese Beträge gelten nicht für Schüler mit Besuchervisum und nicht für Kinder, die als Angehörige internationaler Studierender geführt werden; für sie gelten gesonderte Tabellen. Von den Unterrichtsgebühren regional befreit ist ein Kind mit Visum 482, wenn es mit dem gesponserten Elternteil als Hauptantragsteller zusammenwohnt, in einer berechtigten NSW-Region lebt und eine berechtigte regionale staatliche NSW-Schule besucht. Alle vier Voraussetzungen müssen erfüllt sein; die Antragsgebühr bleibt bestehen. Uniform, Ausflüge und weitere Ausgaben kommen hinzu.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.deinternational.nsw.edu.au/__data/assets/pdf_file/0013/16402/16402-Education-Fees.pdf\" rel=\"noreferrer\">NSW Department of Education: Gebührentabelle 2026/2027</a>.</p><p>Vor dem Mietvertrag klären wir mit der vorgesehenen Schule Aufnahme, Jahrgang, Sprachangebot und benötigte Zeugnisse. Sorgeberechtigung und Reiseunterlagen gehören in denselben Familienordner. Die Vertiefung <a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a> erklärt die grenzüberschreitenden Abhängigkeiten.</p><h3>Medicare und tatsächliche Versorgung</h3><p>Deutschland, Österreich und die Schweiz gehören nicht zu Australiens Staaten mit einem gegenseitigen Gesundheitsabkommen für Besucher. Wer als Besucher aus DACH kommt, braucht daher eine passende eigene Krankenabsicherung. Für berechtigte dauerhaft Ansässige eröffnet sich ein anderer Zugang zu Medicare. Versicherungsbeginn, vorhandene Erkrankungen, Medikamente und Transportleistungen sollten vor der Abreise geklärt sein.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.servicesaustralia.gov.au/when-reciprocal-health-care-agreements-apply-and-you-visit-australia?context=22481\" rel=\"noreferrer\">Services Australia: Länder mit gegenseitigem Gesundheitsabkommen</a>.</p><p>Bei chronischer Erkrankung oder Pflegebedarf beginnt die Ortswahl bei der benötigten Versorgung. Wir organisieren den Kontakt zur geeigneten Einrichtung, klären Termin, Aufnahme und Zahlungsweg und stimmen Hilfsmittel sowie die Übergabe der Unterlagen ab. Gerade außerhalb der Ballungsräume kann die Entfernung zur passenden Behandlung die Wohnortwahl bestimmen. Mehr dazu: <a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a>.</p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Einkommen, Steuern und Geld, das vor Ort funktioniert",
+      "body": "<p>Der australische Steuerstatus folgt eigenen Regeln. Nach der Australian Taxation Office kann bereits das tatsächliche Leben in Australien mit Familie, Wohnung und wirtschaftlichen Bindungen eine Steueransässigkeit begründen. Der 183-Tage-Test ist nur einer von mehreren Tests. Wer dauerhaft umzieht oder sein Unternehmen von Australien aus führt, sollte deshalb die australischen Folgen mit den fortbestehenden Bindungen in Deutschland, Österreich oder der Schweiz abstimmen.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency\" rel=\"noreferrer\">Australian Taxation Office: Steueransässigkeit und ihre Tests</a>.</p><p>Für die erste Zeit brauchst du Zahlungswege, die schon vor einer lokalen Kontoeröffnung funktionieren. Ein konkretes Beispiel zeigt die Grenzen eines beworbenen Vorabkontos: CommBank ermöglicht im Zuzugsverfahren einen Antrag bis zu 14 Tage vor Ankunft, verlangt die persönliche Passprüfung in einer australischen Filiale innerhalb von 20 Tagen nach Kontoeröffnung und schließt die Besuchsvisa 600, 601 und 651 aus. Einzahlungen und Zahlungen werden erst nach der Identifizierung möglich. Diese Bedingungen gelten für dieses Bankangebot, nicht pauschal für jede australische Bank.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.commbank.com.au/moving-to-australia.html\" rel=\"noreferrer\">CommBank: Zuzugskonto und Identitätsprüfung</a>.</p><p>Wir bereiten geeignete Kontounterlagen und Mittelherkunft vor und stimmen den Zeitpunkt größerer Überweisungen mit der tatsächlichen Nutzbarkeit ab. Für den Alltag sollten Mietkaution, Behandlung und laufende Ausgaben auch erreichbar bleiben, wenn eine Karte gesperrt ist oder das Haupttelefon verloren geht. Wie du dafür unabhängige Zahlwege, Freigaben und den Wiederzugang vorbereitest, erklärt <a class=\"exb-text-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Bankkonto im Ausland und Zahlungsfähigkeit</a>. Genau dabei hilft die <a class=\"exb-text-link\" href=\"/de/leistungen/bankzugang-liquiditaet/\">Vorbereitung von Bankzugang und Liquidität</a>. Für Unternehmer kommt die Zeitverschiebung hinzu: Zahlungsfreigaben und Kundenentscheidungen brauchen eine befugte Vertretung im bisherigen Betrieb.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Die Vorbereitung in einer sinnvollen Reihenfolge",
+      "body": "<ol><li><strong>Zugang festlegen:</strong> Staatsangehörigkeit, bestehende Rechte, Beruf, Alter und Familienbeziehungen dem passenden Visum zuordnen.</li><li><strong>Nachweise verwendbar machen:</strong> Pässe, Personenstand, Qualifikation, Sprachtest, gegebenenfalls Führungszeugnisse und Gesundheitsuntersuchungen nach den Anforderungen des konkreten Verfahrens beschaffen.</li><li><strong>Alltag festlegen:</strong> Beschäftigung, Schule und Behandlung mit der Region verbinden; zunächst eine passende Mietlösung oder einen rechtlich zugänglichen Kaufauftrag vorbereiten.</li><li><strong>Ankunft durchspielen:</strong> Flug und Transit, Schlüssel, Telefonnummer, Geldzugang und die ersten Termine für alle Beteiligten zusammenführen.</li></ol><p>EXOBASIS organisiert diese <a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumenten- und Aufenthaltsvorbereitung</a> und nutzt bereits vorhandene Unterlagen. Fachliche Entscheidungen und behördliche Anforderungen bestimmen, was neu beschafft werden muss. Du erhältst eine geordnete Bearbeitung mit Zuständigkeiten und nächstem Schritt.</p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Die Basis während deiner Abwesenheit nutzbar halten",
+      "body": "<p>Ein australisches Zuhause braucht auch dann Aufmerksamkeit, wenn du in Europa bist. Wir können Kontrollen der Unterkunft, Schlüsselverwaltung, Handwerkertermine, Versorgungsverträge und die Vorbereitung eurer nächsten Ankunft organisieren. Am einzelnen Objekt werden beispielsweise Wasserschäden, Lüftung, Schädlingsbefall, Brandvorsorge und Versicherungsbedingungen für Leerstand berücksichtigt.</p><p>Die jährliche Vacancy-Fee-Erklärung betrifft ausländische Eigentümer, die ihren Foreign-Investment-Antrag für Wohnland ab dem 9. Mai 2017 um 19:30 Uhr AEST gestellt oder eine Wohnung unter einer New-or-Near-New-Dwelling-Exemption erworben haben, die der Entwickler ab diesem Zeitpunkt beantragt hatte. Für diese erfassten Fälle fällt grundsätzlich eine Vacancy Fee an, wenn im jeweiligen zwölfmonatigen Vacancy Year nicht mindestens 183 Tage qualifizierende Wohnnutzung oder echte Verfügbarkeit am Wohnmietmarkt nachgewiesen werden. Dazu zählen tatsächliches Wohnen durch Eigentümer oder Angehörige sowie eine tatsächliche Vermietung oder ein ernsthaftes Mietangebot als Wohnraum mit jeweils mindestens 30 Tagen Vertragslaufzeit. Kürzere Ferienvermietungen erfüllen diese Nutzungsregel nicht. Ein bewusst freigehaltenes Haus und eine regelmäßig vermietete Immobilie haben damit unterschiedliche laufende Voraussetzungen. Die Betreuung verbindet deshalb den Objektkalender mit Reisebefugnis, Passgültigkeit, Versicherung und erreichbaren Bankkontakten.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://foreigninvestment.gov.au/sites/foreigninvestment.gov.au/files/2026-06/guidance-note-6-residential-land-v5.pdf\" rel=\"noreferrer\">Australian Treasury: Registrierung und Vacancy Fees</a>.</p><p>Über <a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a> vereinbaren wir, welche Kontrollen und Aufgaben regelmäßig erledigt werden. So bleibt bekannt, was bereitsteht und was vor der nächsten Reise zu erneuern ist.</p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Deine Australien-Vorbereitung beauftragen",
+      "body": "<p>Du kannst EXOBASIS mit einer zusammenhängenden Australien-Vorbereitung oder einer konkreten Arbeit beauftragen: einen erreichbaren Aufenthaltsweg fachlich klären lassen, Dokumente organisieren, Wohnregionen vergleichen, Miet- oder Kaufobjekte suchen und die Ankunft vorbereiten. Bei einem Kauf koordinieren wir die unabhängigen Fachprüfungen, den Abschluss und die Übergabe; für längere Abwesenheit vereinbaren wir die nötige Betreuung.</p><p>Wenn das Land noch nicht feststeht, führt die <a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Länder- und Standortauswahl</a> zu einem Vergleich deiner realistischen Optionen. Wenn du noch einordnen möchtest, welche Hilfe zu deiner Situation passt, kannst du über die Anfrage auch eine kostenlose 20-Minuten-Orientierung anfragen. Für einen bereits klaren Einzelauftrag beginnen wir direkt mit dessen Umfang und Angebot.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Faustralien%2F#kurzanfrage\">Vorbereitung für Australien anfragen</a><p>Beschreibe kurz, ob du dauerhaft umziehen, eine zweite Basis einrichten oder eine konkrete Teilaufgabe erledigen lassen möchtest.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div><div class=\"exb-country-comparisons\"><h3>Australien, Neuseeland oder Kanada?</h3><article><p><a class=\"exb-text-link\" href=\"/de/laender/neuseeland/\">Neuseeland als persönliche Ausweichoption</a></p><p>Vergleiche den für dich erreichbaren Einwanderungsweg und die Versorgung am Wohnort. Neuseelands hohe Nahrungsproduktion kann bei einer globalen Versorgungskrise ein Vorteil sein. Die Otago-Studie benennt zugleich die Abhängigkeit von importiertem Treibstoff und Ersatzteilen für Landwirtschaft und Lebensmittelverarbeitung. Für deine Familie müssen außerdem Einreise- und Aufenthaltsrechte sowie die rechtzeitige Ankunft gesichert sein. Die ähnliche Entfernung zu Europa ersetzt diesen persönlichen Vergleich nicht.</p></article><article><p><a class=\"exb-text-link\" href=\"/de/laender/kanada/\">Kanada als persönliche Ausweichoption</a></p><p>Kanada ist eine weitere langfristige Familienoption. Stelle Aufenthaltszugang, berufliche Möglichkeiten, Klima und Reiseverbindungen deinem Australien-Plan gegenüber. Kanada ist NATO-Mitglied; bei einem Kriegsszenario gehört diese Bündnisrolle ausdrücklich in die Abwägung. Für den dauerhaften Familienalltag sind dagegen die konkrete Provinz, Schule, Behandlungsmöglichkeiten, Winterbedingungen und bezahlbarer Wohnraum entscheidend. Daraus ergibt sich eine persönliche Standortwahl, keine neutrale Weltkriegsrangliste.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Kann ich mit 55 oder ohne Ausbildung nach Australien auswandern?",
+    "answer": "Der punktbasierte Skilled-Independent-Weg 189 verlangt bei der Einladung ein Alter unter 45, einen geeigneten Beruf, die passende Qualifikationsbewertung und weitere Voraussetzungen. Mit 55 beginnt die Prüfung bei anderen passenden Familienwegen oder vorhandenen Rechten. Ohne formalen Abschluss entscheidet die konkrete Berufskategorie, ob Erfahrung und ein Arbeitgeberweg weiterhelfen. Ein eVisitor erlaubt nur die begrenzte Besuchsnutzung, keinen dauerhaften Umzug."
+  },
+  "editorialSources": [
+    "au",
+    "island"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 1068,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1070,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1071,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1072,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1073,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1074,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1075,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1076,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1077,
+      "target": "/en/countries/australia/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1468,
+      "target": "/de/laender/neuseeland/",
+      "label": "Neuseeland als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1470,
+      "target": "/de/laender/kanada/",
+      "label": "Kanada als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Auswandern nach Australien: den Familienplan früh aufbauen"
+}

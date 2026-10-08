@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/asset-transfers/",
+  "lang": "en",
+  "title": "Transfer assets and retain lawful access",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-8b4a7d04f61ede"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-33a3dd05c7bf6b"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Asset transfers / Preparation, execution and confirmation",
+  "seoTitle": "Asset transfer coordination and usable access | EXOBASIS",
+  "description": "Coordinate a defined transfer of funds or ownership, with source evidence, receiving arrangements, professional advice, approvals and completion records.",
+  "intro": "<p>You may need to fund a second home, move money before a bank closes an account, transfer a business interest or place assets into an agreed structure. The task is to get the intended asset to the right recipient, with ownership and access understood.</p><p>EXOBASIS organises the evidence, institutions, professional work and approvals around that transfer. We keep the sequence and follow-up together so a payment instruction, a completed payment and a legally effective ownership change are not confused.</p>",
+  "primary": {
+    "label": "Discuss an asset transfer",
+    "intent": "Transfer assets and retain lawful access"
+  },
+  "summary": {
+    "kicker": "Your assignment with EXOBASIS",
+    "title": "The intended transfer, carried through with its evidence.",
+    "image": "einstieg-laender.webp",
+    "imageAlt": "A map and compass, illustrating international planning.",
+    "facts": [
+      [
+        "Task",
+        "A specified payment, asset or ownership change"
+      ],
+      [
+        "Preparation",
+        "Authority, records, advice and receiving acceptance"
+      ],
+      [
+        "Handover",
+        "Completion evidence, usable access and ongoing duties"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Define what is moving and what should change",
+      "layout": "prose",
+      "body": "<p>Moving cash between accounts you own is different from giving an asset to a family member, transferring shares or contributing property to a foundation. A change of custodian can also have a different effect from a sale and repurchase.</p><p>We identify the asset, present owner, recipient, institutions, currencies, relevant countries and intended result. For money needed on arrival, we also establish when it must be usable and which household costs depend on it. The <a href=\"/en/knowledge/assets-and-access/banking-payments/\">banking and payments guide</a> connects this to continuing access.</p><p>Where a UK bank is ending a relationship after a move, the transfer needs to sit alongside the migration of income and bills. Barclays' <a href=\"https://www.barclays.co.uk/important-information/living-outside-the-uk/\">published non-resident guidance</a> illustrates why the affected product and notice matter: different products require different actions, including a specific transfer process for preserving cash-ISA benefits.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Establish ownership, authority and the source of funds",
+      "layout": "prose",
+      "body": "<p>We organise the records that connect the transaction to its economic background. Depending on the asset, that may mean sale documents, inheritance records, account statements, company registers, board approvals or the terms of a gift.</p><p>The person instructing the transfer must have authority accepted by the institution carrying it out. We coordinate the relevant <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">representation and power-of-attorney work</a> before relying on a substitute signatory.</p><p>The receiving institution's evidence requirements are established early. A document accepted by the sending bank may not answer every question at the receiving end. We follow those queries before a time-sensitive instruction wherever the process allows.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Settle the legal and tax questions before the transaction",
+      "layout": "prose",
+      "body": "<p>We connect the proposed transfer to the advisers responsible for the owner's residence, the asset's location, the recipient and any structure involved. The questions include whether ownership changes, whether a disposal or gift occurs, which reporting is required and who can use the asset afterwards.</p><p>For UK-connected clients, moving abroad and becoming non-UK tax resident are distinct matters. HMRC's <a href=\"https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21010\">split-year guidance</a> explains that specific conditions must be met. Its <a href=\"https://www.gov.uk/government/publications/temporary-non-residents-and-capital-gains-tax-hs278-self-assessment-helpsheet/hs278-temporary-non-residents-and-capital-gains-tax-2026\">temporary non-residence helpsheet</a> also explains how certain gains and income can be taxed on return. The timing and history of the asset therefore belong in the advice before execution.</p><p>The <a href=\"/en/knowledge/business-and-income/departure-tax/\">departure and tax guide</a> covers the wider question. If the recipient is a proposed foundation, trust or other vehicle, <a href=\"/en/services/asset-structures/\">asset-structure work</a> establishes the arrangement before funding it. A transfer is carried out on the confirmed legal basis, with any court, sanctions or other restriction resolved through the competent process.</p><h3>If liquidity depends on borrowing</h3><p>A securities-backed or Lombard loan is a separate financing decision. It raises money against pledged assets rather than simply moving assets you already own. The lender decides which collateral it accepts and how much it will lend. If collateral values fall or lending ratios change, you may have to add security or repay part of the loan; unmet demands can lead to the sale of pledged assets. The <a href=\"https://www.ubs.com/content/dam/assets/microsites/credit-suisse/static/doc/lombardkredit-factsheet-en.pdf\">UBS-hosted Lombard-loan factsheet</a> explains this mechanism.</p><p>If borrowing forms part of your intended transfer, we coordinate the information and specialist appointments around it. The funding timetable is based on the lender’s approved terms and actual drawdown conditions.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Coordinate the sending and receiving sides",
+      "layout": "prose",
+      "body": "<p>EXOBASIS brings the agreed banks, custodians, lawyers, notaries or registries into a single transaction sequence. Each party's instructions, documents and confirmation are identified. Your funds remain with you and the authorised executing institutions; EXOBASIS manages the coordination.</p><p>Before a bank transfer, we establish the accepted receiving account, payment details, currency, limits, charges and expected handling. A permitted test may be useful where appropriate to the transaction. <a href=\"/en/services/banking-liquidity/\">Banking preparation</a> can establish the receiving and access arrangements first.</p><p>For a UAE departure, an expected gratuity is not automatically available transfer money. <a href=\"https://www.emiratesnbd.com/en/help-and-support/all-about-end-of-service-benefits\">Emirates NBD describes restrictions linked to liabilities</a>, while its <a href=\"https://www.emiratesnbd.com/en/help-and-support/update-your-residency-status\">residence-update procedure</a> deals separately with account status. We obtain the applicable bank position and coordinate the release or settlement steps, rather than schedule spending against an unconfirmed balance.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Approve the instruction and track execution",
+      "layout": "prose",
+      "body": "<p>You receive the information needed to approve the transfer: recipient, purpose, amount or asset, executing party, costs and the expected completion evidence. Changes to payment instructions are verified through the agreed contact procedure before action.</p><p>The bank or responsible professional performs the transaction. We track the instruction, queries and confirmations within the agreed scope. For a property or share transfer, signing, payment, delivery of documents and registration may be separate milestones; the relevant professional confirms when ownership takes effect.</p><p>The budget distinguishes EXOBASIS coordination, specialist advice, notarial or registry charges, tax, bank charges and foreign-exchange costs. Timing estimates are tied to the actual institutions and remaining prerequisites.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Confirm what arrived, who owns it and what remains due",
+      "layout": "prose",
+      "body": "<p>The handover reconciles the instruction with the available completion evidence. For a payment, that includes receipt, charges and any restrictions affecting use. For an ownership change, it includes the relevant executed documents and registration or other professional confirmation.</p><p>You also receive the remaining reporting dates, custody or administration responsibilities and outstanding actions. Where the transfer funds family preparation, we reconnect the result to the next payment or setup task so that the money serves the purpose for which you moved it.</p>"
+    }
+  ],
+  "working": {
+    "title": "How we work together",
+    "body": "<p>You describe the purpose and provide records through the protected working channel. EXOBASIS coordinates the agreed work and follow-up; qualified advisers assess the legal and tax effects. You or your accepted representative authorises the transaction.</p>"
+  },
+  "nextWork": {
+    "title": "The next practical step",
+    "body": "<p>After completion, any receiving-account, custody or administration work can be continued as a defined assignment. If the transfer is part of a family move, its confirmed result becomes an input to the remaining preparations.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "Which transfer needs to happen, and why?",
+    "body": "Tell us the type of asset or payment and the intended outcome. Balances, account details and supporting documents follow privately once the assignment is being defined."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "546",
+        "label": "Banking access and payments abroad",
+        "target": "/en/knowledge/assets-and-access/banking-payments/",
+        "position": "Kernabschnitt 1: Moving funds or changing ownership",
+        "purpose": "Zahlungsbedarf und Abhängigkeiten verstehen und passende Bankvorbereitung auswählen."
+      },
+      {
+        "line": "547",
+        "label": "Prepare banking access and liquidity",
+        "target": "/en/services/banking-liquidity/",
+        "position": "Kernabschnitt 4: The institutions and specialists involved",
+        "purpose": "Bankaufnahme, zulässige Zahlwege und berechtigten Geldzugriff organisiert vorbereiten lassen."
+      },
+      {
+        "line": "548",
+        "label": "Arrange asset structures, custody and succession",
+        "target": "/en/services/asset-structures/",
+        "position": "Kernabschnitt 3: Tax and legal connections",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "549",
+        "label": "Departure, tax and business obligations",
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "position": "Kernabschnitt 3: Tax and legal connections",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      },
+      {
+        "line": "550",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 2: Authorised parties and evidence",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages.",
+    "redaction": {
+      "package": "leistungen-a-en",
+      "seeding": [],
+      "sourceScope": "PB-D65 English editorial candidate; see QUELLEN-EN.md and SEITEN-EN.jsonl. No integration or approval claimed.",
+      "mappedLinks": [
+        {
+          "line": "546",
+          "label": "Banking access and payments abroad",
+          "target": "/en/knowledge/assets-and-access/banking-payments/",
+          "position": "Kernabschnitt 1: Moving funds or changing ownership",
+          "purpose": "Zahlungsbedarf und Abhängigkeiten verstehen und passende Bankvorbereitung auswählen."
+        },
+        {
+          "line": "547",
+          "label": "Prepare banking access and liquidity",
+          "target": "/en/services/banking-liquidity/",
+          "position": "Kernabschnitt 4: The institutions and specialists involved",
+          "purpose": "Bankaufnahme, zulässige Zahlwege und berechtigten Geldzugriff organisiert vorbereiten lassen."
+        },
+        {
+          "line": "548",
+          "label": "Arrange asset structures, custody and succession",
+          "target": "/en/services/asset-structures/",
+          "position": "Kernabschnitt 3: Tax and legal connections",
+          "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+        },
+        {
+          "line": "549",
+          "label": "Departure, tax and business obligations",
+          "target": "/en/knowledge/business-and-income/departure-tax/",
+          "position": "Kernabschnitt 3: Tax and legal connections",
+          "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+        },
+        {
+          "line": "550",
+          "label": "Powers of attorney, representation and succession abroad",
+          "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+          "position": "Kernabschnitt 2: Authorised parties and evidence",
+          "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+        }
+      ],
+      "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+    }
+  },
+  "scope": {
+    "id": "scope",
+    "title": "What you receive",
+    "body": "<p>You receive the agreed transfer-coordination work from preparation through documented outcome. The assignment identifies the asset, parties, executing institutions, approvals and evidence required, including dependencies that must be resolved first.</p>",
+    "items": [
+      [
+        "A defined transaction",
+        "Everyone is working towards the same payment or ownership result."
+      ],
+      [
+        "Prepared receiving arrangements",
+        "Required evidence and access are addressed before relying on completion."
+      ],
+      [
+        "Documented follow-through",
+        "Instructions, institutional responses and the outcome remain connected."
+      ]
+    ],
+    "costs": "The transfer amount is separate from all fees. The proposal distinguishes coordination, advice, transaction charges, registration, tax and currency costs, with additional work agreed before it proceeds."
+  },
+  "displayTitle": "Organise an asset transfer with the outcome clear"
+}

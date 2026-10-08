@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/aktivierung-notfallkoordination/",
+  "lang": "de",
+  "title": "Vereinbarte Aktivierung und Notfallkoordination",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-77da1635c006e9"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-d03e5bd99fd1a4"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-327568101d023a"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Vereinbarte Unterstützung / Vor dem Ernstfall klären",
+  "seoTitle": "Aktivierung und Notfallkoordination im Ausland | EXOBASIS",
+  "description": "Vereinbare Unterstützung für einen konkreten Fall: Kontakt, Rückruf, Befugnisse, Ausgaben und Fachausführung. Mit vorbereitetem und getestetem Ablauf.",
+  "intro": "<p>Ihr habt einen Ausweg vorbereitet. Wenn ihr ihn nutzen müsst, soll klar sein, wen ihr erreicht, wer handeln darf und welche Arbeit als Nächstes beginnt. EXOBASIS organisiert dafür einen vorher vereinbarten Aktivierungsablauf und die passende Notfallkoordination.</p><p>Gemeinsam legen wir den konkreten Unterstützungsfall fest, bereiten Kontakt und Vertretung vor und stimmen die Ausführung mit den erforderlichen Stellen ab. Kontaktfenster und verfügbare Ausführungskapazität werden für deinen Auftrag ausdrücklich bestätigt.</p>",
+  "primary": {
+    "label": "Aktivierung vorbereiten lassen",
+    "intent": "Vereinbarte Aktivierung und Notfallkoordination"
+  },
+  "summary": {
+    "kicker": "Vereinbarte Unterstützung auslösen",
+    "title": "Aus einer Meldung wird ein bestätigter nächster Schritt.",
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Karte und Kompass als Sinnbild für internationale Planung.",
+    "facts": [
+      [
+        "Vorbereitung",
+        "Unterstützungsfall, Kontakte und zuständige Ausführer"
+      ],
+      [
+        "Aktivierung",
+        "Verifizierter Rückkontakt, Befugnis und Ausgabenfreigabe"
+      ],
+      [
+        "Rückmeldung",
+        "Tatsächlicher Stand, nächster Schritt und Übergabe"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Die konkrete Hilfe vor dem Ernstfall festlegen",
+      "layout": "prose",
+      "body": "<p>Ein Unterstützungsfall kann die kurzfristige Vorbereitung eurer Ankunft, die Abstimmung eines bereits vorgesehenen Transportwegs oder die Koordination mit einem benannten Assistance-Anbieter betreffen. Wir beschreiben das erwartete Ergebnis und legen fest, welche Person welche Handlung übernehmen soll.</p><p>Wer nach privater Evakuierung sucht oder seine Familie evakuieren lassen möchte, muss insbesondere Transport, Zugang zum Aufenthaltsort, medizinischen Bedarf und Annahme durch den vorgesehenen Anbieter klären. Diese Fachleistung wird als eigener konkreter Auftrag geprüft und organisiert. Der Koordinationsplan verwendet nur ausdrücklich bestätigte Leistungen und Bedingungen.</p>"
+    },
+    {
+      "id": "kern-2",
+      "title": "Ein Auslöser braucht aktuelle Voraussetzungen",
+      "layout": "prose",
+      "body": "<p>Wir vereinbaren, bei welchem Ereignis du oder eine benannte Person Kontakt aufnimmt. Vor Beginn werden der tatsächliche Fall und die entscheidenden Voraussetzungen abgeglichen: Aufenthaltsort, betroffene Personen, aktuelle Reisedokumente, verfügbare Verbindung und Zugang am Ziel.</p><p>Eine frühere Buchung oder Auskunft wird nicht ungeprüft als aktueller Ausführungsstand behandelt. Bei Krieg, Grenzschließung oder Ausfall eines Transportwegs kann sich die Lage verändern. Dann wird der nächste rechtmäßige und tatsächlich verfügbare Schritt mit den zuständigen Stellen neu abgestimmt.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/vorbereitung-betreuen/\" data-route=\"/de/leistungen/vorbereitung-betreuen/\" data-link-description=\"Vereinbarte Unterlagen, Kontakte und Vorkehrungen regelmäßig prüfen und nachführen.\"><span>Vorbereitung prüfen und aktuell halten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-3",
+      "title": "Kontaktfenster und Vertretung müssen bekannt sein",
+      "layout": "prose",
+      "body": "<p>Im Auftrag steht, welcher Kontakt zu welchen Zeiten besetzt ist, welche Vertretung vereinbart wurde und wie du eine bestätigte Rückmeldung erkennst. Ein ausgebliebener Rückruf braucht ebenfalls einen festgelegten nächsten Kontaktweg. Zeitzonen und erreichbare Angehörige werden dabei berücksichtigt.</p><p>Für unmittelbare Gefahr gelten örtliche Notruf- und zuständige konsularische Hilfswege. Deutsche Staatsangehörige können ihre Auslandsaufenthalte vorab in <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/elefand\">ELEFAND</a> registrieren. Das Auswärtige Amt kann sie darüber in Krisen kontaktieren; mitreisende nichtdeutsche Familienmitglieder desselben Haushalts sollen als Begleitpersonen erfasst werden. Amtliche Hilfswege stehen unabhängig von einem EXOBASIS-Auftrag zur Verfügung.</p>"
+    },
+    {
+      "id": "kern-4",
+      "title": "Meldung, Rückruf und Entscheidungsbefugnis absichern",
+      "layout": "prose",
+      "body": "<p>Eine dringende Nachricht allein löst noch keine sensible Auskunft oder kostenpflichtige Bestellung aus. Wir legen vorab fest, wie Identität und Befugnis über einen bestätigten Rückkontakt geprüft werden. Ebenso wird geregelt, wer für dich handeln darf, wenn dein Telefon verloren geht oder du selbst nicht erreichbar bist.</p><p>Die nötigen Vollmachten und Ansprechpartner werden auf die jeweilige Aufgabe bezogen. Eine familiäre Beziehung ersetzt nicht automatisch die Befugnis, einen Vertrag zu ändern, Geld freizugeben oder für einen Angehörigen medizinische Entscheidungen zu treffen.</p>"
+    },
+    {
+      "id": "kern-5",
+      "title": "Ausgaben unter Zeitdruck geordnet freigeben",
+      "layout": "prose",
+      "body": "<p>Für Transport, Unterkunft oder örtliche Arbeit müssen Zahler, Freigabegrenze und bestätigter Empfänger feststehen. Wir vereinbaren, welche Ausgaben du persönlich bestätigst und welche eine berechtigte Vertretung auslösen darf. Bei geänderten Kosten wird die erforderliche Freigabe eingeholt.</p><p>Der Ablauf berücksichtigt, wie eine Zahlung tatsächlich erfolgen kann. Eine Karte ohne verfügbaren Rahmen oder eine Freigabe-App auf dem verlorenen Telefon hilft in diesem Moment nicht. Deshalb werden Zahlweg und Ersatzkontakt zusammen vorbereitet.</p>"
+    },
+    {
+      "id": "kern-6",
+      "title": "Die richtige Fachausführung zusammenführen",
+      "layout": "prose",
+      "body": "<p>Medizinischer Transport, Behandlung, Reiseorganisation und örtliche Unterstützung haben unterschiedliche Anforderungen. Wir stimmen die konkret benötigte Leistung mit dem zuständigen Ausführer ab und halten Annahme, Voraussetzungen und Kontaktpunkt fest.</p><p>Bei einer Versicherungs- oder Assistance-Leistung zählen der tatsächliche Vertrag und die Bestätigung für den vorliegenden Fall. Medizinische Eignung, Transportentscheidung und Kostenzusage werden den verantwortlichen Stellen zugeordnet. EXOBASIS führt diese Rückmeldungen für den vereinbarten Organisationsauftrag zusammen, damit die Beteiligten mit demselben Stand weiterarbeiten.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\" data-route=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\"><span>Krankenversicherung und Versorgung im Ausland</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-7",
+      "title": "Rückmeldung, Übergabe und Lernen aus dem Ablauf",
+      "layout": "prose",
+      "body": "<p>Während der beauftragten Arbeit wird festgehalten, was bestätigt, begonnen und erledigt wurde, welche Entscheidung aussteht und wer sie treffen muss. Nach einer Übergabe soll die nächste verantwortliche Person den aktuellen Stand verstehen, ohne die gesamte Kommunikation rekonstruieren zu müssen.</p><p>Danach gleichen wir Ergebnis, Auslagen und offene Aufgaben ab. Ein nicht erreichbarer Kontakt, eine missverständliche Befugnis oder ein ausgefallener Zugang führt zu einer konkreten Korrektur des Plans und einem erneuten Test des betroffenen Schritts.</p>"
+    }
+  ],
+  "working": {
+    "title": "So arbeiten wir zusammen",
+    "body": "<p>Wir bereiten den Ablauf mit dir und den benannten berechtigten Personen vor. Die dabei erforderlichen Orts-, Identitäts- und Vollmachtsangaben werden geschützt aufgenommen. Bestehende Kunden nutzen zur Aktivierung den dafür vereinbarten Mandatskontakt.</p>"
+  },
+  "nextWork": {
+    "title": "So geht es danach weiter",
+    "body": "<p>Die Grundlage ist ein nutzbarer <a href=\"/de/leistungen/flucht-notfallplan/\">persönlicher Flucht- und Notfallplan</a> mit aktuell gehaltenen Unterlagen und Zugängen. Eine konkrete Koordinationsaufgabe kann auch aus bereits vorhandener Vorbereitung entstehen.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Welche Unterstützung soll im vereinbarten Fall beginnen?",
+    "body": "Beschreibe den vorzubereitenden Fall in groben Zügen. Für eine neue Anfrage klären wir zunächst Auftrag und Ausführung; für bestehende Vereinbarungen gilt dein Mandatskontakt."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "361",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "position": "Passende nächste Arbeit / Relevant next work",
+        "purpose": "Einen zusammenhängenden Plan für Personen, Vermögen, Geschäft und benannte Szenarien ausarbeiten lassen."
+      },
+      {
+        "line": "362",
+        "label": "Vorbereitung prüfen und aktuell halten",
+        "target": "/de/leistungen/vorbereitung-betreuen/",
+        "position": "Kernabschnitt 2: Auslöser und Voraussetzungen",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      },
+      {
+        "line": "363",
+        "label": "Krankenversicherung und Versorgung im Ausland",
+        "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+        "position": "Kernabschnitt 6: Fachausführung",
+        "purpose": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden."
+      },
+      {
+        "line": "364",
+        "label": "Diskretion und geschützte Zusammenarbeit",
+        "target": "/de/diskretion/",
+        "position": "Dein Auftrag / Your enquiry",
+        "purpose": "Verstehen, wer welche Informationen erhält und wie Zusammenarbeit kontrolliert bleibt."
+      }
+    ],
+    "seedingSupporting": [
+      "D18"
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages.",
+    "redaction": {
+      "package": "leistungen-a-de",
+      "seeding": [],
+      "sourceScope": "Eigenständige DACH-Neuredaktion nach PB-D65; Quellen und Abschnittsbelege in SEITEN-DE.jsonl.",
+      "mappedLinks": [
+        {
+          "line": "361",
+          "label": "Persönlicher Flucht- und Notfallplan",
+          "target": "/de/leistungen/flucht-notfallplan/",
+          "position": "Passende nächste Arbeit / Relevant next work",
+          "purpose": "Einen zusammenhängenden Plan für Personen, Vermögen, Geschäft und benannte Szenarien ausarbeiten lassen."
+        },
+        {
+          "line": "362",
+          "label": "Vorbereitung prüfen und aktuell halten",
+          "target": "/de/leistungen/vorbereitung-betreuen/",
+          "position": "Kernabschnitt 2: Auslöser und Voraussetzungen",
+          "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+        },
+        {
+          "line": "363",
+          "label": "Krankenversicherung und Versorgung im Ausland",
+          "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+          "position": "Kernabschnitt 6: Fachausführung",
+          "purpose": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden."
+        },
+        {
+          "line": "364",
+          "label": "Diskretion und geschützte Zusammenarbeit",
+          "target": "/de/diskretion/",
+          "position": "Dein Auftrag / Your enquiry",
+          "purpose": "Verstehen, wer welche Informationen erhält und wie Zusammenarbeit kontrolliert bleibt."
+        }
+      ],
+      "seedingSupporting": [],
+      "seedingScope": "Direktzuordnung und unterstützende Anwendung im deutschen Seitenjournal dokumentiert."
+    }
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Was wir für dich übernehmen",
+    "body": "<p>Wir arbeiten den Ablauf für die benannten Fälle aus, organisieren die erforderlichen Absprachen und testen den vorgesehenen Kontaktweg. Im angenommenen Ausführungsauftrag koordinieren wir die vereinbarten Maßnahmen, führen Rückmeldungen zusammen und halten den nächsten Schritt nach.</p>",
+    "items": [
+      [
+        "Fallannahme",
+        "Bestimmen, bei welchem Ereignis welche Hilfe gebraucht wird."
+      ],
+      [
+        "Erreichbarkeit",
+        "Kontaktfenster, berechtigte Personen und Vertretung verbindlich abstimmen."
+      ],
+      [
+        "Ausführung",
+        "Bestätigte Aufgaben, Freigaben und Rückmeldungen koordinieren."
+      ]
+    ],
+    "costs": "Ablaufvorbereitung, reservierte Kapazität und tatsächlicher Einsatz werden gesondert vereinbart. Transport, medizinische Leistungen, Unterkunft, örtliche Ausführung und weitere Auslagen erhalten eigene Kostenpositionen und Freigaben."
+  },
+  "displayTitle": "Notfallkoordination für deinen vorbereiteten Ausweg"
+}

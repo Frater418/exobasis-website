@@ -1,0 +1,4698 @@
+[
+  {
+    "route": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+    "lang": "en",
+    "model": "herkunft",
+    "title": "Leaving the UAE or preparing a second option",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Your UAE residence, nationality and intended move"
+      },
+      {
+        "id": "section-2",
+        "title": "Check residence and sponsor dependencies first"
+      },
+      {
+        "id": "section-3",
+        "title": "Keep employment, business and banking connected"
+      },
+      {
+        "id": "section-4",
+        "title": "Prepare the family’s travel and transition"
+      },
+      {
+        "id": "section-5",
+        "title": "Make the destination and any return route usable"
+      },
+      {
+        "id": "section-6",
+        "title": "Coordinate the work on both sides of the move"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-3acad7caf0098b"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-54847ff20ef0d9"
+      }
+    ],
+    "links": [
+      {
+        "line": 441,
+        "target": "/en/knowledge/prepare-your-way-out/",
+        "label": "Prepare your way out",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 443,
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "label": "Departure, tax and business obligations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#section-3"
+      },
+      {
+        "line": 444,
+        "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+        "label": "Residence, existing rights and second citizenship",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#section-5"
+      },
+      {
+        "line": 445,
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "label": "Prepare to move abroad with children and family",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#section-4"
+      },
+      {
+        "line": 446,
+        "target": "/en/services/overseas-company/",
+        "label": "Arrange an overseas company and ongoing administration",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#section-3"
+      },
+      {
+        "line": 447,
+        "target": "/en/services/departure-contingency-plan/",
+        "label": "Personal departure and contingency plan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#section-6"
+      },
+      {
+        "line": 448,
+        "target": "/en/services/residence-documents/",
+        "label": "Arrange residence and document preparation",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#section-4"
+      },
+      {
+        "line": 449,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-5"
+      },
+      {
+        "line": 450,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-6"
+      },
+      {
+        "line": 1424,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+        "label": "Aus Deutschland einen Ausweg vorbereiten (Deutsch)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      },
+      {
+        "line": 1425,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+        "label": "Aus Österreich einen Ausweg vorbereiten (Deutsch)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      },
+      {
+        "line": 1426,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+        "label": "Wegzug aus der Schweiz vorbereiten (Deutsch)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      },
+      {
+        "line": 1427,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+        "label": "Leaving the UK with a prepared alternative",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+    "lang": "en",
+    "model": "herkunft",
+    "title": "Leaving the UK with a prepared alternative",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Your present base, nationality and family circumstances"
+      },
+      {
+        "id": "section-2",
+        "title": "Keep UK residence status and nationality separate"
+      },
+      {
+        "id": "section-3",
+        "title": "Prepare HMRC, business and ongoing responsibilities"
+      },
+      {
+        "id": "section-4",
+        "title": "Establish rights and practical support for your family"
+      },
+      {
+        "id": "section-5",
+        "title": "Prepare destination rights, arrival and return options"
+      },
+      {
+        "id": "section-6",
+        "title": "Turn your departure into a coordinated plan"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-80a7afa6a5cece"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-f814f18f26cbc3"
+      }
+    ],
+    "links": [
+      {
+        "line": 431,
+        "target": "/en/knowledge/prepare-your-way-out/",
+        "label": "Prepare your way out",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 433,
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "label": "Departure, tax and business obligations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#section-3"
+      },
+      {
+        "line": 434,
+        "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+        "label": "Residence, existing rights and second citizenship",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#section-5"
+      },
+      {
+        "line": 435,
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "label": "Prepare to move abroad with children and family",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#section-4"
+      },
+      {
+        "line": 436,
+        "target": "/en/services/overseas-company/",
+        "label": "Arrange an overseas company and ongoing administration",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#section-3"
+      },
+      {
+        "line": 437,
+        "target": "/en/services/departure-contingency-plan/",
+        "label": "Personal departure and contingency plan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#section-6"
+      },
+      {
+        "line": 438,
+        "target": "/en/services/residence-documents/",
+        "label": "Arrange residence and document preparation",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#section-4"
+      },
+      {
+        "line": 439,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-5"
+      },
+      {
+        "line": 440,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-6"
+      },
+      {
+        "line": 1420,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+        "label": "Aus Deutschland einen Ausweg vorbereiten (Deutsch)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      },
+      {
+        "line": 1421,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+        "label": "Aus Österreich einen Ausweg vorbereiten (Deutsch)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      },
+      {
+        "line": 1422,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+        "label": "Wegzug aus der Schweiz vorbereiten (Deutsch)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      },
+      {
+        "line": 1423,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+        "label": "Leaving the UAE or preparing a second option",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/",
+    "lang": "de",
+    "model": "themenhub",
+    "title": "Wissen, das zur Vorbereitung führt",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "An welcher Frage hängt dein nächster Schritt?"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Fünf Aufgaben, die zusammenpassen müssen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Auch ohne dein Hauptgerät handlungsfähig bleiben"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Die konkrete Arbeit abgeben"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Die entscheidenden Fragen vertiefen"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-4a56f8c8faba82"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-fae6731a624c6f"
+      }
+    ],
+    "links": [
+      {
+        "line": 22,
+        "target": "/de/",
+        "label": "EXOBASIS: Eine eigene Basis außerhalb des Herkunftslands",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 24,
+        "target": "/de/wissen/ausweg-vorbereiten/",
+        "label": "Deinen Ausweg vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt persönliche Vorbereitung",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 25,
+        "target": "/de/wissen/aufenthalt-dokumente/",
+        "label": "Aufenthalt und Dokumente vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Rechte und notwendige Unterlagen",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 26,
+        "target": "/de/wissen/vermoegen-zugriff/",
+        "label": "Vermögen und Zugriff sichern",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Vermögen und Zugriff",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 27,
+        "target": "/de/wissen/familie-alltag/",
+        "label": "Familie und Alltag vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Familie und Alltag",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 28,
+        "target": "/de/wissen/unternehmen-einkommen/",
+        "label": "Unternehmen und Einkommen fortführen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unternehmen und Einkommen",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 29,
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 30,
+        "target": "/de/leistungen/",
+        "label": "Konkrete Hilfe",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Einstiegsbereich oder Abschluss: konkrete Arbeit abgeben",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 31,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 32,
+        "target": "/en/knowledge/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      },
+      {
+        "line": 45,
+        "target": "/de/wissen/ausweg-vorbereiten/",
+        "label": "Deinen Ausweg vorbereiten",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 68,
+        "target": "/de/wissen/aufenthalt-dokumente/",
+        "label": "Aufenthalt und Dokumente vorbereiten",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 90,
+        "target": "/de/wissen/vermoegen-zugriff/",
+        "label": "Vermögen und Zugriff sichern",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 116,
+        "target": "/de/wissen/familie-alltag/",
+        "label": "Familie und Alltag vorbereiten",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 138,
+        "target": "/de/wissen/unternehmen-einkommen/",
+        "label": "Unternehmen und Einkommen fortführen",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 731,
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-3"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/",
+    "lang": "en",
+    "model": "themenhub",
+    "title": "Knowledge for a prepared way forward",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Which question determines your next move?"
+      },
+      {
+        "id": "section-2",
+        "title": "Five connected areas of preparation"
+      },
+      {
+        "id": "section-3",
+        "title": "Keep access when your main device fails"
+      },
+      {
+        "id": "section-4",
+        "title": "Hand over the work you need done"
+      },
+      {
+        "id": "section-5",
+        "title": "Read the questions that matter next"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-4a56f8c8faba82"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-fae6731a624c6f"
+      }
+    ],
+    "links": [
+      {
+        "line": 33,
+        "target": "/en/",
+        "label": "EXOBASIS: Your own base beyond your home country",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 35,
+        "target": "/en/knowledge/prepare-your-way-out/",
+        "label": "Prepare your way out",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt persönliche Vorbereitung",
+        "position": "#section-1"
+      },
+      {
+        "line": 36,
+        "target": "/en/knowledge/residence-and-documents/",
+        "label": "Prepare residence rights and documents",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Rechte und notwendige Unterlagen",
+        "position": "#section-1"
+      },
+      {
+        "line": 37,
+        "target": "/en/knowledge/assets-and-access/",
+        "label": "Protect assets and retain access",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Vermögen und Zugriff",
+        "position": "#section-1"
+      },
+      {
+        "line": 38,
+        "target": "/en/knowledge/family-life-abroad/",
+        "label": "Prepare family life abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Familie und Alltag",
+        "position": "#section-1"
+      },
+      {
+        "line": 39,
+        "target": "/en/knowledge/business-and-income/",
+        "label": "Keep your business and income running",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unternehmen und Einkommen",
+        "position": "#section-1"
+      },
+      {
+        "line": 40,
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "label": "When your phone, SIM and main email fail",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#section-3"
+      },
+      {
+        "line": 41,
+        "target": "/en/services/",
+        "label": "Practical help",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Einstiegsbereich oder Abschluss: konkrete Arbeit abgeben",
+        "position": "#section-4"
+      },
+      {
+        "line": 42,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-5"
+      },
+      {
+        "line": 43,
+        "target": "/de/wissen/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      },
+      {
+        "line": 57,
+        "target": "/en/knowledge/prepare-your-way-out/",
+        "label": "Prepare your way out",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-2"
+      },
+      {
+        "line": 79,
+        "target": "/en/knowledge/residence-and-documents/",
+        "label": "Prepare residence rights and documents",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-2"
+      },
+      {
+        "line": 103,
+        "target": "/en/knowledge/assets-and-access/",
+        "label": "Protect assets and retain access",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-2"
+      },
+      {
+        "line": 127,
+        "target": "/en/knowledge/family-life-abroad/",
+        "label": "Prepare family life abroad",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-2"
+      },
+      {
+        "line": 149,
+        "target": "/en/knowledge/business-and-income/",
+        "label": "Keep your business and income running",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-2"
+      },
+      {
+        "line": 740,
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "label": "When your phone, SIM and main email fail",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-3"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/aufenthalt-dokumente/",
+    "lang": "de",
+    "model": "themenhub",
+    "title": "Aufenthalt und Dokumente vorbereiten",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Welche Rechte bestehen bereits?"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Aufenthalt, Staatsangehörigkeit und Steuerpflicht auseinanderhalten"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Vom benötigten Dokument zur verwendbaren Urkunde"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Familienrechte brauchen passende Nachweise"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Einreise und Wiedereinreise praktisch vorbereiten"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Unterlagen so hinterlegen, dass Berechtigte handeln können"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Die Vorbereitung organisieren lassen"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-fa724bb3d8d8e8"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-14c23480192f12"
+      }
+    ],
+    "links": [
+      {
+        "line": 67,
+        "target": "/de/wissen/",
+        "label": "Wissen, das zur Vorbereitung führt",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 69,
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 70,
+        "target": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+        "label": "Apostillen, Übersetzungen und Urkunden organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Urkunden und Verwendbarkeit",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 71,
+        "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+        "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt nutzbare Unterlagen für Berechtigte",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 72,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 73,
+        "target": "/de/leistungen/laender-standortauswahl/",
+        "label": "Passende Länder und Standortoptionen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt individueller Ländervergleich",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 74,
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 75,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 76,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 77,
+        "target": "/en/knowledge/residence-and-documents/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      },
+      {
+        "line": 466,
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 498,
+        "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+        "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-6"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/residence-and-documents/",
+    "lang": "en",
+    "model": "themenhub",
+    "title": "Prepare residence rights and documents",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Which rights do you already hold?"
+      },
+      {
+        "id": "section-2",
+        "title": "Separate residence, citizenship and tax status"
+      },
+      {
+        "id": "section-3",
+        "title": "From a required document to a usable record"
+      },
+      {
+        "id": "section-4",
+        "title": "Support family rights with the right evidence"
+      },
+      {
+        "id": "section-5",
+        "title": "Prepare entry and re-entry in practice"
+      },
+      {
+        "id": "section-6",
+        "title": "Make documents usable by authorised family members"
+      },
+      {
+        "id": "section-7",
+        "title": "Have the preparation organised"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-fa724bb3d8d8e8"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-14c23480192f12"
+      }
+    ],
+    "links": [
+      {
+        "line": 78,
+        "target": "/en/knowledge/",
+        "label": "Knowledge for a prepared way forward",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 80,
+        "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+        "label": "Residence, existing rights and second citizenship",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#section-2"
+      },
+      {
+        "line": 81,
+        "target": "/en/services/apostilles-translations-documents/",
+        "label": "Arrange apostilles, translations and documents",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Urkunden und Verwendbarkeit",
+        "position": "#section-3"
+      },
+      {
+        "line": 82,
+        "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+        "label": "Emergency documents your family can actually use",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt nutzbare Unterlagen für Berechtigte",
+        "position": "#section-6"
+      },
+      {
+        "line": 83,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-2"
+      },
+      {
+        "line": 84,
+        "target": "/en/services/country-location-selection/",
+        "label": "Choose suitable countries and locations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt individueller Ländervergleich",
+        "position": "#section-2"
+      },
+      {
+        "line": 85,
+        "target": "/en/services/residence-documents/",
+        "label": "Arrange residence and document preparation",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#section-7"
+      },
+      {
+        "line": 86,
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "label": "Prepare to move abroad with children and family",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#section-4"
+      },
+      {
+        "line": 87,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      },
+      {
+        "line": 88,
+        "target": "/de/wissen/aufenthalt-dokumente/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      },
+      {
+        "line": 475,
+        "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+        "label": "Residence, existing rights and second citizenship",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-2"
+      },
+      {
+        "line": 508,
+        "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+        "label": "Emergency documents your family can actually use",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-6"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+    "lang": "de",
+    "model": "fachbeitrag",
+    "title": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Staatsangehörigkeit und Familienrechte zuerst"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "EU-, EWR- und Schweizer Rechte präzise zuordnen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Aufenthaltsrecht und seine Erhaltung prüfen"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Passdokument und Staatsangehörigkeit unterscheiden"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Arbeit, steuerliche Ansässigkeit und tatsächliches Wohnen"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Programme im richtigen Länderprofil vergleichen"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Die benötigten Schritte organisieren"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-7566a8cf2e1da1"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-8e3e113de02a37"
+      }
+    ],
+    "links": [
+      {
+        "line": 465,
+        "target": "/de/wissen/aufenthalt-dokumente/",
+        "label": "Aufenthalt und Dokumente vorbereiten",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 467,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 468,
+        "target": "/de/leistungen/laender-standortauswahl/",
+        "label": "Passende Länder und Standortoptionen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt individueller Ländervergleich",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 469,
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 470,
+        "target": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+        "label": "Apostillen, Übersetzungen und Urkunden organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Urkunden und Verwendbarkeit",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 471,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 472,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 473,
+        "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/residence-and-documents/rights-citizenship/",
+    "lang": "en",
+    "model": "fachbeitrag",
+    "title": "Residence, existing rights and second citizenship",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Start with nationality and family rights"
+      },
+      {
+        "id": "section-2",
+        "title": "Assign EU, EEA and Swiss rights precisely"
+      },
+      {
+        "id": "section-3",
+        "title": "Check residence rights and how they are maintained"
+      },
+      {
+        "id": "section-4",
+        "title": "Distinguish a passport from citizenship"
+      },
+      {
+        "id": "section-5",
+        "title": "Separate work, tax residence and actual living arrangements"
+      },
+      {
+        "id": "section-6",
+        "title": "Compare programmes within the relevant country profile"
+      },
+      {
+        "id": "section-7",
+        "title": "Have the required steps organised"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-7566a8cf2e1da1"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-8e3e113de02a37"
+      }
+    ],
+    "links": [
+      {
+        "line": 474,
+        "target": "/en/knowledge/residence-and-documents/",
+        "label": "Prepare residence rights and documents",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 476,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-6"
+      },
+      {
+        "line": 477,
+        "target": "/en/services/country-location-selection/",
+        "label": "Choose suitable countries and locations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt individueller Ländervergleich",
+        "position": "#section-6"
+      },
+      {
+        "line": 478,
+        "target": "/en/services/residence-documents/",
+        "label": "Arrange residence and document preparation",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#section-7"
+      },
+      {
+        "line": 479,
+        "target": "/en/services/apostilles-translations-documents/",
+        "label": "Arrange apostilles, translations and documents",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Urkunden und Verwendbarkeit",
+        "position": "#section-4"
+      },
+      {
+        "line": 480,
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "label": "Prepare to move abroad with children and family",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#section-1"
+      },
+      {
+        "line": 481,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      },
+      {
+        "line": 482,
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/ausweg-vorbereiten/",
+    "lang": "de",
+    "model": "themenhub",
+    "title": "Deinen Ausweg vorbereiten",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Handlungsspielraum entsteht vor dem Ernstfall"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Welche Lage löst welchen Schritt aus?"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Was ist schon wirklich vorbereitet?"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Ausreise, Transit und Ankunft zusammen planen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Vorbereitung pflegen und vereinbart aktivieren"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Deine Ausgangslage am heutigen Wohnsitz"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Aus deiner Vorbereitung einen ausführbaren Auftrag machen"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-7f069bcde54445"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-3cf35cab33b542"
+      }
+    ],
+    "links": [
+      {
+        "line": 44,
+        "target": "/de/wissen/",
+        "label": "Wissen, das zur Vorbereitung führt",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 46,
+        "target": "/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/",
+        "label": "Wohin bei Krieg und eingeschränkter Ausreise?",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krieg und rechtzeitige Ausreise",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 47,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+        "label": "Aus Deutschland einen Ausweg vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 48,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+        "label": "Aus Österreich einen Ausweg vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 49,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+        "label": "Wegzug aus der Schweiz vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 50,
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 51,
+        "target": "/de/leistungen/vorbereitung-betreuen/",
+        "label": "Vorbereitung prüfen und aktuell halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Voraussetzungen aktuell halten",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 52,
+        "target": "/de/leistungen/aktivierung-notfallkoordination/",
+        "label": "Vereinbarte Aktivierung und Notfallkoordination",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vereinbarten Fall aktivieren",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 53,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 54,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 55,
+        "target": "/en/knowledge/prepare-your-way-out/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      },
+      {
+        "line": 376,
+        "target": "/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/",
+        "label": "Wohin bei Krieg und eingeschränkter Ausreise?",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 395,
+        "target": "/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/",
+        "label": "Einberufung und Ausreise aus Deutschland",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 402,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+        "label": "Aus Deutschland einen Ausweg vorbereiten",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 412,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+        "label": "Aus Österreich einen Ausweg vorbereiten",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 422,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+        "label": "Wegzug aus der Schweiz vorbereiten",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-6"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/prepare-your-way-out/",
+    "lang": "en",
+    "model": "themenhub",
+    "title": "Prepare your way out",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Build your options before you need them"
+      },
+      {
+        "id": "section-2",
+        "title": "Which situation calls for which action?"
+      },
+      {
+        "id": "section-3",
+        "title": "What is genuinely ready?"
+      },
+      {
+        "id": "section-4",
+        "title": "Plan departure, transit and arrival together"
+      },
+      {
+        "id": "section-5",
+        "title": "Maintain preparations and activate an agreed plan"
+      },
+      {
+        "id": "section-6",
+        "title": "Start with your present country of residence"
+      },
+      {
+        "id": "section-7",
+        "title": "Turn your preparations into an actionable plan"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-7f069bcde54445"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-3cf35cab33b542"
+      }
+    ],
+    "links": [
+      {
+        "line": 56,
+        "target": "/en/knowledge/",
+        "label": "Knowledge for a prepared way forward",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 58,
+        "target": "/en/knowledge/prepare-your-way-out/where-to-go-if-war/",
+        "label": "Where could your family go if war disrupts your plans?",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krieg und rechtzeitige Ausreise",
+        "position": "#section-2"
+      },
+      {
+        "line": 59,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+        "label": "Leaving the UK with a prepared alternative",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#section-6"
+      },
+      {
+        "line": 60,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+        "label": "Leaving the UAE or preparing a second option",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#section-6"
+      },
+      {
+        "line": 61,
+        "target": "/en/services/departure-contingency-plan/",
+        "label": "Personal departure and contingency plan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#section-7"
+      },
+      {
+        "line": 62,
+        "target": "/en/services/maintain-preparations/",
+        "label": "Review and maintain your preparations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Voraussetzungen aktuell halten",
+        "position": "#section-5"
+      },
+      {
+        "line": 63,
+        "target": "/en/services/activation-emergency-coordination/",
+        "label": "Agreed activation and emergency coordination",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vereinbarten Fall aktivieren",
+        "position": "#section-5"
+      },
+      {
+        "line": 64,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-4"
+      },
+      {
+        "line": 65,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      },
+      {
+        "line": 66,
+        "target": "/de/wissen/ausweg-vorbereiten/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      },
+      {
+        "line": 386,
+        "target": "/en/knowledge/prepare-your-way-out/where-to-go-if-war/",
+        "label": "Where could your family go if war disrupts your plans?",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-2"
+      },
+      {
+        "line": 432,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+        "label": "Leaving the UK with a prepared alternative",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-6"
+      },
+      {
+        "line": 442,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+        "label": "Leaving the UAE or preparing a second option",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-6"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+    "lang": "de",
+    "model": "herkunft",
+    "title": "Aus Deutschland einen Ausweg vorbereiten",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Wohnsitz, Staatsangehörigkeit und bestehende Rechte"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Abmeldung und tatsächlichen Wegzug abstimmen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Steuern und laufenden Betrieb gesondert ordnen"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Unterlagen und Familie handlungsfähig vorbereiten"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Zielrechte, Ankunft und Rückweg zusammenbringen"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Deinen Wegzug als zusammenhängenden Auftrag organisieren"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-87126136cea236"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-541b2d50853869"
+      }
+    ],
+    "links": [
+      {
+        "line": 401,
+        "target": "/de/wissen/ausweg-vorbereiten/",
+        "label": "Deinen Ausweg vorbereiten",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 403,
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 404,
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 405,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 406,
+        "target": "/de/leistungen/auslandsgesellschaft/",
+        "label": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 407,
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 408,
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 409,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 410,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 1408,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+        "label": "Aus Österreich einen Ausweg vorbereiten",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1409,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+        "label": "Wegzug aus der Schweiz vorbereiten",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1410,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+        "label": "Leaving the UK with a prepared alternative (English)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1411,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+        "label": "Leaving the UAE or preparing a second option (English)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+    "lang": "de",
+    "model": "herkunft",
+    "title": "Aus Österreich einen Ausweg vorbereiten",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Heutiger Wohnsitz und persönliche Rechte"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Meldeweg und österreichische Unterlagen vorbereiten"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Steuer, Tätigkeit und Sozialversicherung zusammen prüfen"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Familienrechte und Unterlagen nach Personen ordnen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Vorhandene Zielrechte und organisierte Ankunft verbinden"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Die österreichische Ausgangslage in einen umsetzbaren Plan bringen"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-d6022a27200c18"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-5a7c16c50cdba2"
+      }
+    ],
+    "links": [
+      {
+        "line": 411,
+        "target": "/de/wissen/ausweg-vorbereiten/",
+        "label": "Deinen Ausweg vorbereiten",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 413,
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 414,
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 415,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 416,
+        "target": "/de/leistungen/auslandsgesellschaft/",
+        "label": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 417,
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 418,
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 419,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 420,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 1412,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+        "label": "Aus Deutschland einen Ausweg vorbereiten",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1413,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+        "label": "Wegzug aus der Schweiz vorbereiten",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1414,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+        "label": "Leaving the UK with a prepared alternative (English)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1415,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+        "label": "Leaving the UAE or preparing a second option (English)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+    "lang": "de",
+    "model": "herkunft",
+    "title": "Wegzug aus der Schweiz vorbereiten",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Schweizer Wohnsitz und persönliche Zugehörigkeit trennen"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Gemeinde, Kanton und Abmeldung koordinieren"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Versicherung und Vorsorge vor dem Übergang regeln"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Steuerliche Bindungen, Bank und Dokumente vorbereiten"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Zielrechte und Ankunft passend zum Haushalt klären"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Die Übergänge als einen Auftrag organisieren"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-b478cfd454c7dd"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-b64b91ab942fa9"
+      }
+    ],
+    "links": [
+      {
+        "line": 421,
+        "target": "/de/wissen/ausweg-vorbereiten/",
+        "label": "Deinen Ausweg vorbereiten",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 423,
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 424,
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 425,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 426,
+        "target": "/de/leistungen/auslandsgesellschaft/",
+        "label": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 427,
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 428,
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 429,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 430,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 1416,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+        "label": "Aus Deutschland einen Ausweg vorbereiten",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1417,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+        "label": "Aus Österreich einen Ausweg vorbereiten",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1418,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+        "label": "Leaving the UK with a prepared alternative (English)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1419,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+        "label": "Leaving the UAE or preparing a second option (English)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/",
+    "lang": "de",
+    "model": "fachbeitrag",
+    "title": "Einberufung und Ausreise aus Deutschland",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Gesetz und Ausnahme mit ihrem jeweiligen Stand"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Welche persönlichen Anknüpfungen sind entscheidend?"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Unterlagen und zuständige Ansprechpartner ordnen"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Rechtmäßige Optionen anhand der geltenden Lage klären"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Familienrechte, Aufenthalt und Dokumente vorbereiten"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Fachklärung und persönliche Vorbereitung verbinden"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-e49004e371b57b"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-e369c3af320785"
+      }
+    ],
+    "links": [
+      {
+        "line": 394,
+        "target": "/de/wissen/ausweg-vorbereiten/",
+        "label": "Deinen Ausweg vorbereiten",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 396,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+        "label": "Aus Deutschland einen Ausweg vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 397,
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 398,
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 399,
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 400,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-6"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/",
+    "lang": "de",
+    "model": "fachbeitrag",
+    "title": "Wohin bei Krieg und eingeschränkter Ausreise?",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Du willst handeln, solange du noch wählen kannst"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Geordneter Wegzug, regionale Eskalation und Versorgungsbruch"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Rechte und Vorlauf vor dem Ticket klären"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Familie und Erarbeitetes tatsächlich mitdenken"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Länder nach deiner Aufgabe vergleichen"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Aus der Option einen vorbereiteten persönlichen Plan machen"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-cb3db36c6732d0"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-5f309316222311"
+      }
+    ],
+    "links": [
+      {
+        "line": 375,
+        "target": "/de/wissen/ausweg-vorbereiten/",
+        "label": "Deinen Ausweg vorbereiten",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 377,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 378,
+        "target": "/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/",
+        "label": "Einberufung und Ausreise aus Deutschland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt persönliche Rechtslage in Deutschland",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 379,
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 380,
+        "target": "/de/leistungen/laender-standortauswahl/",
+        "label": "Passende Länder und Standortoptionen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt individueller Ländervergleich",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 381,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 382,
+        "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+        "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 383,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 384,
+        "target": "/en/knowledge/prepare-your-way-out/where-to-go-if-war/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/prepare-your-way-out/where-to-go-if-war/",
+    "lang": "en",
+    "model": "fachbeitrag",
+    "title": "Where could your family go if war disrupts your plans?",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Act while you can still choose"
+      },
+      {
+        "id": "section-2",
+        "title": "Planned departure, regional escalation and disrupted supplies"
+      },
+      {
+        "id": "section-3",
+        "title": "Establish rights and lead times before booking"
+      },
+      {
+        "id": "section-4",
+        "title": "Make the plan work for your family and what you own"
+      },
+      {
+        "id": "section-5",
+        "title": "Compare countries for your actual needs"
+      },
+      {
+        "id": "section-6",
+        "title": "Turn an option into your prepared personal plan"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-cb3db36c6732d0"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-5f309316222311"
+      }
+    ],
+    "links": [
+      {
+        "line": 385,
+        "target": "/en/knowledge/prepare-your-way-out/",
+        "label": "Prepare your way out",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 387,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-5"
+      },
+      {
+        "line": 388,
+        "target": "/en/services/departure-contingency-plan/",
+        "label": "Personal departure and contingency plan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#section-6"
+      },
+      {
+        "line": 389,
+        "target": "/en/services/country-location-selection/",
+        "label": "Choose suitable countries and locations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt individueller Ländervergleich",
+        "position": "#section-5"
+      },
+      {
+        "line": 390,
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "label": "Prepare to move abroad with children and family",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#section-4"
+      },
+      {
+        "line": 391,
+        "target": "/en/knowledge/assets-and-access/banking-payments/",
+        "label": "Banking access and payments abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#section-4"
+      },
+      {
+        "line": 392,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-6"
+      },
+      {
+        "line": 393,
+        "target": "/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/familie-alltag/",
+    "lang": "de",
+    "model": "themenhub",
+    "title": "Familie und Alltag vorbereiten",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Jede Person braucht eine eigene tragfähige Grundlage"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Kinder, Schule und Betreuung zusammen vorbereiten"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Gesundheit, Medikamente und Pflege absichern"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Unterkunft, Erkundung und Ankunft vorbereiten"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Haustiere und das zurückgelassene Zuhause mitdenken"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Rückkehr offenhalten oder einen neuen Alltag aufbauen"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Aus Einzelaufgaben eine organisierte Vorbereitung machen"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-d3fc892159bdbd"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-2e2ede0ee6e48c"
+      }
+    ],
+    "links": [
+      {
+        "line": 115,
+        "target": "/de/wissen/",
+        "label": "Wissen, das zur Vorbereitung führt",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 117,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 118,
+        "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+        "label": "Krankenversicherung und Versorgung im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krankenversicherung und Behandlung",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 119,
+        "target": "/de/wissen/familie-alltag/pflege-medikamente/",
+        "label": "Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Pflege und medizinische Abhängigkeiten",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 120,
+        "target": "/de/leistungen/ankunft-organisieren/",
+        "label": "Ankunft im Zielland organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 121,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 122,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 123,
+        "target": "/de/leistungen/familie-unternehmen/",
+        "label": "Familie und Unternehmen handlungsfähig halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 124,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 125,
+        "target": "/en/knowledge/family-life-abroad/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      },
+      {
+        "line": 620,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 640,
+        "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+        "label": "Krankenversicherung und Versorgung im Ausland",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 658,
+        "target": "/de/wissen/familie-alltag/pflege-medikamente/",
+        "label": "Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-3"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/family-life-abroad/",
+    "lang": "en",
+    "model": "themenhub",
+    "title": "Prepare family life abroad",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Every family member needs a workable basis"
+      },
+      {
+        "id": "section-2",
+        "title": "Prepare children, schooling and care together"
+      },
+      {
+        "id": "section-3",
+        "title": "Plan healthcare, medication and care needs"
+      },
+      {
+        "id": "section-4",
+        "title": "Prepare accommodation, reconnaissance and arrival"
+      },
+      {
+        "id": "section-5",
+        "title": "Include pets and the home you leave behind"
+      },
+      {
+        "id": "section-6",
+        "title": "Keep return options open or build a new everyday life"
+      },
+      {
+        "id": "section-7",
+        "title": "Bring individual tasks into an organised preparation"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-d3fc892159bdbd"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-2e2ede0ee6e48c"
+      }
+    ],
+    "links": [
+      {
+        "line": 126,
+        "target": "/en/knowledge/",
+        "label": "Knowledge for a prepared way forward",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 128,
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "label": "Prepare to move abroad with children and family",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#section-2"
+      },
+      {
+        "line": 129,
+        "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+        "label": "Health cover and care abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krankenversicherung und Behandlung",
+        "position": "#section-3"
+      },
+      {
+        "line": 130,
+        "target": "/en/knowledge/family-life-abroad/care-medication/",
+        "label": "Care needs, medication and medical dependencies when moving",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Pflege und medizinische Abhängigkeiten",
+        "position": "#section-3"
+      },
+      {
+        "line": 131,
+        "target": "/en/services/arrange-arrival/",
+        "label": "Arrange your arrival abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#section-4"
+      },
+      {
+        "line": 132,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#section-1"
+      },
+      {
+        "line": 133,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-1"
+      },
+      {
+        "line": 134,
+        "target": "/en/services/family-business-continuity/",
+        "label": "Keep your family and business functioning",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#section-7"
+      },
+      {
+        "line": 135,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      },
+      {
+        "line": 136,
+        "target": "/de/wissen/familie-alltag/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      },
+      {
+        "line": 630,
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "label": "Prepare to move abroad with children and family",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-2"
+      },
+      {
+        "line": 649,
+        "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+        "label": "Health cover and care abroad",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-3"
+      },
+      {
+        "line": 666,
+        "target": "/en/knowledge/family-life-abroad/care-medication/",
+        "label": "Care needs, medication and medical dependencies when moving",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-3"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/familie-alltag/kinder-angehoerige/",
+    "lang": "de",
+    "model": "fachbeitrag",
+    "title": "Mit Kindern und Angehörigen vorbereitet gehen",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Alle Personen und ihre Rechte berücksichtigen"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Sorgeberechtigung und Reiseunterlagen klären"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Schule, Betreuung und Sprache vorbereiten"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Besondere Angehörige und Versorgung mitnehmen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Haustiere, Transit und Begleitung vorbereiten"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Unterkunft und organisierte Ankunft sichern"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Rückkehr offenhalten oder den neuen Alltag aufbauen"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-0292b9d1a42d4d"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-02b6751b0c8b04"
+      }
+    ],
+    "links": [
+      {
+        "line": 619,
+        "target": "/de/wissen/familie-alltag/",
+        "label": "Familie und Alltag vorbereiten",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 621,
+        "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+        "label": "Krankenversicherung und Versorgung im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krankenversicherung und Behandlung",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 622,
+        "target": "/de/wissen/familie-alltag/pflege-medikamente/",
+        "label": "Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Pflege und medizinische Abhängigkeiten",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 623,
+        "target": "/de/leistungen/ankunft-organisieren/",
+        "label": "Ankunft im Zielland organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 624,
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 625,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 626,
+        "target": "/de/leistungen/familie-unternehmen/",
+        "label": "Familie und Unternehmen handlungsfähig halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 627,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 628,
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/family-life-abroad/children-family/",
+    "lang": "en",
+    "model": "fachbeitrag",
+    "title": "Prepare to move abroad with children and family",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Include every person and their rights"
+      },
+      {
+        "id": "section-2",
+        "title": "Clarify consent and travel documentation"
+      },
+      {
+        "id": "section-3",
+        "title": "Prepare schooling, childcare and language support"
+      },
+      {
+        "id": "section-4",
+        "title": "Plan for relatives with additional needs"
+      },
+      {
+        "id": "section-5",
+        "title": "Prepare pets, transit and accompaniment"
+      },
+      {
+        "id": "section-6",
+        "title": "Prepare accommodation and an organised arrival"
+      },
+      {
+        "id": "section-7",
+        "title": "Keep a return option or establish everyday life abroad"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-0292b9d1a42d4d"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-02b6751b0c8b04"
+      }
+    ],
+    "links": [
+      {
+        "line": 629,
+        "target": "/en/knowledge/family-life-abroad/",
+        "label": "Prepare family life abroad",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 631,
+        "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+        "label": "Health cover and care abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krankenversicherung und Behandlung",
+        "position": "#section-4"
+      },
+      {
+        "line": 632,
+        "target": "/en/knowledge/family-life-abroad/care-medication/",
+        "label": "Care needs, medication and medical dependencies when moving",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Pflege und medizinische Abhängigkeiten",
+        "position": "#section-4"
+      },
+      {
+        "line": 633,
+        "target": "/en/services/arrange-arrival/",
+        "label": "Arrange your arrival abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#section-6"
+      },
+      {
+        "line": 634,
+        "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+        "label": "Residence, existing rights and second citizenship",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#section-1"
+      },
+      {
+        "line": 635,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#section-2"
+      },
+      {
+        "line": 636,
+        "target": "/en/services/family-business-continuity/",
+        "label": "Keep your family and business functioning",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#section-7"
+      },
+      {
+        "line": 637,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      },
+      {
+        "line": 638,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+    "lang": "de",
+    "model": "fachbeitrag",
+    "title": "Krankenversicherung und Versorgung im Ausland",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Bedarf, Dauer und persönliche Vorbedingungen klären"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Die tatsächliche Versicherungsaufnahme prüfen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Erreichbare Behandlung am richtigen Ort planen"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Medikamente und laufende Unterstützung weiterführen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Abrechnung und erforderliche Liquidität vorbereiten"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Medizinischen Rücktransport und Sicherheitshilfe trennen"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Versorgung als Teil der Vorbereitung organisieren"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-90e4e6a344ac37"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-3bc0ec82293695"
+      }
+    ],
+    "links": [
+      {
+        "line": 639,
+        "target": "/de/wissen/familie-alltag/",
+        "label": "Familie und Alltag vorbereiten",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 641,
+        "target": "/de/wissen/familie-alltag/pflege-medikamente/",
+        "label": "Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Pflege und medizinische Abhängigkeiten",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 642,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 643,
+        "target": "/de/leistungen/ankunft-organisieren/",
+        "label": "Ankunft im Zielland organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 644,
+        "target": "/de/leistungen/familie-unternehmen/",
+        "label": "Familie und Unternehmen handlungsfähig halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 645,
+        "target": "/de/leistungen/aktivierung-notfallkoordination/",
+        "label": "Vereinbarte Aktivierung und Notfallkoordination",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vereinbarten Fall aktivieren",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 646,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 647,
+        "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/family-life-abroad/health-cover-care/",
+    "lang": "en",
+    "model": "fachbeitrag",
+    "title": "Health cover and care abroad",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Establish needs, duration and relevant preconditions"
+      },
+      {
+        "id": "section-2",
+        "title": "Verify policy acceptance and terms"
+      },
+      {
+        "id": "section-3",
+        "title": "Plan accessible care at the right location"
+      },
+      {
+        "id": "section-4",
+        "title": "Maintain medication and ongoing support"
+      },
+      {
+        "id": "section-5",
+        "title": "Prepare billing and necessary liquidity"
+      },
+      {
+        "id": "section-6",
+        "title": "Separate medical repatriation from security assistance"
+      },
+      {
+        "id": "section-7",
+        "title": "Organise care access as part of your preparations"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-90e4e6a344ac37"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-3bc0ec82293695"
+      }
+    ],
+    "links": [
+      {
+        "line": 648,
+        "target": "/en/knowledge/family-life-abroad/",
+        "label": "Prepare family life abroad",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 650,
+        "target": "/en/knowledge/family-life-abroad/care-medication/",
+        "label": "Care needs, medication and medical dependencies when moving",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Pflege und medizinische Abhängigkeiten",
+        "position": "#section-4"
+      },
+      {
+        "line": 651,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-3"
+      },
+      {
+        "line": 652,
+        "target": "/en/services/arrange-arrival/",
+        "label": "Arrange your arrival abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#section-3"
+      },
+      {
+        "line": 653,
+        "target": "/en/services/family-business-continuity/",
+        "label": "Keep your family and business functioning",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#section-7"
+      },
+      {
+        "line": 654,
+        "target": "/en/services/activation-emergency-coordination/",
+        "label": "Agreed activation and emergency coordination",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vereinbarten Fall aktivieren",
+        "position": "#section-6"
+      },
+      {
+        "line": 655,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      },
+      {
+        "line": 656,
+        "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/familie-alltag/pflege-medikamente/",
+    "lang": "de",
+    "model": "fachbeitrag",
+    "title": "Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Den konkreten Unterstützungsbedarf verstehen"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Behandelnde Fachstellen frühzeitig einbinden"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Medikamente und Hilfsmittel entlang der Route prüfen"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Transport und geeignete Begleitung abstimmen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Aufnahme und Alltag am Ziel tatsächlich vorbereiten"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Finanzierung und Versicherungsleistung abgleichen"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Vertretung und laufende Betreuung organisieren"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-126e16521eac4a"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-74f0fcc5325c1d"
+      }
+    ],
+    "links": [
+      {
+        "line": 657,
+        "target": "/de/wissen/familie-alltag/",
+        "label": "Familie und Alltag vorbereiten",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 659,
+        "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+        "label": "Krankenversicherung und Versorgung im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krankenversicherung und Behandlung",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 660,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 661,
+        "target": "/de/leistungen/ankunft-organisieren/",
+        "label": "Ankunft im Zielland organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 662,
+        "target": "/de/leistungen/familie-unternehmen/",
+        "label": "Familie und Unternehmen handlungsfähig halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 663,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 664,
+        "target": "/en/knowledge/family-life-abroad/care-medication/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/family-life-abroad/care-medication/",
+    "lang": "en",
+    "model": "fachbeitrag",
+    "title": "Care needs, medication and medical dependencies when moving",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Understand the actual support requirements"
+      },
+      {
+        "id": "section-2",
+        "title": "Involve the treating professionals early"
+      },
+      {
+        "id": "section-3",
+        "title": "Check medication and equipment along the route"
+      },
+      {
+        "id": "section-4",
+        "title": "Arrange suitable transport and accompaniment"
+      },
+      {
+        "id": "section-5",
+        "title": "Prepare real reception and day-to-day support"
+      },
+      {
+        "id": "section-6",
+        "title": "Align funding and insurance arrangements"
+      },
+      {
+        "id": "section-7",
+        "title": "Organise representation and ongoing coordination"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-126e16521eac4a"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-74f0fcc5325c1d"
+      }
+    ],
+    "links": [
+      {
+        "line": 665,
+        "target": "/en/knowledge/family-life-abroad/",
+        "label": "Prepare family life abroad",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 667,
+        "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+        "label": "Health cover and care abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krankenversicherung und Behandlung",
+        "position": "#section-6"
+      },
+      {
+        "line": 668,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#section-7"
+      },
+      {
+        "line": 669,
+        "target": "/en/services/arrange-arrival/",
+        "label": "Arrange your arrival abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#section-5"
+      },
+      {
+        "line": 670,
+        "target": "/en/services/family-business-continuity/",
+        "label": "Keep your family and business functioning",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#section-7"
+      },
+      {
+        "line": 671,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      },
+      {
+        "line": 672,
+        "target": "/de/wissen/familie-alltag/pflege-medikamente/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/unternehmen-einkommen/",
+    "lang": "de",
+    "model": "themenhub",
+    "title": "Unternehmen und Einkommen fortführen",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Welche Aufgaben dürfen nicht liegen bleiben?"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Kundenkontakt, Leistung und Rechnungen fortführen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Vertretung und Zahlungen zusammen regeln"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Arbeitsplatz und Zugänge unabhängig machen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Arbeitsort, Arbeitgeber und Sozialversicherung klären"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Gesellschaft und steuerliche Pflichten passend ordnen"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Fortführung konkret einrichten und abstimmen"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-e1e712ee436aab"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-6f7ece84003bbd"
+      }
+    ],
+    "links": [
+      {
+        "line": 137,
+        "target": "/de/wissen/",
+        "label": "Wissen, das zur Vorbereitung führt",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 139,
+        "target": "/de/leistungen/auslandsgesellschaft/",
+        "label": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 140,
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 141,
+        "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+        "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 142,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 143,
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 144,
+        "target": "/de/leistungen/familie-unternehmen/",
+        "label": "Familie und Unternehmen handlungsfähig halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 145,
+        "target": "/de/leistungen/kommunikation-wiederzugang/",
+        "label": "Diskrete Kommunikation und Wiederzugang einrichten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kommunikations-/Zugangswege einrichten",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 146,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 147,
+        "target": "/en/knowledge/business-and-income/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      },
+      {
+        "line": 694,
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-6"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/business-and-income/",
+    "lang": "en",
+    "model": "themenhub",
+    "title": "Keep your business and income running",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Which business tasks cannot stop?"
+      },
+      {
+        "id": "section-2",
+        "title": "Keep customers, delivery and invoicing connected"
+      },
+      {
+        "id": "section-3",
+        "title": "Align authority and payments"
+      },
+      {
+        "id": "section-4",
+        "title": "Prepare independent access and a workable workplace"
+      },
+      {
+        "id": "section-5",
+        "title": "Clarify work location, employer and social insurance"
+      },
+      {
+        "id": "section-6",
+        "title": "Align company structure and tax obligations"
+      },
+      {
+        "id": "section-7",
+        "title": "Put practical continuity arrangements in place"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-e1e712ee436aab"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-6f7ece84003bbd"
+      }
+    ],
+    "links": [
+      {
+        "line": 148,
+        "target": "/en/knowledge/",
+        "label": "Knowledge for a prepared way forward",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 150,
+        "target": "/en/services/overseas-company/",
+        "label": "Arrange an overseas company and ongoing administration",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#section-6"
+      },
+      {
+        "line": 151,
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "label": "Departure, tax and business obligations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#section-6"
+      },
+      {
+        "line": 152,
+        "target": "/en/knowledge/assets-and-access/banking-payments/",
+        "label": "Banking access and payments abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#section-3"
+      },
+      {
+        "line": 153,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#section-3"
+      },
+      {
+        "line": 154,
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "label": "When your phone, SIM and main email fail",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#section-4"
+      },
+      {
+        "line": 155,
+        "target": "/en/services/family-business-continuity/",
+        "label": "Keep your family and business functioning",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#section-7"
+      },
+      {
+        "line": 156,
+        "target": "/en/services/communications-recovery/",
+        "label": "Set up private communications and recovery access",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kommunikations-/Zugangswege einrichten",
+        "position": "#section-4"
+      },
+      {
+        "line": 157,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      },
+      {
+        "line": 158,
+        "target": "/de/wissen/unternehmen-einkommen/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      },
+      {
+        "line": 704,
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "label": "Departure, tax and business obligations",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-6"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+    "lang": "de",
+    "model": "fachbeitrag",
+    "title": "Wegzug, Steuern und Unternehmenspflichten",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Wohnsitz, Tätigkeit und Staatsangehörigkeit auseinanderhalten"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Deutschland: tatsächlichen Wegzug und verbleibende Bindungen prüfen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Österreich: eigene Steuer- und Versicherungsfragen klären"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Schweiz: Kanton, Vorsorge und fortbestehende Aufgaben verbinden"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Weitere Rechtsmärkte in ihrer eigenen Fassung vertiefen"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Gesellschaft, Leitung und Übertragung nach Zweck ordnen"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Arbeitgeber, Arbeitsort und Sozialversicherung berücksichtigen"
+      },
+      {
+        "id": "abschnitt-8",
+        "title": "Fachprüfung und organisatorische Umsetzung verbinden"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-a53e120d221e08"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-956dba2f6c3454"
+      }
+    ],
+    "links": [
+      {
+        "line": 693,
+        "target": "/de/wissen/unternehmen-einkommen/",
+        "label": "Unternehmen und Einkommen fortführen",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 695,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+        "label": "Aus Deutschland einen Ausweg vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 696,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+        "label": "Aus Österreich einen Ausweg vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 697,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+        "label": "Wegzug aus der Schweiz vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 698,
+        "target": "/de/leistungen/auslandsgesellschaft/",
+        "label": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 699,
+        "target": "/de/leistungen/vermoegen-uebertragen/",
+        "label": "Vermögen übertragen und legal verfügbar halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Übertragungsschritte",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 700,
+        "target": "/de/leistungen/vermoegensstrukturen/",
+        "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt fachliche Strukturierungsarbeit organisieren",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 701,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-8"
+      },
+      {
+        "line": 702,
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/business-and-income/departure-tax/",
+    "lang": "en",
+    "model": "fachbeitrag",
+    "title": "Departure, tax and business obligations",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Separate residence, work and nationality"
+      },
+      {
+        "id": "section-2",
+        "title": "Germany: review departure and remaining connections"
+      },
+      {
+        "id": "section-3",
+        "title": "Austria: clarify the Austrian tax and insurance position"
+      },
+      {
+        "id": "section-4",
+        "title": "Switzerland: connect cantonal, pension and continuing obligations"
+      },
+      {
+        "id": "section-5",
+        "title": "UK and UAE: apply the appropriate departure-country rules"
+      },
+      {
+        "id": "section-6",
+        "title": "Align company, management and transfers with their purpose"
+      },
+      {
+        "id": "section-7",
+        "title": "Account for employer, work location and social insurance"
+      },
+      {
+        "id": "section-8",
+        "title": "Connect professional assessment with practical implementation"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-a53e120d221e08"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-956dba2f6c3454"
+      }
+    ],
+    "links": [
+      {
+        "line": 703,
+        "target": "/en/knowledge/business-and-income/",
+        "label": "Keep your business and income running",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 705,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+        "label": "Leaving the UK with a prepared alternative",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#section-5"
+      },
+      {
+        "line": 706,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+        "label": "Leaving the UAE or preparing a second option",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#section-5"
+      },
+      {
+        "line": 707,
+        "target": "/en/services/overseas-company/",
+        "label": "Arrange an overseas company and ongoing administration",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#section-6"
+      },
+      {
+        "line": 708,
+        "target": "/en/services/asset-transfers/",
+        "label": "Transfer assets and retain lawful access",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Übertragungsschritte",
+        "position": "#section-6"
+      },
+      {
+        "line": 709,
+        "target": "/en/services/asset-structures/",
+        "label": "Arrange asset structures, custody and succession",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt fachliche Strukturierungsarbeit organisieren",
+        "position": "#section-6"
+      },
+      {
+        "line": 710,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-8"
+      },
+      {
+        "line": 711,
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/vermoegen-zugriff/",
+    "lang": "de",
+    "model": "themenhub",
+    "title": "Vermögen und Zugriff sichern",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Wenn der gewohnte Zugriff wegfällt"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Eigentum, Verfügung und Erreichbarkeit trennen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Zahlungsfähigkeit außerhalb des gewohnten Wohnsitzes"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Übertragung, Struktur und Verwahrung nach Aufgabe wählen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Wer kann handeln, wenn du es nicht kannst?"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Die passende Arbeit organisieren"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-65e49e40abab11"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-6d1619e0300971"
+      }
+    ],
+    "links": [
+      {
+        "line": 89,
+        "target": "/de/wissen/",
+        "label": "Wissen, das zur Vorbereitung führt",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 91,
+        "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+        "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 92,
+        "target": "/de/leistungen/vermoegen-uebertragen/",
+        "label": "Vermögen übertragen und legal verfügbar halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Übertragungsschritte",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 93,
+        "target": "/de/leistungen/trust-struktur/",
+        "label": "Eine Trust-Struktur organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Trust als Strukturvariante",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 94,
+        "target": "/de/leistungen/stiftung-liechtenstein/",
+        "label": "Eine Stiftung in Liechtenstein organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Stiftung als Strukturvariante",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 95,
+        "target": "/de/leistungen/sachwerte-verwahrung/",
+        "label": "Verwahrung und Zugriff auf Sachwerte organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Sachwerte und tatsächlicher Zugriff",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 96,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 97,
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 98,
+        "target": "/de/leistungen/bankzugang-liquiditaet/",
+        "label": "Bankzugang und Liquidität vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Bankaufnahme und Liquidität vorbereiten",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 99,
+        "target": "/de/leistungen/vermoegensstrukturen/",
+        "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt fachliche Strukturierungsarbeit organisieren",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 100,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 101,
+        "target": "/en/knowledge/assets-and-access/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      },
+      {
+        "line": 518,
+        "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+        "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 602,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-5"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/assets-and-access/",
+    "lang": "en",
+    "model": "themenhub",
+    "title": "Protect assets and retain access",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "When your usual access stops working"
+      },
+      {
+        "id": "section-2",
+        "title": "Separate ownership, authority and access"
+      },
+      {
+        "id": "section-3",
+        "title": "Maintain payments beyond your usual residence"
+      },
+      {
+        "id": "section-4",
+        "title": "Choose transfers, structures and custody by purpose"
+      },
+      {
+        "id": "section-5",
+        "title": "Who can act when you cannot?"
+      },
+      {
+        "id": "section-6",
+        "title": "Have the right work organised"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-65e49e40abab11"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-6d1619e0300971"
+      }
+    ],
+    "links": [
+      {
+        "line": 102,
+        "target": "/en/knowledge/",
+        "label": "Knowledge for a prepared way forward",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 104,
+        "target": "/en/knowledge/assets-and-access/banking-payments/",
+        "label": "Banking access and payments abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#section-3"
+      },
+      {
+        "line": 105,
+        "target": "/en/services/asset-transfers/",
+        "label": "Transfer assets and retain lawful access",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Übertragungsschritte",
+        "position": "#section-4"
+      },
+      {
+        "line": 106,
+        "target": "/en/services/trust-structure/",
+        "label": "Arrange a trust structure",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Trust als Strukturvariante",
+        "position": "#section-4"
+      },
+      {
+        "line": 107,
+        "target": "/en/services/liechtenstein-foundation/",
+        "label": "Arrange a Liechtenstein foundation",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Stiftung als Strukturvariante",
+        "position": "#section-4"
+      },
+      {
+        "line": 108,
+        "target": "/en/services/tangible-asset-custody/",
+        "label": "Arrange custody and access to tangible assets",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Sachwerte und tatsächlicher Zugriff",
+        "position": "#section-4"
+      },
+      {
+        "line": 109,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#section-5"
+      },
+      {
+        "line": 110,
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "label": "Departure, tax and business obligations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#section-4"
+      },
+      {
+        "line": 111,
+        "target": "/en/services/banking-liquidity/",
+        "label": "Prepare banking access and liquidity",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Bankaufnahme und Liquidität vorbereiten",
+        "position": "#section-3"
+      },
+      {
+        "line": 112,
+        "target": "/en/services/asset-structures/",
+        "label": "Arrange asset structures, custody and succession",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt fachliche Strukturierungsarbeit organisieren",
+        "position": "#section-6"
+      },
+      {
+        "line": 113,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-6"
+      },
+      {
+        "line": 114,
+        "target": "/de/wissen/vermoegen-zugriff/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      },
+      {
+        "line": 527,
+        "target": "/en/knowledge/assets-and-access/banking-payments/",
+        "label": "Banking access and payments abroad",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-3"
+      },
+      {
+        "line": 611,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-5"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+    "lang": "de",
+    "model": "fachbeitrag",
+    "title": "Kontozugang und Zahlungsfähigkeit im Ausland",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Sperre, Prüfung und technische Störung unterscheiden"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Eigentum, Kontoführung und Zugriff zusammen prüfen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Währungen, Empfänger und tatsächliche Zahlwege bestimmen"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Nachweise und Bankaufnahme vorbereiten"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Berechtigte Vertretung handlungsfähig machen"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Die Vorbereitung mit klarer Übergabe organisieren"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-e96fc32ccb5314"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-be1938b12975bb"
+      }
+    ],
+    "links": [
+      {
+        "line": 517,
+        "target": "/de/wissen/vermoegen-zugriff/",
+        "label": "Vermögen und Zugriff sichern",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 519,
+        "target": "/de/leistungen/bankzugang-liquiditaet/",
+        "label": "Bankzugang und Liquidität vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Bankaufnahme und Liquidität vorbereiten",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 520,
+        "target": "/de/leistungen/vermoegen-uebertragen/",
+        "label": "Vermögen übertragen und legal verfügbar halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Übertragungsschritte",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 521,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 522,
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 523,
+        "target": "/de/diskretion/",
+        "label": "Diskretion und geschützte Zusammenarbeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Am Anfrageübergang: geschützte Zusammenarbeit",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 524,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 525,
+        "target": "/en/knowledge/assets-and-access/banking-payments/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/assets-and-access/banking-payments/",
+    "lang": "en",
+    "model": "fachbeitrag",
+    "title": "Banking access and payments abroad",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Distinguish restrictions, checks and technical failures"
+      },
+      {
+        "id": "section-2",
+        "title": "Connect ownership, the account and actual access"
+      },
+      {
+        "id": "section-3",
+        "title": "Define currencies, recipients and usable payment routes"
+      },
+      {
+        "id": "section-4",
+        "title": "Prepare evidence and the account-opening process"
+      },
+      {
+        "id": "section-5",
+        "title": "Make authorised representation workable"
+      },
+      {
+        "id": "section-6",
+        "title": "Organise preparation with a clear handover"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-e96fc32ccb5314"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-be1938b12975bb"
+      }
+    ],
+    "links": [
+      {
+        "line": 526,
+        "target": "/en/knowledge/assets-and-access/",
+        "label": "Protect assets and retain access",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 528,
+        "target": "/en/services/banking-liquidity/",
+        "label": "Prepare banking access and liquidity",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Bankaufnahme und Liquidität vorbereiten",
+        "position": "#section-4"
+      },
+      {
+        "line": 529,
+        "target": "/en/services/asset-transfers/",
+        "label": "Transfer assets and retain lawful access",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Übertragungsschritte",
+        "position": "#section-3"
+      },
+      {
+        "line": 530,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#section-5"
+      },
+      {
+        "line": 531,
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "label": "When your phone, SIM and main email fail",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#section-1"
+      },
+      {
+        "line": 532,
+        "target": "/en/discretion/",
+        "label": "Discretion and protected collaboration",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Am Anfrageübergang: geschützte Zusammenarbeit",
+        "position": "#section-6"
+      },
+      {
+        "line": 533,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-6"
+      },
+      {
+        "line": 534,
+        "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+    "lang": "de",
+    "model": "fachbeitrag",
+    "title": "Vollmachten, Vertretung und Nachfolge im Ausland",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Personen, Entscheidungen und konkrete Handlungen bestimmen"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Die passende Rechtsbefugnis schaffen oder prüfen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Anerkennung je Land und empfangender Stelle klären"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Unterlagen und berechtigten Zugang zusammenführen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Nachfolge als eigenen Rechtsfall vorbereiten"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Den berechtigten Ablauf gemeinsam durchgehen"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Rechtliche und organisatorische Arbeit verbinden"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-b0831c4fe780e7"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-2742a7c4989121"
+      }
+    ],
+    "links": [
+      {
+        "line": 601,
+        "target": "/de/wissen/vermoegen-zugriff/",
+        "label": "Vermögen und Zugriff sichern",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 603,
+        "target": "/de/leistungen/apostillen-uebersetzungen-urkunden/",
+        "label": "Apostillen, Übersetzungen und Urkunden organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Urkunden und Verwendbarkeit",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 604,
+        "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+        "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt nutzbare Unterlagen für Berechtigte",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 605,
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 606,
+        "target": "/de/leistungen/vermoegensstrukturen/",
+        "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt fachliche Strukturierungsarbeit organisieren",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 607,
+        "target": "/de/leistungen/familie-unternehmen/",
+        "label": "Familie und Unternehmen handlungsfähig halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 608,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 609,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/assets-and-access/powers-representation-succession/",
+    "lang": "en",
+    "model": "fachbeitrag",
+    "title": "Powers of attorney, representation and succession abroad",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Identify people, decisions and specific actions"
+      },
+      {
+        "id": "section-2",
+        "title": "Establish or verify the appropriate authority"
+      },
+      {
+        "id": "section-3",
+        "title": "Check recognition by country and receiving institution"
+      },
+      {
+        "id": "section-4",
+        "title": "Connect documents with authorised access"
+      },
+      {
+        "id": "section-5",
+        "title": "Prepare succession as a separate legal matter"
+      },
+      {
+        "id": "section-6",
+        "title": "Walk through the authorised process together"
+      },
+      {
+        "id": "section-7",
+        "title": "Coordinate legal and organisational work"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-b0831c4fe780e7"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-2742a7c4989121"
+      }
+    ],
+    "links": [
+      {
+        "line": 610,
+        "target": "/en/knowledge/assets-and-access/",
+        "label": "Protect assets and retain access",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 612,
+        "target": "/en/services/apostilles-translations-documents/",
+        "label": "Arrange apostilles, translations and documents",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Urkunden und Verwendbarkeit",
+        "position": "#section-3"
+      },
+      {
+        "line": 613,
+        "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+        "label": "Emergency documents your family can actually use",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt nutzbare Unterlagen für Berechtigte",
+        "position": "#section-4"
+      },
+      {
+        "line": 614,
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "label": "When your phone, SIM and main email fail",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#section-4"
+      },
+      {
+        "line": 615,
+        "target": "/en/services/asset-structures/",
+        "label": "Arrange asset structures, custody and succession",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt fachliche Strukturierungsarbeit organisieren",
+        "position": "#section-5"
+      },
+      {
+        "line": 616,
+        "target": "/en/services/family-business-continuity/",
+        "label": "Keep your family and business functioning",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#section-7"
+      },
+      {
+        "line": 617,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      },
+      {
+        "line": 618,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/de/wissen/wiederzugang-telefon-email/",
+    "lang": "de",
+    "model": "fachbeitrag",
+    "title": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+    "sectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Den Ausfall konkret benennen"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Die Abhängigkeitskette sichtbar machen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Ersatzgerät und unabhängigen Rückkontakt vorbereiten"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Identität und Berechtigung nachweisen können"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Digitale Nachweise im richtigen System zugänglich halten"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Den Ersatzweg kontrolliert testen"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Einrichtung und Übergabe organisieren"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-83b3cda7d24d63"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-9c582a81fcdcdb"
+      }
+    ],
+    "links": [
+      {
+        "line": 730,
+        "target": "/de/wissen/",
+        "label": "Wissen, das zur Vorbereitung führt",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 732,
+        "target": "/de/leistungen/kommunikation-wiederzugang/",
+        "label": "Diskrete Kommunikation und Wiederzugang einrichten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kommunikations-/Zugangswege einrichten",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 733,
+        "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+        "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt nutzbare Unterlagen für Berechtigte",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 734,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 735,
+        "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+        "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 736,
+        "target": "/de/diskretion/",
+        "label": "Diskretion und geschützte Zusammenarbeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Am Anfrageübergang: geschützte Zusammenarbeit",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 737,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-7"
+      },
+      {
+        "line": 738,
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "label": "English",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  },
+  {
+    "route": "/en/knowledge/phone-email-access-failure/",
+    "lang": "en",
+    "model": "fachbeitrag",
+    "title": "When your phone, SIM and main email fail",
+    "sectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Define the actual failure"
+      },
+      {
+        "id": "section-2",
+        "title": "Make the dependency chain visible"
+      },
+      {
+        "id": "section-3",
+        "title": "Prepare an alternative device and independent contact route"
+      },
+      {
+        "id": "section-4",
+        "title": "Be able to prove identity and authority"
+      },
+      {
+        "id": "section-5",
+        "title": "Keep digital evidence accessible in the proper system"
+      },
+      {
+        "id": "section-6",
+        "title": "Test the alternative route in a controlled way"
+      },
+      {
+        "id": "section-7",
+        "title": "Organise setup and handover"
+      }
+    ],
+    "sourceRefs": [
+      {
+        "module": "10_Schreibauftraege_Themen.md",
+        "anchor": "quelle-83b3cda7d24d63"
+      },
+      {
+        "module": "14_Baukarten_Themen.md",
+        "anchor": "quelle-9c582a81fcdcdb"
+      }
+    ],
+    "links": [
+      {
+        "line": 739,
+        "target": "/en/knowledge/",
+        "label": "Knowledge for a prepared way forward",
+        "function": "Parent / Breadcrumb",
+        "originalPosition": "Breadcrumb oberhalb des Hauptinhalts",
+        "position": "K02 Breadcrumb"
+      },
+      {
+        "line": 741,
+        "target": "/en/services/communications-recovery/",
+        "label": "Set up private communications and recovery access",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kommunikations-/Zugangswege einrichten",
+        "position": "#section-7"
+      },
+      {
+        "line": 742,
+        "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+        "label": "Emergency documents your family can actually use",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt nutzbare Unterlagen für Berechtigte",
+        "position": "#section-5"
+      },
+      {
+        "line": 743,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#section-4"
+      },
+      {
+        "line": 744,
+        "target": "/en/knowledge/assets-and-access/banking-payments/",
+        "label": "Banking access and payments abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#section-1"
+      },
+      {
+        "line": 745,
+        "target": "/en/discretion/",
+        "label": "Discretion and protected collaboration",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Am Anfrageübergang: geschützte Zusammenarbeit",
+        "position": "#section-7"
+      },
+      {
+        "line": 746,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      },
+      {
+        "line": 747,
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "label": "Deutsch",
+        "function": "Sprachwechsel",
+        "originalPosition": "Sprachwahl im Header",
+        "position": "K01 echte Sprachwahl"
+      }
+    ]
+  }
+]

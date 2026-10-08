@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/",
+  "lang": "de",
+  "title": "Wohin bei Krieg und eingeschränkter Ausreise?",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-cb3db36c6732d0"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-5f309316222311"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-770b74d19817c3"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Dein Plan B / Wissen",
+  "seoTitle": "Wohin bei Krieg? Ausweg für deine Familie | EXOBASIS",
+  "description": "Wohin könnt ihr bei Krieg ausweichen? Aufenthaltsrechte, Ausreise ohne Flug, Unterkunft, Medizin und Geldzugang zu einem nutzbaren Familienplan verbinden.",
+  "intro": "<p>Die Frage „Wohin bei Krieg?“ beginnt bei deiner Familie. Ihr braucht einen Ort, den ihr rechtzeitig erreichen könnt, an dem alle bleiben dürfen und an dem Wohnen, Versorgung und Geldzugang funktionieren. Die Vorbereitung dafür kannst du erledigen, solange Verbindungen offen sind und du noch auswählen kannst.</p><p>Ein weit entferntes Land kann eure langfristige Außenbasis werden. Für die erste Ausreise kann eine näher gelegene, auch ohne Flug erreichbare Unterkunft die bessere Aufgabe erfüllen. Entscheidend ist, wie beide Optionen zu euren Pässen, eurer Gesundheit und eurem tatsächlichen Reiseweg passen.</p>",
+  "primary": {
+    "label": "Ausweichort und Familienweg vorbereiten",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Ein Ort für euch. Ein Weg dorthin. Ein Alltag danach.",
+    "facts": [
+      [
+        "Vorher",
+        "Rechte und langwierige Aufgaben klären"
+      ],
+      [
+        "Am Ziel",
+        "Unterkunft und Versorgung vorbereiten"
+      ],
+      [
+        "Bei Nutzung",
+        "Aktuelle Lage und Wege erneut prüfen"
+      ]
+    ],
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Karte und Kompass als Symbol für die persönliche Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Das beste Ziel ist das, das ihr auch nutzen könnt",
+      "body": "<p>Wenn du nach dem sichersten Land im Kriegsfall suchst, helfen dir drei getrennte Fragen: Wovor willst du Abstand gewinnen? Unter welchen Bedingungen könnt ihr dorthin gelangen? Wie lebt ihr dort anschließend? Geografische Entfernung beantwortet die erste Frage nur teilweise und die beiden anderen überhaupt nicht.</p><p>Ein Rankingsieger kann ausscheiden, weil ein Angehöriger kein Einreiserecht hat, Medikamente fehlen oder die einzige Flugverbindung von einem gefährdeten Umsteigepunkt abhängt. Umgekehrt kann ein weniger spektakulärer Ort für euch sofort nutzbar sein, weil Rechte, Unterkunft und vertraute Unterstützung bereits bestehen.</p><p>Mach die Auswahl an euren konkreten Mindestanforderungen fest. Bei Pflegebedarf ist erreichbare Versorgung ein Ausschlusskriterium. Bei mehreren Pässen sind es oft Einreise und Transit. Bei einem inhabergeführten Betrieb kommt die Fortführung der wichtigsten Zahlungen und Kundenpflichten hinzu.</p>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Kurzfristige Zuflucht und dauerhafte Familienbasis unterscheiden",
+      "body": "<p>Für eine kurzfristige Zuflucht zählen schnelle Erreichbarkeit, eine tatsächlich verfügbare Unterkunft und Versorgung für die erste Zeit. Für einen längeren Aufenthalt kommen ein tragfähiger Status, Schule, Arbeit und laufende Finanzierung hinzu. Eine vorab organisierte Übergangslösung kann diesen Unterschied überbrücken.</p><p>Plane deshalb nicht nur das Ziel, sondern auch den Zeitpunkt deiner Entscheidung. Ein geordneter Wegzug erlaubt Besichtigungen, Termine und einen abgestimmten Übergang. Fallen Verbindungen aus, wird ein vorbereiteter Ersatzweg wichtiger. Bei akuter Gefahr gehen amtliche Schutz- und Evakuierungsanweisungen am Aufenthaltsort vor; eine improvisierte Fernreise kann zusätzliche Risiken schaffen.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.bmeia.gv.at/reise-services/reiseinformation/schutz-und-hilfe-im-ausland/kriminalitaet-krisen-katastrophen\" rel=\"noopener noreferrer\">BMEIA: Schutz und Hilfe bei Krisen und Katastrophen</a></p>",
+      "criteria": {
+        "title": "Drei Situationen, unterschiedliche Vorarbeit",
+        "headers": [
+          "Situation",
+          "Was vorher bereit sein sollte",
+          "Was vor Abreise aktuell sein muss"
+        ],
+        "rows": [
+          [
+            "Geordneter Wegzug",
+            "Aufenthaltsweg, abgestimmte Termine und langfristiger Alltag",
+            "Dokumente, bestätigte Unterkunft und Versicherung"
+          ],
+          [
+            "Ausfall wichtiger Verbindungen",
+            "Anderes Verkehrsmittel, andere Engstelle und erste Unterkunft",
+            "Tatsächlicher Betrieb, Transit und verfügbare Plätze"
+          ],
+          [
+            "Akute Gefahr oder Versorgungsbruch",
+            "Örtlicher Schutzplan, Medikamente und erreichbare Unterstützung",
+            "Amtliche Anweisungen und tatsächlich sichere Bewegungsmöglichkeiten"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Für jede Person Einreise, Transit und längeren Aufenthalt klären",
+      "body": "<p>Mit deutschem oder österreichischem Pass bestehen innerhalb der EU andere Möglichkeiten als mit einem Drittstaatspass. Auch in derselben Familie können deshalb unterschiedliche Dokumente, Visa oder Nachweise erforderlich sein. Für die Einreise zählt die konkrete Person; für längeres Bleiben zusätzlich der Aufenthaltsweg.</p><p>Prüfe jede Etappe: Ausreiseort, Transitstaat, Umstieg und Zielland. Ein Visum für das Endziel beantwortet nicht automatisch die Transitfrage. Reist ein Kind nur mit einem Elternteil, gehören erforderliche Zustimmungen und Sorgerechtsnachweise zur Route. Bei Dienstpflicht oder einem persönlichen Bescheid wird die Ausreisefrage im betroffenen Herkunftsrecht geklärt.</p><p>Lege die Dokumente so bereit, dass ein zweiter berechtigter Erwachsener damit handeln kann. Ein Plan, den nur du kennst und dessen Nachweise nur auf deinem Telefon liegen, lässt die übrige Familie von deiner ständigen Erreichbarkeit abhängig.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://europa.eu/youreurope/citizens/residence/residence-rights/index_de.htm\" rel=\"noopener noreferrer\">Your Europe: persönliche Aufenthaltsrechte</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/travel-documents-minors/index_en.htm\" rel=\"noopener noreferrer\">Your Europe: Dokumente für reisende Minderjährige</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/\" data-route=\"/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/\"><span>Einberufung und Ausreise aus Deutschland</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Ausreise ohne Flug: Was macht einen Ersatzweg unabhängig?",
+      "body": "<p>Eine zweite Flugbuchung über denselben Flughafen beseitigt dessen Ausfallrisiko nicht. Vergleiche deshalb unterschiedliche Verkehrsmittel und Engstellen. Ein Landweg kann eine erste Unterkunft erreichbar halten, wenn der Flugverkehr ausfällt. Eine Fährverbindung kann einen anderen Weg eröffnen, setzt aber Betrieb, Plätze, Dokumente und die Mitnahme des Fahrzeugs oder Tieres voraus.</p><p>Für jede Route gehören Fahrzeiten mit Pausen, Grenzübertritte, Treibstoff oder Lademöglichkeiten, Zwischenübernachtung und notwendige medizinische Unterstützung in den Ablauf. Prüfe ihn möglichst im normalen Reisebetrieb. Notiere, welche Änderung den Weg unbrauchbar macht und welche Alternative dann noch übrig bleibt.</p><p>Auch das Geld muss unabhängig genug erreichbar sein: mehrere Karten am selben Konto und derselbe Freigabecode auf einem einzigen Telefon sind nur scheinbar mehrere Möglichkeiten. Berechtigte Zahlungen, ein getesteter Ersatzweg und eine angemessene Reserve für die Reise gehören zur Vorbereitung. Aktuelle Transport- und Grenzinformationen werden unmittelbar vor Nutzung erneut geprüft.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\" data-route=\"/de/wissen/familie-alltag/kinder-angehoerige/\"><span>Mit Kindern und Angehörigen vorbereitet gehen</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\" data-route=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\"><span>Kontozugang und Zahlungsfähigkeit im Ausland</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Länder und Unterkunft nach eurem Alltag vergleichen",
+      "body": "<p>Vergleiche zunächst Länder, in denen bereits Rechte oder familiäre Verbindungen bestehen, mit weiter entfernten Optionen. Innerhalb der EU kann ein vorhandenes Freizügigkeitsrecht den Einstieg erleichtern. Ein Ziel außerhalb Europas kann mehr räumlichen Abstand schaffen, verlangt aber einen eigenständig vorbereiteten Aufenthalt und einen erreichbaren Reiseweg.</p><p>Am Standort zählen konkrete Bedingungen: Nähe zu passender Medizin, Schule und Einkauf, Sprache, Arbeitsverbindung, Versorgung mit Wasser und Strom sowie relevante Naturgefahren. Eine möblierte Mietwohnung eignet sich für eine vorbereitete erste Ankunft. Für eine dauerhafte Basis können langfristige Miete oder Kauf sinnvoll sein.</p><p>Bei einem Immobilienkauf umfasst der Auftrag die Standortanforderungen, Suche, Besichtigungen, organisierte unabhängige Titel- und Kaufprüfung, Vertrags- und Abschlusskoordination sowie Übergabe. Erwerbsrechte und Kosten werden am jeweiligen Ort geklärt. Für eine meist leerstehende Außenbasis kommen Hausbetreuung, Schlüsselzugang und Ankunftsvorbereitung hinzu. So steht am Ende eine benutzbare Unterkunft und nicht nur ein Eigentumsnachweis.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/laender/\" data-route=\"/de/laender/\"><span>Länder und Möglichkeiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/laender-standortauswahl/\" data-route=\"/de/leistungen/laender-standortauswahl/\"><span>Passende Länder und Standortoptionen</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Eine Hauptoption und einen brauchbaren Ersatz vorbereiten lassen",
+      "body": "<p>EXOBASIS entwickelt mit dir die passenden Länder- und Standortoptionen und führt die vereinbarte Vorbereitung aus. Aufenthalts- und Dokumentenarbeit, Unterkunft, Versorgung, Zahlungswege und Familienlogistik werden aufeinander abgestimmt. Der persönliche Plan hält fest, wer entscheidet, wer handelt und wann die Bedingungen erneut kontrolliert werden.</p><p>Du kannst mit der Länderentscheidung beginnen oder einen bereits gewählten Standort konkret einrichten lassen. Wenn du wegen Krieg rechtzeitig eine Alternative schaffen willst, beschreibe zunächst, wer mitkommen soll, welche Rechte vorhanden sind und was heute noch an dir oder deinem bisherigen Standort hängt. Daraus wird der nächste ausführbare Auftrag.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/flucht-notfallplan/\" data-route=\"/de/leistungen/flucht-notfallplan/\"><span>Persönlicher Flucht- und Notfallplan</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Eigenständige deutsche Neuredaktion nach PB-D65 aus Originalbriefing, DACH-Recherche und gelesenen Fachquellen.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Das beste Ziel ist das, das ihr auch nutzen könnt"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Kurzfristige Zuflucht und dauerhafte Familienbasis unterscheiden"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Für jede Person Einreise, Transit und längeren Aufenthalt klären"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Ausreise ohne Flug: Was macht einen Ersatzweg unabhängig?"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Länder und Unterkunft nach eurem Alltag vergleichen"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Eine Hauptoption und einen brauchbaren Ersatz vorbereiten lassen"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 378,
+        "target": "/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/",
+        "label": "Einberufung und Ausreise aus Deutschland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt persönliche Rechtslage in Deutschland",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 381,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 382,
+        "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+        "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 377,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 380,
+        "target": "/de/leistungen/laender-standortauswahl/",
+        "label": "Passende Länder und Standortoptionen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt individueller Ländervergleich",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 379,
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 383,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-6"
+      }
+    ],
+    "seeding": ["D17"],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Wohin bei Krieg? Einen erreichbaren Ausweg vorbereiten"
+}

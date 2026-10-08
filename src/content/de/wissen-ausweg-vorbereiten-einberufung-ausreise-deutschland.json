@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/",
+  "lang": "de",
+  "title": "Einberufung und Ausreise aus Deutschland",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-e49004e371b57b"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-e369c3af320785"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-770b74d19817c3"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Dein Plan B / Wissen",
+  "seoTitle": "Wehrpflicht und Ausreise aus Deutschland | EXOBASIS",
+  "description": "Genehmigungspflicht, aktuelle Ausnahme und Einberufung unterscheiden. Deutsche im Ausland, persönliche Bescheide und rechtmäßige Vorbereitung erklärt.",
+  "intro": "<p>Wenn du Krieg oder eine Einberufung befürchtest, brauchst du eine präzise Antwort: Darfst du ausreisen, welche Pflichten betreffen dich persönlich und was kannst du für deine Familie rechtzeitig vorbereiten? Ein Suchtreffer zum „Ausreiseverbot“ beantwortet diese Fragen nicht.</p><p>Stand 26. September 2026: Die Allgemeinverfügung des Bundesverteidigungsministeriums vom 9. April 2026 nimmt die betroffenen männlichen Personen allgemein von der Genehmigungspflicht nach § 3 Absatz 2 Wehrpflichtgesetz aus. Dafür ist weder ein Antrag noch eine individuelle Genehmigung erforderlich. Ein persönlicher Bescheid oder eine andere rechtliche Maßnahme muss daneben eigenständig eingeordnet werden.</p>",
+  "primary": {
+    "label": "Fachklärung und Vorbereitung anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Die heutige Rechtslage kennen. Deine Familie vorbereiten.",
+    "facts": [
+      [
+        "Rechtsstand",
+        "Norm und allgemeine Ausnahme gemeinsam lesen."
+      ],
+      [
+        "Person",
+        "Status, Schreiben und Fristen bestimmen die Prüfung."
+      ],
+      [
+        "Vorbereitung",
+        "Familie, Zielrechte und Unterlagen bleiben eigene Aufgaben."
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift als Symbol für geordnete Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Ausreisegenehmigung: Gesetz und geltende Ausnahme zusammen lesen",
+      "body": "<p>§ 3 Absatz 2 WPflG enthält eine Genehmigungsregel für männliche Personen nach Vollendung des 17. Lebensjahres, die Deutschland länger als drei Monate verlassen wollen, soweit die dort genannten Voraussetzungen vorliegen. Derselbe Absatz erlaubt dem Verteidigungsministerium, Ausnahmen zuzulassen. Genau davon macht die Allgemeinverfügung vom 9. April 2026 Gebrauch.</p><p>Die Verfügung wurde am 16. April 2026 im Bundesanzeiger veröffentlicht und trat am folgenden Tag in Kraft. Sie nimmt den betroffenen Personenkreis allgemein aus. Das Auswärtige Amt beantwortet die Frage, ob für einen künftigen längerfristigen Auslandsaufenthalt eine Abmeldung bei der Bundeswehr oder Ausreisegenehmigung nötig ist, deshalb mit Nein. Meldepflichten nach dem Bundesmeldegesetz bleiben bestehen.</p><p>Die gesetzliche Regel allein als derzeit durchgehende Genehmigungspflicht darzustellen, würde diese Ausnahme unterschlagen. Ebenso wenig folgt daraus, dass jede denkbare Ausreisebeschränkung oder ein an dich gerichteter Bescheid erledigt wäre.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.bundesanzeiger.de/pub/publication/s3E2bAQkIs1H4MXAdlu/content/s3E2bAQkIs1H4MXAdlu/BAnz%20AT%2016.04.2026%20B3.pdf?inline=\" rel=\"noopener noreferrer\">BMVg: Allgemeinverfügung, BAnz AT 16.04.2026 B3</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.auswaertiges-amt.de/nz-de/wehrdienst-bundesfreiwilligendienst-2099932\" rel=\"noopener noreferrer\">Auswärtiges Amt: Fragen zum Wehrdienst</a></p><p>Bei der Erfassung werden Meldedaten aufgenommen; der Fragebogen erfragt Bereitschaft und Fähigkeiten für den Wehrdienst. Für die erfassten Männer ab Geburtsjahrgang 2008 ist seine Beantwortung verpflichtend. Die Musterung klärt durch ärztliche Untersuchung die Tauglichkeit; zunächst lädt die Bundeswehr dazu geeignet erscheinende Freiwillige ein. Der Neue Wehrdienst selbst bleibt freiwillig, wie das <a href=\"https://www.auswaertiges-amt.de/nz-de/wehrdienst-bundesfreiwilligendienst-2099932\" rel=\"noopener noreferrer\">Auswärtige Amt erläutert</a>. Eine Bedarfswehrpflicht müsste der Bundestag erst durch Gesetz anordnen. Kommt es auf anwendbarer Rechtsgrundlage zur Einberufung, bestimmt der individuelle Einberufungsbescheid Ort und Zeitpunkt des Dienstantritts. Weder ein ausgefüllter Fragebogen noch das Musterungsergebnis ersetzen diesen Bescheid. Diese unterschiedlichen Schritte regeln <a href=\"https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html\" rel=\"noopener noreferrer\">§§ 2, 2a, 15 bis 17 und 21 WPflG</a>.</p>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Deine Fallgruppe: Staatsangehörigkeit, Alter, Wohnsitz und Bescheide",
+      "body": "<p>Beginne mit deiner persönlichen Rechtslage. Deutscher Wohnsitz und deutsche Staatsangehörigkeit sind unterschiedliche Anknüpfungen. Eine weitere Staatsangehörigkeit beseitigt die deutsche nicht; das AA stellt ausdrücklich klar, dass der Neue Wehrdienst Personen mit deutscher Staatsangehörigkeit unabhängig von einem weiteren Pass betrifft.</p><p>Auch die Altersgrenzen unterscheiden sich: Die Wehrpflicht beginnt nach § 1 grundsätzlich mit 18 Jahren; die Regel zum längeren Verlassen Deutschlands in § 3 Absatz 2 setzt bereits nach Vollendung des 17. Lebensjahres an. Die Wehrpflicht endet grundsätzlich am Jahresende des 45. Geburtstags, für Offiziere und Unteroffiziere am Jahresende des 60. Geburtstags. Im Spannungs- oder Verteidigungsfall gilt die Grenze von 60 Jahren allgemein. Ob eine konkrete Pflicht auf dich angewendet wird, hängt zusätzlich vom jeweiligen Rechtszustand und Dienststatus ab.</p><p>Für deinen Fallbaum sind fünf Angaben entscheidend: deine Staatsangehörigkeiten, Geburtsdatum, bisheriger Dienststatus, tatsächlicher Wohnsitz und alle an dich gerichteten Schreiben. Ein Fragebogen zur Erfassung, eine Musterungsaufforderung und ein Einberufungsbescheid lösen unterschiedliche Aufgaben aus. Ordne jedes Schreiben nach Absender, Inhalt, Zugangstag und Frist.</p><p>Außerhalb des Spannungs- oder Verteidigungsfalls gelten nach § 2 WPflG nur die dort benannten Vorschriften. § 2a sieht vor, dass der Bundestag eine Bedarfswehrpflicht durch Gesetz anordnet. Der Spannungs- oder Verteidigungsfall ist wiederum ein eigener Rechtszustand. Die Befürchtung, dass Krieg kommen könnte, ersetzt dessen rechtliche Feststellung nicht.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html\" rel=\"noopener noreferrer\">Wehrpflichtgesetz: §§ 1, 2, 2a und 3</a></p>"
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Schon im Ausland: Abmeldung und dauerhafte Lebensgrundlage unterscheiden",
+      "body": "<p>Für Deutsche im Ausland kommt es auf den tatsächlichen Aufenthalt an. § 1 Absatz 2 WPflG beschreibt das Ruhen der Wehrpflicht, solange ständiger Aufenthalt und Lebensgrundlage außerhalb Deutschlands liegen und Tatsachen die Absicht tragen, diesen Auslandsaufenthalt beizubehalten. Weitere Vorschriften und persönliche Vorgänge bleiben dabei relevant. Eine Abmeldebescheinigung allein beschreibt deine gesamte Lebenssituation nicht.</p><p>Die AA-FAQ erklärt für ständig im Ausland lebende Deutsche, dass die Wehrerfassung während dieser Zeit ruht: Es werden keine Fragebögen verschickt, und daraus entsteht keine Antwortpflicht. Bei Rückkehr nach Deutschland können Wehrpflichtige nacherfasst werden und dann einen Fragebogen erhalten. Eine Langzeitreise mit fortbestehender Lebensgrundlage in Deutschland ist daher anders einzuordnen als ein tatsächlich dauerhaftes Leben im Ausland.</p><p>Bewahre zusammen auf: Abmeldung, Aufenthaltsrecht und Wohnungsnachweis am Ziel, dortige Erwerbs- oder Lebensgrundlage sowie bisherige Behördenkorrespondenz. Bei Doppelstaatsangehörigkeit kommt die Dienstpflichtlage im weiteren Staat hinzu. So lässt sich bei einer späteren Rückkehr anhand derselben Unterlagen klären, was für dich gilt.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.gesetze-im-internet.de/wehrpflg/BJNR006510956.html\" rel=\"noopener noreferrer\">Wehrpflichtgesetz: § 1 Absatz 2 und 3</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.auswaertiges-amt.de/nz-de/wehrdienst-bundesfreiwilligendienst-2099932\" rel=\"noopener noreferrer\">Auswärtiges Amt: ständiger Auslandsaufenthalt und Rückkehr</a></p><p>Führe für die Klärung deines Falls alle Schreiben einschließlich Anlagen, den jeweiligen Zugangstag und laufende Fristen mit deinen Staatsangehörigkeits-, Dienststatus- und Wohnsitznachweisen zusammen. EXOBASIS ordnet diese Unterlagen mit dir im vereinbarten geschützten Fallbereich und koordiniert die Rückfrage an die zuständige Stelle oder einen im Wehrrecht tätigen Rechtsanwalt: Welche konkrete Pflicht betrifft dich trotz der allgemeinen Ausnahme, und was bedeutet sie für deine geplante Ausreise oder Rückkehr? Lass Zuständigkeit, Frist und erforderliche Reaktion fachlich bestätigen, bevor du darauf beruhende Maßnahmen planst. EXOBASIS übernimmt die organisatorische Abstimmung und hält die bestätigte Antwort für deinen weiteren Plan fest.</p>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Wenn ein Schreiben vorliegt: den konkreten Vorgang fristgerecht klären",
+      "body": "<p>Wende dich mit dem vollständigen Schreiben an die darin bezeichnete Stelle. Für wehrpflichtrechtliche Aufgaben kommen insbesondere das zuständige Karrierecenter und das Bundesamt für das Personalmanagement der Bundeswehr in Betracht. Bei unklaren Pflichten, einem belastenden Bescheid oder einer streitigen Einordnung gehört ein im Wehrrecht tätiger Rechtsanwalt frühzeitig dazu.</p><p>Die passende Frage lautet beispielsweise: Welche Pflicht ergibt sich aus diesem Bescheid trotz der allgemeinen Ausnahme, welche Frist läuft und welche rechtmäßige Reaktion ist vorgesehen? Gesundheit, Ausbildung, Versorgung Angehöriger oder eine Gewissensentscheidung können unterschiedliche rechtliche Verfahren betreffen. Sie werden mit ihren Nachweisen und dem tatsächlich eröffneten Verfahren geklärt.</p><p>Ein Reiseplan sollte nicht darauf beruhen, dass eine Nachricht ignoriert wird oder ein Rechtsbehelf automatisch jede Wirkung stoppt. Lass dir die Auswirkung auf deinen konkreten Termin ausdrücklich erläutern. Währenddessen können unabhängige Familien- und Dokumentenaufgaben bereits erledigt werden.</p>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Den Ausweg deiner Familie heute vorbereiten",
+      "body": "<p>Du musst eine künftige Entwicklung nicht vorhersagen, um heute sinnvoll zu handeln. Gültige Reisedokumente, geklärte Sorgeberechtigung, ein erlaubter Aufenthalt am Ziel, verfügbare Unterkunft und ein nutzbarer Zahlungsweg schaffen konkrete Möglichkeiten. Dazu gehört auch, wer deine Familie begleitet, wenn du selbst vorübergehend nicht reisen kannst.</p><p>Lege gemeinsame Entscheidungspunkte fest: Welche amtliche Änderung löst eine erneute Fachklärung aus? Bis wann müssen Urkunden oder Verlängerungen erledigt sein? Welche Aufgaben kann dein Partner unabhängig übernehmen? Eine getrennte Abreise ist nur dann eine brauchbare Option, wenn Kinder, Berechtigungen und Ankunft dafür vorbereitet sind.</p><p>Die Länderwahl folgt den Rechten aller Mitreisenden und dem tatsächlich erreichbaren Weg. Die deutsche Wehrpflichtfrage wird dabei fachlich separat geführt, statt sie durch einen vermeintlich besonders sicheren Zielstaat ersetzen zu wollen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\"><span>Aus Deutschland einen Ausweg vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\" data-route=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\"><span>Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/dokumente-aufenthalt/\" data-route=\"/de/leistungen/dokumente-aufenthalt/\"><span>Dokumente und Aufenthalt vorbereiten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Fachklärung und ausführbare Vorbereitung zusammenführen",
+      "body": "<p>EXOBASIS organisiert die persönliche Vorbereitung: Unterlagen und Ausgangslage aufnehmen, den erforderlichen Fachauftrag koordinieren und bestätigte Ergebnisse in den Familien-, Aufenthalts- und Ankunftsplan übernehmen. Rechtsauskünfte und Bescheide bleiben mit Datum und zuständiger Stelle nachvollziehbar.</p><p>Du kannst einen konkreten Dokumentenauftrag, die Vorbereitung einer Außenbasis oder einen vollständigen Flucht- und Notfallplan anfragen. Für den ersten Kontakt genügt eine knappe Beschreibung deiner Situation. Persönliche Bescheide und Identitätsunterlagen werden danach gezielt über den vereinbarten geschützten Weg aufgenommen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/flucht-notfallplan/\" data-route=\"/de/leistungen/flucht-notfallplan/\"><span>Persönlicher Flucht- und Notfallplan</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Eigenständige deutsche Neuredaktion nach PB-D65 aus Originalbriefing, DACH-Recherche und gelesenen Fachquellen.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Ausreisegenehmigung: Gesetz und geltende Ausnahme zusammen lesen"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Deine Fallgruppe: Staatsangehörigkeit, Alter, Wohnsitz und Bescheide"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Schon im Ausland: Abmeldung und dauerhafte Lebensgrundlage unterscheiden"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Wenn ein Schreiben vorliegt: den konkreten Vorgang fristgerecht klären"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Den Ausweg deiner Familie heute vorbereiten"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Fachklärung und ausführbare Vorbereitung zusammenführen"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 396,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+        "label": "Aus Deutschland einen Ausweg vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 397,
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 399,
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 398,
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 400,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-6"
+      }
+    ],
+    "seeding": ["D13", "D14"],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Einberufung und Ausreise: Was gilt für Deutsche?"
+}

@@ -1,0 +1,206 @@
+{
+  "route": "/de/laender/thailand/",
+  "lang": "de",
+  "title": "Thailand als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/thailand/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-d5c4d2eea0bd82",
+      "startLine": 14484
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-66cef29b50af12",
+      "startLine": 18399
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Thailand als Plan B | EXOBASIS",
+  "description": "Prüfe Thailand für deine Familie: passende Aufenthaltswege, Wohnort, Versorgung und konkrete Vorbereitung mit EXOBASIS.",
+  "intro": "<p>Du willst deiner Familie einen eigenen Standort aufbauen, der mehr ist als ein langer Aufenthalt. Thailand muss dafür mit dem passenden Aufenthaltsgrund, Angehörigenrechten und einem funktionierenden Wohn- und Arbeitsalltag geplant werden. Die Region folgt eurem Bedarf.</p>",
+  "countryContext": "/de/laender/thailand/",
+  "linkPlan": [
+    {
+      "sourceLine": 1348,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1350,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1351,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1352,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1353,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1354,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1355,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1356,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1357,
+      "target": "/en/countries/thailand/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1524,
+      "target": "/de/laender/malaysia/",
+      "label": "Malaysia als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1526,
+      "target": "/de/laender/mauritius/",
+      "label": "Mauritius als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Thailand Board of Investment: Long-Term Resident Visa",
+      "url": "https://ltr.boi.go.th/",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Vorbereitung für Thailand anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "country": {
+    "name": "Thailand",
+    "slug": "thailand",
+    "region": "Asien",
+    "map": "countries/thailand-locator.svg",
+    "imageAlt": "Lagegrafik: Thailand. Geografische Orientierung, keine Sicherheitsbewertung.",
+    "caption": "Geografische Orientierung. Keine Reise-, Sicherheits- oder Grenzbewertung.",
+    "summary": [
+      [
+        "Lebensmodell zuerst",
+        "Familienwohnsitz und mobile Nutzung brauchen passende eigene Voraussetzungen."
+      ],
+      [
+        "Konkrete Kategorie",
+        "LTR und andere Wege nach Tätigkeit, Einkommen und Angehörigen prüfen."
+      ],
+      [
+        "Regional nutzbar",
+        "Wohnort, Schule, Medizin und Arbeitsplatz zusammen auswählen."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Passende Ausgangslage",
+      "body": "<p>Thailand kann als Familienbasis passen, wenn der Aufenthaltsgrund und dein tatsächlicher Alltag zusammenkommen. Ein langer Aufenthalt ist noch keine eingerichtete Existenzgrundlage. Du brauchst einen passenden Status für die betroffenen Personen, eine tragfähige Wohnregion und eine klare berufliche Lösung. Die Vorbereitung beginnt deshalb nicht mit einem Lieblingsort, sondern mit den Anforderungen deiner Familie und der geplanten Nutzung.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Krisenbasis und Rückkehr",
+      "body": "<p>Ein vorbereiteter Standort muss erreichbar sein, bevor das betrachtete Szenario deine Reise erschwert. Plane Anreise, Unterkunft und Versorgung ebenso wie einen Rückweg oder weiteren Aufenthalt bei Verzögerungen. Aus Entfernung zum Herkunftsland folgt keine bestimmte Verfügbarkeit von Flügen, Behandlung oder Geldzugriff. Die Basis wird an ihren konkreten Voraussetzungen beurteilt, nicht an der Bekanntheit eines Ferienorts. Ein vorbereiteter Zufluchtsort muss auch nach einer langen Anreise vom Flughafen bis zur Unterkunft nutzbar sein. Für die Rückkehr hältst du Dokumente, Mittel und weiterlaufende Aufgaben im bisherigen Land bereit. Ob Thailand bei erneuter Einreise nutzbar bleibt, entscheidet der konkrete Status und nicht die Zahl früherer Reisen.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Dauerhafte Zukunft für die Familie",
+      "body": "<p>Vergleiche Wohnregionen nach Schule, Sprache, medizinischem Bedarf und deinen beruflichen Anforderungen. Prüfe auch die rechtliche Einbeziehung von Partner und Kindern. Ein Status, der für einen einzelnen Antragsteller geeignet ist, muss nicht alle Angehörigen oder dieselbe Tätigkeit abdecken. Erkundung, Aufnahmegespräche und konkrete Wohnangebote gehören in eine gemeinsame Entscheidung, bevor du den bisherigen Alltag aufgibst. Das BOI-LTR-Modell kann einen Hauptantrag und bestimmte Angehörige umfassen; daraus folgt noch kein Platz an einer Schule oder ein passender Pflegeweg. Vergleiche die Region mit Unterrichtssprache, erreichbarer Behandlung und beruflichem Alltag. Ein Ruhestandsweg und eine arbeitsbezogene Kategorie lösen für dieselbe Familie unterschiedliche Aufgaben.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Mobile Nutzung",
+      "body": "<p>Bei mobilen Aufenthalten sind Wiederkehr, Tätigkeitsrecht, Versicherungsdeckung und fortbestehende Nachweise zu klären. Eine touristische Aufenthaltsfolge ist keine allgemeine Grundlage für dauerhaftes Familienleben oder jede Form von Arbeit. Plane die tatsächliche Nutzung mit deinen Geschäfts- und Familienpflichten. Eine zweite Unterkunft braucht außerdem Betreuung und erreichbare Ansprechpartner, solange du nicht vor Ort bist.</p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Vorhandene Rechte und passende Wege",
+      "body": "<p>Das thailändische Board of Investment beschreibt beim Long-Term Resident Visa unterschiedliche Zielgruppen, darunter vermögende Personen, bestimmte Ruheständler, geeignete aus dem Ausland arbeitende Fachkräfte und hochqualifizierte Spezialisten. Jede Kategorie hat eigene Voraussetzungen. Angehörige, Absicherung und die konkrete Tätigkeit sind zusätzlich zuzuordnen. LTR ist damit ein möglicher passender Weg, aber kein einheitliches Angebot für jeden, der in Thailand leben möchte. Das Board of Investment benennt getrennte LTR-Kategorien für vermögende Personen, bestimmte Pensionäre, geeignete aus dem Ausland arbeitende Fachkräfte und hochqualifizierte Spezialisten. Einkommen, berufliche Rolle, Absicherung und Angehörige werden nur für den tatsächlich passenden Weg geprüft. Der Programmname gibt weder jedem Antragsteller ein Arbeitsrecht noch ersetzt er die behördliche Prüfung seiner Qualifikation.</p><p class=\"exb-citation\">Fachquelle: <a href=\"https://ltr.boi.go.th/\" rel=\"noreferrer\">Thailand Board of Investment: Long-Term Resident Visa</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fthailand%2F#kurzanfrage\">Vorbereitung für Thailand anfragen</a><p>Eine konkrete Teilaufgabe ist direkt anfragbar. Persönliche Unterlagen folgen erst im vereinbarten geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Regionen und Wohnen",
+      "body": "<p>Wähle die Region anhand tatsächlicher Wege zu Schule, Medizin und Arbeitsplatz. Ein touristischer Ort und ein dauerhaft funktionierender Haushalt sind unterschiedliche Maßstäbe. Prüfe Wohnen, Internet, Transport und erreichbare Unterstützung an der konkreten Unterkunft. Organisierte Besichtigungen und Termine helfen, die Auswahl vor dem Einzug zu klären; eine allgemeine Ortsbeschreibung ersetzt diese praktische Prüfung nicht.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Ankunft im Zielland organisieren</a></p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Gesundheit und Pflege",
+      "body": "<h3>Kinder und Angehörige</h3><p>Aufenthaltsberechtigung, Schulaufnahme und Betreuungsbedarf werden personengenau verbunden. Bei Kindern gehören Aufenthaltsrecht, tatsächliche Schulaufnahme und Fahrweg zusammen. Für medizinischen Bedarf klären wir, ob Versicherung und konkrete Einrichtung die benötigte Behandlung tragen. Bei Pflege oder regelmäßiger Medikation ist ein erreichbarer Ersatzweg am ausgewählten Wohnort wichtiger als ein allgemeiner Klinikruf.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a></p><h3>Versicherung und Behandlung</h3><p>Kläre die Anforderungen des Aufenthaltswegs und die benötigte Versorgung am tatsächlichen Wohnort. Deckung, Ausschlüsse und Aufnahme sind verschiedene Fragen.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a></p><h3>Pflege und Medikamente</h3><p>Regelmäßige Unterstützung und Nachversorgung müssen vor dem längeren Aufenthalt vereinbart werden.</p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Einkommen, Geld und Arbeitsplatz",
+      "body": "<p>Bringe Einkommensnachweise, berufliche Tätigkeit und nutzbare Geldzugänge zusammen, ohne ihre rechtlichen Funktionen zu vermischen. Die passende Kategorie kann bestimmte Anforderungen an Einkommen, Arbeitgeber oder Qualifikation stellen. Steuerfragen werden nach deiner tatsächlichen Konstellation beurteilt. Halte Haushalt, Einrichtung und zusätzliche Fachkosten getrennt kalkulierbar, damit das Vorhaben auch bei längerer Vorbereitung zahlungsfähig bleibt. Für eine LTR-Kategorie verlangte Vermögens- oder Einkommensbelege sind nicht mit frei verfügbaren Haushaltsmitteln gleichzusetzen. Ein ausländischer Arbeitgeber beantwortet noch nicht, welche Arbeit im konkreten Status von Thailand aus zulässig ist. Wohnsitz, Tätigkeit und steuerliche Ansässigkeit folgen unterschiedlichen Regeln und brauchen getrennte Fachprüfung.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Dokumente und Vorlauf",
+      "body": "<p>Prüfe zuerst Kategorie, Angehörige und zuständige Antragsstelle. Danach werden die konkreten Einkommens-, Qualifikations-, Familien- und Versicherungsnachweise zusammengestellt. Übersetzungen, Bestätigungen und persönliche Termine folgen den tatsächlichen Anforderungen. Plane Reise und Wohnungsübergabe anhand bestätigter Voraussetzungen; eine eingereichte Prüfung oder ein positives Zwischenergebnis ist nicht mit jedem weiteren Verfahrensschritt gleichzusetzen. Nach Wahl der LTR-Kategorie ordnen wir Einkommens-, Beschäftigungs-, Familien- und Versicherungsunterlagen dem amtlichen Verfahren zu. Wenn LTR nicht passt, wird nicht stillschweigend ein Besucheraufenthalt zur Dauerlösung erklärt. Erst ein tragfähiger Weg gibt Wohn- und Schulvorbereitung ihre richtige Reihenfolge.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a></p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Laufende Pflichten",
+      "body": "<p>Halte die laufenden Bedingungen deines Status einschließlich erforderlicher Meldungen und weiterer Prüfungen aktuell. Änderungen von Arbeitgeber, Einkommen oder Familienlage müssen in die Betreuung eingehen. Daneben zählen Unterkunft, Behandlung, Zahlung und Wiederzugang zu deinen praktischen Voraussetzungen. Vereinbarte Pflege verbindet diese Aufgaben, ohne automatische Verlängerung oder unbeschränkte Einsatzbereitschaft zu versprechen. Eine Änderung von Arbeitgeber, Erwerbsart oder Angehörigenkonstellation kann die Voraussetzungen der ursprünglichen Kategorie berühren. Halte Dokumente, Meldungen und erreichbare Behandlung während Abwesenheit aktuell. Wer zurückkehrt, benötigt auch im bisherigen Land weiterhin geklärte Unternehmens- und Steuerpflichten.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a></p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Konkrete Vorbereitung",
+      "body": "<p>EXOBASIS kann Thailand für deinen konkreten Haushalt vergleichen und die abgestimmte Vorbereitung organisieren. Wir verbinden Aufenthalts- und Dokumentenarbeit, regionale Auswahl, vorbereitete Termine und Ankunft. Du kannst dabei eine bereits geklärte Teilaufgabe direkt vergeben. Der Wert liegt in der zusammengeführten Durchführung und den nachvollziehbaren nächsten Schritten, nicht allein in der Benennung eines Visums.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen</a></p><h3>Passende Vergleichsoptionen</h3><div class=\"exb-country-related\"><article><a class=\"exb-text-link\" href=\"/de/laender/malaysia/\">Malaysia als persönliche Ausweichoption</a><p>Malaysia hat andere Programm-, Kapital- und Präsenzbedingungen. Vergleiche den passenden Weg samt Familienalltag.</p></article><article><a class=\"exb-text-link\" href=\"/de/laender/mauritius/\">Mauritius als persönliche Ausweichoption</a><p>Mauritius stellt andere Fragen zu Inselversorgung, beruflicher Tätigkeit und längerfristigem Familienaufenthalt.</p></article></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fthailand%2F#kurzanfrage\">Vorbereitung für Thailand anfragen</a><p>Eine konkrete Teilaufgabe ist direkt anfragbar. Persönliche Unterlagen folgen erst im vereinbarten geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Ist LTR die passende Lösung für jeden, der länger bleiben möchte?",
+    "answer": "Nein. Die Kategorien richten sich an bestimmte Personen- und Tätigkeitsgruppen. Eignung, Angehörige und der tatsächliche Alltag müssen gemeinsam geprüft werden."
+  }
+}

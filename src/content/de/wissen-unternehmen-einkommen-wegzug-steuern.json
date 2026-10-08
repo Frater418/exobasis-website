@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+  "lang": "de",
+  "title": "Wegzug, Steuern und Unternehmenspflichten",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-a53e120d221e08"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-956dba2f6c3454"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-df9d4e5a867ca9"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "EXOBASIS Wissen",
+  "seoTitle": "Wegzugsbesteuerung: Deutschland, Österreich, Schweiz | EXOBASIS",
+  "description": "Was beim Wegzug mit Beteiligungen, Depot, Immobilien und Einkommen passiert. Getrennte Regeln für Deutschland, Österreich und die Schweiz.",
+  "intro": "<p>Der Umzug ist bezahlt. Dann kommt eine Steuer auf einen Gewinn, den du nie ausgezahlt bekommen hast. Genau deshalb gehören Wegzugsbesteuerung, laufende Einkünfte und Unternehmenspflichten vor die endgültige Abreise. Entscheidend sind deine tatsächlichen Wohn- und Arbeitsverhältnisse, die betroffenen Vermögenswerte und die beteiligten Staaten.</p><p>Du möchtest dein Leben verlagern und dein Einkommen fortführen. Dafür braucht es eine zeitlich abgestimmte Vorbereitung: fachliche Berechnung, finanzierbare Entscheidungen und Menschen, die auch nach deinem Umzug die notwendigen Aufgaben übernehmen.</p>",
+  "primary": {
+    "label": "Wegzug und Fortführung anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Die Steuerfrage beginnt vor der Abreise",
+    "facts": [
+      [
+        "Person",
+        "Wohnsitz, Ansässigkeit und Tätigkeit"
+      ],
+      [
+        "Vermögen",
+        "Beteiligungen, Depot und Immobilien"
+      ],
+      [
+        "Umsetzung",
+        "Bewertungen, Anträge, Liquidität und Fristen"
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift als Symbol für geordnete Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Steuerliche Ansässigkeit: Wo beginnt welche Pflicht?",
+      "body": "<p>Ein steuerlicher Wohnsitz knüpft in Deutschland an eine Wohnung an, die du unter Umständen innehast, die auf Beibehalten und Benutzen schließen lassen. Die melderechtliche Abmeldung entscheidet darüber nicht allein. Wenn mehrere Staaten dich nach ihrem innerstaatlichen Recht als ansässig behandeln, kommt zusätzlich das jeweilige Doppelbesteuerungsabkommen ins Spiel. Es ordnet Besteuerungsrechte nach eigenen Regeln zu. <a href=\"https://www.gesetze-im-internet.de/ao_1977/__8.html\">§ 8 Abgabenordnung: Wohnsitz</a></p><p>Für deinen Plan werden drei Zeitpunkte festgehalten: der tatsächliche Wechsel der Lebensverhältnisse, ein möglicher Verlust bisheriger Besteuerungsrechte und der Beginn neuer Pflichten. Diese Zeitpunkte können auseinanderfallen. Eine pauschale Rechnung mit 183 Tagen lässt insbesondere eine weiter nutzbare Wohnung, Familie, Einkunftsart oder Unternehmensleitung unberücksichtigt.</p><p>Arbeite mit einer gemeinsamen Übersicht für dich, deinen Partner und die Unternehmen: Wohnräume, Aufenthalte, Eigentum, Einkünfte, Entscheidungsorte und bestehende Steuerbescheide. Darauf können die Fachleute beider Staaten denselben Sachverhalt beurteilen. Die praktischen Abmeldeschritte findest du getrennt für <a href=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\">Deutschland</a> und <a href=\"/de/wissen/ausweg-vorbereiten/aus-oesterreich/\">Österreich</a>.</p>",
+      "criteria": {
+        "title": "Verschiedene Fragen benötigen eigene Nachweise",
+        "headers": [
+          "Ebene",
+          "Kernfrage",
+          "Relevante Angaben"
+        ],
+        "rows": [
+          [
+            "Staatsangehörigkeit",
+            "Welche persönliche Rechtsbindung besteht?",
+            "Pässe und Status"
+          ],
+          [
+            "Aufenthalt",
+            "Wo darfst du leben und arbeiten?",
+            "Titel und dessen Bedingungen"
+          ],
+          [
+            "Lebenslage",
+            "Wo stehen Wohnung, Familie und Arbeit?",
+            "Tatsächliche Verhältnisse"
+          ],
+          [
+            "Steuern",
+            "Welche Ansässigkeit und Pflichten folgen?",
+            "Fachliche Prüfung aller betroffenen Rechtsräume"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Deutschland: Besteuerung ohne Verkauf verstehen",
+      "body": "<p>§ 6 Außensteuergesetz kann bei bestimmten Anteilen an Kapitalgesellschaften einen Verkauf zum gemeinen Wert fingieren. Das trifft etwa die Beendigung der unbeschränkten Steuerpflicht durch Aufgabe von Wohnsitz oder gewöhnlichem Aufenthalt. Weitere Auslöser sind die unentgeltliche Übertragung an eine nicht unbeschränkt steuerpflichtige Person sowie Ausschluss oder Beschränkung des deutschen Besteuerungsrechts. Du kannst also Steuer schulden, obwohl die Beteiligung weiter dir gehört und kein Kaufpreis fließt.</p><p>Der persönliche Anwendungsbereich erfasst natürliche Personen, die innerhalb der letzten zwölf Jahre insgesamt mindestens sieben Jahre unbeschränkt einkommensteuerpflichtig waren. Bei unentgeltlich erworbenen Anteilen können auch Zeiten des Rechtsvorgängers zählen. Die Beteiligungsregel des § 17 EStG setzt grundsätzlich mindestens ein Prozent unmittelbare oder mittelbare Beteiligung innerhalb der letzten fünf Jahre voraus; auch unentgeltliche Erwerbsketten und bestimmte Einbringungsfälle sind im Gesetz berücksichtigt. <a href=\"https://www.gesetze-im-internet.de/astg/__6.html\">§ 6 AStG: Auslöser und persönliche Voraussetzungen</a> <a href=\"https://www.gesetze-im-internet.de/estg/__17.html\">§ 17 EStG: betroffene Beteiligungen</a></p><p>Vor dem Wegzug brauchst du deshalb Anschaffungskosten, Beteiligungshistorie und eine belastbare Bewertung. Der ermittelte Steuerbetrag gehört als eigene Verpflichtung in die Liquiditätsplanung, getrennt vom Geld für Unterkunft, Familie und Betrieb.</p><h3>Ratenzahlung, Rückkehr und Nachweise</h3><p>Auf Antrag ist die festgesetzte Steuer in sieben gleichen Jahresraten zahlbar, in der Regel gegen Sicherheitsleistung. Die erste Rate wird innerhalb eines Monats nach Bekanntgabe des Steuerbescheids fällig, die weiteren jeweils am 31. Juli. Unter anderem verspätete Raten, verletzte Mitwirkungspflichten, Verkauf oder Übertragung können die Restschuld vorzeitig fällig machen. Jährlich bis 31. Juli sind aktuelle Anschrift und fortbestehende Zurechnung der Anteile zu bestätigen; meldepflichtige Ereignisse sind innerhalb eines Monats mitzuteilen.</p><p>Bei nur vorübergehender Abwesenheit kann der Steueranspruch bei Rückkehr innerhalb von sieben Jahren entfallen. Dafür müssen die gesetzlichen Bedingungen gemeinsam erfüllt sein: insbesondere kein schädlicher Verkauf, keine schädliche Übertragung oder Einlage, keine Ausschüttung beziehungsweise Einlagenrückgewähr über der gesetzlichen Viertelgrenze und Wiederbegründung des deutschen Besteuerungsrechts im vorgesehenen Umfang. Auf Antrag kann die Rückkehrfrist bei fortbestehender Rückkehrabsicht um höchstens fünf Jahre verlängert werden. Eine spätere Rückkehr allein löst deshalb nicht jeden alten Wegzugsfall.</p><h3>Auch Investmentfonds gehören in die Bestandsaufnahme</h3><p>§ 19 Absatz 3 Investmentsteuergesetz erfasst bestimmte privat gehaltene Investmentanteile. Neben einer positiven Summe der dort genannten steuerpflichtigen Gewinne verlangt die Vorschrift entweder mindestens ein Prozent der ausgegebenen Investmentanteile innerhalb der letzten fünf Jahre oder Anschaffungskosten von mindestens 500.000 Euro für die beim maßgeblichen Ereignis gehaltenen Anteile an dem betreffenden Fonds. Der Wert des gesamten Depots ist damit nicht einfach die gesetzliche Bezugsgröße. Die Vorschrift verweist außerdem auf persönliche Voraussetzungen und Verfahrensregeln des § 6 AStG. <a href=\"https://www.gesetze-im-internet.de/invstg_2018/__19.html\">§ 19 Absatz 3 InvStG: Investmentanteile</a></p><p>Zurückbleibende Vermietung, Betriebe und andere inländische Einkünfte werden daneben nach ihren eigenen Regeln behandelt. Die Beteiligungssteuer und die laufende Besteuerung deiner Einnahmen sind zwei verschiedene Aufgaben. <a href=\"https://www.gesetze-im-internet.de/estg/__49.html\">§ 49 EStG: inländische Einkünfte bei beschränkter Steuerpflicht</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\"><span>Aus Deutschland einen Ausweg vorbereiten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Österreich: Nichtfestsetzung und neue Nachweispflichten",
+      "body": "<p>In Österreich stellt § 27 Absatz 6 EStG bestimmte Einschränkungen des österreichischen Besteuerungsrechts einer Veräußerung gleich. Bei Wegzug einer natürlichen Person in einen EU-/EWR-Staat kann auf Antrag über die entstandene Abgabenschuld abgesprochen werden, ohne sie bis zur tatsächlichen Veräußerung des Wirtschaftsgutes oder Derivates festzusetzen. Ein späterer Weiterzug in einen nicht erfassten Staat kann die Festsetzung auslösen. Das ist eine eigene österreichische Regel, nicht die deutsche Sieben-Raten-Lösung. <a href=\"https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&amp;Gesetzesnummer=10004570&amp;FassungVom=2026-09-27&amp;Paragraf=27\">RIS: § 27 EStG, Fassung vom 27. September 2026</a></p><p>Seit 1. Juli 2026 ist für die betroffenen neuen Nichtfestsetzungsbescheide eine Nachweispflicht hinzugekommen: Übersteigen die gesetzlich bezeichneten Einkünfte in einem Veranlagungsjahr insgesamt 100.000 Euro, ist jährlich nachzuweisen, dass noch kein festsetzungsauslösendes Ereignis eingetreten ist. Der Nachweis beginnt mit dem Jahr der Nichtfestsetzung und ist jeweils bis Ende des Folgejahres zu erbringen, schriftlich oder über FinanzOnline und mit aktueller Anschrift. Eine Verletzung dieser Pflicht gilt ebenfalls als tatsächliche Veräußerung; für mangelhafte Nachweise sieht das Gesetz eine Aufforderung zur Verbesserung vor.</p><p>Für bestimmte Altfälle gilt zusätzlich eine Übergangsregel mit Termin 31. Dezember 2026. Sie betrifft die in § 124b Ziffer 493 Buchstabe a bezeichneten, nach dem 31. Dezember 2005 entstandenen und vor dem 1. Juli 2026 beschiedenen, noch nicht vollständig festgesetzten Steuerfälle, wenn der dort bezeichnete ursprüngliche Betrag 100.000 Euro übersteigt. Lege deshalb auch frühere Nichtfestsetzungsbescheide vor: Ein alter Wegzug kann eine aktuelle Nachweisaufgabe auslösen. <a href=\"https://ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_I_43/BGBLA_2026_I_43.html\">Budgetmaßnahmengesetz 2026: Artikel 1, § 27 und § 124b</a></p><p>Depotübertragung, Verkauf, Wegzug und Verlagerung betrieblicher Werte sind unterschiedliche Vorgänge. Halte je Position Eigentümer, Anschaffungskosten, bisherige Bescheide und geplanten Schritt fest. So wird vor einer Bank- oder Strukturänderung sichtbar, welche steuerliche Folge sie auslöst.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-oesterreich/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-oesterreich/\"><span>Aus Österreich einen Ausweg vorbereiten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Schweiz: Wegzugsjahr, Kanton und verbleibender Besitz",
+      "body": "<p>Beim Wegzug aus der Schweiz sind Bundes-, Kantons- und Gemeindesteuern sowie die konkrete wirtschaftliche Zugehörigkeit zu unterscheiden. Die Kantone und Gemeinden erheben bei Privatpersonen Einkommen- und Vermögenssteuern; ihre Regeln und Belastungen sind nicht überall gleich. <a href=\"https://www.ch.ch/de/steuern-und-finanzen/steuern-zahlen/\">ch.ch: Steuern von Bund, Kantonen und Gemeinden</a></p><p>Der Kanton Zürich erläutert zwei unterschiedliche Fälle: Endet mit dem Wegzug auch die verbleibende beschränkte Steuerpflicht, entsteht eine unterjährige Steuerperiode. Bleibt etwa durch Liegenschaftsbesitz, Geschäftsbetrieb oder Betriebsstätte eine wirtschaftliche Zugehörigkeit bestehen, sind die Regeln für den Wechsel von unbeschränkter zu beschränkter Steuerpflicht anzuwenden. In diesem Fall kann die Steuerperiode ganzjährig sein. <a href=\"https://www.zh.ch/de/steuern-finanzen/steuern/treuhaender/steuerbuch/steuerbuch-definition/zstb-49-3.html\">Zürcher Steuerbuch: Zu- und Wegzug natürlicher Personen</a></p><p>Für deinen Fall werden Wegzugsdatum, zuständige Gemeinde und Kanton, zurückbleibende Werte und die erforderliche Erklärung zusammengeführt. Auch geplante Vorsorgeauszahlungen brauchen einen eigenen Zeitpunkt- und Länderabgleich. Die schweizerische Wegzugsplanung wird aus dem tatsächlichen Fall abgeleitet, nicht durch Übernahme deutscher Beteiligungsschwellen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-schweiz/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-schweiz/\"><span>Wegzug aus der Schweiz vorbereiten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Das Zielland beginnt seine eigene Prüfung",
+      "body": "<p>Was im Herkunftsstaat endet, entscheidet nicht automatisch darüber, was im Zielland beginnt. Aufenthaltsrecht, persönliche Steueransässigkeit, Arbeitserlaubnis und Unternehmensregistrierung sind getrennte Fragen. Für einen vorbereiteten Zweitwohnsitz ist zudem zu klären, ab welcher tatsächlichen Nutzung daraus eine andere steuerliche Situation wird.</p><p>Ein Beispiel ist das Vereinigte Königreich: Der Statutory Residence Test arbeitet mit automatischen Auslands- und UK-Tests sowie einem Test ausreichender Verbindungen. Neben Aufenthaltstagen können Wohnen, Arbeit und Familie relevant sein. Das britische Steuerjahr läuft vom 6. April bis zum 5. April des Folgejahres. Ein geteiltes Steuerjahr beim Umzug setzt zusätzliche Bedingungen voraus. <a href=\"https://www.gov.uk/tax-foreign-income/residence\">HMRC: UK residence and tax</a></p><p>Für deinen ausgewählten Standort entsteht ein gemeinsamer Vorher-nachher-Vergleich: dieselbe Person, dieselben Einkünfte, dieselben Vermögenswerte und dieselben geplanten Aufenthalte. Die <a href=\"/de/laender/\">Länderprofile</a> liefern den Standortbezug; der steuerliche Auftrag legt die Anwendung auf deine Verhältnisse fest.</p>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Die Firma zieht nicht allein durch deine neue Adresse um",
+      "body": "<p>Als Inhaber ziehst du persönlich um. Deine Gesellschaft kann währenddessen ihren Sitz, ihre Räume, Mitarbeiter und Kundenverträge behalten. Gleichzeitig triffst du Geschäftsentscheidungen möglicherweise aus einem neuen Staat. Für die Strukturplanung zählt deshalb nicht nur der Handelsregistereintrag, sondern auch, wo und durch wen tatsächlich geleitet und gearbeitet wird.</p><p>Vor einer Übertragung oder Gründung werden Zweck und Folgen nebeneinandergestellt: Welche Tätigkeit soll die neue Gesellschaft ausüben? Welche Verträge, Rechte, Mitarbeiter oder Vermögenswerte gehen über? Welche Werte werden übertragen und wie werden sie bewertet? Wer führt Buchhaltung, Meldungen, Banknachweise und lokale Pflichten nach dem Abschluss weiter?</p><p>Ein ausländischer Rechtsträger kann für eine tatsächliche Tätigkeit sinnvoll sein. Du brauchst dafür einen vollständigen Betriebsplan einschließlich laufender Kosten und verantwortlicher Ausführung. Die <a href=\"/de/leistungen/auslandsgesellschaft/\">Einrichtung und Betreuung von Auslandsstrukturen</a> wird auf dieser Grundlage beauftragt. Bis zum Abschluss bleiben Vertretung, Zahlungen und Kundenarbeit deines bestehenden Unternehmens handlungsfähig.</p><p>Bei einer im Gründungsstaat steuerlich transparent behandelten Gesellschaft muss zusätzlich geklärt sein, wie dein tatsächlicher Wohn- und Tätigkeitsstaat sie einordnet. Wird der Gewinn dort dir persönlich oder der Gesellschaft zugerechnet, wann wird er steuerlich erfasst und als welche Einkunftsart? Die Behandlung als transparent im Ausland wird nicht automatisch übernommen. Auch eine mögliche Begünstigung für Dividenden sagt noch nichts über die Behandlung persönlich zugerechneter Unternehmensgewinne. Diese Einordnung gehört vor die Gründung oder Umstrukturierung.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/auslandsgesellschaft/\" data-route=\"/de/leistungen/auslandsgesellschaft/\"><span>Auslandsgesellschaft und laufende Verwaltung organisieren</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/vermoegen-uebertragen/\" data-route=\"/de/leistungen/vermoegen-uebertragen/\"><span>Vermögen übertragen und legal verfügbar halten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/vermoegensstrukturen/\" data-route=\"/de/leistungen/vermoegensstrukturen/\"><span>Vermögensstrukturen, Verwahrung und Nachfolge organisieren</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-7",
+      "title": "Remote arbeiten im Ausland: Arbeitgeber und Versicherung einbeziehen",
+      "body": "<p>Als Arbeitnehmer beginnt die Vorbereitung mit einer verbindlichen Vereinbarung zu Arbeitsort, Dauer und Tätigkeit. Dazu kommen die zulässige Arbeit im Zielland, Lohnabrechnung, Sozialversicherung und mögliche Registrierungspflichten. Ein für Urlaub erlaubter Aufenthalt und die Zustimmung deines Vorgesetzten lösen diese Fragen nicht gemeinsam.</p><p>Die DVKA erklärt für gewöhnliche grenzüberschreitende Telearbeit ein bestimmtes europäisches Verfahren: Unter dem Rahmenübereinkommen können Beschäftigte bei passenden Voraussetzungen zwischen 25 Prozent und weniger als 50 Prozent ihrer Gesamtarbeitszeit im Wohnstaat als Telearbeit leisten und im Sozialversicherungssystem des Arbeitgeberstaates bleiben. Beide Staaten müssen teilnehmen; es braucht den Antrag und die passende Beschäftigungskonstellation. Selbstständige und gewöhnliche Arbeit in einem dritten Staat fallen nicht unter diesen beschriebenen Standardfall. <a href=\"https://www.dvka.de/de/arbeitgeber-erwerbstaetige/antraege-finden/telearbeit/\">DVKA: Voraussetzungen grenzüberschreitender Telearbeit</a></p><p>Ein dauerhaftes Homeoffice außerhalb dieser Konstellation braucht eine eigene Lösung. Ein Employer of Record kommt gegebenenfalls als tatsächlicher lokaler Arbeitgeber infrage. Dann werden Arbeitsvertrag, Zuständigkeiten, Vergütung, Beiträge, Kündigung und Kosten dieses Modells geklärt. Parallel bleibt die steuerliche Prüfung deiner Einkünfte und der Tätigkeit erforderlich.</p>"
+    },
+    {
+      "id": "abschnitt-8",
+      "title": "Aus der Steuerprüfung einen ausführbaren Wegzug machen",
+      "body": "<p>Für die Fachprüfung bündeln wir deine Wohn- und Tätigkeitsplanung mit Beteiligungen, Depots, Immobilien, Verträgen und bisherigen Bescheiden. Daraus entsteht eine geordnete Aufgabenfolge: Was muss vor einer Unterschrift berechnet sein? Welche Bewertung wird benötigt? Welcher Antrag gehört vor welchen Schritt? Welche Zahlung braucht eine eigene Reserve?</p><p>EXOBASIS organisiert die erforderliche steuerliche und rechtliche Fachausführung und führt die beauftragte organisatorische Umsetzung zusammen. Zuständige Personen, Eingaben, Entscheidungen und Fristen werden so festgehalten, dass auch nach deinem Umzug jemand verantwortlich bleibt. Unterkunft, Reise und Betriebsübergabe werden an diese Termine angepasst.</p><p>Du erhältst eine Übersicht über die Aufgaben danach: Nachweise, Erklärungen, Raten, Vertragsänderungen und Betreuung. Beschreibe uns deinen bisherigen Wohnstaat, den geplanten Zielstaat und ob Beteiligungen, Immobilien oder ein Unternehmen betroffen sind. Die <a href=\"/de/leistungen/familie-unternehmen/\">Organisation von Familie und Unternehmen</a> verbindet diese Fachaufgaben mit deinem tatsächlichen Wegzug.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Wohnsitz, Tätigkeit und Staatsangehörigkeit auseinanderhalten"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Deutschland: tatsächlichen Wegzug und verbleibende Bindungen prüfen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Österreich: eigene Steuer- und Versicherungsfragen klären"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Schweiz: Kanton, Vorsorge und fortbestehende Aufgaben verbinden"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Weitere Rechtsmärkte in ihrer eigenen Fassung vertiefen"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Gesellschaft, Leitung und Übertragung nach Zweck ordnen"
+      },
+      {
+        "id": "abschnitt-7",
+        "title": "Arbeitgeber, Arbeitsort und Sozialversicherung berücksichtigen"
+      },
+      {
+        "id": "abschnitt-8",
+        "title": "Fachprüfung und organisatorische Umsetzung verbinden"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 695,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+        "label": "Aus Deutschland einen Ausweg vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 696,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+        "label": "Aus Österreich einen Ausweg vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 697,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+        "label": "Wegzug aus der Schweiz vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 698,
+        "target": "/de/leistungen/auslandsgesellschaft/",
+        "label": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 699,
+        "target": "/de/leistungen/vermoegen-uebertragen/",
+        "label": "Vermögen übertragen und legal verfügbar halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Übertragungsschritte",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 700,
+        "target": "/de/leistungen/vermoegensstrukturen/",
+        "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt fachliche Strukturierungsarbeit organisieren",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 701,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-8"
+      }
+    ],
+    "seeding": [
+      "D16",
+      "D13",
+      "D14",
+      "D24"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Wegzugsbesteuerung und Steuern beim Auswandern"
+}

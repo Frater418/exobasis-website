@@ -1,0 +1,215 @@
+{
+  "route": "/de/laender/mauritius/",
+  "lang": "de",
+  "title": "Mauritius als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/mauritius/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-3be9c3e1e0e651",
+      "startLine": 8484
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-5af6f3b0e43378",
+      "startLine": 10819
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern nach Mauritius: Visum, Wohnen, Hauskauf | EXOBASIS",
+  "description": "Mauritius als zweite Basis oder neue Heimat: Premium Visa, Ruhestand, Miete, Immobilienkauf, Schule und Versorgung. Deine Vorbereitung mit EXOBASIS.",
+  "intro": "<p>Ein Zuhause auf Mauritius kann dir Abstand geben und deiner Familie einen anderen Alltag eröffnen. Damit daraus eine nutzbare Außenbasis wird, müssen Aufenthaltsrecht, Einkommen, Wohnort und Versorgung zusammenpassen. Ob du zunächst mehrere Monate bleiben, als Rentner nach Mauritius auswandern oder dauerhaft mit deiner Familie leben möchtest: Der passende Weg beginnt mit dieser Unterscheidung.</p>",
+  "countryContext": "/de/laender/mauritius/",
+  "linkPlan": [
+    {
+      "sourceLine": 1268,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1270,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1271,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1272,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1273,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1274,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1275,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1276,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1277,
+      "target": "/en/countries/mauritius/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1508,
+      "target": "/de/laender/namibia/",
+      "label": "Namibia als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1510,
+      "target": "/de/laender/dominikanische-republik/",
+      "label": "Dominikanische Republik als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Economic Development Board Mauritius: Work & Live",
+      "url": "https://edbmauritius.org/work-live",
+      "section": 4,
+      "checkedAt": "2026-09-26",
+      "verification": "inherited_context_reference",
+      "limitation": ""
+    },
+    {
+      "title": "Economic Development Board Mauritius: residence pathways",
+      "url": "https://edbmauritius.org/work-live",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "inherited_context_reference",
+      "limitation": "Historischer Basisverweis. Die Fachbelege dieser Neufassung stehen unmittelbar bei den Aussagen und vollständig im Quellenbericht."
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Vorbereitung für Mauritius anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "country": {
+    "name": "Mauritius",
+    "slug": "mauritius",
+    "region": "Afrika und Indischer Ozean",
+    "map": "countries/mauritius-locator.svg",
+    "imageAlt": "Mauritius auf der Weltkarte: Insel im Indischen Ozean östlich von Madagaskar.",
+    "caption": "Mauritius im Indischen Ozean. Der Standort auf der Insel prägt Schulwege, Versorgung und Ankunft.",
+    "summary": [
+      [
+        "Zeitweise Inselbasis",
+        "Premium Visa für längeren Aufenthalt mit ausländischer Einkommensgrundlage."
+      ],
+      [
+        "Familienzukunft",
+        "Aufenthaltskategorie, Schule und Behandlung am konkreten Wohnort verbinden."
+      ],
+      [
+        "Wohneigentum",
+        "Zulässiges Erwerbsmodell und Aufenthaltsfolge vor dem Kauf klären."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Wann Mauritius zu deinem Vorhaben passt",
+      "body": "<p>Wenn du wegen Krieg, staatlichem Druck oder der Sorge um dein Erarbeitetes eine Alternative außerhalb Europas suchst, kann Mauritius als vorbereitete Inselbasis in Betracht kommen. Besonders greifbar ist die Option für Menschen mit Einkommen aus dem Ausland, für entsprechend berechtigte Unternehmer und für Ruheständler. Die drei Gruppen nutzen jedoch nicht denselben Aufenthaltsweg.</p><p>Eine gemietete Wohnung mit Premium Visa lässt sich zunächst zum Erproben des Alltags nutzen. Für eine dauerhafte Familienzukunft werden der längerfristige Status, die Erwerbstätigkeit und die Rechte jedes Angehörigen zusammengeführt. Ein Immobilienkauf ist eine weitere Entscheidung mit eigenen Zulassungsregeln. Dein Geld sollte erst langfristig gebunden werden, wenn klar ist, wie du und deine Familie die Immobilie tatsächlich nutzen dürfen.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Eine Inselbasis für den Ernstfall vorbereiten",
+      "body": "<p>Mauritius liegt weit von Europa entfernt. Eure Erreichbarkeit hängt dennoch von funktionierenden Flugverbindungen und dem jeweiligen Transit ab. Wenn du frühzeitig auf Kriegssorge oder drohende Ausreisehindernisse reagieren willst, werden deshalb persönliche Auslöser, Pässe, Aufenthalt und konkrete Ankunft vorher geordnet. Eine rechtlich nutzbare Basis lässt sich leichter aktivieren, wenn Schlüssel, Zahlungszugang und die Betreuung am Ort bereits geregelt sind.</p><p>Auf der Insel gehören Zyklone und Starkregen zur Wohnentscheidung. Das staatliche Katastrophenschutzamt empfiehlt unter anderem die Sicherung des Hauses, Trinkwasser, haltbare Lebensmittel und die Beachtung amtlicher Warnungen. Für deine Unterkunft bedeutet das: Entwässerung und Dachzustand ansehen, Strom- und Wasserausfälle mitdenken und mit der Hausbetreuung festlegen, wer vor einer Warnlage handelt. Für benötigte importierte Medikamente und Ersatzteile werden Lieferzeit, erreichbarer Bestand und Ersatzbezug vorab geklärt. Ein Generator hilft während eines Ausfalls nur mit zugänglichem Treibstoff und Wartung. Die Abhängigkeit von einer einzigen Flugroute oder einer einzelnen Person vor Ort lässt sich durch eine vorbereitete Alternative verringern.</p><p class=\"exb-citation\">Quelle: <a href=\"https://ndrrmc.govmu.org/Pages/bereadycyclones.aspx\" rel=\"noreferrer\">Mauritius NDRRMC: Vorbereitung auf Zyklone</a></p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Mit Kindern auf Mauritius leben",
+      "body": "<p>Für die Familie entscheidet der tägliche Weg oft stärker als die schönste Küste. Ein Kind, das in einem englischsprachigen System weiterlernen soll, braucht einen anderen Schulanschluss als ein Jugendlicher vor einem französischen Abschluss. Kläre Jahrgang, Unterrichtssprache, Aufnahme und Schultransport, bevor du dich auf eine langfristige Wohnung festlegst.</p><p>Ein konkretes Beispiel im Norden ist Northfields International School in Labourdonnais Village, Mapou. Die Schule veröffentlicht ihre Angebote vom frühen Kindesalter bis zu den weiterführenden Jahrgängen. Das macht den Norden für entsprechende Schulwege zu einem begründeten Suchgebiet; über die Aufnahme entscheidet die Schule. Französisch und Englisch helfen bei vielen organisatorischen Kontakten, während Mauritian Creole im Alltag eine wichtige Rolle spielt.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.northfieldsinternational.school/\" rel=\"noreferrer\">Northfields International School: Standort und Schulstufen</a></p><p>Für Ehepartner, Kinder oder mitreisende Eltern wird die passende Aufenthaltsgrundlage jeweils mitgeführt. Wer regelmäßige Pflege benötigt, braucht zusätzlich einen konkret vereinbarten Dienst und medizinischen Anschluss. Eine Inselbasis trägt erst dann den gesamten Haushalt, wenn auch die Person mit dem größten Unterstützungsbedarf gut versorgt ist.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Premium Visa: länger bleiben und für das Ausland arbeiten",
+      "body": "<p>Das Premium Visa ermöglicht einen Aufenthalt von mehr als sechs Monaten bis zu einem Jahr und kann verlängert werden. Es erlaubt mehrfache Aus- und Einreisen während seiner Gültigkeit. Die Hauptgeschäftstätigkeit beziehungsweise Einkommens- und Gewinnquelle muss außerhalb von Mauritius liegen; der mauritische Arbeitsmarkt ist von diesem Weg ausgeschlossen.</p><p>Nach der amtlichen FAQ werden unter anderem Unterkunft, Reise- und Krankenversicherung sowie ausreichende Mittel nachgewiesen. Als Einkommensnachweis nennt sie mindestens 1.500 USD monatlich je erwachsenem Antragsteller und 500 USD je unterhaltsabhängigem Kind. Das sind Antragswerte, keine Berechnung eurer tatsächlichen Lebenshaltungskosten. Schule, Wohnung, Mobilität und Versicherung werden daneben als eigener Haushalt kalkuliert.</p><p>Für einen aus dem Ausland erteilten Premium-Visa-Aufenthalt nennt die FAQ eine Reisefrist von sechs Monaten; das Aufenthaltsjahr beginnt mit der Ankunft. Damit lässt sich eine längere Erprobungsphase planen. Wenn daraus eine örtliche Beschäftigung oder ein lokales Unternehmen werden soll, wird vor dem Tätigkeitswechsel der dafür vorgesehene Titel vorbereitet.</p><p class=\"exb-citation\">Quelle: <a href=\"https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf\" rel=\"noreferrer\">Economic Development Board: Premium Visa, Einkommen, Versicherung und Gültigkeit</a></p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Einreise, Ruhestand und lokale Erwerbstätigkeit",
+      "body": "<h3>Mit deutschem, österreichischem oder schweizerischem Pass ankommen</h3><p>Die veröffentlichte Staatenliste des Passport and Immigration Office führt Deutschland, Österreich und die Schweiz als visumbefreit für die Einreise. Die bei der Einreise zugestandene Dauer ist maßgeblich. Für den touristischen Aufenthalt nennt die Premium-Visa-FAQ insgesamt höchstens 180 Tage im Kalenderjahr. Wer länger bleiben möchte, bereitet den entsprechenden Titel vor. Ein DACH-Wohnsitz mit anderer Staatsangehörigkeit folgt der Regel des jeweiligen Passes.</p><p class=\"exb-citation\">Quelle: <a href=\"https://passport.govmu.org/passport/wp-content/uploads/2021/03/Visa-Requirement-Country-2025.pdf\" rel=\"noreferrer\">Passport and Immigration Office: Visaregeln nach Staatsangehörigkeit</a></p><h3>Als Rentner nach Mauritius auswandern</h3><p>Der Residence Permit für Retired Non-Citizens steht nach den veröffentlichten EDB-Leitlinien Personen ab 50 Jahren offen. Er kann für bis zu zehn Jahre erteilt werden. Erforderlich sind ein Banknachweis über mindestens 24.000 USD und eine erste Überweisung von mindestens 2.000 USD auf ein örtliches Konto innerhalb von 60 Tagen nach Erteilung. Danach werden jährlich 24.000 USD oder monatlich 2.000 USD transferiert.</p><p>Dieser Ruhestandsstatus berechtigt nicht von sich aus zur Erwerbsarbeit. Für eine erlaubte Beschäftigung ist der entsprechende Work Permit oder Occupation Permit erforderlich. Wenn du Beteiligungen hältst und zugleich aktiv in deinem Unternehmen arbeitest, muss diese Tätigkeit zum gewählten Status passen.</p><h3>Vor Ort arbeiten oder ein Unternehmen betreiben</h3><p>Der Occupation Permit verbindet Aufenthalts- und Tätigkeitsfragen für die Kategorien Investor, Professional und Self-Employed. Investitions-, Einkommens- und Tätigkeitsnachweise richten sich nach der Kategorie. Wir bereiten deshalb zuerst den wirklichen Geschäftsfall auf: eigene Tätigkeit, örtliche Kunden, Gesellschaft, Finanzierungsnachweise und die Rolle der Angehörigen. Erst daraus folgen die passenden Unterlagen und örtlichen Fachaufträge.</p><p class=\"exb-citation\">Quelle: <a href=\"https://business.edbmauritius.org/wps/wcm/connect/business/d19ef870-5d87-42af-9108-0f494ae4897a/Merged%2BOP%2Band%2BYPOP%2Bguidelines%2B18.08.2026.pdf?CACHE=NONE&amp;ContentCache=NONE&amp;MOD=AJPERES\" rel=\"noreferrer\">EDB: Occupation Permit und Residence Permit für Ruheständler</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fmauritius%2F#kurzanfrage\">Vorbereitung für Mauritius anfragen</a><p>Eine konkrete Teilaufgabe ist direkt anfragbar. Persönliche Unterlagen folgen erst im vereinbarten geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Wohnregion, Mietvertrag und Immobilienkauf",
+      "body": "<h3>Norden, Zentralplateau oder Westen?</h3><ul><li><strong>Grand Baie, Pereybère und der Norden:</strong> Ausgangspunkt für die Suche, wenn du Küstenalltag und die Verbindung zu einer Schule im Raum Mapou zusammenbringen möchtest. Entscheidend bleibt die tatsächliche Fahrzeit an Schultagen.</li><li><strong>Moka und Umgebung:</strong> eine Alternative zum Strandwohnen, wenn zentrale Arbeits- und Versorgungswege den Ausschlag geben. Vergleiche hier Wohnlage, medizinische Termine und Wege zu den Küsten.</li><li><strong>Tamarin, Rivière Noire und Flic en Flac:</strong> Wohnoptionen an der Westküste. Eine familiengeeignete Lage muss auch bei starkem Regen erreichbar sein und zu Schule sowie Behandlung passen.</li></ul><p>Eine Erkundungsreise sollte deshalb dieselben Wege abfahren, die ihr später mehrmals pro Woche nutzen würdet. Flughafenfahrt, Einkauf, Schule und Facharzt ergeben zusammen euer tatsächliches Wohnprofil.</p><h3>Erst möbliert mieten</h3><p>Für die erste Ankunft ist eine möblierte Wohnung oder ein betreutes Apartment meist beweglicher als ein sofortiger Kauf. Auf dem mauritischen Markt werden einzelne Häuser ebenso wie Wohnungen in betreuten Wohnanlagen angeboten. Der örtliche Immobilienfachanbieter LexpressProperty beschreibt Inventarlisten als wichtigen Bestandteil möblierter Vermietung. Halte bei der Übergabe Möbel, Geräte, Schäden und Zählerstände schriftlich und mit Bildern fest.</p><p>In den Mietvertrag gehören Laufzeit, Kündigungsregel, Kaution und Rückzahlung, enthaltene Nebenkosten sowie die Zuständigkeit für Reparaturen. Bei Häusern kommen Garten, Pool, Schädlingskontrolle und gegebenenfalls Wassertank oder Generator hinzu. Für längere Abwesenheit werden Zutritt, Kontrollen und eine erlaubte Untervermietung ausdrücklich vereinbart. Eine Ferienbuchung mit Reinigungsservice ist wirtschaftlich und vertraglich etwas anderes als ein langfristiger Mietvertrag.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.lexpressproperty.com/en/news-advices/accommodation/our-files/rent-tenants/furnished-unfurnished.html\" rel=\"noreferrer\">LexpressProperty: möblierte Wohnungen und Wohnanlagen</a></p><h3>Was Ausländer auf Mauritius kaufen können</h3><p>Für Nichtstaatsangehörige gibt es geregelte Erwerbswege, unter anderem über IRS, RES, Property Development Scheme und Smart City Scheme. Daneben erlaubt der veröffentlichte G+2-Weg den Erwerb einer Wohnung in einem Gebäude mit mindestens zwei Etagen über dem Erdgeschoss, nach vorheriger EDB-Genehmigung und ab einem Kaufpreis von 6 Millionen MUR. Diese Wohnungsregel ist keine allgemeine Erlaubnis zum Kauf eines beliebigen Grundstücks.</p><p class=\"exb-citation\">Quelle: <a href=\"https://edbmauritius.org/wp-content/uploads/2022/10/Guidelines-acquisition-of-apartments-incl.residency.pdf\" rel=\"noreferrer\">EDB: Erwerb von Wohnungen durch Nichtstaatsangehörige</a></p><p>Aufenthalt durch Immobilienerwerb ist eine zusätzliche Programmfrage. Die EDB-Leitlinie für Wiederverkäufe unter IRS, RES und PDS beschreibt einen Residence Permit für einen Erwerb oberhalb von 375.000 USD beziehungsweise dem entsprechenden Gegenwert. Sie verlangt die registrierte Eigentumsübertragung und eine Notarbestätigung. Welche Aufenthaltsfolge dein konkretes Objekt und Erwerbsmodell haben, wird deshalb vor der Reservierung schriftlich geklärt.</p><p class=\"exb-citation\">Quelle: <a href=\"https://edbmauritius.org/wp-content/uploads/2022/10/Guidelines-for-IRS-RES-PDS-1.pdf\" rel=\"noreferrer\">EDB: Wiederverkauf, Registrierung und Aufenthaltsfolge</a></p><h3>Vom Suchauftrag zur nutzbaren Immobilie</h3><p>Der örtliche Notar begleitet Beurkundung und Registrierung beim Registrar-General. Vor dem Abschluss werden Eigentum, Belastungen, erforderliche Erwerbsgenehmigung, Baugenehmigungen und die Bedingungen einer Eigentümergemeinschaft unabhängig geprüft. Beim Kauf vom Plan kommen Fertigstellungsbedingungen, Baufortschritt, Zahlungsstufen und Absicherung der Übergabe hinzu. Das EDB-Regelwerk für PDS beschreibt dafür eigene Projekt- und Versicherungsanforderungen.</p><p class=\"exb-citation\">Quelle: <a href=\"https://edbmauritius.org/wp-content/uploads/2024/05/Guidelines-PDS.pdf\" rel=\"noreferrer\">EDB: Property Development Scheme, Kauf und Übergabe</a></p><p>Zum Kaufbudget gehören neben dem Objektpreis Registrierungsabgaben, Notar- und Prüfungskosten, gegebenenfalls Vermittlung, Bank- und Währungsumrechnungskosten sowie laufende Gemeinschafts- und Betreuungskosten. Die konkreten Abgaben werden nach Erwerbsmodell, Objekt und Abschlusszeitpunkt ermittelt.</p><p>Bei einem neuen Erstverkauf an Nichtstaatsangehörige in IRS, RES, IHS, PDS oder Smart City Scheme gelten besondere Zahlungsregeln; Wiederverkäufe und G+2-Wohnungen sind von diesen Änderungen ausgenommen. Geld aus dem Ausland wird in konvertierbarer Fremdwährung nach Mauritius überwiesen. Davon getrennt stellt der Notar sicher, dass der Projektentwickler 85 Prozent des Kaufpreises in mauritischen Rupien und die übrigen 15 Prozent in USD, EUR, einer anderen zulässigen konvertierbaren Fremdwährung oder MUR erhält. Für die Umrechnung gilt der Bankkurs am angewiesenen Transfertag. Stimme deshalb Herkunftswährung, Umrechnung und Zahlungstermine ab, bevor du das Kaufgeld bewegst.</p><p>Für bereits ansässige Käufer enthält die EDB-FAQ eigene Fälle: Inhaber eines Occupation Permit, Ruhestands- oder anderen Aufenthaltstitels können früher aus dem Ausland überwiesene Mittel mit Transfernachweis und Kontoauszug beziehungsweise geeigneten Unterlagen einsetzen. Daneben sind in Mauritius erzielte Einkünfte, Investitionserträge und Dividenden sowie Mieten und Erlöse aus einem früheren Immobilienverkauf zulässige Finanzierungsquellen. Wer mit Occupation oder Residence Permit in Mauritius arbeitet, dort Einkommen in MUR erzielt und ein örtliches MUR-Konto hält, kann den gesamten Erwerb in MUR finanzieren. Solche berechtigten lokalen Mittel müssen nicht erst über ein Auslandskonto zurückgeleitet werden.</p><p>Eine Bankfinanzierung ist eine gesonderte Frage innerhalb dieser Erwerbsregeln: Bei Finanzierung aus dem Ausland verlangt die EDB für einen Kauf unter 750.000 USD eigene, nach Mauritius überwiesene Mittel. Bei einem höheren Preis stammen die ersten 750.000 USD ebenfalls aus eigenen Mitteln; nur der darüberliegende Rest kommt für einen Bankkredit infrage. Für ansässige Nichtstaatsangehörige mit Occupation oder Residence Permit gilt ebenfalls die Eigenmittelbasis von 750.000 USD. In beiden Kreditfällen erfolgt die Rückzahlung in konvertierbarer Fremdwährung. Ob deine Bank den Rest tatsächlich finanziert, wird vor der Kaufbindung geklärt.</p><p class=\"exb-citation\">Quelle: <a href=\"https://edbmauritius.org/wp-content/uploads/2025/03/FAQ-Amendments-to-Property-Regulations.pdf\" rel=\"noreferrer\">EDB: Erstverkauf, Zahlungswährungen, lokale Mittel und Finanzierung</a></p><p>EXOBASIS übernimmt auf Auftrag Bedarf und Standortauswahl, Objektsuche und Besichtigungsorganisation, die Beschaffung einer unabhängigen Titel- und Kaufprüfung sowie Vertrags-, Zahlungs- und Abschlusskoordination. Danach folgen Übergabe, Einrichtung und vereinbarte Objektbetreuung. So erhältst du ein vorbereitetes Zuhause mit geklärtem Zugang, laufender Versorgung und einem Verantwortlichen für deine Abwesenheit.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Unterkunft, Immobilienkauf und Ankunft auf Mauritius organisieren</a></p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Krankenversicherung und tatsächliche Behandlung",
+      "body": "<h3>Schule und Familie</h3><p>Fordere bei der gewählten Schule Informationen zu Aufnahme, Jahrgang, Unterrichtssprache, Gebühren, Ferien und Transport an. Für den Schulwechsel werden Zeugnisse und die benötigten Personenunterlagen vorbereitet. Ein bestätigter Platz ist besonders dann wichtig, wenn du einen Mietvertrag in der Nähe genau dieser Schule abschließt. Bei getrennt reisenden Eltern gehören Reisebefugnisse und Zustimmung in dieselbe Unterlagenfolge.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a></p><h3>Versichert sein und versorgt werden</h3><p>Beim Premium Visa ist Reise- und Krankenversicherung Teil des Antrags. Für euren tatsächlichen Alltag werden zusätzlich ambulante Behandlung, stationäre Kosten, Vorerkrankungen, Medikamente und gegebenenfalls medizinischer Transport abgestimmt. Mauritius hat öffentliche und private Versorgung. Ein konkreter privater Anlaufpunkt ist C-Care Wellkin, das unter anderem Notfallversorgung und mehrere Fachbereiche ausweist.</p><p class=\"exb-citation\">Quelle: <a href=\"https://c-care.com/mu/business_unit/c-care-wellkin/\" rel=\"noreferrer\">C-Care Wellkin: Notfallversorgung und Fachbereiche</a></p><p>Die veröffentlichte Fachabteilung beantwortet noch nicht die Frage, ob genau deine Therapie verfügbar ist. Bei laufender Behandlung lassen wir vor der Wohnentscheidung den benötigten Anschluss klären: Arzt, Präparat oder Wirkstoff, Kontrolltermine und ein weiterer Behandlungsweg, falls eine spezialisierte Leistung außerhalb der Insel nötig wird. Pflegebedarf verlangt außerdem einen konkret vereinbarten Alltag mit Betreuung, Hilfsmitteln und Vertretung.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a></p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Geldzugang und Steuern auf Mauritius",
+      "body": "<p>Eine Inselbasis braucht Geld, das du vor Ort tatsächlich nutzen kannst. Für Ankunft und laufende Ausgaben sollten nicht alle Zahlungen an einer einzigen Bank oder demselben verlorenen Telefonzugang hängen. Größere Transfers werden mit Einkommens-, Verkaufs- oder Vermögensnachweisen vorbereitet; die Bankaufnahme wird mit der passenden Aufenthaltskategorie und dem örtlichen Adressnachweis abgestimmt.</p><p>Ein Beispiel für die praktische Dokumentenfrage liefert MCB: Für das angebotene Fremdwährungskonto nennt die Bank unter anderem Pass oder Identitätsnachweis, Personenstandsnachweis und einen Adressbeleg. Sie bietet Konten in mehreren Währungen, darunter EUR und USD. Das konkrete Konto und seine Nutzung werden direkt mit der Bank vereinbart; die öffentlich genannten Unterlagen sind der Ausgangspunkt für die Aufnahme.</p><p class=\"exb-citation\">Quelle: <a href=\"https://mcb.mu/personal/accounts-packages/foreign-currency-account\" rel=\"noreferrer\">MCB: Fremdwährungskonto und Aufnahmeunterlagen</a></p><p>Die Vertiefung <a class=\"exb-text-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Bankkonto und Zahlungsfähigkeit im Ausland</a> zeigt, wie du Kontoannahme, Mittelherkunft und einen unabhängigen Ersatzzugang zusammen vorbereitest. Für Mauritius gehört die passende Aufenthalts- und Adressdokumentation vor die geplante Hauptüberweisung; die unten erläuterte Steuerfrage wird dabei mitgeklärt. Mit dem Auftrag <a class=\"exb-text-link\" href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität vorbereiten</a> organisieren wir Unterlagen und Aufnahmeabstimmung, ordnen die Transferfolge und bereiten den Zahlungstest vor. So wird sichtbar, welches Geld für Miete und Alltag tatsächlich nutzbar ist und welche Reserve während der Kontoaufnahme erreichbar bleibt.</p><h3>Premium Visa und Steueransässigkeit getrennt betrachten</h3><p>Die Mauritius Revenue Authority nennt für die steuerliche Ansässigkeit unter anderem 183 Anwesenheitstage im Einkommensjahr; auch andere Anknüpfungen und der dort erläuterte Mehrjahreszeitraum können relevant werden. Für ansässige Personen unterscheidet sie in Mauritius erzieltes und nach Mauritius überwiesenes Einkommen. Ein Aufenthaltstitel ist deshalb nicht gleichbedeutend mit pauschaler Steuerfreiheit.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.mra.mu/individuals/foreign-income\" rel=\"noreferrer\">Mauritius Revenue Authority: Tax Residence</a></p><p>Für Premium-Visa-Inhaber erläutert die MRA zusätzlich besondere Regeln zur Überweisung von Einkommen: Ausgaben über ausländische Kredit- oder Debitkarten werden in ihrer FAQ nicht als Überweisung nach Mauritius behandelt. Einzahlungen auf ein örtliches Bankkonto können dagegen eine Steuer- und Erklärungspflicht auslösen. Herkunft, frühere Besteuerung und gegebenenfalls die Erklärung PV1 müssen deshalb zu deinem Geldfluss passen. Die konkrete Steuerfolge wird vor größeren Transfers organisiert.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.mra.mu/download/FAQsPremiumVISA.pdf\" rel=\"noreferrer\">MRA: Premium Visa, Remittance und Erklärung PV1</a></p><p>Bei einem Wegzug aus Deutschland, Österreich oder der Schweiz bleiben die jeweiligen Wohnsitz-, Unternehmens- und Vermögensbindungen gesondert zu klären. Die Wahl eines mauritischen Kontos erledigt diese Arbeit nicht. EXOBASIS verbindet die beauftragte steuerliche Fachklärung mit Kontoaufnahme, Transferfolge und der Fortführung deines Einkommens.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Die Vorbereitung in eine sinnvolle Reihenfolge bringen",
+      "body": "<ol><li><strong>Aufenthaltsweg festlegen:</strong> Nutzung, Tätigkeit, Pässe, mitreisende Personen und gewünschte Dauer bestimmen.</li><li><strong>Nachweise zusammenstellen:</strong> Personenstand, Einkommen, Mittelherkunft, Versicherung und je nach Kategorie medizinische beziehungsweise polizeiliche Dokumente. EDB-Verfahren verlangen für bestimmte fremdsprachige Urkunden eine bestätigte Übersetzung ins Englische oder Französische.</li><li><strong>Alltag bestätigen:</strong> Schule, Behandlung, vorläufige Unterkunft, Bankaufnahme und die benötigten Besichtigungstermine abstimmen.</li><li><strong>Wohnung oder Kauf abschließen:</strong> erst mit geklärtem Nutzungsrecht, fachlicher Vertragsprüfung und nachvollziehbarer Zahlungsfolge.</li><li><strong>Ankunft und Pflege übergeben:</strong> Schlüssel, Versorger, Kommunikation, Ansprechpartner und die Aufgaben während Abwesenheit festhalten.</li></ol><p>Wir übernehmen die vereinbarte Beschaffung und Organisation, verfolgen Antworten und führen die offenen Punkte zusammen. Persönliche Unterlagen werden im dafür vereinbarten Austausch übergeben.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a></p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Die Außenbasis zwischen deinen Aufenthalten betreuen",
+      "body": "<p>Ein Premium Visa wird rechtzeitig verlängert; beim Ruhestandsaufenthalt bleiben die vorgeschriebenen Transfers und Nachweise im Blick. Ändern sich Tätigkeit, Familienkonstellation oder Aufenthaltszweck, wird auch die rechtliche Grundlage angepasst. Ein gemeinsamer Kalender hält Aufenthalt, Versicherung, Schule und Zahlungsfristen auseinander und zugleich erreichbar.</p><p>Für das Haus oder Apartment werden Feuchtigkeit, Klimaanlage, Wasser, Strom, Garten oder Pool sowie Schäden nach Unwettern kontrolliert. Eine Schlüsselperson erhält klar abgegrenzte Befugnisse, Ausgabenrahmen und einen zweiten Kontakt. Vor eurer nächsten Ankunft werden Räume gelüftet, Geräte getestet und die benötigte Versorgung bereitgestellt. EXOBASIS kann diese wiederkehrende Vorbereitung im vereinbarten Umfang führen.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a></p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Deine Mauritius-Basis konkret vorbereiten lassen",
+      "body": "<p>EXOBASIS organisiert deine Vorbereitung vom passenden Aufenthaltsweg bis zum nutzbaren Zuhause. Du kannst einen Standortvergleich, Unterlagen- und Aufenthaltsarbeit, eine Erkundungsreise, die Miet- oder Kaufvorbereitung sowie Ankunft und laufende Betreuung beauftragen. Die dafür nötigen örtlichen Fachpersonen werden aufgabengerecht eingebunden.</p><p>Für den Einstieg brauchen wir dein gewünschtes Lebensmodell, die Pässe der Mitreisenden, den zeitlichen Rahmen und die wichtigste offene Aufgabe. Daraus entsteht ein klarer Auftrag mit greifbarem Ergebnis: etwa ein begründeter Wohnstandort, eine organisierte Kaufprüfung oder eine eingerichtete Ankunft. Wenn du noch zwischen Ländern abwägst, beginnen wir mit dem Vergleich. Wenn du noch nicht weißt, welche Unterstützung passt, kannst du eine kostenlose 20-Minuten-Orientierung anfragen.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen vergleichen</a></p><h3>Andere Ausgangspunkte zum Vergleich</h3><p><a class=\"exb-text-link\" href=\"/de/laender/namibia/\">Namibia als persönliche Ausweichoption</a> führt zur Frage einer Basis auf dem afrikanischen Festland. Die <a class=\"exb-text-link\" href=\"/de/laender/dominikanische-republik/\">Dominikanische Republik als persönliche Ausweichoption</a> bietet einen Inselvergleich in der Karibik. Aufenthaltsweg, Sprache, Versorgung und Erreichbarkeit werden für deine Familie nebeneinander bewertet.</p><p><strong>Namibia:</strong> Die <a href=\"https://www.namibia-botschaft.de/application-for-permanent-residence-2/\" rel=\"noreferrer\">Botschaft beschreibt den Daueraufenthaltsantrag</a> als individuelle Prüfung, unter anderem nach Erwerbstätigkeit oder Ruhestand. Davon getrennt steht die Wohnortfrage: In Windhoek liefern die <a href=\"https://www.dhps-windhoek.de/de/page/sekundarstufe-ii-diap\" rel=\"noreferrer\">DHPS mit deutschem und Cambridge-Abschluss</a> und die <a href=\"https://www.mediclinic.co.za/en/windhoek/emergency.html\" rel=\"noreferrer\">Notfall-Anlaufstelle der Mediclinic</a> konkrete Ansatzpunkte. Für deine Adresse müssen Schulaufnahme, benötigte Behandlung, Fahrwege, Versorgung und örtliche Betreuung zusammenpassen. Eine Basis an der Küste oder weiter außerhalb braucht diese Prüfung erneut. So vergleichst du mit Mauritius einen tragfähigen Familienalltag, nicht nur Insel gegen Festland.</p><p><strong>In der Dominikanischen Republik entscheidet die Familienaufgabe über die Region:</strong></p><ul><li><strong>Santo Domingo:</strong> Wenn die internationale Schule den Wohnort bestimmt, ist die <a href=\"https://www.cms.edu.do/admissionsoverview\" rel=\"noreferrer\">Carol Morgan School am Mirador Park</a> ein konkreter Ausgangspunkt. Wohnung und täglicher Schulweg werden um den passenden Schulstandort geplant.</li><li><strong>Nordküste:</strong> Die <a href=\"https://www.issosua.com/\" rel=\"noreferrer\">International School of Sosúa</a> unterrichtet hauptsächlich auf Englisch. Damit wird Sosúa zum konkreten Prüfstandort; ein Haus in Cabarete oder Puerto Plata muss auch zum tatsächlichen Schulweg passen.</li><li><strong>Samaná:</strong> Ankunft und Behandlung können an unterschiedlichen Orten liegen. Dem Flughafen El Catey steht etwa das <a href=\"https://hospitalleopoldopou.gob.do/\" rel=\"noreferrer\">Hospital Leopoldo Pou in Santa Bárbara de Samaná</a> gegenüber. Für eine Wohnung in Las Terrenas oder Las Galeras zählt deshalb der Weg zur benötigten Versorgung, nicht nur zum Flughafen.</li><li><strong>Binnenland:</strong> Bei regelmäßigem Behandlungsbedarf ist Santiago mit dem <a href=\"https://homs.com.do/quienes-somos/\" rel=\"noreferrer\">Krankenhaus HOMS</a> ein konkreter Bezugspunkt. Für ein Haus etwa in Jarabacoa wird der Weg zum benötigten Arzt Teil der Wohnentscheidung.</li><li><strong>Osten:</strong> Für Punta Cana und Bávaro ist <a href=\"https://www.godominicanrepublic.com/travel/air-and-sea-travel\" rel=\"noreferrer\">PUJ ein eigener Ankunftspunkt</a>. Das hilft beim Vergleich der Anreise; die passende Schule und Behandlung werden davon getrennt am Wohnort geklärt.</li></ul><p>Die Einrichtungen zeigen, wo du konkret ansetzen kannst. Aufnahme, Behandlung und die passenden Flüge werden für deine Familie bestätigt, bevor daraus eine feste Wohnentscheidung wird.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fmauritius%2F#kurzanfrage\">Vorbereitung für Mauritius anfragen</a><p>Eine konkrete Teilaufgabe ist direkt anfragbar. Persönliche Unterlagen folgen erst im vereinbarten geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Gibt mir jede gekaufte Wohnung auf Mauritius ein Aufenthaltsrecht?",
+    "answer": "Die Erwerbsgenehmigung und der Aufenthalt folgen unterschiedlichen Voraussetzungen. Beim G+2-Weg kann eine Wohnung ab 6 Millionen MUR mit EDB-Genehmigung erworben werden. Eine Aufenthaltsfolge hängt vom konkreten Erwerbsmodell und dessen Anforderungen ab. Deshalb werden Objekt, Kaufrecht und der passende Aufenthalt vor der Reservierung gemeinsam geklärt."
+  },
+  "displayTitle": "Auswandern nach Mauritius: Aufenthalt, Familie und ein Zuhause auf der Insel"
+}

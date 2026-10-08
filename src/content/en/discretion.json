@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/discretion/",
+  "lang": "en",
+  "title": "Discretion and protected collaboration",
+  "kind": "trust",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c029a22992a66e"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-20b4957c9ce01f"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Discretion / Your information, shared with purpose",
+  "seoTitle": "Discreet preparation and protected collaboration | EXOBASIS",
+  "description": "Keep control of sensitive family, business and financial information. See how EXOBASIS handles first contact, specialist work and authorised access.",
+  "intro": "<p>You may be preparing to leave before colleagues, neighbours or even some relatives know. Your reasons are personal. So are your finances, your family arrangements and the place you intend to go. Getting help should not mean handing that whole picture to everyone involved.</p><p>EXOBASIS agrees who needs which information, for what work and through which channel. You can begin with a broad question. Detailed records come later, when their purpose and recipient are clear.</p>",
+  "summary": {
+    "kicker": "You stay involved",
+    "title": "A clear reason for every handover.",
+    "facts": [
+      [
+        "First conversation",
+        "Your question and a way to reply"
+      ],
+      [
+        "Personal records",
+        "A protected exchange agreed for the assignment"
+      ],
+      [
+        "Specialist work",
+        "An identified recipient and the relevant documents"
+      ]
+    ]
+  },
+  "primary": {
+    "label": "Private enquiry",
+    "intent": "General enquiry"
+  },
+  "protectedPrimary": true,
+  "sections": [
+    {
+      "id": "d-erstkontakt",
+      "title": "Start with what you need, not your private files",
+      "body": "<p>A short description is enough: you need a home prepared abroad, someone to organise a structure, or a workable way for your family to act if you are unavailable. Use the <a href=\"/en/enquiry/\">enquiry page</a>. An optional free 20-minute orientation can help identify the right work.</p><p>A separate CryptPad route is planned for encrypted first messages. CryptPad runs in your browser. It is your choice; ordinary contact remains available. Keep the initial message to the broad task and a reply route you can use safely. Leave passport copies, account statements and detailed family records for the agreed personal exchange.</p><p>The <a href=\"/en/privacy/\">privacy notice</a> explains the processing of personal data and your rights.</p>",
+      "layout": "prose",
+      "protectedAction": true
+    },
+    {
+      "id": "d-aufnahme",
+      "title": "An exchange you understand and can use",
+      "body": "<p>Before collecting sensitive documents, we agree the questions the assignment needs to answer, who will work on them and how you will exchange information. This can include a personally authorised CryptPad workspace for documents and an agreed confidential conversation channel. We help you use the arrangement rather than expecting you to become a security specialist.</p><p>CryptPad encrypts document content end to end. Its <a href=\"https://docs.cryptpad.org/en/user_guide/security.html\">security documentation</a> also explains the important practical conditions: the instance must be trustworthy, the people receiving a link must protect it, and the service can still see connection information such as an IP address. We therefore treat a sharing link as an access key, not an ordinary reference to forward.</p><p>Existing documents and information you have already confirmed can be reused. The <a href=\"/en/how-we-work/\">working process</a> connects that intake to the actual preparation you commission.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "d-fachweitergabe",
+      "title": "The right documents for the right specialist",
+      "body": "<p>A property lawyer may need your identity, the proposed purchase and the source of the purchase funds. The person arranging a key handover needs the address, arrival details and authority to release the keys. They have different jobs, so they receive different information.</p><p>For each handover we establish the recipient, purpose, required records and appropriate authorisation. A bank, lawyer or public authority may have mandatory identity and source-of-funds checks. Those requirements are addressed accurately through the relevant procedure; your wider family plan stays separate.</p><p>If a provider changes, we confirm the new recipient and the information needed before making another handover. You can see who is responsible for the work and whom to ask about it.</p>",
+      "layout": "prose",
+      "roles": [
+        [
+          "Recipient",
+          "The person or organisation responsible for the named task"
+        ],
+        [
+          "Information",
+          "The documents that task actually needs"
+        ],
+        [
+          "Authority",
+          "The agreed basis and channel for sharing them"
+        ]
+      ]
+    },
+    {
+      "id": "d-berechtigung",
+      "title": "Decide who may see, decide and spend",
+      "body": "<p>Your spouse may need emergency contacts without needing every business document. A finance manager may be authorised to make a company payment without being entitled to your family records. We separate permission to read information, authority to make a decision and approval to incur costs.</p><p>Where one person pays for several adults, access is agreed with the relevant people rather than inferred from the invoice. For children or an adult who needs representation, we establish the appropriate representative and the authority required for the particular task. That gives the working arrangement a clear basis before sensitive information is shared.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "d-wiederkontakt",
+      "title": "Keep a way back when the usual contact fails",
+      "body": "<p>A lost phone can take your messages, email and account verification with it. If that is a concern, we can <a href=\"/en/services/communications-recovery/\">set up and test alternative contact and recovery arrangements</a> with you beforehand. The instructions identify a usable second route and how identity and authority will be established.</p><p>Reaching us again, recovering an encrypted document and authorising someone to act are separate steps. The agreed checks protect you when an unfamiliar device or a new person appears. Recovery material stays in the private arrangement, under your control.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "d-abschluss",
+      "title": "Know what happens when the work ends",
+      "body": "<p>At handover, you receive the agreed results and know how to access them. We identify any continuing administration, retained contractual records and permissions that can be withdrawn. Records already lawfully held by a bank or professional adviser follow that recipient's own obligations.</p><p>If you want the preparation maintained, we agree what will be checked, how often and who may contact whom. If you pause an enquiry, sales follow-ups stop; necessary communications about an existing assignment follow the arrangements already agreed. Retention and information rights are covered in the <a href=\"/en/privacy/\">privacy notice</a>.</p>",
+      "layout": "prose"
+    }
+  ],
+  "closing": {
+    "id": "protected-contact",
+    "title": "Tell us what you need to prepare.",
+    "body": "Start with the broad task and a suitable way to reply. We will agree the next step before asking for personal documents."
+  },
+  "faq": {
+    "question": "Can I begin without installing an app?",
+    "answer": "Yes. You can start with the short enquiry form in your browser. A separate CryptPad route is planned for encrypted first messages and will be optional. For any later collaboration, we will agree a protected way to exchange information with you."
+  },
+  "displayTitle": "Your plans stay with the people who need to know"
+}

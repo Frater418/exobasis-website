@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/liechtenstein-foundation/",
+  "lang": "en",
+  "title": "Arrange a Liechtenstein foundation",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-f98e4cd5fa218b"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-12aea16f5a6a97"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Liechtenstein foundation / Purpose, setup and administration",
+  "seoTitle": "Liechtenstein foundation: assessment and setup | EXOBASIS",
+  "description": "Coordinate a Liechtenstein foundation from purpose and beneficiaries through specialist assessment, establishment, funding and continuing administration.",
+  "intro": "<p>You want the wealth you have built to support particular people and purposes over time. A Liechtenstein foundation can provide a legal structure for that intention, but the important decisions concern ownership, control, distributions and the obligations that follow.</p><p>EXOBASIS organises the assignment with the appropriate Liechtenstein professionals and advisers responsible for your other legal and tax connections. You receive a clear decision basis, followed by the establishment and administration work you choose to commission.</p>",
+  "primary": {
+    "label": "Enquire about a foundation structure",
+    "intent": "Arrange a Liechtenstein foundation"
+  },
+  "summary": {
+    "kicker": "Your assignment with EXOBASIS",
+    "title": "A defined purpose, understood rights and organised administration.",
+    "image": "einstieg-laender.webp",
+    "imageAlt": "A map and compass, illustrating international planning.",
+    "facts": [
+      [
+        "Purpose",
+        "The people and uses the assets should support"
+      ],
+      [
+        "Decision",
+        "Control, distributions and cross-border consequences"
+      ],
+      [
+        "Execution",
+        "Professional establishment, funding and continuing duties"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Give the foundation a purpose before choosing its form",
+      "layout": "prose",
+      "body": "<p>A Liechtenstein foundation is a legally and economically independent pool of assets constituted as a legal person. The founder dedicates specified assets and defines the purpose and beneficiaries. The <a href=\"https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-justiz/handelsregister/merkblaetter/008_merkblatt_zur_stiftung.pdf\">Office of Justice's foundation factsheet</a> distinguishes private-benefit foundations, including family foundations, from common-benefit foundations.</p><p>We begin with what you want the arrangement to achieve: support for family members, succession, the long-term holding of assets or a defined charitable purpose. We establish the people involved, their needs and the assets under consideration before organising the structural advice.</p><p>If the best form is still open, the wider <a href=\"/en/services/asset-structures/\">asset-structure and succession assignment</a> can compare the appropriate options first.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Understand who controls the assets and how people benefit",
+      "layout": "prose",
+      "body": "<p>The foundation council manages the foundation and represents it externally. Liechtenstein's <a href=\"https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-justiz/handelsregister/merkblaetter/008_merkblatt_zur_stiftung.pdf\">Office of Justice</a> specifies at least two council members and duties tied to the foundation's purpose and asset administration.</p><p>That has practical consequences for your family. Who can request a distribution? Who decides it? What evidence is needed? Who acts if a council member or the founder becomes unavailable? We have these questions answered in the proposed documents and explained before you approve them.</p><p>The advice also identifies which founder rights may be reserved, what beneficiaries are entitled to and how any additional supervisory body would function. Your personal spending reserve and your <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">powers of attorney and succession arrangements</a> are considered alongside assets dedicated to the foundation.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Connect Liechtenstein law to your actual UK, UAE and other ties",
+      "layout": "prose",
+      "body": "<p>The foundation's legal seat is only one part of the analysis. Your tax residence, the location and ownership of assets, beneficiaries' circumstances and planned distributions may connect the arrangement to other jurisdictions.</p><p>For a UK-connected family, we organise a written assessment of the proposed structure, contribution and benefits under the rules applicable to the people involved. For a UAE-based family, we establish the actual residence and other continuing connections rather than assuming that a UAE address resolves every foreign tax question.</p><p>Timing also matters if you may leave or return to the UK. HMRC's <a href=\"https://www.gov.uk/government/publications/temporary-non-residents-and-capital-gains-tax-hs278-self-assessment-helpsheet/hs278-temporary-non-residents-and-capital-gains-tax-2026\">temporary non-residence guidance</a> explains circumstances in which certain gains or income can be taxed on return. The wider <a href=\"/en/knowledge/business-and-income/departure-tax/\">departure and tax analysis</a> belongs before a material transfer.</p><p>If a <a href=\"/en/services/trust-structure/\">trust structure</a> is also being considered, the comparison focuses on your purpose, control, administration and cross-border treatment. The label alone does not decide suitability.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Coordinate the professional mandate and establishment",
+      "layout": "prose",
+      "body": "<p>Once you approve the approach, EXOBASIS coordinates the professional instructions, identity and asset evidence, draft documents, signatures and establishment sequence. The Liechtenstein professionals carry out the legal work within their mandate; your other advisers address the connected legal and tax effects.</p><p>The <a href=\"https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-justiz/handelsregister/merkblaetter/008_merkblatt_zur_stiftung.pdf\">July 2026 Office of Justice factsheet</a> sets minimum foundation capital at CHF 30,000, or EUR 30,000 or USD 30,000 where the capital is stated in that currency. It must be fully contributed at formation. This is foundation capital, separate from professional and coordination fees.</p><p>The filing route depends on the foundation. The factsheet requires registration for common-benefit foundations and certain other foundations; a foundation not subject to registration must deposit a formation notification with the Office of Justice within 30 days. The responsible professional identifies and completes the applicable route.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Budget for the foundation’s continuing work",
+      "layout": "prose",
+      "body": "<p>Establishment is the beginning of an administrative relationship. We obtain the proposed ongoing services and charges for council work, administration, banking or custody, accounting, reporting and any required audit. Transaction work and exceptional advice are identified separately.</p><p>The <a href=\"https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-justiz/handelsregister/merkblaetter/008_merkblatt_zur_stiftung.pdf\">Office of Justice</a> requires appropriate records and supporting evidence of asset management and use, together with an asset inventory, for foundations not operating a commercial business. It also distinguishes the supervision and audit arrangements for common-benefit foundations and private-benefit foundations voluntarily placed under supervision.</p><p>You should be able to see who performs each continuing duty, what information you receive and which costs recur even when no distribution is made. EXOBASIS coordinates that operating arrangement as part of the agreed handover.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Leave with the documents, responsibilities and succession route clear",
+      "layout": "prose",
+      "body": "<p>Your handover brings together the adopted documents, evidence of establishment and filings, council and professional mandates, assets actually contributed, banking or custody status and the reporting calendar. Pending transfers remain identified as pending.</p><p>We walk through how authorised people contact the council, request information or a distribution and manage a change in family circumstances. The succession arrangements explain how the structure continues if an important person dies or becomes unable to act. You receive the professional decisions and the practical contact sequence together.</p>"
+    }
+  ],
+  "working": {
+    "title": "How we work together",
+    "body": "<p>You describe the purpose and people involved, then provide the relevant records privately. EXOBASIS coordinates the assignment and specialist handovers. You approve the proposed arrangement and expenditure after receiving the professional advice.</p>"
+  },
+  "nextWork": {
+    "title": "The next practical step",
+    "body": "<p>Funding and administration follow the agreed structure decision. If another arrangement better meets the purpose, the next assignment is defined around that conclusion and the useful work already completed.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "What should the foundation make possible for your family?",
+    "body": "Tell us the purpose you have in mind and whether legal or tax advisers are already involved. Asset records and family details follow through the protected working channel."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "581",
+        "label": "Arrange asset structures, custody and succession",
+        "target": "/en/services/asset-structures/",
+        "position": "Kernabschnitt 1: Purpose and beneficiaries",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "582",
+        "label": "Arrange a trust structure",
+        "target": "/en/services/trust-structure/",
+        "position": "Kernabschnitt 3: Your home-country connections",
+        "purpose": "Eignung und konkrete Einrichtung einer Trust-Struktur mit befugten Fachstellen organisieren."
+      },
+      {
+        "line": "583",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 2: Control and ownership roles",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "584",
+        "label": "Departure, tax and business obligations",
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "position": "Kernabschnitt 3: Your home-country connections",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages.",
+    "redaction": {
+      "package": "leistungen-a-en",
+      "seeding": [],
+      "sourceScope": "PB-D65 English editorial candidate; see QUELLEN-EN.md and SEITEN-EN.jsonl. No integration or approval claimed.",
+      "mappedLinks": [
+        {
+          "line": "581",
+          "label": "Arrange asset structures, custody and succession",
+          "target": "/en/services/asset-structures/",
+          "position": "Kernabschnitt 1: Purpose and beneficiaries",
+          "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+        },
+        {
+          "line": "582",
+          "label": "Arrange a trust structure",
+          "target": "/en/services/trust-structure/",
+          "position": "Kernabschnitt 3: Your home-country connections",
+          "purpose": "Eignung und konkrete Einrichtung einer Trust-Struktur mit befugten Fachstellen organisieren."
+        },
+        {
+          "line": "583",
+          "label": "Powers of attorney, representation and succession abroad",
+          "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+          "position": "Kernabschnitt 2: Control and ownership roles",
+          "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+        },
+        {
+          "line": "584",
+          "label": "Departure, tax and business obligations",
+          "target": "/en/knowledge/business-and-income/departure-tax/",
+          "position": "Kernabschnitt 3: Your home-country connections",
+          "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+        }
+      ],
+      "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+    }
+  },
+  "scope": {
+    "id": "scope",
+    "title": "What you receive",
+    "body": "<p>The assignment can begin with a suitability and coordination stage, then continue into establishment and handover. You receive the professional assessments, decisions and completed work included in your proposal, with the position of the foundation and its assets recorded clearly.</p>",
+    "items": [
+      [
+        "A considered structure decision",
+        "The proposed foundation is assessed against your actual purpose and connections."
+      ],
+      [
+        "Connected professional work",
+        "Liechtenstein establishment and the relevant external advice follow one agreed sequence."
+      ],
+      [
+        "A workable handover",
+        "Documents, mandates, assets and recurring duties are brought together."
+      ]
+    ],
+    "costs": "Assessment, drafting, establishment, administration, banking, tax advice and EXOBASIS coordination have separate costs. Capital dedicated to the foundation remains distinct from fees; the proposal identifies both initial and recurring commitments."
+  },
+  "displayTitle": "Arrange a Liechtenstein foundation around your family’s purpose"
+}

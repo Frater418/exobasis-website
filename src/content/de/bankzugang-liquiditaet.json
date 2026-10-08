@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/bankzugang-liquiditaet/",
+  "lang": "de",
+  "title": "Bankzugang und Liquidität vorbereiten",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0b6cfc6cf0ffc0"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-b5540d6813ad63"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-327568101d023a"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Geldzugriff / Vorbereitet zahlungsfähig bleiben",
+  "seoTitle": "Zweites Bankkonto und Liquidität im Ausland | EXOBASIS",
+  "description": "EXOBASIS organisiert passenden Bankzugang, Nachweise und getestete Zahlwege. Damit Familie und Betrieb über berechtigt nutzbare Liquidität verfügen.",
+  "intro": "<p>Ein zweites Bankkonto im Ausland hilft dir erst, wenn du es nutzen kannst: für Unterkunft, Versorgung, laufende Rechnungen und die Menschen, die von dir abhängen. Wenn die Hauptbank kündigt oder ein Zugang ausfällt, sollen diese Zahlungen einen vorbereiteten Ersatzweg haben.</p><p>EXOBASIS organisiert die passende Kontoaufnahme und die praktische Einrichtung deiner Zahlwege. Wir verbinden den Bedarf von Familie und Betrieb mit Nachweisen, verfügbaren Mitteln, berechtigter Vertretung und einem vereinbarten Funktionstest.</p>",
+  "primary": {
+    "label": "Bankvorbereitung anfragen",
+    "intent": "Bankzugang und Liquidität vorbereiten"
+  },
+  "summary": {
+    "kicker": "Zahlungsfähigkeit vorbereiten",
+    "title": "Vom angenommenen Konto zum nutzbaren Zahlweg.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift auf einem Tisch als Sinnbild für Vorbereitung.",
+    "facts": [
+      [
+        "Bedarf",
+        "Private und betriebliche Zahlungen getrennt erfassen"
+      ],
+      [
+        "Einrichtung",
+        "Institute, Aufnahmeunterlagen und berechtigten Zugriff abstimmen"
+      ],
+      [
+        "Nachweis",
+        "Vereinbarte Zahlungen und Ersatzwege praktisch testen"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Was muss weiterbezahlt werden, wenn die Hauptbank ausfällt?",
+      "layout": "prose",
+      "body": "<p>Wir beginnen bei deinen Verpflichtungen: Miete, Medikamente, Versicherungen, Schule, laufende Verträge und betriebliche Zahlungen. Daneben stehen die erwarteten Eingänge wie Gehalt oder Kundenzahlungen. Daraus entsteht eine Abhängigkeitsübersicht nach Konto, Inhaber, Währung, Fälligkeit und Freigabe.</p><p>Bei Debanking oder einer Kontokündigung werden Kündigungstermin, verfügbare Guthaben und Umstellungsbedarf zusammengeführt. Ist das Konto bereits gesperrt, laufen zwei Arbeiten nebeneinander: Sperrgrund, Nachweise und zulässige Klärungswege ermitteln; fällige Zahlungen über rechtmäßig nutzbare Mittel organisieren. Loginfehler, Kartensperre, Pfändung und behördliche Sperre verlangen unterschiedliche Schritte.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\" data-route=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\"><span>Kontozugang und Zahlungsfähigkeit im Ausland</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-2",
+      "title": "Kontoinhaber, Nachweise und Familienzugriff zusammenbringen",
+      "layout": "prose",
+      "body": "<p>Für jedes Konto wird festgehalten, wem das Geld gehört, wofür das Konto genutzt werden soll und wer darüber verfügen darf. Identität, tatsächlicher Wohnsitz, steuerliche Ansässigkeit und Mittelherkunft müssen zur Anfrage passen. Privat- und Unternehmensunterlagen werden getrennt geführt.</p><p>Eine zweite Karte macht einen Angehörigen nicht automatisch zu einem umfassend bevollmächtigten Vertreter. Wir klären mit dem Institut, welche Befugnis es annimmt und wie diese Person bei deinem Ausfall handeln kann. Dokumente und Zugang werden gemeinsam vorbereitet, statt der Familie lediglich Passwörter zu hinterlassen.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-3",
+      "title": "Mehr Unabhängigkeit als eine weitere Kontonummer",
+      "layout": "prose",
+      "body": "<p>Bei der Auswahl betrachten wir die tatsächliche Bank und ihre Zulassung, die aufnehmbaren Wohnsitzfälle, Währungen, Zahlungsfunktionen und Gebühren. Zwei Marken können zur selben Bank gehören. Zwei Karten können dieselbe App und dasselbe Telefon voraussetzen. Diese Verbindungen sind für deinen Ersatzweg entscheidend.</p><p>Für deutsche Bankeinlagen erläutert die <a href=\"https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/geldanlage/einlagensicherung-anlegerentschaedigung/einlagensicherung-anlegerentschaedigung.html\">BaFin die gesetzliche Einlagensicherung</a> von grundsätzlich 100.000 Euro je Kunde und Bank, unabhängig von der Kontenzahl. Die Sicherungsordnung des konkret gewählten Banklands wird separat erfasst. Einlagenschutz, sofortiger Zugriff und Akzeptanz einer Zahlung sind verschiedene Fragen.</p>",
+      "criteria": {
+        "title": "Vier Fragen an deinen Ersatzweg",
+        "headers": [
+          "Bereich",
+          "Entscheidende Frage",
+          "Praktischer Nachweis"
+        ],
+        "rows": [
+          [
+            "Geld",
+            "Ist die vorgesehene Reserve verfügbar?",
+            "Guthaben, Bedingungen und abrufbare Währung"
+          ],
+          [
+            "Zahlung",
+            "Funktioniert der konkrete Verwendungszweck?",
+            "Vereinbarte Testzahlung"
+          ],
+          [
+            "Vertretung",
+            "Kann die berechtigte Person selbst handeln?",
+            "Vom Institut angenommene Befugnis und nutzbarer Zugang"
+          ],
+          [
+            "Ausfall",
+            "Was bleibt ohne Haupttelefon oder Hauptbank?",
+            "Getrennt geprüfter Ersatz- und Wiederzugang"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "kern-4",
+      "title": "Die Aufnahme so vorbereiten, dass Rückfragen beantwortbar sind",
+      "layout": "prose",
+      "body": "<p>Wir gleichen das Kontoangebot mit deiner Situation ab und stellen die verlangten Nachweise geordnet zusammen. Bei einem Verkaufserlös gehört der Verkauf zum dokumentierten Geldweg; bei Unternehmensmitteln sind Gesellschaft, wirtschaftlich Berechtigte und Zeichnungsbefugnis relevant. Zusätzliche Fragen des Instituts werden dem passenden Beleg zugeordnet.</p><p>Für Verbraucher mit rechtmäßigem Aufenthalt in der EU kann nach Verlust eines nutzbaren deutschen Zahlungskontos ein deutsches Basiskonto ein eigener Klärungsweg sein. Die <a href=\"https://www.bafin.de/DE/verbraucherinnen-verbraucher/themen-finanzprodukte/konten-zahlungen/konten/basiskonto/basiskonto_node.html\">BaFin erläutert Voraussetzungen und gesetzliche Ablehnungsgründe</a>. Ein solches Konto deckt grundlegende Zahlungsfunktionen; ein Kreditrahmen gehört nicht zum Anspruch. Diese deutsche Verbraucherregel wird nicht auf Geschäftskonten oder beliebige Auslandsbanken übertragen.</p>"
+    },
+    {
+      "id": "kern-5",
+      "title": "Reserve, Überweisung und Wiederzugang müssen zusammenpassen",
+      "layout": "prose",
+      "body": "<p>Bevor größere Beträge fließen, werden Empfänger, Überweisungsweg, Nachweisanforderungen und die geplante Nutzung abgestimmt. Danach prüfen wir die vereinbarten Funktionen mit einer kleinen echten Zahlung. Brauchst du die Karte für eine Hotel- oder Mietwagenreservierung mit Kaution, klären wir zusätzlich die Anforderungen des konkreten Anbieters, den akzeptierten Kartentyp und den verfügbaren Betrag für die Kautionsreservierung. Der vereinbarte Funktionstest umfasst diesen Verwendungszweck. Eine Bestätigung der Kontonummer reicht nicht, wenn der Login noch nicht funktioniert oder am Zielort niemand bezahlen kann.</p><p>Zum Ersatzweg gehört auch der Ausfall des Telefons: SIM, Haupt-E-Mail und Wiederherstellungsverfahren werden auf gemeinsame Abhängigkeiten geprüft. Verfügt ein berechtigter Angehöriger über einen eigenen vorgesehenen Zugriff, wird auch dessen Ablauf getestet.</p><p>Wenn dich der digitale Euro, Bargeldgrenzen oder Kapitalverkehrskontrollen beschäftigen, übersetzen wir die Sorge in eine konkrete Aufgabe: eine rechtzeitig eingerichtete Reserve und mehrere praktisch nutzbare Zahlungsarten. Wir trennen heutige Konto- und Länderbedingungen von politischen Vorhaben. Bestehende Transfer- oder Verfügungssperren bestimmen die zulässigen Schritte; sie werden nicht durch einen anderen Zahlweg aufgehoben.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/vermoegen-uebertragen/\" data-route=\"/de/leistungen/vermoegen-uebertragen/\" data-link-description=\"Vermögensübertragung und rechtmäßige Verfügbarkeit zusammen vorbereiten.\"><span>Vermögen übertragen und legal verfügbar halten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/wissen/wiederzugang-telefon-email/\" data-route=\"/de/wissen/wiederzugang-telefon-email/\" data-link-description=\"Zugang und Kommunikation beim Ausfall von Telefon, SIM oder E-Mail vorbereiten.\"><span>Wenn Telefon, SIM und Haupt-E-Mail ausfallen</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-6",
+      "title": "Was du bei der Übergabe in der Hand hast",
+      "layout": "prose",
+      "body": "<p>Du erhältst die dokumentierten Kontoverhältnisse, vereinbarten Befugnisse, Gebühren und die Ergebnisse der durchgeführten Tests. Offen bleibt ausdrücklich sichtbar, wenn ein Institut noch entscheidet oder ein Zugang noch nicht eingerichtet ist.</p><p>Bei einem Kontowechsel gehen wir Ein- und Ausgänge durch: Arbeitgeber oder Kunden informieren, Lastschriften und Daueraufträge umstellen, letzte Abrechnungen sichern und die neue Zahlungsfolge kontrollieren. Der Abschluss ist erreicht, wenn der vereinbarte Wechsel erledigt und sein tatsächlicher Stand nachvollziehbar ist.</p>"
+    }
+  ],
+  "working": {
+    "title": "So arbeiten wir zusammen",
+    "body": "<p>Wir beginnen mit Wohnsitz, Zweck, Zielland und den benötigten Funktionen. Persönliche Nachweise folgen über den vereinbarten geschützten Weg. Die Identifizierung und Bankfreigaben erfolgen über das Verfahren des Instituts; Zugangsdaten bleiben unter deiner Kontrolle.</p>"
+  },
+  "nextWork": {
+    "title": "So geht es danach weiter",
+    "body": "<p>Steht der Zugang, kann ein konkreter <a href=\"/de/leistungen/vermoegen-uebertragen/\">Vermögenstransfer</a> vorbereitet werden. Die spätere <a href=\"/de/leistungen/vorbereitung-betreuen/\">Betreuung</a> hält wichtige Nachweise und Zugänge aktuell.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Welcher Zahlweg muss für dich funktionieren?",
+    "body": "Nenne deinen Wohnsitz, den vorgesehenen Ausweichort und die benötigten privaten oder geschäftlichen Zahlungen. Kontonummern und Vermögensunterlagen brauchst du dafür noch nicht zu senden."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [
+      "D01",
+      "D09",
+      "D03",
+      "D02",
+      "D11"
+    ],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "267",
+        "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+        "position": "Kernabschnitt 1: Zahlungsbedarf",
+        "purpose": "Zahlungsbedarf und Abhängigkeiten verstehen und passende Bankvorbereitung auswählen."
+      },
+      {
+        "line": "268",
+        "label": "Vermögen übertragen und legal verfügbar halten",
+        "target": "/de/leistungen/vermoegen-uebertragen/",
+        "position": "Kernabschnitt 5: Transfer-/Zugangsabhängigkeiten",
+        "purpose": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren."
+      },
+      {
+        "line": "269",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 2: Konten und Nachweise",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "270",
+        "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "position": "Kernabschnitt 5: Transfer-/Zugangsabhängigkeiten",
+        "purpose": "Legitimen Wiederkontakt und Wiederzugang ohne das übliche Gerät vorbereiten."
+      }
+    ],
+    "seedingSupporting": [
+      "D04",
+      "D10"
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages.",
+    "redaction": {
+      "package": "leistungen-a-de",
+      "seeding": [],
+      "sourceScope": "Eigenständige DACH-Neuredaktion nach PB-D65; Quellen und Abschnittsbelege in SEITEN-DE.jsonl.",
+      "mappedLinks": [
+        {
+          "line": "267",
+          "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+          "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+          "position": "Kernabschnitt 1: Zahlungsbedarf",
+          "purpose": "Zahlungsbedarf und Abhängigkeiten verstehen und passende Bankvorbereitung auswählen."
+        },
+        {
+          "line": "268",
+          "label": "Vermögen übertragen und legal verfügbar halten",
+          "target": "/de/leistungen/vermoegen-uebertragen/",
+          "position": "Kernabschnitt 5: Transfer-/Zugangsabhängigkeiten",
+          "purpose": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren."
+        },
+        {
+          "line": "269",
+          "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+          "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+          "position": "Kernabschnitt 2: Konten und Nachweise",
+          "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+        },
+        {
+          "line": "270",
+          "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+          "target": "/de/wissen/wiederzugang-telefon-email/",
+          "position": "Kernabschnitt 5: Transfer-/Zugangsabhängigkeiten",
+          "purpose": "Legitimen Wiederkontakt und Wiederzugang ohne das übliche Gerät vorbereiten."
+        }
+      ],
+      "seedingSupporting": [
+        "D01",
+        "D02",
+        "D03",
+        "D09",
+        "D11"
+      ],
+      "seedingScope": "Direktzuordnung und unterstützende Anwendung im deutschen Seitenjournal dokumentiert."
+    }
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Was wir für dich übernehmen",
+    "body": "<p>Wir erfassen deine Zahlungsabhängigkeiten, prüfen passende Kontoangebote für deinen Wohnsitz und Zweck und organisieren die Aufnahmevorbereitung. Nach Annahme begleiten wir die vereinbarte Einrichtung von Zugang, Karten, Befugnissen und Wiederzugang. Über die Kontoaufnahme und Kreditprodukte entscheidet das jeweilige Institut.</p>",
+    "items": [
+      [
+        "Bedarfsbild",
+        "Wer muss wem in welcher Währung bezahlen können?"
+      ],
+      [
+        "Kontoaufnahme",
+        "Anforderungen und Mittelherkunft mit dem konkreten Institut abstimmen."
+      ],
+      [
+        "Nutzbarkeit",
+        "Login, Zahlung, berechtigte Vertretung und Ersatzweg zusammen testen."
+      ]
+    ],
+    "costs": "Organisations- und Einrichtungsarbeit, Kontoführung, Karten, Währungsumtausch und Transfergebühren sind getrennte Positionen. Deine Reserve bleibt dein Kapital. Kreditprüfung und ein größerer Transfer erhalten einen eigenen Auftragsumfang."
+  },
+  "displayTitle": "Bankzugang und Liquidität im Ausland vorbereiten"
+}

@@ -1,0 +1,214 @@
+{
+  "route": "/en/countries/cyprus/",
+  "lang": "en",
+  "title": "Cyprus as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/zypern/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-1bec19c07c91e0",
+      "startLine": 16472
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-8e35d888aba839",
+      "startLine": 20951
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Cyprus as your Plan B | EXOBASIS",
+  "description": "Assess Cyprus for your family: residence routes, housing, essential services and practical preparation with EXOBASIS.",
+  "intro": "<p>You want a different foundation for your family and business. Cyprus calls for a clear assessment of residence rights, island supplies and the regional conflict environment. Tax or business considerations must be tested against your actual living and contingency objectives.</p>",
+  "countryContext": "/en/countries/cyprus/",
+  "linkPlan": [
+    {
+      "sourceLine": 1238,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1240,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1241,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1242,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1243,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1244,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1245,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1246,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1247,
+      "target": "/de/laender/zypern/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1501,
+      "target": "/en/countries/greece/",
+      "label": "Greece as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1503,
+      "target": "/en/countries/malta/",
+      "label": "Malta as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Your Europe: Residence rights",
+      "url": "https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "Republic of Cyprus: Immigration permits for investors",
+      "url": "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "official_indexed_text",
+      "limitation": "Direktabruf 403; offizieller indexierter Text gelesen. Nur Regulation-6(2)-Kategorienlogik übernommen, keine Beträge, Laufzeit- oder aktuelle Detailzusage."
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Ask us to prepare your Cyprus option",
+    "intent": "General enquiry"
+  },
+  "country": {
+    "name": "Cyprus",
+    "slug": "zypern",
+    "region": "Europe",
+    "map": "countries/zypern-locator.svg",
+    "imageAlt": "Locator map: Cyprus. Geographic orientation, not a safety assessment.",
+    "caption": "Geographic orientation. Not a travel, safety or border assessment.",
+    "summary": [
+      [
+        "Family and business",
+        "Plan living and business needs together while checking their legal bases separately."
+      ],
+      [
+        "Mediterranean island",
+        "Include regional exposure and actual access in the decision."
+      ],
+      [
+        "An appropriate route",
+        "Check existing personal rights before commissioning an investment route."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "Your starting point",
+      "body": "<p>Cyprus is an option when you are considering a European-area home or business base. A useful business location is not automatically a suitable family base. The applicable residence route, each relative’s rights and a home with workable services need to align. A company address or a tax argument does not establish those arrangements on its own.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "Contingency base and return",
+      "body": "<p>A Cypriot base remains connected to the eastern Mediterranean’s regional environment. Include travel disruption and island supplies explicitly in the scenario you are preparing for. A property is useful only when everyone can arrive lawfully and use it. Prepare the route back and funds for a longer stay, rather than treating first entry as completion of the plan. The island sits in the eastern Mediterranean and needs testing against your actual contingency scenario even if EU rights make legal residence easier. Plan air access, supplies, accommodation and an alternative return journey together. A company address gives the family no additional travel route.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "A lasting future for your family",
+      "body": "<p>Start with the people who will live there. Education, language, medical needs and reachable support define the housing search. A lease or purchase should follow that assessment. Staggered arrival and continuing responsibilities in the previous country also need arrangements, so that one parent is not left managing every unresolved task during the move. For eligible EU citizens and their families, start with the rights they already have; an investor programme is not mandatory for them. Third-country nationals need a different assessment. School admission, reachable specialist treatment and a suitable home turn a legal route into workable family life.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Mobile living",
+      "body": "<p>For a base used intermittently, check permitted work, presence, return and ongoing obligations. A Cypriot company connection does not establish a permanent personal right to live there. Match the work and household arrangement to the correct legal framework. Periodic use also requires agreed property care and someone reachable while you are away.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Existing rights and suitable routes",
+      "body": "<p>Eligible individuals should consider existing EU rights before a new investment route. The Republic of Cyprus also describes investor immigration permits under Regulation 6(2), with separate investment, evidence and family conditions. Ownership of property or a business is not permission for every activity. Confirm the relevant jurisdiction and the property’s position; rules for the Republic cannot simply be extended to other administered areas. EU free movement for those entitled to it and the Cypriot investor route under Regulation 6(2) have different applicants and requirements. Official investor information describes investment, income and dependant evidence; filing an application is not itself a residence decision. Apply statements about the Republic of Cyprus only within its competent jurisdiction.</p><p class=\"exb-citation\">Source: <a href=\"https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm\" rel=\"noreferrer\">Your Europe: Residence rights</a></p><p class=\"exb-citation\">Source: <a href=\"https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/\" rel=\"noreferrer\">Republic of Cyprus: Immigration permits for investors</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fcyprus%2F#short-enquiry\">Ask us to prepare your Cyprus option</a><p>A defined task can be requested directly. Personal documents follow only through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Regions and housing",
+      "body": "<p>Compare particular locations by daily use: education, specialist medicine, work and essential services should fit the home. A purchase requires independent checks of title, encumbrances and jurisdiction. The organisational work remains distinct: a suitable shortlist, prepared viewings, handover and a household ready to function on arrival.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Arrange your arrival abroad</a></p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schooling, healthcare and care",
+      "body": "<h3>Children and relatives</h3><p>Education, language and care schedules need to fit the home. Do not infer each relative’s eligibility from the main applicant’s permission. A school address without confirmed admission and a workable journey from home is little use to the family. For treatment and care, establish reachable providers, insurance conditions and individual acceptance. Island supplies and the actual home location belong in that assessment, not an abstract quality-of-life score.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare to move abroad with children and family</a></p><h3>Insurance and treatment</h3><p>Confirm coverage separately from the care actually available at the location.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and care abroad</a></p><h3>Continuing support</h3><p>Arrange medication, regular assistance and any further medical journeys before relocation.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Income, money and work",
+      "body": "<p>Separate the company structure, personal work, taxation and household payments. An economic advantage may coexist with requirements for actual management, evidence or administration. Appropriate specialists determine those questions. The practical plan must keep housing, schooling and care payable and your income accessible while the location changes. Budget the company location, personal work and available household funds separately. Whether a company meets management requirements and what taxes follow belong with the relevant specialist assignment. Neither a Cypriot residence permit nor a business address alone determines your tax residence.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Documents and preparation time",
+      "body": "<p>Establish the residence basis first. Then obtain the relevant identity, family, insurance and investment evidence. Confirm document formats and attendance requirements before linking travel and appointments. Property assessment, the application and a prepared arrival each need their own evidence of completion. None substitutes for a decision by the responsible authority. Begin with personal EU eligibility or the appropriate third-country route, then match family, insurance and any investment records to it. Treat a property contract as part of the route only after reviewing title, encumbrances and competent law. Travel and in-person appointments follow the authority’s requirements.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a></p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Ongoing obligations",
+      "body": "<p>Maintain residence evidence, any continuing investment conditions and the home as distinct workstreams. Record which changes to family, work or assets require reassessment. A second base needs attention even when unused: contacts, payments, utilities and readiness should be checked before the next stay. An investor route may have continuing conditions; under EU rights, changes in family or work can alter the supporting evidence. Maintain the home and island access for intermittent use. Returning to the former country requires a separate review of housing, work and tax.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Review and maintain your preparations</a></p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Practical preparation",
+      "body": "<p>EXOBASIS can coordinate your Cyprus location assessment and practical preparation. We connect documents, specialist appointments, housing and arrival to your family and business requirements. Legal and tax responsibilities remain explicit. Commission the work you need without an automatic company formation, property purchase or commitment to permanent relocation.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Choose suitable countries and locations</a></p><h3>Options to compare</h3><div class=\"exb-country-related\"><article><a class=\"exb-text-link\" href=\"/en/countries/greece/\">Greece as a personal alternative</a><p>Greece adds mainland and island choices with their own residence and property requirements.</p></article><article><a class=\"exb-text-link\" href=\"/en/countries/malta/\">Malta as a personal alternative</a><p>Malta presents different housing, cost and family-service considerations on a small island.</p></article></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fcyprus%2F#short-enquiry\">Ask us to prepare your Cyprus option</a><p>A defined task can be requested directly. Personal documents follow only through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Does a Cyprus company amount to a prepared family base?",
+    "answer": "No. A company, personal residence rights, permitted work and usable accommodation are separate requirements. They need to be connected in the personal plan."
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "route": "/de/laender/vae/",
+  "lang": "de",
+  "title": "VAE als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/uae/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-b6257fc454042c",
+      "startLine": 15624
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-9d9051691ae7bd",
+      "startLine": 19855
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern in die VAE: Dubai, Aufenthalt und Hauskauf | EXOBASIS",
+  "description": "VAE und Dubai als Wohn- und Unternehmensbasis: Aufenthalt, Familie, Miete, Immobilienkauf, Bankzugang und aktuelle regionale Risiken zusammen betrachten.",
+  "intro": "<p>Du willst selbst bestimmen, wo deine Familie lebt und von wo du dein Unternehmen führst. Die VAE können dafür eine konkrete Standortoption sein. Wer zugleich einen Ausweg vor Krieg sucht, muss ihre eigene regionale Gefährdung ernst nehmen. Ein brauchbarer Plan verbindet deshalb Aufenthalt, Wohnort und Geldzugriff mit einer zweiten Entscheidung: Wohin könnt ihr gehen, wenn die Lage am Golf kippt?</p>",
+  "countryContext": "/de/laender/vae/",
+  "linkPlan": [
+    {
+      "sourceLine": 1388,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1390,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1391,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1392,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1393,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1394,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1395,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1396,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1397,
+      "target": "/en/countries/uae/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1532,
+      "target": "/de/laender/panama/",
+      "label": "Panama als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1534,
+      "target": "/de/laender/malaysia/",
+      "label": "Malaysia als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "UK Foreign, Commonwealth & Development Office: UAE travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates",
+      "section": 2,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "ICP: Golden Residency",
+      "url": "https://icp.gov.ae/en/services/uae-golden-residency/",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "ICP: Green Residency",
+      "url": "https://icp.gov.ae/en/services/uae-green-residency/",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Vorbereitung für die VAE anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "country": {
+    "name": "VAE",
+    "slug": "vae",
+    "region": "Weitere untersuchte Optionen",
+    "map": "countries/vae-locator.svg",
+    "imageAlt": "Lagegrafik: VAE. Geografische Orientierung, keine Sicherheitsbewertung.",
+    "caption": "Geografische Orientierung. Keine Reise-, Sicherheits- oder Grenzbewertung.",
+    "summary": [
+      [
+        "Standort und Krisenziel trennen",
+        "Eine Geschäftsverbindung in Dubai beantwortet nicht die Frage nach einem krisenfernen Familienort."
+      ],
+      [
+        "Jede Person einbeziehen",
+        "Eigene Residence, Familienstatus, Schule und Krankenversicherung zusammen organisieren."
+      ],
+      [
+        "Nicht beim Visum stehen bleiben",
+        "Bankfunktionen, Wohnvertrag, laufende Kosten und Erreichbarkeit machen die Basis nutzbar."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Für wen die VAE als Wohn- und Unternehmensbasis passen",
+      "body": "<p>Die Vereinigten Arabischen Emirate sind vor allem dann eine konkrete Option, wenn du dort arbeiten, eine begründete unternehmerische Tätigkeit aufbauen oder mit passendem Status für einen ausländischen Arbeitgeber arbeiten möchtest. Hinzu kommen qualifizierte Investoren- und andere besondere Aufenthaltswege. Für eine wirtschaftlich etablierte Familie ist entscheidend, ob sich daraus ein tragfähiger gemeinsamer Alltag ergibt, nicht nur ein Aufenthaltstitel für den Hauptantragsteller.</p><p>Dubai, Abu Dhabi und andere Emirate sind keine austauschbaren Adressen. Unternehmenstätigkeit, Schule, Arbeitswege, Gesundheit und Wohnkosten führen zu unterschiedlichen Standortentscheidungen. Wenn deine Hauptsorge Krieg und der Verlust von Bewegungsfreiheit ist, gehört die regionale Lage ganz an den Anfang. Ein Standort kann geschäftlich passen und als alleinige Krisenbasis trotzdem ungeeignet sein.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Die VAE als Zufluchtsort: die regionale Lage gehört in die Entscheidung",
+      "body": "<p>Stand 5. Oktober 2026: Das Auswärtige Amt rät von nicht notwendigen Reisen in die VAE ab. Es beschreibt erneute militärische Schläge in der Region sowie das fortbestehende Risiko ausgeweiteter Kampfhandlungen und gesperrten Flugverkehrs. Maßgeblich vor einer Reise sind die jeweils aktuellen <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/vereinigtearabischeemiratesicherheit-202332\">Reise- und Sicherheitshinweise für die VAE</a>. Für jemanden, der gerade wegen Krieg einen möglichst krisenfernen Ort sucht, ist das ein wesentlicher Gegenpunkt zur Golfregion.</p><p>Plane daher zwei unterschiedliche Situationen: die geordnete Einrichtung eines Wohn- oder Unternehmensstandorts und die mögliche Unterbrechung der Verbindung dorthin oder von dort weg. Auch mit gebuchtem Flug und gültiger Residence Card könnt ihr von einer Einstellung des Flugverkehrs betroffen sein. Ein Landweg benötigt seinerseits passende Einreise- und Transitberechtigungen, geöffnete Übergänge und eine tatsächlich nutzbare Weiterreise.</p><p>Wer schon in den VAE lebt, braucht die Ausreiseplanung aus diesem bestehenden Standort. Wer erst aus Deutschland, Österreich oder der Schweiz zuziehen will, muss zunächst entscheiden, ob die VAE den eigenen Krisenzweck erfüllen. Diese Richtungen werden nicht vermischt. Die Frage <a href=\"/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/\">wohin deine Familie bei Krieg gehen kann</a> führt zum Vergleich von erreichbarer Zwischenlösung und einem weiteren vorbereiteten Ziel.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Als Familie in Dubai oder einem anderen Emirat leben",
+      "body": "<p>Für einen dauerhaften Alltag beginnt die Rechnung nicht beim Nettogehalt. Hinzu kommen Wohnung, Schule, Krankenversicherung, tägliche Mobilität, Betreuung sowie wiederkehrende Aufenthalts- und Verwaltungskosten. Eine international ausgerichtete Schule kann zum bisherigen Bildungsweg passen, muss aber einen geeigneten Platz anbieten. Der Wohnort sollte aus diesen täglichen Wegen folgen.</p><p>Die Sommerhitze beeinflusst den Alltag unmittelbar. Für Kinder, ältere Menschen und Personen mit Vorerkrankungen sind kurze Wege, verlässliche Kühlung und erreichbare Behandlung wesentlich. Besichtige eine Wohnung deshalb auch auf Wartungszustand, Klimatisierung und Zuständigkeiten bei Ausfall. Eine Familie, die einen ruhigen Rückzugsort sucht, kann an einem anderen Wohngebiet mehr gewinnen als an einer bekannten Adresse.</p><p>Bei unterschiedlichen Staatsangehörigkeiten, unverheirateten Partnern, Sorge- oder Unterhaltsfragen wird der Status jeder Person separat vorbereitet. Wer einen Angehörigen sponsert, muss wissen, was bei Änderung der eigenen Beschäftigung oder Residence mit dessen Aufenthalt und Versicherung geschieht. Diese Zusammenhänge gehören vor die gemeinsame Abreise.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Zweite Basis, längere Abwesenheit und Rückkehr in die VAE",
+      "body": "<p>Für eine zeitweise genutzte VAE-Basis müssen die Abwesenheitsregeln deiner Aufenthaltskategorie, Bankanforderungen und Wohnungsbetreuung zusammenpassen. Bei regulären Aufenthaltswegen können lange Auslandsaufenthalte Folgen für die Gültigkeit haben. Die GDRFA nimmt Golden-Residence-Inhaber ausdrücklich von der 180-Tage-Abwesenheitsregel aus; die übrigen Voraussetzungen und das Ablaufdatum bleiben bestehen. Das ist kein allgemeiner Vorteil jedes Investoren- oder Firmenvisums.</p><p>Bei einer nur zeitweise bewohnten Wohnung müssen Wartung und Kontrolle weiterlaufen: Klimaanlage, Wasser, Post, Zugang und mögliche Schäden. Vor der nächsten Anreise sollten Wohnung, Versicherungen und Dokumente aktuell sein. Ändert sich dein tatsächlicher Wohnsitz, gehört diese Änderung auch zur Bank. Bei Emirates NBD ist die <a href=\"https://www.emiratesnbd.com/en/help-and-support/update-your-residency-status\">Umstellung auf einen Nichtansässigenstatus</a> ein eigener Vorgang; das Institut verlangt Nachweise und kann Produktfunktionen ändern.</p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Einreise, Residence und Golden Visa in Dubai unterscheiden",
+      "body": "<h3>Besuch und längerfristiger Aufenthalt</h3><p>Für gewöhnliche deutsche, österreichische und Schweizer Reisepässe beschreibt Emirates eine Einreisemöglichkeit mit insgesamt 90 Aufenthaltstagen innerhalb des maßgeblichen 180-Tage-Zeitraums. Die <a href=\"https://www.emirates.com/english/before-you-fly/visa-passport-information/uae-visa-information/\">Einreiseübersicht für die VAE</a> ist nach Staatsangehörigkeit zu lesen; andere Pässe in deiner Familie können einen anderen Weg benötigen. Ein Besuch ist von der Residence und von einer Arbeitsberechtigung zu unterscheiden.</p><p>Für einen längerfristigen Wohnort kommen etwa Beschäftigung mit Arbeitgeber-Sponsoring, ein passender Unternehmer-/Investorenweg, Virtual Work oder eine qualifizierte besondere Residence infrage. Die Wahl folgt deiner tatsächlichen Tätigkeit. Firmengründung, Geschäftsbankkonto und Aufenthaltsverfahren sind dabei getrennte Aufgaben mit eigenen Voraussetzungen.</p><h3>Virtual Work: aus den VAE für einen ausländischen Arbeitgeber arbeiten</h3><p>Die GDRFA Dubai nennt für <a href=\"https://www.gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8\">Virtual Work</a> den Nachweis einer Tätigkeit für eine Organisation außerhalb der VAE, mindestens 3.500 US-Dollar Monatseinkommen und eine gültige Krankenversicherung. Die Residence ist für ein Jahr vorgesehen und verlängerbar; Familiensponsoring ist für denselben Zeitraum möglich. Die vorgeschaltete Einreisephase von 60 Tagen ist von dieser Aufenthaltsdauer zu unterscheiden.</p><h3>Golden Visa und Immobilienbesitz</h3><p>Die aktuelle <a href=\"https://www.gdrfad.gov.ae/en/services/8ea80da4-f43e-11eb-0320-0050569629e8\">GDRFA-Dubai-Leistung für Investoren</a> nennt eine Golden Residence von zehn Jahren und für den Immobilienweg Eigentum im Wert von mindestens zwei Millionen AED. Der Wert muss durch die vorgesehene DLD-Bescheinigung getragen sein; bei Miteigentum zählt der eigene qualifizierende Anteil. Auch belastetes Eigentum wird in dieser Leistungsbeschreibung einbezogen. Zugleich verlangt die Behörde die fortbestehende qualifizierende Investition und entsprechende Sicherung im Grundstücksverfahren. Ein Werbeangebot für ein Objekt ist deshalb noch kein bestätigter Aufenthaltsweg.</p><p>Ein Hauskauf unter anderen Voraussetzungen, eine gewöhnliche Residence und eine Golden Residence sind verschiedene Fälle. Vor einer Kapitalbindung werden Objekt, Eigentumsanteil, Finanzierung, zuständige Behörde und Familienrechte zusammengeführt. Eine bereits konkrete Aufgabe kannst du <a href=\"/de/anfrage/\">direkt für die VAE anfragen</a>.</p>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Wohnort, Mietvertrag und Immobilienkauf in den VAE",
+      "body": "<h3>Dubai, Abu Dhabi und angrenzende Suchräume</h3><p>Dubai kann naheliegen, wenn Arbeit, Geschäftskontakte oder die gewünschte Schule dort liegen. Abu Dhabi ist ein eigener Suchraum mit anderen täglichen Wegen und zuständigen Stellen. Auch Sharjah oder Ras Al Khaimah können in eine Standortprüfung gehören. Eine dort gefundene Wohnung ist aber nicht schon die günstigere Gesamtlösung, wenn Schul- und Arbeitswege den Tag bestimmen. Vergleiche Wohnlage, Verkehr, Versicherungsnetzwerk und reale Gesamtkosten.</p><h3>Mieten in Dubai: Zahlung und Registrierung vor Einzug klären</h3><p>Eine möblierte Übergangslösung verschafft Zeit für die endgültige Wohnungssuche. Beim längerfristigen Mietvertrag zählen Eigentümerberechtigung, Mietbetrag, vereinbarte Zahlungstermine, Kaution, Nebenkosten, Wartung und Kündigungsbedingungen. Die Registrierung im Ejari-System verbindet in Dubai Vertrag und behördliche Nachweisführung. Kläre vor der Unterschrift auch die Zahlungsform: Wenn Schecks vereinbart sind, muss dein Konto diese Funktion tatsächlich bieten. Ein Sparkonto allein löst das nicht.</p><p>Für andere Emirate gelten die dortigen Registrierungs- und Mietverfahren. Übernimm Dubai-Unterlagen deshalb nicht unverändert. Die <a href=\"https://dubailand.gov.ae/en/frequently-asked-questions/\">DLD-Auskunft zu Miet- und Immobilienverfahren</a> dient für Dubai, nicht als landesweit einheitliches Mietrecht.</p><h3>Kaufrecht: Freehold ist an das konkrete Gebiet gebunden</h3><p>In Dubai erlaubt Artikel 4 des <a href=\"https://dlp.dubai.gov.ae/Legislation%20Reference/2006/Law%20No.%20%287%29%20of%202006%20Concerning%20Real%20Property%20Registration%20in%20the%20Emirate%20of%20Dubai.html\">Gesetzes Nr. 7/2006</a> Ausländern Eigentum in den dafür bestimmten Gebieten sowie dort vorgesehene Nutzungs- oder langfristige Mietrechte bis zu 99 Jahren. Freehold, Usufruct und langfristige Lease-Rechte sind nicht dasselbe. Für ein konkretes Objekt werden Gebiet, Rechtsart, Titel, Eigentümer, Belastungen und Verfügungsberechtigung beim Dubai Land Department geprüft. Das Kaufrecht anderer Emirate folgt deren eigener Regelung.</p><p>Für eine kurzfristig nutzbare Familienbasis spricht die tatsächliche Verfügbarkeit eines fertiggestellten Objekts. Ein Off-plan-Kauf verlangt zusätzlich die Prüfung von Projektregistrierung, Escrow-Konto, Baufortschritt, Vertrag und Übergabefrist; ein künftiger Fertigstellungstermin verschafft euch heute noch keine Unterkunft. Bei bestehenden Wohnungen sind Gemeinschafts- und Servicegebühren, Rückstände, Zustand und gegebenenfalls das erforderliche Developer-NOC Teil der Prüfung.</p><p>Die <a href=\"https://dubailand.gov.ae/en/eservices/property-sale-registration/\">DLD-Leistung zur Kaufregistrierung</a> nennt Registrierungsgebühren von jeweils zwei Prozent für Verkäufer und Käufer sowie weitere Verfahrensgebühren. Wer wirtschaftlich welche Kosten trägt, gehört ausdrücklich in eure Vertragskalkulation. Dazu können Maklerhonorar, unabhängige Rechtsprüfung, Finanzierung, NOC und laufende Service Charges kommen. Vergleiche deshalb die gesamte Erwerbs- und Haltekalkulation, nicht nur den Objektpreis.</p><p>EXOBASIS kann den <a href=\"/de/leistungen/ankunft-organisieren/\">Wohnungs- oder Immobilienkaufauftrag bis zur Übergabe organisieren</a>: Bedarf und Suchgebiet, Besichtigungen, unabhängige Titel- und Vertragsprüfung, Abstimmung mit zugelassenen örtlichen Beteiligten, Kaufabwicklung, Übergabe und Einrichtung. Die Residence-Prüfung wird dabei vor der Investitionsentscheidung angeschlossen.</p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Krankenversicherung und Angehörige zuverlässig einbinden",
+      "body": "<p>Für Dubai stellt die KHDA mit dem <a href=\"https://web.khda.gov.ae/en/Guides/Parents/Schools-Fees-Fact-Sheet-FAQs\">School Fees Fact Sheet</a> einen konkreten Kostenvergleich bereit: Neben Unterrichtsgebühren werden weitere schulbezogene Leistungen sichtbar. Prüfe am passenden Jahrgang Lehrplan, Aufnahme, Transport, Materialien und Zusatzkosten. Ein Platz für ein Kind sagt noch nichts über die passende Aufnahme seines Geschwisters. Die <a href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Vorbereitung mit Kindern und Angehörigen</a> verbindet Schule und Betreuung mit Reise- und Sorgeberechtigung.</p><p>Krankenversicherung wird in den VAE nach Emirat, Beschäftigung und Sponsoring organisiert. In Dubai muss die Absicherung von Angehörigen mitgedacht werden, wenn sie nicht vom Arbeitgeber umfasst ist; in Abu Dhabi bestehen eigene Vorgaben. Die <a href=\"https://u.ae/en/information-and-services/health-and-fitness/Healthcare-access-and-insurance/getting-a-health-insurance\">staatliche Übersicht zur Krankenversicherung</a> erklärt diese Unterschiede. Eine Police für ein Emirat ist nicht automatisch der passende Zugang zur gewünschten Klinik in einem anderen.</p><p>Vergleiche das tatsächliche Versorgungsnetz, Selbstbehalte, Ausschlüsse, bestehende Erkrankungen, Medikamente und gegebenenfalls Pflegebedarf. Bei kontrollierten Arzneimitteln gehören die Einfuhrregeln und benötigten Unterlagen vor die Reise. Für Angehörige werden Aufnahme und Kostenträger ausdrücklich vereinbart. Bei längerfristiger Hilfe verbindet die Vertiefung <a href=\"/de/wissen/familie-alltag/pflege-medikamente/\">Pflege und Medikamente</a> den Behandlungsplan mit Vorrat und verlässlicher Unterstützung am Wohnort. <a href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a> vertieft die Leistungsfragen; über <a href=\"/de/leistungen/familie-unternehmen/\">Familie und Unternehmen vorbereiten</a> organisieren wir die fallbezogenen Übergänge.</p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Bankzugang, Unternehmensbetrieb und Steuern in den VAE",
+      "body": "<h3>Das Konto muss zu deinem Status und zu den Zahlungen passen</h3><p>Ein Emirates-ID-Dokument, ein Visum und ein Bankkonto sind drei verschiedene Ergebnisse. Bei Emirates NBD richtet sich das <a href=\"https://www.emiratesnbd.com/en/accounts/current-accounts/standard-current-account\">Standard Current Account</a> an die dafür berechtigten Kundengruppen; für ausländische Residents gehören Emirates ID und Pass zu den Identitätsunterlagen. Die Bank bietet Nichtansässigen unter eigenen Bedingungen ein <a href=\"https://www.emiratesnbd.com/en/accounts/savings-accounts/savings-account\">Savings Account</a> mit Pass und weiteren Adress- oder Bankbelegen an. Daraus folgen nicht automatisch dieselben Zahlungs- und Scheckfunktionen.</p><p>Für eure Ankunft werden deshalb Kaution, Miete, Schulzahlung und Versicherung den tatsächlich verfügbaren Kontofunktionen zugeordnet. Ein Firmenkonto ist zusätzlich von der persönlichen Zahlungsfähigkeit getrennt. Mittelherkunft, Geschäftsunterlagen und wirtschaftlicher Zweck werden sauber aufbereitet. Teste einen kleinen zulässigen Transfer und den Zugriff vor einer großen Fälligkeit, statt die erste Mietzahlung zum Funktionstest zu machen.</p><p>Wenn du wegen Debanking oder staatlichem Vermögenszugriff vorsorgst, zählt ein zweiter tatsächlich nutzbarer Zahlungsweg. Ein neues VAE-Konto beseitigt keine bereits bestehende rechtliche Sperre im Herkunftsland. Auch Kontozugang, Telefonauthentifizierung und die Befugnisse einer Vertretung müssen zusammenpassen. Die Wissensseite <a href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Bankkonto und Zahlungsfähigkeit</a> erklärt diese Kette; mit <a href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität vorbereiten</a> kannst du ihre konkrete Einrichtung beauftragen.</p><h3>Steuerfreiheit nicht aus der Adresse ableiten</h3><p>Ein Umzug oder eine Free-Zone-Gesellschaft beantwortet weder die DACH-Wegzugsfrage noch alle VAE-Steuerpflichten. Die Federal Tax Authority unterscheidet bei natürlichen Personen zwischen Gehalt, privatem Anlage- beziehungsweise qualifiziertem Immobilieninvestment und eigener Geschäftstätigkeit. Nach ihrem <a href=\"https://tax.gov.ae/Datafolder/Files/Pdf/2024/CT%20Bulletin/Basic%20Tax%20Information%20bulletin-%20Natural%20Person-English.pdf\">Corporate-Tax-Merkblatt für natürliche Personen</a> wird für geschäftliche Tätigkeit die jährliche Umsatzschwelle von einer Million AED relevant; die genannten nichtgeschäftlichen Einkunftsarten werden gesondert behandelt. Unternehmen und Gesellschaften haben ihre eigenen Regeln.</p><p>Vor der Verlagerung werden daher Arbeits- und Geschäftsleitungsort, Beteiligungen, verbleibende Wohnung und Einkünfte im Herkunftsland zusammen betrachtet. Die <a href=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\">Wegzugs- und Steuerplanung</a> gehört ebenso dazu wie jemand, der bei deinem Ausfall Zahlungen und Unterschriften im Betrieb übernehmen kann. <a href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\">Vollmachten und Vertretung</a> müssen dafür zur Bank und zu den Befugnissen in der Gesellschaft passen. Über <a href=\"/de/leistungen/familie-unternehmen/\">Familie und Unternehmen vorbereiten</a> verbinden wir diese Zuständigkeiten mit der persönlichen Anreise- und Familienplanung.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Die VAE-Vorbereitung vom Dokument bis zur nutzbaren Wohnung",
+      "body": "<p>Zuerst steht der tatsächliche Aufenthaltsgrund jeder Person. Daraus folgen Pass- und Personenstandsunterlagen, Arbeits- oder Investitionsnachweise, erforderliche Beglaubigungen und Übersetzungen. Erst danach werden die passenden Schritte für Einreise, medizinische Untersuchung, Emirates ID und Residence koordiniert. Schulaufnahme, Versicherung und Wohnung brauchen dieselben korrekt geführten Personen- und Familiendaten.</p><p>Mit dem Auftrag <a href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a> übernehmen wir die Organisation der vereinbarten Unterlagen und Termine sowie die erforderliche örtliche Fachausführung. Der Ablauf wird mit Bank, Unterkunft und Versorgung verbunden. So ist nicht nur ein Antrag abgegeben, sondern die konkrete Ankunft vorbereitet.</p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Was bei Abwesenheit, Statuswechsel und Lageänderung weiterläuft",
+      "body": "<p>Für eine laufende Basis werden Residence und Emirates ID, Versicherungen, Mietvertrag oder Eigentumsbetreuung, Bankunterlagen und gegebenenfalls Unternehmenslizenz in einem gemeinsamen Kalender geführt. Wenn die Beschäftigung endet, die gesponserte Person wechselt oder ihr längere Zeit im Ausland bleibt, werden die betroffenen Folgeschritte rechtzeitig koordiniert. Banken können für geänderte Verhältnisse neue Unterlagen und Produktanpassungen verlangen.</p><p>Für den Krisenfall bleibt ein weiterer erreichbarer Standort wichtig. Vereinbare Auslöser für eine frühere Ausreise, Zuständigkeiten für Kinder und Angehörige und den <a href=\"/de/wissen/wiederzugang-telefon-email/\">Wiederzugang bei Verlust von Telefon oder E-Mail</a>. Die <a href=\"/de/leistungen/vorbereitung-betreuen/\">laufende Betreuung deiner Vorbereitung</a> kann vereinbarte Fristen, Wohnungsaufgaben und Aktualisierungen zusammenhalten. Reiseverfügbarkeit und die konkrete Lage werden bei der Aktivierung erneut beurteilt.</p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Mit Panama und Malaysia vergleichen und den Auftrag abgrenzen",
+      "body": "<p><a href=\"/de/laender/panama/\">Panama</a> gehört als geografisch andere Option in den Vergleich, wenn du deine Familienbasis bewusst außerhalb des Golfraums aufbauen möchtest. Stelle Aufenthaltsweg, Sprache, Erreichbarkeit aus Europa, Behandlung und Unternehmensalltag denselben VAE-Anforderungen gegenüber. Die andere Region ist ein Vergleichsgrund, noch kein pauschales Sicherheitsurteil.</p><p><a href=\"/de/laender/malaysia/\">Malaysia</a> ist eine weitere Vergleichsoption für eine asiatische Familienbasis. Entscheidend sind der konkret passende Aufenthaltsweg, Schul- und Gesundheitszugang sowie eure tatsächlichen Einkommens- und Nutzungsbedingungen. Ein Programmname oder ein Fernreiseeindruck ersetzt diese Gegenprüfung nicht. Mit der Leistung <a href=\"/de/leistungen/laender-standortauswahl/\">Länder und Standorte auswählen</a> machen wir die Unterschiede für eure Entscheidung nutzbar.</p><p>Du kannst eine abgegrenzte Aufgabe direkt vergeben: den passenden Aufenthaltsweg vorbereiten, Wohnung oder Immobilie suchen und den Kauf organisieren, Bankzugang einrichten, die Familie begleiten oder die bestehende Basis betreuen. Nenne uns, ob du zuziehen, einen zweiten Standort schaffen oder bereits vor Ort bestehende Verhältnisse ordnen willst. <a href=\"/de/anfrage/\">Vorbereitung für die VAE anfragen</a>. Wenn du noch keine passende Aufgabe benennen kannst, dient die kostenlose 20-Minuten-Orientierung zur ersten Zuordnung.</p>"
+    }
+  ],
+  "faq": {
+    "question": "Ist ein Golden Visa in Dubai bereits ein vollständiger Plan B für die Familie?",
+    "answer": "Eine Golden Residence löst einen bestimmten Aufenthaltsweg. Für eine nutzbare Familienbasis kommen die Rechte aller Angehörigen, Wohnung, Schule, Versicherung und funktionierende Zahlungswege hinzu. Wer wegen Krieg vorsorgt, muss außerdem die regionale Lage und ein weiteres erreichbares Ziel in die Entscheidung aufnehmen."
+  },
+  "displayTitle": "In die VAE auswandern: Wohnort, Unternehmen und Familie vorbereiten"
+}

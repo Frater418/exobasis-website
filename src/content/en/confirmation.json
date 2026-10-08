@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/enquiry/confirmation/",
+  "lang": "en",
+  "title": "Enquiry submitted",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-20e456d616743a"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-5ec509ae1fc260"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "kind": "confirmation",
+  "displayTitle": "Your enquiry status",
+  "eyebrow": "Contact / Status",
+  "seoTitle": "Your enquiry status | EXOBASIS",
+  "description": "Check whether your EXOBASIS enquiry was sent, see what happens next and return to the contact page if you need to.",
+  "intro": "<p>The message below shows whether a submission has been confirmed for this visit.</p>",
+  "sections": [
+    {
+      "id": "c-status",
+      "title": "Has your message been sent?",
+      "body": "<p>We cannot confirm a submission for this visit. Opening this page directly or checking the form in its local preview does not send a message.</p><p>If you just used the form, check the result shown there before sending again. Email or encrypted-contact messages are confirmed through their own contact route.</p>"
+    },
+    {
+      "id": "c-rueckweg",
+      "title": "After a confirmed submission",
+      "body": "<p>Once your enquiry has been sent, we use the reply address you provided to clarify the task and the next step. You may want a specific job carried out, an initial assessment or a free orientation call. We agree the scope and costs of any work with you before you commission it.</p><p>The sending confirmation means the message has been accepted for delivery. Appointments, assignments and payments each require their own confirmation.</p><p>For an existing assignment, continue through your agreed contact. Keep identity documents, financial records and other sensitive information for the protected exchange arranged for your work.</p>"
+    },
+    {
+      "id": "c-orientierung",
+      "title": "What would you like to explore next?",
+      "body": "<p>See <a href=\"/en/how-we-work/\">how EXOBASIS takes an assignment from agreement to practical handover</a>, or find the specific work you need in <a href=\"/en/services/\">our services</a>.</p>"
+    }
+  ]
+}

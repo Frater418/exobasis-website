@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/initial-assessment/",
+  "lang": "en",
+  "title": "Personal initial assessment",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-36be7e8f169d81"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-31e33d2ae561b1"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Decide what to put in place first",
+  "seoTitle": "Personal Plan B assessment and decision brief | EXOBASIS",
+  "description": "Clarify your main Plan B decision with a prepared 60-minute conversation, a personal decision brief and limited follow-up on the agreed question.",
+  "intro": "<p>You want your family to have somewhere to go and the means to act. War, political repression or the prospect of losing access to what you have built may have made the decision to prepare clear. What is less clear is where to start, which existing arrangements you can rely on and what needs attention first.</p><p>The <strong>personal initial assessment</strong> gives that decision a defined scope. EXOBASIS prepares your main question, discusses it with you in a <strong>60-minute conversation</strong> and delivers a <strong>personal decision brief</strong> with the reasoning, priorities and next steps. A limited follow-up on the agreed question is included.</p>",
+  "primary": {
+    "label": "Enquire about an initial assessment",
+    "intent": "Personal initial assessment"
+  },
+  "summary": {
+    "kicker": "From uncertainty to a next step",
+    "title": "One main question. A written decision brief.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "An open notebook on a terrace, an illustration of personal planning.",
+    "facts": [
+      [
+        "Prepared for your situation",
+        "Your main question, existing arrangements and relevant dependencies"
+      ],
+      [
+        "60-minute conversation",
+        "Discuss the options, trade-offs and order of action"
+      ],
+      [
+        "Written result and follow-up",
+        "A personal decision brief and limited follow-up on the agreed question"
+      ]
+    ]
+  },
+  "scope": {
+    "id": "scope",
+    "title": "The work included in your assessment",
+    "body": "<p>The assessment helps you make one main decision. That might be whether to prepare a temporary fallback or a lasting family base, which gap in your preparations to close first, or how a move could affect the business and people who depend on you. We consider the connected issues that could change the answer.</p><p>Your assignment includes preparation, the 60-minute conversation, a written decision brief and limited follow-up. The brief sets out the suitable directions, the reasons for the recommendation and the questions that need further evidence or specialist work. It gives you a basis for deciding where to commit time and money.</p>",
+    "items": [
+      [
+        "A reasoned direction",
+        "See which options fit your circumstances, where they differ and what would make an option unsuitable."
+      ],
+      [
+        "Clear priorities",
+        "Understand what needs to happen first, what depends on it and who needs to be involved."
+      ],
+      [
+        "A brief you can use",
+        "Keep the findings for your own decisions, your existing advisers or the next piece of work you commission."
+      ]
+    ],
+    "costs": "The assessment is a paid, standalone assignment. Before you commission it, we agree the total fee, scope, appointment and extent of follow-up. Any additional research, specialist work or practical implementation is identified and priced separately."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Define the decision you need to make",
+      "body": "<p>We start with the question you want answered and the decision it should help you make. You might want a second base while keeping your current home, a permanent move for your family, or one weak point in your preparations resolved. State what you already have and what would count as a useful result.</p><p>Once the assignment is agreed, we gather the information needed for that question through the protected route arranged with you. Relevant facts may include citizenships, current residence, people who need to move together, work commitments and the time or budget available. We carry forward information you have already provided and ask you to confirm or correct it.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-2",
+      "title": "Preparation that follows your circumstances",
+      "body": "<p>EXOBASIS reviews the agreed information and existing work before the conversation. We look for the dependency that could change your decision. A destination may suit your preferences while a family member still needs a residence route; a second account may be of little use if access depends on the same unavailable phone.</p><p>For someone leaving the UK and someone currently living in the UAE, the relevant history and existing arrangements can be different. Citizenship, residence, family circumstances and the intended destination are considered separately. We identify which facts are established, which need confirmation and where a qualified legal, tax or other specialist needs to answer a defined question.</p><p>If accommodation or a property purchase is part of your plan, we first clarify its purpose: a place for the initial arrival, a base kept ready during your absence or a permanent home. That choice affects the search, the ongoing commitments and the work to arrange next.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-3",
+      "title": "Your prepared 60-minute conversation",
+      "body": "<p>We work through the options and their consequences for your main question. You can challenge the recommendation, explain a priority that has changed and discuss the practical trade-offs. The aim is to decide what deserves action first and what can sensibly wait.</p><p>We agree the conversation language, time zone and contact route beforehand. The <strong>free 20-minute orientation call</strong> serves a different purpose: it helps establish whether EXOBASIS is a fit and which work you need. You can request the paid assessment directly, without an orientation call.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-4",
+      "title": "Your personal decision brief",
+      "body": "<p>The written brief brings the findings together so you can use them after the conversation. It explains the recommendation rather than leaving you to reconstruct it from notes.</p><ul><li><strong>Your main question and starting point:</strong> what you want to decide and which existing arrangements matter.</li><li><strong>Options and trade-offs:</strong> the reasons to pursue, defer or rule out a direction.</li><li><strong>Open dependencies:</strong> missing evidence and the specific questions for any necessary specialist.</li><li><strong>The order of work:</strong> priorities, the next responsible person or service and what needs to be settled before moving on.</li></ul><p>For example, if your question is how to establish a family base, the brief can put residence clarification, a location comparison and accommodation in a sensible order. You decide which next step to take. We hand the brief to the agreed recipients through the protected route arranged with you.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-5",
+      "title": "A focused follow-up on your question",
+      "body": "<p>Use the included, limited follow-up to clarify the brief or a point about the main question. If a fact has been recorded incorrectly, we correct it. The agreed scope and follow-up period make clear how to raise those questions.</p><p>If your circumstances change or a different main question emerges, we identify the additional work before proceeding. Findings that still apply remain part of the basis for your next step.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-6",
+      "title": "Choose the next work that fits",
+      "body": "<p>You can use the brief yourself, share it with your existing advisers or ask EXOBASIS to carry out further work. The assessment stands on its own.</p><p>If the next decision needs a detailed comparison of destinations, our <a href=\"/en/services/country-location-selection/\">country and location selection service</a> compares the places against your family, work and practical requirements. If you already have a location in mind, <a href=\"/en/services/arrange-arrival/\">arrival and home-search work</a> can cover a defined search, viewings, arranging independent title and purchase checks, completion coordination, handover and care, as agreed for the assignment.</p><p>A known individual task can be commissioned directly. You do not need to buy this assessment or a complete plan before asking us to organise it.</p>",
+      "layout": "prose"
+    }
+  ],
+  "working": {
+    "title": "Who takes the work forward?",
+    "body": "<p>EXOBASIS prepares and leads your assessment, brings the findings together and delivers the agreed decision brief. Where specialist input is needed, we define the question, the responsible professional and the work to be agreed. You remain in control of the decisions and the information shared.</p><p>For the first enquiry, send only a broad outline and a suitable reply address. Personal documents belong in the protected exchange arranged for the assignment.</p>"
+  },
+  "nextWork": {
+    "title": "Turn the decisions into a coordinated plan",
+    "body": "<p>When several preparations need to work together, the <a href=\"/en/services/departure-contingency-plan/\">personal departure and contingency plan</a> brings your family, documents, usable funds, business responsibilities and arrival arrangements into a coordinated sequence. EXOBASIS can then organise or carry out the implementation you commission and arrange ongoing care for preparations that need maintaining.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "Which decision would move you forward?",
+    "body": "Tell us the main question you want to resolve and what you have already arranged. We clarify whether the initial assessment fits and set out the scope and fee. If you first want to discuss where to start, you can request a free 20-minute orientation call instead."
+  },
+  "displayTitle": "Personal initial assessment for your Plan B"
+}

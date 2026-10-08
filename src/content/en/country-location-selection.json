@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/country-location-selection/",
+  "lang": "en",
+  "title": "Choose suitable countries and locations",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-45b59d35963b43"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-bc1f283d917295"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Country and location selection / From comparison to a usable base",
+  "seoTitle": "Personal country and location selection | EXOBASIS",
+  "description": "Compare destinations for a usable second base or family move, including residence, housing, property purchase, care, schools, access and working life.",
+  "intro": "<p>A country can look reassuring on a map and still be the wrong place for your family. The useful choice is somewhere you can reach, stay lawfully, afford and live in, with the care, schooling and working arrangements you need.</p><p>EXOBASIS compares agreed countries and locations against your circumstances, then organises the next practical checks. We can carry the choice through to a housing search, an exploratory visit or a property-purchase assignment. You can see which option fits your family and what needs to be in place before you commit.</p>",
+  "primary": {
+    "label": "Enquire about country selection",
+    "intent": "Choose suitable countries and locations"
+  },
+  "summary": {
+    "kicker": "Your assignment with EXOBASIS",
+    "title": "A reasoned choice, followed by the work that makes it usable.",
+    "image": "einstieg-laender.webp",
+    "imageAlt": "A map illustrating the comparison of countries and locations.",
+    "facts": [
+      [
+        "Use",
+        "Refuge, second base or permanent family home"
+      ],
+      [
+        "Comparison",
+        "Rights, locations, housing, care, schools and work"
+      ],
+      [
+        "Follow-through",
+        "Local checks, property search, purchase or arrival"
+      ]
+    ]
+  },
+  "scope": {
+    "id": "scope",
+    "title": "What you receive",
+    "body": "<p>You receive a personal comparison of the agreed countries and locations, the reasons for the recommendation and a sequence for preparing your preferred option. Local investigation, viewings and property-purchase coordination can be included as defined parts of the assignment.</p>",
+    "items": [
+      [
+        "A choice grounded in your life",
+        "Family needs, existing rights and budget determine the comparison."
+      ],
+      [
+        "Housing made concrete",
+        "Rental and purchase routes are connected to your intended use."
+      ],
+      [
+        "Practical follow-through",
+        "The necessary local and specialist tasks are organised when commissioned."
+      ]
+    ],
+    "costs": "The proposal separates research, local visits, travel, professional checks and subsequent execution. A property price, deposit, tax or recurring ownership cost is shown separately from EXOBASIS fees."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Decide what the location must do for you",
+      "body": "<p>A short-term refuge needs reliable access and accommodation you can use on arrival. A second base needs to remain usable while you live elsewhere. A permanent move needs to support the family's daily life, work and longer-term rights.</p><p>If you move regularly between countries, we compare the length and rhythm of each stay, the work you are permitted to do at each stop and the payments you need to keep making. Your base must be available when you return, with its property, documents and access arrangements maintained while you are away.</p><p>We establish which of these you want, who will use the location and what you are prepared to maintain. That changes the comparison: a furnished rental can make sense for a first stay, while a longer lease or a purchased home creates different commitments. Fear of war belongs in the brief, alongside the practical question of how your family would live there.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-2",
+      "title": "Start with each person’s rights and the return you want to preserve",
+      "body": "<p>We identify the passports, residence permissions and family connections you already hold. These may make one destination substantially easier to prepare than another. The right to enter, remain, work and return is considered separately for each family member.</p><p>For a UAE-based household, establishing another home may be compatible with keeping the present base, but the permit category and absence conditions matter. For a UK-based household, nationality and immigration status may differ within the family. The comparison records these differences rather than assigning one assumed status to everyone.</p><p>Once a route is selected, <a href=\"/en/services/residence-documents/\">residence and document preparation</a> takes the necessary applications and records into execution.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-3",
+      "title": "Compare the places where you would live, not just the country",
+      "body": "<p>We connect the shortlist to actual towns, neighbourhoods and daily journeys. A school, clinic or airport may exist in the country but be impractical from the property you are considering. We examine the services relevant to your family, their accessibility and the work required to secure them.</p><p>For children, that means the appropriate school stage, teaching language, admissions and realistic travel from home. For an older relative or ongoing treatment, it means available care and continuity of medication. Remote work adds power, connectivity, payment access and the relevant permission to work.</p><p>The initial comparison also identifies local hazards and infrastructure constraints that deserve closer investigation, such as flooding, storm exposure, water supply or unreliable access roads. The <a href=\"/en/countries/\">country profiles</a> provide the broader context; your assignment narrows it to your needs and locations.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-4",
+      "title": "See why one option is more usable than another",
+      "body": "<p>You receive a comparison with consistent questions, supporting sources and the practical consequences of each finding. We show which conditions are already met, what can be prepared and which obstacle materially weakens an option.</p><p>For example, a location with suitable housing still needs an available residence route, a way to pay and a workable journey for all travellers. A low purchase price can be outweighed by care costs, compulsory travel or the effort of maintaining an empty property. The <a href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">guide to choosing a destination when you fear war</a> explains this usable-option approach.</p><p>The comparison includes establishment and continuing cost categories: accommodation, permits, education, healthcare, transport, utilities and the care of any property kept for occasional use. Where an amount needs a local quotation, we obtain it as part of the agreed work instead of treating a general average as your budget.</p>",
+      "layout": "prose",
+      "criteria": {
+        "title": "What makes the comparison verifiable",
+        "headers": [
+          "Criterion",
+          "Evidence needed",
+          "Review when"
+        ],
+        "rows": [
+          [
+            "Each traveller’s rights",
+            "Status, documents and the relevant procedure for each person",
+            "Status changes or someone joins the plan"
+          ],
+          [
+            "Access and transit",
+            "Actual connections and the requirements of the relevant parties",
+            "A route changes, fails or has new transit conditions"
+          ],
+          [
+            "Accommodation and essential care",
+            "Suitability and confirmed availability for the relevant period",
+            "Dates or care requirements change"
+          ],
+          [
+            "Money and communications",
+            "Usable payment and communication routes for daily life",
+            "A provider, device or access route changes"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-5",
+      "title": "Commission the housing search and property-purchase work",
+      "body": "<p>If you want to buy, EXOBASIS can organise the sequence from your requirements to a usable home:</p><ol><li>Define the location, budget, intended occupation and property-search brief.</li><li>Arrange suitable searches, enquiries and viewings, including an agreed local visit.</li><li>Commission independent local legal and title checks, and a survey or other technical review where needed.</li><li>Coordinate the contract, funding steps, required approvals and completion with the responsible professionals.</li><li>Organise the handover, keys, utilities, inventory, defects follow-up and continuing care.</li></ol><p>The legal review establishes whether you may buy that type of property, whether the seller can transfer the title, what the register records, and whether charges, unpaid liabilities or building and land-use issues affect the purchase. The role of the lawyer, notary, agent and register is established for the jurisdiction concerned. Your adviser acts independently of the seller.</p><p><a href=\"https://www.gov.uk/guidance/guidance-for-buying-property-abroad\">FCDO guidance on buying abroad</a> explains why independent legal advice, title and debt checks, utilities and written terms matter. Purchase budgeting includes the relevant taxes and registration charges, professional and survey fees, finance and currency costs, furnishing and ongoing property costs. We obtain the applicable local figures for your transaction.</p><p>If renting suits your stage better, we organise the agreed search and check the landlord's authority, deposit, term, renewal and termination conditions, inventory and utility responsibilities before commitment.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "section-6",
+      "title": "Turn the choice into an arrival you have prepared",
+      "body": "<p>At handover, you know why the chosen location fits, what remains to be confirmed and which work comes next. A trial stay can test daily travel, housing and services before a larger commitment.</p><p><a href=\"/en/services/arrange-arrival/\">Arrival and local setup</a> can cover the accommodation, handover and practical arrangements needed for your first stay. A property that will often be empty also needs an agreed inspection schedule, a responsible keyholder, utilities, maintenance and preparation before you arrive.</p><p>The selection remains connected to your money, family and responsibilities at the present base. Where those pieces need to be planned together, the <a href=\"/en/services/departure-contingency-plan/\">departure and contingency plan</a> provides the wider assignment.</p>",
+      "layout": "prose"
+    }
+  ],
+  "working": {
+    "title": "How we work together",
+    "body": "<p>You tell us what the location must support and where you are flexible. We research the agreed options and organise the necessary local and professional input. You decide on the destination and approve any property commitment after the relevant checks.</p>"
+  },
+  "nextWork": {
+    "title": "The next practical step",
+    "body": "<p>After selection, commission the defined residence, housing and arrival tasks, or combine them within your <a href=\"/en/services/departure-contingency-plan/\">personal departure plan</a>. The useful work already completed remains part of the next stage.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "What must your alternative home make possible?",
+    "body": "Tell us who would use it, whether you expect to rent or buy, and what matters most in daily life. You can begin without a country shortlist."
+  },
+  "seedingRefs": [
+    "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md#en11"
+  ],
+  "displayTitle": "Choose a country and location your family can actually use"
+}

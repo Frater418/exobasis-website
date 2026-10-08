@@ -1,0 +1,215 @@
+{
+  "route": "/de/laender/griechenland/",
+  "lang": "de",
+  "title": "Griechenland als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/greece/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-0455c7a647b948",
+      "startLine": 4736
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-d97ae737184f9c",
+      "startLine": 6123
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern nach Griechenland: Wohnen & Aufenthalt | EXOBASIS",
+  "description": "Griechenland als zweite Basis oder neue Heimat: Aufenthaltsrechte für DACH, Regionen, Miete, Immobilienkauf, Schule, Versorgung und Steuern. Vorbereitung mit EXOBASIS.",
+  "intro": "<p>Du möchtest deine Familie und dein Erarbeitetes schützen und eine eigene Alternative aufbauen, ohne Europa ganz zu verlassen. Griechenland kann dafür eine zweite Basis oder eine neue dauerhafte Heimat sein. Für Deutsche und Österreicher beginnt der Weg bei der EU-Freizügigkeit; für Schweizer bestehen ebenfalls besondere Aufenthaltsrechte. Entscheidend wird anschließend der Ort: ein alltagstaugliches Zuhause, erreichbare Behandlung, passende Schule und eine Vorbereitung, die auch während deiner Abwesenheit funktioniert.</p>",
+  "countryContext": "/de/laender/griechenland/",
+  "linkPlan": [
+    {
+      "sourceLine": 1208,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1210,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1211,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1212,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1213,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1214,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1215,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1216,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1217,
+      "target": "/en/countries/greece/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1496,
+      "target": "/de/laender/zypern/",
+      "label": "Zypern als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1498,
+      "target": "/de/laender/malta/",
+      "label": "Malta als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Your Europe: Residence rights",
+      "url": "https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "Greek Ministry of Migration: Golden Visa",
+      "url": "https://migration.gov.gr/en/golden-visa/",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_limited",
+      "limitation": "Die allgemeine Landingpage enthält ältere Beträge. Keine aktuelle Investitionsschwelle daraus übernommen; genaue Kategorie und Objektbedingungen bleiben fallbezogen zu aktualisieren."
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Vorbereitung für Griechenland anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "country": {
+    "name": "Griechenland",
+    "slug": "griechenland",
+    "region": "Europa",
+    "map": "countries/griechenland-locator.svg",
+    "imageAlt": "Karte mit der Lage Griechenlands in Südosteuropa sowie seinen Inselgebieten",
+    "caption": "Griechenland: Festland und Inseln mit unterschiedlichen Anreise- und Versorgungswegen.",
+    "summary": [
+      [
+        "Vorhandene Rechte nutzen",
+        "Deutsche, Österreicher und Schweizer beginnen bei ihren Aufenthaltsrechten, nicht beim Kauf eines Investorentitels."
+      ],
+      [
+        "Ganzjährig wohnen",
+        "Festland, große Insel und kleiner Ferienort erfüllen unterschiedliche Familienaufgaben."
+      ],
+      [
+        "Eigentum vollständig vorbereiten",
+        "AFM, unabhängige Prüfung, notarieller Abschluss, Register und Betreuung gehören zusammen."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Zweiter Wohnsitz oder dauerhafte Familienzukunft?",
+      "body": "<p>Wenn du nach Griechenland auswandern möchtest, kannst du die Entscheidung schrittweise vorbereiten. Eine erste längere Mietphase zeigt, wie sich Schule, Arbeit, Sprache und Versorgung im Alltag verbinden. Eine dauerhaft verfügbare zweite Wohnung erfüllt einen anderen Zweck: Du bleibst vorerst in DACH, hältst aber einen Ort bereit, an dem deine Familie tatsächlich ankommen kann.</p><p>Für einen Ruhestand können ein verlässliches Einkommen, passende Krankenabsicherung und die Nähe zu Behandlung wichtiger sein als eine besonders abgelegene Lage. Für eine Familie mit Kindern können Bildungsweg und tägliche Fahrzeiten den Ausschlag für einen städtischen Standort geben. Für Unternehmer kommen Geschäftsführung, Steueransässigkeit und die Organisation des bisherigen Betriebs hinzu.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Griechenland als Ausweichort: Wege und Abhängigkeiten",
+      "body": "<dl><dt>Szenario</dt><dd><p>Wenn du wegen Krieg, politischer Repression oder wachsender staatlicher Kontrolle eine Außenbasis aufbauen willst, hilft die Nähe zu DACH bei Erkundung und laufender Pflege. Griechenland bleibt zugleich Teil des europäischen Raums. Für dein konkretes Kriegsszenario zählt daher, welche Abhängigkeiten du verändern willst: Wohnort und unmittelbares Umfeld, Anreise, Geldzugang oder die geografische Entfernung zu einer Konfliktregion.</p><p>Spannungen zwischen Griechenland und der Türkei in der Ägäis, ein Krieg im Nahen Osten und ein Krieg in anderen Teilen Europas betreffen unterschiedliche Konflikträume. Prüfe für dein Szenario insbesondere die Lage im östlichen Mittelmeer und die Verbindungen zu deinem konkreten Ort. Europäische Nähe erleichtert die Vorbereitung, macht aber weder jede Insel noch jeden Festlandort gleichermaßen geeignet.</p></dd><dt>Zugang</dt><dd><p>Beginne bei den Rechten aller Mitreisenden. Vorhandene EU-/EWR-/CH-Rechte führen zu einem anderen Verfahren als ein Drittstaats-Investorenantrag. Letzterer kann bei erfüllten Voraussetzungen durch einen Bevollmächtigten bereits vor der Einreise eingereicht werden. Dafür braucht es eine formgerechte Vollmacht; die persönliche Einreise und erforderliche Erfassung biometrischer Daten in Griechenland bleiben gesonderte Aufgaben. Kläre Einreiserecht und Termin deshalb schon mit der Antragstellung. Ein gegebenenfalls nötiges konsularisches Visum ersetzt nicht die anschließende inländische Aufenthaltsentscheidung.</p></dd><dt>Abhängigkeiten</dt><dd><p>Auf dem Festland lassen sich Luft- und Landwege gegenüberstellen; je nach Route kommen Transitstaaten außerhalb der EU hinzu. Eine Insel braucht zusätzlich eine funktionierende Flug- oder Fährverbindung. Streiks, Unwetter und Waldbrände können Verbindungen unterbrechen. Zwei gebuchte Teilstrecken ergeben erst dann einen brauchbaren Plan, wenn Dokumente, Transit und der letzte Weg zur Unterkunft für alle Personen passen.</p></dd><dt>Rückkehr</dt><dd><p>Vor einer längeren Phase in DACH hältst du für jede Person fest, mit welchem Ausweis und welchem bestehenden Recht die nächste Einreise und der anschließende Aufenthalt erfolgen. Bei einem Drittstaatstitel gehören Gültigkeit, Verlängerung und die fortbestehenden Bedingungen dazu; beim Investor auch das qualifizierte Objekt. Ein eingereichter Antrag oder eine gekaufte Wohnung allein ist keine vollständige Rückkehrberechtigung. Pflege zugleich Unterkunft, Schlüssel, Versorgung und Ersatzanreise, damit die rechtlich mögliche Rückkehr vor Ort funktioniert.</p></dd></dl><p class=\"exb-source-note\">Quelle: <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/griechenlandsicherheit-211534\" rel=\"noreferrer\">Auswärtiges Amt: griechische Verkehrswege, Streiks und Naturgefahren</a>.</p><p class=\"exb-source-note\">Auslandsantrag und persönliche Verfahrensschritte: <a href=\"https://en.mitos.gov.gr/index.php/%CE%94%CE%94:Golden_visa_programme_(investment_in_a_listed_real_property)_%E2%80%93_Initial_issuance\" rel=\"noreferrer\">Mitos: Investorenantrag, Vollmacht und Biometrie</a>.</p><p>Wir bereiten eine Hauptanreise und einen passenden Ersatzweg vor und verbinden sie mit Schlüsselübergabe, erreichbar gehaltenem Geld und den benötigten Medikamenten. Die weiterführende Entscheidung <a class=\"exb-text-link\" href=\"/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/\">Wohin bei Krieg?</a> betrachtet diese Fragen über ein einzelnes Land hinaus.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Mit Kindern oder als Rentner in Griechenland leben",
+      "body": "<p>Ein dauerhafter Umzug braucht eine Wohnung für den ganzen Jahreslauf. Ein Objekt, das im Sommer angenehm ist, kann im Winter durch Feuchtigkeit, Heizung oder fehlende Dienstleistungen einen ganz anderen Alltag bedeuten. Deshalb gehört eine Erkundung außerhalb der Ferienzeit in die Entscheidung, wenn die Familie ganzjährig dort leben soll.</p><p>Für Kinder wird der Bildungsweg vor dem Wohnvertrag geklärt. In Athen und Thessaloniki bestehen Deutsche Schulen als konkrete Optionen für einen deutschsprachigen Anschluss. Unterricht, Aufnahme, Jahrgang und der Weg zur Schule bestimmen, welche Wohnlagen sinnvoll sind. Für eine griechische Schule gehört die sprachliche Eingewöhnung in die Vorbereitung.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.dsathen.gr/en\" rel=\"noreferrer\">Deutsche Schule Athen: Bildungsangebot</a>.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://dst.gr/de/\" rel=\"noreferrer\">Deutsche Schule Thessaloniki</a>.</p><p>Für Rentner und Angehörige mit regelmäßigem Behandlungsbedarf beginnt die Auswahl bei Versorgung und Versicherungszuständigkeit. Ein Haus am Meer ist erst dann eine tragfähige Dauerlösung, wenn die benötigte Behandlung tatsächlich erreichbar ist. Wir verbinden Wohnort, Gesundheitsanschluss und die persönlichen Aufenthaltsnachweise zu einer gemeinsamen Umzugsfolge.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Eine zweite Basis nutzen, ohne den Steuer- und Versicherungsstatus zu übersehen",
+      "body": "<p>Eine Wohnung für mehrere Aufenthalte im Jahr kann dir Freiheit geben, während Beruf, Familie oder Eigentum noch in DACH bleiben. Dafür legst du die tatsächlichen Aufenthaltszeiten und die laufenden Zuständigkeiten fest: Wer betreut die Wohnung? Wer bezahlt Rechnungen? Wer darf bei einem Schaden handeln? Und welche Bank- und Behördenkontakte müssen dich auch aus der Ferne erreichen?</p><p>Wenn du überwiegend in Griechenland arbeitest oder den Lebensmittelpunkt dorthin verlegst, verändert sich die Aufgabe. Steuer- und Sozialversicherungsfragen folgen dann der tatsächlichen Konstellation. Bei grenzüberschreitender Arbeit unterscheidet EOPYY unter anderem Beschäftigung, Selbstständigkeit, Entsendung und Wohnsitz. Wir organisieren die fachliche Abstimmung, bevor die bisherige Versicherungs- oder Unternehmenslösung unverändert weitergeführt wird.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://eu-healthcare.eopyy.gov.gr/en/healthcare-in-greece/accessing-health-services-in-greece-for-eu-citizens/moving-to-greece-for-eu-citizens/\" rel=\"noreferrer\">EOPYY: Arbeit, Wohnsitz und zuständiges Gesundheitssystem</a>.</p><p>Für längere Abwesenheit richten wir die Unterkunft so ein, dass sie vorbereitet werden kann, bevor du ankommst. Dazu gehören ein dokumentierter Schlüsselweg, kontrollierte Versorgungsanschlüsse, vereinbarte Reparaturfreigaben und eine erreichbare Vertretung.</p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Aufenthaltsrecht: DACH-Staatsangehörige und Golden Visa auseinanderhalten",
+      "body": "<h3>Deutsche, Österreicher und Schweizer</h3><p>Als deutscher oder österreichischer Staatsangehöriger nutzt du die europäischen Freizügigkeitsrechte. Für einen Aufenthalt bis zu drei Monaten genügen grundsätzlich gültiger Personalausweis oder Reisepass. Bei einem längeren Aufenthalt richtet sich die Registrierung nach deiner Situation, etwa als Erwerbstätiger oder als Person mit eigenen Mitteln.</p><p>Das griechische Verwaltungsregister bezieht beim Verfahren für wirtschaftlich nicht aktive Personen ausdrücklich auch Schweizer Staatsangehörige ein. Nach einem Aufenthalt von mehr als drei Monaten erfolgt die persönliche Registrierung bei der zuständigen Polizeidienststelle. Dafür werden unter anderem gültiges Ausweisdokument, Wohnadressnachweis, ausreichende Mittel für dich und deine Familie sowie umfassender Krankenversicherungsschutz verlangt. Die ausreichenden Mittel werden nach der persönlichen Lage beurteilt; das Verfahren ist kein pauschales Investorenprogramm mit festem Kaufbetrag.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://en.mitos.gov.gr/index.php/%CE%94%CE%94:Certificate_of_registration_for_Union_citizens_residing_in_Greece_as_financially_inactive_persons\" rel=\"noreferrer\">Griechisches Verwaltungsregister Mitos: Registrierung für EU-, EWR- und Schweizer Staatsangehörige</a>.</p><p>Ein deutscher, österreichischer oder Schweizer Wohnsitz allein ersetzt die entsprechende Staatsangehörigkeit nicht. Hat dein Partner oder ein Kind einen anderen Pass, werden dessen Familien- und Aufenthaltsrechte gesondert dem richtigen Verfahren zugeordnet.</p><h3>Immobilienbezogenes Golden Visa für Drittstaatsangehörige</h3><p>Für diesen anderen Zugang gelten nach der amtlichen Regelung bei regulären Immobilieninvestitionen Schwellen von 800.000 EUR in Attika, der Regionaleinheit Thessaloniki, Mykonos, Santorini und auf Inseln mit mehr als 3.100 Einwohnern; in den übrigen Gebieten sind es 400.000 EUR. Die Investition betrifft grundsätzlich ein Objekt; bei den entsprechenden bebauten Objekten sind mindestens 120 Quadratmeter Hauptnutzfläche erforderlich.</p><p>Für qualifizierte Umwandlungen zu Wohnraum und bestimmte denkmalgeschützte Sanierungsobjekte gibt es getrennte 250.000-EUR-Regeln mit zusätzlichen Bedingungen; der Mindestkaufwert betrifft jeweils ein einzelnes qualifiziertes Objekt. Bei der Umwandlung muss die Nutzungsänderung vor dem Antrag abgeschlossen sein. Beim denkmalgeschützten Restaurierungsobjekt muss die vollständige Restaurierung beziehungsweise Wiederherstellung vor der ersten Verlängerung abgeschlossen sein. Eine Veräußerung vor dieser vollständigen Wiederherstellung ist unwirksam. Die begünstigten Immobilien dürfen nicht zur gewöhnlichen Kurzzeitvermietung eingesetzt werden. Für den Investorentitel ist außerdem zu beachten, dass er keine Berechtigung zur Beschäftigung schafft. Ein Kaufauftrag für diese Kategorie beginnt deshalb mit der Eignung von Käufer, Objekt und vorgesehener Nutzung.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf\" rel=\"noreferrer\">Migrationsministerium: Rundschreiben 9 zur Immobilieninvestition, Artikel 100</a>.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://en.mitos.gov.gr/index.php/%CE%94%CE%94:Golden_visa_programme_(investment_in_a_listed_real_property)_%E2%80%93_Initial_issuance\" rel=\"noreferrer\">Mitos: aktuelles Investorenverfahren und Beschäftigungsrechte</a>.</p><div class=\"exb-criteria-table\" role=\"region\" aria-label=\"Nutzungsvergleich Griechenland, horizontal scrollbar\" tabindex=\"0\"><table><caption>Griechenland: vorhandene Rechte und geplante Nutzung zusammenführen</caption><thead><tr><th scope=\"col\">Nutzung</th><th scope=\"col\">Nutzbares Recht</th><th scope=\"col\">Nachweise und Präsenz</th><th scope=\"col\">Beauftragbare Umsetzung</th></tr></thead><tbody><tr><th scope=\"row\">Dauerhafter Umzug / Familienbasis</th><td>Zuerst zählen vorhandene EU-/EWR-/CH-Rechte und der tatsächliche Erwerbs- oder Selbstversorgerfall. Für Drittstaatsangehörige wird ein passender Aufenthaltsweg gewählt; ein B.5-Investorentitel allein erlaubt keine Beschäftigung. Partner und Kinder mit anderem Pass werden gesondert zugeordnet.</td><td>Für die persönliche Registrierung nach mehr als drei Monaten werden je Fall Ausweis, Adresse, Erwerbsnachweis oder eigene Mittel und Versicherung vorbereitet. Im Investorenfall kommen zum Pass die passende Objektkategorie, Kauf-/Zahlungs-/Registerbelege und Versicherung hinzu; Vollmacht, Einreise und persönliche Biometrie werden terminiert.</td><td>EXOBASIS organisiert Registrierung oder fachlich passenden Aufenthaltsantrag und verbindet die Nachweise mit Wohnung, Schule und Versorgung. Eine erforderliche Visumklärung erfolgt konsularisch; über den Aufenthalt entscheidet die zuständige griechische Behörde im anschließenden Verfahren.</td></tr><tr><th scope=\"row\">Geteilte / mobile Nutzung</th><td>Mit vorhandenen EU-/EWR-/CH-Rechten wird die tatsächliche Arbeit und Aufenthaltsdauer eingeordnet. Für Drittstaatsangehörige kann der Nomadenweg für Fernarbeit an Arbeitgeber oder Kunden außerhalb Griechenlands passen; ein Besuch oder Investorentitel erteilt diese Berechtigung nicht automatisch.</td><td>Reisezeiten, Auftraggeber und Tätigkeit dokumentieren. Der Nomadenweg verlangt mindestens 3.500 EUR monatliche Mittel, bei den erfassten Erwerbseinkünften netto nach Steuern; hinzu kommen 20 Prozent für Ehe-/Lebenspartner und 15 Prozent je Kind. Vertrags-/Einkommens- und Familienbelege sowie Versicherung müssen passen. Angehörige erhalten dadurch kein eigenes Arbeitsrecht; Steuer- und Versicherungszuständigkeit bleiben gesondert zu klären.</td><td>EXOBASIS lässt die geplante Tätigkeit rechtlich zuordnen, organisiert die benötigten Unterlagen und stimmt saisonale Unterkunft, Präsenztermine und Absicherung auf die zulässige Nutzung ab.</td></tr><tr><th scope=\"row\">Vorbereitete Außen- / Krisenbasis</th><td>Vorhandene EU-/EWR-/CH-Rechte werden zuerst genutzt. Für Drittstaatsinvestoren muss das konkrete Objekt zur B.5-Kategorie und zur erlaubten Nutzung passen; bei Umwandlung und denkmalgeschützter Restaurierung gelten die oben getrennten Nachweis- und Erfüllungszeitpunkte.</td><td>Notariellen Kauf-/Zahlungsnachweis und Registerbeleg beschaffen; bei Umwandlung den Ingenieurnachweis, beim Denkmal den bestätigten Schutzstatus samt Sanierungsplanung. Ein Auslandsbevollmächtigter kann mit korrekt beglaubigter Vollmacht einreichen. Persönliche Einreise/Biometrie und spätere Titel-/Objektpflege werden trotzdem eingeplant.</td><td>EXOBASIS organisiert Objekt- und Verfahrensprüfung, formgerechte Vollmacht, digitale Einreichung mit Fachvertretung und persönliche Termine. Die e-Services des Migrationsministeriums nehmen den Antrag auf; Unterlagen- und Biometrieprüfung gehen der Entscheidung voraus. Unterkunft und Betreuung werden für die spätere Nutzung vorbereitet.</td></tr></tbody></table></div><p class=\"exb-source-note\">Nachweise und Ablauf des zweiten qualifizierten Unterfalls: <a href=\"https://en.mitos.gov.gr/index.php/%CE%94%CE%94:Permanent_golden_visa_(change_of_use)_%E2%80%93_Initial_issuance\" rel=\"noreferrer\">Mitos: Nutzungsänderung, Ingenieurbeleg und Aufenthaltsverfahren</a>.</p><p class=\"exb-source-note\">Nomadenweg für Drittstaatsangehörige: <a href=\"https://migration.gov.gr/wp-content/uploads/2023/04/%CE%9A%CF%8E%CE%B4%CE%B9%CE%BA%CE%B1%CF%82-%CE%9C%CE%B5%CF%84%CE%B1%CE%BD%CE%AC%CF%83%CF%84%CE%B5%CF%85%CF%83%CE%B7%CF%82.pdf\" rel=\"noreferrer\">Griechischer Migrationskodex, Artikel 68: Fernarbeit, Einkommens- und Familienbedingungen</a>.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fgriechenland%2F#kurzanfrage\">Vorbereitung für Griechenland anfragen</a><p>Nenne uns deine gewünschte Nutzung und die konkrete Aufgabe. Wir beginnen bei den vorhandenen Rechten und dem passenden Vorhaben.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Wohin in Griechenland? Mieten und Immobilien kaufen",
+      "body": "<p><strong>Athen und Attika</strong> kommen in den Vergleich, wenn internationale Anreise, städtische Versorgung und die Deutsche Schule wichtig sind. Die konkrete Wohnlage entscheidet über Pendelwege; bei einer Lage am Stadtrand gehören Brandgefährdung und Ausweichstraßen in die Objektprüfung. <strong>Thessaloniki</strong> ist eine weitere städtische Familienoption mit eigener Deutscher Schule und einer Festlandsanbindung nach Norden.</p><p><strong>Kreta, etwa der Raum Heraklion oder Chania,</strong> kann für einen Inselwunsch in Betracht kommen. Hier vergleichst du gezielt ganzjährige Verbindung, erreichbare Fachbehandlung und den Weg vom Flughafen zur Unterkunft. Bei <strong>Korfu oder einer kleineren Insel</strong> wiegt die saisonale Verkehrs- und Versorgungsabhängigkeit stärker. Wer regelmäßig Therapie oder kurzfristige Fachversorgung braucht, sollte diese Anforderungen vor einer abgelegenen Wohnlage klären.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/griechenlandsicherheit-211534\" rel=\"noreferrer\">Auswärtiges Amt: Versorgung auf Festland und Inseln sowie Naturgefahren</a>.</p><h3>Ein Haus mieten, das auch im Winter verfügbar ist</h3><p>Für die erste Erkundung eignet sich eine möblierte Unterkunft mit klarer Verlängerung. Bei einer langfristigen Miete lässt du dir ganzjährige Verfügbarkeit und die genauen Nutzungszeiten schriftlich bestätigen. In den Vertrag gehören Laufzeit, Miete, Kaution, Betriebskosten, Heizung beziehungsweise Klimatisierung, Inventar und Reparaturzuständigkeiten. Feuchtigkeit, Wasserdruck, Mobilfunk und Internet werden an der tatsächlichen Wohnung getestet.</p><p>Die Mietdaten werden bei AADE elektronisch erklärt; die Plattform ermöglicht Einreichung, Einsicht und Annahme der Angaben. Die behördliche Meldung und der unterschriebene Vertrag sollten dieselbe Wohnung, Laufzeit und Miete nennen. Sichere den Einreichungsnachweis zusammen mit Übergabeprotokoll und Zählerständen. Die griechische Steuernummer AFM gehört früh in diese Vorbereitung.</p><p class=\"exb-source-note\">Quelle: <a href=\"http://www.aade.gr/en/property-rentalstatements\" rel=\"noreferrer\">AADE: elektronische Mietmeldungen</a>.</p><h3>Immobilienkauf mit Titel- und Bauprüfung</h3><p>Ausländer können in Griechenland Immobilien erwerben. Für Immobilien in gesetzlich ausgewiesenen Grenzgebieten gilt eine zusätzliche Erwerbsbeschränkung für Käufer außerhalb der EU und EFTA. Deutsche, österreichische und Schweizer Staatsangehörige fallen nicht unter diese besondere Nationalitätsbeschränkung. Für andere Käufer sieht das Gesetz einen Antrag auf Aufhebung bei der zuständigen Verwaltungskommission vor. Die Lage und Käuferberechtigung werden vor einer Bindung geklärt; ein gewöhnlicher Kauf und ein Kauf für einen Aufenthaltstitel bleiben getrennte Prüfaufträge.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.elra.eu/contact-point-contribution/greece/legal-restrictions-5/\" rel=\"noreferrer\">European Land Registry Association: griechische Erwerbsbeschränkungen nach Gesetz 1892/1990</a>.</p><p>Vor dem Kauf brauchst du eine AFM. Ein unabhängiger griechischer Rechtsanwalt prüft Eigentumskette, Registerstand, Belastungen, bestehende Rechte Dritter und den Vertrag. Ein Ingenieur beurteilt Genehmigungen, Flächen, Bauzustand und die baurechtliche Übereinstimmung des Gebäudes. Der Notar bereitet die Übertragung vor; nach der Unterzeichnung muss der Erwerb beim zuständigen Kataster- beziehungsweise Grundbuchsystem eingetragen werden. Im staatlichen digitalen Übertragungsverfahren führt der Notar die Unterlagen zusammen und übermittelt den Vertrag an das Register.</p><p class=\"exb-source-note\">Quelle: <a href=\"http://www.aade.gr/en/services-information/useful-guides/buying-property/buying-property\" rel=\"noreferrer\">AADE: Voraussetzungen vor dem Immobilienkauf</a>.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.gov.gr/en/upourgeia/upourgeio-psephiakes-diakuberneses/elleniko-ktematologio-ae/metavivasi\" rel=\"noreferrer\">Gov.gr: notarieller Übertragungsprozess und Registereinreichung</a>.</p><p>Bei einem Kauf, der der Grunderwerbsteuer unterliegt, nennt AADE 3 Prozent auf den steuerpflichtigen Wert zuzüglich einer kommunalen Abgabe von 3 Prozent auf diesen Steuerbetrag. Befreiungen und die steuerliche Behandlung des konkreten Verkaufs werden vor dem Abschluss zugeordnet. Hinzu kommen Notar, unabhängige Rechts- und Bauprüfung, Register, gegebenenfalls Vermittlung und später die jährliche Immobiliensteuer ENFIA sowie laufende Gemeinschafts- und Versorgungskosten.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://aade.gr/en/greeks-abroad-non-residents/property-taxation/real-estate-transfer-tax\" rel=\"noreferrer\">AADE: Real Estate Transfer Tax</a>.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.aade.gr/en/greeks-abroad-non-residents/property-taxation/unified-tax-ownership-real-estate-e9-enfia\" rel=\"noreferrer\">AADE: E9 und ENFIA</a>.</p><p>EXOBASIS übernimmt auf Auftrag Bedarf und Standortauswahl, Objektsuche und Besichtigungstermine, organisiert die unabhängigen Fachprüfungen und koordiniert Vertrag, Abschluss und Übergabe. Die anschließende <a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Organisation deiner Ankunft</a> verbindet den Kauf oder die Miete mit Strom, Wasser, Internet, Schlüsseln und einer tatsächlich bezugsfertigen Unterkunft.</p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Gesundheitsversorgung und Pflege am Wohnort",
+      "body": "<h3>Den Bildungsweg verbindlich vorbereiten</h3><p>Ein Schulwechsel braucht Zeugnisse, Jahrgangszuordnung, Sprachklärung und die Aufnahmebestätigung der vorgesehenen Schule. Die Deutschen Schulen in Athen und Thessaloniki sind konkrete Ansprechpartner für einen entsprechenden Bildungsweg. Für den Umzug wird die Aufnahme der Kinder vor der Wohnentscheidung bestätigt. Wir organisieren die Abstimmung und verbinden sie mit Wohnungssuche und täglichem Transport.</p><p>Auch Zustimmung, Sorgebefugnisse und die Rechte jedes Kindes werden in der Vorbereitung erfasst. Die Seite <a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a> führt durch diese grenzüberschreitende Aufgabe.</p><h3>EHIC, S1 und die tatsächliche Behandlung</h3><p>Bei einem vorübergehenden Aufenthalt ermöglicht die Europäische Krankenversicherungskarte medizinisch notwendige Leistungen im zuständigen öffentlichen beziehungsweise angeschlossenen System. Für einen dauerhaften Umzug wird die Versicherungszuständigkeit neu zugeordnet. Bei berechtigten Rentnern, die ihre Rente aus einem anderen zuständigen Staat beziehen, kann die Registrierung über das Formular S1 erfolgen. EOPYY beschreibt hierfür auch die örtliche Zuordnung über die EU-AMKA. Bei Beschäftigung in Griechenland ist regelmäßig der dortige Sozialversicherungsträger zuständig.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://eu-healthcare.eopyy.gov.gr/en/healthcare-in-greece/accessing-health-services-in-greece-for-eu-citizens/moving-to-greece-for-eu-citizens/\" rel=\"noreferrer\">EOPYY: Umzug, Rentner, S1 und EU-AMKA</a>.</p><p>Das Auswärtige Amt beschreibt die Versorgung auf dem Festland im Allgemeinen als gut, weist auf Inseln aber auf mögliche Personal- und Ausstattungsengpässe sowie längere Rettungswege hin. Bei Pflegebedarf oder einer zeitkritischen Erkrankung werden deshalb konkrete Einrichtung, Fachdisziplin, Medikamentenversorgung und Transportweg vor der Wohnentscheidung geklärt. Eine geplante Fähre ist kein Ersatz für ein abgestimmtes medizinisches Transportkonzept.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/griechenlandsicherheit-211534\" rel=\"noreferrer\">Auswärtiges Amt: medizinische Versorgung und Rettungswege</a>.</p><p>Wir organisieren die erforderlichen Kontakte und die Übergabe von Unterlagen. Versicherungsschutz, mögliche Vorauszahlung und tatsächlich verfügbare Behandlung werden dabei gemeinsam vorbereitet. Vertiefung: <a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a>.</p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Steuern, Rente und nutzbarer Geldzugang",
+      "body": "<p>Griechische Steueransässige unterliegen grundsätzlich mit ihrem steuerpflichtigen Einkommen aus Griechenland und dem Ausland der Besteuerung. Nichtansässige werden mit den einschlägigen griechischen Einkünften erfasst. Wer umzieht, eine Wohnung vermietet oder seine Firma aus Griechenland führt, sollte deshalb Herkunftsland und Zielstaat gemeinsam betrachten. Eine Aufenthaltsregistrierung, eine AFM und die steuerliche Ansässigkeit erfüllen unterschiedliche Aufgaben.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://minfin.gov.gr/en/tax-policy/tax-guide/income-taxation/\" rel=\"noreferrer\">Griechisches Finanzministerium: Einkommensbesteuerung</a>.</p><h3>Als Rentner auswandern: was die 7-Prozent-Regel voraussetzt</h3><p>Artikel 5B eröffnet Empfängern ausländischer Renten auf Antrag eine alternative Besteuerung des ausländischen Einkommens mit 7 Prozent für bis zu 15 Steuerjahre. Erforderlich ist unter anderem, dass du in fünf der sechs Jahre vor dem Wechsel nicht in Griechenland steueransässig warst und aus einem Staat mit steuerlicher Verwaltungszusammenarbeit zuziehst. Der Antrag bei AADE ist grundsätzlich bis zum 31. März des betreffenden Steuerjahres einzureichen.</p><p>Die Regel betrifft das ausländische Einkommen im genehmigten Verfahren; sie macht nicht jedes griechische Einkommen zu einer 7-Prozent-Einnahme. Die Doppelbesteuerungsabkommen bleiben anwendbar. Vor dem Umzug werden deshalb die einzelnen Renten, übrigen Einkünfte und fortbestehenden Quellensteuern dem jeweiligen Recht zugeordnet.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.aade.gr/sites/default/files/2025-11/forologika_kinitra_ENG.pdf\" rel=\"noreferrer\">AADE: Steueranreize, Artikel 5B, Fassung vom 12.11.2025</a>.</p><h3>Kaufkapital, zulässige Nutzung und laufendes Leben</h3><p>Bei einer immobilienbezogenen Außenbasis steht das in Kauf und Sanierung gebundene Geld nicht mehr für den laufenden Haushalt zur Verfügung. Rechne deshalb Objektkosten, nötige Arbeiten und laufenden Unterhalt getrennt von Wohnen, Versicherung und persönlichem Lebensbedarf. Bei den zuvor beschriebenen Umwandlungs- und Denkmalfällen müssen Finanzierung und Bauablauf außerdem zum jeweils vorgeschriebenen Erfüllungszeitpunkt passen; eine geplante spätere Veräußerung ersetzt beim noch nicht vollständig wiederhergestellten Denkmal keine verfügbare Reserve.</p><p>Auf der Einnahmenseite zählen nur Einkünfte, die du mit deinen tatsächlichen Rechten und der zulässigen Objektnutzung erzielen darfst. Der Investorentitel schafft kein Beschäftigungsrecht. Eine für diese Immobilien unzulässige Kurzzeitvermietung darf die Finanzierung daher nicht tragen; auch eine andere Vermietung muss zum konkreten Objekt und seiner rechtlich erlaubten Nutzung passen. Wir führen Kauf, Arbeiten, Unterhalt und erwartbare zulässige Einnahmen mit den zuständigen Fachleuten zusammen, bevor du Kapital bindest. Die oben erläuterte 5B-Rentenbesteuerung und die steuerliche Einordnung jeder weiteren Einnahme bleiben davon getrennte Aufgaben.</p><h3>Bankunterlagen aktuell und Zahlwege erreichbar halten</h3><p>Ein bestehendes Eurokonto kann den Anfang tragen. Für ein griechisches Konto und dessen weitere Nutzung müssen Identität, Anschrift, Beruf, Steueransässigkeit und Mittelherkunft nachvollziehbar sein. Die National Bank of Greece nennt für nichtansässige Bestandskunden unter anderem Ausweiskopie, Adressnachweis, Beschäftigungs- oder Rentenunterlagen, Steuerangaben und ein Finanzprofil. Eine Änderung zum griechischen Wohnsitz ist der Bank mitzuteilen.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.nbg.gr/-/jssmedia/Files/lp/new-documents-for-foreign-residents/en/Personal-Information-Update-Guidelines-EN.pdf\" rel=\"noreferrer\">National Bank of Greece: Aktualisierung der Daten nichtansässiger Kunden</a>.</p><p>Vor einem Hauskauf stimmen wir Zahlung, Empfänger, Nachweise und Ausführungstermin mit den beteiligten Stellen ab. Für die Außenbasis werden außerdem eine unabhängige Zahlmöglichkeit und der Wiederzugang ohne Haupttelefon vorbereitet. Wie du diese Reserve, Freigaben und Wiederherstellung organisierst, erklärt <a class=\"exb-text-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Bankkonto im Ausland und Zahlungsfähigkeit</a>. Die <a class=\"exb-text-link\" href=\"/de/leistungen/bankzugang-liquiditaet/\">Vorbereitung von Bankzugang und Liquidität</a> verbindet diese Aufgabe mit deinem tatsächlichen Bedarf.</p><p>Führst du deinen bisherigen Betrieb weiter, wird auch die Vertretung im Herkunftsland vorbereitet: Wer darf Zahlungen freigeben, Verträge unterschreiben und dringende Kundenentscheidungen treffen? Wir koordinieren Zuständigkeiten, erforderliche Vollmachten und verfügbare Unterlagen mit dir und den verantwortlichen Fachstellen.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Diese Schritte gehören vor die feste Wohnentscheidung",
+      "body": "<ol><li><strong>Personen und Rechte ordnen:</strong> Staatsangehörigkeiten, Familienbeziehungen und die passende Registrierung beziehungsweise Aufenthaltserlaubnis feststellen.</li><li><strong>Nachweise bereitstellen:</strong> Ausweise, Wohnadresse, Einkommens- und Versicherungsnachweise sowie benötigte Familienurkunden in der verlangten Form organisieren.</li><li><strong>Alltag absichern:</strong> Schulaufnahme, Behandlung und Arbeitsorganisation mit dem Ort und der vorgesehenen Nutzungsdauer verbinden.</li><li><strong>Wohnen vorbereiten:</strong> AFM, Mietvertrag oder unabhängige Kaufprüfung, Zahlweg, Versorgungsverträge und Übergabe koordinieren.</li></ol><p>EXOBASIS organisiert deine <a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumenten- und Aufenthaltsvorbereitung</a> mit den notwendigen örtlichen Fachstellen. Eine reine Erkundung, ein vollständiger Umzug und der Aufbau einer selten genutzten zweiten Basis erhalten jeweils die dazu passenden Schritte.</p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Die Wohnung und deine Rechte laufend betreuen",
+      "body": "<p>Wenn die Immobilie zeitweise leer steht, sollten Kontrollen und Eingriffsrechte fest vereinbart sein. Wir können Schlüsselverwaltung, Reinigung, Lüftung, Prüfung auf Feuchtigkeit, Versorgungsanschlüsse und Handwerkerkoordination organisieren. Zum Jahreslauf gehören auch die Vorbereitung auf Hitze und Brandgefahr sowie die Kontrolle nach Starkregen oder einem Erdbeben.</p><p>Parallel werden die eigenen Pflichten weitergeführt: Steuer- und Bankanschrift, E9/ENFIA, Versicherungen und bei einem befristeten Aufenthaltstitel dessen Verlängerung. Bei einem Golden-Visa-Objekt bleiben Eigentum und die erlaubte Nutzung für den Titel relevant. Kurzfristige Ferienvermietung wird daher nicht automatisch zum Bestandteil der Abwesenheitsbetreuung.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.aade.gr/en/greeks-abroad-non-residents/property-taxation/unified-tax-ownership-real-estate-e9-enfia\" rel=\"noreferrer\">AADE: Immobilienerklärung E9 und laufende ENFIA</a>.</p><p>Mit <a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a> vereinbaren wir Aufgaben, Kontrollrhythmus, Kostenfreigaben und Rückmeldungen. Vor deiner Ankunft werden Unterkunft und Versorgung auf den tatsächlichen Bedarf deiner Familie vorbereitet.</p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Deine Griechenland-Vorbereitung in Auftrag geben",
+      "body": "<p>EXOBASIS plant und organisiert die Vorbereitung deiner griechischen Basis: passende Rechte und Nachweise, Standortvergleich, Miet- oder Kaufsuche, unabhängige Fachprüfung, Abschluss, Übergabe und den ersten Alltag. Die Betreuung während deiner Abwesenheit kann als eigener Leistungsumfang hinzukommen.</p><p>Du kannst eine einzelne Aufgabe direkt anfragen. Bei noch offenem Zielland führt die <a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Länder- und Standortauswahl</a> zu einem begründeten Vergleich. Eine kostenlose 20-Minuten-Orientierung hilft dir, wenn noch unklar ist, welche Unterstützung du brauchst. Auf einen klaren Auftrag folgt die Klärung von Umfang und Preis, bevor die Arbeit beginnt.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fgriechenland%2F#kurzanfrage\">Vorbereitung für Griechenland anfragen</a><p>Beschreibe kurz, ob du dauerhaft umziehen, eine zweite Basis einrichten oder eine konkrete Immobilien- oder Dokumentenaufgabe erledigen lassen möchtest.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div><div class=\"exb-country-comparisons\"><h3>Weitere europäische Optionen</h3><article><p><a class=\"exb-text-link\" href=\"/de/laender/zypern/\">Zypern als persönliche Ausweichoption</a></p><p>Vergleiche deine Aufenthaltsrechte, Versorgung und die Lage im östlichen Mittelmeer. Zypern kann als Familien- oder Unternehmensbasis zu deinem Alltag passen; daraus folgt nicht automatisch seine Eignung als Zufluchtsort im gleichen Kriegsszenario. Die Lage im östlichen Mittelmeer muss mit regionalen Konflikten, erreichbaren Flugverbindungen und deiner rechtzeitigen Anreise abgeglichen werden. Eine andere Insel bedeutet auch andere Anreise- und Alltagsabhängigkeiten.</p></article><article><p><a class=\"exb-text-link\" href=\"/de/laender/malta/\">Malta als persönliche Ausweichoption</a></p><p>Malta bietet einen anderen europäischen Vergleichsfall. Für deutsche und österreichische Staatsangehörige beginnt er bei den vorhandenen EU-Aufenthaltsrechten und deren Voraussetzungen. Das Malta Permanent Residence Programme (MPRP) ist dagegen ein eigener Weg für berechtigte Drittstaatsangehörige außerhalb von EU, EWR und Schweiz, mit Immobilien-, Vermögens- und weiteren Aufnahmebedingungen. Wohnraum, Sprache, Versorgung und die konkrete Familienaufgabe entscheiden, welche Basis besser zu dir passt. Bei der Inselwahl gehören außerdem verfügbare Schulplätze, Behandlung, Lieferabhängigkeiten und Flug- oder Fährverbindungen in denselben Vergleich.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Brauche ich als Deutscher, Österreicher oder Schweizer ein Golden Visa für Griechenland?",
+    "answer": "Für Deutsche und Österreicher ist die EU-Freizügigkeit der Ausgangspunkt. Das griechische Registrierungsverfahren für wirtschaftlich nicht aktive Personen erfasst ausdrücklich auch Schweizer Staatsangehörige. Bei mehr als drei Monaten Aufenthalt werden unter anderem ausreichende Mittel und umfassender Krankenversicherungsschutz verlangt. Das immobilienbezogene Golden Visa ist ein eigener Investorenweg für Drittstaatsangehörige, kein Pflichtkauf für diese DACH-Konstellation."
+  },
+  "displayTitle": "Auswandern nach Griechenland: eine europäische Basis vorbereiten"
+}

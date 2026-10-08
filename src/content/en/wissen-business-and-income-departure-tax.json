@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/business-and-income/departure-tax/",
+  "lang": "en",
+  "title": "Departure, tax and business obligations",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-a53e120d221e08"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-956dba2f6c3454"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-df9d4e5a867ca9"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Leaving the UK: tax residency and business obligations | EXOBASIS",
+  "description": "Understand UK departure tax, temporary return and inheritance tax, alongside UAE tax residency and distinct German, Austrian and Swiss obligations.",
+  "intro": "<p>A move abroad can give your family more freedom while leaving tax obligations attached to a home, a company or years you spent in another country. Before you sell an asset, pay yourself a dividend or move the business, establish which rules apply and when.</p><p>For UK departures, the important questions include the Statutory Residence Test, UK income and property, temporary non-residence and inheritance tax. A UAE residence permit answers a different question. The German, Austrian and Swiss cases below matter when you have those connections, whatever passport you hold.</p>",
+  "primary": {
+    "label": "Ask us to coordinate your departure and business obligations",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "The dates and connections that matter",
+    "facts": [
+      [
+        "Departure",
+        "Residence tests and continuing income"
+      ],
+      [
+        "Return",
+        "Transaction history and temporary non-residence"
+      ],
+      [
+        "Succession",
+        "Residence history, assets and legal instruments"
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notebook and pen, symbolising organised preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Separate your right to live somewhere from tax residency",
+      "body": "<p>Tax residency describes your relationship with a tax system. Immigration permission describes your right to enter, stay or work. Neither can be settled just by choosing an address on a form.</p><table><caption>The connections your departure assessment needs</caption><thead><tr><th scope=\"col\">Connection</th><th scope=\"col\">What establishes the position</th></tr></thead><tbody><tr><th scope=\"row\">Nationality</th><td>Your citizenships and the citizenship-based obligations, if any, of each state.</td></tr><tr><th scope=\"row\">Immigration status</th><td>The permission held by each family member and its conditions for residence, absence and work.</td></tr><tr><th scope=\"row\">Home and personal life</th><td>Homes genuinely available to you, where your family lives and your actual pattern of presence.</td></tr><tr><th scope=\"row\">Work and business</th><td>Where you carry out work, direct the company and conclude contracts.</td></tr><tr><th scope=\"row\">Tax residency</th><td>The domestic tests in each relevant country and, where applicable, the treaty rules for competing claims.</td></tr></tbody></table><p>Build a dated record of these facts. It gives your advisers something precise to assess and lets you compare moving now, leaving later or keeping a second base without moving your main residence.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Germany: company shares can create a liability before a sale",
+      "body": "<p>Germany's departure rules can treat specified company shares as disposed of at market value even when you have not sold them. Section 6 of the Foreign Tax Act links this to defined events, including ending unlimited tax liability by giving up residence or habitual abode, and to the shares covered by section 17 of the Income Tax Act. Its personal conditions include at least seven years of unlimited tax liability within the preceding twelve years.</p><p>The financial problem can therefore be a tax bill without sale proceeds. Section 6 permits an application for seven equal annual instalments, generally with security, and imposes reporting obligations. Certain events can accelerate the outstanding amount. Following a temporary absence, the charge can lapse when you become subject to unlimited German tax liability again, provided the statutory time limit and other conditions are met; keeping the shares and controlling distributions are among the relevant factors. <a href=\"https://www.gesetze-im-internet.de/astg/__6.html\">Read section 6 AStG, including its payment and return conditions</a>.</p><p>Give the German adviser your shareholding records, acquisition history, valuations, retained home and planned work. Have the liability and cash required established before the departure or transfer that triggers it.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Austria: deferred assessment still needs active follow-up",
+      "body": "<p>Austria can tax unrealised gains when its right to tax relevant capital assets is restricted. Its rules include an application-based non-assessment mechanism for specified EU/EEA cases. The destination, asset and transaction determine whether that mechanism is available. <a href=\"https://www.bmf.gv.at/themen/steuern/sparen-veranlagen/substanzgewinne-bzw-einkuenfte-aus-realisierten-wertsteigerungen.html\">The Austrian Finance Ministry explains the capital-gains and departure framework</a>.</p><h3>The 2026 evidence rules distinguish new decisions from older cases</h3><p>For the designated non-assessment applications decided after 30 June 2026, the new annual evidence duty applies where the specified income exceeds EUR 100,000 in an assessment year. Evidence that no assessment-triggering event has occurred is due by the end of the following year. This threshold concerns the income defined in the legislation, not your family's total assets.</p><p>A separate transitional duty can fall due on <strong>31 December 2026</strong>. It covers the specified income- or corporation-tax liabilities arising after 31 December 2005, addressed in decisions before 1 July 2026, still not fully assessed, where the amount originally left unassessed exceeds EUR 100,000. These conditions apply together. The taxpayer or successor must give the current address and the required evidence in writing or through FinanzOnline.</p><p><a href=\"https://ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_I_43/BGBLA_2026_I_43.html\">Article 1 of the enacted 2026 Budget Measures Act</a> sets out both cases. Put the original decision, relevant amounts and later transactions in front of your Austrian adviser. The ongoing and transitional thresholds are different, so a single generic reminder is not enough.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Switzerland: retained property can keep a tax connection open",
+      "body": "<p>The canton and the connections you retain matter. Zurich's tax guidance distinguishes a departure with no continuing Swiss economic connection from a departure while retaining, for example, taxable property, a business or a permanent establishment. The latter can continue limited tax liability and require an international allocation of income and assets.</p><p>For the Zurich case, departure without continuing limited liability produces a part-year tax period. Moving abroad while remaining liable through the specified economic connections is treated differently. <a href=\"https://www.zh.ch/de/steuern-finanzen/steuern/treuhaender/steuerbuch/steuerbuch-definition/zstb-49-3.html\">Zurich's tax circular explains the distinction and its worked examples</a>.</p><p>Arrange the departure filing with the competent canton, keep someone able to receive correspondence and include pension and insurance questions in the same timetable. Obtain the relevant pension institution's assessment before treating pension capital as money available for your new home. Destination and insurance status can change what is available and when.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "UK departure, a possible return and UAE tax residency",
+      "body": "<h3>Leaving the UK: tax follows the facts and the tax year</h3><p>HMRC applies the Statutory Residence Test. Days, work and connections matter; the departure flight alone does not make the year an overseas year. Split-year treatment applies only when its conditions are met. UK income or a disposal of UK land can remain relevant after you become non-resident.</p><p>Tell HMRC through the appropriate departure process. If you normally complete Self Assessment, include the residence information with the return; HMRC's guidance explains when P85 is the appropriate route instead. Keep the UK tax-year dates and the new country's reporting dates on one calendar. <a href=\"https://www.gov.uk/tax-right-retire-abroad-return-to-uk\">HMRC: leaving the UK and returning</a>.</p><h3>UK exit-tax headlines: the rules to act on, checked 5 October 2026</h3><p>A proposal reported in the news does not establish a charge on your departure. The operative issues here are the residence test, continuing UK-source liabilities, temporary non-residence and the inheritance-tax rules below. One enacted 2026 change concerns distributions from closely controlled companies when the recipient returns after temporary non-residence. It is a defined return-related charge, not a charge simply for boarding a flight.</p><p><a href=\"https://www.legislation.gov.uk/ukpga/2026/11/section/43/enacted\">Finance Act 2026, section 43</a> introduces the relevant Schedule 3 provisions. <a href=\"https://www.gov.uk/hmrc-internal-manuals/residence-and-fig-regime-manual/rfig21600\">HMRC's current distribution guidance</a> explains their practical effect: for individuals becoming UK resident on or after 6 April 2026, the applicable charge includes the part attributable to trading profits earned during the temporary absence. Older guidance describing an exclusion for those profits relates to returns before that date. The distribution rule concerns a material participator in a close company, or their associate, at a point in the tax year of departure (its UK part if split-year treatment applies) or in any of the three previous tax years; the temporary non-residence conditions must also apply. It does not make every overseas dividend taxable on return.</p><h3>Map a return before taking the money out</h3><ol><li><strong>Before departure:</strong> record the preceding seven tax years, residence position, assets already held and company interests.</li><li><strong>While abroad:</strong> retain transaction dates, acquisition records, distributions and foreign tax paid.</li><li><strong>Before returning:</strong> assess the exact residence periods. The temporary non-residence framework generally includes sole UK residence in at least four of the seven preceding tax years and an intervening period not exceeding five years.</li><li><strong>In the return year:</strong> identify the gains and specified income brought into charge, and any available credit for foreign tax.</li></ol><p>Assets acquired and sold entirely during the absence are generally outside the capital-gains return charge, but exceptions include certain assets connected to earlier holdings or reliefs. <a href=\"https://www.gov.uk/government/publications/temporary-non-residents-and-capital-gains-tax-hs278-self-assessment-helpsheet/hs278-temporary-non-residents-and-capital-gains-tax-2026\">HMRC's HS278 explains the framework</a>. Its 2025/26 examples must be read with the later distribution rule above when planning a return from 6 April 2026.</p><h3>Inheritance tax can follow you to the UAE</h3><p>From 6 April 2025, long-term UK residence replaced the former domicile-based framework for this purpose. Residence in at least ten of the previous twenty tax years can bring overseas assets into scope on a relevant transfer or death. After departure, long-term-resident status can continue for between three and ten tax years, depending on the residence record. HMRC gives three years for ten to thirteen years of prior residence, four for fourteen and five for fifteen.</p><p>Transitional rules, treaties and trusts can change the result. For example, HMRC describes a specific exclusion involving people who were neither UK domiciled nor deemed domiciled on 30 October 2024, were non-resident in 2025/26 and do not return. It also identifies a separate three-year rule for qualifying formerly deemed-domiciled leavers. A UK specialist needs the actual history and instruments to apply these branches. <a href=\"https://www.gov.uk/guidance/inheritance-tax-if-youre-a-long-term-uk-resident\">HMRC: long-term UK residence and inheritance tax</a>.</p><p>This is why a former UK resident living in Dubai may still need UK succession planning. Connect that work to <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">powers, representation and succession</a>, rather than assuming the overseas address settles it.</p><h3>UAE tax residency has its own tests</h3><p>Under Cabinet Decision 85 of 2022, the individual tests include at least 183 days in a relevant twelve-month period. A separate 90-day route additionally requires UAE or GCC nationality, or a valid UAE residence permit, together with a permanent place of residence or employment or business in the UAE. Another route concerns the usual or primary residence and centre of financial and personal interests.</p><p>A tourist entry permission is not the residence permit defined for this purpose. Treaty residency and a certificate for treaty use also require the relevant agreement's conditions. <a href=\"https://tax.gov.ae/Datafolder/Files/Legislation/Corporate%20Tax/Cabinet%20Decision%2085%20of%202022%20-%20For%20publishing.pdf\">Read the FTA-hosted residency decision, Articles 1, 4 and 6</a>. Collect entry and exit records, housing, work and income evidence. The <a href=\"https://tax.gov.ae/en/services/issuance.of.tax.certificates.aspx\">FTA's tax-residency certificate service</a> distinguishes domestic and treaty applications.</p><p>For a UK-connected ownership or succession decision, <a href=\"/en/services/asset-structures/\">asset structure coordination</a> brings the specialist assessment and implementation records together. If money or holdings must move, <a href=\"/en/services/asset-transfers/\">asset transfer coordination</a> organises the receiving requirements and agreed transaction after its tax treatment has been established.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uk/\" data-route=\"/en/knowledge/prepare-your-way-out/leaving-uk/\"><span>Leaving the UK with a prepared alternative</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\" data-route=\"/en/knowledge/prepare-your-way-out/leaving-uae/\"><span>Leaving the UAE or preparing a second option</span><span aria-hidden=\"true\">→</span></a></div>",
+      "criteria": {
+        "title": "UK-connected timelines to examine separately",
+        "headers": [
+          "Question",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Income and gains",
+            "Residence, split-year and continuing sources"
+          ],
+          [
+            "A later return",
+            "Temporary non-residence rules may matter"
+          ],
+          [
+            "Inheritance Tax",
+            "Long-term residence and possible continuing exposure"
+          ],
+          [
+            "Business management",
+            "The owner’s move does not settle company obligations"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-6",
+      "title": "Decide the company purpose before changing its structure",
+      "body": "<p>Your personal move, the company's incorporation and the place where decisions are made are separate facts. Before setting up an overseas company, establish who will manage it, from where, which customers it will serve, how it will be paid and which filings, accounts and licences it will need.</p><p>The same sequence applies to a transfer of assets: identify ownership and purpose, establish the tax consequences, prepare source-of-funds evidence and confirm the receiving institution's requirements before moving the money. For a property purchase abroad, include the intended owner, purchase funding, local costs and succession in the assessment before signing. That prevents the property decision from creating a second, unplanned restructuring job.</p><p>If a company is treated as tax-transparent where it is formed, establish how your actual country of residence and each country where you work classify it. Are its profits attributed to you or to the entity, when are they recognised and what type of income are they? Foreign pass-through treatment is not automatically accepted elsewhere. A relief for dividends may not cover business profits attributed directly to an owner. Resolve that classification before relying on the structure for your move.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/overseas-company/\" data-route=\"/en/services/overseas-company/\"><span>Arrange an overseas company and ongoing administration</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/asset-transfers/\" data-route=\"/en/services/asset-transfers/\"><span>Transfer assets and retain lawful access</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/asset-structures/\" data-route=\"/en/services/asset-structures/\"><span>Arrange asset structures, custody and succession</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-7",
+      "title": "Working remotely abroad: bring the employer into the decision",
+      "body": "<p>Permission from your manager to work remotely leaves other questions to resolve: the right to work in the destination, employer registration, payroll, social insurance, data access and any business presence created there. Give the employer the actual country, working pattern and proposed duration, not just a time-zone change.</p><p>Within the EU coordination framework, cross-border work has specific social-insurance rules and documentation, including A1 where applicable. <a href=\"https://europa.eu/youreurope/business/human-resources/social-security-health/paying-contributions/index_en.htm\">Your Europe explains employer social-security obligations</a>. That framework is not a worldwide remote-work permission. A change in country or working pattern belongs back with the responsible payroll and legal advisers before implementation.</p>"
+    },
+    {
+      "id": "section-8",
+      "title": "Put the professional decisions into an executable departure plan",
+      "body": "<p>EXOBASIS prepares the case records, organises the required tax and legal work and carries the agreed decisions into the departure timetable. That can include obtaining records, coordinating valuations and provider requirements, arranging transfers, assigning correspondence and keeping filing and evidence dates visible.</p><p>Use <a href=\"/en/services/asset-structures/\">asset structures, custody and succession</a> for a defined ownership task, or <a href=\"/en/services/family-business-continuity/\">family and business continuity</a> when people, income and decision-making need to remain connected. You can commission the relevant work directly. Start with your current residence, intended destination, timing and the main business or asset question; detailed financial records belong in the protected case work.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Separate residence, work and nationality"
+      },
+      {
+        "id": "section-2",
+        "title": "Germany: review departure and remaining connections"
+      },
+      {
+        "id": "section-3",
+        "title": "Austria: clarify the Austrian tax and insurance position"
+      },
+      {
+        "id": "section-4",
+        "title": "Switzerland: connect cantonal, pension and continuing obligations"
+      },
+      {
+        "id": "section-5",
+        "title": "UK and UAE: apply the appropriate departure-country rules"
+      },
+      {
+        "id": "section-6",
+        "title": "Align company, management and transfers with their purpose"
+      },
+      {
+        "id": "section-7",
+        "title": "Account for employer, work location and social insurance"
+      },
+      {
+        "id": "section-8",
+        "title": "Connect professional assessment with practical implementation"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 705,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+        "label": "Leaving the UK with a prepared alternative",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#section-5"
+      },
+      {
+        "line": 706,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+        "label": "Leaving the UAE or preparing a second option",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunfts-/Wohnsitzaufgaben",
+        "position": "#section-5"
+      },
+      {
+        "line": 707,
+        "target": "/en/services/overseas-company/",
+        "label": "Arrange an overseas company and ongoing administration",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#section-6"
+      },
+      {
+        "line": 708,
+        "target": "/en/services/asset-transfers/",
+        "label": "Transfer assets and retain lawful access",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Übertragungsschritte",
+        "position": "#section-6"
+      },
+      {
+        "line": 709,
+        "target": "/en/services/asset-structures/",
+        "label": "Arrange asset structures, custody and succession",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt fachliche Strukturierungsarbeit organisieren",
+        "position": "#section-6"
+      },
+      {
+        "line": 710,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-8"
+      }
+    ],
+    "seeding": [
+      "EN03",
+      "EN04",
+      "EN08"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Leaving the UK: tax, residency and business obligations"
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/anfrage/bestaetigung/",
+  "lang": "de",
+  "title": "Anfrage übermittelt",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-20e456d616743a"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-5ec509ae1fc260"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "kind": "confirmation",
+  "displayTitle": "Status deiner Anfrage",
+  "eyebrow": "Kontakt / Status",
+  "seoTitle": "Status deiner Anfrage an EXOBASIS",
+  "description": "Prüfe den Status deiner EXOBASIS-Anfrage und erfahre, wie es nach der Übermittlung weitergeht. Zur Anfrage oder zu den Leistungen zurückkehren.",
+  "intro": "<p>Hier findest du die Rückmeldung zu deiner Formularanfrage. Wenn du diese Seite direkt über einen Link geöffnet hast, ist damit noch keine Nachricht gesendet.</p>",
+  "sections": [
+    {
+      "id": "c-status",
+      "title": "Übermittlung",
+      "body": "<p>Für diesen Seitenaufruf liegt keine bestätigte Übermittlung vor. Wenn du gerade das Formular ausgefüllt hast, prüfe zuerst die dort angezeigte Rückmeldung. Bei unklarem Status sende dieselbe Nachricht nicht mehrfach.</p><p>In einer technischen Vorschau ist der Versand nicht angeschlossen. Auf der Anfrageseite siehst du, welche Kontaktwege tatsächlich verfügbar sind.</p>"
+    },
+    {
+      "id": "c-rueckweg",
+      "title": "Was nach deiner Nachricht geschieht",
+      "body": "<p>Nach erfolgreicher Übermittlung melden wir uns über den angegebenen Rückweg, um dein Anliegen und die passende nächste Arbeit zu klären. Möchtest du ein Gespräch, stimmen wir den Termin gesondert ab. Umfang und Kosten einer Leistung vereinbaren wir vor deiner Beauftragung.</p><p>Eine Terminbuchung, ein Auftrag oder eine Zahlung hat eine eigene Bestätigung. Wenn du bereits mit EXOBASIS arbeitest, bleib bei deinem vereinbarten Ansprechpartner und dem bestehenden geschützten Kontaktweg.</p>"
+    },
+    {
+      "id": "c-orientierung",
+      "title": "Inzwischen weiterlesen",
+      "body": "<p>Erfahre, <a href=\"/de/arbeitsweise/\">wie EXOBASIS deine Vorbereitung plant und ausführt</a>, oder sieh dir die <a href=\"/de/leistungen/\">Leistungen für konkrete Aufgaben</a> an.</p>"
+    }
+  ]
+}

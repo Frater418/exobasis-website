@@ -1,0 +1,326 @@
+{
+  "route": "/en/countries/portugal/",
+  "lang": "en",
+  "title": "Portugal as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/portugal/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-3c27bc0e55caef"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-e029e4e197a60b"
+    }
+  ],
+  "eyebrow": "Portugal: a prepared European base",
+  "seoTitle": "Moving to Portugal: Residence, Homes and Family | EXOBASIS",
+  "description": "Prepare Portugal as a second home or family base: residence routes, renting and buying, healthcare, schools and usable money. Plan and arrange the work.",
+  "intro": "<p>You may want a family future in Portugal, a second home you can reach quickly, or somewhere to go if war or political pressure makes staying put unacceptable. Each calls for a different preparation. The useful starting point is the right to stay, followed by a home, money and everyday arrangements that work when you need them.</p>",
+  "primary": {
+    "label": "Prepare my Portugal base",
+    "intent": "General enquiry"
+  },
+  "countryContext": "/en/countries/portugal/",
+  "country": {
+    "name": "Portugal",
+    "slug": "portugal",
+    "region": "Europe",
+    "map": "countries/portugal-locator.svg",
+    "imageAlt": "Portugal highlighted on a regional locator map.",
+    "caption": "Portugal on the Atlantic coast of the Iberian Peninsula.",
+    "summary": [
+      [
+        "Start with your existing rights",
+        "EU rights, protected UK residence and a new visa application lead to different routes."
+      ],
+      [
+        "Choose a home for real use",
+        "A coastal apartment, a family neighbourhood and an intermittently occupied house need different arrangements."
+      ],
+      [
+        "Make the whole move work",
+        "Connect residence, healthcare, school, accessible funds and responsibilities during your absence."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "What would Portugal need to do for you?",
+      "body": "<p>A prepared refuge should be available before you need it. A second residence should fit the time you will genuinely spend there. A permanent family move must carry school, work and care for years. Decide which of these you are buying into before committing to a property or residence programme.</p><p>Portugal offers a mainland European location with international air links and an established residential market. It also remains part of the European environment you may be trying to distance yourself from. If your concern is a Europe-wide war, travel restrictions or disruption to European banking, a Portuguese address changes some dependencies and leaves others intact. The decision is whether those changes are enough for your family.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "A contingency home needs a way in and a way back",
+      "body": "<p>For a British citizen visiting on an ordinary passport, Portugal shares the Schengen allowance of up to 90 days in any 180-day period. Time spent in other Schengen countries counts towards it. Owning a flat does not create extra visitor days. A family already spending winters in Spain may have less Portuguese visiting time available than it expects. <a href=\"https://www.gov.uk/foreign-travel-advice/portugal/entry-requirements\">Read the current entry rules for British citizens</a>.</p><p>Match the planned length of refuge to a lawful residence route, then make arrival practical: a valid passport for each traveller, permission for a child travelling without the required adult, access to the home, working utilities and funds you can spend immediately. Keep the address, keys and essential records accessible even if your main phone is lost.</p><p>For a rapid arrival, pre-arranged furnished accommodation is often more useful than an unprepared property. Agree how long it remains available, who can hand it over and what happens if a flight arrives late. A mainland base can offer overland options; an island base depends more heavily on flights. Work through these choices in your <a href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">contingency and return plan</a>.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Moving to Portugal with family",
+      "body": "<p>The right neighbourhood is the one in which your family can manage an ordinary Tuesday. Put the school journey, language support, specialist treatment and your working day on the same map. A property that looks ideal during a holiday may create two long school runs and an impractical journey to a clinic.</p><p>For a permanent move, include the partner whose career changes, the child approaching public examinations and any parent who may later need care. If a family member stays behind initially, settle travel consent, emergency decisions and who can access the necessary records. Renting through the first school term can give you evidence about the area before a purchase makes changing course expensive.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "A second residence you use part of the year",
+      "body": "<p>Seasonal living works best when your actual calendar fits your residence conditions. A visa intended for moving your life to Portugal and a low-presence investment route solve different problems. Keep a dated record of visits, residence renewals and travel documents rather than assuming a property deed keeps your status alive.</p><p>Tax residence is a separate question. Portugal's tax authority uses, among its tests, more than 183 days in the relevant 12-month period or a home showing an intention to maintain and occupy it as a habitual residence. Staying below a day count is therefore not the whole test. <a href=\"https://info.portaldasfinancas.gov.pt/en/tax-information/getting-started-in-portugal/tax-residency/tax-residency-rules/Pages/default.aspx\">The Portuguese tax-residence rules</a> matter when you divide your time between Portugal, the UK, the UAE or another country.</p><p>For an intermittently used home, arrange inspections, insurance suited to the pattern of occupancy, bill payments and repairs. Decide who can admit a tradesperson and approve urgent work before a leak occurs while you are abroad.</p><p>If Portugal will sit alongside an existing UAE base, check that your UAE residence and the family permits attached to it remain valid for your return. The <a href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\">UAE departure and second-base guide</a> connects time abroad, family status and access to the arrangements you are keeping there.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Portugal residency: existing rights before an investment",
+      "body": "<p>Your passport, existing status and family relationship determine the starting route. A British or Indian citizen applying from the UAE uses their nationality and existing rights; the application location does not change them. A new British arrival needs the relevant post-Brexit route.</p><ul><li><strong>EU, EEA or Swiss citizen:</strong> for a stay exceeding three months, the Portuguese registration certificate follows the applicable work, resources or study conditions. The official service directs eligible citizens to apply through the municipality within 30 days after the initial three months. <a href=\"https://aima.gov.pt/pt/nacionais-ue-e-familiares/nacionais-ue/certificado-de-registo-para-nacionais-ue\">EU residence registration</a> is different from buying an investor route.</li><li><strong>Non-EU family member of an eligible EU, EEA or Swiss citizen:</strong> if you accompany or join that person in Portugal, check the derived family-residence route before applying independently for D7 or D8. The citizen must meet the applicable residence conditions, and your relationship must fall within the family rules: for example, a spouse, a qualifying partner, a child under 21 or a dependent child, or a dependent parent. For a stay longer than three months, eligible family members with a third-country passport apply for their own residence card under Article 15 of Lei 37/2006. Prepare your valid passport, proof of the qualifying relationship, the citizen's registration certificate and any required evidence of dependency. This is a family-card procedure, distinct from qualifying for a national visa in your own right.</li><li><strong>British resident protected by the Withdrawal Agreement:</strong> residence established by the end of 2020 may give you a protected route. Establish the existing record and current residence document first. <a href=\"https://www.gov.uk/guidance/living-in-portugal\">The UK government’s living-in-Portugal guidance</a> distinguishes this group from new arrivals.</li><li><strong>New non-EU resident:</strong> the national visa framework includes routes for retirement or sufficient own income and for qualifying remote work for an employer or clients outside Portugal. The commonly used labels D7 and D8 describe different evidence needs. A salary, pension and company turnover should not be treated as interchangeable proof. <a href=\"https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/residency\">Portugal’s national-visa requirements</a> set out the relevant categories.</li></ul><h3>Portugal residency by investment and the Golden Visa</h3><p>Current ARI rules include specified fund, research, cultural and business-related investments. AIMA explicitly excludes direct or indirect real-estate investment from the permitted investment activities. Buying a home is therefore a separate decision, not a new property-based Portugal Golden Visa application. Existing historical applications are a different case. <a href=\"https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a\">AIMA’s current ARI rules</a> are the governing reference.</p><p>If your route is already clear, <a href=\"/en/enquiry/\">ask us to organise the Portugal work you need</a>. There is no need to commission a broad strategy exercise before a defined document or arrival assignment.</p>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Where to live, what to rent and how to buy",
+      "body": "<h3>Choose the region around your dependencies</h3><p>Lisbon and its surrounding residential areas suit a shortlist led by international travel, schools and specialist appointments. Porto offers a different urban base in the north. The Algarve puts coastal living and Faro access into the comparison; verify that your chosen town, school and services work outside the holiday season. Madeira may appeal for an island lifestyle, but flights and access to specialist treatment become more important dependencies.</p><p>Visit the actual street at different times, test the school and airport journeys and inspect the building for damp, heat and practical accessibility. For rural homes, assess access roads, vegetation and evacuation options. <a href=\"https://www.gov.uk/foreign-travel-advice/portugal/safety-and-security\">Official safety guidance</a> identifies wildfire and other natural risks; a country-level reputation does not answer the question for a particular plot.</p><h3>Renting before committing</h3><p>Use a short initial let to investigate the area, then a written residential lease for a longer base. Expect identification, a Portuguese tax number and evidence supporting the rent commitment; landlords may ask about income and a guarantor. Before paying, verify who owns the home or is authorised to let it. Record the term, renewal and notice arrangements, rent, deposit, utilities, furnished inventory and the condition at handover. <a href=\"https://www.idealista.pt/en/news/property-for-rent-in-portugal/2026/06/21/730-a-step-by-step-guide-to-renting-property-in-portugal\">Local rental guidance</a> explains the practical documentation. Budget from the actual offered contract, not a supposed national average.</p><h3>Buying a home in Portugal</h3><p>Foreign buyers can acquire residential property; purchase itself does not settle immigration status. Obtain your NIF and appoint an independent Portuguese lawyer or solicitor before signing a promissory contract or paying a deposit. The land-registry record establishes ownership and registered burdens; the tax record, approved use, applicable building documents and condominium position answer different questions. Have the planned use and any alterations checked against the property's actual legal position.</p><p>A promissory contract fixes commitments before the final transfer, so finance, document conditions, deadlines and consequences of default belong there. Completion and registration follow once those conditions are satisfied. <a href=\"https://www.gov.pt/guias/compra-e-venda-de-imoveis-em-portugal-cidadaos-europeus\">The official home-buying guidance</a> and <a href=\"https://justica.gov.pt/en-gb/Servicos/Balcao-Casa-Pronta\">Casa Pronta</a> explain the purchase and registration process.</p><p>Allow separately for the price, any IMT due, stamp duty, registration and legal costs, finance costs and continuing IMI or condominium charges. IMT depends on the transaction and any applicable relief; the tax authority states stamp duty at 0.8% of the IMT tax base, subject to applicable exemptions. Use <a href=\"https://info.portaldasfinancas.gov.pt/pt/apoio_ao_contribuinte/Cidadaos/Casa_e_propriedades/Compra_da_casa/Paginas/default.aspx\">the current Portuguese purchase-tax rules</a> for your transaction rather than an all-in percentage from a property advertisement.</p><p>EXOBASIS can turn your requirements into a search brief, organise viewings and independent title and purchase checks, coordinate the contract process and arrange handover. The <a href=\"/en/services/arrange-arrival/\">arrival and home-setup service</a> can also cover keys, utilities and preparing the home before you travel.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "School places, healthcare and longer-term care",
+      "body": "<p>Public schooling is primarily in Portuguese. International schooling changes the language and curriculum options, but a published school list is not a reserved place. Portugal requires school attendance from age six to eighteen or completion of upper-secondary education. Obtain the child's records, ask about placement and language support and confirm admission before making the home dependent on one school. <a href=\"https://www2.gov.pt/en/migrantes-viver-e-trabalhar-em-portugal/migrantes-ensino-em-portugal-para-criancas-jovens-e-adultos\">The Portuguese education guide</a> explains the system. Our <a href=\"/en/knowledge/family-life-abroad/children-family/\">family preparation guide</a> connects schooling with parental consent and the documents children need.</p><p>Foreign residents can obtain an SNS user number. The official health guide distinguishes getting that number from having the identification, address and residence information needed for the applicable funding arrangements. An SNS number on its own does not prove every treatment will be funded. <a href=\"https://www2.gov.pt/en/servicos/pedir-o-numero-de-utente-do-sns\">Registering for healthcare in Portugal</a> should be completed alongside finding the health centre and providers you will actually use.</p><p>For existing treatment, obtain medical summaries and prescriptions, check medicine availability and identify the right specialist before arrival. A visiting GHIC or EHIC arrangement does not replace planning your cover as a resident. For private insurance, check pre-existing conditions, exclusions and direct billing. <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and care abroad</a> also addresses the gap between an insurance policy and care that is locally available.</p><h3>Arrange daily care around the home you choose</h3><p>If a relative needs help washing, dressing, eating, moving around or attending appointments, describe the actual daily routine and any nursing tasks with their treating team. Check who can provide each part at the proposed Portuguese address, in a language your relative can use. Match the home's access and layout, travel to the clinic and any equipment to that routine. For an Algarve base, confirm support for the months you will be there; for Madeira, include assistance during the flight and the transfer to the home.</p><p>Before arrival, agree the tasks, visit times, costs and payment responsibility with the receiving care service or professional, including cover when the usual person is unavailable. Arrange a handover from the current carers, the first visit and a named family contact. You can commission our <a href=\"/en/services/family-business-continuity/\">family preparation and continuity service</a> to coordinate those confirmations with the home, treatment and arrival plan. We agree a protected intake for the necessary care records; the initial short enquiry needs only the broad task, not medical documents.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Accessible money and income that can continue",
+      "body": "<p>A Portuguese account can simplify rent, utilities and local payments. Banco de Portugal identifies the bank's need to establish identity and supporting information such as address, occupation and tax identification. A NIF is a tax identifier, not automatic bank acceptance. Prepare consistent evidence of where your funds came from and why you are opening the account. <a href=\"https://clientebancario.bportugal.pt/en/opening\">Banco de Portugal’s account-opening guidance</a> explains the requirements.</p><p>If your concern is debanking or a frozen account at home, transferring all available money to one new bank merely changes the single point of failure. Keep separately usable payment methods, establish who can act if you are ill and test transfers and withdrawals before your arrival depends on them. A compliance review can still interrupt a new account. The <a href=\"/en/knowledge/assets-and-access/banking-payments/\">banking and payments guide</a> explains these dependencies; our <a href=\"/en/services/banking-liquidity/\">banking and liquidity service</a> organises the application evidence, payment routes and practical access tests.</p><p>Emigrating to Portugal while working for a UK employer or managing an overseas company also changes where work is physically performed. Agree the employer's position and commission the relevant tax, payroll, social-security and company assessment before treating an existing contract as portable. Immigration permission, personal tax residence and company obligations are separate decisions.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Put the paperwork in the order the move needs",
+      "body": "<p>Start with passports, existing residence evidence, civil-status documents and the income or work records required by your chosen route. Then sequence tax registration, the visa or residence procedure, accommodation, banking, school records and healthcare registration. Where a certificate needs legalisation or translation, obtain it in the form the receiving authority accepts.</p><p>Do not set an irreversible moving date from a generic processing estimate. Make the date depend on the documents and appointments your family actually needs. EXOBASIS can organise the <a href=\"/en/services/residence-documents/\">residence and document work</a>, track the outstanding items and coordinate the handovers to the relevant local professionals.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep Portugal ready while you are elsewhere",
+      "body": "<p>Keep one calendar for residence validity, the presence conditions of your route, passport renewal, tax work, insurance, school commitments and property payments. Give the person looking after the home a written remit, spending limit and reliable way to reach you. A friend with keys is not automatically authorised to deal with your bank, medical information or contracts.</p><p>Before each stay, confirm that utilities, locks, payment methods and necessary medicines are ready. After a long absence, check the home rather than discovering a fault on arrival. <a href=\"/en/services/maintain-preparations/\">Ongoing preparation support</a> can maintain the calendar, arrange checks and deal with agreed tasks between visits.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Prepare Portugal, or compare the right alternative",
+      "body": "<p>If you have chosen Portugal, the next assignment can be specific: establish your residence route, investigate two locations, arrange a rental, support a property purchase or prepare the home and family arrival. We agree the work and its outcome, carry out the commissioned preparation and organise the specialist execution it requires.</p><h3>Portugal compared with Spain and Ireland</h3><p><a href=\"/en/countries/spain/\">Spain</a> belongs beside Portugal if a mainland European base and an Iberian family lifestyle are central. Compare the actual residence route, school location and running costs rather than treating the two countries as interchangeable.</p><p><a href=\"/en/countries/ireland/\">Ireland</a> is a different comparison when an English-speaking daily life and your existing UK-Irish rights matter most. It deserves its own housing, legal-status and family assessment rather than being reduced to climate.</p><p>Our <a href=\"/en/services/country-location-selection/\">country and location selection service</a> can make that comparison around your family's requirements. <a href=\"/en/enquiry/\">Tell us what you want ready in Portugal</a>. If you are unsure which assignment fits, request a free 20-minute orientation to establish the next step.</p>"
+    }
+  ],
+  "faq": {
+    "question": "Can I buy a house in Portugal and use it whenever I need to?",
+    "answer": "A purchase gives you ownership, not unlimited permission to stay. A British visitor normally uses the shared Schengen allowance of 90 days in 180; a longer base needs the relevant residence rights or permission. Current ARI investment rules exclude direct or indirect real-estate investment. Decide the right to stay and the property purchase separately, then prepare the home for your actual pattern of use."
+  },
+  "editorialSources": [
+    "eu",
+    "pt"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 1118,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1120,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1121,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1122,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1123,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1124,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1125,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1126,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1127,
+      "target": "/de/laender/portugal/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1477,
+      "target": "/en/countries/spain/",
+      "label": "Spain as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1479,
+      "target": "/en/countries/ireland/",
+      "label": "Ireland as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Moving to Portugal: build a home you can actually use",
+  "sources": [
+    {
+      "title": "PT-ENTRY | www.gov.uk",
+      "url": "https://www.gov.uk/foreign-travel-advice/portugal/entry-requirements",
+      "section": 2,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "PT-TAX | info.portaldasfinancas.gov.pt",
+      "url": "https://info.portaldasfinancas.gov.pt/en/tax-information/getting-started-in-portugal/tax-residency/tax-residency-rules/Pages/default.aspx",
+      "section": 4,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "PT-EU | aima.gov.pt",
+      "url": "https://aima.gov.pt/pt/nacionais-ue-e-familiares/nacionais-ue/certificado-de-registo-para-nacionais-ue",
+      "section": 5,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "PT-BREXIT | www.gov.uk",
+      "url": "https://www.gov.uk/guidance/living-in-portugal",
+      "section": 5,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "PT-VISA | vistos.mne.gov.pt",
+      "url": "https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/residency",
+      "section": 5,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "PT-ARI | aima.gov.pt",
+      "url": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a",
+      "section": 5,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "PT-HOUSE | www.gov.pt",
+      "url": "https://www.gov.pt/guias/compra-e-venda-de-imoveis-em-portugal-cidadaos-europeus",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "PT-CASA | justica.gov.pt",
+      "url": "https://justica.gov.pt/en-gb/Servicos/Balcao-Casa-Pronta",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "PT-TAXCOST | info.portaldasfinancas.gov.pt",
+      "url": "https://info.portaldasfinancas.gov.pt/pt/apoio_ao_contribuinte/Cidadaos/Casa_e_propriedades/Compra_da_casa/Paginas/default.aspx",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": ""
+    },
+    {
+      "title": "PT-RENT | www.idealista.pt",
+      "url": "https://www.idealista.pt/en/news/property-for-rent-in-portugal/2026/06/21/730-a-step-by-step-guide-to-renting-property-in-portugal",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "retrieved_text_read",
+      "retrievalPeriod": "5 October 2026",
+      "limitation": "local specialist"
+    },
+    {
+      "title": "PT-RISK | www.gov.uk",
+      "url": "https://www.gov.uk/foreign-travel-advice/portugal/safety-and-security",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "PT-SNS | www2.gov.pt",
+      "url": "https://www2.gov.pt/en/servicos/pedir-o-numero-de-utente-do-sns",
+      "section": 7,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "PT-SCHOOL | www2.gov.pt",
+      "url": "https://www2.gov.pt/en/migrantes-viver-e-trabalhar-em-portugal/migrantes-ensino-em-portugal-para-criancas-jovens-e-adultos",
+      "section": 7,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    },
+    {
+      "title": "PT-BANK | clientebancario.bportugal.pt",
+      "url": "https://clientebancario.bportugal.pt/en/opening",
+      "section": 8,
+      "checkedAt": "2026-10-05",
+      "verification": "preserved_text_reread",
+      "retrievalPeriod": "September 2026",
+      "limitation": ""
+    }
+  ]
+}

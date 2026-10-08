@@ -1,0 +1,406 @@
+{
+  "route": "/de/laender/",
+  "lang": "de",
+  "title": "Länder und Möglichkeiten",
+  "parent": "/de/",
+  "translation": "/en/countries/",
+  "model": "laenderuebersicht",
+  "schemaVersion": 1,
+  "kind": "country-hub",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-dfb0cdb006b620"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-8df4757249b7fa"
+    }
+  ],
+  "eyebrow": "Eine zweite Basis, die zu deinem Leben passt",
+  "seoTitle": "Länder und Möglichkeiten: deine zweite Basis | EXOBASIS",
+  "description": "Vergleiche Länder für eine vorbereitete Krisenbasis, eine dauerhafte Familienzukunft oder mobiles Leben. Mit vorhandenen Rechten, Versorgung und konkreten nächsten Schritten.",
+  "intro": "<p>Wohin kannst du mit deiner Familie gehen, wenn du wegen Krieg, wachsendem staatlichem Druck oder Angst vor Krieg eine Alternative brauchst? Und wo könnt ihr dauerhaft leben, ohne bei jedem neuen Problem wieder von vorn anfangen zu müssen?</p><p>Ein passendes Land muss mehr können als weit entfernt sein. Du musst es rechtzeitig erreichen, dort mit deinen Angehörigen bleiben dürfen und Unterkunft, Versorgung sowie Zugriff auf dein Vermögen haben. Vielleicht suchst du nur eine vorbereitete Basis für eine begrenzte Zeit. Vielleicht steht eine neue Familienzukunft oder ein Leben zwischen mehreren Orten an.</p><p>Hier vergleichst du diese Möglichkeiten, bevor du dich auf ein Ziel festlegst. Beginne mit der Aufgabe deines Standorts und den Rechten, die ihr bereits habt. Die Länderprofile zeigen anschließend, welche Fragen an den einzelnen Orten den Unterschied machen.</p>",
+  "openingId": "einstieg",
+  "sections": [
+    {
+      "id": "lebensmodell",
+      "title": "Wofür soll dein zweiter Standort tragen?",
+      "body": "<p>Dasselbe Land kann drei sehr unterschiedliche Aufgaben erfüllen. Entscheidend ist, was bei dir zu Hause weiterbestehen soll, wer mitkommt und unter welchen Bedingungen ihr den zweiten Standort nutzen wollt.</p><h3>Eine vorbereitete Krisenbasis mit Rückkehr</h3><p>Du möchtest dein bisheriges Leben behalten und trotzdem einen Ort haben, den deine Familie bei einer Eskalation nutzen kann. Dafür brauchst du einen geklärten Zugang, eine tatsächlich verfügbare Unterkunft und einen Reiseweg, der rechtzeitig benutzbar ist. Medikamente, Geld für den Alltag und die Betreuung von Angehörigen gehören ebenso dazu wie jemand, der laufende Angelegenheiten am bisherigen Wohnort weiterführen darf.</p><p>Lege schon bei der Vorbereitung fest, wann ihr aufbrecht, was einen früheren Aufbruch verlangt und wann eine Rückkehr vertretbar wird. Ein zweiter Standort schafft mehr Handlungsspielraum, wenn seine Dokumente, Verträge und Zugänge auch während eurer Abwesenheit gepflegt werden. Die Möglichkeit, zunächst zu bleiben und vorzubereiten, gehört zur Entscheidung dazu.</p><h3>Eine dauerhafte Zukunft für deine Familie</h3><p>Wenn ihr wirklich umziehen wollt, zählt ein tragfähiger Alltag über Jahre: ein Aufenthaltsweg für jede Person, eine passende Schule, Behandlung für bestehende Erkrankungen, gegebenenfalls Pflege und ein Haushalt, den ihr dauerhaft finanzieren könnt. Sprache, soziale Bindungen und die beruflichen Möglichkeiten der mitziehenden Person entscheiden mit, ob aus dem Umzug ein gemeinsames Zuhause wird.</p><p>Vergleiche deshalb konkrete Orte statt nur Länder. Eine Küstenregion, eine Hauptstadt und ein abgelegener Wohnsitz stellen andere Anforderungen. Kläre vor einer langfristigen Bindung, ob Schulaufnahme, Versicherung und erforderliche Behandlung am gewählten Ort zusammenpassen.</p><h3>Ein mobiles Leben mit verlässlichen Ankerpunkten</h3><p>Du möchtest mehrere Orte nutzen, ohne bei jeder Reise Wohnung, Arbeitsfähigkeit und Alltag neu organisieren zu müssen. Dann zählen zulässige Aufenthaltsdauer, Wiedereinreise, erforderliche Anwesenheit und Verlängerungstermine. Auch Einkommen aus dem Ausland braucht eine Prüfung der erlaubten Tätigkeit und der steuerlichen Anknüpfungen.</p><p>Eine Basis sollte während deiner Abwesenheit funktionieren: Miet- oder Eigentumspflichten laufen weiter, Dokumente verfallen, und ein verlorenes Telefon darf dich nicht von Geld und wichtigen Unterlagen abschneiden. Plane feste Zuständigkeiten und erreichbare Zugänge für die Zeiten ein, in denen du nicht vor Ort bist.</p><p>Für Kinder, Angehörige und Pflegebedarf vertieft <a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/\">Familie und Alltag im Ausland</a> die konkreten Vorbereitungen. Wenn du diese Arbeit abgeben willst, verbindet <a class=\"exb-text-link\" href=\"/de/leistungen/familie-unternehmen/\">Familie und Unternehmen handlungsfähig halten</a> die Versorgung deiner Angehörigen mit den Aufgaben, die weiterlaufen müssen.</p>"
+    },
+    {
+      "id": "rechte-und-voraussetzungen",
+      "title": "Vorhandene Rechte und tatsächliche Voraussetzungen",
+      "body": "<p>Die erste Frage lautet: Welche Rechte besitzt jede Person schon? Ein deutscher oder österreichischer Pass, Schweizer Staatsangehörigkeit, ein Aufenthaltstitel in Deutschland oder ein Familienverhältnis eröffnen unterschiedliche Wege. Dein heutiger Wohnsitz bestimmt nicht automatisch deine Staatsangehörigkeit. Ein mögliches Recht aus Abstammung wird erst durch seine Voraussetzungen und Nachweise zu einer nutzbaren Option.</p><p>Innerhalb Europas können EU-/EWR-Freizügigkeit oder die schweizerischen Abkommen der passende Ausgangspunkt sein. Kläre diese Rechte vor dem Kauf eines Aufenthaltsprogramms. Je nach Land und Lebenssituation gehören Erwerbstätigkeit oder ausreichende Mittel, Krankenversicherung und Registrierung dazu. Bei Angehörigen zählen deren eigener Status, das Familienverhältnis und die konkrete Rechtsgrundlage im Zielland; der stärkste Pass in der Familie ersetzt diese Prüfung nicht.</p><dl><dt><strong>Einreisen</strong></dt><dd>Dein Reisedokument, ein erforderliches Visum, Transitregeln und die Unterlagen mitreisender Kinder müssen zur tatsächlichen Route passen.</dd><dt><strong>Bleiben</strong></dt><dd>Für das Wohnen brauchst du einen anwendbaren Aufenthaltsgrund und musst dessen Nachweise, Verlängerungen sowie Abwesenheitsregeln erfüllen.</dd><dt><strong>Arbeiten</strong></dt><dd>Lokale Beschäftigung, eigene Geschäftstätigkeit und Fernarbeit können unterschiedlich behandelt werden. Ein Aufenthaltstitel erlaubt nicht jede Tätigkeit.</dd><dt><strong>Steuerliche Zuordnung</strong></dt><dd>Wohnung, Familie, Tätigkeit, Einkommen und tatsächlicher Aufenthalt können Pflichten im bisherigen und im neuen Land auslösen. Ein neues Visum oder die Abmeldung allein beendet sie nicht.</dd></dl><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://eur-lex.europa.eu/eli/dir/2004/38/oj\">EU-Richtlinie 2004/38: Freizügigkeit und Familienangehörige</a></p><p><a class=\"exb-text-link\" href=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\">Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit</a> hilft dir, diese Wege auseinanderzuhalten. Für die konkrete Vorbereitung klären wir bei <a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a>, welche Urkunden, Übersetzungen, Beglaubigungen und Verfahrensschritte zu deinem Fall gehören.</p><p>Auch der Weg hinaus zählt: Eine Einberufung, ein konkretes Ausreisehindernis oder eine unklare Sorgeberechtigung lässt sich nicht mit einem ausländischen Wohnangebot lösen. Die Bedingungen des Herkunftslands und die Rechte im Ziel müssen zusammenpassen.</p><p>Du kennst das Ziel oder die benötigte Arbeit bereits? <a class=\"exb-text-link\" href=\"/de/anfrage/?anliegen=Dokumente%20und%20Aufenthalt%20vorbereiten#kurzanfrage\">Dokumente und Aufenthalt direkt anfragen</a>. Für eine noch offene Frage bleibt die <a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a> ohne Leistungsvorauswahl verfügbar.</p>"
+    },
+    {
+      "id": "szenario-und-kriterien",
+      "title": "Vergleiche das Land mit deinem Szenario",
+      "body": "<p>Lege zuerst fest, was dein zweiter Standort leisten soll. Prüfe danach, ob er auch unter der Störung trägt, gegen die du dich vorbereitest. Für einen normalen Umzug, eine regionale Kriegsausweitung und eine schwere internationale Versorgungskrise gelten andere Annahmen. Die beiden Tabellen halten diese Fragen auseinander.</p><h3 id=\"anforderungen-lebensmodell\">Welche Anforderungen muss dein Standort erfüllen?</h3><p class=\"exb-table-hint\">Tabelle seitlich verschieben, um alle Spalten zu lesen.</p><div class=\"exb-country-table\" role=\"region\" aria-labelledby=\"matrix-lebensmodell\" tabindex=\"0\"><table><caption id=\"matrix-lebensmodell\">Anforderungen nach Lebensmodell</caption><thead><tr><th scope=\"col\">Kriterium</th><th scope=\"col\">Krisenbasis mit Rückkehr</th><th scope=\"col\">Dauerhafte Familienzukunft</th><th scope=\"col\">Mobiles Leben</th></tr></thead><tbody><tr><th scope=\"row\">Rechtlicher Zugang</th><td>Du und die mitreisenden Angehörigen habt einen belegbaren Zugang. Auch die Wiedereinreise und die zulässige Dauer der Ausweichzeit sind geklärt.</td><td>Jede Person hat einen tragfähigen Weg zum Bleiben. Du kennst die Nachweise, Folgeschritte und Pflichten, die diesen Aufenthalt erhalten.</td><td>Deine Reiseabfolge passt zu Einreiserechten, zulässigen Aufenthaltszeiten und erforderlicher Anwesenheit an jeder Basis.</td></tr><tr><th scope=\"row\">Erreichbarkeit</th><td>Du kannst die Basis vor der Störung erreichen. Für den Ausfall der üblichen Route ist eine tatsächlich nutzbare Alternative vorbereitet.</td><td>Der Umzug lässt sich mit den Reiseunterlagen aller Angehörigen, den nötigen Terminen und einem passenden Ankunftszeitpunkt organisieren.</td><td>Du kannst zwischen deinen Standorten wechseln, ohne mit der nächsten Einreise oder einem ablaufenden Titel in Konflikt zu geraten.</td></tr><tr><th scope=\"row\">Versorgung</th><td>Unterkunft, Wasser, Energie und medizinische Hilfe sind für eure Ausweichzeit geklärt. Du kennst die Abhängigkeiten bei einer Versorgungsstörung.</td><td>Regelmäßige Behandlung, Schule, Betreuung und erforderliche Pflege passen zum Wohnort und zum dauerhaften Budget.</td><td>Während jedes Aufenthalts hast du eine nutzbare Unterkunft und Zugang zu Behandlung und den benötigten Alltagsleistungen.</td></tr><tr><th scope=\"row\">Existenz</th><td>Du kannst vor Ort bezahlen, Einkommensausfälle überbrücken und weiterlaufende Verpflichtungen am bisherigen Wohnort bedienen.</td><td>Einkommen und zulässige Tätigkeit tragen den Haushalt. Sprache, berufliche Möglichkeiten und soziale Einbindung ermöglichen einen dauerhaften Alltag.</td><td>Arbeit und Steuerbezüge passen zur tatsächlichen Nutzung. Digitale Zugänge und die laufenden Kosten mehrerer Basen bleiben beherrschbar.</td></tr><tr><th scope=\"row\">Rückkehr / Folge</th><td>Du weißt, unter welchen Bedingungen ihr zurückkehrt. Wohnung, Rechte und wichtige Verpflichtungen der Ausgangsbasis bleiben dafür gepflegt.</td><td>Der weitere Aufenthalt und die individuellen Optionen deiner Angehörigen sind mitgedacht, auch wenn sich Arbeit, Alter oder Familienlage ändern.</td><td>Du hältst Titel, Wiedereinreise und notwendige Anwesenheit aktuell. Die Basis bleibt auch nach einer längeren Reise rechtlich nutzbar.</td></tr></tbody></table></div><h3 id=\"szenarien-und-belege\">Was ändert sich, wenn die Lage kippt?</h3><p class=\"exb-table-hint\">Tabelle seitlich verschieben, um alle Spalten zu lesen.</p><div class=\"exb-country-table\" role=\"region\" aria-labelledby=\"matrix-szenarien\" tabindex=\"0\"><table><caption id=\"matrix-szenarien\">Drei Szenarien und getrennte Belegebenen</caption><thead><tr><th scope=\"col\">Szenario</th><th scope=\"col\">Wissenschaftliche Versorgungsresilienz</th><th scope=\"col\">Frieden, Konflikt und Reisesicherheit</th><th scope=\"col\">Persönliche Nutzbarkeit</th></tr></thead><tbody><tr><th scope=\"row\">Normale langfristige Verlagerung</th><td>Forschung zu abrupt vermindertem Sonnenlicht hilft dir, Abhängigkeiten zu erkennen. Für die heutige Wahl von Schule, Wohnort und Behandlung brauchst du zusätzlich konkrete örtliche Antworten.</td><td>Der Global Peace Index betrachtet Konflikte, gesellschaftliche Sicherheit und Militarisierung. Ergänze dieses Länderbild um die örtliche Sicherheitslage und die Bedingungen deiner Reise; aus einem Indexstand folgt keine Zukunftsprognose.</td><td>Die Rechte jeder Person, Wohnen, Schule, Gesundheit, Einkommen, erlaubte Tätigkeit und laufende Pflichten müssen zusammenpassen. Ein vorhandenes Aufenthaltsrecht kann den Kauf eines neuen Investitionsprodukts überflüssig machen.</td></tr><tr><th scope=\"row\">Regionale Eskalation mit Reise- und Versorgungsstörungen</th><td>Gute Nahrungsproduktion hilft wenig, wenn Flugverbindungen, Treibstoff, Ersatzteile oder Medikamente fehlen. Die Inselstudie macht solche Abhängigkeiten sichtbar; sie simuliert nicht den konkreten regionalen Krieg.</td><td>Betrachte Konfliktnähe, mögliche Verwicklung und Bündnisrolle neben innerer Friedlichkeit. Die unten genannten Behördenstände zu Georgien und den VAE zeigen unterschiedliche regionale Risiken, die ein vorhandenes Wohn- oder Investitionsangebot nicht aufhebt.</td><td>Du brauchst einen rechtzeitig erreichbaren Ort, Einreise und Wiedereinreise für alle Mitreisenden, vorbereitete Unterkunft und Geldzugriff. Plane auch, ob und unter welchen Bedingungen ihr wieder zurückkönnt.</td></tr><tr><th scope=\"row\">Schwere internationale Versorgungskrise</th><td>Nature Food modelliert Ernährungsfolgen nuklear verursachter Klimastörungen. Die Inselstudie in Risk Analysis hebt Australien, Neuseeland, Island, Vanuatu und die Salomonen als interessante Nahrungsresilienzfälle hervor. Treibstoff, Ersatzteile und industrielle Lieferketten bleiben kritisch.</td><td>Ein friedliches Land kann trotzdem von globalen Ernteausfällen oder unterbrochenem Handel betroffen sein. GPI und Behördenhinweise beantworten andere Fragen als die Versorgungsmodelle.</td><td>Ein früh geklärter Zugang muss mit Unterkunft, Wasser, Energie und tatsächlich verfügbarer Versorgung zusammenkommen. Für Vanuatu und die Salomonen bleiben insbesondere Aufenthaltszugang, Fachmedizin und organisierbarer Familienalltag eigenständige Prüfungen. Das Modell verschafft deiner Familie weder einen Platz noch eine Ausreise nach Eintritt der Krise.</td></tr></tbody></table></div><p>Die Wissenschaftsspalte bezieht sich auf Xia et al. in Nature Food vom 15. August 2022 und Boyd/Wilson in Risk Analysis, online veröffentlicht am 4. Dezember 2022. Der Otago-Beitrag vom 7. Februar 2023 erläutert dieselbe Inselstudie. Untersucht werden mögliche Folgen bestimmter Klimastörungen und die Widerstandsfähigkeit von Nahrungsversorgung, nicht die individuelle Sicherheit einer ausreisenden Familie.</p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.nature.com/articles/s43016-022-00573-0\">Xia et al.: Ernährungsfolgen nuklearer Klimastörungen, Nature Food 2022</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://onlinelibrary.wiley.com/doi/10.1111/risa.14072\">Boyd/Wilson: Inselresilienz bei abrupt vermindertem Sonnenlicht, Risk Analysis</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.otago.ac.nz/news/newsroom/nz-one-of-few-island-nations-with-potential-to-produce-enough-food-in-a-nuclear-winter\">University of Otago: Einordnung der Inselstudie, 7. Februar 2023</a></p><p>Die Friedensspalte verwendet die IEP-Methodik vom 3. März 2026. Eine Bündniszugehörigkeit ist ein zusätzlicher Fakt: Schweden ist seit dem 7. März 2024 NATO-Mitglied. Neutralitätsbilder oder ältere Länderlisten reichen für diesen Vergleich deshalb nicht.</p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.visionofhumanity.org/understanding-the-global-peace-index-methodology/\">Institute for Economics &amp; Peace: Methodik des Global Peace Index</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.nato.int/en/news-and-events/articles/news/2024/03/07/sweden-officially-joins-nato\">NATO: Beitritt Schwedens am 7. März 2024</a></p><p>Die hier herangezogene FCDO-Fassung zu Georgien, gesichert am 26. September 2026, unterscheidet Abchasien, Südossetien und angrenzende Gebiete. Der VAE-Hinweis mit Aktualisierung vom 24. Juli 2026 benennt regionale Spannungen und mögliche Flug- und Luftraumstörungen. Vor einer Reise zählt der dann geltende Behördenstand.</p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.uk/foreign-travel-advice/georgia/regional-risks\">FCDO: Regionale Risiken in Georgien</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.uk/foreign-travel-advice/united-arab-emirates\">FCDO: Reisehinweise für die Vereinigten Arabischen Emirate</a></p><p>Zur persönlichen Nutzbarkeit gehört dein Vermögen in einer Form, mit der du tatsächlich handeln kannst. Bei Kontosperre, Bankkündigung oder Kapitalverkehrskontrollen zahlt der Wert eines Hauses noch keine Miete im Ausland. Kläre zulässige Zahlwege, Reserve für laufende Ausgaben, Mittelherkunft und einen unabhängigen Zugang bei Geräteverlust. <a class=\"exb-text-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Kontozugang und Zahlungsfähigkeit im Ausland</a> erklärt die Abhängigkeiten; mit <a class=\"exb-text-link\" href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität vorbereiten</a> kannst du die konkrete Vorbereitung beauftragen.</p>"
+    },
+    {
+      "id": "laenderprofile",
+      "title": "Länder und ihre unterschiedlichen Rollen",
+      "body": "<p>Die 27 Länder sind nach Vergleichsräumen geordnet. Lies zuerst die Räume, die zu deiner Aufgabe passen, und vertiefe dann die relevanten Profile. Die Reihenfolge ist keine Sicherheitsrangliste. Für ein einzelnes Land findest du jeweils seine mögliche Rolle, den entscheidenden Prüfpunkt und den vollständigen Profilzugang.</p><nav class=\"exb-country-groups-nav\" aria-label=\"Vergleichsräume\"><a class=\"exb-text-link\" href=\"#suedamerika\">Südamerika</a><a class=\"exb-text-link\" href=\"#mittelamerika-karibik\">Mittelamerika und Karibik</a><a class=\"exb-text-link\" href=\"#pazifik\">Pazifik</a><a class=\"exb-text-link\" href=\"#nordamerika\">Nordamerika</a><a class=\"exb-text-link\" href=\"#europa\">Europa</a><a class=\"exb-text-link\" href=\"#afrika-indischer-ozean\">Afrika und Indischer Ozean</a><a class=\"exb-text-link\" href=\"#asien\">Asien</a><a class=\"exb-text-link\" href=\"#weitere-untersuchte-optionen\">Weitere ausdrücklich untersuchte Optionen</a></nav><div class=\"exb-country-group\"><h3 id=\"suedamerika\">Südamerika</h3><p>Für eine Basis in Südamerika vergleichst du Küste, Binnenland und konkrete Regionen zusammen mit dem Aufenthaltsweg. Der Abstand zu Europa ist hilfreich, wenn er zu deinem Szenario passt; Reisevorlauf und örtliche Versorgung machen ihn erst nutzbar.</p><article class=\"exb-country-directory-item\"><h4>Uruguay</h4><p><strong>Eine dauerhafte Familienbasis vorbereiten</strong></p><p>Uruguay gehört in den Vergleich, wenn du einen echten zweiten Lebensmittelpunkt in Südamerika aufbauen willst. Zum Weg der dauerhaften Residenz gehören personenbezogene Nachweise; danach muss der gewählte Ort euren Alltag tragen. Vergleiche erreichbare Behandlung, Schule und laufende Wohnkosten. Eine vorbereitete Wohnung hilft als Krisenbasis nur, wenn auch Einreise, Versorgung und die Anreise aller Angehörigen geklärt sind.</p><p><a class=\"exb-text-link\" href=\"/de/laender/uruguay/\">Uruguay als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gub.uy/tramites/residencia-legal-permanente\">Uruguay: Verfahren zur dauerhaften legalen Residenz</a></p></article><article class=\"exb-country-directory-item\"><h4>Paraguay</h4><p><strong>Eine Binnenlandbasis mit eigenem Verfahrensweg</strong></p><p>In Paraguay sind temporäre Residenz, deren Verlängerung und ein späterer Dauerstatus auseinanderzuhalten. Plane persönliche Termine und die Unterlagen aus dem Herkunftsland in den Aufbau ein. Für die Ortswahl ist entscheidend, wie ihr zu Ärzten, Schule und Verkehrsanbindungen gelangt. Ein günstiger Wohnsitz fern der benötigten Leistungen kann für eine Familie die schlechtere Lösung sein.</p><p><a class=\"exb-text-link\" href=\"/de/laender/paraguay/\">Paraguay als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://migraciones.gov.py/residencia-temporal/\">Migraciones Paraguay: temporäre Residenz nach Gesetz 6984/2022</a></p></article><article class=\"exb-country-directory-item\"><h4>Argentinien</h4><p><strong>Familienleben und nutzbares Einkommen zusammenbringen</strong></p><p>Für Argentinien kann ein Rentista- oder Pensionado-Weg zur Einkommenssituation passen. Entscheidend sind die Herkunft und Nachweisbarkeit der laufenden Mittel, nicht allein das vorhandene Gesamtvermögen. Vergleiche die konkrete Region zusammen mit Zahlwegen, Wohnen und medizinischer Versorgung. Wer dauerhaft umziehen will, braucht zusätzlich eine Perspektive für zulässige Tätigkeit und die berufliche Zukunft der mitziehenden Person.</p><p><a class=\"exb-text-link\" href=\"/de/laender/argentinien/\">Argentinien als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-temporario-como-rentista-o-pensionado\">Argentinien: befristeter Zugang als Rentista oder Pensionado</a></p></article><article class=\"exb-country-directory-item\"><h4>Chile</h4><p><strong>Eine langfristig aufgebaute Basis mit regionalen Unterschieden</strong></p><p>Chile ist eine Option für einen geplanten dauerhaften Wechsel, bei dem Voraufenthalt und spätere Dauerresidenz sauber aufeinander aufbauen. Anwesenheit und Zeiten außerhalb des Landes können für diesen Weg relevant sein. Wähle den Wohnort auch nach Naturgefahren, erreichbarer Behandlung und Reisewegen. Der große Abstand zu Europa verlangt besonders für eine nur zeitweise Krisennutzung einen ausreichenden Reisevorlauf.</p><p><a class=\"exb-text-link\" href=\"/de/laender/chile/\">Chile als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://serviciomigraciones.cl/residencia-definitiva/\">SERMIG Chile: Voraussetzungen der Dauerresidenz</a></p></article><article class=\"exb-country-directory-item\"><h4>Brasilien</h4><p><strong>Die passende Region statt eines pauschalen Brasilienbilds</strong></p><p>Brasilien bietet sehr unterschiedliche Lebensumgebungen. Ein Ruhestands-, Familien- oder anderer Aufenthaltsgrund muss zu dir passen; danach entscheidet die regionale Auswahl über Sprache, Sicherheit, Schulwege und Versorgung. Die zum gewählten Aufenthaltsweg passenden Finanznachweise, etwa zu Pension, Einkommen oder verfügbaren Mitteln, müssen mit eurem tatsächlich finanzierbaren Familienhaushalt zusammenpassen; ein Nachweisbetrag ersetzt das Budget für Wohnen, Schule und Versorgung nicht. Bei längerem Verbleib gehört die Registrierung bei der Polícia Federal zum tatsächlichen Aufbau. Für eine mobile Nutzung prüfst du zusätzlich, wie Abwesenheiten den gewählten Status berühren.</p><p><a class=\"exb-text-link\" href=\"/de/laender/brasilien/\">Brasilien als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.br/pt-br/servicos/registrar-se-como-estrangeiro-no-brasil\">Brasilien: Registrierung ausländischer Bewohner bei der Polícia Federal</a></p></article></div><div class=\"exb-country-group\"><h3 id=\"mittelamerika-karibik\">Mittelamerika und Karibik</h3><p>Festland, Insel und internationaler Verkehrsknoten erfüllen verschiedene Aufgaben. Betrachte die Anreise, Wetterereignisse und importabhängige Versorgung neben dem Wohnort, den deine Familie wirklich nutzen würde.</p><article class=\"exb-country-directory-item\"><h4>Panama</h4><p><strong>Wohnbasis und internationaler Fachstandort getrennt beurteilen</strong></p><p>Panama kann für Wohnen und für Unternehmens- oder Vermögensaufgaben interessant sein. Deine Familie braucht jedoch einen konkreten Wohnort mit Schule, Behandlung und verlässlichen Alltagswegen. Die Reisehinweise unterscheiden bestimmte Grenz- und abgelegene Gebiete ausdrücklich vom übrigen Land. Vergleiche daher nicht nur den internationalen Anschluss, sondern die tatsächlich geplante Region und eure Abhängigkeit von Transit und Versorgung.</p><p><a class=\"exb-text-link\" href=\"/de/laender/panama/\">Panama als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.uk/foreign-travel-advice/panama/safety-and-security\">FCDO: regionale Sicherheits- und Reisehinweise für Panama</a></p></article><article class=\"exb-country-directory-item\"><h4>Costa Rica</h4><p><strong>Reguläre Residenz oder zeitlich begrenzte Fernarbeit</strong></p><p>Costa Rica eröffnet unterschiedliche Prüfwege: Pensionado und Rentista gehören zur regulären Residenz, die Nomaden-Estancia zur vorübergehenden Fernarbeit für das Ausland. Für ihre Verlängerung sind im ersten Jahr mindestens 180 Tage tatsächlicher Aufenthalt in Costa Rica erforderlich; diese Bedingung gehört zum Nomadenweg, nicht zur regulären Residenz. Wähle zuerst den Weg, der zu deiner geplanten Nutzung passt. Für die Familienbasis folgen Wohnregion, Behandlung, Schule, Mobilität und die Kosten der laufenden Versorgung; ein Urlaubsort beantwortet diese Fragen noch nicht.</p><p><a class=\"exb-text-link\" href=\"/de/laender/costa-rica/\">Costa Rica als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.dhr.go.cr/defensoria_transparente/participacion_ciudadana/migracion_refugio/ley_8764/titulo_vi.pdf\">Costa Rica: Gesetz 8764, reguläre Aufenthaltskategorien</a> · <a class=\"exb-text-link\" href=\"https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=95085&amp;param2=129850&amp;param3=1&amp;param4=\">Costa Rica: Gesetz 10008, Artikel 15, Verlängerung der Nomaden-Estancia</a></p></article><article class=\"exb-country-directory-item\"><h4>Mexiko</h4><p><strong>Konsulatsverfahren und Wohnregion zusammen auswählen</strong></p><p>Bei Mexiko gehören temporäre und permanente Residenz in unterschiedliche Fallprüfungen. Ob Einkommen oder Vermögen als Nachweis passt, klärst du anhand deiner Kategorie und des zuständigen Konsulats; ein veröffentlichter Wert eines anderen Konsulats ist keine persönliche Zusage. Für die örtliche Auswahl zählen Sicherheitslage, Behandlung, Schulwege und Erreichbarkeit innerhalb der gewählten Region weit mehr als ein einheitliches Bild des ganzen Landes.</p><p><a class=\"exb-text-link\" href=\"/de/laender/mexiko/\">Mexiko als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://consulmex.sre.gob.mx/portland/index.php/docu/ve/7-servicios/servicios/61-visa-permanent-residents\">Mexikanisches Konsulat Portland: Voraussetzungen permanenter Residenz</a></p></article><article class=\"exb-country-directory-item\"><h4>Dominikanische Republik</h4><p><strong>Eine karibische Basis mit praktisch vorbereitetem Alltag</strong></p><p>Die Dominikanische Republik kommt für einen zweiten Wohnort ebenso wie für einen dauerhaften Familienalltag in Betracht. Rentista-, Pensionado- und Investorenfälle verlangen unterschiedliche Voraussetzungen und Verfahrensschritte. Beziehe Krankenversorgung, Strom und Wasser am konkreten Wohnort, Wetterereignisse und belastbare Zahlwege in die Auswahl ein. Santo Domingo bietet Anknüpfungspunkte für städtische Schul- und Facharztwege; an der Nordküste zählen die tatsächlichen Wege von Puerto Plata oder Cabarete zu Schule und Versorgung in Sosúa. In Samaná und Las Terrenas müssen Schulstandort, weiterführende Behandlung und Zufahrt bei Regen zusammenpassen. Im Binnenland ist Santiago mit Schul- und Klinikwegen eine andere Wahl als eine abgelegene Höhenlage; im Osten vergleichst du Punta Cana nach Schule, medizinischem Bedarf und dem tatsächlichen Strom- und Wasseranschluss des Objekts. Für importierte Medikamente oder Ersatzteile brauchst du einen Bezugsweg mit Reserve; Ersatzstrom für notwendige Geräte und erreichbare Hilfe bei Unwettern bestimmen, ob die Basis im Alltag nutzbar bleibt. Bei einem Objekt zählen Eigentumslage und Nutzbarkeit neben dem Kaufpreis; Eigentum ersetzt den Aufenthaltsweg nicht.</p><p><a class=\"exb-text-link\" href=\"/de/laender/dominikanische-republik/\">Dominikanische Republik als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://migracion.gob.do/servicio/residencia-por-inversion-en-calidad-de-rentista/\">DGM Dominikanische Republik: Residenz als Rentista</a></p></article></div><div class=\"exb-country-group\"><h3 id=\"pazifik\">Pazifik</h3><p>Die große Entfernung verlangt früh geklärten Zugang und eine belastbare Anreise. Der wissenschaftliche Blick auf Nahrungsresilienz ergänzt diesen Vergleich, ersetzt aber weder einen Aufenthaltsweg noch den Aufbau vor Ort.</p><article class=\"exb-country-directory-item\"><h4>Neuseeland</h4><p><strong>Eine weit entfernte Basis mit langem Vorbereitungsvorlauf</strong></p><p>Neuseeland ist zugleich ein interessanter Nahrungsresilienzfall und ein Land mit konkreten Zugangsvoraussetzungen. Für einen vermögenden Antragsteller kann Active Investor Plus prüfenswert sein; andere Familien brauchen einen anderen tragfähigen Weg. Beginne mit der tatsächlichen Berechtigung und der Reiseplanung. Erst danach lohnt die engere Ortswahl für Schule, Behandlung und Alltag. Die Inselstudie reserviert weder einen Aufenthalt noch Versorgung.</p><p><a class=\"exb-text-link\" href=\"/de/laender/neuseeland/\">Neuseeland als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.immigration.govt.nz/visas/active-investor-plus-visa/\">Immigration New Zealand: Active Investor Plus Visa</a></p></article><article class=\"exb-country-directory-item\"><h4>Australien</h4><p><strong>Langfristige Niederlassung über einen tatsächlich offenen Weg</strong></p><p>Australien gehört wegen seiner Größe, Regionen und Nahrungsproduktion in den Vergleich. Der frühere Business Innovation and Investment-Zugang ist für neue Anträge jedoch geschlossen; er steht dir nicht als neu buchbare Investorenlösung zur Verfügung. Prüfe einen zu deinem Fall passenden anderen Weg. Eine konkrete Region muss Reiseaufwand, Naturgefahren, Familienversorgung und den Lebensunterhalt zusammenbringen.</p><p><a class=\"exb-text-link\" href=\"/de/laender/australien/\">Australien als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://immi.homeaffairs.gov.au/visas/getting-a-visa/biip-closure-and-refunds\">Australian Home Affairs: Schließung des BIIP und Behandlung bestehender Fälle</a></p></article></div><div class=\"exb-country-group\"><h3 id=\"nordamerika\">Nordamerika</h3><p>Kanada wird als eigenständiger Länderfall betrachtet. Welche Provinz und welcher rechtliche Weg passen, folgt aus eurer Familien- und Erwerbssituation.</p><article class=\"exb-country-directory-item\"><h4>Kanada</h4><p><strong>Ein eigenständiger Familien- oder Erwerbsfall</strong></p><p>Kanada bleibt ein Vergleichsland, aber das Start-up Visa ist kein frei verfügbarer neuer Einstieg: Laut IRCC-Seitenstand vom 21. Juli 2026 ist die Aufnahme neuer Anträge pausiert; zuvor eingegangene Anträge werden weiterbearbeitet. Für deine Auswahl zählt ein tatsächlich anwendbarer Aufenthaltsweg. Region, Winterbedingungen, Wohnkosten, Behandlung und Schule bestimmen anschließend, ob ein dauerhafter Familienalltag dort tragfähig ist. Kanada ist NATO-Mitglied. Wenn du wegen Krieg oder Kriegsangst eine Alternative suchst, betrachtest du diese Bündnisbindung getrennt von der inneren Friedlichkeit im jeweiligen Konfliktszenario.</p><p><a class=\"exb-text-link\" href=\"/de/laender/kanada/\">Kanada als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/participate/commitment-certificate.html\">IRCC: Status des Start-up Visa, Seitenstand 21. Juli 2026</a></p></article></div><div class=\"exb-country-group\"><h3 id=\"europa\">Europa</h3><p>Vorhandene Rechte können die Vorbereitung innerhalb Europas erheblich verändern. Vergleiche zuerst die Berechtigung jeder Person und anschließend die konkrete Region; Nähe und gute Alltagstauglichkeit sind andere Eigenschaften als Distanz zu einer europäischen Krise.</p><article class=\"exb-country-directory-item\"><h4>Portugal</h4><p><strong>Europäische Familienbasis mit Rechteprüfung vor Investition</strong></p><p>Portugal verdient einen frühen Vergleich, wenn bereits europäische Aufenthaltsrechte bestehen. Für andere Fälle kommen passende nationale Aufenthaltswege oder qualifizierende Investitionen infrage. Der Immobilienkauf selbst ist kein heutiger ARI-Zugangsweg. Trenne daher die Entscheidung über Wohnen oder Kaufen von der rechtlichen Berechtigung. Für den dauerhaften Alltag zählen Wohnregion, Gesundheitszugang, Schule und ein tragfähiges Budget.</p><p><a class=\"exb-text-link\" href=\"/de/laender/portugal/\">Portugal als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a\">AIMA Portugal: qualifizierende ARI-Wege</a></p></article><article class=\"exb-country-directory-item\"><h4>Spanien</h4><p><strong>Geplantes Wohnen ohne altes Golden-Visa-Versprechen</strong></p><p>Spanien kann über bestehende EU-Rechte oder einen anderen passenden Aufenthaltsgrund infrage kommen. Seit dem 3. April 2025 sind neue Anträge auf Investorenvisa beziehungsweise entsprechende Investorengenehmigungen nach dem alten Programm nicht mehr möglich. Zuvor eingereichte Anträge können noch nach den bei Einreichung geltenden Regeln zur Erteilung führen. Ein Immobilienangebot eröffnet diesen Weg deshalb nicht mehr. Vergleiche stattdessen deinen wirklichen Aufenthaltsgrund und die Region nach Behandlung, Schule, Alltagssprache und Wohnkosten.</p><p><a class=\"exb-text-link\" href=\"/de/laender/spanien/\">Spanien als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.exteriores.gob.es/Consulados/pekin/es/Comunicacion/Noticias/Paginas/Articulos/Eliminaci%C3%B3n-de-la-%E2%80%9CGolden-Visa%E2%80%9D--%E5%8F%96%E6%B6%88%E6%8A%95%E8%B5%84%E7%A7%BB%E6%B0%91%E2%80%9C%E9%BB%84%E9%87%91%E7%AD%BE%E8%AF%81%E2%80%9D.aspx\">Spanisches Außenministerium: Ende des Golden-Visa-Zugangs</a></p></article><article class=\"exb-country-directory-item\"><h4>Schweiz</h4><p><strong>Erreichbare zweite Basis mit eigener Rechts- und Kostenlage</strong></p><p>Die Schweiz kann für Menschen aus dem europäischen Umfeld eine gut vorbereitbare Alternative sein. Der Zugang richtet sich unter anderem nach Staatsangehörigkeit und Erwerbssituation; für Nichterwerbstätige im Freizügigkeitsrahmen zählen ausreichende Mittel und Versicherung. Vergleiche den konkreten Wohnort samt Kanton: Lebenshaltung, Versicherung und die für eure Personenlage geltenden Aufenthalts- und Steuerbedingungen gehören in dieselbe Rechnung. Die Nähe vereinfacht Erkundung und Kontakte, schafft aber keine Unabhängigkeit von europäischen Verkehrs- und Versorgungsstörungen.</p><p><a class=\"exb-text-link\" href=\"/de/laender/schweiz/\">Schweiz als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-nichterwerbstaetige-e.pdf.download.pdf/fs-nichterwerbstaetige-e.pdf\">Schweizer SEM: Aufenthalt ohne Erwerbstätigkeit im Freizügigkeitsrahmen</a></p></article><article class=\"exb-country-directory-item\"><h4>Irland</h4><p><strong>Englischsprachiges Familienleben mit getrennten Personenrechten</strong></p><p>Irland kann zu Familien passen, die einen englischsprachigen Alltag innerhalb der EU suchen. EU-/EWR-/Schweizer Rechte, britische CTA-Rechte und sonstige Aufenthaltswege sind getrennte Grundlagen. Insbesondere nichtbritische Angehörige eines britischen Staatsangehörigen brauchen ihren eigenen geprüften Weg. Vergleiche außerdem tatsächlich verfügbare Wohnung, Schule und Behandlung, bevor du aus dem rechtlichen Zugang schon eine fertige Familienbasis ableitest.</p><p><a class=\"exb-text-link\" href=\"/de/laender/irland/\">Irland als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/\">Irish Immigration: Familienangehörige britischer Staatsangehöriger</a></p></article><article class=\"exb-country-directory-item\"><h4>Island</h4><p><strong>Nahrungsresilienz und abgelegener Familienalltag</strong></p><p>Island gehört zu den in der Inselstudie hervorgehobenen Vergleichsfällen. Für den persönlichen Zugang kann die EWR-/EFTA-Registrierung relevant sein. Die Auswahl muss trotzdem das tägliche Leben tragen: Spezialbehandlung, Wohnen, Klima, Reiseverbindungen und importierte Betriebsmittel. Wer eine Krisenbasis statt eines dauerhaften Umzugs sucht, braucht besonders klar geregelte Erreichbarkeit und Versorgung während der vorgesehenen Nutzung.</p><p><a class=\"exb-text-link\" href=\"/de/laender/island/\">Island als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://island.is/en/registration-of-eea-efta-foreign-nationals\">Island: Registrierung von EWR-/EFTA-Staatsangehörigen</a></p></article><article class=\"exb-country-directory-item\"><h4>Griechenland</h4><p><strong>Vorhandenes europäisches Recht oder konkreter Investorenfall</strong></p><p>In Griechenland prüfst du zuerst, ob du bereits als EU-/EWR-/Schweizer Staatsangehöriger wohnen kannst. Bei Investoren unterscheiden sich gewöhnlicher Immobilienerwerb, qualifizierte Nutzungsänderung und denkmalgeschützte Restaurierung; sie lassen sich nicht als ein beliebiges Kaufangebot behandeln. Für die Familiennutzung macht es zudem einen erheblichen Unterschied, ob notwendige Behandlung auf derselben Insel oder nur über eine weitere Reise erreichbar ist.</p><p><a class=\"exb-text-link\" href=\"/de/laender/griechenland/\">Griechenland als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf\">Griechisches Migrationsministerium: Rundschreiben 9 zu den unterschiedlichen Immobilieninvestitionsfällen</a></p></article><article class=\"exb-country-directory-item\"><h4>Zypern</h4><p><strong>Inselwohnsitz mit gesonderter Tätigkeitsprüfung</strong></p><p>Zypern kann als dauerhafter oder regelmäßig genutzter Standort infrage kommen. Bestehende europäische Rechte und ein Investorenverfahren sind verschiedene Ausgangspunkte; ein Investorenstatus beantwortet die Frage nach zulässiger Beschäftigung nicht pauschal. Schule, Fachmedizin, Wasser, Energie und Flugverbindungen gehören deshalb neben die rechtliche Prüfung. Die regionale Lage bleibt auch bei einem passenden Wohnangebot Teil deiner Entscheidung.</p><p><a class=\"exb-text-link\" href=\"/de/laender/zypern/\">Zypern als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/\">Migration Department Zypern: Aufenthaltsgenehmigungen für Investoren</a></p></article><article class=\"exb-country-directory-item\"><h4>Malta</h4><p><strong>Kompakte europäische Basis mit getrennten Rechtswegen</strong></p><p>Malta verbindet einen möglichen Familienwohnsitz mit unterschiedlichen Aufenthaltswegen. EU-Rechte werden vor einem MPRP-Fall geprüft; Daueraufenthalt, Erwerbstätigkeit und Staatsangehörigkeit sind nicht dasselbe. Beim MPRP musst du eine programmgerechte Kauf- oder Mietimmobilie vorhalten und zusätzlich Verwaltungsgebühren, staatlichen Beitrag und Spende einplanen, getrennt von den normalen Wohn- und Lebenshaltungskosten. Für die praktische Auswahl zählen die konkrete Wohnung, Schulplätze und erreichbare Behandlung ebenso wie die laufenden Kosten und die Abhängigkeit von Reise- und Lieferverbindungen einer Insel.</p><p><a class=\"exb-text-link\" href=\"/de/laender/malta/\">Malta als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://residencymalta.gov.mt/wp-content/uploads/2025/08/S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf\">Residency Malta Agency: MPRP-Verordnung, Fassung 2025</a></p></article></div><div class=\"exb-country-group\"><h3 id=\"afrika-indischer-ozean\">Afrika und Indischer Ozean</h3><p>Inselverbindungen, große Entfernungen und die tatsächliche Fachversorgung bestimmen diese Ortswahl mit. Eine angenehme Umgebung muss auch mit eurem medizinischen Bedarf und eurem Alltag vereinbar sein.</p><article class=\"exb-country-directory-item\"><h4>Mauritius</h4><p><strong>Inselbasis passend zu Aufenthaltsdauer und Erwerbsform</strong></p><p>Mauritius kommt für einen längeren Aufenthalt oder einen dauerhafteren Aufbau in Betracht. Premium Visa, Occupation Permit und reguläre Aufenthaltswege erfüllen unterschiedliche Zwecke. Wer nur auf Zeit bleiben will, sollte deshalb keinen dauerhaften Anspruch aus dem gewählten Besuchsmodell ableiten. Für Familie und Pflegebedarf ist entscheidend, welche Behandlung am Ort verfügbar ist und wofür eine zusätzliche Reise nötig würde. Für eine vorbereitet nutzbare Inselbasis gehören außerdem Reserven für Zyklone und Starkregen, der Nachschub importierter Medikamente oder Ersatzteile sowie ein Ausweichplan bei unterbrochenen Flugverbindungen dazu.</p><p><a class=\"exb-text-link\" href=\"/de/laender/mauritius/\">Mauritius als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf\">Economic Development Board Mauritius: Premium-Visa-Bedingungen</a></p></article><article class=\"exb-country-directory-item\"><h4>Namibia</h4><p><strong>Weite und Ruhe mit erreichbarer Versorgung verbinden</strong></p><p>Namibia verlangt eine besonders konkrete Ortswahl. Große Entfernungen wirken sich auf Schulwege, Behandlung, Wasser- und Alltagsversorgung aus. Kläre den passenden Aufenthalts- oder Arbeitsweg und den tatsächlichen Radius eurer wichtigsten Leistungen gemeinsam. Dazu gehören die für euren Aufenthaltsfall verlangten Belege zu Einkommen, Vermögen oder Unterhalt sowie vorbereitete Passkopien und, soweit gefordert, Personenstands-, Strafregister- und medizinische Unterlagen. Eine abgeschiedene Unterkunft kann für einen einzelnen Aufenthalt passen und für die dauerhafte Versorgung eines pflegebedürftigen Angehörigen ungeeignet sein.</p><p><a class=\"exb-text-link\" href=\"/de/laender/namibia/\">Namibia als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://mhaiss.gov.na/immigration-control\">Namibia MHAISS: Einwanderungs- und Aufenthaltsverfahren</a></p></article><article class=\"exb-country-directory-item\"><h4>Südafrika</h4><p><strong>Örtliche Familienversorgung statt pauschalem Landesurteil</strong></p><p>Südafrika bietet unterschiedliche Regionen für einen langfristigen Lebensentwurf. Der Aufenthaltsgrund braucht seine eigene Prüfung, ebenso die Sicherheit des konkreten Wohnumfelds und die Versorgung bei Ausfällen von Strom oder Wasser. Plane Schule, Behandlung, Versicherung und sichere Alltagswege zusammen. Für eine vorbereitete Reservebasis zählen darüber hinaus Betreuung während der Abwesenheit und eine realistische Anreise.</p><p><a class=\"exb-text-link\" href=\"/de/laender/suedafrika/\">Südafrika als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.za/services/services-foreign-nationals/permanent-residence/apply-permanent-residency-permit\">Südafrikanische Regierung: dauerhafte Aufenthaltsgenehmigung</a></p></article></div><div class=\"exb-country-group\"><h3 id=\"asien\">Asien</h3><p>Für einen asiatischen Standort zählen die konkrete Aufenthaltskategorie und der nutzbare Alltag zusammen. Ein Programmname allein sagt noch nicht, welche Tätigkeit, Familiennutzung oder Abwesenheit zulässig ist.</p><article class=\"exb-country-directory-item\"><h4>Malaysia</h4><p><strong>Ein Aufenthaltsprogramm muss zum Familienalltag passen</strong></p><p>Malaysia gehört in den Vergleich, wenn du eine asiatische Basis für längere Aufenthalte oder die Familie suchst. Beim MM2H sind Kategorie, Bedingungen und betroffene Personen genau zu unterscheiden; eine pauschale Präsenzregel für alle Fälle wäre irreführend. Vergleiche die tatsächliche Wohnregion, passende Schule, Fachmedizin, Alltagssprache und die erlaubte Tätigkeit, bevor du dich finanziell an ein Programm bindest.</p><p><a class=\"exb-text-link\" href=\"/de/laender/malaysia/\">Malaysia als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.motac.gov.my/wp-content/uploads/2025/12/Guide-Malaysia-My-Second-Home.pdf\">MOTAC Malaysia: offizieller MM2H-Leitfaden</a></p></article><article class=\"exb-country-directory-item\"><h4>Thailand</h4><p><strong>Eine konkrete Aufenthaltskategorie statt Dauerurlaub</strong></p><p>Thailand kann zum mobilen Leben oder zu einem längerfristigen Familienwohnsitz passen. Beim Long-Term Resident-Programm entscheidet die konkrete Kategorie über die Voraussetzungen; ein touristischer Aufenthalt ist eine andere Grundlage. Die LTR-Wege knüpfen je nach Kategorie an Vermögen samt Thailandinvestition, Einkommen im Ruhestand, qualifizierende Auslandsbeschäftigung oder Facharbeit in Thailand an. Welche Einkommensnachweise nötig sind, hängt vom Weg ab. Angehörige brauchen eine eigene Berechtigung nach Beziehung und Status des Hauptantragstellers sowie die für sie geforderten Nachweise. Schule, Behandlung, Arbeitsform und Wohnung gehören in denselben Vergleich. Für häufige Reisen muss außerdem der Erhalt des Status mit deiner tatsächlichen Nutzung zusammenpassen.</p><p><a class=\"exb-text-link\" href=\"/de/laender/thailand/\">Thailand als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://ltr.boi.go.th/\">Thailand Board of Investment: Long-Term Resident-Programm</a></p></article></div><div class=\"exb-country-group\"><h3 id=\"weitere-untersuchte-optionen\">Weitere ausdrücklich untersuchte Optionen</h3><p>Diese beiden Länder haben eigenständige Wohn- und Unternehmensrollen. Ihre regionalen Konfliktbezüge müssen zum ausdrücklich benannten Vorhaben passen.</p><article class=\"exb-country-directory-item\"><h4>Georgien</h4><p><strong>Flexible Wohnoption mit eigenständigem Konfliktbezug</strong></p><p>Georgien kann für einen Wohn- oder Unternehmensfall prüfenswert sein. Seine Rolle als Ausweichort hängt jedoch am benannten Szenario: Die FCDO-Hinweise zu Abchasien, Südossetien und angrenzenden Gebieten sind konkrete regionale Gegenargumente zu einer pauschalen krisenfernen Zuflucht. Vergleiche daher Wohnregion, Aufenthaltsgrund, Versorgung und erreichbare Reisewege, statt einfache Einreise und langfristige Sicherheit gleichzusetzen.</p><p><a class=\"exb-text-link\" href=\"/de/laender/georgien/\">Georgien als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.uk/foreign-travel-advice/georgia/regional-risks\">FCDO: regionale Risiken in Georgien</a></p></article><article class=\"exb-country-directory-item\"><h4>VAE</h4><p><strong>Wohn- und Unternehmensbasis mit regionaler Abhängigkeit</strong></p><p>Die VAE können für Arbeit, Unternehmen und einen Familienwohnsitz eine passende Aufgabe erfüllen. Aufenthaltsstatus, Angehörige und zulässige Tätigkeit brauchen ihren jeweiligen Weg. Als Krisenbasis sind zusätzlich regionale Spannungen, Luftraum und Flugverbindungen entscheidend. Wer wegen einer Störung im Golfraum vorsorgt, benötigt eine außerhalb derselben Abhängigkeit erreichbare Alternative, nicht nur ein weiteres Wohnangebot in der Region.</p><p><a class=\"exb-text-link\" href=\"/de/laender/vae/\">VAE als persönliche Ausweichoption</a></p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.gov.uk/foreign-travel-advice/united-arab-emirates\">FCDO: VAE-Reisehinweise, herangezogene Aktualisierung 24. Juli 2026</a></p></article></div>"
+    },
+    {
+      "id": "weitere-optionen",
+      "title": "Weitere Länder im Vergleich",
+      "body": "<p>Ein fehlendes Einzelprofil schließt ein Land nicht aus. Die folgenden Orte kommen für eine persönliche Erweiterung des Vergleichs infrage, wenn sie eine konkrete Anforderung besser beantworten können.</p><div class=\"exb-country-extra\"><h3>Ernährungsresilienz</h3><p>Vanuatu und die Salomonen sind in der Inselstudie interessante Fälle für Nahrungsresilienz. Für deine persönliche Auswahl wäre anschließend zu klären, ob Aufenthaltszugang, Fachmedizin und ein tragfähiger Familienalltag vor Ort organisiert werden können. Hohe potenzielle Nahrungsverfügbarkeit allein beantwortet diese Fragen nicht.</p><p class=\"exb-source-note\"><a class=\"exb-text-link\" href=\"https://www.otago.ac.nz/news/newsroom/nz-one-of-few-island-nations-with-potential-to-produce-enough-food-in-a-nuclear-winter\">Otago, 7. Februar 2023: Vanuatu und Salomonen im Vergleich der Inselstudie</a></p></div><div class=\"exb-country-extra\"><h3>Weitere Insel- und Regionaloptionen</h3><p>Fidschi sowie Sansibar/Tansania können zu einer gesonderten Insel- oder Regionalprüfung passen. Benenne dabei zuerst die Aufgabe: vorübergehender Aufenthalt, dauerhafte Familie oder ein mobiler Ankerpunkt. Danach entscheiden rechtlicher Zugang, Reiseketten, medizinische Versorgung und die laufende Unterhaltung des Standorts.</p></div><div class=\"exb-country-extra\"><h3>Weitere Aufenthalts- und Familienoptionen</h3><p>Serbien, Kolumbien und die Philippinen bleiben mögliche Alternativen für einen eigenen Aufenthalts- oder Familienvergleich. Sprachkenntnisse, vorhandene Beziehungen oder ein passender beruflicher Bezug können die Auswahl verändern. Das Ergebnis braucht eine konkrete Region und einen nachvollziehbaren Aufbau, nicht nur eine Empfehlung für das Land.</p></div><div class=\"exb-country-extra\"><h3>Weitere europäische Alternativen</h3><p>Italien, Polen, Lettland, Dänemark, Finnland, Norwegen und Schweden können durch bestehende Rechte, Sprache, Familie oder Erreichbarkeit interessant sein. Für eine dauerhafte Zukunft kann das schwer wiegen. Bei einer Vorbereitung auf Krieg in Europa prüfst du zusätzlich Konfliktbezug, Bündnisse und gemeinsame Verkehrs- oder Versorgungsabhängigkeiten; geografische Nähe wirkt dann anders als beim normalen Umzug.</p></div>"
+    },
+    {
+      "id": "fachstandorte",
+      "title": "Ein Fachstandort ist noch keine Familienbasis",
+      "body": "<p>Du kannst in einem Land leben, in einem anderen eine Gesellschaft führen und Vermögen an einem dritten Ort verwahren. Jede Entscheidung muss ihrer eigenen Aufgabe dienen. Für die Familienbasis zählen Aufenthaltsrecht und Alltag; für Vermögen zählen zusätzlich rechtmäßige Kontrolle und tatsächlich nutzbarer Zugriff.</p><div class=\"exb-country-extra\"><h3>Herkunft und besondere Fachaufgaben</h3><p>UK gehört als Herkunfts- und heutiger Wohnsitzfall in die Planung. USA/Puerto Rico können für konkrete Gesellschafts- oder Urkundenaufgaben relevant sein. Wähle diese Orte nach der benötigten Fachaufgabe; daraus entsteht keine allgemeine Empfehlung, dort mit deiner Familie Zuflucht zu suchen.</p></div><div class=\"exb-country-extra\"><h3>Spezielle Standorte</h3><p>Singapur, Hongkong, Taiwan, China, Japan, Südkorea und Kenia können für definierte Unternehmens-, Großstadt- oder Spezialaufgaben in Betracht kommen. Entscheidend sind die konkrete Tätigkeit, ihre rechtlichen Bedingungen und die benötigte Ausführung. Ein interessanter Unternehmensstandort wird erst nach einer zusätzlichen Prüfung zu einem möglichen Wohnort.</p></div><div class=\"exb-country-extra\"><h3>Struktur- und Verwahrungsorte</h3><p>Liechtenstein, die Cookinseln und weitere passende Fachjurisdiktionen gehören je nach Aufgabe in den Vergleich von Stiftung, Trust, Gesellschaft oder Verwahrung. Dabei zählen Eigentum, Kontrolle, Anerkennung, zulässige Übertragung und laufende Pflichten. Ein Auslandsvermögen ist nicht automatisch gegen staatlichen Zugriff geschützt und eine Struktur erlaubt dir nicht allein, im betreffenden Land zu wohnen.</p></div><p><a class=\"exb-text-link\" href=\"/de/wissen/vermoegen-zugriff/\">Vermögen und Zugriff sichern</a> ordnet diese Zusammenhänge ein. <a class=\"exb-text-link\" href=\"/de/leistungen/\">Leistungen und konkrete Aufträge</a> führt dich zur passenden Struktur-, Verwahrungs- oder Gesellschaftsaufgabe.</p>"
+    },
+    {
+      "id": "deine-auswahl",
+      "title": "Aus einer Länderliste wird deine eigene Auswahl",
+      "body": "<p>Aus diesem Vergleich soll eine Entscheidung werden, mit der du handeln kannst. Wir verbinden deinen vorgesehenen Lebensweg, die Rechte der beteiligten Personen und das benannte Störungsszenario mit geeigneten Ländern und konkreten Orten. Du erhältst begründete Optionen, klare Ausschlussgründe und die nächsten Arbeiten für eine nutzbare Basis.</p><h3>Das Land ist noch offen</h3><p>Bei <a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen</a> klären wir Kriterien, recherchieren die passenden Fälle und prüfen im vereinbarten Umfang die Orte und benötigten Fachbeiträge. Du siehst, welche Frage bereits beantwortet ist und welche Entscheidung noch eine persönliche oder fachliche Klärung braucht.</p><p><a class=\"exb-text-link\" href=\"/de/anfrage/?anliegen=Passende%20L%C3%A4nder%20und%20Standortoptionen#kurzanfrage\">Persönliche Länder- und Standortauswahl anfragen</a></p><h3>Das Ziel steht bereits fest</h3><p>Mit <a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Ankunft im Zielland organisieren</a> kannst du Unterkunft, Termine, erste Versorgung und einen funktionierenden Start konkret abgeben. Wir organisieren die vereinbarte Arbeit, binden erforderliche örtliche Leistungen ein und halten Zuständigkeiten und Ergebnisse zusammen. Dokumente und Aufenthaltsvorbereitung kannst du ebenfalls gesondert beauftragen; eine zusätzliche Beratung ist kein Pflichtvorkauf.</p><p><a class=\"exb-text-link\" href=\"/de/anfrage/?anliegen=Ankunft%20im%20Zielland%20organisieren#kurzanfrage\">Ankunft am gewählten Ziel direkt anfragen</a></p><p>Für die erste Nachricht genügen dein grobes Anliegen und ein erreichbarer Rückweg. Familien-, Vermögens- und Gesundheitsunterlagen gehören erst in den vereinbarten geschützten Austausch.</p><div class=\"exb-country-action\"><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div><p>Du möchtest zunächst klären, welcher Auftrag passt? <a class=\"exb-text-link\" href=\"/de/anfrage/?anliegen=Orientierungsgespr%C3%A4ch#kurzanfrage\">Orientierungsgespräch anfragen</a>: 20 Minuten, kostenlos. Auf der Kontaktseite stehen die normale Nachricht und der freiwillige verschlüsselte Einstieg zur Verfügung.</p>"
+    }
+  ],
+  "countryDirectoryCount": 27,
+  "regionalGroups": [
+    {
+      "title": "Südamerika",
+      "id": "suedamerika",
+      "slugs": [
+        "uruguay",
+        "paraguay",
+        "argentinien",
+        "chile",
+        "brasilien"
+      ]
+    },
+    {
+      "title": "Mittelamerika und Karibik",
+      "id": "mittelamerika-karibik",
+      "slugs": [
+        "panama",
+        "costa-rica",
+        "mexiko",
+        "dominikanische-republik"
+      ]
+    },
+    {
+      "title": "Pazifik",
+      "id": "pazifik",
+      "slugs": [
+        "neuseeland",
+        "australien"
+      ]
+    },
+    {
+      "title": "Nordamerika",
+      "id": "nordamerika",
+      "slugs": [
+        "kanada"
+      ]
+    },
+    {
+      "title": "Europa",
+      "id": "europa",
+      "slugs": [
+        "portugal",
+        "spanien",
+        "schweiz",
+        "irland",
+        "island",
+        "griechenland",
+        "zypern",
+        "malta"
+      ]
+    },
+    {
+      "title": "Afrika und Indischer Ozean",
+      "id": "afrika-indischer-ozean",
+      "slugs": [
+        "mauritius",
+        "namibia",
+        "suedafrika"
+      ]
+    },
+    {
+      "title": "Asien",
+      "id": "asien",
+      "slugs": [
+        "malaysia",
+        "thailand"
+      ]
+    },
+    {
+      "title": "Weitere ausdrücklich untersuchte Optionen",
+      "id": "weitere-untersuchte-optionen",
+      "slugs": [
+        "georgien",
+        "vae"
+      ]
+    }
+  ],
+  "matrixFragments": [
+    "anforderungen-lebensmodell",
+    "szenarien-und-belege"
+  ],
+  "linkPlan": [
+    {
+      "sourceLine": 451,
+      "target": "/de/",
+      "label": "EXOBASIS: Eine eigene Basis außerhalb des Herkunftslands",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Main; fachliche Startseite, technische Page bleibt Top-Level"
+    },
+    {
+      "sourceLine": 453,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "#deine-auswahl > eigene K07-Aufgabenverbindung: Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 454,
+      "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+      "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "#rechte-und-voraussetzungen > konkreter K07-Fachlink"
+    },
+    {
+      "sourceLine": 455,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "#deine-auswahl > eigene K07-Aufgabenverbindung: Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 456,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "#deine-auswahl und kontextnah nach sachlicher Aufgabenklärung in #rechte-und-voraussetzungen; K06 mit Original-Label"
+    },
+    {
+      "sourceLine": 457,
+      "target": "/en/countries/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "K01: echter Sprachpartner dieser Übersicht"
+    },
+    {
+      "sourceLine": 869,
+      "target": "/de/laender/uruguay/",
+      "label": "Uruguay als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#suedamerika > eigene H4/Textgruppe Uruguay als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 889,
+      "target": "/de/laender/paraguay/",
+      "label": "Paraguay als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#suedamerika > eigene H4/Textgruppe Paraguay als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 909,
+      "target": "/de/laender/argentinien/",
+      "label": "Argentinien als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#suedamerika > eigene H4/Textgruppe Argentinien als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 929,
+      "target": "/de/laender/chile/",
+      "label": "Chile als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#suedamerika > eigene H4/Textgruppe Chile als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 949,
+      "target": "/de/laender/brasilien/",
+      "label": "Brasilien als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#suedamerika > eigene H4/Textgruppe Brasilien als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 969,
+      "target": "/de/laender/panama/",
+      "label": "Panama als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#mittelamerika-karibik > eigene H4/Textgruppe Panama als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 989,
+      "target": "/de/laender/costa-rica/",
+      "label": "Costa Rica als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#mittelamerika-karibik > eigene H4/Textgruppe Costa Rica als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1009,
+      "target": "/de/laender/mexiko/",
+      "label": "Mexiko als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#mittelamerika-karibik > eigene H4/Textgruppe Mexiko als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1029,
+      "target": "/de/laender/dominikanische-republik/",
+      "label": "Dominikanische Republik als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#mittelamerika-karibik > eigene H4/Textgruppe Dominikanische Republik als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1049,
+      "target": "/de/laender/neuseeland/",
+      "label": "Neuseeland als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#pazifik > eigene H4/Textgruppe Neuseeland als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1069,
+      "target": "/de/laender/australien/",
+      "label": "Australien als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#pazifik > eigene H4/Textgruppe Australien als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1089,
+      "target": "/de/laender/kanada/",
+      "label": "Kanada als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#nordamerika > eigene H4/Textgruppe Kanada als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1109,
+      "target": "/de/laender/portugal/",
+      "label": "Portugal als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europa > eigene H4/Textgruppe Portugal als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1129,
+      "target": "/de/laender/spanien/",
+      "label": "Spanien als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europa > eigene H4/Textgruppe Spanien als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1149,
+      "target": "/de/laender/schweiz/",
+      "label": "Schweiz als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europa > eigene H4/Textgruppe Schweiz als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1169,
+      "target": "/de/laender/irland/",
+      "label": "Irland als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europa > eigene H4/Textgruppe Irland als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1189,
+      "target": "/de/laender/island/",
+      "label": "Island als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europa > eigene H4/Textgruppe Island als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1209,
+      "target": "/de/laender/griechenland/",
+      "label": "Griechenland als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europa > eigene H4/Textgruppe Griechenland als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1229,
+      "target": "/de/laender/zypern/",
+      "label": "Zypern als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europa > eigene H4/Textgruppe Zypern als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1249,
+      "target": "/de/laender/malta/",
+      "label": "Malta als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#europa > eigene H4/Textgruppe Malta als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1269,
+      "target": "/de/laender/mauritius/",
+      "label": "Mauritius als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#afrika-indischer-ozean > eigene H4/Textgruppe Mauritius als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1289,
+      "target": "/de/laender/namibia/",
+      "label": "Namibia als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#afrika-indischer-ozean > eigene H4/Textgruppe Namibia als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1309,
+      "target": "/de/laender/suedafrika/",
+      "label": "Südafrika als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#afrika-indischer-ozean > eigene H4/Textgruppe Südafrika als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1329,
+      "target": "/de/laender/malaysia/",
+      "label": "Malaysia als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#asien > eigene H4/Textgruppe Malaysia als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1349,
+      "target": "/de/laender/thailand/",
+      "label": "Thailand als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#asien > eigene H4/Textgruppe Thailand als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1369,
+      "target": "/de/laender/georgien/",
+      "label": "Georgien als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#weitere-untersuchte-optionen > eigene H4/Textgruppe Georgien als persönliche Ausweichoption"
+    },
+    {
+      "sourceLine": 1389,
+      "target": "/de/laender/vae/",
+      "label": "VAE als persönliche Ausweichoption",
+      "role": "Vertikale Vertiefung",
+      "placement": "#weitere-untersuchte-optionen > eigene H4/Textgruppe VAE als persönliche Ausweichoption"
+    }
+  ],
+  "editorialSources": [
+    "uy",
+    "py",
+    "pyp",
+    "ar",
+    "cl",
+    "br",
+    "pa",
+    "cr",
+    "mx",
+    "mx2",
+    "dr",
+    "dr2",
+    "nz",
+    "au",
+    "ca",
+    "pt",
+    "es",
+    "ch",
+    "eu",
+    "food",
+    "island",
+    "geo",
+    "gpi",
+    "ge",
+    "ae"
+  ],
+  "mediaStatus": "text_and_comparison_matrices_complete"
+}

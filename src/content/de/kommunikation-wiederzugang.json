@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/kommunikation-wiederzugang/",
+  "lang": "de",
+  "title": "Diskrete Kommunikation und Wiederzugang einrichten",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-3b4627308bf19f"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-77b6f8b72c8326"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-327568101d023a"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Erreichbar bleiben / Zugänge wiederherstellen",
+  "seoTitle": "Kommunikation und Wiederzugang im Ausland | EXOBASIS",
+  "description": "EXOBASIS richtet Kontakt- und Ersatzwege ein und testet den Wiederzugang ohne Haupttelefon und Haupt-E-Mail. Für deine Familie und wichtige Geschäftsabläufe.",
+  "intro": "<p>Dein Telefon ist weg. Die neue Anmeldung verlangt einen Code aus der App auf genau diesem Gerät. Und die E-Mail-Adresse, mit der du Hilfe anfordern willst, hängt ebenfalls daran. Aus einem verlorenen Gegenstand wird der Ausschluss von Bank, Dokumenten und wichtigen Kontakten.</p><p>Wir lösen solche Abhängigkeiten, solange du noch Zugriff hast: EXOBASIS richtet die vereinbarten Kommunikations- und Wiederherstellungswege ein, übt ihre Nutzung mit dir und übergibt einen verständlichen Ablauf für dich und berechtigte Angehörige.</p>",
+  "primary": {
+    "label": "Geschützten Kontakt und Wiederzugang einrichten lassen",
+    "intent": "Diskrete Kommunikation und Wiederzugang einrichten"
+  },
+  "summary": {
+    "kicker": "Deine Vorbereitung als konkreter Auftrag",
+    "title": "Auch ohne dein übliches Gerät weiterkommen.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift auf einem Tisch als Sinnbild für Vorbereitung.",
+    "facts": [
+      [
+        "Ausgangspunkt",
+        "Telefon, SIM, E-Mail, Konten und wichtige Unterlagen"
+      ],
+      [
+        "Einrichtung",
+        "Berechtigte Ersatzwege und getrennte Wiederherstellung"
+      ],
+      [
+        "Ergebnis",
+        "Ein kontrolliert erprobter Ablauf für den vereinbarten Ausfall"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Woran hängen deine wichtigsten Zugänge?",
+      "layout": "prose",
+      "body": "<p>Ein zweites Gerät kann denselben Ausfall teilen wie das erste. Wenn beide über dieselbe E-Mail-Adresse wiederhergestellt werden und diese wiederum nur per SMS an dieselbe Nummer erreichbar ist, bleibt eine gemeinsame Abhängigkeit bestehen.</p><p>Wir erfassen für jeden wichtigen Zugang: Anmeldung, zweiter Faktor, Wiederherstellungsweg, erforderlicher Identitätsnachweis und gegebenenfalls akzeptierte Vertretung. Dann ordnen wir die Reihenfolge. Zuerst werden die Zugänge abgesichert, die weitere Konten freischalten, etwa Haupt-E-Mail, Passwortverwaltung und Mobilfunk.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/wiederzugang-telefon-email/\" data-route=\"/de/wissen/wiederzugang-telefon-email/\" data-link-description=\"Zugang und Kommunikation beim Ausfall von Telefon, SIM oder E-Mail vorbereiten.\"><span>Wenn Telefon, SIM und Haupt-E-Mail ausfallen</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-2",
+      "title": "Diskrete Kommunikation, die deine Familie bedienen kann",
+      "layout": "prose",
+      "body": "<p>Für sichere Kommunikation im Ausland müssen Schutz und Bedienbarkeit zusammenpassen. Wir wählen mit dir die benötigten Kontaktwege, richten sie ein und klären, wie sich die Beteiligten zuverlässig erkennen. Dazu gehören Geräteabsicherung, Updates und ein erreichbarer Ersatzkontakt, wenn der Hauptdienst oder die Datenverbindung ausfällt.</p><p>Vertrauliche Dokumente brauchen andere Freigaben als ein kurzer Ankunftshinweis. Wir richten die vereinbarten Zugriffsrechte passend zur Aufgabe ein und erklären, welche Links oder Dateien sensibel sind. Der Schutz endet nicht mit der Übertragung: Ein entsperrtes verlorenes Gerät oder ein weitergeleiteter Zugangslink kann Inhalte offenlegen.</p>"
+    },
+    {
+      "id": "kern-3",
+      "title": "Unterstützung durch eine berechtigte Person",
+      "layout": "prose",
+      "body": "<p>Eine Angehörige kann dir beim Wiederkontakt helfen, ohne deine Identität zu übernehmen. Wir trennen deshalb persönliche Anmeldung, organisatorische Unterstützung und echte Vertretungsrechte. Soll jemand Bank- oder Unternehmensaufgaben übernehmen, braucht diese Person die vom Institut beziehungsweise Unternehmen akzeptierten Befugnisse und eigene passende Zugänge.</p><p>Für die vereinbarte Unterstützung halten wir fest, welche Unterlagen auffindbar sein müssen, wen die Person kontaktieren darf und an welcher Stelle du selbst oder eine Fachperson tätig werden musst. Persönliche Passwörter werden nicht zum Ersatz für eine fehlende Vollmacht.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-4",
+      "title": "Wiederherstellung vorbereiten, solange sie noch leicht möglich ist",
+      "layout": "prose",
+      "body": "<p>Wir nutzen die Verfahren des jeweiligen Anbieters: zusätzliche Authentifizierungsfaktoren, Wiederherstellungscodes, bestätigte Ersatzkontakte oder eine erneute Identifizierung. Die Sicherung wird getrennt vom Hauptgerät aufbewahrt und soll ohne Zugriff auf genau dieses Gerät auffindbar sein. Die <a href=\"https://pages.nist.gov/800-63-4/sp800-63b.html\">NIST-Richtlinie zur Authentifizierung und Kontowiederherstellung</a> beschreibt Wiederherstellungscodes, vorbereitete Wiederherstellungskontakte und erneute Identitätsprüfung als mögliche Verfahren.</p><p>Ein konkreter österreichischer Fall zeigt, warum das wichtig ist: Für die Verknüpfung einer neuen ID-Austria-App kann die hinterlegte Mobiltelefonnummer oder ein weiterer eingerichteter Faktor nötig sein. Fehlen die erforderlichen Alternativen, kann eine neuerliche Registrierung erforderlich werden. Das offizielle Verfahren sieht auch das Verknüpfen eines FIDO-Sicherheitsschlüssels vor. <a href=\"https://www.id-austria.gv.at/de/verwalten/anmeldedaten-vergessen-oder-geraet-verloren\">ID Austria: Gerät verloren</a> und <a href=\"https://www.id-austria.gv.at/de/verwalten/geraete-und-app-verknuepfen-oder-abmelden\">zusätzliche Faktoren verknüpfen</a>.</p><p>Dieses Verfahren gilt für ID Austria. Deutsche Online-Ausweisfunktionen, Schweizer Identitätsdienste und einzelne Banken haben eigene Wiederherstellungswege. Wir richten den Auftrag nach deinen tatsächlich genutzten Diensten aus.</p><p>Bei einem laufenden Angriff oder einem bereits kompromittierten Gerät oder Konto binden wir qualifizierte IT-Sicherheitsspezialisten für die Prüfung und Bearbeitung des Vorfalls ein. Diese Facharbeit wird gesondert von der vorbereitenden Einrichtung und dem Verlusttest vereinbart.</p>"
+    },
+    {
+      "id": "kern-5",
+      "title": "Der Test: ohne Haupttelefon und Haupt-E-Mail",
+      "layout": "prose",
+      "body": "<p>Wir spielen den vereinbarten Ausfall kontrolliert durch. Das Haupttelefon bleibt unbenutzt; die Haupt-E-Mail steht für den Test nicht zur Verfügung. Du versuchst über den vorbereiteten Weg, einen Kontakt zu erreichen, benötigte Unterlagen zu öffnen und den vorgesehenen Wiederherstellungsschritt zu beginnen.</p><p>Bestehende Zugänge werden dabei nicht unbedacht gelöscht oder gesperrt. Wo eine echte Wiederherstellung irreversible Folgen hätte, prüfen wir Voraussetzungen und den sicheren Teil des Ablaufs. Im Ergebnis steht genau, was praktisch funktioniert hat, welcher Schritt nur anhand der Anbietervorgaben geprüft wurde und was noch fehlt.</p><p>Eine technische Zugangsstörung und eine bankseitige oder rechtliche Kontosperre brauchen unterschiedliche Lösungen. Der Test zeigt, ob du dich legitim anmelden oder Hilfe anfordern kannst. Eine Entscheidung des Anbieters wird über dessen zuständigen Klärungsweg bearbeitet.</p>"
+    },
+    {
+      "id": "kern-6",
+      "title": "Den Ablauf verständlich übergeben und aktuell halten",
+      "layout": "prose",
+      "body": "<p>Du erhältst eine kurze Anleitung mit Reihenfolge, Ersatzwegen und zuständigen Kontakten. Sensible Wiederherstellungsdaten und allgemein hilfreiche Hinweise werden getrennt abgelegt. Mit dir und der vereinbarten Unterstützungsperson gehen wir durch, wie die Unterlagen im vorgesehenen Fall gefunden werden.</p><p>Deine persönlichen Passwörter und Wiederherstellungsgeheimnisse bleiben auch nach Einrichtung und Übergabe unter deiner Kontrolle. EXOBASIS übernimmt keine pauschale Verwahrung dieser Zugangsdaten. Berechtigte Angehörige erhalten die für ihre Aufgabe nötigen Anleitungen, nicht automatisch deine persönlichen Zugangsdaten.</p><p>Ein neues Telefon, eine andere Nummer oder geänderte Bankbedingungen können den Ablauf verändern. Bei der anschließenden Betreuung lassen sich feste Prüfzeitpunkte und konkrete Änderungsanlässe vereinbaren. So bleibt die Einrichtung mit deinem tatsächlichen Alltag verbunden.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\" data-route=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\" data-link-description=\"Unterlagen und Befugnisse so vorbereiten, dass Angehörige sie tatsächlich nutzen können.\"><span>Notfallunterlagen, die Angehörige tatsächlich nutzen können</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/leistungen/vorbereitung-betreuen/\" data-route=\"/de/leistungen/vorbereitung-betreuen/\" data-link-description=\"Vereinbarte Unterlagen, Kontakte und Vorkehrungen regelmäßig prüfen und nachführen.\"><span>Vorbereitung prüfen und aktuell halten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    }
+  ],
+  "working": {
+    "title": "Einrichtung gemeinsam mit dir",
+    "body": "<p>EXOBASIS übernimmt Bestandsaufnahme, Einrichtungshilfe, Dokumentation und den vereinbarten Test. Dienste, Institute und Identitätsstellen bestimmen ihre eigenen zulässigen Verfahren. Deine Mitwirkung planen wir dort ein, wo eine persönliche Anmeldung oder Bestätigung erforderlich ist.</p>"
+  },
+  "nextWork": {
+    "title": "Vom persönlichen Zugang zur Vertretung",
+    "body": "<p>Wenn ein Angehöriger oder dein Team während deiner Abwesenheit handeln soll, schließen Vollmachten und organisatorische Kontinuität an. Die technische Einrichtung kann diese Arbeit unterstützen und wird mit den tatsächlichen Befugnissen verbunden.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Welche Zugänge dürfen nicht an einem Gerät hängen?",
+    "body": "Nenne die wichtigsten Aufgaben und genutzten Dienste, zunächst ohne Passwörter oder Wiederherstellungscodes. Wir grenzen die Einrichtung und einen passenden Ausfalltest ab."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [
+      "D23"
+    ],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "325",
+        "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "position": "Kernabschnitt 1: Geräte-/Kontenabhängigkeiten",
+        "purpose": "Legitimen Wiederkontakt und Wiederzugang ohne das übliche Gerät vorbereiten."
+      },
+      {
+        "line": "326",
+        "label": "Notfallunterlagen, die Angehörige tatsächlich nutzen können",
+        "target": "/de/wissen/aufenthalt-dokumente/notfallunterlagen/",
+        "position": "Kernabschnitt 6: Übergabe",
+        "purpose": "Dokumente, Berechtigungen und verständliche Übergabe für den tatsächlichen Ausfall verbinden."
+      },
+      {
+        "line": "327",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 3: Ersatzkontakte und Rechte",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "328",
+        "label": "Diskretion und geschützte Zusammenarbeit",
+        "target": "/de/diskretion/",
+        "position": "Dein Auftrag / Your enquiry",
+        "purpose": "Verstehen, wer welche Informationen erhält und wie Zusammenarbeit kontrolliert bleibt."
+      },
+      {
+        "line": "329",
+        "label": "Vorbereitung prüfen und aktuell halten",
+        "target": "/de/leistungen/vorbereitung-betreuen/",
+        "position": "Kernabschnitt 6: Übergabe",
+        "purpose": "Vereinbarte Optionen, Unterlagen und lokale Vorkehrungen aktuell halten lassen."
+      }
+    ],
+    "seedingSupporting": [],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Deine Zugänge als zusammenhängenden Ablauf einrichten",
+    "body": "<p>Wir beginnen bei dem, was du im Ausland tatsächlich erreichen musst: Angehörige, Bank, Dokumente, digitale Identität oder Geschäftssysteme. Für diese Zugänge ermitteln wir gemeinsam die Abhängigkeiten und richten die vom jeweiligen Anbieter vorgesehenen Ersatzwege ein.</p><p>Du nutzt und bestätigst deine persönlichen Anmeldungen selbst. Wir führen durch die Einrichtung, stimmen berechtigte Unterstützung ab und dokumentieren den Ablauf so, dass er auch unter Zeitdruck verständlich bleibt.</p>",
+    "items": [
+      [
+        "Abhängigkeiten erkennen",
+        "Festhalten, welche Konten dieselbe SIM, E-Mail oder dasselbe Gerät benötigen."
+      ],
+      [
+        "Ersatzwege einrichten",
+        "Geeignete zusätzliche Faktoren, Wiederherstellungscodes und Kontaktwege vorbereiten."
+      ],
+      [
+        "Nutzung erproben",
+        "Den vereinbarten Ausfall kontrolliert durchspielen und Zugangsprobleme bearbeiten."
+      ]
+    ],
+    "costs": "Der Aufwand richtet sich nach Zahl und Art der Konten, Geräte und beteiligten Personen sowie den vereinbarten Tests. Hardware, Mobilfunk, kostenpflichtige Dienste und spätere Pflege werden getrennt ausgewiesen. Für qualifizierte Spezialistenarbeit bei einem laufenden Angriff oder bereits kompromittierten Geräten oder Konten werden Umfang und Kosten gesondert vereinbart."
+  },
+  "displayTitle": "Sichere Kommunikation im Ausland und Wiederzugang einrichten"
+}

@@ -1,0 +1,198 @@
+{
+  "route": "/de/laender/portugal/",
+  "lang": "de",
+  "title": "Portugal als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/portugal/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-3c27bc0e55caef"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-e029e4e197a60b"
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern nach Portugal: Familie, Aufenthalt, Hauskauf | EXOBASIS",
+  "description": "Portugal als zweite Basis oder neues Zuhause: Aufenthalt für DACH-Bürger, Miete, Hauskauf, Schule, Versorgung und Geldzugriff konkret vorbereiten.",
+  "intro": "<p>Du möchtest deiner Familie einen Ort vorbereiten, an dem ihr bei Krieg, politischem Druck oder wachsendem Kontrollverlust leben könnt. Portugal lässt sich für viele deutsche, österreichische und Schweizer Staatsangehörige ohne Investorenprogramm erschließen. Ob daraus euer neues Zuhause oder eine vorerst zweite Basis wird, entscheidet sich an Wohnort, Versorgung und dem Alltag, den ihr dort wirklich führen könnt.</p>",
+  "primary": {
+    "label": "Vorbereitung für Portugal anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "countryContext": "/de/laender/portugal/",
+  "country": {
+    "name": "Portugal",
+    "slug": "portugal",
+    "region": "Europa",
+    "map": "countries/portugal-locator.svg",
+    "imageAlt": "Lagegrafik: Portugal. Hervorhebung zur geografischen Orientierung, keine Sicherheitsbewertung.",
+    "caption": "Geografische Orientierung. Keine Reise-, Sicherheits- oder Grenzbewertung.",
+    "summary": [
+      [
+        "Vorhandene Rechte nutzen",
+        "EU-Freizügigkeit und der einbezogene Schweizer Personenkreis bestimmen den ersten Schritt."
+      ],
+      [
+        "Den Alltag vor dem Kauf erproben",
+        "Wohnregion, Schulweg, Behandlung und ganzjährige Nutzung gehören zusammen."
+      ],
+      [
+        "In Europa handlungsfähig bleiben",
+        "Portugal verändert deinen Standort, nicht automatisch alle europäischen Abhängigkeiten."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Für wen Portugal eine tragfähige zweite Basis sein kann",
+      "body": "<p>Portugal passt zu Menschen, die einen europäischen Wohnort aufbauen wollen, ohne alles Gewachsene sofort abzuschneiden. Du kannst zunächst eine Region kennenlernen, eine längerfristige Wohnung beziehen und die Familie schrittweise nachholen. Auch ein dauerhafter Wegzug kann daraus entstehen. Wichtig ist, dass diese Entscheidungen getrennt fallen: Eine nutzbare zweite Basis braucht andere Bindungen als eine vollständige Verlagerung von Schule, Beruf und Lebensmittelpunkt.</p><p>Wenn dich Krieg, Einberufung oder staatlicher Zugriff auf dein Erarbeitetes zur Vorbereitung bewegen, zählt mehr als die Entfernung zur bisherigen Wohnung. Portugal liegt am westlichen Rand Europas, bleibt aber Teil desselben Kontinents und wirtschaftlich eng mit ihm verbunden. Deine Staatsangehörigkeit und mögliche Pflichten im Herkunftsland ändern sich durch eine portugiesische Adresse nicht. Eine europaweite Krise verlangt deshalb einen anderen Vergleich als der Wunsch, Deutschland, Österreich oder die Schweiz frühzeitig zu verlassen.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Eine erreichbare Krisenbasis und eine klare Rückkehrentscheidung",
+      "body": "<p>Ein erster Aufenthalt soll Zeit verschaffen, nicht neue Unsicherheit schaffen. Dafür braucht ihr eine Unterkunft, die bei eurer tatsächlichen Ankunft verfügbar ist, erreichbare Schlüssel und eine Person, die auch bei später Anreise reagieren kann. Ein im Sommer vermietetes Ferienhaus steht der Familie nicht automatisch im entscheidenden Moment zur Verfügung.</p><p>Für Festland-Portugal kannst du Anreise per Flug und eine längere Straßenroute über Spanien gegeneinander vorbereiten. Madeira und die Azoren bringen zusätzliche Flug- oder Schiffsabhängigkeit mit. Lege vorab fest, wann ihr fahren würdet, welche Dokumente jede Person mitnimmt und welche Alternative greift, wenn die bevorzugte Verbindung ausfällt. Die Frage <a href=\"/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/\">wohin ihr bei Krieg tatsächlich gehen könnt</a> hilft, erreichbare Zwischenlösung und dauerhaften Zielort auseinanderzuhalten.</p><p>Für die Rückkehr zählen eure Auslöser: etwa wieder verlässliche Schul- und Arbeitsbedingungen, erreichbare Behandlung und nutzbare Verkehrswege. Solange ihr diese Entscheidung offenhalten wollt, sollte der erste Mietvertrag dazu passen. Lange Bindungen und ein vorschneller Kauf können Beweglichkeit kosten, die ihr gerade gewinnen möchtet.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Auswandern nach Portugal mit Kindern und Angehörigen",
+      "body": "<p>Für einen dauerhaften Familienstandort beginnt die Auswahl bei den Menschen, die am wenigsten ausweichen können: schulpflichtige Kinder, pflegebedürftige Eltern oder jemand mit regelmäßiger Behandlung. Erst wenn ihre Wege funktionieren, wird das passende Haus zur guten Entscheidung. Portugiesisch prägt Behördengänge, öffentliche Schule und den Alltag außerhalb internationaler Kreise. Wer dauerhaft bleiben will, sollte den Spracherwerb deshalb genauso einplanen wie die Wohnungssuche.</p><p>Eine Erkundung außerhalb der Ferien zeigt euch mehr als eine Urlaubswoche: den Schulweg am Morgen, die Wärme und Feuchtigkeit der Wohnung im Winter, die Erreichbarkeit einer Klinik und die Versorgung ohne eigenes Auto. Dabei kann sich herausstellen, dass ihr kleiner, zentraler oder in einer anderen Region wohnen wollt. Diese Erkenntnis vor einem Kauf spart nicht nur Geld, sondern einen zweiten Umzug.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Portugal zeitweise nutzen: Besuch, Zweitwohnsitz und Lebensmittelpunkt",
+      "body": "<p>Ein wiederkehrender Aufenthalt kann sinnvoll sein, wenn du den bisherigen Betrieb weiterführst oder zunächst nur einen Teil des Jahres in Portugal leben möchtest. Entscheide dann, wer Post annimmt, die Wohnung kontrolliert, Schäden meldet und euch vor der nächsten Anreise informiert. Zugang, Strom, Wasser und Internet müssen auch nach mehreren Monaten Abwesenheit funktionieren.</p><p>Die Bezeichnungen Zweitwohnsitz oder Ferienhaus entscheiden nicht über die steuerlichen Folgen. Portugals Finanzverwaltung nennt neben mehr als 183 Aufenthaltstagen in einem maßgeblichen Zwölfmonatszeitraum auch eine Wohnung, deren Umstände die Absicht einer gewöhnlichen Wohnnutzung erkennen lassen. Damit kann Steueransässigkeit auch unterhalb der Tagesgrenze entstehen. Die <a href=\"https://info.portaldasfinancas.gov.pt/en/tax-information/getting-started-in-portugal/tax-residency/tax-residency-rules/Pages/default.aspx\">AT-Regeln zur Steueransässigkeit</a> gehören deshalb vor eine langfristige Wohn- oder Arbeitsentscheidung, nicht erst in die nächste Steuererklärung.</p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Aufenthalt in Portugal: vorhandene Rechte vor einem Visum nutzen",
+      "body": "<h3>Deutsche und österreichische EU-Bürger sowie Schweizer Staatsangehörige</h3><p>Für deutsche und österreichische Staatsangehörige gilt die EU-Freizügigkeit. Das portugiesische Gesetz bezieht Schweizer Staatsangehörige ausdrücklich in seinen Anwendungsbereich ein. Bis zu drei Monate genügt grundsätzlich ein gültiger Personalausweis oder Reisepass. Für einen längeren Aufenthalt muss ein passender Grund vorliegen: zum Beispiel Beschäftigung oder Selbstständigkeit, ausreichende Mittel mit erforderlicher Krankenversicherung oder ein Studium mit den dazugehörigen Nachweisen. Die <a href=\"https://files.dre.pt/StaticContent/Lei_37_2006_EN.pdf\">Lei 37/2006, insbesondere Artikel 3, 6 und 7</a> beschreibt diese Unterscheidung.</p><p>Bei mehr als drei Monaten Aufenthalt wird das Certificado de Registo bei der Câmara Municipal des Wohnorts beantragt. Dafür gilt das 30-Tage-Fenster nach Ablauf der ersten drei Monate. Es ist eine kommunale Registrierung, kein zu kaufendes Investorenvisum. Die <a href=\"https://aima.gov.pt/pt/nacionais-ue-e-familiares/nacionais-ue/certificado-de-registo-para-nacionais-ue\">AIMA-Anleitung zum EU-Registrierungszertifikat</a> nennt je nach Ausgangslage die benötigten Erklärungen und Nachweise. Nach fünf Jahren rechtmäßigem ununterbrochenem Aufenthalt kann das Daueraufenthaltsrecht relevant werden; die gesetzlichen Abwesenheitsregeln bleiben dabei wichtig.</p><h3>Familienmitglieder und andere Staatsangehörigkeiten</h3><p>Ein Ehepartner mit einem Drittstaatspass wird nicht allein durch deinen deutschen, österreichischen oder Schweizer Pass selbst zum EU-Bürger. Ein abgeleitetes Familienrecht hat eigene Nachweise und ein eigenes Kartenverfahren. Wer nicht unter diese Regeln fällt, braucht einen passenden nationalen Weg. Die <a href=\"https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/residencia\">nationalen Aufenthaltsvisa Portugals</a> unterscheiden etwa eigene regelmäßige Einkünfte und Remote-Arbeit für Tätigkeiten außerhalb Portugals. Renten-, Einkommens- oder Arbeitsnachweise müssen zum beantragten Zweck passen; ein touristischer Aufenthalt ersetzt das Verfahren nicht.</p><p>Auch beim Golden Visa zählt der wirkliche Rechtsweg: Die aktuelle <a href=\"https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a\">AIMA-Liste zum ARI</a> schließt Immobilieninvestitionen aus. Ein Hauskauf verschafft dir deshalb nicht diesen Investorenaufenthalt. Wenn dein Bedarf bereits feststeht, kannst du <a href=\"/de/anfrage/\">die Vorbereitung für Portugal direkt anfragen</a>; ein vorgelagertes Beratungspaket ist dafür nicht erforderlich.</p>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Wo leben, zuerst mieten oder in Portugal ein Haus kaufen?",
+      "body": "<h3>Die Region nach eurem Alltag auswählen</h3><p>Lissabon und sein Umland, Porto und der Norden, Coimbra und der zentrale Landesteil sowie die Algarve sind sinnvolle unterschiedliche Suchräume. Beginne in und um größere Städte, wenn täglicher Zugang zu bestimmten Schulen, Fachärzten oder einem Flughafen wesentlich ist. An der Algarve verdient die ganzjährige Verfügbarkeit besondere Aufmerksamkeit: Eine Ferienunterkunft und ein durchgehend nutzbarer Familienwohnsitz haben verschiedene Vertragsbedingungen. Auf Madeira oder den Azoren gehört die Verbindung zum Festland in dieselbe Entscheidung wie das Haus.</p><p>Bei ländlichen Objekten zählen Zufahrt, Wasserversorgung und Waldbrandumfeld. Für Küsten- und Hanglagen kommen lokale Naturgefahren hinzu. Die <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/portugalsicherheit-210900\">Reisehinweise für Portugal</a> beschreiben unter anderem Waldbrand- und Wetterrisiken. Daraus folgt eine konkrete Besichtigungsaufgabe: Wie erreichst und verlässt du genau dieses Haus, auch wenn die normale Zufahrt ausfällt?</p><h3>Mieten: Verfügbarkeit und Vertrag zusammenbringen</h3><p>Für die erste Ankunft eignet sich eine möblierte Übergangsunterkunft; ein regulärer Mietvertrag schafft mehr Planbarkeit für Schule und Registrierung. Der portugiesische Behördenleitfaden zum <a href=\"https://www.gov.pt/guias/migrantes-encontrar-alojamento-e-casa-em-portugal\">Wohnen und Mieten</a> nennt den schriftlichen Vertrag mit Mietbetrag, Laufzeit und Pflichten. Kläre zusätzlich Kaution und Vorauszahlungen, Verlängerung, Kündigung, Nebenkosten und Inventar. Die im Vertrag stehende Person, der tatsächliche Wohnort und deine Nachweise bei Bank oder Behörde müssen zusammenpassen.</p><h3>Immobilienkauf: erst das Objekt prüfen, dann Kapital binden</h3><p>Du kannst in Portugal auch als ausländischer Käufer eine Immobilie erwerben. Für den Kauf brauchst du eine portugiesische Steuernummer, die NIF. Der <a href=\"https://www.gov.pt/guias/compra-e-venda-de-imoveis-em-portugal-cidadaos-europeus\">staatliche Kaufleitfaden für europäische Käufer</a> führt durch die wesentlichen Schritte. Beim einzelnen Objekt werden Registerlage und Eigentümer, Belastungen, steuerliche Objektbeschreibung, baurechtliche Situation, Energieunterlagen und gegebenenfalls Verpflichtungen der Eigentümergemeinschaft geprüft. Die steuerliche Caderneta Predial ersetzt dabei nicht die Eigentumsprüfung im Registo Predial. Beauftrage diese Prüfung unabhängig vom Verkaufsinteresse, bevor du einen bindenden Vorvertrag samt Anzahlung unterschreibst.</p><p>Ein Kauf kann über öffentliche Urkunde oder beglaubigtes privates Dokument abgeschlossen und anschließend eingetragen werden; der staatliche <a href=\"https://irn.justica.gov.pt/Casa-Pronta-Perguntas-Frequentes\">Casa-Pronta-Dienst</a> bündelt dafür mögliche Schritte. Neben dem Kaufpreis gehören insbesondere IMT, Stempelsteuer, Registrierung, unabhängige Rechtsprüfung und bei Finanzierung die Bankkosten in das Budget. Laufende Grundsteuer, Gemeinschaftskosten, Versicherung und Betreuung kommen nach dem Erwerb hinzu. Ausländerstatus, steuerliche Situation und Objekt bestimmen die konkrete Abwicklung; Eigentum und Aufenthaltsrecht bleiben getrennt.</p><p>EXOBASIS kann den <a href=\"/de/leistungen/ankunft-organisieren/\">Such- und Ankunftsauftrag einschließlich Immobilienkauf organisieren</a>: Standort- und Suchprofil, geeignete Besichtigungen, Beauftragung unabhängiger Titel- und Kaufprüfung, Koordination von Vertrag und Abschluss sowie Übergabe, Anschlüsse und Betreuung. Du entscheidest über Objekt und Kauf. Die örtliche Rechtsprüfung und beurkundungspflichtige Arbeit führen dafür zuständige Fachleute aus.</p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Krankenversorgung und Pflege vor dem Umzug verbinden",
+      "body": "<p>Die öffentliche Schule bietet einen anderen Einstieg als eine private oder internationale Schule. Portugal sieht Unterstützung für Schülerinnen und Schüler mit nichtportugiesischer Muttersprache vor. Schulzeugnisse, Einstufung, Wohnadresse und Aufnahme am konkreten Standort werden frühzeitig zusammengeführt. Der <a href=\"https://www.gov.pt/guias/migrantes-ensino-em-portugal-para-criancas-jovens-e-adultos\">staatliche Bildungsleitfaden</a> erklärt Einschreibung und Sprachunterstützung. Die <a href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Vorbereitung mit Kindern und Angehörigen</a> ergänzt Sorgerecht, Reisedokumente und die Frage, wer welche Entscheidung treffen darf.</p><p>Für die öffentliche Gesundheitsversorgung ist die SNS-Nutzernummer ein Identifikationsschritt. Sie allein begründet noch keine vollständige Kostenübernahme. Der <a href=\"https://www.gov.pt/servicos/pedir-o-numero-de-utente-do-sns\">SNS-Dienst zur Nutzernummer</a> unterscheidet Nummer und Anspruch. Für einen dauerhaften Zuzug sind Versicherungszuständigkeit und Registrierung zu ordnen; eine europäische Krankenversicherungskarte für vorübergehende Aufenthalte ersetzt diese Klärung nicht.</p><p>Wenn jemand regelmäßig Medikamente, Fachbehandlung oder Pflege braucht, organisieren wir den Übergang entlang des konkreten Bedarfs: Befundübersetzung, aufnehmende Praxis, geeignete Versicherung beziehungsweise Kostenträger, Rezeptversorgung und Hilfe am Wohnort. Ein versicherter Leistungsfall und ein verfügbarer Termin sind zwei verschiedene Voraussetzungen. Die Vertiefungen <a href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a> sowie <a href=\"/de/wissen/familie-alltag/pflege-medikamente/\">Pflege und Medikamente</a> erklären sie; mit <a href=\"/de/leistungen/familie-unternehmen/\">Familie und Unternehmen vorbereiten</a> kannst du die zusammenhängende Organisationsarbeit beauftragen.</p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Geld in Portugal nutzen und Einkommen weiterführen",
+      "body": "<p>Die portugiesische NIF ist eine steuerliche Identifikation, kein Bankkonto. Für eine Kontoeröffnung verlangt die Bank Identitätsdaten und Belege etwa zu Anschrift, steuerlicher Zuordnung und beruflicher Situation; bei ausländischen Kunden kommen die passenden ausländischen Angaben hinzu. Banco de Portugal erläutert die <a href=\"https://clientebancario.bportugal.pt/en/opening\">Identifikation bei der Kontoeröffnung</a>. Welche Dokumente angenommen werden und welche Kontofunktionen du bekommst, klärst du mit dem konkreten Institut vor der ersten großen Zahlung.</p><p>Für eine zweite Basis zählt der Zahlungsweg vom verfügbaren Vermögen bis zur tatsächlichen Ausgabe: Kannst du Miete und Kaution begleichen, laufende Rechnungen freigeben und nach einem Telefonverlust wieder auf dein Konto zugreifen? Eine zweite Karte desselben Kontos lässt dich von derselben Bankverbindung abhängig. Bei Debanking, einer bereits verhängten Kontensperre oder beschränkten Transfers müssen verfügbare Mittel und rechtlich zulässige Handlungen zuerst feststehen. Ein portugiesisches Konto hebt eine bestehende Sperre nicht auf.</p><p>Wir können Mittelherkunftsnachweise, Bankunterlagen, geeignete Zahlungswege und einen kleinen Funktionstest vor der Anreise organisieren. Die fachlichen Zusammenhänge stehen unter <a href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Bankkonto und Zahlungsfähigkeit</a>; die praktische Einrichtung kannst du über <a href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität vorbereiten</a> beauftragen.</p><p>Wenn du aus Portugal einen Betrieb weiterführst, kommen Arbeitsort, Sozialversicherung, Geschäftsleitung und die im Herkunftsland verbleibenden Bindungen zusammen. Eine in Deutschland, Österreich oder der Schweiz weiterbestehende Firma entscheidet nicht allein über deine persönliche Steueransässigkeit. Die <a href=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\">steuerliche Wegzugsplanung</a> und eine vertretungsfähige Organisation gehören vor den dauerhaften Wechsel. Über <a href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\">Vollmachten und Vertretung</a> legst du fest, wer laufende Zahlungen oder wichtige Erklärungen übernehmen darf, wenn du zwischen den Standorten nicht erreichbar bist. Die praktische Abstimmung kannst du mit <a href=\"/de/leistungen/familie-unternehmen/\">Familie und Unternehmen vorbereiten</a> beauftragen.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Welche Dokumente und Schritte rechtzeitig zusammenkommen müssen",
+      "body": "<p>Für eine EU-/Schweizer Familienbasis ist die sinnvolle Reihenfolge meist: Status jeder Person klären, passende Wohnregion und Versicherungszuständigkeit bestimmen, Unterkunft sichern, NIF und erforderliche Nachweise ordnen und bei längerem Aufenthalt die kommunale Registrierung fristgerecht erledigen. Drittstaatsfamilien ergänzen ihre jeweiligen Einreise- und Aufenthaltsverfahren. Eine Heirats- oder Geburtsurkunde hilft nur, wenn sie in der benötigten Form und gegebenenfalls mit Übersetzung oder Beglaubigung vorliegt.</p><p>EXOBASIS übernimmt im <a href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumenten- und Aufenthaltsauftrag</a> die zusammenhängende Vorbereitung: Wir stellen die fallbezogenen Unterlagen zusammen, organisieren erforderliche Übersetzungen und Fachprüfung und koordinieren Termine und Einreichungsschritte. Schulaufnahme, Wohnung und Banknachweise werden dabei auf dieselben tatsächlichen Personendaten und Adressen abgestimmt.</p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Eine vorbereitete Portugal-Basis aktuell halten",
+      "body": "<p>Nach der Einrichtung beginnt die Pflege: Ablaufdaten und Abwesenheiten, Wohnvertrag, Versicherungsstatus, Bankdaten und die erreichbaren Personen vor Ort bleiben miteinander verbunden. Bei einer leerstehenden Immobilie brauchst du vereinbarte Kontrollen auf Feuchtigkeit, Schäden und Versorgungsunterbrechungen. Vor einer geplanten Ankunft gehören ein Zustandsbericht, funktionierende Schlüssel und eingeschaltete Anschlüsse dazu.</p><p>Auch der Zugriff muss den Ausfall deines einzigen Telefons überstehen. Berechtigte Angehörige brauchen erreichbare Kontaktwege und einen vorbereiteten <a href=\"/de/wissen/wiederzugang-telefon-email/\">Wiederzugang zu Telefon, E-Mail und wichtigen Konten</a>. Mit <a href=\"/de/leistungen/vorbereitung-betreuen/\">laufender Betreuung deiner Vorbereitung</a> kannst du vereinbarte Fristen, Zustandsprüfungen und Änderungen koordinieren lassen.</p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Portugal vergleichen und die konkrete Vorbereitung beauftragen",
+      "body": "<h3>Spanien und Irland als unterschiedliche Vergleichsoptionen</h3><p><a href=\"/de/laender/spanien/\">Spanien</a> gehört in den Vergleich, wenn du auf dem europäischen Festland bleiben und eine andere Sprach-, Regions- oder Erreichbarkeitslösung prüfen möchtest. Vergleiche denselben Familienbedarf: konkrete Wohnlage, Schulaufnahme, Behandlung und Kosten für ein ganzjähriges Zuhause. Ein beliebter Ferienort allein liefert dafür keinen Maßstab.</p><p><a href=\"/de/laender/irland/\">Irland</a> stellt eine andere Frage: Welchen Wert hat ein englischsprachiger Alltag für eure Familie, und wie passen Wohnraumsuche und Inselanreise dazu? Vergleiche diese Bedingungen mit Portugal, statt nur Klima oder einen behaupteten Steuervorteil nebeneinanderzustellen. Eine <a href=\"/de/leistungen/laender-standortauswahl/\">individuelle Länder- und Standortauswahl</a> führt daraus eine Entscheidung für euren tatsächlichen Bedarf herbei.</p><p>Du kannst Portugal als zusammenhängenden Auftrag vorbereiten lassen oder eine konkrete Aufgabe direkt vergeben: Wohnort- und Immobiliensuche, Dokumente und Aufenthalt, Bankzugang, Familienversorgung oder Betreuung der bestehenden Basis. Beschreibe uns, wer mitkommen soll, welche Staatsangehörigkeiten vorliegen, welchen Zeitraum du planst und was bereits besteht. <a href=\"/de/anfrage/\">Vorbereitung für Portugal anfragen</a>. Wenn die passende Aufgabe noch unklar ist, nutzen wir zunächst die kostenlose 20-Minuten-Orientierung.</p>"
+    }
+  ],
+  "faq": {
+    "question": "Brauche ich für Portugal ein Golden Visa oder einen Immobilienkauf?",
+    "answer": "Für deutsche und österreichische EU-Bürger sowie den einbezogenen Schweizer Personenkreis beginnt ein längerer Aufenthalt mit vorhandenen Rechten und den zugehörigen Voraussetzungen. Die kommunale Registrierung wird nach mehr als drei Monaten relevant. Ein Hauskauf ist eine getrennte Entscheidung; Immobilieninvestitionen gehören nicht mehr zu den zulässigen ARI-Investitionen."
+  },
+  "editorialSources": [
+    "eu",
+    "pt"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 1108,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1110,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1111,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1112,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1113,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1114,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1115,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1116,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1117,
+      "target": "/en/countries/portugal/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1476,
+      "target": "/de/laender/spanien/",
+      "label": "Spanien als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1478,
+      "target": "/de/laender/irland/",
+      "label": "Irland als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Portugal als Plan B: Auswandern oder eine zweite Basis schaffen"
+}

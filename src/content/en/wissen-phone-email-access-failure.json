@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/phone-email-access-failure/",
+  "lang": "en",
+  "title": "When your phone, SIM and main email fail",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-83b3cda7d24d63"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-9c582a81fcdcdb"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-c03d8090a6f068"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Digital emergency plan: phone, email and access | EXOBASIS",
+  "description": "Prepare family contact, payments and identity access without your usual phone. Connect independent recovery with distinct UKVI and UAE PASS procedures.",
+  "intro": "<p>If your phone disappeared today, could you contact your family, pay for the next night and prove your immigration status? Your bank, email, password manager and identity app may all depend on the same device.</p><p>A digital emergency plan breaks that dependency before you need the alternative. It combines another way to communicate, provider-approved recovery and the authority to carry out the task. The practical test is whether you can still do what matters when the usual route is unavailable.</p>",
+  "primary": {
+    "label": "Arrange your communications and recovery setup",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "Keep the essential tasks possible",
+    "facts": [
+      [
+        "Contact",
+        "Reach a person outside the failed route"
+      ],
+      [
+        "Recovery",
+        "Use accepted independent methods"
+      ],
+      [
+        "Authority",
+        "Know who may perform the task"
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notebook and pen, symbolising organised preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Start with the failure you need to survive",
+      "body": "<p>Separate a lost device from a lost number, a locked email account, a compromised account and a wider power or network outage. Each removes a different part of the route. A new handset helps with a broken handset; it does not restore a number the network provider will not issue to you or email you cannot recover.</p><p>Put the essential tasks first: contact a trusted person, arrange accommodation, pay, reach medical information and show the required travel evidence. If the bank itself has frozen or closed the account, technical login recovery does not settle that restriction. Follow the <a href=\"/en/knowledge/assets-and-access/banking-payments/\">banking and payment-continuity route</a> while keeping essential payments supported through lawfully available alternatives.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\" data-route=\"/en/knowledge/assets-and-access/banking-payments/\"><span>Banking access and payments abroad</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-2",
+      "title": "Find the circular dependencies",
+      "body": "<p>Write down how you would recover each critical service. Start with email, your mobile number, password manager, banking and the identity services you use. A common loop is easy to miss: email recovery sends a code to the lost phone; replacing the SIM requires email access; the password manager needs both.</p><table><caption>Questions that expose a recovery loop</caption><thead><tr><th scope=\"col\">Service</th><th scope=\"col\">Dependency to identify</th><th scope=\"col\">Alternative to establish</th></tr></thead><tbody><tr><th scope=\"row\">Main email</th><td>Which device, number or other account receives recovery?</td><td>An accepted recovery method outside the lost device.</td></tr><tr><th scope=\"row\">Mobile number</th><td>How does the provider identify you and replace the SIM abroad?</td><td>A documented provider route and reachable contact channel.</td></tr><tr><th scope=\"row\">Password manager</th><td>Where are the unlock and second-factor methods available?</td><td>The product's supported recovery or emergency-access arrangement.</td></tr><tr><th scope=\"row\">Bank</th><td>Does a new device need approval from the old device?</td><td>The bank's accepted replacement-device process.</td></tr><tr><th scope=\"row\">Immigration or identity account</th><td>Which record, login method and travel document must match?</td><td>The official account-recovery and record-update route.</td></tr></tbody></table><p>Record the procedure and where the protected material is kept, not the secrets themselves in a widely shared family checklist.</p>",
+      "criteria": {
+        "title": "Map dependencies, not passwords",
+        "headers": [
+          "Task",
+          "Normal factor",
+          "Permitted recovery",
+          "Shared dependency",
+          "Authorised person",
+          "Keep out"
+        ],
+        "rows": [
+          [
+            "Payment",
+            "Approval device",
+            "Bank procedure",
+            "Phone or SIM",
+            "Account holder or accepted representative",
+            "PINs and approval codes"
+          ],
+          [
+            "Documents",
+            "Protected store",
+            "Agreed alternative",
+            "Main email",
+            "Named authorised person",
+            "Public access links"
+          ],
+          [
+            "Family contact",
+            "Agreed channel",
+            "Confirmed second contact",
+            "Same phone",
+            "Named family contact",
+            "Unverified new identity"
+          ],
+          [
+            "Identity evidence",
+            "Provider process",
+            "Provider-approved reproofing",
+            "Device and mailbox",
+            "Identity holder",
+            "Uncontrolled copies"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-3",
+      "title": "Prepare another device and a family contact plan",
+      "body": "<p>A spare device is useful when it is maintained, charged and can reach the necessary services without the missing handset. Keep it physically separate during travel. If the provider supports an additional authentication or recovery method, configure it before departure and understand what it authorises.</p><p>For password manager emergency access, establish what the particular product provides: who may request access, any waiting period, how you can reject a request and what the recipient can obtain. Where that feature is absent, use the product's documented alternative. Store recovery material with protection appropriate to the access it grants.</p><p>Your family's emergency communication plan also needs a route beyond apps. Keep essential numbers and meeting arrangements available offline, name a contact outside the affected area and agree when each person should check in. Decide what a missed check-in means and who makes the next call.</p><p>For a network or power outage, assess coverage and charging at both ends. A second SIM using the same underlying network may share the same failure. Satellite or radio equipment only belongs in the plan where its lawful use, coverage, power and a reachable counterpart have been established for the actual locations. <a href=\"https://prepare.campaign.gov.uk/get-prepared-for-emergencies/\">The UK Prepare guidance</a> includes household planning, contact details and emergency supplies.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Keep proof of identity separate from permission to act",
+      "body": "<p>Your identity document can help establish who you are. It does not by itself entitle you to operate someone else's bank account or sign for their company. Likewise, possession of their device does not create that authority.</p><p>For each task that a spouse, relative or colleague may need to perform, connect the accepted legal or institutional authority with the identification and access procedure. Decide who may contact which provider and what information they are permitted to receive. Put the <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">representation arrangements</a> in place while you are available to make those decisions.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/assets-and-access/powers-representation-succession/\" data-route=\"/en/knowledge/assets-and-access/powers-representation-succession/\"><span>Powers of attorney, representation and succession abroad</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-5",
+      "title": "UKVI and UAE PASS: two different recovery cases",
+      "body": "<h3>UKVI account lost phone: restore access and check the travel record</h3><p>For a person travelling with an eVisa, GOV.UK requires the UKVI account to contain the current passport or travel document, correct personal details and the correct immigration status. The passenger details given to the carrier must match. British and Irish citizens do not need an eVisa; their travel-document guidance is separate.</p><p>If you cannot sign in because you have lost access to your phone or changed email address, use the official <a href=\"https://update-your-details.homeoffice.gov.uk/account-recovery/help\">UKVI account-recovery route</a>. If you can sign in but cannot view your eVisa, GOV.UK instead directs you to report an eVisa error. A login failure and an incorrect record are different problems.</p><p>A travel share code can be obtained before departure and is valid for 90 days. You still travel with the valid passport or travel document added to the account. If the carrier cannot check the eVisa, GOV.UK tells you to ask the carrier to contact the UK Border Force carrier support hub. <a href=\"https://www.gov.uk/evisa/travel-with-evisa\">Read the official eVisa travel guidance</a>.</p><h3>UAE PASS lost phone: use the existing-account recovery route</h3><p>The official UAE PASS instructions for recovery or registering a new device direct you to open the UAE PASS mobile app and select <strong>I have an account</strong> on the initial screen. Follow the identification and verification steps offered for your account. Keep your Emirates ID and the provider's current recovery information accessible through an independent route.</p><p><a href=\"https://uaepass.ae/account-recovery\">UAE PASS: recover your account or register a new device</a>. Access to UAE PASS and permission to perform a particular government or financial transaction remain separate. The receiving service decides what identity record and authority that transaction requires.</p><p>Keep essential document references and the official recovery routes with your <a href=\"/en/knowledge/residence-and-documents/emergency-documents/\">emergency documents</a>. A screenshot can help explain a problem; the recognised live record and accepted proof remain the basis for the transaction.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/residence-and-documents/emergency-documents/\" data-route=\"/en/knowledge/residence-and-documents/emergency-documents/\"><span>Emergency documents your family can actually use</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-6",
+      "title": "Test one necessary task without creating a lockout",
+      "body": "<p>Choose a small, reversible test with the account holder present. Set the usual phone aside without deleting accounts, cancelling the SIM or revoking the working access. On the permitted alternative, establish whether you can reach the provider and complete the agreed task.</p><p>Record what you actually achieved: which device and connection worked, what identification was requested, whether any hidden dependency still led back to the usual phone, and what remains to configure. Viewing a help page establishes the procedure you found; it does not establish successful recovery.</p><p>After a new phone, number, passport, account or authorised representative, revisit the affected route. A backup that worked before a provider changed its process needs another controlled check.</p>"
+    },
+    {
+      "id": "section-7",
+      "title": "Have the setup and handover organised",
+      "body": "<p>EXOBASIS can map the dependencies, organise the agreed setup, coordinate provider procedures and prepare the handover to your chosen person. The <a href=\"/en/services/communications-recovery/\">communications and recovery-access service</a> connects the devices, records and contact routes to the tasks your family needs to perform.</p><p>Where immigration evidence is part of the problem, connect the work to <a href=\"/en/services/residence-documents/\">residence and usable documents</a>. Describe the systems and the failure you want to prepare for in your first enquiry. Passwords, recovery codes, identity documents and account details belong in the agreed protected process, not the public contact form.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/communications-recovery/\" data-route=\"/en/services/communications-recovery/\"><span>Set up private communications and recovery access</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/discretion/\" data-route=\"/en/discretion/\"><span>Discretion and protected collaboration</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Define the actual failure"
+      },
+      {
+        "id": "section-2",
+        "title": "Make the dependency chain visible"
+      },
+      {
+        "id": "section-3",
+        "title": "Prepare an alternative device and independent contact route"
+      },
+      {
+        "id": "section-4",
+        "title": "Be able to prove identity and authority"
+      },
+      {
+        "id": "section-5",
+        "title": "Keep digital evidence accessible in the proper system"
+      },
+      {
+        "id": "section-6",
+        "title": "Test the alternative route in a controlled way"
+      },
+      {
+        "id": "section-7",
+        "title": "Organise setup and handover"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 744,
+        "target": "/en/knowledge/assets-and-access/banking-payments/",
+        "label": "Banking access and payments abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#section-1"
+      },
+      {
+        "line": 743,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#section-4"
+      },
+      {
+        "line": 742,
+        "target": "/en/knowledge/residence-and-documents/emergency-documents/",
+        "label": "Emergency documents your family can actually use",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt nutzbare Unterlagen für Berechtigte",
+        "position": "#section-5"
+      },
+      {
+        "line": 741,
+        "target": "/en/services/communications-recovery/",
+        "label": "Set up private communications and recovery access",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kommunikations-/Zugangswege einrichten",
+        "position": "#section-7"
+      },
+      {
+        "line": 745,
+        "target": "/en/discretion/",
+        "label": "Discretion and protected collaboration",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Am Anfrageübergang: geschützte Zusammenarbeit",
+        "position": "#section-7"
+      },
+      {
+        "line": 746,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      }
+    ],
+    "seeding": [
+      "EN12",
+      "EN13"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "A digital emergency plan for losing your phone and email"
+}

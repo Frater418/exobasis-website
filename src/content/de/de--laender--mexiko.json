@@ -1,0 +1,197 @@
+{
+  "route": "/de/laender/mexiko/",
+  "lang": "de",
+  "title": "Mexiko als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/mexico/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-ce454afdc4e3b9"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-6b5529cc4750d7"
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Mexiko als Plan B: Region und Aufenthalt | EXOBASIS",
+  "description": "Mexiko als vorbereitete Familienbasis prüfen: passende Region, konsularischer Aufenthaltsweg, Unterlagen und organisierte Ankunft statt allgemeiner Länderempfehlung.",
+  "intro": "<p>Du willst dein Leben selbst gestalten und deiner Familie eine belastbare Alternative schaffen. Mexiko ist dafür eine regionale Entscheidung. Der passende konsularische Weg, das Wohnumfeld und erreichbare Versorgung müssen dieselbe konkrete Lebensplanung tragen.</p>",
+  "primary": {
+    "label": "Vorbereitung für Mexiko anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "countryContext": "/de/laender/mexiko/",
+  "country": {
+    "name": "Mexiko",
+    "slug": "mexiko",
+    "region": "Mittelamerika und Karibik",
+    "map": "countries/mexiko-locator.svg",
+    "imageAlt": "Lagegrafik: Mexiko. Hervorhebung zur geografischen Orientierung, keine Sicherheitsbewertung.",
+    "caption": "Geografische Orientierung. Keine Reise-, Sicherheits- oder Grenzbewertung.",
+    "summary": [
+      [
+        "Konsulat und Region",
+        "Verfahrensweg und konkreten Wohnort zusammen prüfen."
+      ],
+      [
+        "Nachweise richtig zuordnen",
+        "Keine kopierte Betragsliste eines anderen Konsulats."
+      ],
+      [
+        "Bis zur Ankunft denken",
+        "Visum, Aufenthaltskarte und Familienalltag verbinden."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Passende Ausgangslage",
+      "body": "<p>Mexiko verlangt zwei Entscheidungen, die zusammenpassen müssen: den geeigneten Aufenthaltsweg und eine konkrete Wohnregion. Deine Familie benötigt keine landesweite Durchschnittsbewertung, sondern einen Ort, von dem Schule, Behandlung, Arbeit und Ankunft funktionieren. Auch für eine vorbereitete Reservebasis gilt: Das Konsulatsverfahren ist ein Anfang, nicht der fertige Alltag.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Krisenbasis und Rückkehr",
+      "body": "<p>Vergleiche nur eine benannte Region mit deinem Szenario. Lokale Lage, Reiseweg und die Erreichbarkeit der Unterkunft sind entscheidender als die Bekanntheit eines Ferienortes. Die Anreise wird bis zum Wohnort gedacht, einschließlich eines abgestimmten Kontakts bei Änderungen. Eine entfernte Region hilft nur, wenn Flug, Weiterreise und der Zugang zur Unterkunft für eure konkreten Pässe funktionieren. Für die Rückkehr bewahren wir erforderliche Dokumente und Zahlungswege im bisherigen Land auf. Bei wiederholter Nutzung wird geprüft, ob Titel und Ortswechsel zum tatsächlichen Aufenthaltsmuster passen.</p><p>Eine länger als geplant nötige Nutzung gehört in den Plan. Halte Einreise, möglichen Aufenthalt und spätere Rückkehr für jede Person getrennt fest. Ein akzeptierter Visumantrag bedeutet noch nicht, dass Unterkunft, Geldzugriff und Versorgung eingerichtet sind.</p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Dauerhafte Zukunft für die Familie",
+      "body": "<p>Die Familienplanung beginnt bei den Personen und der gewünschten Dauer. Der Zugang für den Hauptantragsteller, nachziehende Angehörige und die Schulaufnahme müssen gemeinsam geklärt werden. Ein befristeter Aufenthaltstitel und eine dauerhafte Perspektive sind nicht dasselbe Ergebnis. Bei einem dauerhaften Familienwechsel reicht der Hauptantrag nicht: Partner und Kinder benötigen je einen passenden Rechtsweg und akzeptierte Familiennachweise. Die mexikanische Schulwahl muss Unterrichtssprache, Aufnahme und alltägliche Wege vom Wohnort verbinden; eine bekannte internationale Gemeinde ersetzt diese Prüfung nicht.</p><p>Am konkreten Standort zählen Unterrichtssprache, medizinische Reichweite, Wohnumfeld und Wege. Wir vergleichen diese Punkte vor einer längeren Bindung an eine Unterkunft. Eine gute Erkundung prüft Alltag und notwendige Termine, nicht nur attraktive Wochenenden.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Mobile Nutzung",
+      "body": "<p>Wechselnde Aufenthalte brauchen einen dazu passenden Status und eine organisierte Basis. Was während einer Abwesenheit mit Unterkunft, Post, Dokumenten und erforderlichen Terminen passiert, wird ebenso festgelegt wie Wiedereinreise und zulässige Tätigkeit.</p><p>Ein Besuchsaufenthalt wird nicht als dauerhafte Niederlassung verkauft. Die tatsächliche Nutzung entscheidet, welcher Weg geprüft werden muss. Regelmäßige Einreisen ersetzen weder eine passende Kategorie noch die für deinen Aufenthalt erforderlichen Folgeschritte.</p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Vorhandene Rechte und passende Wege",
+      "body": "<p>Die mexikanischen konsularischen Stellen unterscheiden unter anderem temporäre und permanente Aufenthaltsvisa sowie verschiedene Nachweisgrundlagen. Finanzielle Belege und ihre örtliche Anwendung werden für den zuständigen Antrag bestimmt. Die Zahlen oder Dokumentvorgaben eines beliebigen Konsulats sind deshalb keine verlässliche Einkaufsliste für deinen Fall. Die konsularischen Informationen unterscheiden temporäre und dauerhafte Aufenthaltswege und jeweils bestimmte familiäre oder finanzielle Grundlagen. Das zuständige Konsulat prüft die einzureichenden Originale; bei entsprechendem Visum folgt die lokale Aufenthaltskarte durch das INM. Zahlen eines anderen Konsulats oder ein Visum ohne diesen Folgeschritt werden nicht als fertiges Bleiberecht verkauft.</p><p>Bei einem entsprechenden temporären Aufenthaltsvisum folgt nach der Einreise ein eigener Schritt zur Aufenthaltskarte beim INM. Wir verbinden konsularische Prüfung und anschließende lokale Aufgaben. Ein Visum, eine Aufenthaltskarte und ein vollständig vorbereiteter Wohnort bleiben drei unterschiedliche Ergebnisse.</p><p class=\"exb-source-note\"><a href=\"https://embamex.sre.gob.mx/chile/index.php/servicios-consulares/visas\" rel=\"noreferrer\">Secretaría de Relaciones Exteriores, México</a> <span>Quelle geprüft: 26.09.2026</span></p><p class=\"exb-source-note\"><a href=\"https://consulmex.sre.gob.mx/saintpaul/index.php/se/visesp/5-seccion/235-residente-temporal\" rel=\"noreferrer\">Consulado de México en Saint Paul</a> <span>Quelle geprüft: 26.09.2026</span></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fmexiko%2F#kurzanfrage\">Vorbereitung für Mexiko anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Regionen und Wohnen",
+      "body": "<p>Mexiko wird nach Region und konkretem Wohnumfeld beurteilt. Prüfe sichere und praktikable Alltagswege, Schule, Behandlung und Erreichbarkeit deines Arbeitsplatzes gemeinsam. Große Entfernungen oder die Bindung an einen einzelnen Transportweg können für deine Familie wichtiger sein als ein allgemeiner Lebenshaltungskostenvergleich.</p><p>Eine organisierte Erkundung klärt diese Fragen vor einer langfristigen Miet- oder Kaufentscheidung. Für eine bereits festgelegte Region können wir Besichtigungen, Übergabe, erste Ausstattung und Ankunft als abgegrenzten Auftrag zusammenführen.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Ankunft im Zielland organisieren</a></p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Gesundheit und Pflege",
+      "body": "<h3>Kinder und Angehörige</h3><p>Ordne Familiennachweise, Aufenthaltswege und Schulunterlagen personengenau. Unterrichtssprache, Beginn des Schuljahres und erreichbare Wege können die Standortwahl verändern. Eine Schule im weiteren Umkreis ist noch kein geklärter Platz für dein Kind. Kläre bei Kindern, ob der gewählte Schulort vom vorgesehenen Wohnumfeld aus zuverlässig erreichbar ist und welche Unterlagen die konkrete Schule annimmt. Medizinische Eignung heißt: Aufnahme, Sprache, Behandlung und Zahlungsweg für den tatsächlichen Bedarf am Ort klären. Pflegebedarf kann die Region stärker eingrenzen als ein attraktives Mietangebot.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a></p>\n<h3>Versicherung und Behandlung</h3><p>Für regelmäßige Behandlung wird eine konkrete Einrichtung mit Aufnahme- und Zahlungsweg gebraucht. Prüfe, welche Leistungen eine Versicherung tatsächlich deckt und wie die Behandlung vom Wohnort erreicht wird. Landesweite Durchschnittswerte helfen hier nur begrenzt.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a></p>\n<h3>Pflege und Begleitung</h3><p>Begleitbedarf, Medikamente und Hilfsmittel müssen in den tatsächlichen Alltag passen. Die Abstimmung erfolgt mit den zuständigen Fachpersonen und den vorgesehenen örtlichen Stellen, bevor die Familie auf diese Versorgung angewiesen ist.</p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Einkommen, Geld und Arbeitsplatz",
+      "body": "<p>Der Einkommens- oder Vermögensnachweis für ein Verfahren und die Zahlungsfähigkeit im Alltag sind getrennte Fragen. Halte fest, wie Miete, Schule, Behandlung und laufende Verpflichtungen bezahlt werden und wie ein berechtigter Ersatzweg aussieht. Der finanzielle Konsulatsnachweis soll die einschlägige Kategorie tragen; daneben muss der Haushalt Miete, Behandlung und Schulgeld wirklich bezahlen können. Für Selbstständige prüfen Fachleute, ob die geplante Tätigkeit vor Ort erlaubt ist und wo Leitung und Steuern anknüpfen. Eine mexikanische Aufenthaltskarte ist keine automatische Abmeldung der Steueransässigkeit andernorts.</p><p>Bei beruflicher Tätigkeit gehören Arbeits- und Aufenthaltsvoraussetzungen, Steuerbezug und technische Betriebsfähigkeit zusammen. Ein ausländischer Kunde oder ein vorhandenes Konto beantwortet diese rechtlichen Fragen nicht automatisch. Die konkrete Fachprüfung wird in die Organisation eingebunden.</p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Dokumente und Vorlauf",
+      "body": "<p>Zuerst bestimmen wir den zuständigen konsularischen Weg und die passende Kategorie. Anschließend werden die akzeptierten Einkommens-, Identitäts- und Familiennachweise zusammengestellt und persönliche Termine koordiniert. Die spätere örtliche Bearbeitung wird schon vor der Reise mitgeplant. Die Reihenfolge beginnt beim Konsulat, das für den Antrag zuständig ist, nicht bei einer aus einer anderen Auslandsvertretung kopierten Betragsliste. Wir gleichen Identitäts-, Familien- und Finanzbelege mit dessen Verfahren ab und planen anschließend die erforderliche INM-Registrierung und die Wohnortorganisation.</p><p>Damit vermeidest du eine Sammlung von Unterlagen, die zwar vollständig aussieht, aber für eine andere Stelle erstellt wurde. Wir verfolgen Eingänge, fehlende Nachweise und weitere Aufgaben bis zum vereinbarten Ergebnis. Private Dokumente werden nicht über dieses Länderprofil eingesammelt.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a></p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Laufende Pflichten",
+      "body": "<p>Titelpflege, lokale Dokumente, erreichbare Ansprechpartner und die Nutzbarkeit der Unterkunft brauchen einen aktuellen Stand. Ein Wechsel der Wohnregion, Tätigkeit oder Familiensituation kann eine neue Prüfung auslösen. Der Betreuungsumfang wird auf diese tatsächlichen Abhängigkeiten zugeschnitten. Bei einer Reservebasis müssen Karte, aktuelle Anschrift und erreichbarer Ansprechpartner zur tatsächlichen Nutzung passen. Ändern sich Familie, Tätigkeit oder Wohnregion, werden die entsprechenden Nachweise und lokalen Wege neu beurteilt. Für eine geplante Rückkehr ins bisherige Land bleiben dessen Wohn-, Geschäfts- und Steuerpflichten ein eigener Arbeitsstrang.</p><p>Auch bei einer nur zeitweise genutzten Basis muss klar sein, wer die Unterkunft kontrolliert und welche Pflichten während deiner Abwesenheit weiterlaufen. Eine einmalige Ankunftsorganisation ist nicht automatisch ein laufender Betreuungsvertrag.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a></p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Konkrete Vorbereitung",
+      "body": "<p>EXOBASIS verbindet für deine Mexiko-Option das passende Konsulatsverfahren mit der praktischen Vorbereitung der ausgewählten Region. Wir koordinieren Dokumente, Termine, erforderliche Facharbeit und die vereinbarten Schritte für Unterkunft und Ankunft.</p><p>Der Nutzen liegt in der richtigen Reihenfolge und einer geführten Durchführung über mehrere Stellen hinweg. Vorhandene Berater und belastbare Vorarbeiten werden übernommen. Ist noch offen, ob Mexiko deine Anforderungen am besten erfüllt, kommt zuerst ein individueller Vergleich infrage, nicht eine voreilige Bindung an ein Objekt.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fmexiko%2F#kurzanfrage\">Vorbereitung für Mexiko anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div><div class=\"exb-country-comparisons\"><h3>Zwei andere Antworten auf dieselbe Frage</h3><article><p><a class=\"exb-text-link\" href=\"/de/laender/costa-rica/\">Costa Rica als persönliche Ausweichoption</a></p><p>Costa Rica: Vergleiche Aufenthaltsfolge und Gesundheitsanschluss mit den konkreten regionalen Anforderungen deiner Mexiko-Option.</p></article><article><p><a class=\"exb-text-link\" href=\"/de/laender/panama/\">Panama als persönliche Ausweichoption</a></p><p>Panama: Prüfe, ob die Trennung von Wohnbasis und Fachstandort deinen Anforderungen eine andere Lösung bietet.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Kann ich die Anforderungen eines beliebigen mexikanischen Konsulats verwenden?",
+    "answer": "Maßgeblich ist der für deinen Antrag zuständige Weg. Wir ordnen die passenden Nachweise und Termine diesem Verfahren zu."
+  },
+  "editorialSources": [
+    "mx",
+    "mx2"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 1008,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1010,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1011,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1012,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1013,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1014,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1015,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1016,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1017,
+      "target": "/en/countries/mexico/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1456,
+      "target": "/de/laender/costa-rica/",
+      "label": "Costa Rica als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1458,
+      "target": "/de/laender/panama/",
+      "label": "Panama als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ]
+}

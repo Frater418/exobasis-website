@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/stiftung-liechtenstein/",
+  "lang": "de",
+  "title": "Eine Stiftung in Liechtenstein organisieren",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-f98e4cd5fa218b"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-12aea16f5a6a97"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-327568101d023a"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Stiftungsstruktur / Facharbeit in Liechtenstein koordinieren",
+  "seoTitle": "Stiftung in Liechtenstein organisieren | EXOBASIS",
+  "description": "Zweck, Begünstigte, Kontrolle und Herkunftsrecht zusammenbringen. EXOBASIS organisiert die liechtensteinische Fachausführung und nachvollziehbare Übergabe.",
+  "intro": "<p>Du willst regeln, wie dein Vermögen deiner Familie dient und wer es später verwaltet. Eine Stiftung in Liechtenstein kann dafür eine eigenständige rechtliche Ordnung schaffen. Entscheidend sind ihr Zweck, die Begünstigten, die tatsächliche Kontrolle und die Folgen in den beteiligten Steuer- und Rechtsräumen.</p><p>EXOBASIS organisiert deinen Stiftungsauftrag: Wir übersetzen das persönliche Ziel in einen klaren Arbeitsumfang, führen die notwendigen Unterlagen zusammen und koordinieren liechtensteinische Fachausführung und Herkunftsrechtsprüfung bis zur vereinbarten Übergabe.</p>",
+  "primary": {
+    "label": "Stiftungsstruktur anfragen",
+    "intent": "Eine Stiftung in Liechtenstein organisieren"
+  },
+  "summary": {
+    "kicker": "Vermögensordnung und Nachfolge",
+    "title": "Die Stiftung muss zu deinem Leben passen.",
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Karte und Kompass als Sinnbild für internationale Planung.",
+    "facts": [
+      [
+        "Ausgangspunkt",
+        "Vermögenswerte, Familienziel und gewünschte Versorgung"
+      ],
+      [
+        "Gestaltung",
+        "Zweck, Begünstigung, Organe, Kontrolle und Fachprüfung"
+      ],
+      [
+        "Betrieb",
+        "Verwaltung, Kosten, Ausschüttungswege und Nachfolge"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Wem soll das Vermögen dienen und unter welchen Bedingungen?",
+      "layout": "prose",
+      "body": "<p>Eine liechtensteinische Stiftung ist ein rechtlich und wirtschaftlich verselbstständigtes Zweckvermögen. Der Stifter widmet Vermögen und bestimmt Zweck und Begünstigte. Diese Grundlage erläutert die <a href=\"https://www.stifa.li/organisation/\">liechtensteinische Stiftungsaufsicht</a> anhand des Personen- und Gesellschaftsrechts.</p><p>Für deinen Auftrag beginnt die Gestaltung mit konkreten Fragen: Soll das Vermögen Angehörige versorgen, Ausbildung ermöglichen, eine Unternehmensnachfolge ordnen oder einen gemeinnützigen Zweck erfüllen? Wer soll Leistungen erhalten, wer darüber entscheiden und wie soll bei Krankheit, Tod oder veränderten Familienverhältnissen gehandelt werden? Daraus entsteht der Arbeitsauftrag an die Fachausführer.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/vermoegensstrukturen/\" data-route=\"/de/leistungen/vermoegensstrukturen/\" data-link-description=\"Eigentum, Verwahrung und Nachfolge mit passenden Fachstellen organisieren.\"><span>Vermögensstrukturen, Verwahrung und Nachfolge organisieren</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-2",
+      "title": "Eigentum, Verwaltung und persönliche Einflussrechte",
+      "layout": "prose",
+      "body": "<p>Der Stiftungsrat führt die Geschäfte und vertritt die Stiftung. Nach der amtlichen Darstellung besteht er aus mindestens zwei Mitgliedern; für die Zusammensetzung gelten zusätzlich die Anforderungen an eine nach Art. 180a PGR qualifizierte Person. Die Bestellung wird durch die liechtensteinische Fachstelle gestaltet.</p><p>Will ein natürlicher Stifter Änderungs- oder Widerrufsrechte behalten, müssen sie bei Errichtung ausdrücklich vorbehalten werden. Solche höchstpersönlichen Stifterrechte sind nach der <a href=\"https://www.stifa.li/organisation/\">STIFTA-Darstellung zu Gestaltungsrechten</a> weder übertragbar noch vererbbar. Deshalb werden gewünschter Einfluss, Versorgung der Familie und die spätere Handlungsfähigkeit der Organe gemeinsam gestaltet.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-3",
+      "title": "Der Herkunftsfall gehört vor die Errichtung",
+      "layout": "prose",
+      "body": "<p>Wo du und die Begünstigten steuerlich ansässig seid, welche Vermögenswerte übertragen werden und welche Rechte du zurückbehältst, beeinflusst die grenzüberschreitende Wirkung. Ein deutscher, österreichischer und schweizerischer Fall wird jeweils eigenständig bearbeitet.</p><p>Für Deutschland sieht <a href=\"https://www.gesetze-im-internet.de/astg/__15.html\">§ 15 AStG</a> bei ausländischen Familienstiftungen grundsätzlich eine Zurechnung von Vermögen und Einkünften vor. Für EU-/EWR-Fälle enthält Absatz 6 eine Ausnahme mit Voraussetzungen, insbesondere dem rechtlichen und tatsächlichen Entzug der Verfügungsmacht und dem erforderlichen Informationsaustausch. Die liechtensteinische Gestaltung und die deutsche steuerliche Einordnung müssen deshalb zusammenpassen.</p><p>Bei einem österreichischen oder schweizerischen Bezug werden stattdessen die dort geltenden Regeln für Errichtung, Zuwendung, laufende Einkünfte und Leistungen an Begünstigte durch die zuständige Fachstelle eingeordnet. Die deutsche Ausnahme ist dafür keine allgemeine DACH-Regel.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/trust-struktur/\" data-route=\"/de/leistungen/trust-struktur/\" data-link-description=\"Die fachliche Prüfung und Einrichtung einer passenden Trust-Struktur organisieren.\"><span>Eine Trust-Struktur organisieren</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\" data-route=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\"><span>Wegzug, Steuern und Unternehmenspflichten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-4",
+      "title": "So wird aus dem Ziel ein abgestimmter Gründungsauftrag",
+      "layout": "prose",
+      "body": "<p>Wir organisieren die Aufnahme von Vermögensherkunft, Begünstigten und gewünschten Regeln. Die liechtensteinische Fachstelle erstellt die nötigen Stiftungsdokumente; Herkunfts- und gegebenenfalls weitere Rechtsfragen werden vor den verbindlichen Schritten zusammengeführt. Anschließend werden Errichtung, erforderliche Eintragung oder Hinterlegung und die Vermögensausstattung aufeinander abgestimmt.</p><p>Die amtliche Darstellung nennt ein Mindestkapital von 30.000 Schweizer Franken, das tatsächlich geleistet werden muss. Dieses Kapital ist von den Gründungskosten zu unterscheiden. Welche Eintragungs-, Anzeige- und Aufsichtspflichten gelten, hängt unter anderem von der Art und Tätigkeit der Stiftung ab.</p><p>Gemeinnützige Stiftungen sowie die im Gesetz bezeichneten privatnützigen Stiftungen mit einem kaufmännischen Gewerbe werden ins Handelsregister eingetragen. Andere privatnützige Stiftungen hinterlegen innerhalb von 30 Tagen nach Errichtung eine Gründungsanzeige beim Amt für Justiz. Die zuständige Fachperson bestimmt den zutreffenden Weg und erledigt ihn. Die <a href=\"https://www.stifa.li/errichtung-einer-stiftung/\">STIFA erläutert Errichtung, Eintragung und Hinterlegung</a> getrennt.</p>"
+    },
+    {
+      "id": "kern-5",
+      "title": "Die laufende Verwaltung von Anfang an mitplanen",
+      "layout": "prose",
+      "body": "<p>Eine Stiftung braucht über die Errichtung hinaus verantwortliche Organe, geordnete Unterlagen und die zu ihrer Ausgestaltung gehörenden Rechnungslegungs-, Steuer- und Kontrollaufgaben. Bei der Kalkulation werden einmalige Facharbeit und wiederkehrende Vergütungen getrennt.</p><p>Auch die Nutzung muss klar sein: Wie beantragt ein Begünstigter eine vorgesehene Leistung? Welche Unterlage braucht der Stiftungsrat, wer entscheidet und wie wird die Zahlung dokumentiert? Wir führen diese Abläufe mit den beteiligten Fachstellen zusammen. Eine vorgesehene Ausschüttung wird im persönlichen Familienbudget erst nach ihrem tatsächlich bestätigten Stand berücksichtigt.</p>"
+    },
+    {
+      "id": "kern-6",
+      "title": "Übergabe und Nachfolge praktisch verständlich machen",
+      "layout": "prose",
+      "body": "<p>Zur Übergabe gehören die vereinbarten Gründungs- und Organisationsunterlagen, die benannten Ansprechpartner, Zuständigkeiten und nächsten Pflichten. Berechtigte Angehörige sollen wissen, an wen sie sich wenden und welche Nachweise sie brauchen, wenn du ausfällst.</p><p>Wechsel von Wohnsitz, Begünstigten oder Vermögensstruktur können erneute fachliche Arbeit auslösen. Wir vereinbaren auf Wunsch, welche organisatorischen Aufgaben EXOBASIS weiter betreut und wann eine Rücksprache mit den verantwortlichen Fachstellen erforderlich wird.</p>"
+    }
+  ],
+  "working": {
+    "title": "So arbeiten wir zusammen",
+    "body": "<p>Für den Einstieg beschreibst du dein Ziel und die Arten der betroffenen Vermögenswerte. Namen, Werte, Herkunftsnachweise und Familienverhältnisse werden danach geschützt aufgenommen. Du entscheidest über die Gestaltung auf Grundlage der zusammengeführten Fachbeiträge, bevor Vermögen gewidmet wird.</p>"
+  },
+  "nextWork": {
+    "title": "So geht es danach weiter",
+    "body": "<p>Wenn noch offen ist, welche Vermögensordnung deine Aufgabe am besten erfüllt, beginnt die Arbeit mit <a href=\"/de/leistungen/vermoegensstrukturen/\">Vermögensstrukturen, Verwahrung und Nachfolge</a>. Ein bereits klarer Stiftungsauftrag kann direkt angefragt werden.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Was soll die Stiftung für deine Familie regeln?",
+    "body": "Beschreibe das Ziel und die beteiligten Rechtsräume. Wir stimmen darauf die benötigte Facharbeit und Organisation ab."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "573",
+        "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+        "target": "/de/leistungen/vermoegensstrukturen/",
+        "position": "Kernabschnitt 1: Zweck und Begünstigte",
+        "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+      },
+      {
+        "line": "574",
+        "label": "Eine Trust-Struktur organisieren",
+        "target": "/de/leistungen/trust-struktur/",
+        "position": "Kernabschnitt 3: Herkunftsrecht",
+        "purpose": "Eignung und konkrete Einrichtung einer Trust-Struktur mit befugten Fachstellen organisieren."
+      },
+      {
+        "line": "575",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 2: Kontroll-/Eigentumsrollen",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "576",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "position": "Kernabschnitt 3: Herkunftsrecht",
+        "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+      }
+    ],
+    "seedingSupporting": [
+      "D21"
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages.",
+    "redaction": {
+      "package": "leistungen-a-de",
+      "seeding": [],
+      "sourceScope": "Eigenständige DACH-Neuredaktion nach PB-D65; Quellen und Abschnittsbelege in SEITEN-DE.jsonl.",
+      "mappedLinks": [
+        {
+          "line": "573",
+          "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+          "target": "/de/leistungen/vermoegensstrukturen/",
+          "position": "Kernabschnitt 1: Zweck und Begünstigte",
+          "purpose": "Eine definierte Eigentums-, Struktur- oder Nachfolgeaufgabe mit passenden Fachstellen bearbeiten lassen."
+        },
+        {
+          "line": "574",
+          "label": "Eine Trust-Struktur organisieren",
+          "target": "/de/leistungen/trust-struktur/",
+          "position": "Kernabschnitt 3: Herkunftsrecht",
+          "purpose": "Eignung und konkrete Einrichtung einer Trust-Struktur mit befugten Fachstellen organisieren."
+        },
+        {
+          "line": "575",
+          "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+          "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+          "position": "Kernabschnitt 2: Kontroll-/Eigentumsrollen",
+          "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+        },
+        {
+          "line": "576",
+          "label": "Wegzug, Steuern und Unternehmenspflichten",
+          "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+          "position": "Kernabschnitt 3: Herkunftsrecht",
+          "purpose": "Steuer-, Tätigkeits- und Unternehmensabhängigkeiten vor dem Wegzug klären."
+        }
+      ],
+      "seedingSupporting": [],
+      "seedingScope": "Direktzuordnung und unterstützende Anwendung im deutschen Seitenjournal dokumentiert."
+    }
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Was wir für dich übernehmen",
+    "body": "<p>Wir führen deine Ziele, beteiligten Personen und Vermögenswerte in einem gemeinsamen Auftrag zusammen. Die zuständigen Fachstellen gestalten und prüfen die Stiftung sowie ihre grenzüberschreitenden Folgen. EXOBASIS organisiert Abstimmung, Unterlagen, Entscheidungen und die vereinbarte Einrichtung.</p>",
+    "items": [
+      [
+        "Vorbereitung",
+        "Zweck und Vermögensherkunft sowie Versorgung und Nachfolge erfassen."
+      ],
+      [
+        "Fachausführung",
+        "Liechtensteinische Gestaltung mit dem tatsächlichen Herkunfts- und Steuerfall verbinden."
+      ],
+      [
+        "Übergabe",
+        "Dokumente, Verantwortliche, Kosten und laufende Aufgaben zusammenführen."
+      ]
+    ],
+    "costs": "Stiftungskapital, Gründungs- und Beratungskosten, Organvergütungen, Verwaltung, Bank- und gegebenenfalls Revisionskosten sind getrennte Positionen. Die konkrete Gestaltung bestimmt den laufenden Aufwand. Unser Organisationshonorar und die beauftragten Fachleistungen werden im Angebot ausgewiesen."
+  },
+  "displayTitle": "Eine Stiftung in Liechtenstein passend zu deinem Vermögen gestalten"
+}

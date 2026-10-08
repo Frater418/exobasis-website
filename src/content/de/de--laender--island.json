@@ -1,0 +1,319 @@
+{
+  "route": "/de/laender/island/",
+  "lang": "de",
+  "title": "Island als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/iceland/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-51703179c82199",
+      "startLine": 5988
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-658034109f0d0a",
+      "startLine": 7691
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern nach Island: Aufenthalt, Wohnen, Familie | EXOBASIS",
+  "description": "Island als zweite Basis oder neues Zuhause: Rechte für Deutsche, Österreicher und Schweizer, Miete, Immobilienkauf, Krankenversicherung und Vorbereitung.",
+  "intro": "<p>Du möchtest Abstand gewinnen, bevor Krieg oder politische Entwicklungen deinen Handlungsspielraum bestimmen. Island bietet dafür eine eigene Ausgangslage: eine Insel im Nordatlantik, öffentliche Versorgung und Aufenthaltswege, die Deutsche, Österreicher und Schweizer bereits nutzen können. Ob daraus dein zweites Zuhause wird, entscheidet sich an Wohnort, Familienalltag und rechtzeitig eingerichteten Zugängen.</p><p>Wer nach Island auswandern oder dort einen Zufluchtsort vorbereiten will, braucht beides: das passende Recht zu bleiben und einen Haushalt, der auch nach Monaten der Abwesenheit funktioniert. EXOBASIS organisiert diese Vorbereitung bis zur Unterkunft, Übergabe und laufenden Betreuung.</p>",
+  "countryContext": "/de/laender/island/",
+  "linkPlan": [
+    {
+      "sourceLine": 1188,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1190,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1191,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1192,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1193,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1194,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1195,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1196,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1197,
+      "target": "/en/countries/iceland/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1492,
+      "target": "/de/laender/irland/",
+      "label": "Irland als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1494,
+      "target": "/de/laender/neuseeland/",
+      "label": "Neuseeland als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Registration of EEA/EFTA citizens at Registers Iceland | Ísland.is",
+      "url": "https://island.is/en/registration-of-eea-efta-foreign-nationals",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Self-sufficient individuals | Þjóðskrá",
+      "url": "https://www.skra.is/english/people/change-of-address/moving-to-iceland/i-am-an-eea-efta-citizen/staying-more-than-6-months/self-sufficient-individuals/",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Application for health insurance when moving to Iceland | Ísland.is",
+      "url": "https://island.is/en/apply-for-health-insurance",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Government of Iceland | Regulation on the rights of aliens who come under the Agreement on the European Economic Area or the Convention establishing the European Free Trade Association to acquire the right to own or use real property",
+      "url": "https://www.government.is/publications/legislation/act/2018-01-04-Regulation-on-the-rights-of-aliens-who-come-under-the-Agreement-on-the-European-Economic-Area-or-the-Convention-establishing-the-European-Free-Trade-Association-to-acquire-the-right-to-own-or-use-real-property-No.-702-2002",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Registration of documents | Ísland.is",
+      "url": "https://island.is/en/registration-of-documents",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Renting | Ísland.is",
+      "url": "https://island.is/en/life-events/renting",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Primary schools | Ísland.is",
+      "url": "https://island.is/en/primary-schools",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Landspitali - University Hospital",
+      "url": "https://www.landspitali.is/um-landspitala/languages/landspitali-university-hospital/",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Healthcare services | The town of Akureyri",
+      "url": "https://gamli.akureyri.is/en/services/moving-to-akureyri/healthcare-services",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Tax liability",
+      "url": "https://www.skatturinn.is/english/individuals/tax-liability",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Sign up",
+      "url": "https://www.landsbankinn.is/en/sign-up",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Frequently asked questions",
+      "url": "https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions",
+      "section": 9,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Island: Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/islandsicherheit-223400",
+      "section": 2,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "Island refuges for surviving nuclear winter and other abrupt sunlight ...",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36464495/",
+      "section": 2,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    },
+    {
+      "title": "NATO member countries",
+      "url": "https://www.nato.int/en/about-us/organization/nato-member-countries",
+      "section": 2,
+      "checkedAt": "2026-09-27",
+      "verification": "source_text_read",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Vorbereitung für Island anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "country": {
+    "name": "Island",
+    "slug": "island",
+    "region": "Europa",
+    "map": "countries/island-locator.svg",
+    "imageAlt": "Lage Islands im Nordatlantik zwischen Grönland und Nordeuropa",
+    "caption": "Island im Nordatlantik",
+    "summary": [
+      [
+        "Vorhandene Aufenthaltsrechte",
+        "Deutsche, Österreicher und Schweizer nutzen den EWR-/EFTA-Weg."
+      ],
+      [
+        "Wohnort mit Versorgung",
+        "Großraum Reykjavík und Akureyri nach Schul-, Behandlungs- und Anreisebedarf vergleichen."
+      ],
+      [
+        "Eine nutzbare Basis",
+        "Wohnraum, Versicherung, Geldzugriff und Betreuung vor der Ankunft einrichten."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Für wen Island als zweite Basis passt",
+      "body": "<p>Island kommt besonders dann in Betracht, wenn du europäische Aufenthaltsrechte nutzen und trotzdem räumlichen Abstand zum Kontinent schaffen möchtest. Für eine Familie mit regelmäßigem Behandlungsbedarf ist ein Wohnort im Großraum Reykjavík meist der sinnvollere Ausgangspunkt der Suche als ein allein stehendes Haus in schöner Landschaft. Wer Ruhe sucht und seine Arbeit ortsunabhängig fortführen kann, kann auch Akureyri einbeziehen.</p><p>Unterscheide dabei drei Vorhaben. Eine vorbereitete Zuflucht hält Unterkunft und Ankunftsablauf bereit. Ein zweiter Wohnsitz muss über deine wiederkehrenden Aufenthalte hinweg betreut werden. Dauerhaftes Auswandern verlangt zusätzlich einen Schul- und Arbeitsalltag, den deine Familie auch im Winter tragen möchte. Die passende Immobilie ergibt sich aus diesem Lebensmodell.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Island bei Kriegssorge: Abstand, Anreise und Naturgefahren",
+      "body": "<p>Island wird in der Forschung zu möglichen Zufluchtsorten bei einem nuklearen Winter genannt. Die Studie von Boyd und Wilson untersucht vor allem den Ausfall von Sonnenlicht, Ernährung und gesellschaftliche Widerstandsfähigkeit. Für deine Entscheidung kommt die militärische Lage hinzu: Island ist NATO-Mitglied. Wer bewusst einen Standort außerhalb dieses Bündnisses sucht, muss daher anders auswählen.</p><p class=\"exb-citation\">Quellen: <a href=\"https://pubmed.ncbi.nlm.nih.gov/36464495/\" rel=\"noreferrer\">Island refuges for surviving nuclear winter and other abrupt sunlight ...</a>; <a href=\"https://www.nato.int/en/about-us/organization/nato-member-countries\" rel=\"noreferrer\">NATO member countries</a></p><p>Eine Inselbasis verlangt eine frühe Anreiseentscheidung. Wenn Flüge ausfallen, wird aus einer vorhandenen Wohnung noch kein erreichbarer Zufluchtsort. Plane deshalb einen Auslöser für die Abreise, eine Ausweichverbindung und Geld für einen längeren Zwischenaufenthalt. Auch die Rückreise und die erneute Nutzung der Wohnung gehören in den persönlichen Ablauf.</p><p>Vor Ort sind Winterstürme, gesperrte Straßen und vulkanische Aktivität konkrete Auswahlkriterien. Besonders im Raum Grindavík auf der Reykjanes-Halbinsel müssen Sperrungen und örtliche Gefahrenbewertungen vor einer Objektbindung berücksichtigt werden. Bei einem Haus außerhalb der Städte zählt, ob Heizung, Zufahrt und medizinische Hilfe auch bei schlechtem Wetter erreichbar bleiben.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/islandsicherheit-223400\" rel=\"noreferrer\">Island: Reise- und Sicherheitshinweise</a></p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Mit Kindern nach Island auswandern",
+      "body": "<p>Für eine dauerhafte Familienzukunft lohnt sich eine Erkundung während des normalen Schulbetriebs und in der dunklen Jahreszeit. Dann siehst du, wie sich Schulweg, Arbeit, Einkäufe und Freizeit tatsächlich anfühlen. Organisiere Gespräche mit der zuständigen Gemeinde und der Schule, bevor du die Wohnung für mehrere Jahre bindest. Besprich dabei Unterrichtssprache, Sprachförderung, Jahrgang und den Unterstützungsbedarf deines Kindes.</p><p>Auch ein mitziehender Elternteil braucht einen eigenen Plan: regelmäßige Behandlung, barrierearmer Wohnraum, Unterstützung im Haushalt und ein erreichbarer Ersatzkontakt. Eine Familie, die im Urlaub gut zurechtkommt, kann im Alltag andere Wege und Hilfe benötigen. Wir verbinden diese Anforderungen mit der Standortsuche, statt nach dem Immobilienkauf passende Versorgung suchen zu müssen.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Zeitweise in Island leben und die Basis erhalten",
+      "body": "<p>Wenn du Island zunächst nur einige Wochen im Jahr nutzen möchtest, ist eine betreute Mietwohnung oft leichter zu erproben als ein sofortiger Kauf. Vereinbare, wann du selbst Zugang brauchst, wer Schlüssel verwahrt und wie Mängel gemeldet werden. Eine zwischenzeitliche Vermietung muss mit deinem eigenen Nutzungsrecht und den geltenden Vertragsbedingungen zusammenpassen.</p><p>Eine Kennitala ist die persönliche Identifikationsnummer, kein Ersatz für die Voraussetzungen deines Aufenthalts. Ebenso begründet ein Ferienhaus allein keinen angemeldeten Lebensmittelpunkt. Für registrierte Selbstversorger nennt Registers Iceland grundsätzlich bis zu sechs Monate Auslandsaufenthalt pro Jahr ohne Abmeldung; längere Abwesenheit erfordert außerhalb bestimmter Ausnahmen eine Abmeldung. Das ist für eine überwiegend unbewohnte Reservebasis entscheidend. Wenn du zurückkehrst, müssen auch Registrierung und Versicherung wieder zu deinen tatsächlichen Verhältnissen passen.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.skra.is/english/people/change-of-address/moving-to-iceland/i-am-an-eea-efta-citizen/staying-more-than-6-months/self-sufficient-individuals/\" rel=\"noreferrer\">Self-sufficient individuals | Þjóðskrá</a></p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Aufenthalt in Island: Voraussetzungen für DACH-Bürger",
+      "body": "<p>Als deutscher oder österreichischer Staatsbürger nutzt du die EWR-Regeln, als Schweizer den EFTA-Zugang. Bis zu drei Monate kannst du dich auf dieser Grundlage ohne reguläre EWR-/EFTA-Registrierung aufhalten. Für längeres Bleiben verlangt Registers Iceland die Registrierung; Deutschland, Österreich und die Schweiz werden ausdrücklich im betreffenden Verfahren geführt.</p><p class=\"exb-citation\">Quellen: <a href=\"https://island.is/en/registration-of-eea-efta-foreign-nationals\" rel=\"noreferrer\">Registration of EEA/EFTA citizens at Registers Iceland | Ísland.is</a></p><p>Die Grundlage kann Beschäftigung, selbstständige Tätigkeit oder ausreichendes eigenes Vermögen beziehungsweise Einkommen sein. Wer als Rentner nach Island auswandern möchte, bereitet Nachweise für den Lebensunterhalt seines Haushalts und den erforderlichen Krankenversicherungsschutz vor. Zur Registrierungsfrist enthalten die amtlichen Seiten abweichende Angaben: Die allgemeine Seite verlangt bei mehr als drei Monaten eine Registrierung einschließlich des gesetzlichen Wohnsitzes. Die Selbstversorger-Seite nennt die Wohnsitzregistrierung ab einer geplanten Dauer von drei Monaten als Möglichkeit und ab sechs Monaten als Pflicht. Für einen vier- oder fünfmonatigen Aufenthalt bleibt der verbindliche Termin damit ungeklärt. Lass dir vor der Reise von Registers Iceland für deine Staatsangehörigkeit, Aufenthaltsdauer und Selbstversorgergrundlage bestätigen, wann und mit welchem Antrag du deinen Wohnsitz registrieren musst. Dazu gehört die Kennitala.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.skra.is/english/people/change-of-address/moving-to-iceland/i-am-an-eea-efta-citizen/staying-more-than-6-months/self-sufficient-individuals/\" rel=\"noreferrer\">Self-sufficient individuals | Þjóðskrá</a></p><p>Ein deutscher Wohnsitz ist dagegen kein deutscher Pass. Für Angehörige mit einer anderen Staatsangehörigkeit werden Familienbeziehung und der darauf beruhende Aufenthaltsweg gesondert vorbereitet. So steht vor der Abreise fest, welche Anmeldung oder Erlaubnis jeder Einzelne benötigt.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fisland%2F#kurzanfrage\">Vorbereitung für Island anfragen</a><p>Nenne uns dein Vorhaben und den gewünschten Zeitrahmen. Persönliche Unterlagen besprechen wir anschließend im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "Reykjavík oder Akureyri: mieten und Immobilien kaufen",
+      "body": "<h3>Den Wohnort vom Alltag her auswählen</h3><p>Reykjavík, Kópavogur und Hafnarfjörður gehören zum zusammenhängenden Hauptstadtgebiet. Hier lässt sich die Suche auf Schule, Arbeitsplatz und die benötigten Einrichtungen von Landspítali ausrichten. Akureyri ist eine eigenständige Alternative im Norden mit örtlicher Gesundheitsversorgung. Für häufige Auslandsreisen und besondere Behandlungen müssen zusätzliche Wege in die Entscheidung einfließen.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.landspitali.is/um-landspitala/languages/landspitali-university-hospital/\" rel=\"noreferrer\">Landspitali - University Hospital</a>; <a href=\"https://gamli.akureyri.is/en/services/moving-to-akureyri/healthcare-services\" rel=\"noreferrer\">Healthcare services | The town of Akureyri</a></p><h3>Erstunterkunft und Mietvertrag</h3><p>Eine möblierte Unterkunft erleichtert die erste Ankunft und lässt Zeit für Besichtigungen. Für den anschließenden Wohnsitz brauchst du einen klaren schriftlichen Mietvertrag. Darin stehen Laufzeit, Miethöhe, Zahlungsweise, Heizung und Strom, Kaution sowie der Zustand der Wohnung. Seit 1. Januar 2026 müssen Vermieter die Verträge im HMS-Mietregister erfassen. Eine Geldkaution gehört auf ein getrenntes verzinstes Konto. Halte Übergabe, vorhandene Schäden und Zählerstände gemeinsam fest.</p><p class=\"exb-citation\">Quellen: <a href=\"https://island.is/en/life-events/renting\" rel=\"noreferrer\">Renting | Ísland.is</a></p><h3>Eine Immobilie in Island kaufen</h3><p>Der Erwerbsweg hängt von deiner Person und deinem tatsächlichen Wohnsitz ab. Die isländischen EWR-/EFTA-Regeln erlauben unter anderem Personen mit Wohnsitz in einem EWR-/EFTA-Staat den Erwerb auf Grundlage des freien Kapitalverkehrs. Für Beschäftigung und Niederlassung bestehen weitere geregelte Wege. Die entsprechende Erklärung wird Bestandteil der Urkunde. Wer diese Voraussetzungen nicht erfüllt, benötigt gegebenenfalls eine Genehmigung des Justizministeriums. Besonders bei einer reinen Zweitbasis lohnt diese Klärung vor dem ersten bindenden Angebot.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.government.is/publications/legislation/act/2018-01-04-Regulation-on-the-rights-of-aliens-who-come-under-the-Agreement-on-the-European-Economic-Area-or-the-Convention-establishing-the-European-Free-Trade-Association-to-acquire-the-right-to-own-or-use-real-property-No.-702-2002\" rel=\"noreferrer\">Government of Iceland | Regulation on the rights of aliens who come under the Agreement on the European Economic Area or the Convention establishing the European Free Trade Association to acquire the right to own or use real property</a></p><p>Zur unabhängigen Kaufprüfung gehören Eigentümer, eingetragene Belastungen, Nutzungsrechte, Bauzustand und der genaue Umfang des Grundstücks. Die Eintragung der Rechte erfolgt beim zuständigen District Commissioner. Zum Budget zählen Kaufpreis, Fachprüfung, Registrierung, gegebenenfalls Finanzierung und laufende Unterhaltung. Die amtliche Übersicht nennt für natürliche Personen grundsätzlich 0,8 Prozent Stempelabgabe auf den maßgeblichen amtlichen Immobilienwert; persönliche Begünstigungen werden gesondert geprüft.</p><p class=\"exb-citation\">Quellen: <a href=\"https://island.is/en/registration-of-documents\" rel=\"noreferrer\">Registration of documents | Ísland.is</a></p><p>EXOBASIS übernimmt den vereinbarten Suchauftrag, organisiert Besichtigungen und unabhängige örtliche Titel- und Kaufprüfung, koordiniert Vertragsabschluss und Übergabe und richtet die Betreuung während deiner Abwesenheit ein. Die <a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Organisation deiner Ankunft</a> umfasst auf Wunsch auch Ausstattung, Schlüsselübergabe und die Vorbereitung des ersten Aufenthalts.</p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Krankenversicherung und Behandlung",
+      "body": "<h3>Schulaufnahme und Sprache</h3><p>In Island besteht Schulpflicht von 6 bis 16 Jahren. Die Anmeldung erfolgt über die Schule beziehungsweise Gemeinde; öffentliche kommunale Schulen erheben kein Schulgeld. Kläre mit der konkreten Schule, wie der Einstieg ohne Isländischkenntnisse begleitet wird. Zeugnisse, Angaben zum Lernstand und benötigte Förderung helfen dabei, den Übergang vorzubereiten. <a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Reise und Alltag mit Kindern und Angehörigen</a> werden für alle Familienmitglieder aufeinander abgestimmt.</p><p class=\"exb-citation\">Quellen: <a href=\"https://island.is/en/primary-schools\" rel=\"noreferrer\">Primary schools | Ísland.is</a></p><h3>Wann der Versicherungsschutz beginnt</h3><p>Die aktuelle Information von Iceland Health nennt nach Anmeldung des gesetzlichen Wohnsitzes grundsätzlich drei Monate Wartezeit. Wer zuvor im gesetzlichen System eines EWR-Staates oder der Schweiz versichert war, kann seine Versicherungszeiten anerkennen lassen und früher Schutz erhalten. Eine frühere reine Privatversicherung genügt dafür nicht. Der Antrag soll am Tag nach der Wohnsitzregistrierung gestellt werden. Bis zur Entscheidung brauchst du einen nachvollziehbaren Zahlungs- und Versicherungsweg für notwendige Behandlung.</p><p class=\"exb-citation\">Quellen: <a href=\"https://island.is/en/apply-for-health-insurance\" rel=\"noreferrer\">Application for health insurance when moving to Iceland | Ísland.is</a></p><p>Für geplante Therapien zählt anschließend die konkrete Anlaufstelle. Landspítali in Reykjavík hat unter anderem Notaufnahmen für schwere Erkrankungen, Verletzungen und Kinder. Bei regelmäßiger Fachbehandlung oder Pflege organisieren wir die passenden Rückfragen zu Aufnahme, Terminen, Medikamenten und Unterstützung zu Hause. <a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und tatsächliche Versorgung</a> werden gemeinsam vorbereitet.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.landspitali.is/um-landspitala/languages/landspitali-university-hospital/\" rel=\"noreferrer\">Landspitali - University Hospital</a></p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Geldzugriff, Arbeit und Steuern in Island",
+      "body": "<p>Plane deinen Haushalt in isländischen Kronen. Einkommen in Euro oder Schweizer Franken und Ausgaben in ISK können sich durch den Wechselkurs auseinanderentwickeln. Zur Reserve gehören deshalb laufende Wohnkosten, medizinische Ausgaben, Transport und eine unerwartete längere Aufenthaltsdauer.</p><p>Für lokale Bankgeschäfte werden Identifikation und digitale Zugänge früh eingerichtet. Landsbankinn beschreibt sowohl elektronische Identifikation als auch Termine in der Filiale mit gültigem Ausweis. Die Einrichtung sollte abgeschlossen und eine reale Zahlung getestet sein, bevor du das Konto für Miete oder Alltag einplanst. Halte einen zweiten unabhängigen Zahlweg bereit und sichere den Wiederzugang, falls dein Telefon verloren geht.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.landsbankinn.is/en/sign-up\" rel=\"noreferrer\">Sign up</a></p><p>Wie du Ersatzkonto, Karten und Wiederzugang so vorbereitest, dass Miete und Alltag nicht an einem einzigen Zugang hängen, zeigt die Vertiefung zu <a class=\"exb-text-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Bankkonto und Zahlungsfähigkeit</a>. Mit <a class=\"exb-text-link\" href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität</a> organisieren wir die Kontovorbereitung und Funktionstests für deine Island-Basis.</p><p>Bei einem Aufenthalt von mindestens sechs Monaten innerhalb von zwölf Monaten behandelt Skatturinn eine Person grundsätzlich als steuerlich ansässig, mit unbeschränkter Steuerpflicht ab Ankunft und Einbeziehung des Welteinkommens. Auch kürzere Aufenthalte können isländische Steuerpflicht für örtliche Einkünfte auslösen. Für dein Unternehmen müssen die tatsächlich in Island ausgeübte Arbeit, Leitung und Registrierung ebenso geklärt werden wie die fortbestehenden Pflichten in Deutschland, Österreich oder der Schweiz.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.skatturinn.is/english/individuals/tax-liability\" rel=\"noreferrer\">Tax liability</a></p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Die Reihenfolge vor deiner ersten längeren Ankunft",
+      "body": "<p>Zuerst stehen Personen, Aufenthaltsgrund und ein geeigneter Wohnort fest. Darauf bauen Pass- und Familiennachweise, Einkommensunterlagen, Mietvertrag, Registrierung und Krankenversicherung auf. Ein bereits vorbereiteter Versicherungsverlauf aus dem bisherigen Land erleichtert die Klärung. EXOBASIS organisiert die <a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthaltsschritte</a> und stimmt Termine, Übersetzungen und Rückfragen auf deine Reise ab.</p><p>Wenn du mit Hund oder Katze nach Island auswandern möchtest, beginnt der Vorlauf deutlich vor dem Flug. MAST verlangt tierärztliche Vorbereitung und Nachweise; grundsätzlich ist eine 14-tägige Quarantäne vorgesehen. Buche den Quarantäneplatz und kläre Einfuhrgenehmigung, Impf- und Testtermine, bevor du die gesamte Familie auf einen Anreisetag festlegst.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.mast.is/en/import-export/import-of-live-animals/frequently-asked-questions\" rel=\"noreferrer\">Frequently asked questions</a></p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Auch im Winter und während deiner Abwesenheit bereit",
+      "body": "<p>Eine vorbereitete Wohnung braucht laufende Aufmerksamkeit: Heizung, Feuchtigkeit, Wasserschäden, Versicherung, Post und erreichbare Schlüsselhalter. Bei einem Haus kommen Zufahrt und Außenkontrolle hinzu. Vereinbare, wer vor deiner Ankunft lüftet, heizt, einkauft und kontrolliert, ob alles funktioniert.</p><p>Daneben müssen Änderungen bei Adresse, Familienstand, Einkommen und tatsächlichen Aufenthaltszeiten in den betreffenden Behörden- und Versicherungsunterlagen ankommen. Ein betreuter Fristenkalender und regelmäßige Funktionsprüfungen erhalten die Nutzbarkeit deiner Basis. Diesen <a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">laufenden Betreuungsauftrag</a> stimmen wir auf Wohnung, Personen und Nutzung ab.</p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Deine Island-Basis vorbereiten lassen",
+      "body": "<p>Du kannst EXOBASIS mit dem gesamten Aufbau oder einer klar umrissenen Aufgabe beauftragen: <a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Standorte vergleichen</a>, einen Miet- oder Immobilienkauf vorbereiten, Dokumente organisieren oder die eingerichtete Basis betreuen. Wir führen Suchauftrag, Fachtermine, Verträge und Übergabe zusammen, damit du nicht jede Abhängigkeit selbst koordinieren musst.</p><p>Für den Vergleich bleiben <a class=\"exb-text-link\" href=\"/de/laender/irland/\">Irland</a> und <a class=\"exb-text-link\" href=\"/de/laender/neuseeland/\">Neuseeland</a> interessant: andere Entfernungen, Aufenthaltswege und Familienumfelder, die wir an derselben persönlichen Aufgabe messen.</p><p>Beschreibe uns, wer mitkommen soll, wie du Island nutzen möchtest und welche Arbeit du abgeben willst. Daraus entsteht ein abgegrenzter Auftrag mit Ergebnis, Verantwortlichen und Kosten. Wenn du die passende Leistung noch nicht zuordnen kannst, steht dir die kostenlose 20-Minuten-Orientierung offen.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fisland%2F#kurzanfrage\">Vorbereitung für Island anfragen</a><p>Nenne uns dein Vorhaben und den gewünschten Zeitrahmen. Persönliche Unterlagen besprechen wir anschließend im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Kann ich als Deutscher, Österreicher oder Schweizer ohne Arbeit nach Island auswandern?",
+    "answer": "Ein Aufenthalt auf Grundlage ausreichender eigener Mittel ist möglich. Dafür bereitest du die Nachweise für den Lebensunterhalt deines Haushalts und den erforderlichen Krankenversicherungsschutz vor. Für längeres Bleiben folgt die Registrierung bei Registers Iceland. Für Angehörige mit anderer Staatsangehörigkeit wird der passende Familienaufenthalt gesondert vorbereitet."
+  },
+  "displayTitle": "Auswandern nach Island: eine zweite Basis im Nordatlantik"
+}

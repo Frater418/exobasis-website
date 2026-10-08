@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/vermoegensstrukturen/",
+  "lang": "de",
+  "title": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-8bf6d4abdefa1c"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c883647cf42d93"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-327568101d023a"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Vermögen / Eigentum, Verfügung und Nachfolge",
+  "seoTitle": "Vermögensstrukturen und Nachfolge organisieren | EXOBASIS",
+  "description": "Eigentum, Wohnsitz, Vermögensort und Zugriff zusammen planen. EXOBASIS organisiert passende Fachprüfung, Strukturarbeit, Verwahrung und Nachfolge.",
+  "intro": "<p>Du hast dir etwas aufgebaut und willst darüber auch dann verfügen können, wenn sich dein Wohnort, deine persönliche Lage oder die politischen Bedingungen verändern. Vermögen vor staatlichem Zugriff schützen zu wollen ist ein nachvollziehbarer Anlass. Eine belastbare Entscheidung beginnt bei der konkreten Abhängigkeit, die du verändern möchtest.</p><p>EXOBASIS organisiert die fachliche Klärung und Umsetzung deiner Eigentums-, Struktur- oder Nachfolgeaufgabe. Wir bringen Wohnsitz, Vermögensort, rechtlichen Eigentümer, wirtschaftliche Berechtigung und tatsächlichen Zugriff in einen Zusammenhang, bevor ein einzelnes Produkt gewählt wird.</p>",
+  "primary": {
+    "label": "Strukturauftrag besprechen",
+    "intent": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren"
+  },
+  "summary": {
+    "kicker": "Deine Vorbereitung als konkreter Auftrag",
+    "title": "Das Erarbeitete verstehen, bevor du es neu ordnest.",
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Karte und Kompass als Sinnbild für internationale Planung.",
+    "facts": [
+      [
+        "Ausgangspunkt",
+        "Dein konkretes Schutz-, Zugriffs- oder Nachfolgeziel"
+      ],
+      [
+        "Verbindungen",
+        "Eigentümer, Wohnsitz, Vermögensort, Institute und Vertretung"
+      ],
+      [
+        "Ergebnis",
+        "Begründete Entscheidung und organisierte Umsetzung des Auftrags"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Welche Abhängigkeit soll sich tatsächlich ändern?",
+      "layout": "prose",
+      "body": "<p>Ein weiterer Verwahrort verteilt eine örtliche Abhängigkeit. Ein anderer Eigentümer verändert Rechte. Eine Vollmacht ermöglicht Vertretung. Ein Wohnsitzwechsel betrifft deine persönlichen Anknüpfungen. Diese Maßnahmen können zusammenwirken, lösen aber unterschiedliche Aufgaben.</p><p>Wir halten den gewünschten Effekt je Vermögenswert fest: Wer soll unter welchen Umständen entscheiden, verkaufen, Zahlungen erhalten oder einen Angehörigen versorgen können? Eine konkrete Antwort macht den Auftrag prüfbar und verhindert, dass eine aufwendige Struktur am eigentlichen Bedarf vorbeigeht.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-2",
+      "title": "Vermögen im Ausland: die Bindungen bleiben sichtbar",
+      "layout": "prose",
+      "body": "<p>Für jeden Vermögenswert verbinden wir mehrere Angaben. Erst zusammen zeigen sie, was eine Änderung bewirken kann und welche Abhängigkeiten bestehen bleiben.</p><table><caption>Die Verbindungen eines Vermögenswerts</caption><thead><tr><th scope=\"col\">Ebene</th><th scope=\"col\">Bedeutung für deine Entscheidung</th></tr></thead><tbody><tr><th scope=\"row\">Rechtlicher Eigentümer</th><td>Wer hält den Anspruch oder steht im maßgeblichen Register? Eine Übertragung verändert diese Position.</td></tr><tr><th scope=\"row\">Wirtschaftlich Berechtigter</th><td>Wem ist die Struktur wirtschaftlich zuzurechnen? Institute und zuständige Stellen können entsprechende Nachweise verlangen.</td></tr><tr><th scope=\"row\">Wohnsitz und Steuerbezug</th><td>Welche Staaten knüpfen an deine Person, die Beteiligten oder die Einkünfte an?</td></tr><tr><th scope=\"row\">Vermögensort und Institut</th><td>Wo liegt die Immobilie oder Verwahrung, und welche Stelle muss einen Auftrag ausführen?</td></tr><tr><th scope=\"row\">Praktische Verfügung</th><td>Wer kann sich legitimieren, unterschreiben, eine Auszahlung veranlassen und das Geld anschließend nutzen?</td></tr></tbody></table><p>Ein Beispiel für einen deutschen Bezug: Wer nach einem Wegzug eine Immobilie in Deutschland vermietet, kann mit diesen Einkünften weiterhin der deutschen beschränkten Steuerpflicht unterliegen. § 49 EStG nennt Einkünfte aus Vermietung und Verpachtung von im Inland belegenem unbeweglichem Vermögen. Wohnort und steuerliche Bindung der Immobilie fallen hier auseinander. <a href=\"https://www.gesetze-im-internet.de/estg/__49.html\">§ 49 EStG, insbesondere Absatz 1 Nummer 6</a>.</p><p>Für österreichisches oder schweizerisches Vermögen wird die jeweilige Rechtslage gesondert eingeordnet. Legale Diversifikation wird mit zutreffenden Eigentums-, Herkunfts- und Steuerangaben eingerichtet; ein anderer Standort beendet Auskunfts- oder Erklärungspflichten nicht durch seine Bezeichnung.</p><p>Wenn du Immobilien vor einem Lastenausgleich schützen möchtest, müssen drei Ebenen getrennt bleiben: der historische Lastenausgleich, heutiges geltendes Recht und ein konkret formulierter Vorschlag für eine künftige Abgabe. § 3 des deutschen Lastenausgleichsgesetzes nennt die historischen Ausgleichsabgaben. Aus dieser Norm allein lässt sich kein neuer Abgabentatbestand für dein heutiges Vermögen ableiten. <a href=\"https://www.gesetze-im-internet.de/lag/__3.html\">§ 3 LAG</a>.</p><p>Eine Zwangssicherungshypothek ist demgegenüber ein Instrument der Zwangsvollstreckung. Nach § 867 ZPO wird sie auf Gläubigerantrag in das Grundbuch eingetragen. Das ist eine andere Rechtsfrage als die Ausgestaltung einer möglichen neuen staatlichen Vermögensabgabe. <a href=\"https://www.gesetze-im-internet.de/zpo/__867.html\">§ 867 ZPO</a>.</p><p>Eine bestehende Grundschuld und die tatsächlich gesicherte Schuld sind nicht dasselbe. Maßgeblich sind Forderung, Rang, Gläubigerrechte und der Zugriff, gegen den eine Maßnahme wirken soll. Diese Wirkungen werden fachlich ausgearbeitet, bevor du dich verpflichtest. Scheinschulden und bloße Papierübertragungen gehören nicht zu einer tragfähigen Vorbereitung.</p>"
+    },
+    {
+      "id": "kern-3",
+      "title": "Strukturen, Handlungswege und besicherte Liquidität vergleichen",
+      "layout": "prose",
+      "body": "<p>Je nach Aufgabe kann es um eine Vollmacht, einen Verwahrvertrag, eine Gesellschaft, eine Stiftung oder einen Trust gehen. Wir organisieren den Vergleich entlang des gewünschten Ergebnisses: Entscheidungsrechte, laufende Versorgung, Weitergabe an Angehörige oder Zugang aus einem anderen Land.</p><p>Bei Trust und Stiftung werden Verwaltung, Begünstigung und tatsächliche Verfügung ausdrücklich geklärt. Bei Sachwerten zählen Eigentumsnachweis, Herausgabe und akzeptierte Vertretung. Die Übertragung einzelner Vermögenswerte wird mit ihren eigenen Vertrags- und Registerschritten organisiert.</p><p>Für eine selbstgenutzte oder vermietete Immobilie stellen wir die Folgen möglicher Entscheidungen gegenüber: Halten erhält Nutzung und laufende Bindungen; Verkauf tauscht die Immobilie gegen Liquidität und kann Steuer- sowie Transaktionsfolgen auslösen; eine echte Finanzierung schafft Geldzugang, aber auch Rückzahlung, Zinsen und Gläubigerrechte. Eine Strukturübertragung verändert Eigentum und Kontrolle und kann ihrerseits Kosten oder Steuern auslösen.</p><p>Ein Lombardkredit stellt Liquidität gegen verpfändete Vermögenswerte bereit. Die Bank legt fest, welche Werte sie akzeptiert und wie hoch sie diese beleiht. Der Beleihungswert ist daher nicht automatisch der Marktwert des Depots.</p><p>Sinkt der Wert der Sicherheiten, kann zusätzliche Sicherheit oder Rückzahlung erforderlich werden. Bei ausbleibender Deckung können die vertraglichen Verwertungsrechte relevant werden. Wer die Finanzierung für eine Außenbasis erwägt, muss deshalb auch Rückzahlungsquelle, Währung, Zins, Kündigung und den Zugang zum Kredit während einer Belastung berücksichtigen.</p><p>Ein konkretes Produktbeispiel ist der Lombardkredit der Berner Kantonalbank: Die Bank nennt Verpfändung, Nachschusspflicht bei Unterdeckung, Zinsen und eine Kreditkommission sowie gegenseitige jederzeitige Kündbarkeit. Das dort beschriebene Produkt dient dem Wertschriftenhandel. Für einen anderen Verwendungszweck ist das tatsächlich geeignete und zulässige Angebot zu klären. <a href=\"https://www.bekb.ch/de/private-banking/anlageprodukte/lombardkredit\">BEKB: Merkmale des Lombardkredits</a>.</p><p>EXOBASIS organisiert den vereinbarten Fachvergleich und die erforderlichen Unterlagen. Die Kreditentscheidung, Konditionen und Zweckbindung liegen beim finanzierenden Institut.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/trust-struktur/\" data-route=\"/de/leistungen/trust-struktur/\" data-link-description=\"Die fachliche Prüfung und Einrichtung einer passenden Trust-Struktur organisieren.\"><span>Eine Trust-Struktur organisieren</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/leistungen/stiftung-liechtenstein/\" data-route=\"/de/leistungen/stiftung-liechtenstein/\" data-link-description=\"Die Prüfung und Einrichtung einer liechtensteinischen Stiftung koordinieren.\"><span>Eine Stiftung in Liechtenstein organisieren</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/leistungen/sachwerte-verwahrung/\" data-route=\"/de/leistungen/sachwerte-verwahrung/\" data-link-description=\"Verwahrung, Eigentumsnachweise und tatsächlichen Zugriff auf Sachwerte organisieren.\"><span>Verwahrung und Zugriff auf Sachwerte organisieren</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/leistungen/auslandsgesellschaft/\" data-route=\"/de/leistungen/auslandsgesellschaft/\" data-link-description=\"Gründung, Unterlagen und laufende Verwaltung einer Auslandsgesellschaft koordinieren.\"><span>Auslandsgesellschaft und laufende Verwaltung organisieren</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-4",
+      "title": "Fachmandate, Annahme und Vertragsrollen klären",
+      "layout": "prose",
+      "body": "<p>Für die gewählte Aufgabe organisieren wir die passenden Rechts-, Steuer-, Verwahr- oder Finanzierungsexperten und beziehen vorhandene Berater ein. Der Fachauftrag benennt Vermögenswerte, beteiligte Personen, Rechtsräume und gewünschtes Ergebnis. Wir klären mit den jeweiligen Stellen, welchen Teil sie übernehmen können und ob sie das Mandat beziehungsweise die institutionelle Aufnahme annehmen.</p><p>Vor der Beauftragung stehen Leistungsgrenzen, Vertragsparteien, Honorar und Verantwortung fest: Wer beurteilt die Gestaltung, wer erstellt oder reicht Unterlagen ein, wer bestätigt die Einrichtung und wer übernimmt die Verwaltung? EXOBASIS führt die vereinbarte Koordination und die Übergaben zusammen. Soweit eine Fachstelle unmittelbar von dir beauftragt werden muss, schließen wir diesen Auftrag mit deiner Entscheidung in den Ablauf ein; ihr Fachmandat bleibt vom EXOBASIS-Auftrag getrennt.</p>"
+    },
+    {
+      "id": "kern-5",
+      "title": "Die entschiedene Lösung einrichten und übergeben",
+      "layout": "prose",
+      "body": "<p>Du erhältst eine nachvollziehbare Gegenüberstellung der bearbeiteten Wege und entscheidest, welche Umsetzung du beauftragst. Wir koordinieren Fachmandate, Unterlagen, Freigaben und die Übergaben zwischen den beteiligten Stellen. Dabei wird festgehalten, welcher Schritt tatsächlich abgeschlossen ist.</p><p>Zum Ergebnis gehören die maßgeblichen Dokumente, zuständigen Ansprechpartner und der vereinbarte Nutzungsweg.</p><p>Nachfolge braucht außerdem einen praktikablen Übergang. Eine rechtlich berechtigte Person muss die Unterlagen finden und die zuständigen Institute erreichen können. Wir verbinden diese organisatorische Arbeit mit der beauftragten Fachgestaltung.</p><p>Wir übergeben außerdem die vereinbarten Rollen und halten fest, welche Bestätigungen vorliegen und welche Folgeaufgaben noch offen sind. Für jeden ausstehenden Schritt sind die verantwortliche Stelle und die nächste erforderliche Entscheidung nachvollziehbar.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/vermoegen-uebertragen/\" data-route=\"/de/leistungen/vermoegen-uebertragen/\" data-link-description=\"Vermögensübertragung und rechtmäßige Verfügbarkeit zusammen vorbereiten.\"><span>Vermögen übertragen und legal verfügbar halten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-6",
+      "title": "Laufende Pflichten und den späteren Abschluss organisieren",
+      "layout": "prose",
+      "body": "<p>Laufende Verwaltung, Meldungen, Aktualisierungen und Änderungen der persönlichen Situation werden einer verantwortlichen Stelle zugeordnet. Wenn du Betreuung beauftragst, führen wir die organisatorische Pflege fort.</p><p>Die wiederkehrenden Kosten und Pflichten gehören bereits in die Auswahlentscheidung. Wir ordnen die vereinbarte Verwaltung, Meldetermine, Aufbewahrung und berechtigten Zugangswege den zuständigen Personen und Stellen zu und halten fest, wann Änderungen eine neue fachliche Prüfung erfordern.</p><p>Auch eine vereinbarte spätere Beendigung oder Auflösung wird mit den zuständigen Fachstellen vorbereitet: Welche Vertrags- und Verfahrensschritte sind nötig, welche Verpflichtungen und Kosten bleiben, wer übernimmt Schlussmeldungen und wer bewahrt die Unterlagen auf? Die maßgeblichen Fristen und der spätere berechtigte Zugriff auf diese Unterlagen werden für die konkrete Struktur festgehalten.</p>"
+    }
+  ],
+  "working": {
+    "title": "Dein Vermögen als zusammenhängenden Auftrag führen",
+    "body": "<p>EXOBASIS organisiert die Vorbereitung und freigegebene Umsetzung. Rechts- und Steuerfachleute beurteilen die Gestaltung in den betroffenen Staaten. Banken, Verwahrer und Verwalter bestätigen ihre jeweiligen Bedingungen. Wir führen die Ergebnisse so zusammen, dass du entscheiden kannst und die Ausführung nicht zwischen Fachzuständigkeiten stecken bleibt.</p>"
+  },
+  "nextWork": {
+    "title": "Die Struktur mit dem Alltag verbinden",
+    "body": "<p>Nach der Einrichtung bleiben Bankzugang, Vertretung und tatsächliche Nutzbarkeit wichtig. Wir können diese Anschlüsse organisieren und die vereinbarten Änderungen und Fristen betreuen.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Welche Bindung deines Vermögens möchtest du verändern?",
+    "body": "Beschreibe das Ziel, die betroffenen Vermögensarten und Länder zunächst ohne detaillierte Bestandsunterlagen. Wir klären daraus den passenden Fach- und Umsetzungsauftrag."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [
+      "D05",
+      "D06",
+      "D07",
+      "D21"
+    ],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "283",
+        "label": "Vermögen übertragen und legal verfügbar halten",
+        "target": "/de/leistungen/vermoegen-uebertragen/",
+        "position": "Kernabschnitt 5: Einrichtung/Übergabe",
+        "purpose": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren."
+      },
+      {
+        "line": "284",
+        "label": "Eine Trust-Struktur organisieren",
+        "target": "/de/leistungen/trust-struktur/",
+        "position": "Kernabschnitt 3: Strukturvergleich",
+        "purpose": "Eignung und konkrete Einrichtung einer Trust-Struktur mit befugten Fachstellen organisieren."
+      },
+      {
+        "line": "285",
+        "label": "Eine Stiftung in Liechtenstein organisieren",
+        "target": "/de/leistungen/stiftung-liechtenstein/",
+        "position": "Kernabschnitt 3: Strukturvergleich",
+        "purpose": "Eine Stiftungsaufgabe mit liechtensteinischer Fachzuständigkeit und Herkunftsrecht abstimmen."
+      },
+      {
+        "line": "286",
+        "label": "Verwahrung und Zugriff auf Sachwerte organisieren",
+        "target": "/de/leistungen/sachwerte-verwahrung/",
+        "position": "Kernabschnitt 3: Strukturvergleich",
+        "purpose": "Eigentum, Verwahrstelle, Herausgabe und berechtigten Zugriff organisatorisch verbinden."
+      },
+      {
+        "line": "287",
+        "label": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+        "target": "/de/leistungen/auslandsgesellschaft/",
+        "position": "Kernabschnitt 3: Strukturvergleich",
+        "purpose": "Eine passende Gründung und laufende Pflichten als Teil der Geschäftsfortführung organisieren."
+      },
+      {
+        "line": "288",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 1: Eigentum und Kontrollrollen",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      }
+    ],
+    "seedingSupporting": [
+      "D08"
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Eine konkrete Veränderung mit ihren Folgen bearbeiten",
+    "body": "<p>Vielleicht soll ein Angehöriger handeln können, ein Vermögenswert in eine andere Struktur übergehen oder eine ausländische Verwahrung eingerichtet werden. Wir grenzen den gewünschten Effekt ab und organisieren die dafür nötigen Rechts-, Steuer- und Anbieterklärungen.</p><p>Anschließend führen wir die freigegebenen Schritte zusammen: Unterlagen, Fachmandate, Vertragsarbeit, Übertragungen, institutionelle Aufnahme und Übergabe. Bestehende Berater und brauchbare Vorarbeit werden einbezogen.</p>",
+    "items": [
+      [
+        "Bindungen sichtbar machen",
+        "Persönliche, rechtliche und praktische Abhängigkeiten je Vermögenswert trennen."
+      ],
+      [
+        "Wirkung vergleichen",
+        "Nutzen, Kosten, neue Pflichten und verlorene Kontrolle nebeneinanderstellen."
+      ],
+      [
+        "Einrichtung organisieren",
+        "Die entschiedene Struktur mit Fachstellen und beteiligten Instituten umsetzen."
+      ]
+    ],
+    "costs": "Der Aufwand hängt von Vermögensarten, Rechtsräumen, beteiligten Personen und der gewählten Umsetzung ab. Fachhonorare, Bewertung, Register, Übertragungssteuern, Vertrags- und laufende Verwaltungskosten werden gesondert berücksichtigt."
+  },
+  "displayTitle": "Vermögensstrukturen, Zugriff und Nachfolge organisieren"
+}

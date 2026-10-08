@@ -1,0 +1,197 @@
+{
+  "route": "/de/laender/uruguay/",
+  "lang": "de",
+  "title": "Uruguay als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/uruguay/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-864d9fe7f52fef"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-6cfe68947a9bff"
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern nach Uruguay: Aufenthalt, Wohnen und Familie | EXOBASIS",
+  "description": "Uruguay als Familienzukunft oder vorbereitete Reserve: Daueraufenthalt, Mieten, Immobilienkauf, Schule, Gesundheit und Geldzugang konkret organisieren.",
+  "intro": "<p>Du willst für deine Familie einen Ort außerhalb Europas vorbereiten, an dem ihr im Fall von Krieg oder wachsendem politischen Druck weiterleben könnt. Uruguay kommt dafür als echte Wohn- und Familienentscheidung in Betracht: mit einem regulären Daueraufenthaltsverfahren, einem konkreten Zuhause und einem Alltag, der von deinem Einkommen getragen wird.</p><p>Der Unterschied zwischen einem Haus am Meer und einer nutzbaren Außenbasis zeigt sich bei Schulaufnahme, medizinischer Behandlung, verfügbaren Mitteln und der langen Anreise. EXOBASIS verbindet diese Aufgaben und führt die vereinbarte Vorbereitung für dich aus.</p>",
+  "primary": {
+    "label": "Vorbereitung für Uruguay anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "countryContext": "/de/laender/uruguay/",
+  "country": {
+    "name": "Uruguay",
+    "slug": "uruguay",
+    "region": "Südamerika",
+    "map": "countries/uruguay-locator.svg",
+    "imageAlt": "Uruguay an der südamerikanischen Atlantikküste zwischen Brasilien und Argentinien",
+    "caption": "Uruguay: Atlantikküste und Río de la Plata im Südosten Südamerikas.",
+    "summary": [
+      [
+        "Dauerhaft niederlassen",
+        "Der reguläre Daueraufenthaltsweg verlangt persönliche Nachweise und nachvollziehbaren Unterhalt."
+      ],
+      [
+        "Wohnort nach Alltag",
+        "Montevideo, Küste und kleinere Städte erfüllen unterschiedliche Familien- und Versorgungsaufgaben."
+      ],
+      [
+        "Reserve wirklich pflegen",
+        "Aufenthaltsstand, Wohnung, Geldzugang und Betreuung bleiben aufeinander abgestimmt."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Uruguay als Familienzukunft oder vorbereitete Reserve",
+      "body": "<p>Uruguay ist eine ernsthafte Option, wenn du dein Leben auf einem anderen Kontinent aufbauen willst und der spanischsprachige Alltag, die Entfernung zu DACH und das Familienbudget zu deiner Situation passen. Als Rentner, Unternehmer oder ortsunabhängig Arbeitender brauchst du dabei jeweils eine passende Erklärung, wovon du lebst und wie dieses Geld vor Ort ankommt.</p><p>Beim dauerhaften Auswandern nach Uruguay werden Wohnort, Aufenthalt, Arbeit und Familienalltag zusammen verlagert. Bei einer zunächst vorbereiteten Reserve bleibt dein bisheriges Leben bestehen, während du Unterkunft, Dokumente und Ankunft organisiert hast. Ein regulärer Daueraufenthaltsantrag ist auf die tatsächliche Absicht zur Niederlassung ausgerichtet. Eine gelegentliche Ferienadresse und dieser Aufenthaltsweg sollten deshalb nicht verwechselt werden.</p><p>Du kannst mit einer Erkundung und einer Mietlösung beginnen. Ein Immobilienkauf folgt dann, wenn Standort und Nutzung feststehen und die unabhängige Prüfung des Objekts vorliegt.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Im Kriegsfall zählt der ganze Weg bis zur Wohnung",
+      "body": "<p>Der Abstand zu Europa ist ein wesentliches Motiv für Uruguay. Er macht die Anreise aber zu einem eigenen Vorbereitungsprojekt. Plane die Verbindung bis Montevideo und von dort zur Unterkunft, einschließlich Umstieg, Transfer und der besonderen Bedürfnisse deiner Angehörigen. Persönliche Behördentermine werden auf einer vorbereiteten Reise erledigt, statt für eine überstürzte Abreise aufgespart.</p><p>Ein sinnvoller Familienplan benennt, wer entscheidet, wer mit wem reist und wer die Ankunft organisiert. Wenn du auf Pflege, Medikamente oder einen besonderen Transport angewiesen bist, werden diese Aufgaben vorab zugeordnet. Dabei bleibt auch geregelt, wer im Herkunftsland laufende Zahlungen und das Unternehmen weiterführt.</p><p>Für Uruguay selbst sind örtliche Risiken relevant: Das Auswärtige Amt nennt Raub- und Diebstahlsdelikte in Montevideo sowie Dürren, Überschwemmungen, Stürme und sommerliche Waldbrände. Bei der Wohnsuche werden Zufahrt, Gelände, Gebäudesicherheit und Hilfe vor Ort konkret betrachtet. Ein guter Ruf des Landes ersetzt diese Objektentscheidung nicht.</p><p class=\"exb-source-note\"><a href=\"https://www.auswaertiges-amt.de/de/service/laender/uruguay-node/uruguaysicherheit-201138\" rel=\"noreferrer\">Auswärtiges Amt: Uruguay, Sicherheit und Naturgefahren</a> <span>Abruf: 26.09.2026</span></p><p>Wenn dich eine mögliche Einberufung oder ein Ausreisehindernis beschäftigt, gehört die Klärung deiner persönlichen Pflichten in den Herkunftsfall. Der Länderplan verbindet das Ergebnis mit einem rechtzeitig nutzbaren Weg für deine Familie. <a href=\"/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/\">So vergleichst du Ausweichorte und Reisewege im Kriegsfall.</a></p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Wo deine Familie in Uruguay leben kann",
+      "body": "<p>Montevideo ist ein wichtiger Ausgangspunkt, wenn medizinische Spezialisierung, Behörden und mehrere Schuloptionen zusammenkommen. Innerhalb der Stadt vergleichst du konkrete Wohnlagen und Wege. Carrasco, Pocitos oder andere bekannte Viertel werden dabei nicht pauschal als sichere Zone behandelt; Gebäude, Weg und Tageszeit gehören zum Blick auf den Alltag.</p><p>Ciudad de la Costa kann interessant sein, wenn du ein anderes Wohnumfeld suchst und regelmäßige Wege nach Montevideo tragen kannst. Maldonado und Punta del Este sind eine eigene Küstenentscheidung: Dort muss das gewünschte Zuhause ganzjährig verfügbar sein und mit der tatsächlich benötigten Schule und Versorgung funktionieren. Colonia del Sacramento ist eine weitere Option für ein kleineres städtisches Umfeld, mit anderen Entfernungen zu spezialisierten Leistungen.</p><p>Wir vergleichen diese Orte anhand eurer täglichen Aufgaben statt anhand eines allgemeinen Länderrankings. Eine Erkundung führt deshalb zur Schule, zur benötigten Behandlung und in die vorgesehenen Wohnlagen. Zur Besichtigung eines Hauses gehören auch Arbeitstage, Internet, Heizung und der Alltag außerhalb der Urlaubszeit.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Zeitweise dort leben: Reisen und Aufenthaltsstand verbinden",
+      "body": "<p>Wenn du Uruguay zunächst nur zeitweise nutzt, muss dein Reiseplan zum Stand des Aufenthaltsverfahrens passen. Solange die Residenz noch bearbeitet wird, verlangt die Migrationsbehörde für jede Ausreise mit geplanter Rückkehr einen <em>Permiso de reingreso</em>. Nach erteilter Residenz entfällt dieses Verfahren. Für die laufende Bearbeitung nennt die Behörde außerdem einen zusätzlichen Strafregisterbeleg, wenn du länger als sechs Monate außerhalb Uruguays bleibst.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/tramites/permiso-reingreso\" rel=\"noreferrer\">Dirección Nacional de Migración: Wiedereinreise während des Verfahrens</a> <span>Abruf: 26.09.2026</span></p><p>Auch ein erteilter Daueraufenthalt ist kein Dokument, das du unbegrenzt unbetreut ablegen solltest. Nach Artikel 47 des Migrationsgesetzes kann eine Abwesenheit von mehr als drei Jahren zur Aufhebung führen. Artikel 48 schließt die Vollziehung der Aufhebung aus, wenn du Mutter, Vater, Ehe- oder Konkubinatspartner eines uruguayischen Staatsangehörigen bist. Für eine Reserve wird deshalb geplant, welche Nutzung tatsächlich beabsichtigt ist und welche Termine sie erfordert.</p><p class=\"exb-source-note\"><a href=\"https://www.impo.com.uy/bases/leyes/18250-2008/47\" rel=\"noreferrer\">IMPO: Migrationsgesetz 18250, Artikel 47</a> <span>Abruf: 26.09.2026</span></p><p class=\"exb-source-note\"><a href=\"https://www.impo.com.uy/bases/leyes/18250-2008/48\" rel=\"noreferrer\">IMPO: Migrationsgesetz 18250, Artikel 48, Familienausnahme</a> <span>Abruf: 05.10.2026</span></p><p>Bei der Unterkunft hältst du Verfügbarkeit und Betreuung separat fest. Eine Ferienvermietung kann Einnahmen bringen, bindet das Objekt jedoch in den vereinbarten Zeiträumen. Für eine abrufbare Außenbasis müssen Nutzungsrechte, Schlüssel und Ankunftsvorbereitung entsprechend vereinbart sein.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/tramites/residencia-legal-permanente\" rel=\"noreferrer\">Uruguays Migrationsbehörde: Nachweise bei längerer Abwesenheit im Verfahren</a> <span>Abruf: 26.09.2026</span></p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Aufenthaltserlaubnis in Uruguay: der reguläre Daueraufenthalt",
+      "body": "<p>Für gewöhnliche deutsche, österreichische und Schweizer Pässe weist Uruguay in seiner amtlichen Einreisematrix keine Visumpflicht aus. Für einen touristischen Aufenthalt sieht die Regelung 90 Tage vor, verlängerbar um weitere 90 Tage. Eine Niederlassung läuft über das passende Residenzverfahren. Ein DACH-Pass eröffnet auch nicht automatisch die gesonderte Mercosur-Residenz; dafür zählt die jeweils erfasste Staatsangehörigkeit.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/ministerio-interior/comunicacion/publicaciones/regimen-visas-admision\" rel=\"noreferrer\">Uruguay: amtliche Visamatrix nach Staatsangehörigkeit</a> <span>Abruf: 26.09.2026</span></p><p class=\"exb-source-note\"><a href=\"https://www.impo.com.uy/bases/decretos/394-2009/13\" rel=\"noreferrer\">IMPO: Aufenthaltsdauer nach Dekret 394/009, Artikel 13</a> <span>Abruf: 26.09.2026</span></p><p>Die reguläre <strong>Residencia Legal Permanente</strong> richtet sich an ausländische Personen, die sich dauerhaft niederlassen wollen. Sie umfasst gültige Identitätspapiere, die verlangten Strafregisterunterlagen, Gesundheits- und Impfnachweise sowie dokumentierte Mittel zum Lebensunterhalt. Ein bestimmter Hauskauf gehört nicht zu dieser allgemeinen Voraussetzungenliste.</p><p>Die Behörde unterscheidet die Einkommensfälle konkret. Für Rentner und Pensionisten verlangt sie einen notariellen Nachweis über Art und Höhe der Einkünfte und darüber, wie sie in Uruguay empfangen werden. Bei Arbeit für ein ausländisches Unternehmen sind unter anderem Arbeitsbeziehung, Unternehmensdaten, Einkommen, Zahlungsweg und die Durchführung der Tätigkeit aus Uruguay nachzuweisen. Für Selbstständige kommen die entsprechende Tätigkeit und Registrierungen bei DGI und BPS in den Nachweis.</p><p>Der Antrag beginnt online mit den Unterlagen. Nach Prüfung und Terminvereinbarung erscheinst du mit den erforderlichen Originalen persönlich. Wer kein Spanisch spricht, muss einen Dolmetscher mitbringen. Eine Cédula während der Bearbeitung und die später erteilte Residenz sind unterschiedliche Verfahrensstände.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/tramites/residencia-legal-permanente\" rel=\"noreferrer\">Dirección Nacional de Migración: Daueraufenthalt, Unterhalt und persönliche Termine</a> <span>Abruf: 26.09.2026</span></p><div class=\"exb-criteria-table\" role=\"region\" tabindex=\"0\" aria-labelledby=\"uruguay-nutzungen-caption\"><table><caption id=\"uruguay-nutzungen-caption\">Uruguay: Rechte und Vorbereitung für deine geplante Nutzung</caption><thead><tr><th scope=\"col\">Nutzung</th><th scope=\"col\">Passendes Aufenthaltsrecht</th><th scope=\"col\">Nachweise und persönliche Vorbereitung</th><th scope=\"col\">Was EXOBASIS auf Auftrag erledigt</th></tr></thead><tbody><tr><th scope=\"row\">Krisenreserve / kurzfristig vorbereitete Zuflucht</th><td>Für gewöhnliche deutsche, österreichische und Schweizer Pässe kommt zunächst der visafreie Besuch mit der genannten 90-Tage-Frist und möglicher Verlängerung infrage. Eine reguläre Dauerresidenz wird für eine wirkliche Niederlassung vorbereitet, nicht als Papierreserve für gelegentliche Ferien.</td><td>Prüfe die Pässe aller Mitreisenden; ein abweichender Pass braucht die eigene Einreiseklärung. Halte Familienurkunden und bei geplanter Niederlassung die nach eurer Wohnsitzvorgeschichte nötigen Strafregisterunterlagen bereit. Verfügbarkeit der Unterkunft, Versorgung und die lange Anreise werden vorab abgestimmt.</td><td>Wir organisieren die benötigten Unterlagen, eine tatsächlich verfügbare Mietunterkunft und den Weg vom Ankunftsort bis zur Wohnung. Wenn die Familie bleiben soll, bereiten wir das passende Verfahren und die persönlichen Termine rechtzeitig mit vor.</td></tr><tr><th scope=\"row\">Dauerhafte Familienbasis</th><td>Die reguläre Permanente passt zum tatsächlichen Aufbau eures Lebensmittelpunkts. Hat jemand eine erfasste Mercosur-Staatsangehörigkeit oder einen für das Familienverfahren erfassten Bezug zu einem uruguayischen Staatsangehörigen, wird dieser eigene Weg berücksichtigt; ein DACH-Pass allein begründet ihn nicht.</td><td>Für das reguläre Verfahren brauchst du die Personen- und Strafregisterunterlagen, lokale Gesundheits-/Impfnachweise und den zur Einkommensart passenden Unterhaltbeleg samt Zahlungsweg. Bei Kindern kommen Familienurkunden und Niederlassungszustimmung hinzu. Nach Onlineprüfung und Terminvereinbarung erscheinst du mit Originalen und nötigenfalls Dolmetscher persönlich.</td><td>Wir stellen die verwendbare Familienakte zusammen, organisieren erforderliche Übersetzungen und fallbezogene Fachnachweise und koordinieren Vorsprache, Gesundheitsnachweise und weitere Cédula-Schritte. Mietstart, Schulaufnahme und Versorgung werden mit diesem Ablauf verbunden.</td></tr><tr><th scope=\"row\">Mobile Nutzung</th><td>Für gelegentliche Besuche genügt nur der jeweils erlaubte Besuchsaufenthalt. Wer sich tatsächlich niederlässt und zwischendurch reist, unterscheidet laufenden Antrag und erteilte Residenz. Nach Erteilung bleiben die oben erläuterten Abwesenheitsregeln und die konkrete Familienausnahme nach Artikel 47/48 zu beachten.</td><td>Während der Bearbeitung brauchst du für jede Ausreise mit geplanter Rückkehr den Permiso de reingreso; nach Erteilung nicht mehr. Bei mehr als sechs Monaten außerhalb Uruguays während des Verfahrens wird der zusätzliche Strafregisterbeleg nötig. Stimme Reisen mit Nachforderungen, Cédula-Stand und persönlichen Terminen ab.</td><td>Wir koordinieren auf Auftrag Nachreichungen und Wiedereinreisevorbereitung passend zum Verfahrensstand und deinem Reiseplan. Wohnungskontrollen, laufende Zahlungen und die Vorbereitung der nächsten Ankunft lassen sich gesondert betreuen.</td></tr></tbody></table></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Furuguay%2F#kurzanfrage\">Vorbereitung für Uruguay anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "In Uruguay mieten oder ein Haus kaufen",
+      "body": "<h3>Ein Mietstart mit tragfähiger Garantie</h3><p>Für die erste Ankunft lässt dir eine möblierte Übergangswohnung Zeit, den Ort kennenzulernen und Termine wahrzunehmen. Bei einer langfristigen Miete wird die akzeptierte <em>garantía de alquiler</em> oft zur entscheidenden Frage. Ein ausländisches Einkommen muss in der Form nachgewiesen werden, die Vermieter und Garantiegeber akzeptieren.</p><p>Eine konkrete Möglichkeit ist die Mietgarantie über das Banco Hipotecario del Uruguay. Der vereinbarte Betrag wird dort in indexierten Einheiten, den <em>Unidades Indexadas</em>, hinterlegt. Die Bank beschreibt Verfahren für Einrichtung, Freigabe und Rückzahlung. Das bindet Liquidität zusätzlich zur laufenden Miete. Welche Garantie für dein Objekt angenommen wird, wird deshalb vor der Unterschrift geklärt.</p><p class=\"exb-source-note\"><a href=\"https://www.bhu.com.uy/ahorro/garantia-de-alquiler\" rel=\"noreferrer\">Banco Hipotecario del Uruguay: Mietgarantie und hinterlegte Sicherheit</a> <span>Abruf: 26.09.2026</span></p><p>Im Vertrag werden Mietwährung, Anpassung, Laufzeit, Kündigung, Nebenkosten und Rückgabe geregelt. Bei einer Wohnung kommen die <em>gastos comunes</em> der Hausgemeinschaft hinzu. An einem Küstenstandort muss ausdrücklich feststehen, ob du ganzjährig wohnen darfst oder eine Saisonvereinbarung endet. Inventar, Zustand, Heizung, Feuchtigkeit, Zähler und Schlüssel werden bei Übergabe dokumentiert.</p><h3>Immobilienkauf für ausländische Käufer</h3><p>Uruguay stellt ausländische und inländische Investitionen grundsätzlich gleich. Für den gewöhnlichen Kauf einer Wohnimmobilie ist ein vorheriger Aufenthaltsstatus nicht zwingend: Die örtliche notarielle Praxis beschreibt den Erwerb durch Nichtansässige mit Identifikation und bei Bedarf rechtswirksamer Vollmacht. Die Eigentumsentscheidung schafft für sich allein weder Daueraufenthalt noch steuerliche Ansässigkeit.</p><p class=\"exb-source-note\"><a href=\"https://www.impo.com.uy/bases/leyes-originales/16906-1998/2\" rel=\"noreferrer\">IMPO: Investitionsgesetz 16906, Artikel 2</a> <span>Abruf: 26.09.2026</span></p><p>Beauftrage einen eigenen unabhängigen <em>Escribano</em>, bevor du dich an eine Reservierung bindest. Er prüft die Eigentumskette, Verkäuferbefugnis, Belastungen, Katasterdaten und die für das Objekt erforderlichen Bescheinigungen. Das Grundstück wird über seine <em>padrón</em>-Nummer identifiziert; Vermessungsplan, tatsächliche Fläche und Bebauung müssen mit den Unterlagen zusammenpassen. Das zuständige <em>Registro de la Propiedad, Sección Inmobiliaria</em> ist Teil dieser Prüfung und der anschließenden Eintragung.</p><p>Der übliche Ablauf führt von einer schriftlichen Reservierungs- oder Vorvereinbarung über die Prüfung zur Kaufurkunde, Zahlung und Übergabe. Bedingungen für Anzahlung, Rücktritt und Fristen gehören bereits in die erste Vereinbarung. Bei ländlichen Grundstücken werden Nutzungs- und Zufahrtsrechte zusätzlich in die Untersuchung aufgenommen.</p><p class=\"exb-source-note\"><a href=\"https://www.ortiznunez.com.uy/Publicaciones/C%C3%B3mo-comprar-un-inmueble-en-Uruguay/\" rel=\"noreferrer\">Escribanía Ortiz Núñez: Kaufablauf und Rolle des eigenen Escribano</a> <span>Abruf: 26.09.2026</span></p><p class=\"exb-source-note\"><a href=\"https://portal.dgr.gub.uy/requisitos/Manual%20RPIjunio2025.pdf\" rel=\"noreferrer\">Dirección General de Registros: Kauf- und Registerprüfung</a> <span>Abruf: 26.09.2026</span></p><h3>Kaufnebenkosten und laufendes Eigentum</h3><p>Beim entgeltlichen Erwerb beträgt die uruguayische ITP für den Käufer grundsätzlich 2 Prozent des maßgeblichen, fortgeschriebenen Katasterwerts. Die Bemessungsgrundlage ist damit nicht einfach der vereinbarte Kaufpreis. Dazu kommen Escribano-Honorar, Register- und Bescheinigungskosten sowie gegebenenfalls Vermittlung und technische Prüfung. Die konkrete Kostenaufstellung wird vor der Bindung erstellt.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/impuesto-transmisiones-patrimoniales-0\" rel=\"noreferrer\">DGI: ITP, Bemessungsgrundlage und Käuferanteil</a> <span>Abruf: 26.09.2026</span></p><p>EXOBASIS führt auf Auftrag die Standort- und Objektsuche, organisiert Besichtigungen und unabhängige Kaufprüfung und koordiniert Abschluss, Übergabe und Versorgung. Für die spätere Abwesenheit vereinbaren wir, wer die Immobilie kontrolliert, Schäden bearbeiten lässt und deine nächste Ankunft vorbereitet.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Mietstart, Immobilienkauf und Ankunft in Uruguay organisieren</a></p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Schule, Gesundheit und Pflege am richtigen Wohnort",
+      "body": "<h3>Schulaufnahme konkret vorbereiten</h3><p>Für öffentliche Vorschul- und Primarschulen beschreibt das Bildungsministerium die Einschreibung über <em>Guri Familia</em>. Benötigt werden Identitätsunterlagen des Kindes und der verantwortlichen Person, Gesundheitsnachweis sowie Unterlagen über bisherige Schulbesuche. Die Zuteilung berücksichtigt unter anderem Wohn- oder Arbeitsadresse, Geschwister und gewünschte Schulen. Der Schulweg gehört deshalb bereits zur Wohnungsentscheidung.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/ministerio-educacion-cultura/comunicacion/publicaciones/guia-inscripcion-personas-migrantes-sistema-educativo-uruguayo/guia-1\" rel=\"noreferrer\">Uruguays Bildungsministerium: Einschreibung von Migrantenkindern</a> <span>Abruf: 26.09.2026</span></p><p>Für eine deutschsprachig orientierte Schullaufbahn ist die Deutsche Schule Montevideo eine konkrete Vergleichsoption. Sie beschreibt ein dreisprachiges Modell mit Spanisch, Deutsch und Englisch sowie unterschiedliche Schulwege bis zum Abschluss. Für dein Kind werden Klassenstufe, Sprachstand, Lehrplan, Aufnahme und Kosten direkt mit der Schule abgestimmt.</p><p class=\"exb-source-note\"><a href=\"https://www.dsm.edu.uy/educacion-trilingue/\" rel=\"noreferrer\">Deutsche Schule Montevideo: dreisprachiges Bildungsmodell</a> <span>Abruf: 26.09.2026</span></p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a></p><h3>Gesundheitszugang und tatsächliche Behandlung</h3><p>Das staatliche Versorgungssystem ASSE unterscheidet kostenlose, FONASA-finanzierte und beitragspflichtige Mitgliedschaft. Bei der Anmeldung zählen Identität, Haushalts- und Einkommensnachweise sowie der Aufenthaltsstand. ASSE beschreibt auch einen beitragspflichtigen Zugang für Personen ohne laufendes Residenzverfahren. Aus einer Anmeldung folgt deshalb nicht für jeden Neuankömmling dieselbe kostenlose Absicherung.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/tramites/afiliacion-asse\" rel=\"noreferrer\">ASSE: Mitgliedschaft nach Einkommen, Status und Finanzierung</a> <span>Abruf: 26.09.2026</span></p><p>Daneben werden passende private oder mutuale Versorgung und deren konkreter Leistungsumfang verglichen. Wichtig sind Aufnahme, Vorerkrankungen, Zuzahlungen und die erreichbaren Einrichtungen. Das Auswärtige Amt weist darauf hin, dass bestimmte spezialisierte Leistungen vor allem in Montevideo verfügbar sind und bei sehr komplexen Fällen eine Verlegung nötig werden kann.</p><p>Bei Pflegebedarf beginnt die Planung an genau diesem Punkt: Welche Behandlung muss regelmäßig möglich sein, wer übernimmt die tägliche Hilfe und wie wird sie bei Ausfall ersetzt? Wir organisieren dafür die fachlichen Gespräche, eine geeignete Wohnlösung und die vereinbarte Unterstützung.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und erreichbare Behandlung verbinden</a></p><p class=\"exb-source-note\"><a href=\"https://www.auswaertiges-amt.de/de/service/laender/uruguay-node/uruguaysicherheit-201138\" rel=\"noreferrer\">Auswärtiges Amt: medizinische Versorgung in Uruguay</a> <span>Abruf: 26.09.2026</span></p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Lebenshaltungskosten, Bankzugang und Einkommen",
+      "body": "<h3>Laufende Lebenshaltung in Uruguay</h3><p>Für dein Budget sind die tatsächlichen Kosten des gewählten Haushalts entscheidend: ganzjährige Miete oder Eigentumskosten, Gemeinschaftskosten, Heizung, Krankenversorgung, Schule, Transport und Reisen nach DACH. Stelle diese Beträge für den konkreten Wohnort zusammen. So erkennst du, welcher Teil deines Einkommens für den Alltag verfügbar bleibt und wie viel Liquidität zusätzlich in Kaution oder Kauf gebunden wird.</p><h3>Einmaliger Aufbau und Umzug</h3><p>Davon trennst du die Ausgaben, bis eure Basis nutzbar ist: Urkunden, Apostillen oder Legalisierungen, erforderliche Übersetzungen und Fachnachweise, Verfahrenskosten, Vorbereitungs- und Umzugsreisen, Übergangsunterkunft, Transport und Einrichtung. Erfasse sie anhand der tatsächlich geplanten Schritte und Angebote mit ihrem Fälligkeitstermin. Bei einem Kauf fließen die bereits erläuterten Kaufnebenkosten in diese Aufbauplanung ein; gebundene Kaufmittel und Sicherheiten bleiben daneben als Kapitalbedarf sichtbar.</p><h3>Herkunftsreserve und weiterlaufende Verpflichtungen</h3><p>Halte zusätzlich Mittel für dein bisheriges Leben in Deutschland, Österreich oder der Schweiz getrennt verfügbar. Solange Verpflichtungen bestehen, müssen etwa die bisherige Wohnung oder ein Darlehen, Versicherungen, die Unterstützung zurückbleibender Angehöriger sowie Steuer- und Unternehmenszahlungen weiter gedeckt werden. Lege fest, wer diese Zahlungen ausführt und auf welchem nutzbaren Zahlungsweg die Reserve erreichbar bleibt. Dieses Geld wird weder nochmals für den Uruguay-Alltag noch für die Einrichtung verplant.</p><p>Wir führen die drei Ebenen im vereinbarten Vorbereitungsauftrag zusammen: laufender Haushalt, einmalige Ausführung und erhaltene Herkunftsreserve. Den Aufbaukosten ordnen wir konkrete Arbeiten und Zahlungstermine zu. So siehst du vor Miet-, Kauf- oder Umzugsentscheidungen, welche Mittel wann verfügbar sein müssen.</p><h3>Bankzugang und verfügbare Liquidität</h3><p>Ein reales Bankbeispiel macht den Unterschied zwischen Resident und Nichtresident sichtbar: BROU verlangt für ausländische beziehungsweise nichtansässige Kunden unter anderem gültige Identifikation, Adresse und Nachweise zu Tätigkeit und monatlichem Einkommen. Für neue ausländische Nichtresidenten veröffentlicht die Bank zusätzlich eine Mindest-Festgeldanlage von 5.000 USD für mindestens 181 Tage (Bedingung auf der abgerufenen Produktseite). Diese Bankbedingung wird nicht auf alle Institute übertragen.</p><p class=\"exb-source-note\"><a href=\"https://www.brou.com.uy/nb/personas/requisitos-para-operar-con-el-banco\" rel=\"noreferrer\">BROU: Unterlagen und besondere Bedingungen für Nichtresidenten</a> <span>Abruf: 26.09.2026</span></p><p>Vor einem größeren Transfer gehören Herkunftsnachweise und ein abgestimmter Zahlungszweck zur Akte. Teste den Zugriff, bevor du dich auf das Konto verlässt, und halte für die Ankunft einen zweiten nutzbaren Zahlungsweg bereit. Auch bei Verlust deines Telefons müssen Identifikation und Zugang wiederherstellbar sein.</p><p>Bei der <a href=\"/de/leistungen/bankzugang-liquiditaet/\">Vorbereitung von Bankzugang und Liquidität</a> koordiniert EXOBASIS die für deinen Residenten- oder Nichtresidentenstatus und das gewählte Konto erforderlichen Nachweise. Wir berücksichtigen gegebenenfalls gebundenes BROU-Festgeld getrennt von deiner verfügbaren Haushaltsreserve und organisieren getestete Zahlwege für Miete, Versorgung und Schule.</p><h3>Aus Uruguay arbeiten</h3><p>Die DGI beantwortet den häufigen Fall einer Onlineleistung für ein ausländisches Unternehmen ausdrücklich: Wird die Leistung von Uruguay aus erbracht, unterliegt sie bei einem uruguayischen Steuerresidenten grundsätzlich der IRPF, weil die Tätigkeit im Land ausgeübt wird. Ein ausländischer Auftraggeber macht daraus nicht automatisch steuerfreie Auslandseinkünfte.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/ingresos-servicios-profesionales-prestados-desde-pais-empresa-del\" rel=\"noreferrer\">DGI: aus Uruguay erbrachte Onlineleistungen für ausländische Kunden</a> <span>Abruf: 26.09.2026</span></p><p>Die steuerliche Ansässigkeit kann unter anderem durch mehr als 183 Tage im Kalenderjahr, persönliche Lebensmittelinteressen oder wirtschaftliche Kriterien entstehen. Aufenthaltskarte und Steuerwohnsitz werden daher separat behandelt. Für dein Unternehmen organisieren wir die fachliche Einordnung von Tätigkeit, Registrierung und fortbestehenden Pflichten in DACH, bevor der Arbeitsalltag verlagert wird.</p><p class=\"exb-source-note\"><a href=\"https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/causales-residencia-fiscal\" rel=\"noreferrer\">DGI: Kriterien der steuerlichen Ansässigkeit</a> <span>Abruf: 26.09.2026</span></p><p><a class=\"exb-text-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Zahlungsfähig bleiben, wenn ein Konto ausfällt</a></p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Unterlagen und Termine vor dem Umzug",
+      "body": "<p>Beim regulären Daueraufenthalt benötigt ein volljähriger Antragsteller Strafregisterauskünfte aus dem Herkunftsland und aus Ländern, in denen er in den letzten fünf Jahren vor der Einreise mindestens sechs Monate gewohnt hat. Die Behörde verlangt grundsätzlich nationale Nachweise. Gesundheits- und Impfbescheinigung werden von dafür zugelassenen Stellen in Uruguay ausgestellt.</p><p>Familienbeziehungen werden mit den erforderlichen Urkunden nachgewiesen. Für Kinder sind Geburtsurkunde und ausdrückliche Zustimmung zur Niederlassung wichtig. Eine Vollmacht aus dem Ausland muss die gewünschte Vertretung und das Wohnen in Uruguay ausdrücklich tragen und in der verlangten Form verwendet werden. Für die spätere Cédula benötigt die Identifikationsbehörde die Geburtsurkunde auch bei Erwachsenen.</p><p>Die Unterlagen werden hinsichtlich Apostille oder Legalisierung, spanischer Übersetzung und Gültigkeit auf den tatsächlichen Termin abgestimmt. Die Behörde nennt eine Ausnahme für elektronisch ausgestellte Dokumente, deren Echtheit überprüfbar ist; daraus wird keine pauschale Ausnahme für Scans. EXOBASIS organisiert die verwendbare Personenakte, die notwendigen Facharbeiten und den Ablauf bis zur persönlichen Vorsprache.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthaltsverfahren für Uruguay vorbereiten</a></p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Eine nutzbare Basis erhalten",
+      "body": "<p>Während des Aufenthaltsverfahrens bleiben Nachforderungen, gültige Cédula und geplante Ausreisen aufeinander abgestimmt. Bei der Wohnung werden Versicherung, laufende Zahlungen, Gemeinschaftskosten und örtliche Betreuung weitergeführt. Zuständigkeiten sind besonders wichtig, wenn du zunächst wieder nach DACH zurückkehrst.</p><p>Für ein leerstehendes Küstenhaus gehören Feuchtigkeit, Heizung beziehungsweise Lüftung, Wasserversorgung, Dach und Unwetterschäden in den Kontrollumfang. Ein betreuter Zugang hält fest, wer hineindarf, welche Arbeiten freigegeben sind und wie du über Probleme informiert wirst. Vor der Anreise folgen Reinigung, Funktionskontrolle und die vereinbarte Bereitstellung.</p><p>EXOBASIS kann diese Aufgaben im vereinbarten Umfang koordinieren und nachhalten. Du behältst eine gepflegte Vorbereitung mit klaren Verantwortlichen und aktuellen Kontakten.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Deine Uruguay-Basis betreuen und aktuell halten</a></p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Uruguay von der Entscheidung bis zur Ankunft vorbereiten",
+      "body": "<p>Du kannst die Standortentscheidung, deine Aufenthaltsakte, die Mietsuche oder den Immobilienkauf direkt beauftragen. Für ein umfassendes Familienvorhaben verbindet EXOBASIS diese Arbeiten mit Schule, Versorgung und Ankunft und organisiert die erforderliche örtliche Fachausführung.</p><p>Beim Immobilienkauf umfasst der vereinbarte Auftrag Bedarf und Suchprofil, Objektsuche, Besichtigungen, unabhängig organisierte Titel- und Kaufprüfung, Vertrags- und Abschlusskoordination, Übergabe sowie spätere Betreuung. Bei einer Mietlösung richten wir den Aufwand auf bestätigte Verfügbarkeit, tragfähige Garantie und einen nutzbaren Start aus.</p><p>Teile uns mit, wer mitkommen soll, wovon ihr lebt und welche Aufgaben bereits geklärt sind. Wir vereinbaren daraus Umfang, Kosten und die nächsten Schritte. Wenn du noch zwischen einer Reserve und einem dauerhaften Umzug abwägst, hilft die kostenlose 20-Minuten-Orientierung bei der Zuordnung.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Uruguay mit passenden Standortoptionen vergleichen</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Furuguay%2F#kurzanfrage\">Vorbereitung für Uruguay anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div><div class=\"exb-country-comparisons\"><h3>Zwei andere Antworten auf dieselbe Frage</h3><article><p><a class=\"exb-text-link\" href=\"/de/laender/paraguay/\">Paraguay als persönliche Ausweichoption</a></p><p>Paraguay: Vergleiche die Binnenlandlage und den temporären Einstieg mit der für Uruguay geprüften Aufenthaltsfolge.</p></article><article><p><a class=\"exb-text-link\" href=\"/de/laender/argentinien/\">Argentinien als persönliche Ausweichoption</a></p><p>Argentinien: Prüfe, wie eine einkommensbezogene Kategorie und regionale Wohnwahl dieselben Familienanforderungen erfüllen könnten.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Muss ich für den Daueraufenthalt in Uruguay eine Immobilie kaufen?",
+    "answer": "Nein. Die allgemeinen Voraussetzungen der regulären Residencia Legal Permanente verlangen keinen Hauskauf. Entscheidend sind die Niederlassungsabsicht, die persönlichen Unterlagen, Gesundheitsnachweise und belegbare Mittel zum Lebensunterhalt. Du kannst mit einer Mietwohnung beginnen und einen Kauf nach Standortentscheidung und unabhängiger Titelprüfung vorbereiten."
+  },
+  "editorialSources": [
+    "uy"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 868,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 870,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 871,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 872,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 873,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 874,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 875,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 876,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 877,
+      "target": "/en/countries/uruguay/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1428,
+      "target": "/de/laender/paraguay/",
+      "label": "Paraguay als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1430,
+      "target": "/de/laender/argentinien/",
+      "label": "Argentinien als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Auswandern nach Uruguay: eine dauerhafte Basis für deine Familie"
+}

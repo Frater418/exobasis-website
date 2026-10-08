@@ -1,0 +1,148 @@
+{
+  "route": "/de/leistungsbedingungen/",
+  "lang": "de",
+  "title": "Leistungs- und Vertragsbedingungen",
+  "parent": "/de/",
+  "translation": "/en/service-terms/",
+  "model": "recht-funktion",
+  "schemaVersion": 1,
+  "kind": "legal",
+  "reviewStatus": "blocked_required_facts",
+  "releaseStatus": "blocked_required_facts",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0c8db9f2771216",
+      "startLine": 16497
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-a79e5fabb2bd09",
+      "startLine": 9998
+    }
+  ],
+  "eyebrow": "EXOBASIS / Rechtliche Informationen",
+  "seoTitle": "Leistungs- und Vertragsbedingungen | EXOBASIS",
+  "description": "Auftrag, Zahlung, Mitwirkung, Fachverträge, Übergabe und Verbraucherrechte.",
+  "intro": "<p>Was wird erledigt, wer trägt welche Aufgabe und wann entstehen Kosten? Diese Bedingungen erklären den Weg von einer Anfrage zum vereinbarten Ergebnis. Für einen verbindlichen Auftrag müssen Anbieter, Umfang, Preis und anwendbare Verbraucherinformationen im konkreten Angebot feststehen.</p>",
+  "sections": [
+    {
+      "id": "t-vertrag",
+      "title": "Angebot und Vertrag",
+      "body": "<p>Eine Anfrage und ein kostenloses Orientierungsgespräch sind noch kein Auftrag. Wenn deine Aufgabe bereits feststeht, kannst du eine Einzelleistung direkt anfragen; eine kostenpflichtige Erstklärung ist keine Voraussetzung. Was EXOBASIS übernimmt, ergibt sich aus dem angenommenen Angebot mit Vertragspartner, Leistungsumfang, Ergebnis, benötigter Mitwirkung, Preis und Währung. Die Auswahl eines Anliegens im Formular ersetzt diese Annahme nicht.</p><p>Unter <a href=\"/de/leistungen/\">Konkrete Hilfe</a> findest du die Leistungsarten, unter <a href=\"/de/arbeitsweise/\">Wie EXOBASIS arbeitet</a> die Arbeitsfolge. Die rechtliche Anbieteridentität muss den <a href=\"/de/anbieterinformationen/\">Anbieterinformationen</a> entsprechen. Maßgeblich sind die vereinbarte Angebotsfassung und der tatsächlich bestätigte Annahmeweg.</p><p>Wenn Umfang oder Vertragspartner für deine konkrete Aufgabe unklar sind, stelle vor einem Angebot eine <a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a>.</p>",
+      "reviewRequirements": [
+        "Rechtsträger, tatsächlicher Angebots-/Annahmeweg und Vertragsunterlagen",
+        "Anwendbares Recht und Kundengruppen"
+      ]
+    },
+    {
+      "id": "t-zahlung",
+      "title": "Zahlung und Arbeitsabschnitte",
+      "body": "<p>Das Angebot unterscheidet Honorar für eigene Arbeit, zugekaufte Ausführung, direkte Fachhonorare, Behördengebühren und notwendige Reise- oder Sachkosten. Für jeden beauftragten Arbeitsabschnitt müssen Ergebnis, Fälligkeit, Währung und Ausgabenfreigabe erkennbar sein. Nicht enthaltene Kosten werden vor ihrer Veranlassung abgestimmt; ein interner Kalkulationspreis ist kein veröffentlichter Gesamtpreis.</p><p>Eine Zahlung finanziert den vereinbarten Schritt. Sie beweist weder den Eingang eines Termins noch eine behördliche Entscheidung, Bankannahme oder vollständige Lieferung.</p>",
+      "reviewRequirements": [
+        "Freigegebene Preise, Währungen, Fälligkeiten und Zahlungswege",
+        "Regelung zu Fremdkosten und abgesagten Arbeitsabschnitten"
+      ]
+    },
+    {
+      "id": "t-mitwirkung",
+      "title": "Deine Mitwirkung",
+      "body": "<p>Für den jeweiligen Auftrag stellst du zutreffende Angaben und die konkret benötigten Nachweise bereit und triffst die Entscheidungen, die dir vorbehalten sind. Bereits geprüfte Informationen können bei passendem Zweck und ausreichender Aktualität wiederverwendet werden. Änderungen in Familie, Aufenthalt oder wirtschaftlicher Lage können einen Arbeitsstand verändern.</p><p>Fehlt ein Nachweis oder ein persönlicher Termin, klären wir die Folgen für genau den betroffenen Schritt, statt dir pauschal jede Verzögerung zuzuschreiben. Private Unterlagen werden nur über den vereinbarten geschützten Weg angefordert. Passwörter und alleinige Wiederherstellungsschlüssel gehören nicht in die Fallaufnahme.</p>",
+      "reviewRequirements": [
+        "Vertragsgerechte Mitwirkungspflichten und Folgen einer Verzögerung"
+      ]
+    },
+    {
+      "id": "t-fachvertraege",
+      "title": "Notwendige Fachverträge",
+      "body": "<p>EXOBASIS verantwortet die eigene beauftragte Organisationsarbeit. Zugekaufte Ausführung und ein Vertrag, den du selbst mit einer Bank, Kanzlei, Versicherung oder anderen Fachstelle schließt, sind davon zu unterscheiden. Vor dem betreffenden Schritt soll klar sein, wer welche Leistung erbringt, wer sie bezahlt und wer über die Annahme entscheidet.</p><p>Eine Behörde oder ein Institut entscheidet selbst über Anträge und Aufnahme. Ein EXOBASIS-Auftrag ersetzt weder einen nötigen Fachvertrag noch garantiert er die Entscheidung einer fremden Stelle.</p>",
+      "reviewRequirements": [
+        "Tatsächliche Eigen-/Fremd-/Direktmandate und Verantwortungsabgrenzung"
+      ]
+    },
+    {
+      "id": "t-zusatzarbeit",
+      "title": "Zusätzliche Arbeit und Änderungen",
+      "body": "<p>Ein weiteres Land, neue Familienanforderungen, eine zusätzliche Prüfung, Reise oder laufende Betreuung können den vereinbarten Umfang ändern. Kosten, Zeitplan, Ausführer und Ergebnis werden vor einer solchen Erweiterung in einem passenden Nachtrag bestätigt. Bereits enthaltene Arbeit wird dabei nicht erneut berechnet.</p><p>Eine Rückfrage zum gelieferten Ergebnis ist nicht allein wegen einer zusätzlichen Nachricht ein neuer Auftrag. Ob sie zur vereinbarten Rückfrage gehört oder eine neue Aufgabe auslöst, richtet sich nach dem konkreten Leistungsumfang.</p>",
+      "reviewRequirements": [
+        "Verbindliche Änderungsfreigabe und Vergütungsgrundlagen"
+      ]
+    },
+    {
+      "id": "t-uebergabe",
+      "title": "Übergabe und Nachbesserung",
+      "body": "<p>Die Übergabe hält fest, was tatsächlich fertiggestellt wurde, welche Nachweise vorliegen und was noch offen ist. Ein Entscheidungsbrief, eine organisierte Einrichtung, ein durchgeführter Test und die Annahme durch Dritte sind unterschiedliche Ergebnisse. Als geliefert wird nur bezeichnet, was im beauftragten Umfang tatsächlich erfolgt ist.</p><p>Abweichungen vom vereinbarten Ergebnis können mit Bezug auf die konkrete Leistung gemeldet und geprüft werden. Übergabeweg, Rückfragemöglichkeit und eine etwaige Nachbesserung sind im wirklichen Auftrag rechtlich passend zu regeln; laufende Betreuung folgt nicht automatisch aus einer einmaligen Übergabe.</p>",
+      "reviewRequirements": [
+        "Rechtlich geprüfte Übergabe-, Gewährleistungs- und Nachbesserungsregelung"
+      ]
+    },
+    {
+      "id": "t-beendigung",
+      "title": "Beendigung und Verbraucherrechte",
+      "body": "<p>Was bei Absage oder Beendigung mit bereits geleisteter Arbeit, freigegebenen Fremdkosten, Unterlagen und etwaigen Rückzahlungen geschieht, muss aus dem tatsächlichen Vertrag und dem anwendbaren Recht hervorgehen. Gesetzliche Verbraucherrechte hängen von Anbieter, Kundeneigenschaft und Abschlussweg ab, nicht von der Sprache dieser Seite. Ein mögliches Widerrufsrecht und die Folgen eines ausdrücklich gewünschten frühen Leistungsbeginns bedürfen der passenden Information vor einem verbindlichen Kauf.</p><p>Für Fragen zum Umfang oder zur Beendigung nutze <a href=\"/de/anfrage/\">Diskrete Anfrage</a>. Eine Rückfrage ist keine Bestellung.</p>",
+      "reviewRequirements": [
+        "Konkrete Beendigung, Erstattung und gesetzliche Verbraucherrechte",
+        "Etwaiger Widerruf samt erforderlicher Belehrung für den tatsächlichen Vertrieb",
+        "Keine Veröffentlichung vor Vertragsprüfung"
+      ]
+    }
+  ],
+  "linkPlan": [
+    {
+      "sourceLine": 834,
+      "target": "/de/",
+      "label": "EXOBASIS: Eine eigene Basis außerhalb des Herkunftslands",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 836,
+      "target": "/de/arbeitsweise/",
+      "label": "Wie EXOBASIS arbeitet",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Vertrauens-/Ablaufabschnitt vor Auftrag"
+    },
+    {
+      "sourceLine": 837,
+      "target": "/de/leistungen/",
+      "label": "Konkrete Hilfe",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Einstiegsbereich oder Abschluss: konkrete Arbeit abgeben"
+    },
+    {
+      "sourceLine": 838,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 839,
+      "target": "/de/anbieterinformationen/",
+      "label": "Anbieterinformationen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Rechtliche Anbieterzuordnung"
+    },
+    {
+      "sourceLine": 840,
+      "target": "/en/service-terms/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    }
+  ],
+  "legalType": "terms",
+  "releaseBlockers": [
+    "Rechtsträger, tatsächlicher Angebots-/Annahmeweg und Vertragsunterlagen",
+    "Anwendbares Recht und Kundengruppen",
+    "Freigegebene Preise, Währungen, Fälligkeiten und Zahlungswege",
+    "Regelung zu Fremdkosten und abgesagten Arbeitsabschnitten",
+    "Vertragsgerechte Mitwirkungspflichten und Folgen einer Verzögerung",
+    "Tatsächliche Eigen-/Fremd-/Direktmandate und Verantwortungsabgrenzung",
+    "Verbindliche Änderungsfreigabe und Vergütungsgrundlagen",
+    "Rechtlich geprüfte Übergabe-, Gewährleistungs- und Nachbesserungsregelung",
+    "Konkrete Beendigung, Erstattung und gesetzliche Verbraucherrechte",
+    "Etwaiger Widerruf samt erforderlicher Belehrung für den tatsächlichen Vertrieb",
+    "Keine Veröffentlichung vor Vertragsprüfung"
+  ]
+}

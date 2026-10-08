@@ -1,0 +1,148 @@
+{
+  "route": "/en/service-terms/",
+  "lang": "en",
+  "title": "Service and contract terms",
+  "parent": "/en/",
+  "translation": "/de/leistungsbedingungen/",
+  "model": "recht-funktion",
+  "schemaVersion": 1,
+  "kind": "legal",
+  "reviewStatus": "blocked_required_facts",
+  "releaseStatus": "blocked_required_facts",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0c8db9f2771216",
+      "startLine": 16685
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-a79e5fabb2bd09",
+      "startLine": 10243
+    }
+  ],
+  "eyebrow": "EXOBASIS / Legal information",
+  "seoTitle": "Service and contract terms | EXOBASIS",
+  "description": "Assignments, payment, participation, specialist contracts, handover and consumer rights.",
+  "intro": "<p>What work is included, who does what and when do costs arise? These terms explain the path from enquiry to an agreed result. Before an assignment is binding, the actual offer must identify the provider, scope, price and applicable consumer information.</p>",
+  "sections": [
+    {
+      "id": "t-vertrag",
+      "title": "Offer and contract",
+      "body": "<p>An enquiry and a free orientation call do not place an order. If you already know the task, you can ask about a specific service directly; a paid assessment is not a prerequisite. The accepted offer identifies the contracting party, scope, result, necessary participation, price and currency. Selecting a topic in the enquiry form is not acceptance.</p><p><a href=\"/en/services/\">Practical help</a> describes the types of work, while <a href=\"/en/how-we-work/\">How EXOBASIS works</a> explains the sequence. The legal provider must match the <a href=\"/en/provider-information/\">Provider information</a>. The agreed offer version and confirmed acceptance route determine the commission.</p><p>If the scope or contracting party for your particular task is unclear, make a <a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a> before an offer is accepted.</p>",
+      "reviewRequirements": [
+        "Legal provider, actual proposal/acceptance process and contract documents",
+        "Applicable law and customer categories"
+      ]
+    },
+    {
+      "id": "t-zahlung",
+      "title": "Payment and work stages",
+      "body": "<p>The offer distinguishes fees for EXOBASIS work, procured execution, direct specialist fees, official charges and necessary travel or material costs. Each commissioned stage needs an identifiable result, due date, currency and expenditure approval. Costs outside the scope are agreed before they are incurred; an internal planning figure is not a published total price.</p><p>Payment finances the agreed stage. It does not prove that an appointment was booked, an authority decided, a bank approved an application or delivery was completed.</p>",
+      "reviewRequirements": [
+        "Approved pricing, currencies, due dates and payment channels",
+        "Third-party costs and cancelled stages"
+      ]
+    },
+    {
+      "id": "t-mitwirkung",
+      "title": "Your participation",
+      "body": "<p>For the particular assignment, you provide accurate information and the evidence actually required, and make decisions reserved to you. Previously verified information may be reused where its purpose and currency still fit. Changes affecting your family, residence or financial circumstances may change the work required.</p><p>If a document or personal appointment is missing, we clarify the effect on the particular step rather than assigning every delay to you. Private records are requested only through the protected channel agreed for the work. Passwords and sole-access recovery keys do not belong in ordinary case intake.</p>",
+      "reviewRequirements": [
+        "Contractual cooperation duties and consequences of delay"
+      ]
+    },
+    {
+      "id": "t-fachvertraege",
+      "title": "Specialist agreements",
+      "body": "<p>EXOBASIS is responsible for its own commissioned coordination. Procured execution and a contract you sign directly with a bank, law firm, insurer or other specialist are distinct. Before the relevant step, it should be clear who performs the work, who pays for it and who decides whether to accept an application.</p><p>An authority or institution makes its own decision. An EXOBASIS commission neither replaces a necessary specialist contract nor guarantees a third party’s decision.</p>",
+      "reviewRequirements": [
+        "Actual EXOBASIS, procured and direct mandates with responsibility boundaries"
+      ]
+    },
+    {
+      "id": "t-zusatzarbeit",
+      "title": "Additional work and changes",
+      "body": "<p>Another country, changed family requirements, an additional review, travel or ongoing maintenance may change the agreed scope. The costs, schedule, provider and outcome are confirmed in an appropriate amendment before work expands. Work already included is not charged again.</p><p>A question about the delivered result does not become a new assignment merely because you sent another message. Whether it falls within agreed follow-up or calls for new work depends on the actual scope.</p>",
+      "reviewRequirements": [
+        "Binding change approval and remuneration rules"
+      ]
+    },
+    {
+      "id": "t-uebergabe",
+      "title": "Handover and corrections",
+      "body": "<p>Handover records what was actually completed, which evidence is available and what remains open. A decision brief, arrangements made, a test performed and acceptance by a third party are different outcomes. Only work actually performed within the commissioned scope is described as delivered.</p><p>You can report a discrepancy against the agreed result for specific review. The actual commission must set out the appropriate handover method, follow-up and treatment of defects; ongoing maintenance does not follow automatically from a single handover.</p>",
+      "reviewRequirements": [
+        "Legally reviewed handover, warranty and correction provisions"
+      ]
+    },
+    {
+      "id": "t-beendigung",
+      "title": "Ending the assignment and consumer rights",
+      "body": "<p>The actual contract and applicable law determine what happens to completed work, approved third-party costs, documents and possible refunds when an assignment is cancelled or ended. Statutory consumer rights depend on the provider, client status and sales channel, not the language of this page. Any right of withdrawal and consequences of an expressly requested early start require the appropriate information before a binding purchase.</p><p>For questions about scope or cancellation, use <a href=\"/en/enquiry/\">Private enquiry</a>. A question is not an order.</p>",
+      "reviewRequirements": [
+        "Specific termination, refunds and statutory consumer rights",
+        "Required withdrawal information for the actual sales route where applicable",
+        "No publication before contract review"
+      ]
+    }
+  ],
+  "linkPlan": [
+    {
+      "sourceLine": 841,
+      "target": "/en/",
+      "label": "EXOBASIS: Your own base beyond your home country",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 843,
+      "target": "/en/how-we-work/",
+      "label": "How EXOBASIS works",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Vertrauens-/Ablaufabschnitt vor Auftrag"
+    },
+    {
+      "sourceLine": 844,
+      "target": "/en/services/",
+      "label": "Practical help",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Einstiegsbereich oder Abschluss: konkrete Arbeit abgeben"
+    },
+    {
+      "sourceLine": 845,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 846,
+      "target": "/en/provider-information/",
+      "label": "Provider information",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Rechtliche Anbieterzuordnung"
+    },
+    {
+      "sourceLine": 847,
+      "target": "/de/leistungsbedingungen/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    }
+  ],
+  "legalType": "terms",
+  "releaseBlockers": [
+    "Legal provider, actual proposal/acceptance process and contract documents",
+    "Applicable law and customer categories",
+    "Approved pricing, currencies, due dates and payment channels",
+    "Third-party costs and cancelled stages",
+    "Contractual cooperation duties and consequences of delay",
+    "Actual EXOBASIS, procured and direct mandates with responsibility boundaries",
+    "Binding change approval and remuneration rules",
+    "Legally reviewed handover, warranty and correction provisions",
+    "Specific termination, refunds and statutory consumer rights",
+    "Required withdrawal information for the actual sales route where applicable",
+    "No publication before contract review"
+  ]
+}

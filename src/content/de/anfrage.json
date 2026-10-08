@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/anfrage/",
+  "lang": "de",
+  "title": "Diskrete Anfrage",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c888526408108c"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-6c8907c39297e7"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "kind": "enquiry",
+  "eyebrow": "Diskrete Anfrage",
+  "seoTitle": "EXOBASIS kontaktieren: konkrete Arbeit oder Erstklärung anfragen",
+  "description": "Frage konkrete Vorbereitungsarbeit, eine persönliche Erstklärung oder ein kostenloses 20-Minuten-Orientierungsgespräch an. Eine kurze Beschreibung genügt.",
+  "intro": "<p>Du möchtest eine Alternative für deine Familie aufbauen, dein Vermögen erreichbar halten oder dein Unternehmen auch von einem anderen Ort weiterführen. Vielleicht aus Sorge vor Krieg oder Repression, vielleicht weil eine konkrete Entscheidung ansteht. Sag uns, welche Aufgabe du angehen möchtest. Das Zielland darf noch offen sein.</p><p>Du kannst Planung, Einrichtung und Betreuung ebenso anfragen wie eine einzelne Arbeit: Urkunden und Übersetzungen organisieren, einen Bankzugang vorbereiten oder eine Unterkunft finden. Auch ein <a href=\"/de/leistungen/ankunft-organisieren/\">Immobilienkauf mit Suchauftrag, Besichtigungen, organisierter unabhängiger Titel- und Kaufprüfung, Vertragskoordination und Übergabe</a> kann Gegenstand eines eigenen Auftrags sein. Welche Schritte EXOBASIS selbst ausführt und welche Fachleute dafür benötigt werden, klären wir anhand deiner Aufgabe.</p>",
+  "orientation": {
+    "title": "Noch unsicher, welche Arbeit du brauchst?",
+    "body": "Im kostenlosen 20-Minuten-Orientierungsgespräch besprechen wir dein Anliegen und den passenden Einstieg. Du brauchst dafür weder ein fertiges Zielland noch ein Dossier. Für eine bereits bekannte Aufgabe kannst du direkt schreiben; das Gespräch ist freiwillig.",
+    "button": "Orientierungsgespräch anfragen",
+    "intent": "Orientierungsgespräch"
+  },
+  "writing": {
+    "id": "lieber-schreiben",
+    "title": "Eine konkrete Aufgabe abgeben",
+    "body": "Beschreibe in wenigen Worten, was erledigt werden soll und was schon vorbereitet ist. Wähle das passende Anliegen oder „Allgemeine Anfrage“. Eine Beratung musst du dafür nicht vorab kaufen. Auch eine fachliche Zusammenarbeit kannst du hier anfragen."
+  },
+  "protected": {
+    "id": "verschluesselt",
+    "title": "Persönliches geschützt besprechen",
+    "body": "<p>Für einen verschlüsselten Erstkontakt ist ein eigener CryptPad-Zugang vorgesehen, für vertrauliche Gespräche ein SimpleX-Kontakt. Die Einträge zeigen dir, ob diese Wege bereits angeschlossen sind. Ein geschützter Einstieg ist freiwillig.</p><p>Für die erste Nachricht reichen dein grobes Anliegen und ein geeigneter Rückweg. Welche persönlichen Angaben oder Unterlagen wir für die eigentliche Arbeit benötigen, stimmen wir anschließend mit dir ab und vereinbaren den passenden geschützten Austausch.</p>"
+  },
+  "form": {
+    "id": "kurzanfrage",
+    "title": "Deine kurze Anfrage",
+    "intro": "Trage eine erreichbare E-Mail-Adresse ein und wähle dein Anliegen. Name und Nachricht sind freiwillig. Du kannst Deutsch oder Englisch für die Antwort auswählen. Eine vorgeschlagene Leistung oder ein eingefügter öffentlicher Seitenbezug lässt sich ändern oder entfernen.",
+    "previewNotice": "Technische Vorschau: Der Versand ist noch nicht angeschlossen. Du kannst die Eingaben lokal prüfen; dabei wird nichts gesendet oder gespeichert."
+  },
+  "next": {
+    "id": "danach",
+    "title": "Von deiner Anfrage zum vereinbarten Auftrag",
+    "steps": [
+      [
+        "Anliegen klären",
+        "Nach der Übermittlung melden wir uns über deinen angegebenen Rückweg. Wir klären, welches Ergebnis du brauchst und welche Vorarbeit bereits besteht."
+      ],
+      [
+        "Arbeit und Kosten vereinbaren",
+        "Du erhältst den passenden Leistungsumfang mit Kosten und Zuständigkeiten. Eine persönliche Erstklärung, ein konkreter Einzelauftrag und eine umfassendere Vorbereitung sind eigenständige Möglichkeiten."
+      ],
+      [
+        "Vorbereitung und Ausführung beginnen",
+        "Nach deiner Beauftragung erheben wir die dafür notwendigen Angaben geschützt und beginnen die vereinbarte Arbeit. Bereits bestätigte Informationen übernehmen wir zur Kontrolle, statt sie erneut abzufragen."
+      ]
+    ]
+  },
+  "existing": {
+    "id": "bestehender-auftrag",
+    "title": "Du hast bereits einen Auftrag bei uns?",
+    "body": "<p>Wende dich an deinen vereinbarten Ansprechpartner über den bestehenden geschützten Kontaktweg. So bleibt deine Rückfrage bei der richtigen Aufgabe.</p><p>Ist dieser Weg ausgefallen, kannst du mit einer kurzen organisatorischen Nachricht um Wiederkontakt bitten. Wir klären deine Berechtigung, bevor persönliche Vorgangsinformationen ausgetauscht werden. Für eine vereinbarte Aktivierung gilt ausschließlich der dafür festgelegte Kontaktweg; das öffentliche Formular löst sie nicht aus.</p>"
+  },
+  "displayTitle": "Was möchtest du mit EXOBASIS vorbereiten?"
+}

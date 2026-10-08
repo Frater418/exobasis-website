@@ -1,0 +1,197 @@
+{
+  "route": "/en/countries/argentina/",
+  "lang": "en",
+  "title": "Argentina as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/argentinien/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-614bc39c63d25f"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-d4ecb6570039d2"
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Moving to Argentina: residency, housing and family | EXOBASIS",
+  "description": "Plan your Argentina base: rentista and pensioner residency, renting or buying a home, schools, healthcare and money access. Commission the preparation.",
+  "intro": "<p>Moving to Argentina can put an ocean between your family and a war in Europe, or give you a long-term home beyond the Gulf. The useful question is how you will live there: on a pension, investment income, employment or your own business, with the people who need to come with you.</p><p>Argentina offers very different lives in Buenos Aires, its northern suburbs and the provincial cities. Choose the residence route, the neighbourhood and the money arrangements together. EXOBASIS prepares those pieces and carries out the agreed work, from documents and property search to arrival and ongoing care.</p>",
+  "primary": {
+    "label": "Prepare my Argentina base",
+    "intent": "General enquiry"
+  },
+  "countryContext": "/en/countries/argentina/",
+  "country": {
+    "name": "Argentina",
+    "slug": "argentinien",
+    "region": "South America",
+    "map": "countries/argentinien-locator.svg",
+    "imageAlt": "Map showing Argentina in southern South America.",
+    "caption": "Argentina: Buenos Aires on the Atlantic side, with the Andes along the western border.",
+    "summary": [
+      [
+        "Residence follows your income",
+        "Rentista and pensioner routes require documented recurring income."
+      ],
+      [
+        "A home that works for the family",
+        "Match the address to school, treatment and everyday journeys."
+      ],
+      [
+        "Keep it usable while away",
+        "Residence absences, payments and property care need an active plan."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "What kind of Argentina base do you need?",
+      "body": "<p>A prepared refuge gives you somewhere to arrive if you decide to leave because of war, repression or fear for your family. A second home gives you a recurring place to live while retaining commitments elsewhere. A permanent move transfers school, healthcare, work and much of your daily life. Those choices need different budgets and different residence arrangements.</p><p>Argentina is particularly worth examining if you can document a pension or income from assets abroad and want a Spanish-speaking family life. If you earn by actively working, start with that activity rather than trying to fit your salary into a passive-income category. Your spouse, children and any dependent parent each need a lawful basis for their stay and a practical place in the plan.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "A refuge is useful only if you can reach and occupy it",
+      "body": "<p>For an initial reconnaissance visit, British citizen passport holders can enter Argentina for tourism without a visa for up to 90 days. Longer stays, work and study have their own requirements. This British-passport rule also applies to a British citizen living in the UAE; an Emirates ID does not give a different passport the same entitlement. The <a href=\"https://www.gov.uk/foreign-travel-advice/argentina/entry-requirements\">UK government's Argentina entry guidance</a> sets out the British visitor position.</p><p>Article 34 of Argentina's migration law, as amended by <a href=\"https://www.boletinoficial.gob.ar/detalleAviso/primera/326096/20250529\">Decreto 366/2025, Article 9</a>, provides for a sworn declaration stating the purpose of entry and confirming health insurance to cover your medical needs. Article 123 bis makes that declaration enforceable once its implementation has been regulated. Confirm the current declaration procedure with Migraciones or the competent Argentine consulate before departure. The <a href=\"https://www.argentina.gob.ar/normativa/nacional/ley-25871-92016/actualizacion\">migration law, Articles 34 and 123 bis</a>, sets out this distinction. Carry proof of valid travel or international health insurance: <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/argentiniensicherheit-201326\">Germany's Federal Foreign Office entry guidance</a> specifies medical emergencies, hospital treatment and repatriation, and warns that airlines may check the documents before boarding.</p><p>A long-haul journey is easier to use before routes become crowded or disrupted. Prepare a realistic arrival airport, transfer, first accommodation and an alternative itinerary. Put access instructions and emergency contacts where both adults can retrieve them. A house occupied by a long-term tenant will not become available simply because you suddenly need it: reserve your own occupancy or arrange a separate first-arrival home.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Build the family move around a real neighbourhood",
+      "body": "<p>For a permanent family move, start with an ordinary week: where your children will study, who will treat an existing condition, how you will travel and when you can work with UK or Gulf clients. Buenos Aires and the Olivos or Nordelta areas offer different combinations of urban access, housing and bilingual schooling. A quieter provincial address changes the choice of schools and specialists as well as the journey to an international departure.</p><p>Take school reports and medical summaries on your first serious visit. Arrange school conversations and any essential clinical assessment before committing to a long lease. Spanish matters for the parts of daily life that sit outside an English-speaking school or doctor. Give both partners time to test the place, rather than treating one successful viewing trip as the family's decision.</p><p>For the longer-term route by established residence, British and Emirati nationals fall under the non-MERCOSUR three-year temporary-residence rule. Migraciones also requires sufficient means of support, presence for at least half the granted period and no continuous absence of six months or more. The <a href=\"https://www.argentina.gob.ar/servicio/radicaciones-residencia-permanente\">permanent-residence procedure</a> makes this a path built through actual residence. It is a different commitment from keeping a flat for occasional visits.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "A second home needs a workable absence pattern",
+      "body": "<p>Buying a home and keeping immigration residence are separate matters. Under the amended migration law, absence of six months or more after temporary residence is granted, or one year or more after permanent residence is granted, is a ground for cancellation, subject to the stated exceptions or express immigration authorisation. The rule is in <a href=\"https://www.boletinoficial.gob.ar/detalleAviso/primera/326096/20250529\">Decree 366/2025, Article 16, replacing Article 62(e)</a>.</p><p>That is decisive if you intend to keep Argentina mostly in reserve. Build the travel calendar around the actual permission you hold, and obtain any required authorisation before a prolonged absence. Separately appoint someone to inspect the property, deal with water leaks and utility bills, and prepare it for your return. An unused apartment still needs management.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Argentina residency: rentista, pensioner or an active-work route",
+      "body": "<p>The <a href=\"https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-rentista\">official rentista residence route</a> is based on income produced by assets in your own estate, such as investments, property or company holdings. It expressly excludes remuneration for personal work. The published minimum is income equivalent to five Argentine minimum wages, the Salario Mínimo Vital y Móvil. Funds must enter through a bank or financial institution authorised by the central bank.</p><p>The <a href=\"https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-pensionado\">pensioner route</a> requires a regular, permanent pension from a government, international organisation or private company for work abroad, also at least five minimum wages. Both official procedures describe a renewable one-year temporary residence. Use the current wage figure when preparing evidence, rather than an old dollar threshold.</p><p>Applications through RaDEX require you to be in Argentina, with lawful entry and a local address. The process starts online and leads to an in-person appointment. A UK rental portfolio, a company distribution and an actively earned consulting fee are not interchangeable evidence. We organise the relevant records and local professional assessment around what you actually receive.</p><h3>Match the residence preparation to the way you will use Argentina</h3><div class=\"exb-criteria-table\" role=\"region\" tabindex=\"0\" aria-labelledby=\"argentina-use-caption\"><table><caption id=\"argentina-use-caption\">Argentina: rights, evidence and preparation for three ways of living</caption><thead><tr><th scope=\"col\">Your intended use</th><th scope=\"col\">Rights you can use</th><th scope=\"col\">What you need to establish</th><th scope=\"col\">Work to put the option in place</th></tr></thead><tbody><tr><th scope=\"row\">A reserve base for a crisis</th><td>A British-citizen passport permits the initial tourist visit described above; another nationality needs its own entry check. Visitor admission is not permission to settle indefinitely or work. A residence file prepared in advance still needs an application and a decision.</td><td>Check the entry requirements for each traveller. If the reserve is to support a longer stay, assemble the qualifying asset-income or pension evidence before departure, but plan to be lawfully in Argentina with a local address for RaDEX and the personal appointment.</td><td>Arrange the arrival journey, accommodation you can actually occupy and usable funds. We can prepare the residence documents and coordinate the local application work. If you obtain residence, fit future absences to its rules rather than assuming an unused home preserves the status.</td></tr><tr><th scope=\"row\">A lasting family home</th><td>Rentista and pensionado are renewable one-year temporary routes, not immediate permanent residence. Active earnings need a suitable work/residence basis instead of being relabelled as passive income. Each family member needs an appropriate basis for staying.</td><td>For rentista, establish ownership and the income it produces; for pensionado, establish the regular permanent pension. Apply the current five-minimum-wage threshold and the required bank inflow to the relevant file. Add family and identity records, lawful-entry evidence and the Argentine address; allow time for the in-person RaDEX appointment.</td><td>We organise the evidence, translations and local professional work, then connect the residence timetable with school, treatment and a home. Plan renewals and the later permanent-residence requirements around the actual household, rather than moving everyone on the strength of an income calculation alone.</td></tr><tr><th scope=\"row\">A base used between trips</th><td>Match visitor stays or temporary residence to the time you intend to spend in Argentina. Holding a home does not preserve residence through unrestricted absences. Fees earned by consulting or other active remote work do not become rentista income.</td><td>Keep travel dates, permit validity and continuing income evidence together. For a residence application, retain the current qualifying-income calculation and receiving-bank records, and be present for RaDEX with the address and appointment arranged. Check any prolonged absence against the permission and exceptions described above.</td><td>We can coordinate the status calendar, renewals and any required absence authorisation with property inspections and payment access. Have the actual work and separate tax-residence position assessed before building a recurring travel pattern around the home.</td></tr></tbody></table></div><p>For a defined residence task, <a href=\"/en/enquiry/\">tell us who is moving and how the household is funded</a>.</p><p>For a different question, use <a href=\"/en/enquiry/#contact-start\">Private enquiry</a>.</p>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Where to live, what to rent and how to buy",
+      "body": "<h3>Start with an address you can test</h3><p>Buenos Aires is a practical first base for appointments and a wide choice of services. If a northern-suburb school is central to the decision, compare Olivos and Nordelta with the actual school run rather than with a city-centre apartment. Córdoba offers a different urban setting; Mendoza may appeal for a western-city lifestyle, but earthquake exposure belongs in the building decision. Flooding can affect Buenos Aires province, while wildfires and road disruption matter for more remote homes. The <a href=\"https://www.gov.uk/foreign-travel-advice/argentina/safety-and-security\">regional and natural-hazard guidance</a> should inform the shortlist.</p><h3>Rent for arrival, then commit with clear terms</h3><p>A furnished apartment is useful while you inspect neighbourhoods and complete appointments. For a longer tenancy, Argentina requires a written contract. The parties may agree the term, payment currency and security deposit; if no term is set for a permanent home, the default is two years. A foreign-currency rent must be paid in the agreed currency. The official <a href=\"https://www.argentina.gob.ar/justicia/derechofacil/leysimple/alquileres\">rental-law guide</a> explains these rules.</p><p>Record the inventory, condition, meter readings, deposit-return terms, rent adjustment and the split between ordinary building charges and the owner's expenses. Explain extended absences and any caretaker access before signing. A lease that works for permanent occupation may be unsuitable for a home you use intermittently.</p><h3>Make property purchase a properly managed project</h3><p>Foreigners have the right to own, buy and sell real estate under <a href=\"https://www.argentina.gob.ar/normativa/nacional/ley-24430-804/texto\">Article 20 of the Argentine Constitution</a>. Non-resident buyers should prepare their passport and Argentine identification before the deed. If you have neither a CUIT nor a CUIL, ARCA provides a CDI for acquiring registered assets, with a passport accepted for a non-resident applicant. Its <a href=\"https://www.argentina.gob.ar/servicio/obtener-la-clave-de-identificacion-cdi\">CDI procedure</a> sets out the application. The identifier supports the transaction; residence and tax obligations remain separate.</p><p>For a purchase, we define your location and property requirements, organise the search and viewings, and arrange independent local title and purchase checks before coordinating the contract, closing and handover. The Argentine escribano handles the public deed and registry work. Title history, ownership certificates, restrictions, outstanding charges and the seller's authority belong in that review. The <a href=\"https://www.colegio-escribanos.org.ar/2020/04/24/compraventa/\">Buenos Aires notaries' purchase guide</a> describes the role, proof of funds and the main transaction stages.</p><p>An ordinary urban home and a rural estate require different checks. The <a href=\"https://www.argentina.gob.ar/justicia/tierrasrurales\">National Rural Land Registry</a> currently states that foreign-purchase restrictions under Law 26.737 remain in force following a court injunction and that it is issuing acquisition certificates. A rural or border-area proposal therefore needs its own acquisition review before you pay a reservation or deposit.</p><p>Your written budget should separate the price from notarial and independent legal work, registry charges, applicable stamp taxes, any agency fee, currency conversion and property-running costs. The rates and allocation depend on the jurisdiction and transaction. After closing, we can organise keys, utilities, furnishing, inspections and preparation before each stay through the agreed <a href=\"/en/services/arrange-arrival/\">arrival and setup work</a>.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "School places, treatment and care before the move",
+      "body": "<p>For an English-speaking family, a bilingual school can ease the transition while children learn Spanish. NORTHLANDS, for example, has Olivos and Nordelta sites and asks overseas families to submit school reports and the application before arranging a visit or virtual meeting. Its school year runs broadly from February to December. The school's <a href=\"https://www.northlands.edu.ar/en/admissions/\">admissions information</a> is useful for planning the move around a real intake, not assuming a place is available.</p><p>Healthcare access depends on status, provider and payment. Decree 366/2025 preserves emergency care for foreigners and equal public-system access for permanent residents. For other routine treatment in facilities administered by the national state, it provides for health insurance or prior payment. This is a national-facility rule, not a statement that every provincial hospital operates identically. See <a href=\"https://www.boletinoficial.gob.ar/detalleAviso/primera/326096/20250529\">Article 3 of the decree</a>.</p><p>Choose cover alongside the hospital and specialists your family needs. For an older relative, confirm recurring prescriptions, access to the home, transport and the actual availability of daily help. We can organise the appointments and local arrangements as part of the move. The linked guides cover <a href=\"/en/knowledge/family-life-abroad/children-family/\">moving with children and relatives</a> and <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">connecting health insurance with treatment</a>.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Make your income spendable in Argentina",
+      "body": "<p>A qualifying income statement is only one part of the money plan. You need to receive funds, pay the agreed rent currency, withdraw pesos and settle a medical bill. The <a href=\"https://www.bcra.gob.ar/noticias/cuenta-bancaria-para-inmigrantes/\">central bank's immigrant-account guidance</a> describes a free peso savings account opened with a DNI or passport. Its scope is the peso account: international transfers and foreign-currency facilities need their own operational arrangements.</p><p>Bring a clear source-of-funds file, agree the receiving process and test a modest transfer before relying on it for your whole household. Keep <a href=\"/en/knowledge/assets-and-access/banking-payments/\">a separate usable payment method and recoverable access</a> to your banking applications. If your main UK or UAE account is frozen or closed, an untested account abroad will be of little help. Our <a href=\"/en/services/banking-liquidity/\">banking and liquidity preparation</a> connects the documentation, transfer route and practical access.</p><p>ARCA treats foreign nationals as tax residents after obtaining permanent residence. Without permanent residence, Article 116(b) provides a separate route after twelve months in Argentina under temporary immigration permissions. Temporary absences that meet the time limits and conditions set by the implementing regulations do not interrupt that period. Its <a href=\"https://www.afip.gob.ar/gananciasYBienes/ganancias/conceptos-basicos/residencia.asp\">tax-residence guidance</a> is a reason to plan pension, investment and business income before a longer stay. Article 1 of Argentina's <a href=\"https://servicios.infoleg.gob.ar/infolegInternet/anexos/330000-334999/332890/texact.htm\">Income Tax Law</a> subjects residents to tax on income from Argentina and abroad; non-residents are taxed only on Argentine-source income. Your UK or UAE position must be assessed alongside it. For an owner-managed business, arrange the authority to sign, client coverage and the lawful basis for work from Argentina before relocating the person who makes every decision.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Prepare the file in the country that issues each document",
+      "body": "<p>The rentista and pensioner procedures require identity, proof of address, lawful entry and criminal-record evidence. For applicants over sixteen, the foreign record covers countries where they lived for more than a year during the previous three years. A British family living in Dubai should therefore map residence history first, rather than ordering only British certificates.</p><ol><li>Confirm the route and identify the pension, asset-ownership and income records that prove it.</li><li>Obtain the required civil and police documents, with apostille or consular legalisation as appropriate to the issuing country.</li><li>Arrange Spanish translation by the required Argentine public translator and legalisation by the translators' college.</li><li>Coordinate the arrival address, RaDEX submission and personal appointment, keeping the evidence of lawful entry accessible.</li></ol><p>EXOBASIS <a href=\"/en/services/residence-documents/\">organises the document and residence preparation</a>, tracks what is outstanding and coordinates the local work. You receive a sequence you can follow without discovering a missing certificate after arrival.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep the residence and the home ready",
+      "body": "<p>Set renewal and absence reminders against the actual permit, and maintain the income evidence on which it depends. Keep bank contact details current and retain a reliable way to approve a transaction if your usual phone stops working. Tax filings and any obligations linked to owning or letting the home continue while you are abroad.</p><p>For a reserve property, specify who holds keys, how often it is inspected, who may authorise repairs and how bills reach you. Before a stay, arrange cleaning, working internet, water and electricity, and any medicines or mobility equipment. These are concrete tasks within <a href=\"/en/services/maintain-preparations/\">ongoing preparation and property care</a>, with the responsibilities agreed in advance.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Ask us to prepare your Argentina option",
+      "body": "<p>You can commission a defined part of the work or the connected preparation: compare locations, assemble the residence file, organise a rental or property purchase, arrange family appointments and get the home ready for arrival. We carry out the agreed coordination and organise the independent local legal, tax and property work the assignment needs.</p><p>If Argentina is one of several possibilities, our <a href=\"/en/services/country-location-selection/\">country and location selection</a> compares it against your income, family and absence pattern. <a href=\"/en/countries/uruguay/\">Uruguay</a> and <a href=\"/en/countries/chile/\">Chile</a> are useful alternatives to examine on those same criteria.</p><p><a href=\"/en/countries/uruguay/\">Uruguay</a> offers the same broad South American distance from Europe, but its immigration comparison is different: the official permanent-residence procedure is open to foreign nationals intending to settle, with identity, health, criminal-record and means-of-support evidence appropriate to the case. Assess the support you can document and actually receive there, alongside accommodation your household can use. That differs from Argentina's qualifying rentista or pensionado income, initial temporary status and RaDEX work on the ground. A residence application and a ready home are separate parts of either option.</p><p><a href=\"/en/countries/chile/\">Chile</a> also needs a region-by-region family decision. Compare its usual overseas temporary-residence application and subsequent residence-building period with Argentina's income-based route and in-country application. At the proposed Chilean address, assess earthquake exposure and, where relevant, tsunami or wildfire risk; identify the actual school, treatment provider and daily journeys before choosing a home. The useful comparison is which legal sequence and local arrangements will support your family, not which country has the simplest headline.</p><p><a href=\"/en/enquiry/\">Request your Argentina preparation</a> with the people involved, your present country, intended use and timing. If you are unsure where to begin, ask for a free 20-minute orientation. A clearly defined property, document or arrival task can be requested directly.</p><p>For a different question, use <a href=\"/en/enquiry/#contact-start\">Private enquiry</a>.</p>"
+    }
+  ],
+  "faq": {
+    "question": "Can I use my overseas salary for Argentina rentista residence?",
+    "answer": "The official rentista route excludes remuneration for personal work. It requires income from assets belonging to you, at least equivalent to five Argentine minimum wages, and entry of the funds through an authorised bank or financial institution. A pension has its own route. Start the preparation with the actual source of your income."
+  },
+  "editorialSources": [
+    "ar"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 918,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 920,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 921,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 922,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 923,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 924,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 925,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 926,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 927,
+      "target": "/de/laender/argentinien/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1437,
+      "target": "/en/countries/uruguay/",
+      "label": "Uruguay as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1439,
+      "target": "/en/countries/chile/",
+      "label": "Chile as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Moving to Argentina: a home your family can actually use"
+}

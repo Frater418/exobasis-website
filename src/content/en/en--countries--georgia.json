@@ -1,0 +1,215 @@
+{
+  "route": "/en/countries/georgia/",
+  "lang": "en",
+  "title": "Georgia as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/georgien/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-1c1d7a380ed2b9",
+      "startLine": 4404
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-3fcec8661dc007",
+      "startLine": 5723
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Moving to Georgia: residency, work and property | EXOBASIS",
+  "description": "Explore Georgia as a second home or family base: passport-specific entry, work rules, property purchase, schools, healthcare and practical preparation.",
+  "intro": "<p>Georgia can be an accessible place to spend time, establish a home or develop a business base. If you are moving from the UK or UAE, the right starting point is your passport, how you earn and what your family needs, not a headline about a year without a visa.</p><p>If your main concern is war involving Russia or the wider region, Georgia needs a different judgement from a distant South American option. Its occupied territories and regional exposure belong in the decision from the outset. EXOBASIS helps you make that choice and carries out the agreed residence, housing and practical preparation.</p>",
+  "countryContext": "/en/countries/georgia/",
+  "linkPlan": [
+    {
+      "sourceLine": 1378,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1380,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1381,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1382,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1383,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1384,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1385,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1386,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1387,
+      "target": "/de/laender/georgien/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1529,
+      "target": "/en/countries/paraguay/",
+      "label": "Paraguay as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1531,
+      "target": "/en/countries/portugal/",
+      "label": "Portugal as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "UK Foreign, Commonwealth & Development Office: Georgia regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/georgia/regional-risks",
+      "section": 2,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "Georgia Public Service Development Agency: residence permits",
+      "url": "https://sda.gov.ge/en/products/migration-residence-permits/",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Prepare my Georgia option",
+    "intent": "General enquiry"
+  },
+  "country": {
+    "name": "Georgia",
+    "slug": "georgien",
+    "region": "Other assessed options",
+    "map": "countries/georgien-locator.svg",
+    "imageAlt": "Map locating Georgia in the South Caucasus, east of the Black Sea.",
+    "caption": "Georgia in the South Caucasus. Consult the regional-risk guidance before selecting a location.",
+    "summary": [
+      [
+        "Passport and status matter",
+        "British and Emirati citizens differ from people relying on UAE residence."
+      ],
+      [
+        "Work needs its own permission",
+        "Visa-free entry is separate from the right to work or run a business."
+      ],
+      [
+        "Choose the base on its merits",
+        "Compare Tbilisi and Batumi with health, school and regional risk in view."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "What would Georgia need to do for you?",
+      "body": "<p>Georgia can serve different purposes: a second home close enough to maintain links with the Gulf, a working base with access to local services, or a lasting move with children. Each depends on lawful activity, a suitable home and money you can use. The same apartment will not solve every version of the problem.</p><p>A person exploring the country without working has a different task from an owner-manager intending to continue paid activity from Tbilisi. A family with a child in an examination year needs a school-led location decision. A person primarily seeking distance from a Russia-related war needs to decide whether Georgia's regional position meets that purpose at all.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "Regional risk comes before an easy-entry headline",
+      "body": "<p>The FCDO advises against all travel to the Russian-occupied regions of Abkhazia and South Ossetia, and against all but essential travel to areas immediately next to their administrative boundary lines. The lines can be unmarked. Property ownership in the occupied regions is also disputed. The <a href=\"https://www.gov.uk/foreign-travel-advice/georgia/regional-risks\">official regional-risk guidance</a> has direct consequences for where you travel and what you buy.</p><p>For a prepared refuge, select a usable location outside those areas and a travel plan that can adapt to route disruption. Keep an alternative destination in the departure plan if your concern is an escalation that could also affect the South Caucasus. Geographic convenience and distance from a particular threat are different criteria.</p><p>Prepare arrival accommodation, local payment access and the documents each family member will show at the border. A short visit to assess Georgia is a useful decision step; taking a long lease or buying a flat should follow the risk and residence decision.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Tbilisi or Batumi for everyday family life?",
+      "body": "<p>Tbilisi is the stronger starting point when specialist treatment and an English-language school are central to the move. The British International School of Tbilisi, for example, teaches its classes in English. Its <a href=\"https://bist.ge/\">school information and admissions access</a> provide a concrete starting point for a conversation about your child's year group, rather than evidence that a place is waiting.</p><p>Batumi offers a Black Sea setting, but choose it around a full year's life, not the experience of a summer visit. Confirm the actual school programme and medical providers before choosing the home. FCDO notes that medical facilities outside Tbilisi are limited, which matters if a relative needs specialist monitoring or rapid treatment.</p><p>Test the school run, grocery shopping, internet and the journey to the airport from the proposed address. Arrange language support for contracts and appointments where needed. Your partner's ability to manage an ordinary day independently is part of a successful family move.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Know which entry rule applies to your household",
+      "body": "<p>British citizens can visit Georgia without a visa for up to one year under the <a href=\"https://www.gov.uk/foreign-travel-advice/georgia/entry-requirements\">British-passport entry guidance</a>. The Georgian Embassy in the UAE states that Emirati citizens can also enter for one full year. Someone relying instead on a qualifying UAE visa or residence permit normally has a different allowance: ninety days in any 180-day period.</p><p>The <a href=\"https://uae.mfa.gov.ge/en/visa-information\">embassy's UAE-specific guidance</a> imposes additional conditions on citizens of Afghanistan, Bangladesh, Cameroon, Congo, Côte d'Ivoire, Ethiopia, Eritrea, Ghana, Morocco, Nigeria, Pakistan, Somalia, Sudan, Syria, Tanzania, Uganda and Yemen. For those listed cases, the qualifying UAE visa must be multiple-entry and the visa or residence permit must have at least one year's validity at entry. The embassy sets out the tourist-visa alternative when those conditions are not met.</p><p>Build the family's travel plan around the actual passport and supporting status of each person, including the validity of a UAE permit if you are leaving the Emirates. Keep a calendar for the applicable stay allowance. A new rental contract or a property purchase does not reset it.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Georgia residency and the current right to work",
+      "body": "<p>Georgia introduced its new right-to-work system in March 2026. The current <a href=\"https://matsne.gov.ge/en/document/view/2806732\">Law on Labour Migration</a> covers foreign employees and self-employed people within its scope. It also contains important exemptions. Article 1(4)(k) excludes work or services for a non-resident person when they relate to that person's activities outside Georgia. Permanent residents and specified permit holders have other exclusions. This makes your actual client, employer and activity decisive: local employment and qualifying overseas-client work are different cases.</p><p>For a labour immigrant covered by the right-to-work procedure, the permission is followed by the relevant immigration step. Someone abroad normally applies for the D1 visa within thirty calendar days after obtaining the right to work; a person already in Georgia normally applies for the work or IT residence permit within ten calendar days. The law specifies exceptions, including someone who already holds another qualifying residence permit. The exact activity and existing status determine the sequence.</p><p>Property can support a separate residence application. The Public Service Development Agency currently lists a short-term permit for ownership of non-agricultural real estate with a certified market value <strong>exceeding USD 150,000 equivalent in GEL</strong>, and for the holder's spouse and children. An accredited valuation, title and the other application documents are required. See the agency's <a href=\"https://sda.gov.ge/en/products/migration-residence-permits/\">residence-permit requirements</a>.</p><p>The entry basis also matters: the agency restricts most residence applications by people present only under another listed country's visa or residence permit. If you enter using UAE residence, establish the correct immigration route before relying on a purchase for Georgian residence.</p><h3>Decide what Georgia can realistically do for you</h3><div class=\"exb-criteria-table\" role=\"region\" tabindex=\"0\" aria-labelledby=\"georgia-use-caption\"><table><caption id=\"georgia-use-caption\">Georgia: rights, evidence and preparation for three different uses</caption><thead><tr><th scope=\"col\">Your intended use</th><th scope=\"col\">Rights you can use</th><th scope=\"col\">What you need to establish</th><th scope=\"col\">Work to put the option in place</th></tr></thead><tbody><tr><th scope=\"row\">A reserve base for a crisis</th><td>British and Emirati citizens have the one-year entry basis described above. A qualifying UAE visa or residence permit generally gives a different ninety-in-180-day allowance, with nationality-specific conditions. Neither is a reason to treat Georgia as suitable for every war scenario.</td><td>Confirm each person's passport, supporting UAE status where relevant, entry conditions and insurance. Test the location against the <a href=\"#contingency-return\">warnings for the occupied regions and nearby areas</a>. If your purpose is to get away from a Russia-related or wider European war, Georgia's regional exposure may rule it out.</td><td>Make the location decision before arranging accommodation, transport and payment access. Keep another destination if regional escalation could defeat the purpose of the reserve. A Georgian bank or business assignment can remain a separate decision from where your family should live or seek safety.</td></tr><tr><th scope=\"row\">A lasting family home</th><td>Plan around the residence basis each person actually has or can obtain, including the applicable family route. A visa-free stay is not an indefinite family status. Work and property routes retain their separate requirements above.</td><td>Establish the entry basis, lawful-stay evidence and the relevant family, income, work or property documents. A property case needs title and the certified qualifying market valuation, not just a purchase price. Check the restriction on subsequent applications when entry rests on a UAE visa or residence permit.</td><td>Arrange the application sequence before committing to a home. Confirm the actual school place and treatment arrangements, then compare Tbilisi and Batumi around those journeys and services. Coordinate the relevant legal or valuation work, family documents and renewals.</td></tr><tr><th scope=\"row\">A base used between trips</th><td>The passport or permit you rely on determines the stay allowance. Paid activity needs its own assessment under the March 2026 rules, including the specific overseas-client exception in Article 1(4)(k). That work-law exception does not decide the tax position.</td><td>Keep travel and status records, the real client/employer contracts and a description of where the work is performed. Check whether the right-to-work procedure applies and, if it does, the thirty-day D1 or ten-day residence follow-up and its exceptions. Recheck any UAE status supporting entry.</td><td>Coordinate work permission and the residence timetable before starting the activity. Assess tax residence and the source of the income separately, then maintain the home, payment access and renewal evidence between visits. A foreign payer or account does not settle the treatment of work performed in Georgia.</td></tr></tbody></table></div><p><a href=\"/en/enquiry/\">Ask us to prepare your Georgia residence or work assignment</a> around that sequence.</p><p>For a different question, start with a <a href=\"/en/enquiry/#contact-start\">private enquiry</a>.</p>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Rent first, or buy a property you can keep ready",
+      "body": "<h3>Inspect the building as well as the neighbourhood</h3><p>In Tbilisi, compare the exact school and clinic journeys before choosing a central apartment or a more distant family home. In Batumi, inspect ventilation, signs of damp, heating and the building's management arrangements. For either city, check water pressure, internet at the unit, lift operation and access for anyone with limited mobility. Earthquakes occur in Georgia; mountain routes also bring weather and road risks. A remote house needs a separate transport and maintenance plan.</p><h3>A rental contract for the way you will use the home</h3><p>A furnished first-arrival rental lets you inspect longer-term options without committing the whole household in advance. Match the landlord's identity and authority to the property record, then record the term, payment currency, utilities, inventory, repair responsibilities and termination conditions in a contract you understand. If you expect long absences, agree inspection access and who may use the property.</p><p>Under <a href=\"https://matsne.gov.ge/en/document/view/31702\">Civil Code Article 552</a>, tenancy security may not exceed three months' rent; where money is required in advance as security, it may be paid in equal monthly instalments over three months. Separate that security from rent and other agreed charges, and record how the property condition and deposit return will be assessed.</p><h3>Foreign ownership, title checks and the purchase service</h3><p>Foreign nationals can own property and non-agricultural land. Agricultural land is a separate legal category: the <a href=\"https://www.matsne.gov.ge/en/document/view/4596123\">Organic Law on Agricultural Land Ownership, Article 4</a> provides tightly defined exceptions, such as inheritance, rather than a general right for a foreign individual to buy a rural plot. Confirm the registered classification of a house's land, not just the description in an advertisement.</p><p>EXOBASIS can organise your buying brief, property search and viewings, then arrange an independent Georgian lawyer's title and purchase review. The Public Registry record, cadastral identity, owner, mortgages, restrictions and the seller's authority need to match the actual property. For a new development, add completion status, contractual delivery obligations and the specific unit you will acquire.</p><p>Civil Code Article 183 requires a written transaction and registration of the buyer's ownership in the Public Registry. We coordinate the agreed contract and closing work, registration follow-through and physical handover. Where residence is part of the purpose, the independent valuation and application requirements are dealt with before you commit to a purported qualifying property.</p><p>Budget for the property price, independent legal work, translation, any notarial or signature work, registration, any residence valuation, agency charges if agreed, and bank or currency-conversion costs. Building charges, insurance, utilities and maintenance continue after closing. Through <a href=\"/en/services/arrange-arrival/\">arrival and property setup</a>, we can arrange furnishing, keys, utility access, inspections and preparation before a stay.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Set up the school and treatment arrangements",
+      "body": "<p>For an English-medium school, send recent reports and discuss the child's learning needs, age placement, programme and proposed start date directly with admissions. Confirm the place and total family cost before signing a distant lease. For a child moving between different school calendars or qualifications, the transition is a distinct piece of the preparation.</p><p>Visitors must carry health and accident insurance for the full visit, including arrival and departure dates, with at least GEL 30,000 of cover under the <a href=\"https://www.gov.uk/foreign-travel-advice/georgia/entry-requirements\">current entry guidance</a>. The insurance may be Georgian or foreign. Keep accessible proof for the airline and border authorities.</p><p>That entry requirement is only the starting point for someone with an existing condition. The UK has no reciprocal healthcare agreement with Georgia, and treatment is paid for by you or the insurer. Tbilisi has medical facilities, while provision outside the capital is more limited. Confirm the receiving doctor, any pre-authorisation, payment process and transport or evacuation cover. Prescription medicines also need their own import check. The <a href=\"https://www.gov.uk/foreign-travel-advice/georgia/health\">official health guidance</a> distinguishes these issues.</p><p>For an older parent, establish who provides day-to-day help and what happens at night or when you are abroad. Our guides on <a href=\"/en/knowledge/family-life-abroad/children-family/\">moving with children and relatives</a> and <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">health cover and care</a> connect those decisions with the wider move.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Banking and tax: distinguish the location of the money from the work",
+      "body": "<p>TBC's <a href=\"https://nonresident.tbcbank.ge/\">non-resident account process</a> asks for a valid passport and a branch visit to finalise the account, with additional documents possible. Its <a href=\"https://www.tbcbank.ge/web/documents/10184/698675/%E1%83%93%E1%83%90%E1%83%9C%E1%83%90%E1%83%A0%E1%83%97%E1%83%98_2-632-1.pdf/e0a53a0e-692e-4b76-9fbe-38284df464b3\">published customer questionnaire</a> asks why you need the account, the countries and counterparties involved in transfers, and the source of your wealth. Prepare that explanation before sending a house deposit or a large business payment.</p><p>Test the account, card and transfer route, then <a href=\"/en/knowledge/assets-and-access/banking-payments/\">keep another payment method available</a>. Outside major towns, card acceptance and cash machines are less dependable; local spending is in Georgian lari. A Georgian account is useful when it works for the intended transaction, not simply because it exists. EXOBASIS can organise the records and operational preparation through <a href=\"/en/services/banking-liquidity/\">banking access and liquidity</a>.</p><p>For income tax, Article 34 of the <a href=\"https://matsne.gov.ge/en/document/view/1043717\">Georgian Tax Code</a> sets the general residence test at 183 or more days in a continuous twelve-month period ending in the tax year, with specific counting rules. Article 82 exempts a resident individual's income that is not Georgian-source. Article 104, however, includes employment in Georgia and services actually supplied there within Georgian-source income.</p><p>Payment by a UK client into a UAE account does not by itself make work carried out in Tbilisi foreign-source. Before moving an owner-managed business, organise the Georgian work, registration and tax position alongside the continuing UK or UAE obligations. That is a different exercise from comparing advertised small-business tax rates.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Prepare the sequence before the flight or purchase",
+      "body": "<p>Start with a passport-and-status review for every person. Decide whether the move is an exploratory stay, a work-based application, a family application or a property-linked application. That decision controls the entry basis and the documents you need to prepare.</p><ol><li>Resolve the immigration route and any right-to-work requirement before starting paid activity.</li><li>Gather the relevant civil, employment, business or property records, with the legalisation and Georgian translations required by the receiving authority.</li><li>Coordinate the arrival address, insurance and any valuation or professional appointments.</li><li>Submit within the applicable deadline and retain the issued documents and payment records.</li></ol><p>The agency's general rule is to apply at least forty calendar days before lawful stay expires, with expressly listed exceptions including the short-term property and IT permits. Work-related procedures have their own timing. We <a href=\"/en/services/residence-documents/\">organise the residence and document work</a> so that the intended sequence is settled before a home purchase or expired foreign permit makes it harder.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep the option usable between visits",
+      "body": "<p>Put each person's stay allowance, residence expiry and work permission in one calendar. For a property-linked residence, keep the qualifying ownership and renewal evidence in order. Maintain the required tax and business records for the activities you actually conduct. If your route depends on UAE status, a change there is a reason to reassess the Georgian entry basis before the next trip.</p><p>For a home left empty, agree inspections, ventilation or heating, utility payments, repair authority and a secure key handover. Test bank authentication and recovery access before changing phones or leaving the country. Through <a href=\"/en/services/maintain-preparations/\">ongoing preparation support</a>, we can coordinate those recurring tasks and the checks needed before you return.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Turn the Georgia decision into an organised assignment",
+      "body": "<p>You can ask EXOBASIS to compare Tbilisi and Batumi, organise the residence or work file, prepare a rental, manage the search and independent review for a purchase, or connect the full move with school, care and arrival. We carry out the agreed work and organise the relevant local legal, tax and property professionals for the assignment.</p><p>If regional exposure is the deciding concern, use <a href=\"/en/services/country-location-selection/\">country and location selection</a> before committing to Georgia.</p><p><a href=\"/en/countries/paraguay/\">Paraguay</a> offers an inland South American comparison. Assess the actual residence steps together with housing, schools and treatment reachable from the family region you would choose. Inland geography alone does not establish a safety ranking or a workable family base; the location and its usable services must answer the same household needs as the Georgian option.</p><p><a href=\"/en/countries/portugal/\">Portugal</a> is a different comparison if you want a European family home or a limited alternative to your present location. It remains in Europe, so it does not provide the geographical departure from the continent that a plan for a Europe-wide war may require. Start with any EU free-movement rights your household already has through citizenship or an applicable family relationship before considering additional third-country residence programmes. A British passport after Brexit or residence in the UAE does not create those rights by itself; another nationality or qualifying family situation can change the assessment. Compare the rights, school, care and housing arrangements your family can actually use, rather than treating Portugal and Georgia as interchangeable forms of refuge.</p><p><a href=\"/en/enquiry/\">Request your Georgia preparation</a> with your nationalities, current residence, intended work and household needs. A defined task can be commissioned directly. If you are unsure which task fits, ask for a free 20-minute orientation.</p><p>For a different question, use <a href=\"/en/enquiry/#contact-start\">Private enquiry</a>.</p>"
+    }
+  ],
+  "faq": {
+    "question": "Does a year of visa-free entry let me work in Georgia?",
+    "answer": "Visa-free entry and permission for a particular activity are separate. The labour-migration law covers foreign employees and self-employed people within its scope, but Article 1(4)(k) excludes qualifying work for a non-resident person relating to that person's activities outside Georgia. Local work, exempt overseas-client activity and tax obligations therefore need to be distinguished before you move."
+  },
+  "displayTitle": "Moving to Georgia: residence, work and a home that fits"
+}

@@ -1,0 +1,198 @@
+{
+  "route": "/de/laender/paraguay/",
+  "lang": "de",
+  "title": "Paraguay als persönliche Ausweichoption",
+  "parent": "/de/laender/",
+  "translation": "/en/countries/paraguay/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-562278779e284f"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-21f6742ce03581"
+    }
+  ],
+  "eyebrow": "Dein Plan B / Länder",
+  "seoTitle": "Auswandern nach Paraguay: Aufenthalt, Wohnen, Familie | EXOBASIS",
+  "description": "Paraguay als zweiten Wohnsitz oder Familienbasis vorbereiten: Aufenthalt, Mieten, Hauskauf, Schulen und Geldzugang. Mit konkreter Umsetzung durch EXOBASIS.",
+  "intro": "<p>Du willst im Fall von Krieg, politischem Druck oder einem Verlust deiner persönlichen Freiheit einen Ort haben, an dem deine Familie weiterleben kann. Paraguay schafft geografischen Abstand zu Europa. Ob daraus ein brauchbarer zweiter Wohnsitz wird, entscheidet sich an deinem Aufenthaltsweg, einer erreichbaren Wohnung und dem Alltag vor Ort.</p><p>Hier findest du die Unterschiede zwischen vorbereiteter Reserve und dauerhaftem Auswandern nach Paraguay: von der ersten Einreise über den Immobilienkauf bis zu Schule, Behandlung und laufendem Einkommen. EXOBASIS übernimmt daraus die Vorbereitung, die du konkret beauftragst.</p>",
+  "primary": {
+    "label": "Vorbereitung für Paraguay anfragen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "countryContext": "/de/laender/paraguay/",
+  "country": {
+    "name": "Paraguay",
+    "slug": "paraguay",
+    "region": "Südamerika",
+    "map": "countries/paraguay-locator.svg",
+    "imageAlt": "Paraguay auf der Karte Südamerikas, zwischen Bolivien, Brasilien und Argentinien",
+    "caption": "Paraguay: Binnenland im Herzen Südamerikas.",
+    "summary": [
+      [
+        "Aufenthalt in Stufen",
+        "Regulär zuerst bis zu zwei Jahre Residencia Temporal, danach eigener Antrag auf Daueraufenthalt."
+      ],
+      [
+        "Alltag vor Grundstück",
+        "Schule und medizinische Erreichbarkeit bestimmen, welche Wohnregion zu deiner Familie passt."
+      ],
+      [
+        "Nutzbare Reserve",
+        "Wohnung, Zahlungswege und Betreuung werden vor der späteren Ankunft eingerichtet."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "ausgangslage",
+      "title": "Paraguay als zweiter Wohnsitz oder neues Zuhause",
+      "body": "<p>Paraguay passt zu Menschen, die bewusst außerhalb Europas leben oder dort eine vorbereitete Option halten wollen und bereit sind, sich auf spanischsprachige Behörden und einen anderen Versorgungsalltag einzulassen. Eine abgelegene Immobilie und ein Aufenthaltstitel lösen dabei unterschiedliche Aufgaben: Das eine bindet Kapital, das andere regelt deinen Aufenthalt. Für eine Familie müssen beide zur tatsächlichen Nutzung passen.</p><ul><li><strong>Vorbereiteter Zufluchtsort:</strong> Du richtest einen legal nutzbaren Aufenthaltsweg, eine verfügbare Unterkunft und die Ankunft ein, während dein bisheriger Lebensmittelpunkt zunächst bestehen bleibt.</li><li><strong>Zweiter Wohnsitz:</strong> Du hältst dich regelmäßig im Land auf. Vertragslaufzeiten, Statusfristen und die Betreuung während deiner Abwesenheit bestimmen den Aufwand.</li><li><strong>Dauerhaft auswandern:</strong> Du verlagerst den Alltag. Dann geben Unterricht, Behandlung, Einkommen und Sprache den Ausschlag für die Wohnadresse.</li></ul><p>Gerade wenn du mit Kindern oder älteren Angehörigen gehst, ist die gut erreichbare Wohnung oft der bessere Anfang als ein großes Grundstück fern der benötigten Einrichtungen.</p>"
+    },
+    {
+      "id": "krisenbasis-rueckkehr",
+      "title": "Abstand zu Europa braucht einen rechtzeitig vorbereiteten Reiseweg",
+      "body": "<p>Paraguay ist ein Binnenland. Für eine Ankunft aus DACH planst du die gesamte Verbindung bis zur Unterkunft, einschließlich Umstieg, Einreise und Abholung. Eine südamerikanische Adresse hilft dir dann, wenn du sie rechtzeitig erreichen kannst. Deshalb gehören eine Erkundungsreise und notwendige Behördentermine in die Vorbereitung, bevor Kriegssorge zu akutem Zeitdruck wird.</p><p>Beim Wohnort zählt auch das örtliche Risiko. Das Auswärtige Amt rät aktuell von nicht notwendigen Reisen in mehrere Grenzgebiete zu Brasilien und weitere ausdrücklich bezeichnete Regionen ab. Bewaffnete Kriminalität, Überschwemmungen in der Regenzeit sowie Busch- und Waldbrände sind reale Auswahlkriterien. Eine sichere Zufahrt, gute Entwässerung und erreichbare Hilfe wiegen mehr als ein besonders niedriger Grundstückspreis.</p><p>Für eine vorübergehende Nutzung halten wir auch die Rückkehr praktisch offen: gültige Dokumente, erreichbare Kontaktpersonen, weiterlaufende Verpflichtungen und eine geregelte Wohnungsübergabe.</p><p class=\"exb-source-note\"><a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/paraguaysicherheit-224964\" rel=\"noreferrer\">Auswärtiges Amt: Paraguay, Sicherheit und Naturgefahren</a> <span>Abruf: 26.09.2026</span></p><p>Wenn dich eine mögliche Einberufung oder ein Ausreisehindernis beschäftigt, gehört die Klärung deiner persönlichen Pflichten in den Herkunftsfall. Der Länderplan verbindet das Ergebnis mit einem rechtzeitig nutzbaren Weg für deine Familie. <a href=\"/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/\">So vergleichst du Ausweichorte und Reisewege im Kriegsfall.</a></p>"
+    },
+    {
+      "id": "familienzukunft",
+      "title": "Mit Kindern nach Paraguay: den Alltag zuerst erproben",
+      "body": "<p>Eine Familienentscheidung fällt nicht im Büro der Migrationsbehörde. Probiere während der Erkundung den Schulweg zur üblichen Uhrzeit aus, besuche die benötigte medizinische Einrichtung und verbringe mehrere normale Arbeitstage am möglichen Wohnort. So wird sichtbar, ob der Ort auch außerhalb einer Urlaubsreise zu euch passt.</p><p>Asunción und sein Umland sind ein sinnvoller Ausgangspunkt, wenn internationale Schulen, fachärztliche Versorgung und Behördentermine zusammenkommen. Für ein ruhigeres Wohnumfeld kannst du etwa San Bernardino vergleichen; dabei bleibt die Fahrt zu den tatsächlich benötigten Einrichtungen Teil der Entscheidung. Encarnación ist eine eigenständige südliche Alternative. Eine dortige Schule oder Behandlung muss für eure konkrete Situation passen, bevor die Entfernung zur Hauptstadt nebensächlich wird.</p><p>EXOBASIS organisiert die Erkundung entlang eurer wirklichen Anforderungen: Unterrichtssprache und Klassenstufe, Behandlungsbedarf, Arbeitsplatz und Wohnform. Du erhältst einen begründeten Standortvergleich und kannst die anschließende Suche direkt beauftragen.</p>"
+    },
+    {
+      "id": "mobile-nutzung",
+      "title": "Eine Reservewohnung, die auch nach Monaten bereit ist",
+      "body": "<p>Wenn du nur zeitweise in Paraguay lebst, vereinbare ausdrücklich, wer während deiner Abwesenheit Zugang zur Wohnung hat und was kontrolliert wird. Bei einem Haus gehören Dach, Wasser, Klimageräte, Ungeziefer, Einbruchschutz und die Versorgung dazu. Bei einer Wohnung ersetzt die Gebäudeverwaltung nicht automatisch die Kontrolle innerhalb deiner eigenen Räume.</p><p>Eine möblierte Übergangsunterkunft lässt dir für die Erkundung Bewegungsfreiheit. Eine dauerhaft für dich gehaltene Mietwohnung bietet verlässlichere Verfügbarkeit, verursacht aber auch in leeren Monaten Kosten. Beim eigenen Haus kommen Instandhaltung, Versicherungsbedingungen und örtliche Betreuung hinzu. Eine saisonal vermietete Immobilie steht dir dagegen nur zu den vertraglich freigehaltenen Zeiten zur Verfügung.</p><p>Deine Aufenthaltsakte läuft parallel weiter. Persönliche Anträge und Termine werden mit deinen Reisezeiten abgestimmt; vereinbarte Vertretung übernimmt die Nachverfolgung, nicht deine vorgeschriebene persönliche Anwesenheit. Bei mehr als einem fortlaufenden Jahr unberechtigter Abwesenheit mit temporärem Status beziehungsweise mehr als drei Jahren mit permanentem Status kann die DNM die Aufenthaltsgenehmigung durch begründeten Bescheid aufheben; sie erlischt dadurch nicht automatisch. Für einen längeren begründeten Auslandsaufenthalt kannst du vorher eine Genehmigung beantragen.</p><p class=\"exb-source-note\"><a href=\"https://migraciones.gov.py/migraciones-recuerda-las-causales-de-cancelacion-de-residencia-a-extranjeros-por-ausencia-injustificada-del-pais/\" rel=\"noreferrer\">DNM: Abwesenheit bei temporärem und permanentem Aufenthalt</a> <span>Abruf: 05.10.2026</span></p>"
+    },
+    {
+      "id": "rechte-programme",
+      "title": "Aufenthaltserlaubnis in Paraguay: Einreise, Temporal und Daueraufenthalt",
+      "body": "<h3>Für die Erkundungsreise</h3><p>Die amtliche Visatabelle 2026 nennt für deutsche, österreichische und Schweizer Staatsangehörige touristische Aufenthalte bis zu 90 Tagen ohne Visum. Für eine Verlängerung, Residenz oder Erwerbstätigkeit unterscheidet sie jedoch: Bei Deutschland und Österreich weist sie eine Visumpflicht aus; für Schweizer nennt sie eine Befreiung für Verlängerung und Residenzantrag. Deshalb wird die Visumfrage vor der Antragsreise anhand deines Passes und Vorhabens mit dem zuständigen Konsulat geklärt.</p><p class=\"exb-source-note\"><a href=\"https://migraciones.gov.py/wp-content/uploads/2026/01/ACUERDOS-DE-SUPRESION-DE-VISAS-2026.pdf\" rel=\"noreferrer\">Paraguays Migrationsbehörde: Visabefreiungsabkommen 2026</a> <span>Abruf: 26.09.2026</span></p><h3>Der reguläre Aufenthaltsweg</h3><p>Die <strong>Residencia Temporal</strong> nach Gesetz 6984/2022 gilt bis zu zwei Jahre und kann um denselben Zeitraum verlängert werden. Im regulären Verfahren geht sie dem Daueraufenthalt voraus. Während der Bearbeitung beschreibt die Behörde den Status <em>residente precario</em>, der für seine Gültigkeitsdauer Arbeit, Studium sowie Aus- und Wiedereinreise ermöglicht. Mit der erteilten temporären Residenz besteht Zugang zur paraguayischen Cédula mit entsprechender Gültigkeitsdauer.</p><p>Für die spätere <strong>Residencia Permanente</strong> verlangt die Behörde einen eigenen Antrag und belegbare wirtschaftliche Mittel. Das reguläre Antragsfenster liegt in den drei Monaten vor Ablauf der temporären Karte. Die unbefristete Aufenthaltsberechtigung und die Karte sind zu unterscheiden: Die permanente Karte wird alle zehn Jahre erneuert. Ein Immobilienkauf gehört nicht zu den allgemeinen Voraussetzungen dieses regulären Verfahrens.</p><p>Die Behörde nennt derzeit 2.926.925 PYG als Gebühr für die temporäre Residenz und denselben Betrag für den späteren Kategorienwechsel (Abruf 26.09.2026). Urkunden, Übersetzungen, Beglaubigungen, Reisen und beauftragte Arbeit kommen gesondert hinzu.</p><p class=\"exb-source-note\"><a href=\"https://migraciones.gov.py/residencia-temporal/\" rel=\"noreferrer\">Dirección Nacional de Migraciones: Residencia Temporal</a> <span>Abruf: 26.09.2026</span></p><p class=\"exb-source-note\"><a href=\"https://migraciones.gov.py/residencia-permanente-para-el-cambio-de-categoria-de-residente-temporal/\" rel=\"noreferrer\">Dirección Nacional de Migraciones: Kategorienwechsel zur Residencia Permanente</a> <span>Abruf: 26.09.2026</span></p><div class=\"exb-criteria-table\" role=\"region\" tabindex=\"0\" aria-labelledby=\"paraguay-nutzungen-caption\"><table><caption id=\"paraguay-nutzungen-caption\">Paraguay: Rechte und Vorbereitung für deine geplante Nutzung</caption><thead><tr><th scope=\"col\">Nutzung</th><th scope=\"col\">Passendes Aufenthaltsrecht</th><th scope=\"col\">Nachweise und persönliche Vorbereitung</th><th scope=\"col\">Was EXOBASIS auf Auftrag erledigt</th></tr></thead><tbody><tr><th scope=\"row\">Krisenreserve / kurzfristig vorbereitete Zuflucht</th><td>Für einen begrenzten Besuch gilt bei deutschem, österreichischem oder Schweizer Pass die oben belegte visafreie Frist bis 90 Tage. Wer länger bleiben oder vor Ort arbeiten will, bereitet den passenden Aufenthaltsweg vor; eine bereits erteilte gültige Residenz ist etwas anderes als ein geplanter Antrag.</td><td>Halte Pässe und erforderliche Familienunterlagen bereit. Für eine spätere Antragsreise beschaffst du Geburts-/Personenstandsurkunden und die fallbezogenen Strafregisterbelege mit Apostille oder Legalisierung und Übersetzung. Die Visumfrage für DE/AT beziehungsweise CH wird vor dieser Reise geklärt; persönliche Antragstermine brauchen Vorlauf.</td><td>Wir organisieren die passbezogene Dokumentenvorbereitung und nötige persönliche Termine sowie eine verfügbare Unterkunft mit Schlüsselübergabe und Ankunftsweg. So steht fest, was vor einer Reise erledigt sein muss und was erst vor Ort erfolgen kann.</td></tr><tr><th scope=\"row\">Dauerhafte Familienbasis</th><td>Für den regulären Aufbau folgt auf den persönlichen Antrag zunächst die Temporal. Während ihrer Bearbeitung gelten die zeitlich begrenzten Precario-Rechte; die Cédula folgt der erteilten temporären Residenz. Daueraufenthalt erfordert später den eigenen Kategorienwechsel mit nachgewiesenen wirtschaftlichen Mitteln.</td><td>Plane die persönlichen Termine aller Antragsteller und die Akte je Familienmitglied. Bei Kindern gehört die erforderliche Zustimmung zum Wohnen in Paraguay dazu. Den laufenden Unterhalt organisiert ihr von Beginn an; für den späteren Dauerantrag werden Einkommen oder tatsächlich verfügbare Mittel passend zur Erwerbs-/Familiensituation belegt.</td><td>Wir koordinieren Urkunden, Fachübersetzungen und Termine mit eurer Reise. Wohnungssuche, Schul- und Versorgungsabklärung richten wir auf den tatsächlichen Familienalltag aus. Den späteren Kategorienwechsel können wir mit Fristen und Nachweisen vorbereiten.</td></tr><tr><th scope=\"row\">Mobile Nutzung</th><td>Kurze Besuche bleiben an das Besuchsrecht gebunden. Mit erteilter Temporal oder Permanente planst du dagegen auch deren Erhalt: Mehr als ein fortlaufendes Jahr unberechtigte Abwesenheit temporär beziehungsweise mehr als drei Jahre permanent können zur begründeten behördlichen Aufhebung führen, nicht zum automatischen Verlust.</td><td>Stimme Reisen mit Kartenlaufzeit, persönlichen Terminen und Kategorienwechsel ab. Halte Ein-/Ausreisen und die jeweils benötigten Nachweise nachvollziehbar fest. Bei länger begründeter Abwesenheit beantragst du die Genehmigung vor Überschreitung der betreffenden Frist.</td><td>Wir führen auf Auftrag den Termin- und Nachweisplan, koordinieren die zulässige Verfahrensnachverfolgung und halten die Unterkunft für die nächste Ankunft bereit. Vorgeschriebene persönliche Termine nimmst du selbst wahr.</td></tr></tbody></table></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fparaguay%2F#kurzanfrage\">Vorbereitung für Paraguay anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+    },
+    {
+      "id": "regionen-wohnen",
+      "title": "In Paraguay mieten oder ein Haus kaufen",
+      "body": "<h3>Erst ankommen, dann langfristig binden</h3><p>Für die erste Reise ist eine möblierte Wohnung mit nachvollziehbarem Vermieter, verlässlicher Internetverbindung und fest vereinbarter Übergabe zweckmäßig. Für längeres Wohnen hält der Mietvertrag Nutzung, Laufzeit, Kündigung, Miete, Nebenkosten, Kaution und Rückgabe fest. Die lokale Praxis unterscheidet eine Geldkaution von einer zusätzlichen persönlichen Bürgschaft oder anderen Mietsicherheit. Welche Sicherheit der Vermieter annimmt, wird vor einer Reservierungszahlung vereinbart.</p><p>Das Übergabeprotokoll erfasst Inventar, Schäden, Zähler und Schlüssel. Schreibe auch fest, wer Reparaturen bezahlt und wann die Kaution zurückkommt. Ein ausländischer Einkommensnachweis sollte dem Vermieter früh vorliegen, damit die Sicherheitsfrage nicht erst bei der Unterschrift auftaucht.</p><p class=\"exb-source-note\"><a href=\"https://www.zuba.com.py/blog/garantias-de-alquiler/\" rel=\"noreferrer\">Zuba: lokale Praxis zu Mietkaution und Bürgschaft</a> <span>Abruf: 26.09.2026</span></p><h3>Kaufrecht und unabhängige Prüfung</h3><p>Ausländische Investoren erhalten nach Gesetz 117/91 grundsätzlich dieselben Rechte und Pflichten wie inländische. Die oft pauschal erwähnte 50-Kilometer-Grenzzone ist genauer zu unterscheiden: Das dortige Verbot, Eigentum, Miteigentum oder Nießbrauch an ländlichen Grundstücken zu erwerben, betrifft nach Gesetz 2532 Staatsangehörige der Nachbarländer und Gesellschaften mit mehrheitlicher Beteiligung solcher Staatsangehörigen, sofern keine Genehmigung per Dekret vorliegt. Artikel 3 in der durch Gesetz 2647 geänderten Fassung nimmt Nachbarstaatsangehörige mit dauerhafter Niederlassung in Paraguay (radicación permanente), nachweislich schon vor Inkrafttreten erworbene Rechte sowie Erbfälle aus; geschützt bleiben auch vor Inkrafttreten bestellte Belastungen zugunsten der im Gesetz bezeichneten natürlichen Personen und Gesellschaften. Es ist kein allgemeines Kaufverbot für jeden deutschen, österreichischen oder Schweizer Käufer. Bei mehreren Staatsangehörigkeiten oder einem Erwerb über eine Gesellschaft muss die Käuferstruktur in die Prüfung.</p><p class=\"exb-source-note\"><a href=\"https://www.bacn.gov.py/leyes-paraguayas/785/ley-n-117-de-inversiones\" rel=\"noreferrer\">BACN: Investitionsgesetz 117/91, Artikel 2 und 5</a> <span>Abruf: 26.09.2026</span></p><p class=\"exb-source-note\"><a href=\"https://www.bacn.gov.py/leyes-paraguayas/4025/ley-n-2532\" rel=\"noreferrer\">BACN: Gesetz 2532, Grenzzone und erfasste Erwerber</a> <span>Abruf: 26.09.2026</span></p><p class=\"exb-source-note\"><a href=\"https://www.bacn.gov.py/leyes-paraguayas/4202/ley-n-2647-modifica-el-articulo-3-de-la-ley-n-2532-del-17-de-febrero-de-2005-que-establece-la-zona-de-seguridad-fronteriza-de-la-republica-del-paraguay-br\" rel=\"noreferrer\">BACN: Gesetz 2647, Ausnahmen zur Grenzzonenregel</a> <span>Abruf: 26.09.2026</span></p><p>Bevor du eine Anzahlung bindest, lässt du durch einen unabhängig beauftragten paraguayischen Escribano Eigentümer, Verfügungsbefugnis, Belastungen und Grundstücksidentität prüfen. Register- und Katasterangaben werden mit Fläche, Grenzen, Zufahrt und tatsächlicher Bebauung abgeglichen. Das aktuelle RUN-System führt dafür unter anderem den <em>Certificado Catastral Registral Inmobiliario</em> und Registerauskünfte. Bei einem Landprojekt gehören auch Nutzungsrechte, Erschließung und die rechtlich gesicherte Zufahrt in die Akte.</p><p>Zum Kaufbudget gehören neben dem Preis die notariellen Arbeiten, Register- und Katasterleistungen, gegebenenfalls Vermessung, fällige Abgaben und eine vereinbarte Vermittlungsvergütung. Die Beträge werden am konkreten Objekt beziffert. EXOBASIS übernimmt auf Auftrag Suchprofil, Objektsuche und Besichtigungen, organisiert die unabhängige Kaufprüfung und koordiniert Vertrag, Abschluss, Übergabe und spätere Betreuung.</p><p class=\"exb-source-note\"><a href=\"https://www.dgrp.gov.py/edgrp_apk/formularios_registrales_run.php\" rel=\"noreferrer\">RUN: aktuelle Register- und Katasterformulare</a> <span>Abruf: 26.09.2026</span></p><p><a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Wohnungssuche, Immobilienkauf und Ankunft organisieren</a></p>"
+    },
+    {
+      "id": "schule-gesundheit-pflege",
+      "title": "Internationale Schulen, Behandlung und Pflege",
+      "body": "<h3>Schule mit passender Sprache und Aufnahme</h3><p>Bei der Suche nach internationalen Schulen in Paraguay ist das Colegio Goethe in Asunción eine konkrete deutschsprachige Anlaufstelle. Die Schule beschreibt Deutsch ab dem Kindergarten, einzelne deutschsprachige Sachfächer sowie Guaraní und später Englisch. Das ist ein eigenes mehrsprachiges Schulmodell. Für dein Kind werden Klassenstufe, bisheriger Lehrplan, Sprachstand, Aufnahmeverfahren und Schulweg miteinander abgeglichen.</p><p>Reserviere die langfristige Wohnung erst, wenn der gewünschte Schulweg realistisch und die Aufnahme mit der Schule geklärt ist. Zeugnisse und Personenstandsurkunden gehören in die Vorbereitung; eine Platzanfrage ist etwas anderes als eine bestätigte Einschreibung.</p><p class=\"exb-source-note\"><a href=\"https://goethe.edu.py/idiomas/\" rel=\"noreferrer\">Colegio Goethe: Sprachen und Unterricht</a> <span>Abruf: 26.09.2026</span></p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a></p><h3>Die benötigte Behandlung am Wohnort</h3><p>Das Auswärtige Amt beschreibt außerhalb Asuncións, besonders im ländlichen Raum, deutliche Grenzen der medizinischen und Notfallversorgung. Wenn jemand regelmäßig Fachbehandlung braucht, beginnt die Standortwahl bei dieser Leistung: verfügbare Praxis oder Klinik, zuständiger Arzt, Medikamente, Transport und Abrechnung.</p><p>Eine Krankenversicherung muss längeren Aufenthalt und die benötigten Leistungen abdecken; zusätzlich braucht es eine Einrichtung, die diese Leistung erbringt und den Kostenweg akzeptiert. Bei Pflegebedarf organisieren wir konkrete Unterstützung, Vertretung bei Ausfall und eine erreichbare Behandlung, bevor die Unterkunft feststeht. Befunde, Wirkstoffnamen und Hilfsmittelbedarf werden dafür in verständlicher Form bereitgestellt.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und tatsächliche Versorgung verbinden</a></p><p class=\"exb-source-note\"><a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/paraguaysicherheit-224964\" rel=\"noreferrer\">Auswärtiges Amt: medizinische Versorgung in Paraguay</a> <span>Abruf: 26.09.2026</span></p>"
+    },
+    {
+      "id": "einkommen-geld-arbeit",
+      "title": "Geldzugang und Arbeit: was vor der Verlagerung funktionieren muss",
+      "body": "<p>Die Cédula ist für bestimmte Bankprodukte ein wichtiger Zugang, ersetzt aber keine Produktprüfung. Itaú Paraguay nennt für sein digitales Light-Konto eine gültige paraguayische Cédula und Identitätsprüfung; das Produkt hat ein monatliches Bewegungslimit. Für höhere Limits und andere Konten werden Einkommensnachweise verlangt. Eine Kontolösung für Lebenshaltung ist deshalb nicht automatisch für einen Hauskauf oder größere Vermögenstransfers geeignet.</p><p class=\"exb-source-note\"><a href=\"https://www.itau.com.py/cuentadigital\" rel=\"noreferrer\">Itaú Paraguay: Kontoeröffnung, Limits und Einkommensnachweise</a> <span>Abruf: 26.09.2026</span></p><p>Bereite nachvollziehbare Mittelherkunft und den vorgesehenen Zahlungszweck vor. Teste Überweisung, Kartenzahlung und Wiederzugang bei Verlust des Telefons, bevor du dich auf den Weg verlässt. Für die Ankunft sollte ein zweiter bereits nutzbarer Zahlungsweg bereitstehen, falls eine Bankverbindung ausfällt.</p><p>Mit <a href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität vorbereiten</a> koordiniert EXOBASIS die Unterlagen für dein konkret gewähltes Konto, einschließlich der Cédula, soweit das Produkt sie verlangt, und der Mittelherkunft. Wir organisieren die praktische Zahlungsprüfung und einen zweiten nutzbaren Zahlweg für deine Ankunft und laufenden Ausgaben.</p><p>Auch beim Einkommen zählt, wo die Arbeit tatsächlich stattfindet. Die paraguayische Steuerverwaltung erläutert für IT-Dienstleistungen: Der aus Paraguay erbrachte Anteil erfüllt grundsätzlich den paraguayischen Quellenbezug für die persönliche Einkommensteuer, selbst wenn der Kunde im Ausland sitzt. Auslandsrechnung und ausländisches Konto machen Arbeit aus Paraguay nicht steuerfrei. Registrierung, Abrechnung und die fortbestehenden Pflichten im bisherigen Wohnland werden vor der Verlagerung abgestimmt.</p><p class=\"exb-source-note\"><a href=\"https://www.dnit.gov.py/documents/20123/215475/IVA+e+IRP+RSP+-+Prestaci%C3%B3n+de+servicios+en+el+exterior+como+ingeniero+inform%C3%A1tico.pdf/43f843f6-3b17-64f1-1bef-61c89f4aeb2d?t=1683049013908\" rel=\"noreferrer\">DNIT: Quellenbezug bei IT-Dienstleistungen aus Paraguay</a> <span>Abruf: 26.09.2026</span></p><p><a class=\"exb-text-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Zahlungsfähig bleiben, wenn ein Konto ausfällt</a></p>"
+    },
+    {
+      "id": "dokumente-vorlauf",
+      "title": "Welche Papiere du für Paraguay vorbereitest",
+      "body": "<p>Die reguläre Aufenthaltsakte umfasst unter anderem gültige Identitätspapiere, Einreisenachweis, Geburtsurkunde, gegebenenfalls Heirats- oder andere Personenstandsurkunden sowie die verlangten Strafregisterauskünfte. Ab 14 Jahren nennt die Behörde grundsätzlich entsprechende Nachweise. Wer vorher in anderen Ländern gelebt hat, muss diese Aufenthalte bei der Beschaffung berücksichtigen.</p><p>Ausländische Urkunden benötigen die anerkannte Apostille oder Legalisierung und, wo verlangt, eine zulässige spanische Übersetzung. Die Antragstellung ist persönlich. Für Kinder verlangt die Behörde die Mitwirkung der Eltern; bei nur einem anwesenden Elternteil braucht es die ausdrücklich auf das Wohnen in Paraguay bezogene Zustimmung oder die entsprechende gerichtliche Grundlage.</p><p>EXOBASIS ordnet die Unterlagen je Person, organisiert Beschaffung und Fachbearbeitung und stimmt die gültigen Nachweise mit den persönlichen Terminen ab. So reist du mit einer verwendbaren Akte statt mit einer Sammlung ungeprüfter Scans.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt in Paraguay vorbereiten</a></p>"
+    },
+    {
+      "id": "laufende-pflichten",
+      "title": "Aufenthalt und Wohnung einsatzbereit halten",
+      "body": "<p>Für deine Reserve halten wir getrennt fest, wann der Aufenthaltstitel und die Cédula ablaufen, wann der Kategorienwechsel ansteht und welche Aufgaben an der Unterkunft fällig sind. Beim Daueraufenthalt zählt außerdem der Nachweis realer Mittel: Ein Berufsabschluss allein reicht der Behörde in der entsprechenden Kategorie nicht als Einkommensbeleg.</p><p>Zur vereinbarten Betreuung können Fristenkontrolle, Kontaktpflege, Wohnungsprüfung, Reparaturkoordination und die Vorbereitung deiner nächsten Ankunft gehören. Du weißt, wer die Schlüssel hat, wie ein Problem gemeldet wird und welcher Handgriff vor deiner Anreise erledigt sein muss.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Deine vorbereitete Basis aktuell halten</a></p>"
+    },
+    {
+      "id": "konkrete-vorbereitung",
+      "title": "Deine Paraguay-Vorbereitung beauftragen",
+      "body": "<p>Du kannst mit einer klaren Teilaufgabe beginnen: Aufenthaltsunterlagen vorbereiten, eine Familienregion auswählen, eine Wohnung finden oder den Immobilienkauf organisieren. Ebenso kann EXOBASIS die zusammenhängende Vorbereitung führen und die erforderliche örtliche Fachausführung in deinen Auftrag einbinden.</p><p>Beim Kauf reicht die Arbeit vom Standort- und Suchprofil über Besichtigungen und unabhängig organisierte Titelprüfung bis zur Abschlusskoordination, Übergabe und Betreuung. Bei einem Mietstart steht die nutzbare Ankunft im Mittelpunkt: bestätigte Unterkunft, Schlüssel, Versorgung und die ersten Termine.</p><p>Beschreibe uns, wer mitkommen soll, welche Nutzung du planst und was bereits erledigt ist. Daraus vereinbaren wir Umfang, Kosten und nächste Schritte. Wenn du noch nicht weißt, welche Leistung zu deiner Situation passt, nutze die kostenlose 20-Minuten-Orientierung.</p><p><a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Paraguay mit passenden Standortoptionen vergleichen</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fparaguay%2F#kurzanfrage\">Vorbereitung für Paraguay anfragen</a><p>Du kannst eine konkrete Teilaufgabe direkt anfragen. Persönliche Unterlagen besprechen wir erst im geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div><div class=\"exb-country-comparisons\"><h3>Zwei andere Antworten auf dieselbe Frage</h3><article><p><a class=\"exb-text-link\" href=\"/de/laender/uruguay/\">Uruguay als persönliche Ausweichoption</a></p><p>Uruguay: Vergleiche den dortigen Aufenthaltsweg und die konkrete Familienversorgung mit deiner paraguayischen Binnenlandoption.</p></article><article><p><a class=\"exb-text-link\" href=\"/de/laender/chile/\">Chile als persönliche Ausweichoption</a></p><p>Chile: Prüfe eine andere südamerikanische Aufenthaltsfolge und regionale Bedingungen einschließlich örtlicher Naturgefahren.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Brauche ich einen Hauskauf, um nach Paraguay auszuwandern?",
+    "answer": "Für die reguläre Residencia Temporal gehört ein Immobilienkauf nicht zu den allgemeinen Voraussetzungen. Du kannst zunächst mieten. Entscheidend sind der passende Visum- und Aufenthaltsweg, vollständige Unterlagen und später die Voraussetzungen für den Kategorienwechsel. Ein Kauf wird sinnvoll, wenn Wohnort, Titel und laufende Betreuung zu deiner tatsächlichen Nutzung passen."
+  },
+  "editorialSources": [
+    "py",
+    "pyp"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 888,
+      "target": "/de/laender/",
+      "label": "Länder und Möglichkeiten",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 890,
+      "target": "/de/leistungen/laender-standortauswahl/",
+      "label": "Passende Länder und Standortoptionen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 891,
+      "target": "/de/leistungen/dokumente-aufenthalt/",
+      "label": "Dokumente und Aufenthalt vorbereiten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 892,
+      "target": "/de/leistungen/ankunft-organisieren/",
+      "label": "Ankunft im Zielland organisieren",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 893,
+      "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+      "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 894,
+      "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+      "label": "Krankenversicherung und Versorgung im Ausland",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 895,
+      "target": "/de/leistungen/vorbereitung-betreuen/",
+      "label": "Vorbereitung prüfen und aktuell halten",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 896,
+      "target": "/de/anfrage/",
+      "label": "Diskrete Anfrage",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 897,
+      "target": "/en/countries/paraguay/",
+      "label": "English",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1432,
+      "target": "/de/laender/uruguay/",
+      "label": "Uruguay als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1434,
+      "target": "/de/laender/chile/",
+      "label": "Chile als persönliche Ausweichoption",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Auswandern nach Paraguay: eine Basis, die deine Familie trägt"
+}

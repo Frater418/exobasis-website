@@ -1,0 +1,197 @@
+{
+  "route": "/en/countries/chile/",
+  "lang": "en",
+  "title": "Chile as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/chile/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-a6d5e3f5ccc446"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-bda511dad020a1"
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Moving to Chile: residency, homes and family life | EXOBASIS",
+  "description": "Moving to Chile from the UK or UAE? Understand residency, renting and buying property, schools, healthcare and money access. Prepare the move with EXOBASIS.",
+  "intro": "<p>Chile can give your family substantial distance from a war in Europe and room to build a different life. For a lasting move, the critical first step often happens before you arrive: choosing a residence category and applying from abroad.</p><p>Then the choice becomes local. A family home in Santiago, a coastal base near Viña del Mar and a property in the south have different implications for school, treatment, travel and natural hazards. EXOBASIS connects the legal preparation with the home and daily arrangements you will actually need.</p>",
+  "primary": {
+    "label": "Prepare my Chile move",
+    "intent": "General enquiry"
+  },
+  "countryContext": "/en/countries/chile/",
+  "country": {
+    "name": "Chile",
+    "slug": "chile",
+    "region": "South America",
+    "map": "countries/chile-locator.svg",
+    "imageAlt": "Map showing Chile along the Pacific coast of South America.",
+    "caption": "Chile: a long Pacific coastline with the Andes to the east.",
+    "summary": [
+      [
+        "Apply in the right sequence",
+        "Many temporary residence routes begin outside Chile."
+      ],
+      [
+        "Choose the place around daily life",
+        "School, treatment and natural hazards belong in the housing decision."
+      ],
+      [
+        "Plan for a lasting status",
+        "Time abroad affects the path to permanent residence."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "Chile for a reserve base or a permanent move?",
+      "body": "<p>If you want somewhere to go if war, repression or a deteriorating situation makes home unacceptable, a prepared address in Chile can be part of your departure plan. If you want your children to grow up there, the work is broader: legal residence, school places, healthcare and the income to sustain the household.</p><p>Chile is worth considering for families ready to establish a real routine rather than simply collect a permit. An occasional second home remains possible as a different project. Your expected time in the country matters because residence progression is affected by absences. Start with that intended use and your income source, then choose the route and the region.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "A first arrival that does not depend on improvisation",
+      "body": "<p>British citizen passport holders may visit Chile for up to 90 days without a visa. Keep the tourist card issued by immigration for departure. Longer stays and work require the appropriate permission, as set out in the <a href=\"https://www.gov.uk/foreign-travel-advice/chile/entry-requirements\">British-passport entry guidance</a>. Living in the UAE does not make every member of a household eligible under the British rule: assess each passport separately.</p><p>For a contingency base, prepare the long-haul itinerary, transit requirements and a first address you are entitled to occupy. Organise the airport transfer before travelling; official guidance warns about taxi scams at Santiago airport. Keep enough accessible funds for accommodation and treatment while local arrangements are being completed.</p><p>A scouting visit can test a neighbourhood and gather practical answers. It should not become a rushed permanent move on the assumption that tourist status can simply be converted after arrival.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Let the school and treatment needs shape the address",
+      "body": "<p>Santiago is a sensible starting point if your family needs a broad choice of schools and specialist medicine. Providencia, Las Condes and Vitacura are different living propositions, not interchangeable labels for an expatriate area. Compare the daily journey to the actual school, clinic and workplace. A house that requires lengthy cross-city travel can make an otherwise attractive move exhausting.</p><p>The <a href=\"https://www.gov.uk/guidance/living-in-chile-guidance\">UK government's living-in-Chile guidance</a> also identifies Viña del Mar and Concepción among the centres with private, international and British schools. They merit a separate comparison when coastal or regional life matters more than being in the capital.</p><p>Before committing, secure a realistic admissions route and discuss any recurring treatment with the receiving clinician. For a partner working with UK or UAE clients, test the working day alongside the children's routine. Your family's language transition and support network deserve as much attention as the residence application.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "How absences change the longer-term residence plan",
+      "body": "<p>For temporary residence applications made after 14 May 2022, SERMIG's standard permanent-residence pathway starts at 24 months of temporary residence. Its absence table increases that minimum to 30 months after more than two and up to six months away, 36 months after more than six and up to twelve months away, and 48 months after more than twelve months away. Up to two months away corresponds to the standard 24-month period. Separate personal circumstances may shorten or extend the requirement.</p><p>Under Article 79 of the migration law and Article 66 of its regulations, SERMIG may reduce the minimum to twelve months for relevant personal circumstances, including family ties to Chilean citizens or permanent residents, or available income from assets or a pension. This is a possible reduction assessed for the individual case, not an automatic entitlement for every retiree.</p><p>A dependant can apply without serving a separate minimum residence period once the principal holder has completed the period required for their temporary-residence subcategory, provided the principal's permit expressly allows an application for permanent residence. The principal does not need to have already been granted permanent residence for this exception.</p><p>Once permanent residence is granted, a continuous absence of more than two years can cause its loss. SERMIG describes a one-time consular extension requested in the last sixty days before that limit. The <a href=\"https://serviciomigraciones.cl/residencia-definitiva/\">official permanent-residence guidance</a> explains both rules.</p><p>This makes a rarely used reserve property a different choice from a family home occupied most of the year. Plan the immigration calendar and property management separately, then make sure both fit the way you intend to live.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Chile residency: choose the route before travelling",
+      "body": "<p>Chile's <a href=\"https://serviciomigraciones.cl/residencia-temporal/\">temporary residence system</a> covers different purposes, including paid activity, family reunification, study, investment, retirement and income from assets. Most permits are issued for up to two years. A visitor already in Chile generally cannot apply to change to residence from within the country, apart from the specified exceptions, such as certain family, dependent and humanitarian cases.</p><p>The <a href=\"https://serviciomigraciones.cl/residencia-temporal/subcategorias/jubilados-y-rentistas/\">retiree and rentista category</a> must be applied for from abroad. A pensioner provides evidence of the pension and its latest payment. A rentista demonstrates regular income from real estate or financial assets, including ownership and the income those assets produce. The income must support the applicant's basic needs under the official criteria; the source does not publish a single universal dollar threshold.</p><p>A working salary is a different starting point from rent or investment income. Match employment or entrepreneurial activity to the relevant category and prepare the family applications at the same time. Dependants' permission is linked to the principal holder's status. Once an overseas application is approved and the electronic permit downloaded, the published entry window is ninety calendar days.</p><h3>Match the residence route to the way you will use Chile</h3><div class=\"exb-criteria-table\" role=\"region\" tabindex=\"0\" aria-labelledby=\"chile-use-caption\"><table><caption id=\"chile-use-caption\">Chile: rights, evidence and preparation for three ways of living</caption><thead><tr><th scope=\"col\">Your intended use</th><th scope=\"col\">Rights you can use</th><th scope=\"col\">What you need to establish</th><th scope=\"col\">Work to put the option in place</th></tr></thead><tbody><tr><th scope=\"row\">A reserve base for a crisis</th><td>A British-citizen passport allows a visit of up to ninety days under the entry guidance above. Other passports need their own entry check. That temporary access is different from permission to settle or work.</td><td>Check each traveller's passport and any required entry permission, then prepare usable accommodation, travel documents and accessible funds. If the intended stay requires residence or work permission, establish the category and overseas application before relying on the base.</td><td>Arrange the journey and transit checks, first accommodation, payment access and any immediate treatment. Decide what happens when the visit allowance ends. A prepared home must fit the permission you actually hold, rather than depend on a tourist-to-resident switch after a crisis departure.</td></tr><tr><th scope=\"row\">A lasting family home</th><td>An appropriate temporary-residence category supports the move; each relative needs their own or qualifying dependent status. Pension, asset income and paid work lead to different application evidence. Permanent residence is a later stage of the family's plan.</td><td>Gather the principal applicant's pension and payment records, asset ownership and income evidence, or employment/activity documents as appropriate. Add the relevant family, identity and police records for each application, with the required legalisation and translation.</td><td>Sequence the overseas applications and ninety-day entry window before the household moves. Coordinate school acceptance, treatment and a suitable home around that timetable, then maintain the status and evidence needed for the later residence application.</td></tr><tr><th scope=\"row\">A base used between trips</th><td>Your actual visitor or residence status sets the starting point. For the covered temporary-residence cases, absences affect the progression to permanent residence. The separate loss rule applies only after permanent residence has been granted.</td><td>Keep permit, income and travel records together. Use the full <a href=\"#mobile-use\">24-, 30-, 36- and 48-month absence-based residence schedule</a> above. After permanent residence, track the separate two-year continuous-absence limit and the one-time consular extension window in the last sixty days.</td><td>Fit travel, renewals and any later application to the status calendar. Organise keys, inspections and recurring bills while away, and assess work and tax obligations for the activity actually carried out in Chile. Occasional property use and a lasting residence plan need different arrangements.</td></tr></tbody></table></div><p>If your route is already clear, <a href=\"/en/enquiry/\">request the Chile document and residence work directly</a>. We organise the preparation around the applicable category and the move date.</p><p>For a different question, start with a <a href=\"/en/enquiry/#contact-start\">private enquiry</a>.</p>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Renting or buying a home in Chile",
+      "body": "<h3>Compare the location with the risks you will live with</h3><p>Santiago suits an initial base built around appointments and specialist services. Viña del Mar offers a coastal alternative, while Concepción provides a further regional school option. If you prefer the south, assess the actual road access, heating, weather and travel to the hospital you would use. A remote plot requires a different plan from an occupied city apartment.</p><p>Chile's earthquake exposure belongs in every property assessment. Along the coast, locate the tsunami evacuation route before choosing a home; wildfire and heavy-rain exposure also depend on the exact address. Building condition, exits and a family evacuation meeting point are practical purchase criteria. Use the <a href=\"https://www.gov.uk/foreign-travel-advice/chile/safety-and-security\">Chile safety guidance</a> and local emergency information when inspecting the area.</p><h3>Get the tenancy agreed before moving the family</h3><p>A furnished first-arrival rental gives you time to view longer-term homes in person. For a normal lease, landlords or managers commonly request identity, proof of income and financial-history documents, and may ask for a guarantor or joint debtor. Local manager <a href=\"https://blog.assetplan.cl/arriendo/arrendatarios/que-papeles-se-necesitan-para-un-contrato-de-arriendo\">Assetplan describes its rental-document practice</a>. These are market screening requirements, not a single immigration rule.</p><p>A newcomer without Chilean payslips should agree what overseas evidence the landlord will accept before paying. Record the deposit, rent currency or adjustment mechanism, common charges, utilities, inventory, notice and early-exit terms. <a href=\"https://www.sii.cl/contribuyentes/contribuyentes_individuales/chilenos_extranjero/rol_unico_tributario.htm\">SII confirms that a tourist's ordinary rental can use a passport</a>; the property manager's acceptance process remains a separate step.</p><h3>Foreign purchase: tax identifier, title and completion</h3><p>A foreign tourist can purchase property after obtaining a Chilean RUT. For investment, SII requires a representative domiciled and resident in Chile to handle the relevant tax obligations and obtain the RUT online. Its <a href=\"https://www.sii.cl/preguntas_frecuentes/rut_inicio_actividades/001_105_2105.htm\">foreign-buyer guidance</a> distinguishes this purchase process from immigration residence. A home purchase does not itself grant a residence permit.</p><p>Commission an independent Chilean lawyer to examine the title before signing a binding promise or releasing substantial money. The relevant Conservador de Bienes Raíces holds the ownership record. The Santiago registry's <a href=\"https://conservador.cl/tramites-en-linea/propiedad-hipotecas-prohibiciones/carpeta-estudio-titulos\">title-study file</a> combines the current ownership entry, encumbrances and prohibitions, and references to earlier titles. The review also needs the seller's authority, debts, permitted use, building approvals and any restrictions specific to the land or buyer.</p><p>Land close to a border or the coast needs a more specific review. Article 6 of <a href=\"https://www.bcn.cl/leychile/navegar?idNorma=6778\">Decree Law 1,939</a> restricts access to state-owned land near borders and the coast, with defined exceptions. Article 7 separately restricts nationals of neighbouring countries from acquiring or holding rights in designated border zones without authorisation. A UAE address does not erase an Argentine, Bolivian or Peruvian passport for that rule; nor is it a blanket ban on British or Emirati buyers.</p><p>EXOBASIS can organise the property brief, search, viewings, independent purchase review, notarial and closing coordination, registration follow-through and handover. Budget separately for legal work, notarial and registry charges, any agency fee, financing costs and applicable taxes, then for common charges, insurance and upkeep. We arrange keys, utilities, furnishing and an agreed caretaker through <a href=\"/en/services/arrange-arrival/\">arrival and home setup</a>. If the home will stand empty, decide who can authorise an urgent repair and prepare it before each visit.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "School access and healthcare in Chile",
+      "body": "<p>A child without a Chilean RUN can obtain an Identificador Provisorio Escolar, or IPE, to participate in the education system. A parent without a RUN can obtain an IPA for the school-admissions process. The <a href=\"https://www.ayudamineduc.cl/ficha/solicitud-de-identificador-provisorio-escolar-ipe-e-identificador-provisorio-de-apoderado-ipa\">Ministry of Education explains the documents and uses</a>: identity and entry records, access to admissions and recognition of earlier studies. The IPE supports educational access while the family's immigration matters are dealt with separately.</p><p>For private or international schooling, obtain the school's own admission decision, fees and start date. With an older child, compare the receiving programme with the qualifications they are already working towards. Our <a href=\"/en/knowledge/family-life-abroad/children-family/\">family-move guidance</a> connects school preparation with travel consent and the documents for everyone moving.</p><p>Chile has good medical facilities in Santiago and other major cities, but private treatment can be expensive. There is no reciprocal UK healthcare agreement. People working in Chile must choose the applicable public Fonasa or private Isapre arrangement even if they also hold international insurance, according to the <a href=\"https://www.gov.uk/guidance/living-in-chile-guidance#healthcare-in-chile\">official living guidance</a>.</p><p>A policy and a receiving clinician do different jobs. Send medical summaries in advance, confirm cover for existing conditions and arrange how treatment will be paid for. For an older relative, add home access, transport and actual care availability. Use <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">health-cover and care preparation</a> to connect those decisions.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "A usable bank account and the real tax position",
+      "body": "<p>A Chilean tax number for a property purchase is not the same as the identity document a bank requires. BancoEstado's <a href=\"https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/productos-/cuentas/cuentarut.html\">CuentaRUT requirements</a> specify a valid Chilean national identity card for Chilean and foreign applicants. The product does not require income or commercial-history evidence. Plan how you will pay during the period before your resident identity and account arrangements are ready.</p><p>Keep <a href=\"/en/knowledge/assets-and-access/banking-payments/\">a tested international card and a separate payment route</a> for the initial months, document the source of a large incoming transfer and confirm how rent, school and medical bills will be paid. If you are leaving the UAE, settle the future status of the accounts you intend to keep before changing your residence details. Our <a href=\"/en/services/banking-liquidity/\">banking and liquidity preparation</a> covers the operational work.</p><p>SII states that a foreigner domiciled or resident in Chile is normally taxed only on Chilean-source income during the first three years of their stay; afterwards, domestic and foreign-source income fall within the ordinary scope. See its <a href=\"https://www.sii.cl/preguntas_frecuentes/declaracion_renta/001_140_1219.htm\">foreign-resident tax guidance</a>. This is not three years free of tax. Work performed from Chile needs a source-of-income assessment even if the customer and paying account are abroad. Arrange the Chilean and departure-country tax work together before moving the business owner's daily activity.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Time the documents around the overseas application",
+      "body": "<p>SERMIG's general overseas application requirements include a passport with at least one year's validity, criminal-record evidence and the documents for the chosen category. Public documents are generally to be submitted within sixty days of issue and private documents within thirty days, unless the document specifies a different validity. Foreign documents need apostille or legalisation; documents in languages other than Spanish or English require the specified official translation.</p><p>Those short document windows make the sequence important. Agree the category first, then obtain the income, civil and police records close enough to submission to remain usable. A family that has lived in the UK and UAE needs to map the relevant residence history for criminal-record evidence, rather than ordering one convenient certificate.</p><p>We <a href=\"/en/services/residence-documents/\">organise the Chile residence file</a>, coordinate legalisation and translation, and track the application steps, approval and entry deadline. School and housing dates are then built around the legal timetable.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Maintain the status, the payments and the home",
+      "body": "<p>Temporary-residence renewal is requested within the published window of no more than ninety and no fewer than ten days before expiry. Keep evidence supporting the category current and retain a travel-day record if permanent residence is your aim. After permanent residence is granted, keep the separate absence limit visible in the family calendar.</p><p>Owning an empty home still involves common charges, utility accounts, maintenance and any property-tax obligations. A caretaker needs a written inspection schedule, a spending limit and a way to reach you. After an earthquake or severe weather, an inspection may be needed before the next planned visit. <a href=\"/en/services/maintain-preparations/\">Ongoing preparation support</a> can connect those property tasks with document and residence deadlines.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Commission the Chile preparation you need",
+      "body": "<p>Ask EXOBASIS to organise a specific task or the complete connected move: select the region, assemble the overseas residence application, arrange a rental or purchase, coordinate school and treatment enquiries, and prepare the first weeks on the ground. Independent local lawyers, tax advisers and property professionals perform the specialist work organised for your assignment.</p><p>If the country choice is still open, <a href=\"/en/services/country-location-selection/\">compare locations around your family's requirements</a>.</p><p><a href=\"/en/countries/argentina/\">Argentina</a> brings the source and continuing evidence of your income into focus: the rentista and pensionado paths depend on the relevant asset income or pension, not merely a savings balance. For a lasting family home, compare the temporary status, renewals and later residence step for your household with Chile's overseas application and residence-building timetable. The useful comparison is whether your income evidence and intended time in the country support the whole sequence.</p><p><a href=\"/en/countries/paraguay/\">Paraguay</a> is an inland option to assess through both the actual residence steps and the family region you would choose. Identify the school, treating clinician or hospital, journey times and practical housing options there. A marketed residence package does not answer where your family can live or receive treatment. Compare those arrangements with the Chilean location and application timetable before choosing the country.</p><p><a href=\"/en/enquiry/\">Request your Chile preparation</a> with your nationalities, present country, household and intended timing. If you are unsure which work comes first, use the free 20-minute orientation. You can request an already defined residence, property or arrival assignment directly.</p><p>For a different question, use <a href=\"/en/enquiry/#contact-start\">Private enquiry</a>.</p>"
+    }
+  ],
+  "faq": {
+    "question": "Can I arrive as a tourist and apply for Chilean residence afterwards?",
+    "answer": "Most temporary residence routes start with an application from outside Chile. SERMIG lists specific exceptions for applications made inside the country. The pensioner and rentista route expressly requires an overseas application, so establish the category before committing to a permanent move."
+  },
+  "editorialSources": [
+    "cl"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 938,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 940,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 941,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 942,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 943,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 944,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 945,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 946,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 947,
+      "target": "/de/laender/chile/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1441,
+      "target": "/en/countries/argentina/",
+      "label": "Argentina as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1443,
+      "target": "/en/countries/paraguay/",
+      "label": "Paraguay as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "displayTitle": "Moving to Chile: prepare a lasting home for your family"
+}

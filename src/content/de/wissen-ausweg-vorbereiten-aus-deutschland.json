@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+  "lang": "de",
+  "title": "Aus Deutschland einen Ausweg vorbereiten",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-87126136cea236"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-541b2d50853869"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-770b74d19817c3"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "EXOBASIS Wissen",
+  "seoTitle": "Auswandern aus Deutschland vorbereiten | EXOBASIS",
+  "description": "Wohnsitz abmelden, Steuerbindungen verstehen und Familie, Unterlagen sowie Ankunft organisieren. Die richtige Reihenfolge für deinen Wegzug.",
+  "intro": "<p>Du willst Deutschland verlassen können, bevor Krieg, persönliche Bedrohung oder eine andere Entwicklung deine Entscheidungen enger machen. Vielleicht bereitest du zunächst einen zweiten Wohnort vor. Vielleicht steht der dauerhafte Wegzug bereits fest. Davon hängt ab, welche Bindungen du erhältst und welche du tatsächlich beendest.</p><p>Auswandern aus Deutschland betrifft mehr als die Abmeldung. Entscheidend ist, dass dein Aufenthaltsrecht am Ziel, die Versorgung deiner Familie und deine Handlungsfähigkeit mit den deutschen Behörden-, Steuer- und Vertragsaufgaben zusammenpassen.</p>",
+  "primary": {
+    "label": "Wegzug aus Deutschland vorbereiten lassen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Deutschland verlassen und handlungsfähig bleiben",
+    "facts": [
+      [
+        "Ausgangslage",
+        "Heutiger Wohnsitz und persönliche Rechte"
+      ],
+      [
+        "Reihenfolge",
+        "Ziel und Versorgung vor endgültigen Kündigungen"
+      ],
+      [
+        "Durchführung",
+        "Unterlagen, Termine, Vertretung und Ankunft"
+      ]
+    ],
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Karte und Kompass als Symbol für die persönliche Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Wohnsitz in Deutschland und Reiserechte sind zwei Fragen",
+      "body": "<p>Diese Seite setzt bei deinem tatsächlichen Leben in Deutschland an. Ob du deutscher Staatsbürger bist, einen anderen EU-Pass besitzt oder mit einem deutschen Aufenthaltstitel hier lebst, verändert deinen Auslandsweg. Für jedes Familienmitglied zählen der eigene Pass, vorhandene Aufenthaltstitel und die Rechte im Transit- und Zielland.</p><p>Ein deutscher Aufenthaltstitel ist nicht mit einer deutschen Staatsangehörigkeit gleichzusetzen. Bevor du einen längeren Auslandsaufenthalt planst, kläre mit der Ausländerbehörde außerdem, unter welchen Voraussetzungen dein bestehender Titel bei Ausreise und längerer Abwesenheit fortbesteht. Das ist besonders wichtig, wenn die Rückkehr Teil deines Plans bleiben soll.</p><p>Halte zuerst fest, ob du nur eine vorbereitete Außenbasis einrichtest, zeitweise dort lebst oder deinen Lebensmittelpunkt verlegst. Eine einsatzbereite Unterkunft im Ausland verlangt andere Entscheidungen als die vollständige Aufgabe deiner deutschen Wohnung.</p>",
+      "after": "<div class=\"exb-origin-alternatives\"><h3>Anderer heutiger Wohnsitz</h3><p>Diese Seiten behandeln andere Ausgangslagen. Sie sind keine Übersetzungen dieses Beitrags.</p><div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-oesterreich/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-oesterreich/\"><span>Aus Österreich einen Ausweg vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-schweiz/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-schweiz/\"><span>Wegzug aus der Schweiz vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uk/\" data-route=\"/en/knowledge/prepare-your-way-out/leaving-uk/\"><span>Leaving the UK with a prepared alternative (English)</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\" data-route=\"/en/knowledge/prepare-your-way-out/leaving-uae/\"><span>Leaving the UAE or preparing a second option (English)</span><span aria-hidden=\"true\">→</span></a></div></div>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Wohnsitz abmelden: Maßgeblich ist der tatsächliche Auszug",
+      "body": "<p>Wenn du aus deiner Wohnung ausziehst und keine neue Wohnung in Deutschland beziehst, musst du dich innerhalb von zwei Wochen nach dem Auszug bei der Meldebehörde abmelden. Frühestens eine Woche vor dem Auszug kannst du die Abmeldung vornehmen; das Register wird zum Auszugsdatum fortgeschrieben. <a href=\"https://www.gesetze-im-internet.de/bmg/__17.html\">§ 17 Absatz 2 Bundesmeldegesetz</a></p><p>Eine vorbereitende Reise oder die bloße Absicht auszuwandern löst diese Abmeldepflicht noch nicht aus. Plane den Behördentermin anhand der tatsächlichen Wohnungsaufgabe und bewahre die Abmeldebestätigung so auf, dass du sie auch vom Ausland aus vorlegen kannst.</p><p>Verbinde die Meldung mit einer verlässlichen Zustelladresse und einem Auftrag für die verbleibende Post. Finanzamt, Versicherer, Banken und Vertragspartner müssen dich weiterhin erreichen können. Prüfe ihre jeweiligen Änderungsverfahren vor dem Wegzug: Eine neue Adresse allein löst weder Vertragskündigungen noch geänderte Steuerangaben aus.</p>"
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Steuern und Betrieb vor dem Auszugsdatum ordnen",
+      "body": "<p>Die Abmeldebestätigung entscheidet nicht über deinen steuerlichen Wohnsitz. Nach § 8 Abgabenordnung kommt es darauf an, ob du eine Wohnung unter Umständen innehast, die auf Beibehalten und Benutzen schließen lassen. Ein für dich weiter verfügbares Zuhause kann deshalb steuerlich wichtig bleiben. <a href=\"https://www.gesetze-im-internet.de/ao_1977/__8.html\">§ 8 Abgabenordnung</a></p><p>Lege deiner Steuerberatung den tatsächlichen Wohnplan vor: verfügbare Wohnungen, Aufenthalte, Familie, Arbeit, Beteiligungen und Vermögenswerte. Wenn du Anteile an einer Kapitalgesellschaft oder größere Fondspositionen hältst, muss die mögliche Wegzugsbesteuerung vor der Entscheidung über Zeitpunkt und Ziel geklärt sein. Das gilt auch dann, wenn beim Umzug kein Verkaufserlös entsteht.</p><p>Für einen laufenden Betrieb braucht es zusätzlich einen arbeitsfähigen Vertreter, Zahlungsbefugnisse und einen Plan für die Geschäftsleitung. Wer Angebote freigibt, Verträge abschließt oder Mitarbeiter führt, kann rechtliche Anknüpfungen am neuen Arbeitsort schaffen. Sorge dafür, dass Steuerentscheidung und praktische Unternehmensfortführung denselben Umzug abbilden.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\" data-route=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\"><span>Wegzug, Steuern und Unternehmenspflichten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/auslandsgesellschaft/\" data-route=\"/de/leistungen/auslandsgesellschaft/\"><span>Auslandsgesellschaft und laufende Verwaltung organisieren</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Jede Person braucht passende Dokumente und Befugnisse",
+      "body": "<p>Stelle die Unterlagen nach Personen zusammen: Reisedokument, Aufenthaltstitel, erforderliche Personenstandsurkunden, Versicherungsnachweis und wichtige medizinische Informationen. Für Kinder kommen Sorge- und gegebenenfalls Einwilligungsnachweise hinzu. Unterschiedliche Pässe innerhalb einer Familie können unterschiedliche Einreise- und Transitverfahren auslösen.</p><p>Für Urkunden zählt, was die empfangende Stelle tatsächlich verlangt. Besorge die passende Fassung, Übersetzung und gegebenenfalls Apostille oder Legalisation für den benannten Verwendungszweck. Ein möglichst großer Stapel beglaubigter Kopien ersetzt diese Zuordnung nicht.</p><p>Lege zugleich fest, wer während deiner Abwesenheit handeln darf: bei Bank, Immobilie, Unternehmen und medizinischen Entscheidungen. Teste den Zugriff auf den Notfallordner ohne dein Haupttelefon. Eine Familie, die den Ordner öffnen kann, aber keine akzeptierte Vollmacht besitzt, steckt sonst an der nächsten Stelle fest.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\" data-route=\"/de/wissen/familie-alltag/kinder-angehoerige/\"><span>Mit Kindern und Angehörigen vorbereitet gehen</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/dokumente-aufenthalt/\" data-route=\"/de/leistungen/dokumente-aufenthalt/\"><span>Dokumente und Aufenthalt vorbereiten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Die Ankunft sichern, bevor du die bisherigen Strukturen aufgibst",
+      "body": "<p>Für die ersten Wochen ist eine möblierte, verbindlich verfügbare Unterkunft oft eine sinnvolle Zwischenlösung. Du gewinnst Zeit, den Alltag am Ziel zu erproben und eine langfristige Miete oder einen Immobilienkauf passend zu Schule, Versorgung und Arbeitsort auszuwählen. Kläre Vertragsbeginn, Kaution, Kündigung, Nebenkosten und die tatsächliche Schlüsselübergabe.</p><p>Wenn eine eigene Immobilie zu deiner Außenbasis gehört, folgt auf die Standortentscheidung ein konkreter Suchauftrag. EXOBASIS kann Besichtigungen, die unabhängige lokale Titel- und Kaufprüfung, Vertrags- und Abschlusskoordination sowie Übergabe und Betreuung organisieren. Erwerbsrechte und Kaufkosten richten sich nach dem jeweiligen Zielland.</p><p>Auch das Zurückbleibende benötigt einen Verantwortlichen. Für die deutsche Immobilie gehören Schlüssel, Post, Wartung, Versicherungsbedingungen bei Leerstand und eine Entscheidungsvollmacht in die Übergabe. Für den Rückweg hältst du fest, welche Unterkunft, Krankenversorgung und Dokumente dann verfügbar sein müssen.</p><p>Als deutscher Staatsangehöriger kannst du dich vor der Reise in der <a href=\"https://www.auswaertiges-amt.de/de/reiseundsicherheit/elefand\">Krisenvorsorgeliste ELEFAND</a> registrieren und Aufenthaltsorte sowie erreichbare Kontakte hinterlegen. Mitreisende nichtdeutsche Familienmitglieder desselben Haushalts können als Begleitpersonen erfasst werden. Damit kann die Auslandsvertretung euch in einer Krise erreichen; Transport, Unterkunft und Versorgung werden daneben konkret vorbereitet.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\" data-route=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\"><span>Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/laender/\" data-route=\"/de/laender/\"><span>Länder und Möglichkeiten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Deinen Wegzug als zusammenhängenden Auftrag umsetzen",
+      "body": "<p>EXOBASIS verbindet die deutschen Ausgangsaufgaben mit der Vorbereitung am Ziel. Wir ordnen Personen, Rechte, Unterlagen und Termine, organisieren die erforderliche Fachausführung und übernehmen die vereinbarten Vorbereitungs- und Einrichtungsarbeiten.</p><p>Du kannst den gesamten Weg vorbereiten lassen oder eine klar benannte Arbeit direkt beauftragen, etwa Dokumentenbeschaffung, Wohnraumsuche oder die Einrichtung von Vertretung und Wiederzugang. Für deine Anfrage genügen der heutige Wohnsitz, die beteiligten Personen, ein mögliches Ziel und dein Zeitrahmen.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/flucht-notfallplan/\" data-route=\"/de/leistungen/flucht-notfallplan/\"><span>Persönlicher Flucht- und Notfallplan</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Wohnsitz, Staatsangehörigkeit und bestehende Rechte"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Abmeldung und tatsächlichen Wegzug abstimmen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Steuern und laufenden Betrieb gesondert ordnen"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Unterlagen und Familie handlungsfähig vorbereiten"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Zielrechte, Ankunft und Rückweg zusammenbringen"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Deinen Wegzug als zusammenhängenden Auftrag organisieren"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 1408,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+        "label": "Aus Österreich einen Ausweg vorbereiten",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1409,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+        "label": "Wegzug aus der Schweiz vorbereiten",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1410,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+        "label": "Leaving the UK with a prepared alternative (English)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 1411,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+        "label": "Leaving the UAE or preparing a second option (English)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 403,
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 406,
+        "target": "/de/leistungen/auslandsgesellschaft/",
+        "label": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 405,
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 408,
+        "target": "/de/leistungen/dokumente-aufenthalt/",
+        "label": "Dokumente und Aufenthalt vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 404,
+        "target": "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/",
+        "label": "Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 409,
+        "target": "/de/laender/",
+        "label": "Länder und Möglichkeiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 407,
+        "target": "/de/leistungen/flucht-notfallplan/",
+        "label": "Persönlicher Flucht- und Notfallplan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 410,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-6"
+      }
+    ],
+    "seeding": [
+      "D18",
+      "D19"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "departureContext": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+  "displayTitle": "Auswandern aus Deutschland: den Wegzug vorbereiten"
+}

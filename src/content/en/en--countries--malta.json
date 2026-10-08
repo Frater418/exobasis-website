@@ -1,0 +1,295 @@
+{
+  "route": "/en/countries/malta/",
+  "lang": "en",
+  "title": "Malta as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/malta/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-1c9650012bf6ef",
+      "startLine": 8133
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-52e5c59d438a21",
+      "startLine": 10400
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Moving to Malta: residency, property and family life | EXOBASIS",
+  "description": "Plan a move to Malta with the right residence route, rental or property purchase, school and healthcare arrangements. Practical preparation for your family.",
+  "intro": "<p>You may want a Mediterranean home your family can use if life in Britain becomes untenable. You may already live in the UAE and want a European base that remains available beyond your present job or residence arrangement. Moving to Malta starts with deciding how much of your life you want to establish there.</p><p>Malta offers several distinct residence routes, and its property market has specific rules for foreign buyers. We connect those decisions with a real address, school, healthcare and working money access, then carry out the preparation you commission.</p>",
+  "countryContext": "/en/countries/malta/",
+  "linkPlan": [
+    {
+      "sourceLine": 1258,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1260,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1261,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1262,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1263,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1264,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1265,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1266,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1267,
+      "target": "/de/laender/malta/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1505,
+      "target": "/en/countries/cyprus/",
+      "label": "Cyprus as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1507,
+      "target": "/en/countries/portugal/",
+      "label": "Portugal as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Identita: EU and EEA residence",
+      "url": "https://identita.gov.mt/expatriates-unit-main-page/eu-nationals/",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Identita: Single Permit",
+      "url": "https://identita.gov.mt/expatriates-unit-main-page/noneu-nationals/employment-related-permits/single-permit/",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "UK government: living in Malta",
+      "url": "https://www.gov.uk/guidance/living-in-malta",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Residency Malta: MPRP requirements",
+      "url": "https://residencymalta.gov.mt/legal-framework-mprp-2/",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Residency Malta: Nomad Residence Permit eligibility",
+      "url": "https://nomad.residencymalta.gov.mt/nomad-eligibility/",
+      "section": 4,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "MTCA: property acquisition by foreign buyers",
+      "url": "https://mtca.gov.mt/personal-tax/property-taxes/acquisition-of-immovable-property-in-malta-by-non-residents/conditions-for-buying-immovable-property",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "firecrawl_live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "Housing Authority: residential lease terms",
+      "url": "https://rentregistration.mt/the-rental-contract/",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "MTCA: buying property and stamp duty",
+      "url": "https://mtca.gov.mt/personal-tax/property-taxes/buying-property",
+      "section": 6,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Malta public services: school admissions",
+      "url": "https://www.servizz.gov.mt/en/Services/web-01121",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Malta healthcare portal: entitlement and hospitals",
+      "url": "https://s2.eessi.gov.mt/en/information-regarding-healthcare-in-malta/",
+      "section": 7,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "MTCA: tax residence",
+      "url": "https://mtca.gov.mt/personal-tax/individual/tax-residence",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Bank of Valletta: tax-residence self-certification",
+      "url": "https://www.bov.com/meta/downloads/fatca-crs-self-certification-individuals",
+      "section": 8,
+      "checkedAt": "2026-09-27",
+      "verification": "exa_retrieved_source_text",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Ask us to prepare your Malta option",
+    "intent": "General enquiry"
+  },
+  "country": {
+    "name": "Malta",
+    "slug": "malta",
+    "region": "Europe",
+    "map": "countries/malta-locator.svg",
+    "imageAlt": "Map showing Malta in Europe",
+    "caption": "Malta: geographic location.",
+    "summary": [
+      [
+        "Choose the residence route",
+        "EU rights, employment, remote work and permanent-residence investment serve different needs."
+      ],
+      [
+        "Choose a usable home",
+        "Match the property to permission, school travel, care and time away."
+      ],
+      [
+        "Commission the preparation",
+        "Residence coordination, rental or purchase, arrival and continuing property care."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "What Malta would change for your household",
+      "body": "<p>A home in Malta can give you a place to establish ordinary life beyond your current country. English makes many first conversations easier, but the lasting decision rests on the household: how the children will learn, where you will work and who will care for a parent.</p><p>For a prepared refuge, prioritise residence access and a home available at short notice. For a second residence, add a clear visiting pattern and local care of the property. For permanent family life, settle school, healthcare and income before choosing the apartment. The same address can serve these purposes over time, but its legal and practical arrangements must change with them.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "If you need somewhere to go before a crisis",
+      "body": "<p>If fear of war, repression or restrictions on leaving is behind your search, a property viewing alone will not give you the option you need. Prepare the household's documents, an arrival route and accommodation you can actually occupy. Decide what would make you leave early enough to travel normally.</p><p>Malta depends on air and sea connections. Keep the journey from your current home to the Maltese address in the plan, including the documents of children or relatives travelling separately. For a base on Gozo, include the additional crossing and what you would do if disruption delayed it.</p><p>Keep medication, funds for the first weeks and an independent payment method accessible. For summer arrivals, test cooling and water arrangements before anyone vulnerable to heat moves in; for a coastal property, inspect exposure and drainage rather than judging only the view.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Moving to Malta with family: choose the area around daily life",
+      "body": "<p>Compare three different starting points. Sliema and St Julian's deserve a visit if you want a busier coastal setting with services close at hand. The central area around Msida, Birkirkara and neighbouring towns is worth testing when access to Mater Dei Hospital or a particular school dominates. Gozo is an alternative when you want a smaller-island routine and can accommodate the extra travel to appointments or the airport on Malta.</p><p>Use a reconnaissance visit to compare the actual streets. Visit each one at school-run time and in the evening. Check noise, building work, walking access, parking and the journey that a child or older relative would make every day.</p><p>Choose schools and care first if either is hard to replace. A larger home further away may be the wrong trade if every working day depends on crossing a congested route or coordinating a ferry.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "A part-year home and the Nomad Residence Permit",
+      "body": "<p>For a scouting trip, your passport determines the short-stay entry rules. For recurring or extended stays, connect the calendar to a residence route and the work you intend to do. A UAE residence permit does not create EU free-movement rights, and a Maltese rental contract does not by itself authorise a longer stay.</p><p>The Nomad Residence Permit is aimed at eligible non-EU, non-EEA and non-Swiss applicants who work remotely for a foreign employer, operate a foreign company or serve clients established abroad. The published gross annual income requirement for new applications is €42,000. Applicants also need health insurance covering risks in the European Union, including Malta, and the UK, an accommodation agreement, police clearance and a successful background check. Work for a Maltese subsidiary through a foreign company is excluded by the programme's eligibility rules.</p><p class=\"exb-citation\">Sources: <a href=\"https://nomad.residencymalta.gov.mt/nomad-eligibility/\" rel=\"noreferrer\">Residency Malta: Nomad Residence Permit eligibility</a></p><p>If you intend to take a Maltese job, compare the employment route instead. If your objective is permanent family residence rather than a temporary period of remote work, assess that route independently. The right permission follows the life you intend to lead.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Malta residency: which route fits your family?",
+      "body": "<h3>EU and EEA rights</h3><p>EU nationals can live and work in Malta under free-movement rules. Identita distinguishes workers, self-employed people, economically self-sufficient people, students and qualifying family members. Establish the applicable basis and residence-registration documents for the whole family, particularly where partners have different citizenships.</p><p class=\"exb-citation\">Sources: <a href=\"https://identita.gov.mt/expatriates-unit-main-page/eu-nationals/\" rel=\"noreferrer\">Identita: EU and EEA residence</a></p><h3>British residents and new arrivals</h3><p>British citizens legally resident before 1 January 2021 may have Withdrawal Agreement rights. New arrivals use the applicable non-EU route unless they have another qualifying citizenship or family right. For employment, the Single Permit combines a residence permit and an employment licence for a defined job; it does not give unrestricted permission to work for any employer.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.gov.uk/guidance/living-in-malta\" rel=\"noreferrer\">UK government: living in Malta</a>; <a href=\"https://identita.gov.mt/expatriates-unit-main-page/noneu-nationals/employment-related-permits/single-permit/\" rel=\"noreferrer\">Identita: Single Permit</a></p><h3>The Malta Permanent Residence Programme</h3><p>The MPRP grants permanent residence in Malta to approved eligible third-country applicants and qualifying dependants. It is a residence programme, distinct from citizenship. Applications go through a licensed agent and include due diligence, financial resources, property and health insurance.</p><p>Residency Malta currently publishes the following requirements:</p><ul><li>Capital assets of at least €500,000, including €150,000 in financial assets, or €650,000, including €75,000 in financial assets.</li><li>A qualifying home rented for at least €14,000 a year or purchased for at least €375,000, in Malta or Gozo.</li><li>A €60,000 non-refundable administration fee, €37,000 government contribution and €2,000 qualifying donation.</li><li>For the initial application, an additional non-refundable administration fee of €7,500 applies to each qualifying dependent adult child under Regulation 3(c) and each dependent parent or grandparent under 3(d). The First Schedule exempts the spouse or qualifying partner under 3(a), minor children under 3(b), and adult children with a disability certified as required by 3(e). Residence-card charges are separate.</li></ul><p>The qualifying property must be held for at least five years, with a residential property maintained afterwards. The family budget also needs professional fees, insurance, property expenses and ordinary living costs. Establish which relatives qualify before treating an advertised multi-generation application as your family's solution.</p><p class=\"exb-citation\">Sources: <a href=\"https://residencymalta.gov.mt/legal-framework-mprp-2/\" rel=\"noreferrer\">Residency Malta: MPRP requirements</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fmalta%2F#short-enquiry\">Ask us to prepare your Malta option</a><p>Tell us who would move, where you live now and what you want ready. If you are unsure which service fits, start with a free 20-minute orientation.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Renting or buying property in Malta",
+      "body": "<h3>Secure the first home without rushing the purchase</h3><p>A furnished arrival stay lets you inspect homes and test the school run. Move to a registered residential lease once the area and intended duration are clear. Malta's standard long residential lease lasts at least one year. For a one-year lease, the first six months are binding on the tenant; the published rules then allow release with at least one month's notice by registered letter. Longer contracts have different binding periods and notice requirements.</p><p>Record the inventory, condition, agreed deposit, rent, utility billing and occupants. Obtain confirmation of Housing Authority registration and keep the lease and bills available for the registrations that depend on your address.</p><p class=\"exb-citation\">Sources: <a href=\"https://rentregistration.mt/the-rental-contract/\" rel=\"noreferrer\">Housing Authority: residential lease terms</a></p><h3>Foreign ownership and AIP permission</h3><p>For non-EU buyers, Acquisition of Immovable Property permission is normally required outside an exemption. An EU citizen with less than five years' continuous residence is treated differently when buying a primary home rather than a second residence. In a Special Designated Area, the AIP acquisition restrictions are lifted. Confirm the precise development and the buyer's status before relying on that exception.</p><p class=\"exb-citation\">Sources: <a href=\"https://mtca.gov.mt/personal-tax/property-taxes/acquisition-of-immovable-property-in-malta-by-non-residents/conditions-for-buying-immovable-property\" rel=\"noreferrer\">MTCA: property acquisition by foreign buyers</a></p><h3>From search brief to the keys</h3><p>Commission your own notary before signing the promise of sale, the konvenju. Malta's tax authority states that the notary carries out property searches and files the deeds. Have ownership, charges, ground rent or emphyteusis, access and condominium obligations examined; use an independent architect for condition and planning-permission checks. Put essential permit and finance conditions into the agreement.</p><p>The promise of sale must be presented to the tax authority within 21 days, with provisional duty of 1% based on the higher of the market value and contractual transfer value. The final duty depends on the transaction and applicable reliefs. Budget also for the notary, searches, architect, any AIP fee, finance and building charges, rather than treating the purchase price as the total.</p><p class=\"exb-citation\">Sources: <a href=\"https://mtca.gov.mt/personal-tax/property-taxes/buying-property\" rel=\"noreferrer\">MTCA: buying property and stamp duty</a></p><p>EXOBASIS defines the property brief, organises searches and viewings, commissions independent purchase checks and coordinates the contract, completion, handover and arrival setup. Your notary and other appointed local professionals perform the corresponding specialist work. <a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Commission your Malta home and arrival preparation</a>.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schools, healthcare and family support",
+      "body": "<h3>Make the school transition part of the move</h3><p>Schooling is compulsory from five to sixteen. Malta's state-school admission service directs third-country-national pupils to the International Learners Directorate; locality and school stage affect where other applications are submitted. Start with the child's age, curriculum, language and support requirements, then compare state, church and independent schools against actual admission and fees.</p><p>English in everyday life is not a substitute for checking the teaching language in your child's classroom. Arrange that conversation with the receiving school before signing a long lease, and bring previous school reports and any learning-support documentation.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.servizz.gov.mt/en/Services/web-01121\" rel=\"noreferrer\">Malta public services: school admissions</a>; <a href=\"https://www.gov.uk/guidance/living-in-malta\" rel=\"noreferrer\">UK government: living in Malta</a></p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare the move with children and dependent relatives</a>.</p><h3>Arrange entitlement and treatment separately</h3><p>For eligible UK nationals, routes to public cover include Maltese social-security contributions, registration of a UK-issued S1 and the Reciprocal Healthcare Agreement scheme. A GHIC or EHIC serves eligible temporary stays; permanent relocation requires the appropriate entitlement. Families arriving from the UAE must establish their own applicable insurance or public-cover basis.</p><p>The Maltese healthcare portal identifies Mater Dei in Msida and Gozo General as public hospitals. It specifically asks patients needing dialysis, oxygen therapy or chemotherapy to make advance arrangements. That is the model for ongoing care: secure the receiving service and appointment as well as the insurance. An address on Gozo should be assessed against the actual treatment location.</p><p class=\"exb-citation\">Sources: <a href=\"https://s2.eessi.gov.mt/en/information-regarding-healthcare-in-malta/\" rel=\"noreferrer\">Malta healthcare portal: entitlement and hospitals</a></p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Organise health cover, treatment and care abroad</a>.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Money, tax residence and continuing your business",
+      "body": "<p>Prepare the documentary trail for both ordinary spending and the property or programme transaction. Bank of Valletta's tax-residence self-certification asks for the relevant jurisdictions and tax identification numbers, with supporting evidence. Keep the source of each major transfer explainable and use a second lawful payment channel while local banking is being established.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.bov.com/meta/downloads/fatca-crs-self-certification-individuals\" rel=\"noreferrer\">Bank of Valletta: tax-residence self-certification</a></p><p>Before tying up funds in a home or residence application, use the <a class=\"exb-text-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\">banking and payments guide</a> to map which payments must continue during the move. With <a class=\"exb-text-link\" href=\"/en/services/banking-liquidity/\">banking and liquidity preparation</a>, we coordinate the bank documentation, usable payment routes and reserve needed alongside your Malta commitments.</p><p>Malta's tax authority states that spending more than 183 days in a year makes a person tax resident, while someone arriving to establish residence can become resident from arrival. Nationality does not decide this, and you can be resident in more than one country. Ordinary residence and domicile determine whether worldwide taxation or the remittance basis applies.</p><p class=\"exb-citation\">Sources: <a href=\"https://mtca.gov.mt/personal-tax/individual/tax-residence\" rel=\"noreferrer\">MTCA: tax residence</a></p><p>Build the tax plan around your actual salary, dividends, pensions, business activity and proposed transfers. Have each classified before moving money. For a UK or UAE company, establish who will direct it from where and which payroll, social-security, corporate and personal filings follow. A residence programme and a tax arrangement are separate decisions.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Prepare the documents, home and first weeks together",
+      "body": "<ol><li><strong>Select the route for the actual household.</strong> Map citizenship, previous Maltese rights, work, income and the relatives to be included.</li><li><strong>Prepare the application work.</strong> Obtain the required identity, relationship, conduct and financial records, with the appropriate certification and translation.</li><li><strong>Match housing to the route.</strong> Coordinate the lease or purchase conditions with residence requirements and school or treatment access.</li><li><strong>Complete the first-week arrangements.</strong> Book the necessary appointments, organise keys and utilities and make the payment and communication arrangements usable.</li><li><strong>Test the plan on the ground.</strong> Travel the intended route, inspect the home and confirm that the people and services your family relies on are ready.</li></ol><p>We carry out the agreed organisational work and arrange the specialist execution, including a licensed MPRP agent where that is the selected route. <a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a>.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep your Malta home ready between visits",
+      "body": "<p>For a home left empty, agree who checks ventilation, leaks, cooling equipment, mail and utility accounts. Record access arrangements, authorised spending and how problems are reported. Before arrival, have the home checked and supplied rather than discovering an outage after the flight.</p><p>Include residence-card renewals, insurance, tax information and any programme obligations in the same calendar. If you want to let the property while away, establish what the ownership conditions, residence programme, lease and tourism rules allow before committing to tenants. A home intended as your fallback also needs a clear date when it is available to you.</p><p><a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Arrange ongoing checks and maintenance of your preparations</a>.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Commission your Malta preparation",
+      "body": "<p>Ask for the work you need: a location comparison, residence preparation, an organised visit, a rental search or a property-purchase project through to handover. You can commission a single task or a coordinated preparation programme. We agree the scope, specialist responsibilities and costs before starting.</p><p><a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Compare countries and locations for your situation</a>.</p><h3>Compare the right alternatives</h3><div class=\"exb-country-related\"><article><a class=\"exb-text-link\" href=\"/en/countries/cyprus/\">Cyprus: compare another Mediterranean base</a><p>Set the two countries alongside each other on residence, family life, property and the journey from your present home.</p></article><article><a class=\"exb-text-link\" href=\"/en/countries/portugal/\">Portugal: compare a European family base</a><p>Would Portugal or Malta better support your family's ordinary life within Europe? Compare the household's residence rights first, including any EU free-movement rights, before considering an additional residence programme. Neither location puts you outside Europe in a Europe-wide war scenario.</p></article></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fmalta%2F#short-enquiry\">Ask us to prepare your Malta option</a><p>Tell us who would move, where you live now and what you want ready. If you are unsure which service fits, start with a free 20-minute orientation.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Does buying a home in Malta give my family permanent residence?",
+    "answer": "A purchase and a residence permission are separate. The MPRP includes a qualifying property but also assets, fees, contributions, due diligence, insurance and qualifying-family rules. Other buyers use the residence route applicable to their citizenship, work or family status, and may separately need AIP permission."
+  },
+  "displayTitle": "Moving to Malta: a second home or a new family life"
+}

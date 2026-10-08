@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/",
+  "lang": "de",
+  "title": "Wissen, das zur Vorbereitung führt",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-4a56f8c8faba82"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-fae6731a624c6f"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-770b74d19817c3"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "EXOBASIS Wissen",
+  "seoTitle": "Ausweg, Familie und Vermögen vorbereiten | EXOBASIS",
+  "description": "Antworten zu Kriegssorge, Auswanderung, Vermögenszugriff, Familie und digitalen Abhängigkeiten. Finde den passenden Einstieg für deine Vorbereitung.",
+  "intro": "<p>Du willst deine Familie, deine Freiheit und das Erarbeitete schützen. Vielleicht ist dein Entschluss schon gefasst. Vielleicht hängt der nächste Schritt noch an einer einzigen Frage: Wohin können wir gehen? Was bleibt mit unserem Vermögen verbunden? Können alle mitreisen?</p><p>Hier findest du die fachlichen Einstiege für deinen persönlichen Ausweg. Jeder behandelt eine konkrete Aufgabe und zeigt, wie aus einer Möglichkeit eine Vorbereitung wird, die du tatsächlich nutzen kannst.</p>",
+  "primary": {
+    "label": "Meine Vorbereitung besprechen",
+    "intent": "Allgemeine Anfrage"
+  },
+  "knowledgeSummary": {
+    "title": "Bei der Frage anfangen, die dich am Weitergehen hindert",
+    "facts": [
+      [
+        "Ausweg",
+        "Rechtzeitig entscheiden und die Reise vorbereiten"
+      ],
+      [
+        "Lebensgrundlage",
+        "Aufenthalt, Vermögen, Familie und Einkommen verbinden"
+      ],
+      [
+        "Handlungsfähigkeit",
+        "Unterlagen, Befugnisse und unabhängigen Zugang sichern"
+      ]
+    ],
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Karte und Kompass als Symbol für die persönliche Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Was musst du zuerst wissen?",
+      "body": "<p>Wenn du wegen Krieg, Einberufung oder eingeschränkter Ausreise einen Ausweg suchst, beginne mit deinem persönlichen Status und den Rechten deiner Familie. Wenn du deinen Plan bereits kennst, aber an Geldzugang, Urkunden oder einer Unterkunft hängst, gehe direkt in die passende Fachfrage.</p><p>Die Vorbereitung folgt deinem tatsächlichen Fall. Du musst nicht erst jeden Artikel lesen, bevor du eine konkrete Arbeit anfragen kannst.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/\" data-route=\"/de/wissen/ausweg-vorbereiten/\"><span>Deinen Ausweg vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/aufenthalt-dokumente/\" data-route=\"/de/wissen/aufenthalt-dokumente/\"><span>Aufenthalt und Dokumente vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/vermoegen-zugriff/\" data-route=\"/de/wissen/vermoegen-zugriff/\"><span>Vermögen und Zugriff sichern</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/\" data-route=\"/de/wissen/familie-alltag/\"><span>Familie und Alltag vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/unternehmen-einkommen/\" data-route=\"/de/wissen/unternehmen-einkommen/\"><span>Unternehmen und Einkommen fortführen</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Fünf Bereiche tragen deine Vorbereitung",
+      "body": "<h3>Ausweg vorbereiten:</h3><p>Wie ihr entscheidet, welche Voraussetzungen vorher stehen müssen und wie Ausreise, Transit und Ankunft zusammenpassen. Die Herkunftsseiten erklären die Aufgaben beim Wegzug aus deinem bisherigen Wohnsitzland.</p><h3>Aufenthalt und Dokumente:</h3><p>Welche Rechte jedes Familienmitglied braucht und wie die erforderlichen Nachweise beschafft und nutzbar abgelegt werden. Ein Pass, ein Visum und ein Aufenthaltsrecht lösen unterschiedliche Aufgaben.</p><h3>Vermögen und Zugriff:</h3><p>Was Eigentum, Liquidität, Bankverbindung und Verfügungsbefugnis unterscheidet. Dazu gehören die konkreten Fragen nach Lastenausgleich, Enteignung, Kapitalverkehrskontrollen und einer weiterhin zahlungsfähigen Familie.</p><h3>Familie und Alltag:</h3><p>Wie Reisebefugnis, Schule, Unterkunft, Pflege und medizinische Versorgung einen gemeinsamen Weg ermöglichen. Ein geeigneter Ort muss auch für das Familienmitglied funktionieren, das am meisten Unterstützung braucht.</p><h3>Unternehmen und Einkommen:</h3><p>Welche Steuer-, Tätigkeits- und Vertretungsfragen vor dem Wegzug geklärt werden und wie der Betrieb während deiner Abwesenheit weiterarbeiten kann.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/\" data-route=\"/de/wissen/ausweg-vorbereiten/\"><span>Deinen Ausweg vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/aufenthalt-dokumente/\" data-route=\"/de/wissen/aufenthalt-dokumente/\"><span>Aufenthalt und Dokumente vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/vermoegen-zugriff/\" data-route=\"/de/wissen/vermoegen-zugriff/\"><span>Vermögen und Zugriff sichern</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/\" data-route=\"/de/wissen/familie-alltag/\"><span>Familie und Alltag vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/unternehmen-einkommen/\" data-route=\"/de/wissen/unternehmen-einkommen/\"><span>Unternehmen und Einkommen fortführen</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Was funktioniert ohne dein Haupttelefon?",
+      "body": "<p>Viele Vorbereitungen liegen hinter derselben Anmeldung: Bank, E-Mail, Reisedokumente und Kontakte. Der Verlust eines Geräts kann dann mehrere Teile deines Lebens gleichzeitig blockieren.</p><p>Der Fachbeitrag zum Wiederzugang zeigt, wie du diese Abhängigkeiten erkennst, zulässige Ersatzverfahren einrichtest und kontrolliert prüfst. Die Notfallmappe ergänzt die technische Vorsorge um erreichbare Unterlagen, Befugnisse und verständliche Aufgaben für Angehörige.</p><p>Technisch an ein Konto oder Dokument zu gelangen, gibt einem Angehörigen noch nicht das Recht, für dich zu handeln. Lege deshalb getrennt fest, wer etwas erreichen kann und wer welche Verfügung vornehmen darf. Dafür müssen die passende Vollmacht und ihre Annahme durch Bank oder zuständige Stelle gesichert sein. Geteilte Zugangsdaten ersetzen diese Befugnis nicht.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/wiederzugang-telefon-email/\" data-route=\"/de/wissen/wiederzugang-telefon-email/\"><span>Wenn Telefon, SIM und Haupt-E-Mail ausfallen</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Die konkrete Arbeit organisieren lassen",
+      "body": "<p>EXOBASIS führt Vorbereitung aus. Wir können einen persönlichen Notfallplan erarbeiten, Unterlagen beschaffen, die Länder- und Standortauswahl organisieren und die passenden Fachleistungen zusammenführen. Dazu gehören auch Bank- und Zahlungszugänge sowie die Einrichtung deiner Ankunft.</p><p>Wenn eine Immobilie zu deiner Außenbasis gehören soll, reicht die Arbeit von der Bedarfsklärung und Suche über Besichtigungen und organisierte unabhängige Kaufprüfung bis zu Abschlusskoordination, Übergabe und Betreuung. Eine erste Mietunterkunft und ein dauerhafter Kauf können bewusst aufeinander folgen.</p><p>Du entscheidest, welche Arbeit du selbst erledigst und welche du abgibst. Umfang, Ausführung und Kosten werden für den konkreten Auftrag geklärt.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/\" data-route=\"/de/leistungen/\"><span>Konkrete Hilfe</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Die nächste Entscheidung mit den richtigen Informationen treffen",
+      "body": "<p>Die Fachbeiträge unterscheiden persönliche Sorgen, geltende Regeln und mögliche Veränderungen. Deutschland, Österreich und die Schweiz werden dort getrennt behandelt, wo unterschiedliche Pflichten bestehen. Wichtige Rechts- und Verfahrensangaben führen zur zuständigen Quelle.</p><p>Wähle jetzt die Frage, an der deine Vorbereitung hängt. Steht die Aufgabe schon fest, kannst du sie direkt anfragen. Wenn du zunächst herausfinden möchtest, welche Unterstützung passt, ist die kostenlose 20-Minuten-Orientierung der Einstieg.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "An welcher Frage hängt dein nächster Schritt?"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Fünf Aufgaben, die zusammenpassen müssen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Auch ohne dein Hauptgerät handlungsfähig bleiben"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Die konkrete Arbeit abgeben"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Die entscheidenden Fragen vertiefen"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 24,
+        "target": "/de/wissen/ausweg-vorbereiten/",
+        "label": "Deinen Ausweg vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt persönliche Vorbereitung",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 25,
+        "target": "/de/wissen/aufenthalt-dokumente/",
+        "label": "Aufenthalt und Dokumente vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Rechte und notwendige Unterlagen",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 26,
+        "target": "/de/wissen/vermoegen-zugriff/",
+        "label": "Vermögen und Zugriff sichern",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Vermögen und Zugriff",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 27,
+        "target": "/de/wissen/familie-alltag/",
+        "label": "Familie und Alltag vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Familie und Alltag",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 28,
+        "target": "/de/wissen/unternehmen-einkommen/",
+        "label": "Unternehmen und Einkommen fortführen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unternehmen und Einkommen",
+        "position": "#abschnitt-1"
+      },
+      {
+        "line": 45,
+        "target": "/de/wissen/ausweg-vorbereiten/",
+        "label": "Deinen Ausweg vorbereiten",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 68,
+        "target": "/de/wissen/aufenthalt-dokumente/",
+        "label": "Aufenthalt und Dokumente vorbereiten",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 90,
+        "target": "/de/wissen/vermoegen-zugriff/",
+        "label": "Vermögen und Zugriff sichern",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 116,
+        "target": "/de/wissen/familie-alltag/",
+        "label": "Familie und Alltag vorbereiten",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 138,
+        "target": "/de/wissen/unternehmen-einkommen/",
+        "label": "Unternehmen und Einkommen fortführen",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#abschnitt-2"
+      },
+      {
+        "line": 29,
+        "target": "/de/wissen/wiederzugang-telefon-email/",
+        "label": "Wenn Telefon, SIM und Haupt-E-Mail ausfallen",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 30,
+        "target": "/de/leistungen/",
+        "label": "Konkrete Hilfe",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Einstiegsbereich oder Abschluss: konkrete Arbeit abgeben",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 31,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-5"
+      }
+    ],
+    "seeding": [],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Wissen für deinen persönlichen Ausweg"
+}

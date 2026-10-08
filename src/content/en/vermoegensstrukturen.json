@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/asset-structures/",
+  "lang": "en",
+  "title": "Arrange asset structures, custody and succession",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-8bf6d4abdefa1c"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c883647cf42d93"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Asset structures and practical continuity",
+  "seoTitle": "Asset structures, custody and succession | EXOBASIS",
+  "description": "Coordinate ownership, trusts, foundations, custody, succession and defined financing assessments around your family, residence history and real access needs.",
+  "intro": "<p>You may have substantial assets and still depend on one country, one institution or one person’s signature. If you are preparing to leave, or want your family to remain able to act without you, the structure must support the people who will rely on it.</p><p>EXOBASIS organises a defined ownership, custody, representation or succession assignment with the appropriate specialists. We bring the decisions and implementation together, from the first account of what you own to the documents, accepted authority and continuing administration.</p>",
+  "primary": {
+    "label": "Discuss your asset-structure requirement",
+    "intent": "Arrange asset structures, custody and succession"
+  },
+  "summary": {
+    "kicker": "Start with the result your family needs",
+    "title": "A structure should make ownership and decisions clear.",
+    "image": "einstieg-laender.webp",
+    "imageAlt": "World map with a compass.",
+    "facts": [
+      [
+        "Understand",
+        "Ownership, control, access and legal connections"
+      ],
+      [
+        "Organise",
+        "Specialist assessment and the agreed implementation"
+      ],
+      [
+        "Maintain",
+        "Accepted authority, records and continuing duties"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Separate ownership, authority and usable money",
+      "layout": "prose",
+      "body": "<p>We begin with an inventory of the assets, owners, locations, debts and institutions involved. Alongside it, we record who can make decisions, who can obtain records and how funds reach the people who need them. These are different questions, even when the same person currently handles everything.</p><p>War, repression, restrictions on movement or a loss of your availability can make an existing concentration of dependencies more serious. We turn the concern into specific work: an accepted representative, a documented ownership arrangement, a separate custody location or a lawful payment route. The wider <a href=\"/en/knowledge/assets-and-access/\">assets and access guide</a> explains how these parts fit together.</p><p>For each task, we organise confirmation of who is entitled to act and which documents the receiving institution accepts. The guide to <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">powers of attorney, representation and succession abroad</a> connects that legal authority with the evidence and practical access the person needs.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Use the residence history and legal connections that actually apply",
+      "layout": "prose",
+      "body": "<p>Your citizenship, residence history, the asset’s location, its legal owner and the intended recipient shape the specialist assessment. A new overseas address changes only part of that picture. We assemble those facts before a transfer, restructuring or succession decision.</p><p>For UK-connected families, HMRC’s rules from 6 April 2025 use long-term UK residence for inheritance-tax exposure on overseas assets. The general test looks at at least 10 UK-resident years in the previous 20; status can continue after departure for a period linked to the residence record, commonly three to ten tax years, with transitional rules. A move to the UAE therefore needs the UK history in the brief. <a href=\"https://www.gov.uk/guidance/inheritance-tax-if-youre-a-long-term-uk-resident\">HMRC: long-term UK residence and Inheritance Tax</a>.</p><p>If you may return to Britain, temporary non-residence rules can bring certain gains realised while away into charge on return when the statutory conditions apply. We organise the relevant timeline, ownership records and professional conclusions, rather than let a general fear of “exit tax” drive an unexamined transfer. <a href=\"https://www.gov.uk/government/publications/temporary-non-residents-and-capital-gains-tax-hs278-self-assessment-helpsheet/hs278-temporary-non-residents-and-capital-gains-tax-2026\">HMRC’s temporary non-residence guidance</a> explains the relevant gain and residence conditions. See <a href=\"/en/knowledge/business-and-income/departure-tax/\">departure, tax and continuing obligations</a>.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Compare the structure and its effect on your control",
+      "layout": "prose",
+      "body": "<p>The comparison starts with the result: provision for family, a change in ownership, succession, custody or access to liquidity. A trust, a foundation, a company and a power of representation do different work. We have the relevant professionals explain which rights you retain, which decisions move to someone else and what administration follows.</p><p>The alternatives can include <a href=\"/en/services/trust-structure/\">a trust structure</a>, <a href=\"/en/services/liechtenstein-foundation/\">a Liechtenstein foundation</a>, <a href=\"/en/services/overseas-company/\">an overseas company</a> or <a href=\"/en/services/tangible-asset-custody/\">tangible-asset custody</a>. You receive the comparison in terms of purpose, control, beneficiaries, recognition, establishment work and continuing costs.</p><p>A securities-backed loan is a separate financing question. A lender may advance funds against eligible investments, but a fall in their value can trigger a demand for additional collateral or repayment and ultimately a sale under the agreement. We organise a defined assessment of the lender’s eligibility rules, interest, currency, lending value, margin-call process, termination and liquidation rights. The <a href=\"https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/investor-28\">SEC’s investor alert on securities-backed lines of credit</a> explains those mechanisms; the applicable offer and local rules determine your actual terms.</p><p>Your immediate family reserve needs to be considered separately from a facility whose availability depends on market values and lender decisions. We connect the financing assessment with <a href=\"/en/services/banking-liquidity/\">banking and liquidity preparation</a>.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Give each specialist a clear question and responsibility",
+      "layout": "prose",
+      "body": "<p>We organise the legal, tax, custody or financing work needed for the proposed arrangement. Each brief names the assets, people, jurisdictions and intended result. Existing advisers can remain involved; gaps in jurisdictional coverage are addressed before the related execution step.</p><p>The scope identifies who gives the recommendation, who drafts or files, who accepts the arrangement and who administers it afterwards. You approve the structure and charges with those responsibilities visible. We coordinate queries and bring conflicting assumptions back to the responsible professionals for resolution.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Carry the decision through to a usable handover",
+      "layout": "prose",
+      "body": "<p>Implementation may involve signing and registration, institution onboarding, <a href=\"/en/services/asset-transfers/\">authorised transfers</a>, custody confirmations or acceptance of a representative. We organise the documents and sequence so that the prerequisites are satisfied before the dependent action.</p><p>A signed document and a usable authority are not the same milestone. We seek the relevant institution’s acceptance and connect the representative with the contact route, evidence and access they need. The handover explains what has been completed, where the originals are held and how the entitled person acts. This connects to <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">powers, representation and succession</a> and <a href=\"/en/services/family-business-continuity/\">family and business continuity</a>.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Plan for the costs and duties after setup",
+      "layout": "prose",
+      "body": "<p>A useful comparison includes establishment, transfers, trustee or administrator fees, accounts, tax and reporting work, custody costs and charges for later changes or closure. We separate your assets and funds from the professional fees needed to establish and maintain the arrangement.</p><p>The ongoing plan allocates records, reporting and deadlines. Changes in residence, family circumstances, ownership or a key institution are passed to the relevant professional. You can commission <a href=\"/en/services/maintain-preparations/\">continuing maintenance</a> so that the preparation remains aligned with your life.</p>"
+    }
+  ],
+  "working": {
+    "title": "Bring specialist decisions into one coherent assignment",
+    "body": "<p>We keep the facts, dependencies and implementation sequence together. The appointed professionals carry responsibility for their advice and execution; you receive a coordinated result instead of having to join separate recommendations yourself.</p>"
+  },
+  "nextWork": {
+    "title": "Make the result usable by the right people",
+    "body": "<p>Representation, banking, document recovery and family responsibilities may need connected work. We organise the commissioned steps around the same people and assets, with a clear point for review when circumstances change.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "What do you want your assets to make possible?",
+    "body": "Describe the purpose, relevant countries and existing arrangements. We will define the next assessment or implementation task before detailed documents are exchanged."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [
+      "EN13"
+    ],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "293",
+        "label": "Transfer assets and retain lawful access",
+        "target": "/en/services/asset-transfers/",
+        "position": "Kernabschnitt 5: Setup and handover",
+        "purpose": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren."
+      },
+      {
+        "line": "294",
+        "label": "Arrange a trust structure",
+        "target": "/en/services/trust-structure/",
+        "position": "Kernabschnitt 3: Comparing structures",
+        "purpose": "Eignung und konkrete Einrichtung einer Trust-Struktur mit befugten Fachstellen organisieren."
+      },
+      {
+        "line": "295",
+        "label": "Arrange a Liechtenstein foundation",
+        "target": "/en/services/liechtenstein-foundation/",
+        "position": "Kernabschnitt 3: Comparing structures",
+        "purpose": "Eine Stiftungsaufgabe mit liechtensteinischer Fachzuständigkeit und Herkunftsrecht abstimmen."
+      },
+      {
+        "line": "296",
+        "label": "Arrange custody and access to tangible assets",
+        "target": "/en/services/tangible-asset-custody/",
+        "position": "Kernabschnitt 3: Comparing structures",
+        "purpose": "Eigentum, Verwahrstelle, Herausgabe und berechtigten Zugriff organisatorisch verbinden."
+      },
+      {
+        "line": "297",
+        "label": "Arrange an overseas company and ongoing administration",
+        "target": "/en/services/overseas-company/",
+        "position": "Kernabschnitt 3: Comparing structures",
+        "purpose": "Eine passende Gründung und laufende Pflichten als Teil der Geschäftsfortführung organisieren."
+      },
+      {
+        "line": "298",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 1: Ownership and control",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "scope": {
+    "id": "scope",
+    "title": "A defined asset task, carried through",
+    "body": "<p>Commission the assessment and organisation of an ownership or succession requirement, a chosen structure, a custody arrangement or a specific financing review. We agree the result and the specialists needed to deliver it.</p><p>EXOBASIS manages the documents, appointments, coordination and implementation follow-up. You retain the decisions about ownership, commitments and expenditure.</p>",
+    "items": [
+      [
+        "Clarify",
+        "The intended result and all relevant legal connections"
+      ],
+      [
+        "Implement",
+        "Approved specialist work and accepted arrangements"
+      ],
+      [
+        "Hand over",
+        "Documents, authority, responsibilities and maintenance"
+      ]
+    ],
+    "costs": "The proposal separates EXOBASIS organisation, professional assessment and drafting, institution charges, transfers and recurring administration. Credit terms and any collateral commitment are presented as a separate decision."
+  },
+  "displayTitle": "Organise your assets around control, access and succession"
+}

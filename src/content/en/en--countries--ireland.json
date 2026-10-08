@@ -1,0 +1,407 @@
+{
+  "route": "/en/countries/ireland/",
+  "lang": "en",
+  "title": "Ireland as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/irland/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-908214a70ff013",
+      "startLine": 5629
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-65af01b2ccb13f",
+      "startLine": 7264
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Moving to Ireland: a family base and Plan B | EXOBASIS",
+  "description": "Prepare a usable base in Ireland: family residence, housing or purchase, schools, healthcare and access to money. EXOBASIS organises the practical work.",
+  "intro": "<p>If war, the threat of war or growing political pressure is making you act, you need somewhere your whole family can reach and live. Ireland offers an English-speaking European base. For a British citizen, the starting point may be an existing right; for a non-British partner, a child or a family leaving the UAE, the route can be very different.</p><p>EXOBASIS brings residence paperwork, the home, access to money, arrival and ongoing arrangements into one practical assignment. You can prepare the option before deciding whether to move permanently.</p>",
+  "countryContext": "/en/countries/ireland/",
+  "linkPlan": [
+    {
+      "sourceLine": 1178,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1180,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1181,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1182,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1183,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1184,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1185,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1186,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1187,
+      "target": "/de/laender/irland/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1489,
+      "target": "/en/countries/portugal/",
+      "label": "Portugal as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1491,
+      "target": "/en/countries/iceland/",
+      "label": "Iceland as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Irish Immigration Service Delivery: EU Treaty Rights",
+      "url": "https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-an-eea-or-swiss-national/eu-treaty-rights/",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "UK Government: Common Travel Area guidance",
+      "url": "https://www.gov.uk/government/publications/common-travel-area-guidance/common-travel-area-guidance",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.revenue.ie: resident-for-tax-purposes.aspx",
+      "url": "https://www.revenue.ie/en/jobs-and-pensions/tax-residence/resident-for-tax-purposes.aspx",
+      "section": 4,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.revenue.ie: 42-04-65.pdf",
+      "url": "https://www.revenue.ie/en/tax-professionals/tdm/income-tax-capital-gains-tax-corporation-tax/part-42/42-04-65.pdf",
+      "section": 4,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.irishimmigration.ie: joining-your-uk-national-family-member",
+      "url": "https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.irishstatutebook.ie: print",
+      "url": "https://www.irishstatutebook.ie/eli/2015/si/548/made/en/print",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.transportforireland.ie: dublin-area-train-tram-services",
+      "url": "https://www.transportforireland.ie/plan-a-journey/network-maps/dublin-area-train-tram-services/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.transportforireland.ie: tfi-local-link",
+      "url": "https://www.transportforireland.ie/tfi-local-link/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "rtb.ie: security-deposits",
+      "url": "https://rtb.ie/renting/rights-responsibilities/security-deposits/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "rtb.ie: rental-law-changes-from-1-march-2",
+      "url": "https://rtb.ie/renting/rental-law-changes-from-1-march-2/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.lawsociety.ie: buying-a-home",
+      "url": "https://www.lawsociety.ie/public/legal-guides/property/buying-a-home/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "tailte.ie: first-registration",
+      "url": "https://tailte.ie/services/first-registration/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.revenue.ie: you-are-buying-a-property.aspx",
+      "url": "https://www.revenue.ie/en/property/local-property-tax/selling-buying-or-transferring-a-property/you-are-buying-a-property.aspx",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.gov.ie: school-admissionsenrolment",
+      "url": "https://www.gov.ie/en/department-of-education/policy-information/school-admissionsenrolment/",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www2.hse.ie: what-it-covers",
+      "url": "https://www2.hse.ie/services/schemes-allowances/medical-cards/about-the-medical-card/what-it-covers/",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www2.hse.ie: gps-who-accept-medical-cards",
+      "url": "https://www2.hse.ie/services/schemes-allowances/medical-cards/about-the-medical-card/gps-who-accept-medical-cards/",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www2.hse.ie: after-you-apply",
+      "url": "https://www2.hse.ie/services/home-support-service/after-you-apply/",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "personalbanking.bankofireland.com: coming-to-ireland",
+      "url": "https://personalbanking.bankofireland.com/bank/current-accounts/personal-current-account/coming-to-ireland/",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "businessbanking.bankofireland.com: switching-to-bank-of-ireland",
+      "url": "https://businessbanking.bankofireland.com/support-centre/business-banking/business-current-accounts/switching-to-bank-of-ireland/",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.revenue.ie: what-you-should-do.aspx",
+      "url": "https://www.revenue.ie/en/jobs-and-pensions/starting-your-first-job/what-you-should-do.aspx",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.revenue.ie: 42-04-65.pdf",
+      "url": "https://www.revenue.ie/en/tax-professionals/tdm/income-tax-capital-gains-tax-corporation-tax/part-42/42-04-65.pdf",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.revenue.ie: how-to-register-for-tax-as-a-sole-trader.aspx",
+      "url": "https://www.revenue.ie/en/starting-a-business/registering-for-tax/how-to-register-for-tax-as-a-sole-trader.aspx",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.revenue.ie: company-residency-rules.aspx",
+      "url": "https://www.revenue.ie/en/companies-and-charities/corporation-tax-for-companies/corporation-tax/company-residency-rules.aspx",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "cro.ie: company-officers",
+      "url": "https://cro.ie/registration/company/incidental-obligations/company-officers/",
+      "section": 8,
+      "checkedAt": "2026-10-05",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.irishimmigration.ie: joining-your-uk-national-family-member",
+      "url": "https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/",
+      "section": 9,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "www.irishimmigration.ie: joining-your-uk-national-family-member",
+      "url": "https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/",
+      "section": 10,
+      "checkedAt": "2026-10-07",
+      "verification": "stored_primary_text",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Ask us to prepare your Ireland option",
+    "intent": "General enquiry"
+  },
+  "country": {
+    "name": "Ireland",
+    "slug": "irland",
+    "region": "Europe",
+    "map": "countries/irland-locator.svg",
+    "imageAlt": "Locator map: Ireland. Geographic orientation, not a safety assessment.",
+    "caption": "Geographic orientation. Not a travel, safety or border assessment.",
+    "summary": [
+      [
+        "An English-speaking European base",
+        "A possible family home or prepared alternative, not a geographical exit from Europe."
+      ],
+      [
+        "Passport before postcode",
+        "British and Irish citizenship, EU/EEA/Swiss rights and residence in the UK or UAE are different starting points."
+      ],
+      [
+        "Ready for ordinary life",
+        "A usable home, school and care arrangements, funded payments and people responsible for the work."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "Start with the people who need to use the Irish base",
+      "body": "<p>Your current address does not tell you which rights your family has. A British citizen living in Dubai has a different Irish residence starting point from a non-British UK resident. A household may include a British parent, a partner with another nationality and children with different passports. Build the plan around those people, not the language you speak at home.</p><p>Ireland is worth considering when you want an English-speaking home in Europe and can fund and organise a workable local life. Existing rights can remove one obstacle, but they do not find a suitable house, secure a school place or arrange ongoing treatment. The useful test is whether all of these can work in the same location.</p><p>A high position on a safest-country list does not answer that question. If your aim is to leave the European region altogether, Ireland serves a different purpose. If you want a prepared alternative to your present country, with the possibility of a lasting family home, its particular combination of rights, language and island access deserves a closer look.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "A contingency base needs an arrival plan and a return plan",
+      "body": "<p>War anxiety is a reason to prepare early, not evidence that a particular route will remain open. Ireland depends on air and sea access and on imported supplies. A home there creates useful room to act only when the family can reach it, use it and pay for the first period of residence.</p><h3>Prepare for departure, delay and staying where you are</h3><p>From the UK, compare the actual flight or ferry journey with every traveller's documents and rights. From the UAE, lawful departure and transit are separate from permission to enter Ireland. An alternative connection is useful only if the carrier, transit states and documents fit. If flights stop, a planned Irish arrival is not an evacuation guarantee: the family also needs funds, accommodation and essential treatment during the delay.</p><p>Before travel, confirm the route, access to the Irish home, late-arrival arrangements and who handles the handover. A reservation may cover too short a period; a property you have bought may still have a tenant. Keep money for delays available independently of a transfer or final payment that has not yet cleared. The guide <a href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">Where to go if war breaks out</a> examines these dependencies rather than promising safety from a country ranking.</p><h3>Keep the way back separate</h3><p>Decide what remains in the UK or UAE: home, employment, business, care and the rights needed to return. A British citizen's position does not settle a non-British relative's return to the UK. Likewise, an Irish residence document is not permission to re-enter the UAE. During an absence, both the Irish base and the arrangements you retain elsewhere need attention. A <a href=\"/en/services/departure-contingency-plan/\">personal departure and contingency plan</a> connects these situations to the people, documents, payments and practical responsibilities involved.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Choose a family life, not just an available address",
+      "body": "<p>The location decision starts with an ordinary working week. A school application, a house viewing and a healthcare enquiry should inform each other. A property is not a good family base if the school run cannot work, essential treatment is out of reach or the continuing cost consumes the money meant to keep the family independent.</p><p>If one parent moves first, establish how the others will join them before committing to a long tenancy or purchase. A non-British partner may need advance approval even though the British parent can move. Children need their own nationality, relationship and parental-responsibility evidence. For a family leaving the UAE, authority to travel with the children and approval for their Irish residence are separate matters. A passport or Irish school offer does not replace a required parental consent or court decision.</p><p>Budget for the transition as well as the settled household: temporary accommodation, deposits, furnishing, transport, childcare, insurance and ongoing treatment. Evidence that a sponsor earns enough for a residence procedure is not proof that money is available to fund the move. We connect those requirements to a practical housing and admissions sequence. <a href=\"/en/knowledge/family-life-abroad/children-family/\">Preparing to move with children and family</a> helps identify the documents and decisions that must travel with each person.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Using Ireland between other bases",
+      "body": "<p>Keeping somewhere to stay in Ireland is not the same as establishing a permanent family home there. The UK family scheme is built around living permanently with the British family member in Ireland. It should not be treated as a general visiting arrangement for relatives while the sponsor continues to live elsewhere. EU/EEA/Swiss cases also need the relevant conditions for longer residence, such as actual work or sufficient resources and comprehensive health insurance.</p><p>For a second base alongside the UAE, separate a temporary absence from a permanent departure. Record the actual UAE residence category, expiry, sponsor arrangements and the return conditions that apply to it. Irish day counting does not determine those conditions. <a href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\">Leaving the UAE</a> addresses the departure side; the Irish arrangements must work alongside it rather than replace it.</p><p>Track where you spend time and where you do your work. Revenue generally determines personal tax residence by 183 days in the calendar tax year, or 280 days across that year and the previous year. Spending no more than 30 days in the relevant year prevents residence under those tests; part of a day generally counts as a day. This is not a tax-free allowance for the first 182 working days. Employment duties carried out in Ireland can have Irish tax consequences without making every day-count question decisive.</p><p>Schooling, treatment and the continuing conditions of a relative's permission must also survive the travel pattern. Before returning to Ireland, confirm documents, accommodation and the position of anyone whose permission depends on another family member.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.revenue.ie/en/jobs-and-pensions/tax-residence/resident-for-tax-purposes.aspx\" rel=\"noreferrer\">Revenue: tax and registration</a>; <a href=\"https://www.revenue.ie/en/tax-professionals/tdm/income-tax-capital-gains-tax-corporation-tax/part-42/42-04-65.pdf\" rel=\"noreferrer\">Revenue: tax and registration</a></p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Your residence route: citizenship, family relationship and purpose",
+      "body": "<h3>British citizens and family members are not one immigration case</h3><p>The Common Travel Area gives British and Irish citizens particular rights, including the ability to live in Ireland. Being resident in the UK is not the same as being British. A UAE address also confers no CTA right. Nor does a British citizen's entitlement automatically extend to a non-British spouse, partner or child.</p><p>For relevant non-EEA/non-Swiss family members joining a British citizen who moved to Ireland after 31 December 2020, ISD provides a separate Join Family scheme. Earlier residence and family circumstances may fall under the Withdrawal Agreement and need to be assigned to the correct route. The dates matter; neither a recent marriage nor a British passport should be used to guess the whole family's position.</p><h3>Apply before travelling under the UK family scheme</h3><p>Apply from your home country or a country where you are legally resident, and remain outside Ireland during processing. A legally resident applicant in the UAE may therefore have a different submission location from one in the UK. Visa-required family members need a Long Stay D “Join Family UK National” visa; non-visa-required applicants need preclearance. Each relevant person makes their own application through AVATS.</p><p>The application summary must be signed and identifies the submission office. Documents and the required fee must be submitted within 30 days of the online application. Approval allows travel for the stated purpose, but the border decision and subsequent registration remain separate steps. Entering as a visitor and then applying to remain is not the normal conversion route under this scheme.</p><h3>The family relationship and support must be evidenced</h3><p>Spouses and civil partners need recognised relationship documents and evidence of the relationship. A de facto partner must demonstrate at least two years of living together. A dependent child's application needs the relevant parentage and dependency evidence; shared custody brings travel, relocation and consent questions. Adult children need documented dependency, with education evidence where that category applies. Dependent parents aged 66 or over have a separate category, including evidence of real dependency and the absence of a workable alternative to moving.</p><p>The applicant needs private medical insurance for one year from the intended entry date. It must come from an insurer authorised by Ireland's Health Insurance Authority and cover private healthcare during hospitalisation in a private hospital. The sponsor's group policy can be used if it meets the conditions and covers the applicant from entry. An existing UK or UAE policy is not automatically equivalent.</p><p>Financial evidence includes up-to-date bank statements for six months. The sponsor must be able to support the applicants without relying on public funds. For a married couple, civil partnership or de facto partnership without children, the UK scheme page updated on 12 June 2026 specifies at least EUR 20,000 in assessable annual income over and above any entitlement to State benefits. That is a scheme-specific figure, not an estimate of living costs or a threshold for EU self-sufficient residents. Children and dependent parents need their own category assessment.</p><p>After arrival, a person who must register does so before the landing stamp expires. The scheme describes initial permission for twelve months; children under 16 are not required to register. Dependent parents receive Stamp 0. Do not assume that every relative receives the same right to work. Each person's permission and its continuing conditions govern that question.</p><h3>EU/EEA/Swiss rights and other starting points</h3><p>A family moving from the UK or UAE may instead include EU, EEA or Swiss citizens. For residence beyond three months, work or genuine self-employment can provide the basis. A self-sufficient case requires adequate resources for the person and family together with comprehensive health insurance. Study and job-seeking have their own conditions. The UK sponsor-income figure is not an EU self-sufficiency test.</p><p>Non-EU relatives are assessed by their relationship and the right the family member is exercising. Qualifying and permitted family members are not interchangeable categories. A family residence card issued by another EU country does not simply replace the Irish long-term residence process. Without a relevant citizenship or family route, establish the individual's appropriate immigration permission before binding the household to a home. Registering a company or buying property does not create it.</p><div class=\"exb-criteria-table\" role=\"region\" tabindex=\"0\" aria-label=\"Compare ways to use an Irish base\"><table><caption>Ireland: rights, evidence and practical work for three uses</caption><thead><tr><th scope=\"col\">Intended use</th><th scope=\"col\">Legal basis and limits</th><th scope=\"col\">Evidence and presence</th><th scope=\"col\">Work to put in place</th></tr></thead><tbody><tr><th scope=\"row\">Contingency reserve</th><td>Each person needs a valid entry route; longer residence is a separate question. Owning the home is not an immigration permission.</td><td>Travel documents, any required advance approval and a genuine right to use the home. An unused address does not establish family residence.</td><td>Prepare arrival and transit, access to accommodation, initial care and independently usable funds.</td></tr><tr><th scope=\"row\">Lasting family home</th><td>CTA, EU/EEA/Swiss rights or the appropriate family permission must cover the actual people. One person's status does not settle everybody else's.</td><td>Work or resources and insurance, relationship and custody records, required registration and continuing family conditions.</td><td>Connect the home, school admission, treatment, household funding and residence procedure.</td></tr><tr><th scope=\"row\">Mobile use</th><td>Re-entry, continuing residence conditions and permitted work remain distinct. An offshore salary account does not make Irish work tax-free.</td><td>Record presence and work, maintain required documents and insurance, and check the effect of absences.</td><td>Maintain the home, payments and authority to act; confirm both arrival in Ireland and return to the other base.</td></tr></tbody></table></div><p class=\"exb-citation\">Sources: <a href=\"https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/\" rel=\"noreferrer\">ISD: residence and family</a>; <a href=\"https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-an-eea-or-swiss-national/eu-treaty-rights/\" rel=\"noreferrer\">ISD: residence and family</a>; <a href=\"https://www.irishstatutebook.ie/eli/2015/si/548/made/en/print\" rel=\"noreferrer\">Irish Statute Book: S.I. 548/2015</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fireland%2F#short-enquiry\">Ask us to prepare your Ireland option</a><p>Tell us what you need in place for Ireland: a family base, a particular home, residence paperwork or arrival arrangements. Personal records follow through the protected exchange agreed for the work.</p><a class=\"exb-text-link\" href=\"/en/enquiry/#contact-start\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Housing: compare the journey, the tenancy and the usable home",
+      "body": "<h3>Dublin is a network, not a single location choice</h3><p>TFI maps Dublin's Luas, DART, Commuter Rail and bus connections. Compare an actual home with the stops, changes and journeys needed for school, work and treatment. A smaller town on a regular Local Link route can offer a different daily pattern. A dispersed rural home dependent on a pre-booked door-to-door service is a different proposition again: TFI requires at least 24 hours' advance booking for that service, and routes can operate daily, weekly or fortnightly.</p><p>A rural address with “Local Link nearby” does not by itself establish a daily school run or access to appointments. Nor does a lower asking price prove lower total living costs. We compare real housing options with the journeys, support and reserve your family needs. Temporary accommodation can allow viewings and appointments before a longer commitment.</p><h3>Renting: establish what you are paying for</h3><p>Before paying a deposit, establish the property, landlord contact, recipient of the money, tenancy type and agreed period of use. Arrange a viewing, use a traceable payment and retain a dated receipt. The RTB states a maximum deposit of one month's rent for ordinary private tenancies. Record condition and inventory at the start and agree the handover. Leaving a fixed-term agreement early can have contractual consequences. A holiday let, hotel stay or room in the landlord's own home is not automatically governed as the same type of tenancy.</p><p>From 1 March 2026, national rent controls apply to private tenancies and Student Specific Accommodation. The general limit is one annual increase of 2% or CPI inflation, whichever is lower. An exception allows CPI increases without the 2% cap for new apartments and relevant student accommodation where construction began from 10 June 2025. Approved Housing Body and cost rental tenancies are outside this general national rent-control system.</p><p>For private tenancies starting from 1 March 2026, security of tenure arises after six continuous months without a valid notice of termination. A company landlord, or a landlord with at least four tenancies, can then terminate for the stated grounds of a tenant's breach or the property no longer meeting the tenant's needs. Landlords with one to three tenancies have additional statutory grounds, including specified hardship-sale and family-occupation cases. The new six-year cycles are not an unconditional promise that your family can remain for six years. Older tenancies retain different termination rules.</p><p>Re-setting the rent to market level is also conditional. For new private tenancies, the RTB distinguishes how the previous tenancy ended and the end of a six-year cycle. It also identifies a special case where a property has not been let for two years. The property's tenancy history belongs in the decision before you sign, rather than being inferred from the advertised rent.</p><h3>Buying: legal title does not establish an empty, sound house</h3><p>Engage an Irish solicitor before paying or committing. The solicitor examines title, ownership, encumbrances, co-ownership arrangements and the contract. With an auction, that work must precede the binding bid. Commission a structural survey before signing for an existing home; a new build needs appropriate inspections and a snag list. Legal title, physical condition and vacant use are separate questions.</p><p>If the property has a tenant, the tenancy can continue under the purchaser. It may therefore be unsuitable as your immediate arrival address. Confirm possession and timing alongside finance, insurance, source-of-funds evidence and the money needed to complete. A GBP or UAE account balance is not yet a euro payment received for closing.</p><p>The conveyancing sequence includes contracts, title queries and searches, closing documents, payment and completion. Stamping and title registration follow. For unregistered land acquired since 1 June 2011, compulsory first registration is required through Tailte Éireann. Before closing, the property's LPT history, Property ID, valuation, claimed exemptions, unpaid or deferred amounts and Revenue clearance also need attention. Unpaid Local Property Tax can remain a charge on the property.</p><p>Keep the purchase price, Stamp Duty, legal and registry fees, survey, finance and repairs as separate budget items. Through our service <a href=\"/en/services/arrange-arrival/\">Arrange your arrival abroad</a>, EXOBASIS can organise the search, viewings, independent purchase checks, completion coordination, handover and setup. The solicitor performs the legal conveyancing; we bring the agreed work and practical arrival together.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.transportforireland.ie/plan-a-journey/network-maps/dublin-area-train-tram-services/\" rel=\"noreferrer\">Transport for Ireland</a>; <a href=\"https://www.transportforireland.ie/tfi-local-link/\" rel=\"noreferrer\">Transport for Ireland</a>; <a href=\"https://rtb.ie/renting/rights-responsibilities/security-deposits/\" rel=\"noreferrer\">RTB: rental rules</a>; <a href=\"https://rtb.ie/renting/rental-law-changes-from-1-march-2/\" rel=\"noreferrer\">RTB: rental rules</a>; <a href=\"https://www.lawsociety.ie/public/legal-guides/property/buying-a-home/\" rel=\"noreferrer\">Law Society of Ireland: Buying a home</a>; <a href=\"https://tailte.ie/services/first-registration/\" rel=\"noreferrer\">Tailte Éireann: First registration</a>; <a href=\"https://www.revenue.ie/en/property/local-property-tax/selling-buying-or-transferring-a-property/you-are-buying-a-property.aspx\" rel=\"noreferrer\">Revenue: tax and registration</a></p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schooling, medical care and support at the chosen address",
+      "body": "<h3>Children and relatives</h3><p>Start with the school's Admission Policy, annual Admission Notice and application form. These set out the selection process, available places, application dates and decision timetable. The annual admissions process cannot start before 1 October of the preceding school year. That is not a universal ban on an enquiry after a family moves during the year: the school must confirm the actual position.</p><p>Where applications exceed places, the published selection rules matter. A nearby home or a submitted form is not an offer. We organise the housing search around appropriate schools, the child's age and learning needs, the timetable and a viable school run, with another option until admission is confirmed. The guide <a href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare to move abroad with children and family</a> connects this with parental responsibility, consent and each child's documents.</p><h3>Health cover is not a booked appointment</h3><p>Someone living in the Republic who intends to remain for at least a year can apply for a Medical Card. Entitlement depends on circumstances. Unless an automatic entitlement applies, HSE assesses matters including income, expenditure and dependants. The application requires PPS numbers and the relevant personal and financial details. If a Medical Card is not awarded, HSE then assesses eligibility for a GP Visit Card.</p><p>A Medical Card covers GP visits and specified wider services; it is distinct from private insurance. A GP Visit Card does not confer that full package. A financially established household should not base its move on an assumed entitlement to free family care. The insurance required for a residence application and the funding of ongoing treatment also need to be matched to the actual people and services.</p><p>GP acceptance remains a separate step. In the Medical Card application process, HSE asks the nominated GP to accept the patient. HSE describes an assignment process after three GPs decline in that particular context; it is not a general immediate-access promise to every newcomer. Arrange continuing treatment, records, medication and any gap in care before relying on the new address. <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and care abroad</a> explains how cover and treatment access fit together.</p><h3>Care and support for a dependent relative</h3><p>HSE Home Support follows an application and needs assessment. A healthcare professional considers everyday tasks, medical support, help from family or the community and the person's wishes. HSE then communicates its decision; approved help is provided by HSE or an approved provider. Living with a child in Ireland or holding an insurance policy does not itself confirm that support.</p><p>For a relative who needs regular care, organise travel capability, medication, records, equipment, accompaniment and support between arrival and the confirmed care arrangement. The guide to <a href=\"/en/knowledge/family-life-abroad/care-medication/\">care and medication</a> addresses this handover. We can coordinate the practical work and necessary professional input through <a href=\"/en/services/family-business-continuity/\">family and business continuity</a>, rather than leave you to assemble disconnected appointments.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.gov.ie/en/department-of-education/policy-information/school-admissionsenrolment/\" rel=\"noreferrer\">Department of Education: School admissions</a>; <a href=\"https://www2.hse.ie/services/schemes-allowances/medical-cards/about-the-medical-card/what-it-covers/\" rel=\"noreferrer\">HSE: care and applications</a>; <a href=\"https://www2.hse.ie/services/schemes-allowances/medical-cards/about-the-medical-card/gps-who-accept-medical-cards/\" rel=\"noreferrer\">HSE: care and applications</a>; <a href=\"https://www2.hse.ie/services/home-support-service/after-you-apply/\" rel=\"noreferrer\">HSE: care and applications</a></p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Money that can pay, income that can continue",
+      "body": "<h3>Prepare the Irish account around a real move</h3><p>Bank of Ireland's Coming to Ireland process is a specific personal-account application route. Applicants must be at least 18, meet the chosen account's product criteria and be moving or returning to the Republic within the next 45 days. A valid photo ID and proof of address are needed; an online application also asks for a selfie. Address documents must be in English, or translated and certified before applying. The bank makes the acceptance decision.</p><p>You must update the account to an Irish postal address within 60 days of opening. Without that update the account is blocked; after another 30 days without the address change, it is closed. This is a moving-to-Ireland route, not a permanent overseas account with no residence-related follow-through.</p><h3>Separate UK or UAE release of funds from Irish access</h3><p>If you are leaving the UK, confirm whether each existing bank will continue to serve you at your new address. A dispute over closure and a replacement Irish account are different tasks. Your household still needs to pay while either is unresolved. For a move from the UAE, visa changes, final salary or end-of-service payments and the releasing bank's checks must be planned separately from receipt in Ireland. Money you expect to receive is not yet an available rent deposit or closing balance. The guides to <a href=\"/en/knowledge/prepare-your-way-out/leaving-uk/\">leaving the UK</a> and <a href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\">leaving the UAE</a> address their respective departure conditions.</p><p>Prepare the source-of-funds record, sender and recipient details, euro amount and transfer timing before a major payment. The bank can ask for further evidence; a purchase also brings the solicitor's requirements and completion date. Do not make a newly applied-for account the only route for the purchase price.</p><p>Two accounts are not independent if losing one phone prevents you accessing both. Arrange legitimate recovery and authorised access before travel, without treating shared passwords as a substitute for permission to act. An Irish bank is not immunity from account restrictions, capital controls or obligations in the country you leave. <a href=\"/en/knowledge/assets-and-access/banking-payments/\">Banking and payments</a> explains the access problem. With <a href=\"/en/services/banking-liquidity/\">banking and liquidity preparation</a>, we organise the application evidence, payment sequence and usable alternative. <a href=\"/en/services/asset-transfers/\">Asset transfer preparation</a> connects larger amounts to their evidence and destination. Where phone or email access is the weak point, <a href=\"/en/knowledge/phone-email-access-failure/\">phone and email access failure</a> and <a href=\"/en/services/communications-recovery/\">communications recovery</a> address the recovery work.</p><h3>Employment, self-employment and running a company</h3><p>British and Irish citizens can take employment or work for themselves in Ireland under the Common Travel Area. EU/EEA and Swiss citizens have their own rights to employment and self-employment. If you have another nationality, living in the UK or UAE does not settle the question: your particular residence, family or employment status determines what you may do. Read the conditions of your permission and any required employment permit before starting. Stamp 1G, for example, allows employment but not self-employment; Stamp 3 allows neither. An account, tax registration, English fluency, an overseas client or a family application alone does not give you the right to work. Once your planned activity is covered, the tax-registration steps follow.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-an-eea-or-swiss-national/eu-treaty-rights/\" rel=\"noreferrer\">ISD: EU Treaty Rights</a>; <a href=\"https://www.gov.uk/government/publications/common-travel-area-guidance/common-travel-area-guidance\" rel=\"noreferrer\">GOV.UK: Working in the Common Travel Area</a>; <a href=\"https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/\" rel=\"noreferrer\">ISD: Immigration permission/stamps</a></p><p>For a first Irish job, obtain a PPSN, set up myAccount and register the employment with the employer's tax registration number, start date and payment frequency. Revenue supplies the employer with a Revenue Payroll Notification. This also matters for a first temporary or part-time job and helps avoid unnecessary emergency-tax treatment.</p><p>A foreign employment contract and an overseas salary account do not generally exempt duties performed in Ireland from Irish tax and PAYE. The employer's payroll and registration position must match the actual work. Treaty relief and temporary assignments have their own conditions, not a blanket remote-working exemption.</p><p>For genuine self-employment as a sole trader, a PPSN is needed before registration; it becomes the Tax Reference Number through the appropriate tax registration. Someone registered only for PAYE or LPT can use myAccount for Income Tax self-assessment registration. Once registered as a sole trader, returns and payments use ROS. VAT and employer PAYE are separate registrations where applicable.</p><p>If a foreign company is actually managed from Ireland, Revenue examines central management and control, including major policy, investment and contractual decisions. Company tax residence, the individual's tax residence, the Irish EEA-resident-director requirement and bank KYC serve different purposes. A business account has form-specific company, identity and authority evidence. EXOBASIS organises the relevant tax and corporate work around what you will actually do.</p><p class=\"exb-citation\">Sources: <a href=\"https://personalbanking.bankofireland.com/bank/current-accounts/personal-current-account/coming-to-ireland/\" rel=\"noreferrer\">Bank of Ireland: Coming to Ireland</a>; <a href=\"https://businessbanking.bankofireland.com/support-centre/business-banking/business-current-accounts/switching-to-bank-of-ireland/\" rel=\"noreferrer\">Bank of Ireland: Business account documents</a>; <a href=\"https://www.revenue.ie/en/jobs-and-pensions/starting-your-first-job/what-you-should-do.aspx\" rel=\"noreferrer\">Revenue: tax and registration</a>; <a href=\"https://www.revenue.ie/en/tax-professionals/tdm/income-tax-capital-gains-tax-corporation-tax/part-42/42-04-65.pdf\" rel=\"noreferrer\">Revenue: tax and registration</a>; <a href=\"https://www.revenue.ie/en/starting-a-business/registering-for-tax/how-to-register-for-tax-as-a-sole-trader.aspx\" rel=\"noreferrer\">Revenue: tax and registration</a>; <a href=\"https://www.revenue.ie/en/companies-and-charities/corporation-tax-for-companies/corporation-tax/company-residency-rules.aspx\" rel=\"noreferrer\">Revenue: tax and registration</a>; <a href=\"https://cro.ie/registration/company/incidental-obligations/company-officers/\" rel=\"noreferrer\">CRO: Company officers</a></p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Make the paperwork lead to a workable arrival date",
+      "body": "<p>Begin with nationality, current lawful residence, family history and intended use. Those establish the receiving procedure. A UAE residence document may establish where an application can be lodged; it does not grant entry to Ireland. Likewise, a UK address does not turn a person into a British citizen.</p><ol><li><strong>Build the evidence for the actual route.</strong> Prepare identity, relationship and, where relevant, custody, dependency and cohabitation records. For the UK scheme, this includes the required police-clearance evidence for the covered countries of residence, finances and qualifying insurance. For a self-sufficient EU case, use the relevant resources and comprehensive-cover evidence rather than the UK sponsor package.</li><li><strong>Meet the receiving body's document rules.</strong> Obtain required translations, certification and acceptable originals for the particular procedure. An apostille is not a universal answer for every document. The bank's English-language address requirement and the immigration authority's requirements are different checks.</li><li><strong>Coordinate submission with housing and school dates.</strong> AVATS identifies the submission office for the UK family application. Prepare the documents and submission deadline, then connect the process with viewings, admission dates and a realistic move. Do not treat an application as approval or a proposed moving date as confirmed possession.</li><li><strong>Complete the arrival steps.</strong> Arrange any required residence registration, real Irish bank address, PPSN and employment registration, utility transfer, key handover and agreed care contacts in their correct sequence.</li></ol><p>Through our service <a href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a>, EXOBASIS organises the agreed records, translations and specialist input, prepares submission work and follows up questions. Any required personal identity or official appointment remains with the individual. Personal records are requested through the agreed protected exchange.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/\" rel=\"noreferrer\">ISD: residence and family</a></p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep the base usable during absences and changing circumstances",
+      "body": "<p>The maintenance work starts after the first arrival. For relatives who must register, track the permission, renewal and continuing sponsor and relationship conditions. A sponsor's departure, death or a relationship breakdown can change the case. A British citizen may remain free to travel while a relative's permission has its own conditions. A valid passport alone does not answer both questions.</p><p>Keep payments, bank addresses and access arrangements current. For the home, allocate responsibility for rent or ownership costs, LPT, insurance, utilities, keys and agreed checks during absence. Someone needs authority to deal with a problem and to prepare the property before the family returns. A nominal contact is not the same as a person who can obtain access or authorise expenditure.</p><p>For a family or business decision-maker, record who may sign, instruct professionals and operate the relevant bank arrangements if that person is unavailable. Confirm the receiving institution's acceptance of the authority; a foreign power of attorney is not automatically effective for every Irish task. <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">Powers, representation and succession</a> explains the distinction. <a href=\"/en/services/family-business-continuity/\">Family and business continuity</a> connects the legal and practical work to the people expected to act.</p><p>Tax returns and payments continue through the applicable registration, including ROS for a registered sole trader. Corporate obligations depend on the entity rather than a standard checklist for every structure. Through our service <a href=\"/en/services/maintain-preparations/\">Review and maintain your preparations</a>, we keep the agreed documents, deadlines, home and contacts under active attention. Changes in schooling, care, income or return plans are then addressed before the next journey.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.irishimmigration.ie/coming-to-join-family-in-ireland/joining-your-uk-national-family-member/\" rel=\"noreferrer\">ISD: residence and family</a></p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Commission the part of your Ireland plan that needs doing",
+      "body": "<p>You may need the full family base assembled, or you may already know the missing task. EXOBASIS can develop the location shortlist, organise property enquiries and viewings, coordinate residence documents and specialist appointments, and bring the housing, money and arrival timetable together. For a purchase, that includes organising independent checks, completion coordination, handover and setup alongside the solicitor's legal work. Ongoing care of the preparation can follow where required.</p><p>The result is the agreed practical work completed, the records in order and clear responsibility for what must continue. Our work, specialist mandates and third-party costs are distinguished in the proposal. Exobasis LLC is the operator and contracting party. A preliminary advisory purchase is not compulsory before asking us to carry out a defined assignment.</p><h3>Compare Ireland with Portugal and Iceland</h3><p><a href=\"/en/countries/portugal/\">Portugal as a personal alternative</a> tests whether another European family setting better suits the household. A location on mainland Portugal introduces the possibility of overland access, while Ireland offers a different English-speaking daily environment. Both remain in Europe. Existing EU rights should be assessed where a family member has them, but a British citizen's CTA position in Ireland must not be transferred to Portugal. Compare the actual family's residence route, language needs, home and care, rather than choosing on climate alone.</p><p><a href=\"/en/countries/iceland/\">Iceland as a personal alternative</a> raises a distinct North Atlantic choice. EEA/EFTA access, northern conditions, travel and local services need their own assessment; British citizenship does not export Ireland's CTA arrangements there. Research on energy or food resilience is not a guarantee of the family's safety, and alliance membership is a separate issue. Ireland may be the better fit when its particular English-speaking school, work and care arrangements can be made to function for your household. Iceland must earn its place in the comparison on its own conditions.</p><p>With <a href=\"/en/services/country-location-selection/\">Choose suitable countries and locations</a>, we turn those differences into a decision based on your rights, resources and family needs. If Ireland is already your choice, start with the missing work rather than another generic country report.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fireland%2F#short-enquiry\">Ask us to prepare your Ireland option</a><p>Tell us what you need in place for Ireland: a family base, a particular home, residence paperwork or arrival arrangements. Personal records follow through the protected exchange agreed for the work.</p><a class=\"exb-text-link\" href=\"/en/enquiry/#contact-start\">Private enquiry</a></div>"
+    }
+  ],
+  "faq": {
+    "question": "Can I treat Ireland and the United Kingdom as the same legal destination?",
+    "answer": "No. Ireland has its own residence, tax and administrative procedures. British and Irish citizens have particular Common Travel Area rights; UK residence alone does not confer them. EU/EEA/Swiss citizens and family members must use the applicable Irish route. An English-speaking home, an account or a property does not replace that entitlement."
+  },
+  "displayTitle": "Moving to Ireland: build a base your family can use"
+}

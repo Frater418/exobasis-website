@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/wissen/vermoegen-zugriff/",
+  "lang": "de",
+  "title": "Vermögen und Zugriff sichern",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-65e49e40abab11"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-6d1619e0300971"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-e37b182705c78e"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-45b3e27d8143ff"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Dein Plan B / Wissen",
+  "seoTitle": "Vermögen schützen: Lastenausgleich und Zugriff | EXOBASIS",
+  "description": "Lastenausgleich, staatlicher Zugriff und Kontosperren: Was sie unterscheidet und wie du Eigentum, Reserven und Handlungsfähigkeit rechtzeitig vorbereitest.",
+  "intro": "<p>Du hast über Jahre ein Haus abbezahlt, ein Unternehmen aufgebaut oder Vermögen für deine Familie zurückgelegt. Die Sorge, dass dir neue Abgaben, Krieg oder eine Kontosperre den Zugriff darauf nehmen, betrifft deine gesamte Lebensplanung. Sie lässt sich weder mit einem weiteren Konto noch mit einer Firmengründung allein beantworten.</p><p>Wirksame Vorbereitung beginnt beim konkreten Risiko: Was könnte deinem Eigentum geschehen? Was brauchst du davon zum Leben? Und wer kann rechtmäßig darüber verfügen, wenn du selbst ausfällst? Hier findest du die Unterschiede, die bei Vermögensschutz zählen, und die Entscheidungen, die du vor einer Krise treffen kannst.</p>",
+  "primary": {
+    "label": "Vermögen und Zugriffswege vorbereiten lassen",
+    "intent": "Vermögen und Zugriff sichern"
+  },
+  "knowledgeSummary": {
+    "title": "Erarbeitetes erhalten. Handlungsfähig bleiben.",
+    "facts": [
+      [
+        "Eigentum",
+        "Werte, Rechte und Bindungen erfassen"
+      ],
+      [
+        "Liquidität",
+        "Nutzbare Reserven vorbereiten"
+      ],
+      [
+        "Vertretung",
+        "Berechtigten Zugriff ermöglichen"
+      ]
+    ],
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Karte und Kompass als Symbol für die persönliche Vorbereitung."
+  },
+  "sections": [
+    {
+      "id": "abschnitt-1",
+      "title": "Kontosperre, Enteignung, Lastenausgleich: Was trifft dich?",
+      "body": "<p>Ein gesperrtes Konto kann dir heute den Alltag abschneiden, obwohl das Guthaben weiterhin dir gehört. Eine Vermögensabgabe belastet dich finanziell. Eine Enteignung greift in eine Eigentumsposition ein. Und ein sinkender Immobilienwert verändert zunächst den Wert deines Besitzes. Wer diese Vorgänge vermischt, kauft leicht eine teure Lösung für das falsche Problem.</p><p>Bei einer Kontokündigung oder abgelehnten Zahlung brauchst du zunächst die Mitteilung der Bank, die betroffene Funktion und den zulässigen Weg zur Klärung. Eine zweite Bank hilft bei einem einzelnen Anbieter- oder Geräteausfall. Eine rechtliche Verfügungssperre muss dagegen über die zuständige Stelle bearbeitet werden. Der Sperrgrund entscheidet, was noch zulässig ist.</p><h3>Vermögen vor staatlichem Zugriff schützen</h3><p>Für Deutschland stellt Artikel 14 des Grundgesetzes Bedingungen an eine Enteignung: Sie muss dem Wohl der Allgemeinheit dienen und auf einem Gesetz beruhen, das Art und Ausmaß der Entschädigung regelt. Das ist eine andere Rechtsfrage als eine Steuer oder die zeitweise Anforderung eines Fahrzeugs. Österreich und die Schweiz haben eigene Rechtsgrundlagen; ein deutscher Schutzmechanismus lässt sich nicht allein wegen eines Wohnsitzwechsels übertragen.</p><p>Auch ein Vermögensregister oder eine Meldepflicht ist zunächst eine Regel darüber, welche Angaben wem vorliegen müssen. Ob daraus eine Belastung oder ein Eingriff folgt, ergibt sich aus einer weiteren konkreten Rechtsgrundlage. Für deine Entscheidung zählen betroffene Personen, erfasste Werte, Stichtag, Bemessung und Ausnahmen. Eine Schlagzeile ersetzt diese Angaben nicht.</p><p class=\"exb-source-note\"><a href=\"https://www.gesetze-im-internet.de/gg/art_14.html\">Grundgesetz, Artikel 14: Eigentum und Enteignung</a></p><h3>Lastenausgleich: Historischer Eingriff und heutige Entscheidung</h3><p>Das Lastenausgleichsgesetz von 1952 diente dem Ausgleich materieller Folgen von Krieg und Vertreibung. Zu seiner Finanzierung gehörten Vermögensabgabe, Hypothekengewinnabgabe und Kreditgewinnabgabe. Der historische Begriff beschreibt daher mehr als eine Belastung des Eigenheims. Das fortbestehende Gesetz und seine Abwicklung sind kein Beleg dafür, dass heute dieselbe Abgabe für dein gegenwärtiges Vermögen neu entsteht.</p><p>Wenn du Immobilien vor einem befürchteten Lastenausgleich schützen willst, trenne drei Ebenen: die historischen Regeln, eine heute auf dich anwendbare Norm und einen politischen Vorschlag für die Zukunft. Erst ein konkreter Tatbestand zeigt, ob etwa Wohnsitz, Eigentümer, Immobilienstandort, Schulden oder frühere Übertragungen relevant sind. Eine künftige Regel lässt sich nicht aus dem Namen „Lastenausgleich“ berechnen. Du kannst aber schon jetzt deine Bindungen erfassen, Liquidität schaffen und die Folgen möglicher Entscheidungen vergleichen.</p><p class=\"exb-source-note\"><a href=\"https://www.bundesarchiv.de/assets/bundesarchiv/de/Downloads/Vortraege/lastenausgleich-vortrag-bartels-2019.pdf\">Bundesarchiv: Überblick über den historischen Lastenausgleich, 2019</a> · <a href=\"https://www.gesetze-im-internet.de/lag/BJNR004460952.html\">Lastenausgleichsgesetz: Präambel und § 3</a></p>"
+    },
+    {
+      "id": "abschnitt-2",
+      "title": "Was gehört dir, und worauf kannst du tatsächlich zugreifen?",
+      "body": "<p>Ein Haus kann schuldenfrei sein und trotzdem keine kurzfristige Abreise finanzieren. Ein Depot kann auf deinen Namen laufen, während nur dein verlorenes Telefon die Anmeldung freigibt. Deine Familie kann die Kontonummer kennen, ohne eine anerkannte Vollmacht zu besitzen. Vermögensschutz muss deshalb vier Fragen getrennt beantworten: Eigentum, Befugnis, Zugang und verfügbare Zahlung.</p><p>Lege für jeden wesentlichen Wert fest: Wer ist rechtlicher Eigentümer? Wo liegt der Vermögenswert? Welche Gesellschaft oder welches Institut verwaltet ihn? Wer kann Entscheidungen treffen? Welche Forderungen, Steuern oder laufenden Kosten hängen daran? Die benötigten Nachweise liegen anschließend so, dass die berechtigte Person sie auch in deiner Abwesenheit findet.</p><h3>Im Ausland wohnen, in Deutschland besitzen</h3><p>Wenn du nach Österreich, in die Schweiz oder weiter weg ziehst, bleibt dein deutsches Haus am selben Ort. Das gilt ebenso für eine deutsche Betriebsstätte oder einen hier belegenen Vermögenswert. Dein neuer Wohnort, deine steuerliche Ansässigkeit und der Standort des Eigentums beantworten verschiedene Fragen. Einkünfte aus deutschen Immobilien können beispielsweise weiter eine deutsche Steuerpflicht auslösen.</p><p>Erfasse deshalb bei einer vermieteten Immobilie Eigentümer, Lage, Kredit, Mietfluss und verfügbares Verwaltungskonto. Bei der selbstgenutzten Immobilie kommen Wohnbedarf und Rückkehrmöglichkeit hinzu. Eine Auslandsimmobilie ergänzt diese Übersicht um einen weiteren Rechtsraum. Die Wirkung eines Wegzugs wird aus diesen tatsächlichen Beziehungen abgeleitet, nicht aus der Abmeldebestätigung allein.</p><p class=\"exb-source-note\"><a href=\"https://www.gesetze-im-internet.de/estg/__49.html\">Einkommensteuergesetz, § 49: inländische Einkünfte</a></p>",
+      "criteria": {
+        "title": "Vier getrennte Nachweise",
+        "headers": [
+          "Ebene",
+          "Frage",
+          "Benötigte Grundlage"
+        ],
+        "rows": [
+          [
+            "Eigentum",
+            "Was gehört wem?",
+            "Vertrag, Register oder Bestandsnachweis"
+          ],
+          [
+            "Befugnis",
+            "Wer darf verfügen?",
+            "Passendes Instrument und Annahme der Stelle"
+          ],
+          [
+            "Zugang",
+            "Wer kann sich legitimieren?",
+            "Funktionierende Identifizierung und Ersatzweg"
+          ],
+          [
+            "Zahlung",
+            "Wie wird der Betrag nutzbar?",
+            "Zulässiger erreichbarer Ein- und Auszahlungsweg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "abschnitt-3",
+      "title": "Zahlungsfähigkeit erhalten, auch wenn ein Weg ausfällt",
+      "body": "<p>Plane zunächst, was deine Familie am Ausweichort bezahlen muss: Anreise, Unterkunft, Versorgung, medizinische Leistungen und die weiterlaufenden Verpflichtungen zu Hause. Eine Reserve muss zur benötigten Währung, zum Empfänger und zum Zeitpunkt passen. Ein hoher Kontostand ohne erreichbare Freigabe ist dafür nicht ausreichend.</p><p>Prüfe bei einem zusätzlichen Konto den rechtlichen Anbieter, die Annahme von Kunden mit deinem Wohnsitz, Identitäts- und Mittelherkunftsnachweise sowie den Zugang aus dem Ausland. Zwei Marken können dieselbe Bank, dasselbe Kartennetz oder dieselbe technische Freigabe nutzen. Ein E-Geld-Guthaben ist zudem nicht allein wegen einer Kontooberfläche eine Bankeinlage mit demselben Sicherungsmechanismus.</p><h3>Kapitalverkehrskontrollen: Eigentum ohne freie Verwendung</h3><p>Kapitalverkehrskontrollen können unterschiedliche Handlungen begrenzen: Bargeld abheben, Geld grenzüberschreitend überweisen oder eine Währung tauschen. Zypern führte 2013 während seiner Bankenkrise vorübergehende Beschränkungen für Transfers und Zahlungen ein. Das dokumentierte Beispiel zeigt, warum vorhandenes Guthaben und freie Verfügbarkeit auseinanderfallen können. Es beschreibt keine heute identische Lage in Deutschland, Österreich oder der Schweiz.</p><p>Der entscheidende Vorbereitungsschritt liegt vor einer Beschränkung: zulässig eröffnete und nutzbare Konten, nachvollziehbare Mittelherkunft, passende Reserven und unabhängige Freigabewege. Teste eine kleine erlaubte Zahlung zum tatsächlich benötigten Ziel und dokumentiere, wer sie ausführen darf. Nach Inkrafttreten einer Beschränkung richtet sich jede weitere Handlung nach deren Regeln und möglichen Genehmigungen. Ein vorher angelegtes Konto hebt diese Regeln nicht auf.</p><p class=\"exb-source-note\"><a href=\"https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2013/pdf/ecb~99ecb81657.fsrbox201305_01.pdf\">EZB: Zypern und Finanzstabilität, Mai 2013</a></p><h3>Digitaler Euro und Bargeldgrenzen sind verschiedene Fragen</h3><p>Die EZB beschreibt den digitalen Euro in ihrer am 5. Oktober 2026 abgerufenen FAQ als geplante Ergänzung zu Bargeld. Sie unterscheidet programmierbares Geld mit festgelegten Verwendungsbeschränkungen von bedingten Zahlungen, etwa einer vom Käufer gewählten Zahlung nach Lieferung. Nach diesem Entwurf soll der digitale Euro kein programmierbares Geld sein. Die FAQ bindet eine Ausgabeentscheidung an die vorherige Verabschiedung des Rechtsrahmens. Für eine mögliche erste Ausgabe im Jahr 2029 will die EZB bereit sein, sofern die erforderliche Verordnung bis Ende 2026 verabschiedet wird. Im gesonderten <a href=\"https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023%2F0212%28COD%29\">Verfahrensdossier des Europäischen Parlaments, 2023/0212(COD)</a>, steht die Position des Parlaments in erster Lesung noch aus. Das Bereitschaftsziel ist daher kein beschlossener Starttermin.</p><p>Bereits beschlossen ist eine andere Regel: Artikel 80 der EU-Verordnung 2024/1624 begrenzt die erfassten beruflichen Barzahlungen für Güter oder Dienstleistungen auf höchstens 10.000 Euro; zusammenhängende Teilzahlungen zählen mit. Die Verordnung gilt grundsätzlich ab 10. Juli 2027. Niedrigere nationale Obergrenzen bleiben möglich. Die Vorschrift nimmt Zahlungen zwischen natürlichen Personen außerhalb ihrer beruflichen Tätigkeit sowie bestimmte Zahlungen und Einlagen in den Räumlichkeiten von Finanzdienstleistern aus; für letztere gelten oberhalb der Grenze Meldepflichten.</p><p>Eine Zahlungsobergrenze ist kein allgemeines Verbot, Bargeld zu besitzen. Die Mitnahme über Grenzen folgt wiederum eigenen Zoll- und Anmelderegeln. Für deine Vorbereitung bedeutet das: mehrere rechtlich zulässige und vor Ort akzeptierte Zahlungsarten, angemessen geschützte Bargeldreserven und ein Ersatzweg ohne das Haupttelefon. Die Schweiz wird durch diese EU-Zahlungsregel nicht zum EU-Mitgliedstaat.</p><p class=\"exb-source-note\"><a href=\"https://www.ecb.europa.eu/euro/digital_euro/faqs/html/ecb.faq_digital_euro.en.html\">EZB: Digitaler Euro, Fragen 4, 15, 18 und 20</a> · <a href=\"https://eur-lex.europa.eu/eli/reg/2024/1624/oj/deu\">EU-Verordnung 2024/1624, Artikel 80 und 90</a></p><p>Die Vertiefung zum Kontozugang erklärt, wie Konto, Nachweise und Verifikation zusammenpassen. Mit der Bankvorbereitung übernehmen wir die vereinbarte Anbieterabklärung, Unterlagenorganisation und Einrichtung der nutzbaren Zugangswege.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\" data-route=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\"><span>Kontozugang und Zahlungsfähigkeit im Ausland</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/bankzugang-liquiditaet/\" data-route=\"/de/leistungen/bankzugang-liquiditaet/\"><span>Bankzugang und Liquidität vorbereiten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-4",
+      "title": "Immobilien, Übertragung und Struktur: Was ändert sich wirklich?",
+      "body": "<p>Ein Verkauf verändert die Vermögensart. Ein Kredit schafft Liquidität und eine Rückzahlungspflicht. Eine Gesellschaft, ein Trust oder eine Stiftung verändert Rechte und Zuständigkeiten. Bevor du etwas überträgst, muss klar sein, welche Gefahr die Gestaltung adressiert, welche Kontrolle du abgibst und was sie einmalig sowie laufend kostet.</p><table><caption>Immobilienentscheidungen bei Sorge vor Vermögenszugriff</caption><thead><tr><th scope=\"col\">Option</th><th scope=\"col\">Was du damit erreichst</th><th scope=\"col\">Kosten, Bindungen und offene Wirkung</th></tr></thead><tbody><tr><th scope=\"row\">Halten</th><td>Wohnraum, Mieteinnahmen und Eigentum bleiben erhalten.</td><td>Instandhaltung, Finanzierung und örtliche Rechtsbindung bleiben; benötigte Liquidität kommt aus anderer Quelle.</td></tr><tr><th scope=\"row\">Verkaufen</th><td>Ein ortsgebundener Wert wird zum verfügbaren Verkaufserlös.</td><td>Verkaufsdauer, Transaktionskosten, mögliche Steuern und Ersatzwohnraum berücksichtigen. Danach entstehen Bank- und Verwahrabhängigkeiten.</td></tr><tr><th scope=\"row\">Echt finanzieren</th><td>Ein Darlehen kann Liquidität freisetzen.</td><td>Zinsen, Rückzahlung, Sicherheiten und Gläubigerrechte entstehen. Die Wirkung auf eine Abgabe hängt von deren tatsächlicher Schuldenberücksichtigung ab.</td></tr><tr><th scope=\"row\">Eigentum oder Struktur ändern</th><td>Verwaltung, Nachfolge oder Begünstigung lassen sich neu ordnen.</td><td>Übertragungskosten, Steuern, laufende Verwaltung und Kontrollverlust prüfen; bestehende Gläubigerrechte und Anfechtungsregeln gehören dazu.</td></tr><tr><th scope=\"row\">Wohnsitz verlegen</th><td>Du veränderst deinen persönlichen Lebensmittelpunkt.</td><td>Das Grundstück bleibt am bisherigen Ort. Steuerfolgen, laufende Einnahmen und Betreuung müssen weiter organisiert werden.</td></tr></tbody></table><h3>Zwangshypothek: Was ein Grundbucheintrag bewirkt</h3><p>Die Zwangssicherungshypothek nach § 867 ZPO entsteht durch Eintragung im Grundbuch auf Antrag eines Gläubigers im Rahmen der Zwangsvollstreckung. Sie ist nicht dasselbe wie die historische Hypothekengewinnabgabe oder eine diskutierte künftige Vermögensabgabe. Eine schon eingetragene Belastung macht ein Grundstück nicht automatisch unangreifbar.</p><p>Bei einem angebotenen „Schutzdarlehen“ brauchst du deshalb Antworten auf konkrete Fragen: Wer ist der echte Gläubiger, welche Forderung besteht, welchen Rang hat die Sicherheit und wer kann sie durchsetzen? Würde die befürchtete Regel diese Schuld überhaupt abziehen? Eine neue Verpflichtung ohne entsprechenden Nutzen kann deine Handlungsfreiheit verkleinern. Die Prüfung umfasst daher auch Finanzierungskosten, Kündigung, Rückzahlung und Auswirkungen auf einen späteren Verkauf.</p><p class=\"exb-source-note\"><a href=\"https://www.gesetze-im-internet.de/zpo/__867.html\">Zivilprozessordnung, § 867: Zwangshypothek</a></p><h3>Die Struktur folgt der Aufgabe</h3><p>Bei einem Trust hält und verwaltet der Trustee Vermögen nach den maßgeblichen Regeln für Begünstigte; Rechte von Errichter, Trustee und Begünstigten werden ausdrücklich geordnet. Eine liechtensteinische Stiftung ist dagegen eine eigene juristische Person mit gewidmetem Vermögen und Stiftungszweck. Beide können Verwaltungs- und Nachfolgefragen lösen, unterscheiden sich aber in Organisation, Kontrolle und Anerkennung.</p><p>Wenn du weiterhin jederzeit allein über sämtliche Werte verfügen willst, muss genau das mit der gewünschten Verselbständigung abgeglichen werden. Hinzu kommen Herkunfts- und Zielrecht, steuerliche Zurechnung, Berichtspflichten und tatsächliche Kosten. Der Steuerbeitrag erklärt die Verbindung zwischen Wegzug, Beteiligungen und weiterbestehenden Pflichten.</p><p>Für einen Transfer organisieren wir die abgestimmte Übertragung und ihre Nachweiskette. Bei einer Trust-Struktur oder liechtensteinischen Stiftung koordinieren wir die erforderliche Fachausführung und Einrichtung. Für Sachwerte werden Eigentum, Lagerort, Herausgabe, Versicherung und Vertretung geklärt. Ein Lagerbeleg hilft deiner Familie erst, wenn die berechtigte Person den Herausgabeweg nutzen kann.</p><p class=\"exb-source-note\"><a href=\"https://www.gov.uk/trusts-taxes/types-of-trust\">GOV.UK: Trusts and taxes</a> · <a href=\"https://www.stifa.li/organisation/\">Liechtensteinische Stiftungsaufsichtsbehörde</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/vermoegen-uebertragen/\" data-route=\"/de/leistungen/vermoegen-uebertragen/\"><span>Vermögen übertragen und legal verfügbar halten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/trust-struktur/\" data-route=\"/de/leistungen/trust-struktur/\"><span>Eine Trust-Struktur organisieren</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/stiftung-liechtenstein/\" data-route=\"/de/leistungen/stiftung-liechtenstein/\"><span>Eine Stiftung in Liechtenstein organisieren</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/sachwerte-verwahrung/\" data-route=\"/de/leistungen/sachwerte-verwahrung/\"><span>Verwahrung und Zugriff auf Sachwerte organisieren</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\" data-route=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\"><span>Wegzug, Steuern und Unternehmenspflichten</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-5",
+      "title": "Krieg, Ausfall und Abwesenheit: Wer erhält die Handlungsfähigkeit?",
+      "body": "<h3>Eigentum im Kriegsfall: Nutzung ist nicht immer Eigentumsentzug</h3><p>Für Deutschland erlaubt das Bundesleistungsgesetz Anforderungen zu den in § 1 genannten Zwecken, darunter Verteidigung. § 2 unterscheidet unter anderem die Nutzung beweglicher Sachen, unter zusätzlichen Voraussetzungen deren Überlassung zum Eigentum und die zeitlich beschränkte Nutzung von Grundstücken oder Gebäudeteilen. Eine Nutzungsanforderung, eine vorläufige Sicherung und eine endgültige Enteignung sind deshalb nicht austauschbar. Eine persönliche Dienstpflicht braucht wiederum eine eigene Rechtsgrundlage.</p><p>§ 3 setzt Grenzen: Der Bedarf darf nicht auf andere Weise rechtzeitig oder mit verhältnismäßigen Mitteln gedeckt werden können; die Anforderung ist auf das Unerlässliche zu beschränken. Unentbehrlicher Wohnraum darf nur bei gesicherter ausreichender anderweitiger Unterbringung angefordert werden. Gewinnungs-, Fertigungs-, Handels-, Reparatur- und Reinigungsbetriebe dürfen nach § 3 Absatz 5 nicht als solche angefordert werden. Für ihre Fortführung unentbehrliche Sachen dürfen nur angefordert werden, wenn dies für die Verteidigung unumgänglich notwendig ist. Die im Gesetz genannten Anforderungsdauern haben Ausnahmen, insbesondere im Verteidigungsfall. Eine pauschale Aussage „nach zwei Jahren bekommst du alles zurück“ wäre deshalb falsch.</p><table><caption>Was du für betroffene Werte vorbereiten kannst</caption><thead><tr><th scope=\"col\">Objekt</th><th scope=\"col\">Mögliche betroffene Funktion</th><th scope=\"col\">Praktische Vorbereitung</th></tr></thead><tbody><tr><th scope=\"row\">Wohnung oder Haus</th><td>Eigene Nutzung, Unterbringung und laufende Zahlungen</td><td>Eigentums-/Mietnachweis, Bewohnerbedarf, Zustand und erreichbare Vertretung dokumentieren; Ausweichunterkunft bestimmen.</td></tr><tr><th scope=\"row\">Fahrzeug oder bewegliche Sache</th><td>Verfügbarkeit, Nutzung oder bei passenden Voraussetzungen Eigentum</td><td>Eigentum und Zustand nachweisen; Übergabe und Bescheid sichern; zulässigen Ersatz für Familie oder Betrieb planen.</td></tr><tr><th scope=\"row\">Betriebsmittel</th><td>Fortführung eines Betriebs und Versorgung von Kunden</td><td>Unentbehrliche Funktionen und wirtschaftliche Folgen erfassen; Zeichnungsrechte, alternative Arbeitsorte und Ersatzmittel vorbereiten.</td></tr></tbody></table><p>Bei einer konkreten Anforderung zählen Rechtsgrundlage, Bescheid, Gegenstand, Umfang und Rechtsbehelf. Dokumentiere den Zustand vor einer Übergabe, Kosten und Folgeschäden. Das Bundesleistungsgesetz enthält Entschädigungsregeln; eine spätere Entschädigung stellt aber nicht automatisch sofort ein Fahrzeug, ein Zuhause oder einen laufenden Betrieb bereit. Genau diese zeitliche Lücke gehört in deinen <a href=\"/de/leistungen/flucht-notfallplan/\">Flucht- und Notfallplan</a>.</p><p class=\"exb-source-note\"><a href=\"https://www.gesetze-im-internet.de/blg/__1.html\">Bundesleistungsgesetz, § 1</a> · <a href=\"https://www.gesetze-im-internet.de/blg/__2.html\">§ 2: Arten und Dauer</a> · <a href=\"https://www.gesetze-im-internet.de/blg/__3.html\">§ 3: Voraussetzungen und Grenzen</a> · <a href=\"https://www.gesetze-im-internet.de/blg/__21.html\">§ 21: weitere Vermögensnachteile</a></p><h3>Eine berechtigte Person muss auch praktisch handeln können</h3><p>Für Krankheit, Tod und vorübergehende Abwesenheit werden passende Vertretungs- und Nachfolgeregeln benötigt. Die Bank muss die handelnde Person und das Instrument akzeptieren; der Verwahrer braucht einen zulässigen Herausgabeauftrag. Unternehmenszeichnungsrechte und private Vorsorgevollmachten erfüllen unterschiedliche Aufgaben.</p><p>Grenzüberschreitend kommen Form, anwendbares Recht und Anerkennung hinzu. Die Haager Regeln zum Erwachsenenschutz betreffen insbesondere den Schutz nicht mehr selbst handlungsfähiger Erwachsener. Sie ersetzen weder jede Bankprüfung noch gesellschaftsrechtliche Zeichnungsregeln. Der Beitrag zu Vollmachten und Nachfolge zeigt, wie Befugnis, Nachweise und erreichbare Unterlagen zusammengeführt werden.</p><p class=\"exb-source-note\"><a href=\"https://assets.hcch.net/docs/a3920f8f-ee66-470e-943b-cf6865af8226.pdf\">HCCH: Internationaler Erwachsenenschutz</a></p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "abschnitt-6",
+      "title": "Aus deinen Vermögensfragen einen ausführbaren Auftrag machen",
+      "body": "<p>EXOBASIS führt die Vorbereitung von Vermögen und Zugriffswegen zu einem vereinbarten Ergebnis: bestehende Abhängigkeiten erfassen, die nötigen Fachprüfungen organisieren, Anbieteranforderungen und Unterlagen zusammenführen sowie Übertragung, Einrichtung und Übergabe koordinieren. Du behältst den Überblick darüber, welche Entscheidung bei dir liegt und welche Stelle sie umsetzt.</p><p>Das kann die Vorbereitung eines zusätzlichen Zahlwegs sein, eine klar umrissene Vermögensübertragung oder die Einrichtung einer rechtlich geprüften Verwaltungs- und Nachfolgestruktur. Das Angebot benennt Umfang, eigene Arbeit, externe Fachleistungen, Fremdkosten und laufende Aufgaben. Geld und Sachwerte werden beim jeweiligen Institut oder Verwahrer gehalten.</p><p>Du kannst mit einer bestimmten Aufgabe direkt anfragen. Für den Erstkontakt genügen dein Anliegen, die betroffenen Länder und ein Rückweg. Die persönliche Vermögensübersicht und Dokumente nehmen wir anschließend im vereinbarten geschützten Austausch auf.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/vermoegensstrukturen/\" data-route=\"/de/leistungen/vermoegensstrukturen/\"><span>Vermögensstrukturen, Verwahrung und Nachfolge organisieren</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "abschnitt-1",
+        "title": "Wenn der gewohnte Zugriff wegfällt"
+      },
+      {
+        "id": "abschnitt-2",
+        "title": "Eigentum, Verfügung und Erreichbarkeit trennen"
+      },
+      {
+        "id": "abschnitt-3",
+        "title": "Zahlungsfähigkeit außerhalb des gewohnten Wohnsitzes"
+      },
+      {
+        "id": "abschnitt-4",
+        "title": "Übertragung, Struktur und Verwahrung nach Aufgabe wählen"
+      },
+      {
+        "id": "abschnitt-5",
+        "title": "Wer kann handeln, wenn du es nicht kannst?"
+      },
+      {
+        "id": "abschnitt-6",
+        "title": "Die passende Arbeit organisieren"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 91,
+        "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+        "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 98,
+        "target": "/de/leistungen/bankzugang-liquiditaet/",
+        "label": "Bankzugang und Liquidität vorbereiten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Bankaufnahme und Liquidität vorbereiten",
+        "position": "#abschnitt-3"
+      },
+      {
+        "line": 92,
+        "target": "/de/leistungen/vermoegen-uebertragen/",
+        "label": "Vermögen übertragen und legal verfügbar halten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Übertragungsschritte",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 93,
+        "target": "/de/leistungen/trust-struktur/",
+        "label": "Eine Trust-Struktur organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Trust als Strukturvariante",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 94,
+        "target": "/de/leistungen/stiftung-liechtenstein/",
+        "label": "Eine Stiftung in Liechtenstein organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Stiftung als Strukturvariante",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 95,
+        "target": "/de/leistungen/sachwerte-verwahrung/",
+        "label": "Verwahrung und Zugriff auf Sachwerte organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Sachwerte und tatsächlicher Zugriff",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 97,
+        "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+        "label": "Wegzug, Steuern und Unternehmenspflichten",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#abschnitt-4"
+      },
+      {
+        "line": 96,
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#abschnitt-5"
+      },
+      {
+        "line": 99,
+        "target": "/de/leistungen/vermoegensstrukturen/",
+        "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt fachliche Strukturierungsarbeit organisieren",
+        "position": "#abschnitt-6"
+      },
+      {
+        "line": 100,
+        "target": "/de/anfrage/",
+        "label": "Diskrete Anfrage",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#abschnitt-6"
+      }
+    ],
+    "seeding": [
+      "D01",
+      "D05",
+      "D06",
+      "D09",
+      "D10",
+      "D13",
+      "D14",
+      "D22"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true,
+    "redaction": {
+      "package": "03",
+      "origin": "Eigenständige DACH-Redaktion in der gezielten Fortsetzung PB-D68 aus gebundenem Auftrag und erhaltenen Belegen.",
+      "sourceSectionOrder": [
+        {
+          "id": "abschnitt-1",
+          "title": "Wenn der gewohnte Zugriff wegfällt"
+        },
+        {
+          "id": "abschnitt-2",
+          "title": "Eigentum, Verfügung und Erreichbarkeit trennen"
+        },
+        {
+          "id": "abschnitt-3",
+          "title": "Zahlungsfähigkeit außerhalb des gewohnten Wohnsitzes"
+        },
+        {
+          "id": "abschnitt-4",
+          "title": "Übertragung, Struktur und Verwahrung nach Aufgabe wählen"
+        },
+        {
+          "id": "abschnitt-5",
+          "title": "Wer kann handeln, wenn du es nicht kannst?"
+        },
+        {
+          "id": "abschnitt-6",
+          "title": "Die passende Arbeit organisieren"
+        }
+      ],
+      "mappedLinks": [
+        {
+          "line": 91,
+          "target": "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/",
+          "label": "Kontozugang und Zahlungsfähigkeit im Ausland",
+          "function": "Horizontale Aufgabenverbindung",
+          "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+          "position": "#abschnitt-3"
+        },
+        {
+          "line": 98,
+          "target": "/de/leistungen/bankzugang-liquiditaet/",
+          "label": "Bankzugang und Liquidität vorbereiten",
+          "function": "Horizontale Aufgabenverbindung",
+          "originalPosition": "Abschnitt Bankaufnahme und Liquidität vorbereiten",
+          "position": "#abschnitt-3"
+        },
+        {
+          "line": 92,
+          "target": "/de/leistungen/vermoegen-uebertragen/",
+          "label": "Vermögen übertragen und legal verfügbar halten",
+          "function": "Horizontale Aufgabenverbindung",
+          "originalPosition": "Abschnitt konkrete Übertragungsschritte",
+          "position": "#abschnitt-4"
+        },
+        {
+          "line": 93,
+          "target": "/de/leistungen/trust-struktur/",
+          "label": "Eine Trust-Struktur organisieren",
+          "function": "Horizontale Aufgabenverbindung",
+          "originalPosition": "Abschnitt Trust als Strukturvariante",
+          "position": "#abschnitt-4"
+        },
+        {
+          "line": 94,
+          "target": "/de/leistungen/stiftung-liechtenstein/",
+          "label": "Eine Stiftung in Liechtenstein organisieren",
+          "function": "Horizontale Aufgabenverbindung",
+          "originalPosition": "Abschnitt Stiftung als Strukturvariante",
+          "position": "#abschnitt-4"
+        },
+        {
+          "line": 95,
+          "target": "/de/leistungen/sachwerte-verwahrung/",
+          "label": "Verwahrung und Zugriff auf Sachwerte organisieren",
+          "function": "Horizontale Aufgabenverbindung",
+          "originalPosition": "Abschnitt Sachwerte und tatsächlicher Zugriff",
+          "position": "#abschnitt-4"
+        },
+        {
+          "line": 97,
+          "target": "/de/wissen/unternehmen-einkommen/wegzug-steuern/",
+          "label": "Wegzug, Steuern und Unternehmenspflichten",
+          "function": "Horizontale Aufgabenverbindung",
+          "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+          "position": "#abschnitt-4"
+        },
+        {
+          "line": 96,
+          "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+          "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+          "function": "Horizontale Aufgabenverbindung",
+          "originalPosition": "Abschnitt wer handeln darf",
+          "position": "#abschnitt-5"
+        },
+        {
+          "line": 99,
+          "target": "/de/leistungen/vermoegensstrukturen/",
+          "label": "Vermögensstrukturen, Verwahrung und Nachfolge organisieren",
+          "function": "Horizontale Aufgabenverbindung",
+          "originalPosition": "Abschnitt fachliche Strukturierungsarbeit organisieren",
+          "position": "#abschnitt-6"
+        },
+        {
+          "line": 100,
+          "target": "/de/anfrage/",
+          "label": "Diskrete Anfrage",
+          "function": "Conversion",
+          "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+          "position": "#abschnitt-6"
+        }
+      ],
+      "seeding": [
+        "D05",
+        "D06",
+        "D07",
+        "D08",
+        "D09",
+        "D11"
+      ],
+      "sourceDate": "2026-09-25",
+      "draftDate": "2026-10-05",
+      "noPublication": true
+    }
+  },
+  "displayTitle": "Vermögen schützen: Eigentum behalten, Zugriff erhalten"
+}

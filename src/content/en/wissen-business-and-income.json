@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/business-and-income/",
+  "lang": "en",
+  "title": "Keep your business and income running",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-e1e712ee436aab"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-6f7ece84003bbd"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-df9d4e5a867ca9"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Business continuity when moving abroad | EXOBASIS",
+  "description": "Prepare your owner-dependent business for departure or absence: authorised people, payments, customer work, access and the obligations that continue abroad.",
+  "intro": "<p>If your business depends on you, leaving the country can become a choice between protecting your family and keeping your income. The practical answer is to make the essential work continue while you travel, are unavailable or establish a new base.</p><p>A business continuity plan for a small business starts with the decisions, payments and customer commitments that only you can handle today. Then it gives somebody else the authority, information and working access to carry them through.</p>",
+  "primary": {
+    "label": "Prepare my business for departure or absence",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "Keep your business running when you need to leave",
+    "facts": [
+      [
+        "Continuity",
+        "Identify the work that cannot wait for the owner."
+      ],
+      [
+        "Authority",
+        "Give suitable people accepted powers and named access."
+      ],
+      [
+        "Proof",
+        "Test essential tasks before the real absence."
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notebook and pen, symbolising organised preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Find the work that would stop without you",
+      "body": "<p>Take a normal trading week and identify what would fail if you could not answer. Include payroll, supplier payments, client delivery, approvals, invoicing, collections and statutory deadlines. Rank the work by the consequence of delay, not by how often you normally do it.</p><table><caption>An owner-absence plan in practical terms</caption><thead><tr><th scope=\"col\">Task</th><th scope=\"col\">What the replacement needs</th><th scope=\"col\">Evidence it can continue</th></tr></thead><tbody><tr><th scope=\"row\">Pay staff and essential suppliers</th><td>Approved payment authority, available funds and the payment calendar.</td><td>An authorised payment can be prepared and approved through the agreed process.</td></tr><tr><th scope=\"row\">Deliver work to a client</th><td>Current scope, files, next milestone and an accountable contact.</td><td>The substitute can locate the latest work and handle the next agreed step.</td></tr><tr><th scope=\"row\">Issue and follow up invoices</th><td>Correct entity, tax details, customer records and billing access.</td><td>A test invoice can be prepared correctly without using your personal login.</td></tr><tr><th scope=\"row\">Meet a filing or renewal deadline</th><td>The date, responsible adviser, records and required signatory.</td><td>The adviser knows who can supply information and give instructions.</td></tr></tbody></table><p>Use the results to remove the most serious single-person dependencies first. A detailed handbook is useful only when the named people can perform the work it describes.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Keep clients, delivery and invoicing connected",
+      "body": "<p>Give each active engagement a short handover: what was sold, what has been delivered, the next commitment, the current files and who can decide a change. Make the customer-facing contact a managed business channel rather than a personal number that disappears with your SIM.</p><p>If you expect disruption, agree who communicates with clients and what they can commit to. A replacement should be able to explain the next delivery step, record an issue and escalate a decision without improvising the contract.</p><p>Keep invoicing and collections on the same operating plan. Confirm the billing entity and bank details, protect changes to payment instructions with a verification process, and assign responsibility for overdue invoices. Money arriving late can undermine both the business and the family’s move.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Match the authority to the payment or decision",
+      "body": "<p>For every critical action, identify the person who may perform it and the basis of that authority. A company directorship, bank mandate, employment delegation and personal power of attorney serve different purposes. Sharing a password does not settle the right to approve a payment or sign for the company.</p><p>Ask the bank and key providers to confirm the accepted arrangement. Set appropriate payment limits, required approvals, substitute people and the procedure for revoking access. Provide named user access wherever the system supports it.</p><p>If you become unable to make decisions, the business may need a different authority chain from an ordinary holiday absence. Connect company governance, shareholder rights and personal representation through the <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">powers of attorney and succession guide</a>. The documents and the institution’s accepted process need to work together.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\" data-route=\"/en/knowledge/assets-and-access/banking-payments/\"><span>Banking access and payments abroad</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/assets-and-access/powers-representation-succession/\" data-route=\"/en/knowledge/assets-and-access/powers-representation-succession/\"><span>Powers of attorney, representation and succession abroad</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-4",
+      "title": "Test access from somewhere other than your usual desk",
+      "body": "<p>Prepare a working device, an independent connection and recovery methods that remain available if your main phone or email fails. Keep business documents in an organised system with access assigned to the people who need them. Test restoring the files required for a real task, not just opening the backup application.</p><p>Run an owner-absence exercise. Let the substitute find the current client file, prepare an invoice, identify the payment approval and reach the adviser without asking you for a code. Use a safe test or low-risk authorised task, with the exercise agreed in advance. Record what prevented completion.</p><p>At the destination, test the workspace, connection, power arrangements, privacy and client-call hours. If access depends on your home-country phone number, establish a supported recovery or replacement route before changing that number.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/phone-email-access-failure/\" data-route=\"/en/knowledge/phone-email-access-failure/\"><span>When your phone, SIM and main email fail</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/communications-recovery/\" data-route=\"/en/services/communications-recovery/\"><span>Set up private communications and recovery access</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-5",
+      "title": "Resolve the rules for the work you will actually do abroad",
+      "body": "<p>Working from another country can change the legal and administrative questions even if your customers stay where they are. Set out where you will physically work, for whom, for how long and in what role. An employee needs a different assessment from a company director or self-employed consultant.</p><p>Confirm the destination permission for the intended activity, the employer’s agreement where relevant and the applicable payroll and social-insurance treatment. Give the adviser the itinerary, duties and employing entity, rather than asking only whether remote work is possible.</p><p>Keep these decisions alongside the family’s residence plan. A home suitable for living may still be unsuitable for the business activity, insurance conditions or client confidentiality requirements. Resolve those connections before committing to the location.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Running a UK company from abroad: keep the company obligations visible",
+      "body": "<p>UK company directors do not have to live in the UK, but the company must have a UK registered office. Directors remain legally responsible for running the company and ensuring that accounts and reports are properly prepared. Appointing a company secretary does not remove that responsibility.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.gov.uk/limited-company-formation/appoint-directors-and-company-secretaries\">GOV.UK: directors and company secretaries</a>.</p><p>A director’s ability to live abroad does not answer the company’s cross-border tax position. Put the actual management decisions, contracts, work locations, staff and premises before the relevant tax advisers. Keep the personal departure assessment separate from the company assessment, then reconcile the results.</p><p>An overseas company is appropriate when its purpose, administration, banking and continuing costs fit the activity. If you need one, EXOBASIS can organise the formation and administration work with the relevant specialists. Moving a registration on paper while the business continues elsewhere does not describe where its activity actually takes place.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/overseas-company/\" data-route=\"/en/services/overseas-company/\"><span>Arrange an overseas company and ongoing administration</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/business-and-income/departure-tax/\" data-route=\"/en/knowledge/business-and-income/departure-tax/\"><span>Departure, tax and business obligations</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-7",
+      "title": "Put the continuity arrangements into working order",
+      "body": "<p>EXOBASIS maps the owner-dependent tasks, organises the required specialist and institutional work, prepares the document and access arrangements, and coordinates the agreed absence exercise. We also arrange the destination workspace and the practical tasks that connect business continuity with your family’s move.</p><p>The handover identifies who can act, what they need, the steps actually tested and the remaining dependencies. You can commission a focused recovery-access or representation task, an overseas-company engagement or a connected family and business plan.</p><p>Start with the task you cannot afford to have stop. That gives us a concrete point from which to prepare the rest.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/family-business-continuity/\" data-route=\"/en/services/family-business-continuity/\"><span>Keep your family and business functioning</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Independent English redraft for PB-D65 from original briefs, market research and cited primary sources.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Which business tasks cannot stop?"
+      },
+      {
+        "id": "section-2",
+        "title": "Keep customers, delivery and invoicing connected"
+      },
+      {
+        "id": "section-3",
+        "title": "Align authority and payments"
+      },
+      {
+        "id": "section-4",
+        "title": "Prepare independent access and a workable workplace"
+      },
+      {
+        "id": "section-5",
+        "title": "Clarify work location, employer and social insurance"
+      },
+      {
+        "id": "section-6",
+        "title": "Align company structure and tax obligations"
+      },
+      {
+        "id": "section-7",
+        "title": "Put practical continuity arrangements in place"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 152,
+        "target": "/en/knowledge/assets-and-access/banking-payments/",
+        "label": "Banking access and payments abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kontozugang und laufende Zahlungen",
+        "position": "#section-3"
+      },
+      {
+        "line": 153,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#section-3"
+      },
+      {
+        "line": 154,
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "label": "When your phone, SIM and main email fail",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#section-4"
+      },
+      {
+        "line": 156,
+        "target": "/en/services/communications-recovery/",
+        "label": "Set up private communications and recovery access",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kommunikations-/Zugangswege einrichten",
+        "position": "#section-4"
+      },
+      {
+        "line": 150,
+        "target": "/en/services/overseas-company/",
+        "label": "Arrange an overseas company and ongoing administration",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#section-6"
+      },
+      {
+        "line": 151,
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "label": "Departure, tax and business obligations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#section-6"
+      },
+      {
+        "line": 155,
+        "target": "/en/services/family-business-continuity/",
+        "label": "Keep your family and business functioning",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#section-7"
+      },
+      {
+        "line": 157,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      }
+    ],
+    "seeding": [
+      "EN13",
+      "EN12",
+      "EN03"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-27",
+    "noPublication": true
+  },
+  "displayTitle": "Keep your business running when you need to leave"
+}

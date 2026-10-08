@@ -1,0 +1,120 @@
+{
+  "route": "/en/collaboration/",
+  "lang": "en",
+  "title": "Collaboration for advisers and specialist providers",
+  "parent": "/en/",
+  "translation": "/de/zusammenarbeit/",
+  "model": "vertrauen",
+  "schemaVersion": 1,
+  "kind": "collaboration",
+  "reviewStatus": "draft_for_review",
+  "releaseStatus": "editorial_draft_not_published",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c92f618d7ea1ea",
+      "startLine": 17523
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0e2298025a427e",
+      "startLine": 11169
+    }
+  ],
+  "eyebrow": "For advisers and specialist providers",
+  "seoTitle": "Adviser referrals and specialist collaboration | EXOBASIS",
+  "description": "Refer a client or deliver a defined specialist task. Work with EXOBASIS on residence, property, assets and continuity, with clear responsibilities and terms.",
+  "intro": "<p>Your client may have decided where to go, received the tax advice and understood the risks. They still need the preparation carried out: documents obtained, a home made ready, specialists instructed and the loose ends connected.</p><p>EXOBASIS takes responsibility for the practical work it is commissioned to deliver. You can refer a client who needs that work or contribute a defined professional or local service. We agree the relationship, responsibilities and handover at the outset.</p><p><a href=\"/en/enquiry/?anliegen=Specialist%20collaboration#short-enquiry\">Discuss a collaboration</a></p>",
+  "summary": {
+    "kicker": "Work that fits together",
+    "title": "Your expertise, connected to the client’s next step.",
+    "facts": [
+      [
+        "Advisers",
+        "Introduce a defined client need or an existing plan"
+      ],
+      [
+        "Specialists",
+        "Deliver an agreed professional or local task"
+      ],
+      [
+        "EXOBASIS",
+        "Lead the commissioned preparation through handover"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "b-rolle",
+      "title": "Refer a client or take on a specialist task",
+      "body": "<p><strong>For advisers:</strong> you can introduce a client who needs practical follow-through. That may be a family preparing a second base, a business owner planning to leave, or someone whose assets and responsibilities span several countries. Tell us what has already been resolved and what remains to be done.</p><p><strong>For providers:</strong> describe the work you carry out, the jurisdictions and languages you cover, your professional standing where relevant and the conditions for taking on an assignment. A defined outcome is more useful than a broad claim of international capability.</p><p><a href=\"/en/enquiry/?anliegen=Specialist%20collaboration#short-enquiry\">Discuss a referral or specialist assignment</a></p>"
+    },
+    {
+      "id": "b-aufgaben",
+      "title": "Where your work can make the difference",
+      "body": "<p>Assignments include residence and document preparation; local property searches, viewings and handovers; independent purchase checks; family and business continuity; company administration; asset structures and custody; and private communications with workable recovery access.</p><p>For a property purchase, for example, the client may need a local agent to find suitable homes, an independent lawyer to check title and the contract, and someone to arrange utilities and possession. EXOBASIS connects the sequence and follows the agreed work through. Each specialist remains accountable for their own professional service.</p><p>Usable advice and existing plans are the starting point. We identify the missing execution rather than requiring the client to buy the same analysis again.</p>"
+    },
+    {
+      "id": "b-kundenfuehrung",
+      "title": "Agree who leads and who delivers",
+      "body": "<p>Before work starts, we establish who contracts with whom, who approves expenditure, who answers the client's questions and who confirms completion. EXOBASIS leads its own client assignment and coordinates the parts bought in for that work. Where the client must instruct a lawyer, bank or other professional directly, that relationship is clear.</p><p>With a referring adviser, we agree the updates you should receive and the client's permission for them. Your existing advisory relationship has a defined place in the arrangement. Questions, corrections and changes in scope go to an identified person rather than circulating between disconnected providers.</p><p>See <a href=\"/en/how-we-work/\">how EXOBASIS manages client work</a> from initial enquiry to handover.</p>"
+    },
+    {
+      "id": "b-datenuebergabe",
+      "title": "Share the task before sharing the file",
+      "body": "<p>For first contact, describe the need without identifying your client. The country, type of task and broad circumstances are usually enough to establish whether a discussion makes sense.</p><p>Before transferring personal records, we establish the relevant permission or authority, the recipient, the purpose and the documents needed. For example, a property provider needs the search requirements before they need an identity document. A change of specialist prompts a fresh handover decision. The <a href=\"/en/discretion/\">discretion and information-sharing arrangements</a> apply throughout the assignment.</p>"
+    },
+    {
+      "id": "b-konditionen",
+      "title": "Commercial terms that match the work",
+      "body": "<p>We agree the deliverable, fees or procurement terms, payment stages, required client input and how corrections will be handled. The agreement also covers confidentiality, communication, substitute cover where needed and how either party can end the arrangement.</p><p>Referral remuneration, direct professional fees and work bought in by EXOBASIS are distinct arrangements. Each is discussed for the actual collaboration, including any professional disclosure requirements. Availability and delivery dates are confirmed for the assignment before they are included in the client commitment.</p>"
+    },
+    {
+      "id": "b-anfrage",
+      "title": "Make the first conversation useful",
+      "body": "<p>Tell us your role, the service you provide or the client task you want us to take forward, the countries involved and your preferred reply language. Include a contact route you are authorised to use. Keep client names and files for the agreed next stage.</p><p>Raphael Rechberger handles the initial fit discussion. We then identify the proposed assignment, the relevant responsibilities and what is needed to move it forward.</p><p><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=Specialist%20collaboration#short-enquiry\">Discuss a collaboration</a></p>"
+    }
+  ],
+  "linkPlan": [
+    {
+      "sourceLine": 790,
+      "target": "/en/",
+      "label": "EXOBASIS: Your own base beyond your home country",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 792,
+      "target": "/en/how-we-work/",
+      "label": "How EXOBASIS works",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Vertrauens-/Ablaufabschnitt vor Auftrag"
+    },
+    {
+      "sourceLine": 793,
+      "target": "/en/discretion/",
+      "label": "Discretion and protected collaboration",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Am Anfrageübergang: geschützte Zusammenarbeit"
+    },
+    {
+      "sourceLine": 794,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 795,
+      "target": "/de/zusammenarbeit/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    }
+  ],
+  "faq": {
+    "question": "Can I refer a client whose plan is already complete?",
+    "answer": "Yes. We work from usable advice and documents already in place. The discussion focuses on the implementation still needed, who will lead each part and how the relevant information will be handed over."
+  },
+  "displayTitle": "Bring specialist advice through to practical delivery"
+}

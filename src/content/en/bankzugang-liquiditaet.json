@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/banking-liquidity/",
+  "lang": "en",
+  "title": "Prepare banking access and liquidity",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-0b6cfc6cf0ffc0"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-b5540d6813ad63"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Banking and liquidity / Practical preparation",
+  "seoTitle": "Banking access and liquidity preparation | EXOBASIS",
+  "description": "Prepare usable banking, payment routes and family access before a move or account disruption. UK and UAE cases handled around your actual bank and status.",
+  "intro": "<p>A healthy balance is little comfort when you cannot pay for a flight, rent or your child's care. An account closure, a held payment, a changed residence status or a lost phone can interrupt access for very different reasons.</p><p>EXOBASIS organises the banking preparation your situation needs: suitable applications, evidence of funds, receiving arrangements, authorised access and practical tests. The aim is to keep everyday payments working while the underlying issue is dealt with.</p>",
+  "primary": {
+    "label": "Enquire about banking preparation",
+    "intent": "Prepare banking access and liquidity"
+  },
+  "summary": {
+    "kicker": "Your assignment with EXOBASIS",
+    "title": "Money you can actually use when you need it.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "A notebook and pen on a table, illustrating preparation.",
+    "facts": [
+      [
+        "Your need",
+        "Household and business payments that must continue"
+      ],
+      [
+        "Preparation",
+        "Eligible banking, documented funds and authorised access"
+      ],
+      [
+        "Evidence",
+        "Accepted arrangements and agreed payment or recovery tests"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Start with the payments your life depends on",
+      "layout": "prose",
+      "body": "<p>We map what must be paid, by whom, in which currency and from which account. That includes living costs, rent or purchase payments, care, school fees and business commitments. We separate money available now from investments, expected sale proceeds, credit limits and benefits awaiting release.</p><p>Then we look for common dependencies. Two cards on the same account still depend on the same account. Two accounts accessed only through one phone still depend on that phone. A useful alternative has to address the failure you are preparing for.</p><p>Our <a href=\"/en/knowledge/assets-and-access/banking-payments/\">banking and payments guide</a> explains the wider issues. This service carries out the agreed preparation for your household and its actual payment obligations.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Prepare the evidence behind a banking application",
+      "layout": "prose",
+      "body": "<p>We organise the records the selected institution asks for: identity, genuine residence address, tax-residence information, occupation or business activity and the source of relevant funds. A sale contract and the matching account history answer a different question from a general statement of wealth.</p><p>For joint ownership, a business account or someone acting on your behalf, the people and their authority must be clear. We connect the required <a href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">representation and power-of-attorney arrangements</a> to the bank's own process. You retain your credentials and approve applications and transactions yourself or through an accepted representative.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Choose around your real residence and intended use",
+      "layout": "prose",
+      "body": "<p>A bank that serves you today may change what it offers when you move. We assess the named legal entity and product against your new address, currencies, payment needs, access method, costs and any minimum-balance requirement.</p><p>For example, <a href=\"https://www.barclays.co.uk/important-information/living-outside-the-uk/\">Barclays UK explains its restrictions for customers living abroad</a>, including product-specific consequences and defined exceptions. It expressly rejects using a friend's or relative's address instead of the address where you live. The preparation is to establish an eligible banking relationship and move the affected payments in time.</p><p>An e-money balance and a bank deposit also have different protections. The <a href=\"https://www.fca.org.uk/consumers/using-payment-service-providers\">FCA explains safeguarding and payment-provider checks</a>. We identify the provider and the type of money held before treating it as part of your household's reserve.</p>",
+      "criteria": {
+        "title": "What the payment-route assessment connects",
+        "headers": [
+          "Task",
+          "What to establish",
+          "Intended evidence"
+        ],
+        "rows": [
+          [
+            "Everyday payments",
+            "Currency, recipient, access and availability",
+            "An agreed, permitted test payment"
+          ],
+          [
+            "Business and income",
+            "Incoming and outgoing payments, agreements and approvals",
+            "Confirmed usability for the intended purpose"
+          ],
+          [
+            "Authorised representation",
+            "Accepted authority and access without the main person",
+            "Evidence of the bank’s confirmed procedure"
+          ],
+          [
+            "Alternative route",
+            "Separate banking relationship and shared dependencies",
+            "A documented check, not merely another account number"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "section-4",
+      "title": "Handle closure, a freeze and UAE departure as different cases",
+      "layout": "prose",
+      "body": "<p><strong>UK account closure or debanking:</strong> we record the bank's notice, affected products, balance-release process and payment deadlines. The practical work is to prepare an eligible alternative and migrate income, direct debits and standing orders. A challenge to the closure can run alongside that continuity work.</p><p><strong>A frozen account or blocked payment:</strong> first establish what is restricted and which information or authority the institution needs. The <a href=\"https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/frozen-accounts-blocked-payments\">Financial Ombudsman Service</a> explains that banks can impose restrictions, including without prior warning, for suspected fraud, illegal activity or a court order. A complaint starts with the provider. A legal restriction goes to the competent adviser or authority; it is not addressed by disguising a transfer.</p><p><strong>Leaving the UAE:</strong> employment, credit, end-of-service benefits and residence updates need their own sequence. <a href=\"https://www.emiratesnbd.com/en/help-and-support/all-about-end-of-service-benefits\">Emirates NBD's published guidance</a> describes holds against liabilities and possible credit-card restrictions. Separately, its <a href=\"https://www.emiratesnbd.com/en/help-and-support/update-your-residency-status\">residency-update process</a> describes conversion or closure of current accounts depending on the existing account combination. Those are that bank's procedures. We obtain the applicable position for your bank before relying on a final salary or gratuity to fund departure.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Set up and test access before moving essential payments",
+      "layout": "prose",
+      "body": "<p>Once the institution has accepted the account, we coordinate the agreed setup and a permitted test. Can you sign in, receive the required authentication, make the intended payment and reach support from the place where you expect to be? Does an authorised second person have their own accepted way to act?</p><p>If you need a card for a hotel or car-hire reservation, we also check the selected provider's accepted card type and the funds or credit available for a deposit hold. The agreed test covers that use, rather than relying on a successful shop payment alone.</p><p>We also prepare for <a href=\"/en/knowledge/phone-email-access-failure/\">loss of phone or email access</a>. Recovery depends on the provider's process, identity evidence and reachable contact details. We organise a test within the agreed scope while you keep passwords, PINs and recovery codes private.</p><p>A larger movement of capital is a connected <a href=\"/en/services/asset-transfers/\">asset-transfer assignment</a>. Receiving-bank acceptance and evidence requirements are established before the transfer instruction, so your arrival money is not dependent on an unresolved transaction.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Leave with a clear view of what works",
+      "layout": "prose",
+      "body": "<p>Your handover records the banking relationships accepted, payments migrated, access and recovery steps actually tested, authority arrangements, costs and outstanding restrictions. You can see which funds are available for immediate use and which still depend on another event.</p><p>If your concern includes future state controls or the digital pound, we keep that policy question separate from today's payment dependencies. The useful work now is to reduce avoidable concentration, preserve accurate records and maintain accepted access. The <a href=\"/en/knowledge/assets-and-access/\">assets and access overview</a> carries the policy context.</p>"
+    }
+  ],
+  "working": {
+    "title": "How we work together",
+    "body": "<p>You explain the payments and countries involved, then provide the required records through the protected working channel. EXOBASIS coordinates the institution's requests and agreed setup. The bank determines acceptance and product conditions; you authorise the use of your money.</p>"
+  },
+  "nextWork": {
+    "title": "The next practical step",
+    "body": "<p>When the receiving arrangements are ready, we can organise a specific <a href=\"/en/services/asset-transfers/\">transfer</a>. If payment access is only one part of a wider departure, it can be fitted into the family plan without repeating the work already completed.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "Which payments must keep working?",
+    "body": "Tell us whether you are preparing a move, responding to a banking change or arranging access for another authorised person. A general outline is enough; financial records follow privately."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [
+      "EN01",
+      "EN02",
+      "EN07"
+    ],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "275",
+        "label": "Banking access and payments abroad",
+        "target": "/en/knowledge/assets-and-access/banking-payments/",
+        "position": "Kernabschnitt 1: What payments and access you need",
+        "purpose": "Zahlungsbedarf und Abhängigkeiten verstehen und passende Bankvorbereitung auswählen."
+      },
+      {
+        "line": "276",
+        "label": "Transfer assets and retain lawful access",
+        "target": "/en/services/asset-transfers/",
+        "position": "Kernabschnitt 5: Transfer and access dependencies",
+        "purpose": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren."
+      },
+      {
+        "line": "277",
+        "label": "Powers of attorney, representation and succession abroad",
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "position": "Kernabschnitt 2: Accounts and supporting evidence",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "278",
+        "label": "When your phone, SIM and main email fail",
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "position": "Kernabschnitt 5: Transfer and access dependencies",
+        "purpose": "Legitimen Wiederkontakt und Wiederzugang ohne das übliche Gerät vorbereiten."
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages.",
+    "redaction": {
+      "package": "leistungen-a-en",
+      "seeding": [
+        "EN01",
+        "EN02",
+        "EN07"
+      ],
+      "sourceScope": "PB-D65 English editorial candidate; see QUELLEN-EN.md and SEITEN-EN.jsonl. No integration or approval claimed.",
+      "mappedLinks": [
+        {
+          "line": "275",
+          "label": "Banking access and payments abroad",
+          "target": "/en/knowledge/assets-and-access/banking-payments/",
+          "position": "Kernabschnitt 1: What payments and access you need",
+          "purpose": "Zahlungsbedarf und Abhängigkeiten verstehen und passende Bankvorbereitung auswählen."
+        },
+        {
+          "line": "276",
+          "label": "Transfer assets and retain lawful access",
+          "target": "/en/services/asset-transfers/",
+          "position": "Kernabschnitt 5: Transfer and access dependencies",
+          "purpose": "Einen konkreten Transfer oder Eigentumswechsel mit Nachweisen und Fachstellen organisieren."
+        },
+        {
+          "line": "277",
+          "label": "Powers of attorney, representation and succession abroad",
+          "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+          "position": "Kernabschnitt 2: Accounts and supporting evidence",
+          "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+        },
+        {
+          "line": "278",
+          "label": "When your phone, SIM and main email fail",
+          "target": "/en/knowledge/phone-email-access-failure/",
+          "position": "Kernabschnitt 5: Transfer and access dependencies",
+          "purpose": "Legitimen Wiederkontakt und Wiederzugang ohne das übliche Gerät vorbereiten."
+        }
+      ],
+      "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+    }
+  },
+  "scope": {
+    "id": "scope",
+    "title": "What you receive",
+    "body": "<p>You receive a payment-continuity arrangement built around your circumstances, with the agreed applications and setup carried through and their actual status recorded. Existing accounts and advisers are included where useful.</p>",
+    "items": [
+      [
+        "A workable payment sequence",
+        "Essential bills and transfers are matched to available funds and accepted routes."
+      ],
+      [
+        "Prepared applications",
+        "Relevant identity, residence and source-of-funds evidence is organised."
+      ],
+      [
+        "Tested use",
+        "Agreed access, payment and recovery checks show what is working."
+      ]
+    ],
+    "costs": "Coordination fees are separate from bank charges, currency conversion, minimum balances, professional advice and the funds you move. A credit application and the bank’s lending decision are separately identified if relevant."
+  },
+  "displayTitle": "Keep your family able to pay, at home and abroad"
+}

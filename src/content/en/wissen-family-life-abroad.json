@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/family-life-abroad/",
+  "lang": "en",
+  "title": "Prepare family life abroad",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-d3fc892159bdbd"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-2e2ede0ee6e48c"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-be7b4f69cc6f25"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Prepare family life abroad: home, care and arrival | EXOBASIS",
+  "description": "Plan a family move around real needs: children, residence, schools, healthcare, accommodation, pets and the responsibilities you leave behind.",
+  "intro": "<p>Your family needs more than the same destination on its tickets. Children need continuity, an older relative may need daily care, and somebody still has to pay bills and look after the home you leave behind. Preparing those connections gives you room to act if war or political pressure makes staying unacceptable.</p><p>Start with the life each person needs at the other end. The country, neighbourhood, home and timetable should support that life.</p>",
+  "primary": {
+    "label": "Arrange my family’s preparation abroad",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "Moving abroad with your family: prepare a life that works",
+    "facts": [
+      [
+        "People",
+        "The plan follows each person’s rights and daily needs."
+      ],
+      [
+        "Home",
+        "Arrival housing, a longer rental or an organised purchase."
+      ],
+      [
+        "Continuity",
+        "Care, school, pets and remaining responsibilities connected."
+      ]
+    ],
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notebook and pen, symbolising organised preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "One household can contain several different legal situations",
+      "body": "<p>Build the plan around every person who may travel, including a partner, children from an earlier relationship and relatives needing assistance. Record nationality, residence, dependency and who has authority to make decisions. The lead applicant’s permission does not settle everybody else’s position.</p><p>If one parent travels first, work out the consent and evidence needed for the child’s later journey. The European Commission explains that national rules differ and a transit country or airline may require its own authorisation. Obtain the documents for the whole route.</p><p class=\"exb-source-note\">Source: <a href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/travel-documents-minors/index_en.htm\">Your Europe: travel documents for children</a>.</p><p>Keep custody or court questions with the appropriately qualified family-law adviser. Then connect the confirmed position with passports, bookings, school records and the person accompanying the child.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/assets-and-access/powers-representation-succession/\" data-route=\"/en/knowledge/assets-and-access/powers-representation-succession/\"><span>Powers of attorney, representation and succession abroad</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/countries/\" data-route=\"/en/countries/\"><span>Countries and options</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-2",
+      "title": "Give children a route into school and ordinary routines",
+      "body": "<p>Choose the school arrangement before committing to a long tenancy. Ask the school about actual places, entry assessments, curriculum, language support, learning needs and the records it requires. Fees, deposits, transport and term dates belong in the family budget and arrival calendar.</p><p>For a temporary refuge, continuity with the present school may matter most. For permanent relocation, the new curriculum and progression to later qualifications deserve more weight. Discuss the change with each child in language they can understand and preserve manageable routines during the move.</p><p>Collect reports, vaccination information where requested, learning-support plans and relevant contact details. If a relative will help, agree who can collect the children and deal with the school. A school name on a shortlist is an early step; a place, start date and practical journey to school make it usable.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/family-life-abroad/children-family/\" data-route=\"/en/knowledge/family-life-abroad/children-family/\"><span>Prepare to move abroad with children and family</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-3",
+      "title": "Let health and care needs shape the location",
+      "body": "<p>Identify treatment that cannot be interrupted, repeat prescriptions, mobility needs and daily support before choosing a neighbourhood. A major hospital somewhere in the country is less useful than a provider able to deliver the specific care within a practical journey from your home.</p><p>For planned stays within the scope of GHIC or EHIC arrangements, specialised treatment can still require advance agreement. NHS guidance explicitly says dialysis and chemotherapy should be arranged with the healthcare provider before travel because local capacity may be unavailable.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">NHS: healthcare cover abroad and pre-arranged treatment</a>.</p><p>Confirm the policy position and the treatment position separately. For a relative who needs help with bathing, meals or medication, identify the actual carer, language, hours and substitute cover. Carry a clinician-prepared summary and organise a handover to the receiving provider.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\" data-route=\"/en/knowledge/family-life-abroad/health-cover-care/\"><span>Health cover and care abroad</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/family-life-abroad/care-medication/\" data-route=\"/en/knowledge/family-life-abroad/care-medication/\"><span>Care needs, medication and medical dependencies when moving</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-4",
+      "title": "Choose accommodation for arrival, settling in or a lasting base",
+      "body": "<p>A serviced apartment or furnished short let can give the family a stable first address while you view longer-term options. A long tenancy can support school routines once the neighbourhood is right. Buying can suit a durable second base or permanent home, but the purchase should follow the family’s needs and the local legal review.</p><ul><li><strong>Before a rental commitment:</strong> establish the landlord’s authority, permitted occupants, deposit, payment dates, notice, break clauses, inventory, utilities and repairs. Put agreements in the contract.</li><li><strong>Before a purchase:</strong> organise independent checks on ownership and title, encumbrances, permitted use, foreign-buyer conditions and the seller’s authority. Understand transaction taxes, registration, professional fees and ongoing charges.</li><li><strong>Before arrival:</strong> arrange keys, sleeping arrangements, food, communications, transport and a named contact for a late or disrupted journey.</li></ul><p>EXOBASIS can handle the property-search brief, shortlist and viewings, organise independent title and purchase review, coordinate the contract and completion steps, and arrange handover and ongoing care. An exploratory visit can test the school run, treatment journey and working environment before a longer commitment.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/arrange-arrival/\" data-route=\"/en/services/arrange-arrival/\"><span>Arrange your arrival abroad</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-5",
+      "title": "Include pets and the home you leave behind",
+      "body": "<p>International pet transport has its own timetable. Establish the animal’s identification, destination and transit requirements, vaccinations, any tests, certificate window, carrier acceptance and travel crate. Confirm that the arrival accommodation accepts the pet and arrange care if the animal cannot travel on the same day.</p><p>For dogs, cats and ferrets entering the EU from a non-EU country, the European Commission distinguishes identification, rabies requirements, the applicable health document and the owner’s movement. An authorised person can accompany the pet; the owner must travel within five days before or after the animal, with the required written declaration. A journey outside those conditions needs a different assessment of the movement rules. Ask the vet and transport provider to confirm the actual route before booking.</p><p class=\"exb-source-note\">Source: <a href=\"https://food.ec.europa.eu/animals/live-animal-movements/dogs-cats-and-ferrets/bringing-pet-eu-non-eu-country_en\">European Commission: bringing pets into the EU</a>.</p><p>Pet relocation services can be organised as part of the family’s arrival. Tell us early about the animal, its present country and any health or handling needs so the pet timetable does not become the family’s late obstacle.</p><p>For the property left behind, tell the insurer about the intended absence and agree the checks its terms require. Arrange keys, inspections, post, maintenance and payment of continuing costs. If someone may need to authorise repairs or deal with a lender, give them the appropriate authority and an agreed spending limit.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Make return or permanent settlement a conscious choice",
+      "body": "<p>A temporary move needs a review date and conditions for returning. Retain the records, permissions and property arrangements needed to make that return practical. Keep school and employer commitments under review so an extended stay does not turn into a series of missed decisions.</p><p>For a permanent move, decide when the old tenancy, household services, care and financial arrangements can end without leaving a gap. The new routine should be functioning before you remove something the family still depends on.</p><p>Try the plan during a reconnaissance stay where possible. Test the journey, payment methods, internet, neighbourhood and daily care arrangements. Record what worked and what requires a different choice.</p>"
+    },
+    {
+      "id": "section-7",
+      "title": "Have the family preparation organised",
+      "body": "<p>EXOBASIS brings the residence, documents, home, care and arrival tasks together. We organise the agreed searches and appointments, follow up with schools and providers, arrange local work and keep the sequence clear for your family.</p><p>You can commission a focused task such as finding and preparing accommodation, organising a purchase or arranging arrival. A wider family plan connects those tasks with departure, money and ongoing responsibilities. Tell us who is involved, the needs that cannot be interrupted and whether this is a reserve option or a permanent move.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/family-business-continuity/\" data-route=\"/en/services/family-business-continuity/\"><span>Keep your family and business functioning</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Independent English redraft for PB-D65 from original briefs, market research and cited primary sources.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Every family member needs a workable basis"
+      },
+      {
+        "id": "section-2",
+        "title": "Prepare children, schooling and care together"
+      },
+      {
+        "id": "section-3",
+        "title": "Plan healthcare, medication and care needs"
+      },
+      {
+        "id": "section-4",
+        "title": "Prepare accommodation, reconnaissance and arrival"
+      },
+      {
+        "id": "section-5",
+        "title": "Include pets and the home you leave behind"
+      },
+      {
+        "id": "section-6",
+        "title": "Keep return options open or build a new everyday life"
+      },
+      {
+        "id": "section-7",
+        "title": "Bring individual tasks into an organised preparation"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 132,
+        "target": "/en/knowledge/assets-and-access/powers-representation-succession/",
+        "label": "Powers of attorney, representation and succession abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt wer handeln darf",
+        "position": "#section-1"
+      },
+      {
+        "line": 133,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-1"
+      },
+      {
+        "line": 128,
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "label": "Prepare to move abroad with children and family",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#section-2"
+      },
+      {
+        "line": 129,
+        "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+        "label": "Health cover and care abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Krankenversicherung und Behandlung",
+        "position": "#section-3"
+      },
+      {
+        "line": 130,
+        "target": "/en/knowledge/family-life-abroad/care-medication/",
+        "label": "Care needs, medication and medical dependencies when moving",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Pflege und medizinische Abhängigkeiten",
+        "position": "#section-3"
+      },
+      {
+        "line": 131,
+        "target": "/en/services/arrange-arrival/",
+        "label": "Arrange your arrival abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unterkunft, Erkundung und Ankunft",
+        "position": "#section-4"
+      },
+      {
+        "line": 134,
+        "target": "/en/services/family-business-continuity/",
+        "label": "Keep your family and business functioning",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt konkrete Familien-/Betriebsaufgaben abgeben",
+        "position": "#section-7"
+      },
+      {
+        "line": 135,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-7"
+      }
+    ],
+    "seeding": [
+      "EN09",
+      "EN11",
+      "EN13"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-27",
+    "noPublication": true
+  },
+  "displayTitle": "Moving abroad with your family: prepare a life that works"
+}

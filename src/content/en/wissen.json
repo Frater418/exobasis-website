@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/",
+  "lang": "en",
+  "title": "Knowledge for a prepared way forward",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-4a56f8c8faba82"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-fae6731a624c6f"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-770b74d19817c3"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Plan B abroad: family, residence, assets and income | EXOBASIS",
+  "description": "Find practical answers for a Plan B abroad: leaving, residence documents, a home, family care, access to money and keeping your business running.",
+  "intro": "<p>You have decided that your family's freedom and future need more than hope that politics will improve. War, repression, blocked accounts or the fear of being unable to leave may be the reason. The next question is practical: what must be in place for you to act?</p><p>Start with the issue that could stop your family. These guides connect the answer to the rest of your life: where you can stay, how you can pay, who needs care and how your income continues.</p>",
+  "primary": {
+    "label": "Discuss the preparation you need",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "Rights, money, a home and people who know what to do.",
+    "facts": [
+      [
+        "Your starting point",
+        "The issue preventing your next move"
+      ],
+      [
+        "The whole household",
+        "Family, care, property, assets and income"
+      ],
+      [
+        "Practical help",
+        "A defined task or a coordinated plan"
+      ]
+    ],
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Map and compass, symbolising personal preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Start with the obstacle you need to remove",
+      "body": "<p>If you do not yet know when or how you would leave, start with the departure plan. If you have a destination but no usable residence route, start with rights and documents. If your main concern is a frozen account or money tied up in property, start with assets and access.</p><p>Family members can change the order. A child's travel permission, a parent's treatment or the person who keeps the business running may need attention before you select a home. Solve that dependency early rather than discovering it after making financial commitments.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/\" data-route=\"/en/knowledge/prepare-your-way-out/\"><span>Prepare your way out</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/residence-and-documents/\" data-route=\"/en/knowledge/residence-and-documents/\"><span>Prepare residence rights and documents</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/assets-and-access/\" data-route=\"/en/knowledge/assets-and-access/\"><span>Protect assets and retain access</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/family-life-abroad/\" data-route=\"/en/knowledge/family-life-abroad/\"><span>Prepare family life abroad</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/business-and-income/\" data-route=\"/en/knowledge/business-and-income/\"><span>Keep your business and income running</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-2",
+      "title": "Five parts of a workable life abroad",
+      "body": "<h3>Prepare your way out</h3><p>Decide what would make you leave, what has to be ready and what happens if travel is delayed. Connect your current country's obligations with the route and the people receiving you.</p><h3>Residence rights and documents</h3><p>Establish which permission each family member needs and assemble documents the receiving authority can use. A visitor entry, a residence permit and citizenship do different jobs.</p><h3>Assets and access</h3><p>Keep essential money available, establish who can act and understand the consequences of moving or restructuring assets. A balance abroad still needs a workable payment and recovery route.</p><h3>Family life abroad</h3><p>Prepare consent, school, care and a suitable home. Start with accommodation that works on arrival, then choose a longer tenancy or property purchase around the family's everyday needs.</p><h3>Business and income</h3><p>Keep client work, management, payroll and tax responsibilities functioning through the move. Your personal residence and the company's obligations need separate treatment.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/\" data-route=\"/en/knowledge/prepare-your-way-out/\"><span>Prepare your way out</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/residence-and-documents/\" data-route=\"/en/knowledge/residence-and-documents/\"><span>Prepare residence rights and documents</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/assets-and-access/\" data-route=\"/en/knowledge/assets-and-access/\"><span>Protect assets and retain access</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/family-life-abroad/\" data-route=\"/en/knowledge/family-life-abroad/\"><span>Prepare family life abroad</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/business-and-income/\" data-route=\"/en/knowledge/business-and-income/\"><span>Keep your business and income running</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-3",
+      "title": "One lost phone can affect all five",
+      "body": "<p>Your banking approvals, immigration evidence, email and family contacts may depend on the same device. Replacing the handset will not help if the recovery account also requires that missing phone.</p><p>Prepare a second way to make contact, obtain the right evidence and use the provider's legitimate recovery process. The phone and email guide shows how to identify the dependency and explains distinct UKVI and UAE PASS examples.</p><p>Being able to reach an account is different from being authorised to use it for someone else. Your family needs both a working access route and the legal authority for the intended task, accepted by the bank or organisation involved. A shared password gives neither a power of attorney nor permission to act.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/phone-email-access-failure/\" data-route=\"/en/knowledge/phone-email-access-failure/\"><span>When your phone, SIM and main email fail</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-4",
+      "title": "Choose the work you want taken off your hands",
+      "body": "<p>EXOBASIS plans and carries out the preparation you commission. That can be a complete departure plan or a defined assignment: organising documents, preparing banking access, arranging a home, putting family responsibilities in order or setting up communications and recovery.</p><p>A property purchase can be part of the work: location and requirements, a search and viewings, organised independent title and purchase checks, contract and completion coordination, handover and ongoing care. The country and property determine the local professional roles and the costs.</p><p>You can begin with the practical task you already understand. Paid initial assessment, implementation and continuing maintenance have their own scopes; you do not have to buy the assessment to enquire about a specific service.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/\" data-route=\"/en/services/\"><span>Practical help</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-5",
+      "title": "Turn the next question into a decision",
+      "body": "<p>Choose a guide, identify the unresolved condition and decide who will deal with it. You may need a document, a specialist answer, a receiving arrangement or someone to organise several connected tasks.</p><p>When you want us to take on that work, tell us where you live, who the preparation is for and what you need to make possible. A short initial enquiry is enough to begin; detailed family and financial records belong in the protected follow-up.</p><p>If you would like help choosing the right starting point, you can request a free 20-minute orientation through your <a href=\"/en/enquiry/\">private enquiry</a>. It is optional: a defined task can go straight to an enquiry, with no orientation call required.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Which question determines your next move?"
+      },
+      {
+        "id": "section-2",
+        "title": "Five connected areas of preparation"
+      },
+      {
+        "id": "section-3",
+        "title": "Keep access when your main device fails"
+      },
+      {
+        "id": "section-4",
+        "title": "Hand over the work you need done"
+      },
+      {
+        "id": "section-5",
+        "title": "Read the questions that matter next"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 35,
+        "target": "/en/knowledge/prepare-your-way-out/",
+        "label": "Prepare your way out",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt persönliche Vorbereitung",
+        "position": "#section-1"
+      },
+      {
+        "line": 36,
+        "target": "/en/knowledge/residence-and-documents/",
+        "label": "Prepare residence rights and documents",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Rechte und notwendige Unterlagen",
+        "position": "#section-1"
+      },
+      {
+        "line": 37,
+        "target": "/en/knowledge/assets-and-access/",
+        "label": "Protect assets and retain access",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Vermögen und Zugriff",
+        "position": "#section-1"
+      },
+      {
+        "line": 38,
+        "target": "/en/knowledge/family-life-abroad/",
+        "label": "Prepare family life abroad",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Familie und Alltag",
+        "position": "#section-1"
+      },
+      {
+        "line": 39,
+        "target": "/en/knowledge/business-and-income/",
+        "label": "Keep your business and income running",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Unternehmen und Einkommen",
+        "position": "#section-1"
+      },
+      {
+        "line": 57,
+        "target": "/en/knowledge/prepare-your-way-out/",
+        "label": "Prepare your way out",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-2"
+      },
+      {
+        "line": 79,
+        "target": "/en/knowledge/residence-and-documents/",
+        "label": "Prepare residence rights and documents",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-2"
+      },
+      {
+        "line": 103,
+        "target": "/en/knowledge/assets-and-access/",
+        "label": "Protect assets and retain access",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-2"
+      },
+      {
+        "line": 127,
+        "target": "/en/knowledge/family-life-abroad/",
+        "label": "Prepare family life abroad",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-2"
+      },
+      {
+        "line": 149,
+        "target": "/en/knowledge/business-and-income/",
+        "label": "Keep your business and income running",
+        "function": "Vertikale Vertiefung",
+        "originalPosition": "Zugehörige Themen-/Leistungs-/Ländergruppe der Übersichtsseite",
+        "position": "#section-2"
+      },
+      {
+        "line": 40,
+        "target": "/en/knowledge/phone-email-access-failure/",
+        "label": "When your phone, SIM and main email fail",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Ausfall von Geräten und Hauptzugängen",
+        "position": "#section-3"
+      },
+      {
+        "line": 41,
+        "target": "/en/services/",
+        "label": "Practical help",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Einstiegsbereich oder Abschluss: konkrete Arbeit abgeben",
+        "position": "#section-4"
+      },
+      {
+        "line": 42,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-5"
+      }
+    ],
+    "seeding": [],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-26",
+    "noPublication": true
+  },
+  "displayTitle": "Prepare a way out. Protect the life you have built."
+}

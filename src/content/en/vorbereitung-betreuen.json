@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/services/maintain-preparations/",
+  "lang": "en",
+  "title": "Review and maintain your preparations",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-af7c328d3e7466"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-c0e39e62f20640"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Ongoing support / Your preparation kept usable",
+  "seoTitle": "Maintain your family’s Plan B and second base | EXOBASIS",
+  "description": "Keep documents, residence conditions, access, contacts and local preparations current, with agreed checks, practical corrections and a clear maintenance record.",
+  "intro": "<p>You have invested in preparing an alternative. It needs attention while you get on with life: a renewed passport must reach the right records, a new phone must work with your accounts, and a home left empty must still be ready when you arrive.</p><p>EXOBASIS takes on the agreed continuing work. We check the arrangements that matter, follow up changes and organise the corrections within your mandate. You receive a clear account of what was checked, what works and what needs a decision.</p>",
+  "primary": {
+    "label": "Enquire about ongoing support",
+    "intent": "Review and maintain your preparations"
+  },
+  "summary": {
+    "kicker": "Your assignment with EXOBASIS",
+    "title": "Continuing work that protects the value of your preparation.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "A notebook and pen on a table, illustrating preparation.",
+    "facts": [
+      [
+        "Coverage",
+        "Specified records, access routes and local arrangements"
+      ],
+      [
+        "Checks",
+        "Agreed intervals and meaningful changes"
+      ],
+      [
+        "Result",
+        "Completed follow-up, evidence and the next review"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Agree exactly what is being maintained",
+      "layout": "prose",
+      "body": "<p>We start with the preparation you already have, whether EXOBASIS organised it or another adviser did. Together we identify the documents, permissions, payment and communication routes, contacts, property arrangements and other items to include.</p><p>For each item, we establish the current evidence, who controls it, what could change and what a useful check looks like. A reminder to renew a passport is a different task from organising its renewal. A call to a keyholder is different from an inspection of the property. Your agreement makes the work explicit.</p><p>The starting record also identifies which arrangements depend on the same person, device, institution or location. Maintenance includes those connections so an apparently small change does not quietly disable several parts of the plan.</p>"
+    },
+    {
+      "id": "section-2",
+      "title": "Use scheduled reviews and respond to meaningful changes",
+      "layout": "prose",
+      "body": "<p>The review rhythm follows the item. A permit deadline needs sufficient lead time for the relevant renewal; a property requires the agreed local inspection schedule; contacts and access routes need a practical check at suitable intervals.</p><p>We also agree changes you will tell us about: a new passport or phone, a changed address, separation, a new dependant, a health need, a bank notice or a different work arrangement. These prompt a focused review of the affected preparation. For banking, that includes an announced product conversion or a restriction linked to inactivity. We check which payment functions are affected and what your institution requires to keep or restore them.</p><p>If disruption changes a carrier, route or receiving arrangement, we revisit that part of the plan. The previously recorded option remains useful preparation, while actual travel decisions use current information.</p>"
+    },
+    {
+      "id": "section-3",
+      "title": "Keep rights, documents and access aligned",
+      "layout": "prose",
+      "body": "<p><a href=\"/en/services/residence-documents/\">Residence and document maintenance</a> connects the physical record, the authority's information and the conditions of use. For a UK eVisa holder, a changed passport must be reflected in the UKVI account used for travel. <a href=\"https://www.gov.uk/evisa/travel-with-evisa\">UKVI's guidance</a> explains the checks before travelling and the recovery route if phone or email access is lost.</p><p>For UAE residents using a second base, permit expiry, time outside the country and cancellation are different events. The <a href=\"https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/general-provisions-for-the-residence-visa\">official residence guidance</a> distinguishes the general absence rule and exceptions; <a href=\"https://icp.gov.ae/en/services-details/?serviceid=68e352d65ae59b00117383fc\">ICP's extended-absence permit service</a> excludes Dubai residents. We maintain the confirmed requirements for the actual category and authority, rather than applying one date to the whole family.</p><p><a href=\"/en/services/communications-recovery/\">Communication and recovery support</a> keeps authorised access connected to the devices and contacts you now use. Tests are carried out with your participation and the provider's accepted procedures.</p><p>If you have asked us to monitor a policy issue such as the digital pound, we record the source, its status and whether a change affects a concrete preparation. Proposed policy and implemented requirements remain separate. The <a href=\"/en/knowledge/assets-and-access/\">assets and access overview</a> holds that context; routine maintenance concentrates on the dependencies your family has today.</p>"
+    },
+    {
+      "id": "section-4",
+      "title": "Care for the home while you are elsewhere",
+      "layout": "prose",
+      "body": "<p>A second home needs more than someone who possesses a key. The commissioned local work can cover inspections, evidence of condition, utilities, bills, essential maintenance and follow-up on defects. We agree what is checked, who can enter and which expenditure needs your approval.</p><p>Before an arrival, the tasks may include confirming access, cleaning, functioning water and electricity, essential supplies and the handover time. After a local incident, a specific inspection can establish the condition and the repairs needed before you rely on the property.</p><p>The arrangement identifies the keyholder or local provider, the reporting method and cover if that person is unavailable. Photographs, receipts or a written inspection record support the work actually performed. A change of property or a major repair is separately scoped.</p>"
+    },
+    {
+      "id": "section-5",
+      "title": "Receive updates that lead to completed action",
+      "layout": "prose",
+      "body": "<p>Your maintenance record shows the item checked, date, source or observed test, finding, action taken and next deadline. If a task requires your decision, you receive the reason, available choices and cost implications.</p><p>Routine corrections already included in the mandate are followed through. Additional legal work, a new setup, travel or a substantial change is proposed before it is commissioned. The next update shows whether the matter was resolved or what is still preventing completion.</p><p><a href=\"/en/how-we-work/\">How EXOBASIS works</a> explains the responsibility and handover behind this continuing relationship.</p>"
+    },
+    {
+      "id": "section-6",
+      "title": "Test the connection between the parts",
+      "layout": "prose",
+      "body": "<p>At agreed points, we rehearse a useful part of the plan. Can the authorised substitute find the right contact? Can you access the required status after a device change? After a banking change or reactivation, can you make the payment you need and complete the agreed access-recovery procedure? Can the receiving person confirm the accommodation arrangements? The test and its result are recorded.</p><p>We include the coordinator's own continuity where relevant: who can take over, which information they may access and how the client reaches them. A weakness found in a test becomes a defined correction and, where needed, a re-test.</p><p>If you require support during a named situation, <a href=\"/en/services/activation-emergency-coordination/\">activation and emergency coordination</a> establishes the separate contact windows, authority and response arrangement. Maintenance keeps the preparation current; the activation agreement defines the support available when it is used.</p>"
+    }
+  ],
+  "working": {
+    "title": "How we work together",
+    "body": "<p>You tell us about the personal changes included in the agreement and approve additional commitments. EXOBASIS performs or organises the commissioned checks, coordinates follow-up and reports the resulting position. <a href=\"/en/how-we-work/\">How EXOBASIS works</a> explains how tasks, responsibility and the handover of results are agreed.</p>"
+  },
+  "nextWork": {
+    "title": "The next practical step",
+    "body": "<p>If a major change affects the overall <a href=\"/en/services/departure-contingency-plan/\">departure and contingency plan</a>, we update the relevant parts. Work that remains useful is retained, with the affected dependencies reconsidered.</p>"
+  },
+  "closing": {
+    "id": "enquiry",
+    "title": "Which preparations should remain ready without becoming another job for you?",
+    "body": "Tell us what is already in place and which documents, access arrangements or property need continuing attention. We will define the starting review and maintenance scope."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "352",
+        "label": "Personal departure and contingency plan",
+        "target": "/en/services/departure-contingency-plan/",
+        "position": "Passende nächste Arbeit / Relevant next work",
+        "purpose": "Einen zusammenhängenden Plan für Personen, Vermögen, Geschäft und benannte Szenarien ausarbeiten lassen."
+      },
+      {
+        "line": "353",
+        "label": "Arrange residence and document preparation",
+        "target": "/en/services/residence-documents/",
+        "position": "Kernabschnitt 3: Deadlines and changes",
+        "purpose": "Ein verwendbares, nachverfolgtes Dossier und die beauftragten Dokumenten-/Aufenthaltsschritte organisieren lassen."
+      },
+      {
+        "line": "354",
+        "label": "Set up private communications and recovery access",
+        "target": "/en/services/communications-recovery/",
+        "position": "Kernabschnitt 3: Deadlines and changes",
+        "purpose": "Berechtigte Kontakt- und Zugangswege einrichten und praktisch testen lassen."
+      },
+      {
+        "line": "355",
+        "label": "Agreed activation and emergency coordination",
+        "target": "/en/services/activation-emergency-coordination/",
+        "position": "Kernabschnitt 6: The next practical test",
+        "purpose": "Für benannte Unterstützungsfälle einen besetzten, verifizierbaren und getesteten Ablauf vereinbaren."
+      },
+      {
+        "line": "356",
+        "label": "How EXOBASIS works",
+        "target": "/en/how-we-work/",
+        "position": "Zusammenarbeit / Working together",
+        "purpose": "Auftrag, Verantwortung, praktische Ausführung und Übergabe verstehen."
+      }
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages.",
+    "redaction": {
+      "package": "leistungen-a-en",
+      "seeding": [],
+      "sourceScope": "PB-D65 English editorial candidate; see QUELLEN-EN.md and SEITEN-EN.jsonl. No integration or approval claimed.",
+      "mappedLinks": [
+        {
+          "line": "352",
+          "label": "Personal departure and contingency plan",
+          "target": "/en/services/departure-contingency-plan/",
+          "position": "Passende nächste Arbeit / Relevant next work",
+          "purpose": "Einen zusammenhängenden Plan für Personen, Vermögen, Geschäft und benannte Szenarien ausarbeiten lassen."
+        },
+        {
+          "line": "353",
+          "label": "Arrange residence and document preparation",
+          "target": "/en/services/residence-documents/",
+          "position": "Kernabschnitt 3: Deadlines and changes",
+          "purpose": "Ein verwendbares, nachverfolgtes Dossier und die beauftragten Dokumenten-/Aufenthaltsschritte organisieren lassen."
+        },
+        {
+          "line": "354",
+          "label": "Set up private communications and recovery access",
+          "target": "/en/services/communications-recovery/",
+          "position": "Kernabschnitt 3: Deadlines and changes",
+          "purpose": "Berechtigte Kontakt- und Zugangswege einrichten und praktisch testen lassen."
+        },
+        {
+          "line": "355",
+          "label": "Agreed activation and emergency coordination",
+          "target": "/en/services/activation-emergency-coordination/",
+          "position": "Kernabschnitt 6: The next practical test",
+          "purpose": "Für benannte Unterstützungsfälle einen besetzten, verifizierbaren und getesteten Ablauf vereinbaren."
+        },
+        {
+          "line": "356",
+          "label": "How EXOBASIS works",
+          "target": "/en/how-we-work/",
+          "position": "Zusammenarbeit / Working together",
+          "purpose": "Auftrag, Verantwortung, praktische Ausführung und Übergabe verstehen."
+        }
+      ],
+      "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+    }
+  },
+  "scope": {
+    "id": "scope",
+    "title": "What you receive",
+    "body": "<p>You receive the recurring checks and practical follow-up specified in your agreement, with an understandable record of findings and actions. Existing preparation is assessed at the start so the scope reflects what you actually need maintained.</p>",
+    "items": [
+      [
+        "Dates followed through",
+        "Renewal and review tasks are connected to the action required."
+      ],
+      [
+        "Usability checked",
+        "Agreed access and contact tests identify failures while there is time to correct them."
+      ],
+      [
+        "Local care organised",
+        "Commissioned inspections and arrival preparation keep a second base usable."
+      ]
+    ],
+    "costs": "The recurring fee covers the specified checks and follow-up. Travel, external inspections, professional advice, new setup, major repairs and reserved activation capacity are identified separately where applicable."
+  },
+  "displayTitle": "Keep your prepared option ready for the day you need it"
+}

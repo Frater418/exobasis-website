@@ -1,0 +1,239 @@
+{
+  "route": "/en/countries/greece/",
+  "lang": "en",
+  "title": "Greece as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/griechenland/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-0455c7a647b948",
+      "startLine": 5002
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-d97ae737184f9c",
+      "startLine": 6479
+    }
+  ],
+  "eyebrow": "EXOBASIS / Greece",
+  "seoTitle": "Moving to Greece: residency, property and family | EXOBASIS",
+  "description": "Moving to Greece or considering residency by investment? Compare your rights, mainland and island homes, purchase rules, healthcare and family preparation.",
+  "intro": "<p>Greece can make sense when you want a home in Europe that your family will genuinely use: a different everyday life, a second place to live, or a carefully prepared move. For British and UAE-based families, the first decision is the residence route. Your passports, existing rights, work and intended time in Greece determine what the home can become.</p><p>EXOBASIS turns that decision into practical preparation, from choosing the location and arranging documents to organising a rental or property purchase and preparing the household for arrival.</p>",
+  "countryContext": "/en/countries/greece/",
+  "linkPlan": [
+    {
+      "sourceLine": 1218,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1220,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1221,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1222,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1223,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1224,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1225,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1226,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1227,
+      "target": "/de/laender/griechenland/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1497,
+      "target": "/en/countries/cyprus/",
+      "label": "Cyprus as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1499,
+      "target": "/en/countries/malta/",
+      "label": "Malta as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Your Europe: Residence rights",
+      "url": "https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "Greek Ministry of Migration: Golden Visa",
+      "url": "https://migration.gov.gr/en/golden-visa/",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_limited",
+      "limitation": "The broad landing page contains older amounts. Current thresholds and object conditions in this candidate are supported by the Ministry circular and MITOS procedures cited directly in the body."
+    },
+    {
+      "title": "Ministry of Migration: Circular 9, property thresholds and use rules",
+      "url": "https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "read_in_retained_provider_response",
+      "limitation": ""
+    },
+    {
+      "title": "MITOS: Golden Visa change-of-use requirements",
+      "url": "https://en.mitos.gov.gr/index.php/%CE%94%CE%94:Permanent_golden_visa_(change_of_use)_%E2%80%93_Initial_issuance",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "read_in_retained_provider_response",
+      "limitation": ""
+    },
+    {
+      "title": "MITOS: listed-building investor requirements",
+      "url": "https://en.mitos.gov.gr/index.php/%CE%94%CE%94:Golden_visa_programme_(investment_in_a_listed_real_property)_%E2%80%93_Initial_issuance",
+      "section": 5,
+      "checkedAt": "2026-09-27",
+      "verification": "read_in_retained_provider_response",
+      "limitation": ""
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Prepare my Greece base",
+    "intent": "General enquiry"
+  },
+  "country": {
+    "name": "Greece",
+    "slug": "griechenland",
+    "region": "Europe",
+    "map": "countries/griechenland-locator.svg",
+    "imageAlt": "Locator map showing Greece in south-eastern Europe.",
+    "caption": "Greece: mainland and island locations.",
+    "summary": [
+      [
+        "Start with your existing rights",
+        "EU citizenship, protected UK residence and a new non-EU application lead to different preparation."
+      ],
+      [
+        "Choose a year-round home",
+        "School, treatment and winter transport matter as much as the summer location."
+      ],
+      [
+        "Connect purchase and residence",
+        "An ordinary home purchase and a qualifying Golden Visa investment follow different conditions."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "What do you want Greece to change for your family?",
+      "body": "<p>A home near Athens can support school, work and regular travel. A base around Thessaloniki gives you a different city and mainland starting point. A home on Crete can offer an island life with a substantial year-round population. These are different choices, even when the residence route is the same.</p><p>If you want a second home rather than a full move, define when it must be available and who will keep it ready. If you want a permanent family future, begin with school, healthcare and how you will earn or receive income. The right property is the one that supports that life.</p><p>If fear of war is behind the decision, decide whether your objective is another base within Europe or geographical distance from Europe. Greece answers the first question. That distinction belongs in your country choice before you commit to a purchase.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "A second home you can reach and lawfully use",
+      "body": "<dl><dt>Scenario</dt><dd><p>Greece offers a European base relatively close to many families' existing lives. Define the disruption you are preparing for: leaving a war affecting Ukraine or eastern Europe raises different route questions from a conflict disrupting the eastern Mediterranean or Middle Eastern air connections. Assess the Greek region and the journey from your present home against that scenario. An EU address or an island setting does not settle the answer.</p></dd><dt>Access</dt><dd><p>For British-citizen passport holders visiting as tourists, the normal visa-free limit is 90 days in any 180 across the Schengen area. Time in other Schengen countries counts towards that allowance. A Greek holiday home does not restart the clock. For a longer stay, use the relevant national visa or residence route. <a href=\"https://www.gov.uk/foreign-travel-advice/greece/entry-requirements\">Greece entry and short-stay rules for British citizens</a>.</p><p>A qualifying third-country investor can have a proxy submit the residence application before entering Greece, using a properly authenticated power of attorney. That separates filing from travel; it does not remove the need for lawful personal entry and the required in-person biometric stage. Prepare the entry basis and appointments alongside the property and application documents, then confirm the rights granted before relying on the home for an extended stay. <a href=\"https://en.mitos.gov.gr/index.php/%CE%94%CE%94:Golden_visa_programme_(investment_in_a_listed_real_property)_%E2%80%93_Initial_issuance\">Official investor application and biometric procedure</a>.</p></dd><dt>Dependencies</dt><dd><p>Plan a route for the period in which you may need to arrive, not only for the summer flight schedule. A mainland address and an island address depend on different final connections. Establish an alternative if a flight, ferry or connecting road is unavailable, especially where a family member needs regular treatment.</p><p>For an island home, establish which ferries or flights operate outside the holiday season and where you would obtain treatment if the connection stopped. For a mainland home, test the onward road route and local services rather than assuming that avoiding a ferry removes every dependency. Tie the choice of address to the household's supplies and medical needs.</p></dd><dt>Return</dt><dd><p>Make the first arrival practical: accessible keys, electricity and water, essential supplies, a usable payment method and a local contact who knows the home. If you already hold Greek residence documents, keep the current proof with the passport you will use. The <a href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">war-related departure planning guide</a> connects the destination with the wider journey and decision points.</p><p>Check the return position for each passport and status before an absence: an EU or protected-residence case, a current Greek permit and an ordinary Schengen visit have different conditions. Keep the permit valid, plan any required renewal and preserve the qualifying basis. A pending application, a purchase deed or keys to the home is not a substitute for the entry documents your household needs.</p></dd></dl>"
+    },
+    {
+      "id": "family-future",
+      "title": "Moving to Greece with children or relatives",
+      "body": "<p>Choose the school before fixing the neighbourhood. For an English-language route, St Catherine's in Athens and Pinewood in Thessaloniki are concrete institutions to investigate. St Catherine's offers the IB Diploma; Pinewood describes English-speaking education from pre-kindergarten to grade 12. Compare the child's current curriculum, language, support needs and intended next school stage with the receiving school's offer. <a href=\"https://www.stcatherines.gr/upper-school/ib/\">St Catherine's IB programme</a>; <a href=\"https://anatolia.edu.gr/en/about/institutional-description\">Pinewood within the Anatolia institutions</a>.</p><p>For a Greek-language school, allow for the child's language transition as well as the administrative enrolment. Prepare academic records, identity and family documents, and the receiving school's health-document requirements. Confirm an actual place and the daily journey before agreeing a long residential lease.</p><p>An older relative's care can determine the location more strongly than the preferred view. Establish which doctor will take over, how prescriptions will continue, and who can help with daily tasks. The residence route and insurance for that relative need their own place in the plan. <a href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare the move for children and relatives</a>.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Splitting your time between Greece, the UK and the Gulf",
+      "body": "<p>Begin with your intended calendar and work. A British family using Greece for holidays has the Schengen short-stay calculation. An EU citizen has a different residence framework. A non-EU remote worker can examine the Greek digital-nomad route, which the Foreign Ministry describes for employees, freelancers and self-employed people based outside Greece.</p><p>The ministry's UK guidance sets out a national visa of up to 12 months and evidence of steady income of EUR 3,500 monthly for the applicant. Where the resources come from the employment, services or contract-work income specified in the law, that minimum is net income after the required taxes in the country where the work is performed. Add 20% for a spouse or civil partner and 15% for each child.</p><p>Eligible spouses or civil partners and unmarried children under 18 can apply for individual visas expiring with the main applicant's visa, subject to the relevant relationship, adoption or custody conditions. They cannot take employment or carry on economic activity in Greece under this accompanying-family status. The main applicant's remote work must be for employers or clients outside Greece; the route does not permit work for a Greek-based employer. <a href=\"https://migration.gov.gr/wp-content/uploads/2023/04/%CE%9A%CF%8E%CE%B4%CE%B9%CE%BA%CE%B1%CF%82-%CE%9C%CE%B5%CF%84%CE%B1%CE%BD%CE%AC%CF%83%CF%84%CE%B5%CF%85%CF%83%CE%B7%CF%82.pdf\">Immigration Code, article 68: income and family conditions</a>.</p><p>Build the application around your actual overseas work and obtain the requirements for any accompanying dependants from the competent Greek consulate. <a href=\"https://www.mfa.gr/uk/en/greece-welcomes-digital-nomads/\">Greek Foreign Ministry digital-nomad guidance</a>.</p><p>If your home is also a Golden Visa property, its permitted use affects your plan for periods abroad. The rules prohibit the relevant short-term letting through sharing-economy platforms. A plan to cover costs through holiday lets therefore needs to be resolved before you choose the investment.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Greece residency: existing rights or residency by investment",
+      "body": "<h3>EU citizens and their families</h3><p>EU citizens can stay in Greece for three months with a valid identity card or passport. A longer stay can be based on employment or self-employment, or sufficient resources and health insurance under the relevant category. Eligible non-EU family members have their own residence-document process, with an application required within three months of arrival. The Greek ministry extends the relevant administrative information to EEA and Swiss citizens. <a href=\"https://migration.gov.gr/en/polites-ee-meli-oikogeneias/\">Greek rules for EU citizens and their families</a>.</p><h3>British citizens moving now</h3><p>British citizenship alone no longer gives EU free-movement residence. People with protected rights from living in Greece before 1 January 2021 have a different position from a new arrival. For a new move, identify the appropriate work, remote-work, family, retirement or investor route and prepare the national visa where required. A UAE residence permit is not a substitute for Greek residence permission. <a href=\"https://www.gov.uk/guidance/living-in-greece\">Living in Greece: residence and Withdrawal Agreement rights</a>.</p><h3>Greece residency by investment</h3><p>For a qualifying non-EU investor, a property-based Golden Visa can connect a Greek home with residence permission. The ordinary property thresholds are EUR 800,000 in Attica, the Thessaloniki regional unit, Mykonos, Santorini and islands with more than 3,100 inhabitants; the threshold is EUR 400,000 in other areas. The investment must normally be in a single property. For built property or property with a building permit under those ordinary categories, the main premises must be at least 120 square metres.</p><p>Separate EUR 250,000 routes exist for qualifying residential conversions and listed buildings requiring restoration. They are specific legal and construction categories, not a general price for any apartment. For a conversion, the change to residential use must be completed before the residence application, and the 120-square-metre minimum does not apply. The listed-building route is separate: the qualifying investment must be in one property with an acquisition value of at least EUR 250,000; the 120-square-metre minimum does not apply to this category either. Full restoration or complete reconstruction must be finished before the first residence-permit renewal. A transfer before that work is completed is legally invalid. Have the legal and technical review establish the building's qualifying status, permitted works, achievable completion timetable and total restoration cost before purchase. <a href=\"https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf\">Ministry circular on Golden Visa property conditions</a>; <a href=\"https://en.mitos.gov.gr/index.php/%CE%94%CE%94:Permanent_golden_visa_(change_of_use)_%E2%80%93_Initial_issuance\">current official conversion-route requirements</a>.</p><p>The official procedure records a five-year permit and states that investor residence does not grant access to employment. Reselling the qualifying property can revoke the seller's permit. Build the family applications, private health insurance, purchase and renewal obligations into one plan. <a href=\"https://en.mitos.gov.gr/index.php/%CE%94%CE%94:Golden_visa_programme_(investment_in_a_listed_real_property)_%E2%80%93_Initial_issuance\">Official investor procedure and permit conditions</a>.</p><div class=\"exb-criteria-table\" role=\"region\" tabindex=\"0\" aria-label=\"Choose how you will use your Greek base\"><table><caption>Choose how you will use your Greek base</caption><thead><tr><th scope=\"col\">Intended use</th><th scope=\"col\">Right you can use</th><th scope=\"col\">Evidence and time in the country</th><th scope=\"col\">What EXOBASIS can organise</th></tr></thead><tbody><tr><th scope=\"row\">A permanent move and family home</th><td>Start with any EU, EEA or Swiss rights already held. Otherwise match the household to its actual work, family, remote-work or qualifying investor category; the property route does not permit employment.</td><td>Prepare identity and family records and the category's resources, work and insurance evidence. For a B.5 investor application under article 100, identify the exact property category and assemble the deed, payment, registration, category-specific proof and private insurance. Plan the required personal entry and biometrics.</td><td>Coordinate the residence and family files with qualified local work, then connect the home, school and treatment arrangements to the actual status. For an investor, arrange legal and technical property checks before acquisition and document preparation for the Ministry's digital residence procedure.</td></tr><tr><th scope=\"row\">Living between Greece and another country</th><td>Apply existing free-movement or residence rights first. A British short visit otherwise uses the shared Schengen allowance; qualifying overseas remote work has the separate nomad conditions explained above. A home alone does not expand either permission.</td><td>Map stays across Schengen, work activities and the actual permit conditions. Prepare the relevant income, insurance and family evidence, and maintain the required entry and renewal documents. Do not treat a partner's accompanying nomad status as permission to work in Greece.</td><td>Organise the applicable residence or visa preparation, housing and absence arrangements. Where a national visa is required, its consular stage is separate from the Greek authority's residence decision; schedule both against the intended stays.</td></tr><tr><th scope=\"row\">A prepared base outside your home country</th><td>A qualifying investor can prepare a B.5 application from abroad through a proxy. The chosen property must meet the ordinary, conversion or listed-building category described above; the application is not a travel document or a fully remote grant.</td><td>Arrange a power of attorney before a Greek consular authority or an eligible foreign authority/notary with the required Apostille or consular authentication. Assemble the property and insurance evidence, secure the lawful entry basis and attend the required personal biometric stage.</td><td>Coordinate the property review and dossier, proxy submission through the Ministry's e-services, and the competent residence Directorate's appointments and decision. Link that timetable to preparing and maintaining the home; the consulate can handle a required visa, not replace the residence decision.</td></tr></tbody></table></div><div class=\"exb-page-actions\"><a class=\"exb-btn\" href=\"/en/enquiry/\"><span>Ask EXOBASIS to organise your Greek residence and property preparation</span></a><a class=\"exb-text-link\" href=\"/en/enquiry/#contact-start\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Athens, Thessaloniki or Crete: choose the home for the whole year",
+      "body": "<h3>Three useful starting points</h3><ul><li><strong>Athens and its suburbs:</strong> a practical search area where an international school and mainland city life lead the decision. St Catherine's has different lower- and upper-school locations in the northern suburbs. Choose around the relevant campus and your other regular journeys.</li><li><strong>Thessaloniki:</strong> worth comparing when you want a mainland base and an English-speaking school option through Pinewood. The Anatolia institutions are based in Pylea. Compare the actual school journey and intended work or travel connections, rather than treating the entire city as one location.</li><li><strong>Crete, particularly the Heraklion area:</strong> relevant when you want an island home with a major hospital as a concrete care anchor. The University General Hospital is in Voutes, outside Heraklion, and publishes outpatient appointment arrangements. Match the location to the actual service you need. <a href=\"https://www.pagni.gr/index.php\">Heraklion University General Hospital</a>.</li></ul><p>For a smaller island or rural home, verify winter transport, open services, water, heating and the route to hospital. Wildfire, extreme heat, flash-flood and earthquake exposure vary with the location and building. Keep an evacuation route and emergency alerts part of the property decision. <a href=\"https://www.gov.uk/foreign-travel-advice/greece/safety-and-security\">Greek natural-hazard and safety guidance</a>.</p><h3>Renting for an exploratory stay or a main home</h3><p>Use temporary furnished accommodation while visiting schools and homes. A longer rental needs a written agreement covering the intended residential use, dates, rent, deposit, common-building charges, utilities, repairs, furnishings and termination. Establish whether it is your main residence or a secondary/seasonal home, because the applicable tenancy rules differ.</p><p>The landlord must declare a long-term lease electronically to AADE by the end of the following month. Obtain the declaration details and match them to the agreement you signed. This also makes the address evidence usable for subsequent administration. <a href=\"https://www.aade.gr/en/services-information/useful-guides/buying-property/i-wish-lease-my-property-long-term-lease\">AADE long-term lease declaration rules</a>.</p><h3>Buying property in Greece</h3><p>Foreign nationals can own Greek property. Before purchase, obtain the Greek tax number, AFM, and arrange independent legal review of the title, ownership history, encumbrances and cadastral registration. A Greek notary handles the sale deed; an engineer should assess the building's permits, legal use, plans and condition. For designated border areas, establish whether your nationality and the parcel require additional permission before committing to the purchase. <a href=\"https://www.gov.uk/guidance/living-in-greece\">Buying property as a foreign national</a>; <a href=\"https://www.enterprisegreece.gov.gr/files/publications/guide_residence_permits/september_2017/guide_eng_low.pdf\">Enterprise Greece guide: border-area purchase restrictions</a>.</p><p>Where transfer tax applies, AADE states a rate of 3% of the taxable value, with a municipal levy of 3% of that tax. The declaration and payment precede the sale deed. Budget separately for notarial and legal work, the engineer, registration, any agreed agency fee and continuing ownership costs. Have the notary establish the tax treatment and any applicable exemption for the actual transaction. <a href=\"https://aade.gr/en/greeks-abroad-non-residents/property-taxation/real-estate-transfer-tax\">AADE transfer-tax rules</a>.</p><p>A Golden Visa purchase adds the investment-category requirements to that review. For a purchase under the EUR 800,000 or EUR 400,000 routes, the location and floor area matter. A conversion or listed-building route adds a different documentary and construction burden. A sales description alone cannot establish qualification.</p><p>EXOBASIS can organise the location and search brief, viewings, independent title and technical review, contract and completion coordination, and the handover. Utilities, furnishings, keys and maintenance can then be prepared around your arrival. <a href=\"/en/services/arrange-arrival/\">Commission your Greek housing and arrival work</a>.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Healthcare access before you need treatment",
+      "body": "<p>Connect the school place with a healthcare arrangement the family can actually use. Greek public healthcare is accessed through the relevant insurance and registration route. People registered to work and paying Greek social-insurance contributions can access the state system on the insured basis; eligible UK pensioners may instead use a UK-issued S1 registered in Greece. The process involves the Greek social-insurance number, AMKA, and registration with EOPYY.</p><p>A UK GHIC or EHIC supports eligible temporary-stay care; it is not the complete healthcare arrangement for a permanent move. If you are not covered through work or a registered S1, arrange the private insurance required for your residence route. A British passport, particularly for someone living in the UAE, does not by itself establish S1 entitlement. <a href=\"https://www.gov.uk/guidance/healthcare-in-greece\">Healthcare routes for UK nationals living in Greece</a>.</p><p>Non-emergency state-hospital appointments generally require a referral through the relevant public-care route. Identify the receiving doctor and facility, any co-payment and the process for regular medication. On an island, include the journey for treatment that is not available locally and how it will be paid for.</p><p>For a relative needing help every day, commission the practical care arrangement as well: accessible bathroom and entrances, equipment, a named carer and backup cover. <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Plan health cover and continuing care abroad</a>.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Greek banking and tax residence: get the sequence right",
+      "body": "<p>The AFM is central to property and tax administration. Keep the identity, address, income and tax-residence documents consistent when opening an account or funding a purchase. National Bank of Greece lists evidence of identity, income and tax number, home address, phone number and occupation. For non-EU citizens it also distinguishes residents, applicants awaiting a residence decision and people permanently resident abroad. <a href=\"https://www.nbg.gr/en/individuals/questions/everything-you-need-before-your-appointment\">NBG account and appointment documents</a>; <a href=\"https://www.nbg.gr/en/footer/compliance-in-the-bank-and-the-group-companies/combating-financial-crime/customer-identification-and-verification/confirmation-documents-of-third-country-citizens\">documents for non-EU citizens</a>.</p><p>For a property purchase, prepare the source-of-funds record and the permitted payment method before the completion date. Keep separate accessible funds for living costs. If one bank asks for further documents, your family still needs to pay for accommodation and treatment. The <a href=\"/en/knowledge/assets-and-access/banking-payments/\">banking access and payments guide</a> explains how to test an independent payment route and arrange authorised recovery when your usual account or phone is unavailable. <a href=\"/en/services/banking-liquidity/\">Arrange banking and liquidity preparation</a>.</p><p>Tax residence is a separate decision from the Golden Visa. AADE's rules look at your permanent or principal home, habitual abode and centre of personal and economic interests. Presence exceeding 183 days in any 12-month period is another test, with a specified exception for certain exclusively private stays. Moving your home and family can therefore matter even before a simple day count is complete. <a href=\"http://www.aade.gr/en/greeks-abroad-non-residents/income-taxation/tax-residence-natural-persons-itc\">AADE tax-residence criteria</a>.</p><p>Before carrying on a business from Greece, establish the right to perform that work and the resulting Greek and departure-country obligations. A property-based investor permit does not itself grant employment rights. <a href=\"/en/knowledge/business-and-income/departure-tax/\">Connect your move with departure and tax planning</a>.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Prepare the application and purchase in the right order",
+      "body": "<p>For an EU move, organise evidence of the relevant work, resources and insurance, alongside the registration and family-member documents. For a new non-EU residence application, use the requirements of the chosen category and the Greek consulate responsible for where you legally live. Prepare identity, civil-status, financial and insurance evidence with the required authentication and translations.</p><p>For a Golden Visa purchase, the file also needs the transaction and property evidence: the notary's certificate, registry or cadastral documentation, payment record and the relevant technical proof. A conversion route needs the engineer's evidence that the change of use has been completed at the required stage. These documents should be part of the purchase brief from the outset, rather than requested after completion. <a href=\"https://en.mitos.gov.gr/index.php/%CE%94%CE%94:Permanent_golden_visa_(change_of_use)_%E2%80%93_Initial_issuance\">Official conversion-route application documents</a>.</p><p>EXOBASIS can organise document collection, qualified translation and local professional work, coordinate appointments and connect the property timetable with the family move. <a href=\"/en/services/residence-documents/\">Commission residence and document preparation</a>.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Maintain the residence, property and arrival arrangements",
+      "body": "<p>After purchase, ensure the property appears correctly in the E9 real-estate declaration. AADE calculates the annual ENFIA property tax from the properties held on 1 January. The duty applies to foreign residents as well as Greek residents. Keep the tax portal, contact details and payment arrangements usable while abroad. <a href=\"http://www.aade.gr/en/greeks-abroad-non-residents/property-taxation/unified-tax-ownership-real-estate-e9-enfia\">AADE property declarations and ENFIA</a>.</p><p>For a Golden Visa property, maintain the qualifying ownership, insurance and renewal file. The ministry's circular prohibits the relevant short-term letting and subletting through the sharing economy; it also restricts using qualifying conversion properties as a business headquarters or branch. Agree the intended use before buying, including what happens during your absences. <a href=\"https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf\">Golden Visa property-use conditions</a>.</p><p>Give property care a defined scope: water leaks, electrical or heating faults, storm damage, shutters, ventilation, security and seasonal preparation. Record who holds keys and who may approve urgent repairs. Before you travel, have the home checked and the utilities, medication and transport arrangements confirmed. <a href=\"/en/services/maintain-preparations/\">Have EXOBASIS maintain the agreed preparations</a>.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Have your Greek home and move prepared",
+      "body": "<p>Commission the part you need: a comparison of Greek locations, an exploratory stay, a residence-document project, a rental search or the organisation of a property purchase. For a complete family base, EXOBASIS connects those assignments so the home, school, treatment, funds and arrival timetable work together.</p><p>A purchase assignment can cover the requirements and location, search and viewings, arranging independent legal and technical checks, contract and completion coordination, handover and ongoing care. We agree the result, responsibilities and professional work, distinguishing service fees and third-party costs from the property's purchase price.</p><p>Still comparing European options? With <a href=\"/en/countries/malta/\">Malta</a>, distinguish a move using existing EU rights from a qualifying non-EU application under the Malta Permanent Residence Programme (MPRP). Neither answer settles the island's supply dependence or your family's actual school, housing and medical arrangements.</p><p>With <a href=\"/en/countries/cyprus/\">Cyprus</a>, a useful family or business base and a suitable crisis refuge are separate assessments. Its eastern Mediterranean position is a scenario factor of its own: weigh regional conflict exposure and your arrival route alongside the home, work and family life you could establish there. You can <a href=\"/en/services/country-location-selection/\">commission a country and location comparison</a>. The <a href=\"/en/countries/\">country overview</a> keeps the wider choice available.</p><div class=\"exb-closing-actions\"><a class=\"exb-btn\" href=\"/en/enquiry/\"><span>Tell us what you want prepared in Greece</span></a><p><a class=\"exb-text-link\" href=\"/en/enquiry/#contact-start\">Private enquiry</a></p></div><p>Include the household's passports, current residence, intended use of the home and any work already done. If you are unsure which assignment fits, ask for the free 20-minute orientation.</p>"
+    }
+  ],
+  "faq": {
+    "question": "Does buying a property in Greece give my family residence rights?",
+    "answer": "An ordinary property purchase and a residence application are separate. A qualifying Golden Visa investment can support an investor application, with different thresholds for location, property type and conversion or restoration categories. EU citizens and people with existing protected residence rights follow other routes. Establish the route for the whole household, then have the property, transaction and supporting documents reviewed together before committing capital."
+  },
+  "displayTitle": "Moving to Greece: a European home with the right to stay"
+}

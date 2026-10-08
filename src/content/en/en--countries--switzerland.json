@@ -1,0 +1,196 @@
+{
+  "route": "/en/countries/switzerland/",
+  "lang": "en",
+  "title": "Switzerland as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/schweiz/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-f6a2369ad85f0a"
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-c4b886b7b0ffbb"
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Switzerland: residence and a prepared family base | EXOBASIS",
+  "description": "Assess Switzerland through residence rights, canton, insurance and essential care. Separate the family base from banking and custody arrangements.",
+  "intro": "<p>You want to reposition your family and what you have built while keeping room to act. Switzerland can play different roles as a home, an asset location or a specialist-services jurisdiction. A bank account does not establish residence, and proximity needs its own contingency assessment.</p>",
+  "primary": {
+    "label": "Ask us to prepare your Switzerland option",
+    "intent": "General enquiry"
+  },
+  "countryContext": "/en/countries/switzerland/",
+  "country": {
+    "name": "Switzerland",
+    "slug": "schweiz",
+    "region": "Europe",
+    "map": "countries/schweiz-locator.svg",
+    "imageAlt": "Locator map of Switzerland. The highlight shows location, not a safety rating.",
+    "caption": "Geographic orientation, not a travel, safety or boundary assessment.",
+    "summary": [
+      [
+        "An account is not residence",
+        "Separate the family base from a financial-service task."
+      ],
+      [
+        "Canton and daily life",
+        "Connect language, schooling, insurance and journeys."
+      ],
+      [
+        "Assess what proximity means",
+        "Consider the European location in your own scenario."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "Your starting point",
+      "body": "<p>Switzerland may provide a nearby family or specialist-service base under its own legal framework. A home, banking relationship and custody arrangement serve different purposes. A prepared living base requires suitable residence rights, usable accommodation and care. A bank account alone does not provide those conditions.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "Contingency base and return",
+      "body": "<p>Proximity may help a prepared move and regular use. Geographically, Switzerland remains within the European environment. Assess which dependencies the location changes under your actual scenario rather than relying on its general reputation. A nearby border can make exploration and return easier, but it does not replace each person’s entry rights or a usable home. If the scenario concerns Europe as a whole, proximity is also a shared exposure. Decide which obligations and access routes in the former country must remain available during a Swiss stay.</p><p>Connect access for each relative with arrival, accommodation and necessary payments. Include return arrangements and continuing obligations. A specialist location may be useful even when the family’s suitable home base lies in another country.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "A lasting future for your family",
+      "body": "<p>Lasting family life is planned around every person’s rights and needs. The residence route, insurance, household and relevant cantonal or local authority need to fit together. The ability to pay for accommodation is not the only question. For a family move, establish each person’s EU/EFTA entitlement and the means and insurance needed for an economically inactive route. The responsible canton, education and available housing need to fit that basis. Relatives of another nationality must not simply be assumed to share the main applicant’s rights.</p><p>Region, language, school journeys, care and work determine daily life. An organised exploratory visit helps assess them at the actual location. This profile concerns Switzerland as a destination; the separate guide to leaving Switzerland serves a different purpose.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "Mobile living",
+      "body": "<p>A Swiss banking relationship and lawful use of a home are distinct matters. For intermittent stays, actual use, status and intended activities must fit together. Frequent entries and departures do not replace an appropriate residence basis.</p><p>Establish who maintains the accommodation and handles required correspondence. Continuing tasks may differ by personal status and location. A multi-country arrangement needs a coordinated view rather than several unrelated addresses.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Existing rights and suitable routes",
+      "body": "<p>The State Secretariat for Migration explains EU/EFTA free-movement rules and their conditions. Sufficient means and appropriate health and accident insurance are relevant requirements for eligible people not in employment. Other nationalities are not automatically placed under the same rules. The SEM distinguishes EU/EFTA employees from eligible people who are not working and have sufficient means and health and accident cover. Third-country nationals do not automatically fall under the same free-movement rules. A Swiss bank account, property or custody arrangement is not a residence permit.</p><p>We establish the people concerned, their activities and family circumstances with the responsible institution first. Cantonal procedures, evidence and housing are connected. Residence rights, custody arrangements and tax ties each require their own assessment.</p><p class=\"exb-source-note\"><a href=\"https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta/eu-efta_buerger_schweiz/faq.html\" rel=\"noreferrer\">Staatssekretariat für Migration, Schweiz</a> <span>Source checked: 26.09.2026</span></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fswitzerland%2F#short-enquiry\">Ask us to prepare your Switzerland option</a><p>You can ask us to handle a defined task directly. Personal documents belong in the protected exchange agreed for the work.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Regions and housing",
+      "body": "<p>Choose the canton and home location around language, household means, schooling, care and work. A short distance on a map does not show whether recurring journeys are practical. Ongoing housing and insurance costs should be considered against actual family requirements.</p><p>An exploratory visit can connect specific housing options with necessary appointments. Once the choice is made, we organise the agreed viewings, handover and arrival. Specialist-service providers are selected separately for the task they perform.</p><p><a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Arrange your arrival abroad</a></p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schooling, healthcare and care",
+      "body": "<h3>Children and relatives</h3><p>Plan family rights, teaching language and local school arrangements together. Required records and admission timing are established for the actual home location. Sharing a household is not a universal answer to every residence situation. School arrangements, teaching language and the responsible authority depend on the home; naming a canton does not confirm admission. For medical needs, establish insurance conditions and reachable treatment. A relative requiring care needs a separate support arrangement, not merely the main applicant’s policy.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare to move abroad with children and family</a></p>\n<h3>Insurance and treatment</h3><p>Required insurance and actual treatment are assessed separately. Recurring appointments need a reachable provider, acceptance and payment route. Existing foreign cover should not be assumed equivalent to a suitable lasting arrangement.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and care abroad</a></p>\n<h3>Care and support</h3><p>Care, medication or regular assistance require a handover with the responsible professionals. The chosen location and ongoing budget must be able to support that provision.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Income, money and work",
+      "body": "<p>An account or custody arrangement in Switzerland may serve a specific financial purpose. Ownership, authorised access, acceptance and actual payments still need assessment. A bank’s location establishes neither residence rights nor universal protection from official access. Sufficient means may support the residence route of a person who is not working; rent, insurance, education and care must still be paid in practice. Custody alone provides neither everyday access nor transfer or succession. Someone living in Switzerland must separately examine continuing tax connections to the former country.</p><p>Livelihood planning separately addresses continuing income, the household budget, activities and previous-country obligations. We connect necessary professional assessment with practical tasks so that housing, work and payment arrangements do not conflict.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Documents and preparation time",
+      "body": "<p>Identify existing rights, family circumstances and the relevant cantonal authority first. Then match identity, family, means and insurance evidence to the steps actually required. Accepted versions and personal appointments are prepared accordingly. We match passports, family ties, means and appropriate insurance evidence to the applicable route and cantonal authority. Employment and the required notification or permit steps receive their own assessment. Housing and arrival appointments can then follow a coherent sequence.</p><p>Existing records and professional work are used where appropriate for the purpose. Accommodation and arrival follow the established position. Private financial or medical records do not belong in the public country profile.</p><p><a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a></p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Ongoing obligations",
+      "body": "<p>The option remains usable only when residence, insurance, documents and accommodation fit the current household. A change of canton, activity or family need may create new organisational and professional tasks. A change of canton or work situation requires another review of residence and insurance. An intermittently used Swiss home still brings expenses and administration. Plan housing, family and tax matters in the former country for the return alongside any Swiss permission.</p><p>Agreed ongoing support follows those requirements and next steps. Banking or custody support is not automatically maintenance of the family home. Scope is defined around identifiable responsibility, not an unrestricted promise of availability.</p><p><a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Review and maintain your preparations</a></p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Practical preparation",
+      "body": "<p>EXOBASIS organises the Swiss preparation you agree: clarifying rights and responsible institutions, comparing living locations against family needs, coordinating records and professionals, and preparing accommodation and arrival. A separate banking or custody task may be commissioned alongside it.</p><p>The objective is a usable base rather than a financial connection abroad alone. Request an appropriate individual task directly or first compare Switzerland with other living options. Existing advisers and established groundwork remain involved.</p><p><a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Choose suitable countries and locations</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fswitzerland%2F#short-enquiry\">Ask us to prepare your Switzerland option</a><p>You can ask us to handle a defined task directly. Personal documents belong in the protected exchange agreed for the work.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div><div class=\"exb-country-comparisons\"><h3>Two other ways to approach the same question</h3><article><p><a class=\"exb-text-link\" href=\"/en/countries/portugal/\">Portugal as a personal alternative</a></p><p>Portugal: compare another European family base by existing rights, household resources and actual care.</p></article><article><p><a class=\"exb-text-link\" href=\"/en/countries/ireland/\">Ireland as a personal alternative</a></p><p>Ireland: assess an English-speaking European option with its own housing and healthcare requirements.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Is a Swiss banking relationship enough for a family base?",
+    "answer": "The banking relationship serves a financial purpose. Residence rights, accommodation, insurance and family needs require separate preparation."
+  },
+  "editorialSources": [
+    "ch"
+  ],
+  "mediaStatus": "locator_complete_photograph_pending",
+  "linkPlan": [
+    {
+      "sourceLine": 1158,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "K02 vor Hauptinhalt"
+    },
+    {
+      "sourceLine": 1160,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 11, Teilabschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1161,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 9, Teilabschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1162,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 6, Teilabschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1163,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1164,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 7, Teilabschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1165,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt 10, Teilabschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1166,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Abschnitt 5 nach Rechte-/Aufgabenklärung und Abschnitt 11: nachgeordnete allgemeine Textalternative neben der jeweils führenden konkreten Ländervorbereitung"
+    },
+    {
+      "sourceLine": 1167,
+      "target": "/de/laender/schweiz/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "K01 Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1485,
+      "target": "/en/countries/portugal/",
+      "label": "Portugal as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1487,
+      "target": "/en/countries/ireland/",
+      "label": "Ireland as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt 11, passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ]
+}

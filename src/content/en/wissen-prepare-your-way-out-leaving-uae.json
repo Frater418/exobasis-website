@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+  "lang": "en",
+  "title": "Leaving the UAE or preparing a second option",
+  "kind": "knowledge",
+  "sourceRefs": [
+    {
+      "module": "10_Schreibauftraege_Themen.md",
+      "anchor": "quelle-3acad7caf0098b"
+    },
+    {
+      "module": "14_Baukarten_Themen.md",
+      "anchor": "quelle-54847ff20ef0d9"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-5fb6783fc9b57d"
+    },
+    {
+      "module": "07_Fachrecherche_und_Quellen.md",
+      "anchor": "quelle-770b74d19817c3"
+    },
+    {
+      "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+      "anchor": "quelle-61eebe5c3fe909"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Your Plan B / Knowledge",
+  "seoTitle": "Leaving the UAE: a practical departure checklist | EXOBASIS",
+  "description": "Leaving Dubai permanently or preparing a second base? Coordinate residence, family travel, banking, obligations and a place your family can use.",
+  "intro": "<p>Leaving the UAE can mean ending your life there, spending a longer period elsewhere or preparing somewhere your family could go if war disrupts normal travel. Each calls for a different sequence. Cancelling the arrangements that support you today can close a return option you meant to keep.</p><p>Your departure plan needs to connect residence, dependants, final salary, bank access and your first address abroad. Start with the decisions that change those arrangements, while you still have time to make them in the right order.</p>",
+  "primary": {
+    "label": "Plan my UAE departure or second base",
+    "intent": "General enquiry"
+  },
+  "knowledgeSummary": {
+    "title": "Leaving the UAE: prepare your departure and keep a usable return option",
+    "facts": [
+      [
+        "Move",
+        "Permanent departure, absence and a second base need different sequences."
+      ],
+      [
+        "Family",
+        "Each traveller has a separate passport, status and set of permissions."
+      ],
+      [
+        "Money",
+        "Bank access and final payments need their own transition plan."
+      ]
+    ],
+    "image": "einstieg-laender.webp",
+    "imageAlt": "Map and compass, symbolising personal preparation."
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Leaving Dubai permanently, temporarily or for a second base?",
+      "body": "<p>For a permanent departure, the work centres on ending or transferring your UAE commitments and establishing the next place to live. For a temporary absence, it centres on keeping your status, home and essential services usable. A parallel second base combines a prepared place abroad with the continuing obligations of your UAE life.</p><table><caption>Three different moves from the UAE</caption><thead><tr><th scope=\"col\">Your intention</th><th scope=\"col\">What must be ready</th><th scope=\"col\">What you retain or close</th></tr></thead><tbody><tr><th scope=\"row\">Permanent departure</th><td>Destination entry and residence, accommodation, payment access and a timetable for dependants.</td><td>Employment, sponsorship, tenancy and bank products dealt with through their respective processes.</td></tr><tr><th scope=\"row\">Extended absence</th><td>A permitted period away and a workable journey back for every traveller.</td><td>The sponsor or qualifying basis, permit validity and any required renewals.</td></tr><tr><th scope=\"row\">A prepared second base</th><td>Lawful entry, a usable address, initial funds and care at the alternative location.</td><td>The UAE arrangements needed for the return you actually intend.</td></tr></tbody></table><p>Nationality is a separate fact. A British citizen, an Indian citizen and an EU citizen living in the same Dubai building may have very different destination rights. Record the passport and residence position of each family member, including a partner or older relative who depends on your sponsorship.</p>",
+      "after": "<div class=\"exb-origin-alternatives\"><h3>A different current country of residence</h3><p>Choose the guide for the country you are preparing to leave.</p><div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\"><span>Preparing to leave Germany (German)</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-oesterreich/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-oesterreich/\"><span>Preparing to leave Austria (German)</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-schweiz/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-schweiz/\"><span>Preparing to leave Switzerland (German)</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uk/\" data-route=\"/en/knowledge/prepare-your-way-out/leaving-uk/\"><span>Leaving the UK with a prepared alternative</span><span aria-hidden=\"true\">→</span></a></div></div>"
+    },
+    {
+      "id": "section-2",
+      "title": "Residence, sponsorship and absence: keep the clocks separate",
+      "body": "<p>The UAE Government describes a general rule under which a resident who remains outside the UAE for more than 180 consecutive days loses the validity of that residence visa, with specified exceptions. Golden Visa holders can stay outside the country for more than the usual six months. That exception belongs to the qualifying residence category; a family plan must establish the category held by each person.</p><p class=\"exb-source-note\">Source: <a href=\"https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/general-provisions-for-the-residence-visa\">UAE Government: general residence-visa provisions</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa\">UAE Government: Golden Visa</a>.</p><p>Permit expiry, an absence limit and the period allowed to remain after cancellation answer different questions. A cancellation grace period concerns your lawful stay after the status ends. It does not extend a right to return from abroad. Ask the issuing authority to confirm the relevant dates against the actual permit: GDRFA for Dubai, or the applicable ICP route for other emirates.</p><p>Employment-linked residence also has a sponsor sequence. The official cancellation process says a sponsor must cancel the residence visas of sponsored dependants before cancelling their own. Set out any alternative status for the family before initiating those cancellations. Changing job, closing a company and keeping a self-sponsored residence are different cases.</p><p class=\"exb-source-note\">Source: <a href=\"https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/general-provisions-for-the-residence-visa\">UAE Government: cancelling a residence visa</a>.</p><table><caption>Keep one status record for each traveller</caption><thead><tr><th scope=\"col\">Record</th><th scope=\"col\">Why it matters</th></tr></thead><tbody><tr><th scope=\"row\">Passport, permit category and issuing authority</th><td>Establishes which entry, absence and renewal rules apply.</td></tr><tr><th scope=\"row\">Sponsor and dependant relationship</th><td>Shows whose status change could affect somebody else.</td></tr><tr><th scope=\"row\">Expiry, absence and cancellation dates</th><td>Prevents one deadline from being mistaken for another.</td></tr><tr><th scope=\"row\">Intended return date and confirmation</th><td>Makes a return option an explicit part of the plan.</td></tr></tbody></table>"
+    },
+    {
+      "id": "section-3",
+      "title": "Keep final salary, banking and continuing bills connected",
+      "body": "<p>Before leaving the UAE permanently, reconcile your final employment payment, borrowing, tenancy, utilities, school commitments and company responsibilities. Obtain the statements, settlement figures and contract notices while you can still deal with the organisations involved. Keep the money for ongoing bills available until those obligations end.</p><p>A gratuity credited to your account is not necessarily money you can immediately spend. Emirates NBD says end-of-service benefits may be restricted against personal loans or other liabilities. Its published credit-card treatment is a separate mechanism. A restriction on the gratuity, a reduced card limit and a frozen account have different consequences.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.emiratesnbd.com/en/help-and-support/all-about-end-of-service-benefits\">Emirates NBD: end-of-service benefits</a>.</p><p>The same bank publishes a separate non-resident process: a current account can be converted to a savings account; where both types exist, the current account is closed and the savings account remains. The required paperwork depends on the relationship. Obtain your own bank’s written requirements and arrange an accessible, funded payment route before relying on the final payment for flights or a housing deposit.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.emiratesnbd.com/en/help-and-support/update-your-residency-status\">Emirates NBD: updating residency status</a>.</p><p>The detailed <a href=\"/en/knowledge/assets-and-access/banking-payments/\">banking and payments guide</a> separates these UAE cases from UK account closures. Your immigration status, the bank’s customer record and tax residence also need separate, accurate updates.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/business-and-income/departure-tax/\" data-route=\"/en/knowledge/business-and-income/departure-tax/\"><span>Departure, tax and business obligations</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/overseas-company/\" data-route=\"/en/services/overseas-company/\"><span>Arrange an overseas company and ongoing administration</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-4",
+      "title": "Travel restrictions and children: settle the case before the airport",
+      "body": "<p>A potential travel ban needs an answer from the authority responsible for that particular case. The FCDO explains that UAE financial disputes, unpaid bills, litigation and family proceedings can lead to travel restrictions. Paying a disputed sum and having a restriction formally lifted are separate events.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.gov.uk/foreign-travel-advice/united-arab-emirates/print\">FCDO: UAE safety and security, legal disputes and travel bans</a>.</p><p>Start with the emirate, the case reference and the type of proceedings. A Dubai Police enquiry concerning financial cases covers that service’s scope; it does not clear every civil, criminal, immigration or family matter across all emirates. For a known or suspected restriction, instruct a UAE legal specialist to establish the competent court, prosecution or other authority, resolve the required action and obtain confirmation that the restriction has been lifted. Recheck before travel.</p><p>For children, confirm parental authority, required consent and any court orders separately from passports and flight bookings. A parent’s ability to travel does not decide whether a child can accompany them. Arrange any necessary legal consent before making the journey executable; the <a href=\"/en/knowledge/family-life-abroad/children-family/\">family travel guide</a> explains the related UK and UAE questions.</p><p>School transfer documents, medical summaries and medication arrangements then need to travel with the family. If a carer or relative will accompany someone, include that person’s entry rights and responsibilities in the same itinerary.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/family-life-abroad/children-family/\" data-route=\"/en/knowledge/family-life-abroad/children-family/\"><span>Prepare to move abroad with children and family</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/residence-documents/\" data-route=\"/en/services/residence-documents/\"><span>Arrange residence and document preparation</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-5",
+      "title": "Have somewhere to arrive, and decide what brings you back",
+      "body": "<p>Choose the first address around the people who will use it. A furnished rental can bridge arrival and a longer search. Confirm the dates, occupants, cancellation terms, deposit, access to keys and a contact who can resolve a problem when you land. For a family with ongoing treatment, proximity to a suitable provider may matter more than a preferred neighbourhood.</p><p>If buying a home is the longer-term goal, separate the property decision from permission to live there. EXOBASIS can organise a needs-led search, viewings, independent local title and purchase review, the contractual steps, handover and care of the property while you are away. The acquisition must fit your destination rights, funding and intended use; a purchase itself does not answer every immigration question.</p><p>For a retained UAE base, name who handles the home, post, renewals and practical problems during your absence. Put each person’s return conditions beside the destination arrangements. Revisit the plan after a sponsorship, passport, employment or family change. You can commission EXOBASIS to <a href=\"/en/services/maintain-preparations/\">review and maintain these preparations</a>, with agreed checks of documents, residence conditions and local arrangements, and follow-up when they change.</p><p>If regional escalation disrupts flights, use a predetermined decision point to reassess whether the booked route still operates, every traveller can enter and transit, and your accommodation is ready. When those conditions change, take current instructions from the authorities and carrier before changing route.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/residence-and-documents/rights-citizenship/\" data-route=\"/en/knowledge/residence-and-documents/rights-citizenship/\"><span>Residence, existing rights and second citizenship</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/countries/\" data-route=\"/en/countries/\"><span>Countries and options</span><span aria-hidden=\"true\">→</span></a></div>"
+    },
+    {
+      "id": "section-6",
+      "title": "Commission the departure work you need",
+      "body": "<p>EXOBASIS brings the UAE starting position and the destination work into one sequence. We assemble the document requirements, organise the necessary specialist appointments, track the bank and residence actions, and arrange the agreed accommodation and arrival tasks. You receive named responsibilities, the outstanding dependencies and the completed work in a usable handover.</p><p>You can commission a personal departure and contingency plan or a defined task such as residence paperwork, banking preparation or finding and preparing a home. Tell us who would move, whether you want to return to the UAE and what is already in place. If the right starting point is unclear, use the free 20-minute orientation.</p>",
+      "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/departure-contingency-plan/\" data-route=\"/en/services/departure-contingency-plan/\"><span>Personal departure and contingency plan</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
+      "knowledgeCTA": true
+    }
+  ],
+  "editorial": {
+    "package": "03",
+    "origin": "Independent English redraft for PB-D65 from original briefs, market research and cited primary sources.",
+    "sourceSectionOrder": [
+      {
+        "id": "section-1",
+        "title": "Your UAE residence, nationality and intended move"
+      },
+      {
+        "id": "section-2",
+        "title": "Check residence and sponsor dependencies first"
+      },
+      {
+        "id": "section-3",
+        "title": "Keep employment, business and banking connected"
+      },
+      {
+        "id": "section-4",
+        "title": "Prepare the family’s travel and transition"
+      },
+      {
+        "id": "section-5",
+        "title": "Make the destination and any return route usable"
+      },
+      {
+        "id": "section-6",
+        "title": "Coordinate the work on both sides of the move"
+      }
+    ],
+    "mappedLinks": [
+      {
+        "line": 1424,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-deutschland/",
+        "label": "Aus Deutschland einen Ausweg vorbereiten (Deutsch)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      },
+      {
+        "line": 1425,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-oesterreich/",
+        "label": "Aus Österreich einen Ausweg vorbereiten (Deutsch)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      },
+      {
+        "line": 1426,
+        "target": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+        "label": "Wegzug aus der Schweiz vorbereiten (Deutsch)",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      },
+      {
+        "line": 1427,
+        "target": "/en/knowledge/prepare-your-way-out/leaving-uk/",
+        "label": "Leaving the UK with a prepared alternative",
+        "function": "Anderer Herkunfts-/Wohnsitzfall",
+        "originalPosition": "Abschnitt anderer heutiger Wohnsitz",
+        "position": "#section-1"
+      },
+      {
+        "line": 443,
+        "target": "/en/knowledge/business-and-income/departure-tax/",
+        "label": "Departure, tax and business obligations",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Herkunftsrecht, Steuern und Tätigkeit",
+        "position": "#section-3"
+      },
+      {
+        "line": 446,
+        "target": "/en/services/overseas-company/",
+        "label": "Arrange an overseas company and ongoing administration",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Gesellschaft und laufender Betrieb",
+        "position": "#section-3"
+      },
+      {
+        "line": 445,
+        "target": "/en/knowledge/family-life-abroad/children-family/",
+        "label": "Prepare to move abroad with children and family",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Kinder und Angehörige",
+        "position": "#section-4"
+      },
+      {
+        "line": 448,
+        "target": "/en/services/residence-documents/",
+        "label": "Arrange residence and document preparation",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren",
+        "position": "#section-4"
+      },
+      {
+        "line": 444,
+        "target": "/en/knowledge/residence-and-documents/rights-citizenship/",
+        "label": "Residence, existing rights and second citizenship",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt vorhandene Rechte und Aufenthaltswege",
+        "position": "#section-5"
+      },
+      {
+        "line": 449,
+        "target": "/en/countries/",
+        "label": "Countries and options",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschnitt Länderwahl und passende Optionen",
+        "position": "#section-5"
+      },
+      {
+        "line": 447,
+        "target": "/en/services/departure-contingency-plan/",
+        "label": "Personal departure and contingency plan",
+        "function": "Horizontale Aufgabenverbindung",
+        "originalPosition": "Abschluss: zusammenhängenden persönlichen Plan ausarbeiten",
+        "position": "#section-6"
+      },
+      {
+        "line": 450,
+        "target": "/en/enquiry/",
+        "label": "Private enquiry",
+        "function": "Conversion",
+        "originalPosition": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung",
+        "position": "#section-6"
+      }
+    ],
+    "seeding": [
+      "EN06",
+      "EN07",
+      "EN08",
+      "EN09",
+      "EN10"
+    ],
+    "sourceDate": "2026-09-25",
+    "draftDate": "2026-09-27",
+    "noPublication": true
+  },
+  "departureContext": "/en/knowledge/prepare-your-way-out/leaving-uae/",
+  "displayTitle": "Leaving the UAE: prepare your departure and keep a usable return option"
+}

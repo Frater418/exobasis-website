@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/leistungen/familie-unternehmen/",
+  "lang": "de",
+  "title": "Familie und Unternehmen handlungsfähig halten",
+  "kind": "service",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-88ee12142eaf96"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-5d539c659edd22"
+    },
+    {
+      "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+      "anchor": "quelle-327568101d023a"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "Familie und Unternehmen / Vorbereitung, die weiterträgt",
+  "seoTitle": "Familie und Unternehmen handlungsfähig halten | EXOBASIS",
+  "description": "Ausreise oder längere Abwesenheit vorbereiten: EXOBASIS organisiert Versorgung, Vertretung, Eigentumsbetreuung und kritische Geschäftsabläufe.",
+  "intro": "<p>Du kannst deine Abreise planen. Aber wer kümmert sich währenddessen um deine Eltern, das Haus, offene Rechnungen oder die nächste Lohnzahlung? Wenn zu Hause oder im Betrieb alles an dir hängt, bleibt auch ein vorbereiteter Ausweg schwer nutzbar.</p><p>EXOBASIS organisiert die vereinbarte Entlastung: Versorgung und Betreuung, befugte Vertretung und die Fortführung wichtiger Geschäftsabläufe. Du kannst eine einzelne Aufgabe übernehmen lassen oder die Übergaben für Familie und Unternehmen zusammenführen.</p>",
+  "primary": {
+    "label": "Unterstützung für Familie und Unternehmen anfragen",
+    "intent": "Familie und Unternehmen handlungsfähig halten"
+  },
+  "summary": {
+    "kicker": "Deine Vorbereitung als konkreter Auftrag",
+    "title": "Damit dein Gehen nicht alles andere anhält.",
+    "image": "einstieg-hilfe.webp",
+    "imageAlt": "Notizbuch und Stift auf einem Tisch als Sinnbild für Vorbereitung.",
+    "facts": [
+      [
+        "Familie",
+        "Versorgung, Ansprechpartner und berechtigte Entscheidungen"
+      ],
+      [
+        "Unternehmen",
+        "Unterschriften, Zahlungen, Daten und Kundenabläufe"
+      ],
+      [
+        "Ergebnis",
+        "Übergebene Aufgaben mit benannten Verantwortlichen und Ersatzwegen"
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "kern-1",
+      "title": "Was muss auch ohne dich täglich funktionieren?",
+      "layout": "prose",
+      "body": "<p>Wir betrachten zuerst Zahlungen, Fristen und Versorgung, nicht die Vollständigkeit einer Mappe. Welche Rechnung wird bald fällig? Wer ist morgens auf Hilfe angewiesen? Welche Kundenleistung oder Entscheidung wartet auf dich? Für jeden wichtigen Vorgang werden zuständige Person, benötigte Unterlagen und der Zeitpunkt festgehalten, an dem gehandelt werden muss.</p><p>Daraus entsteht eine geordnete Übergabe. Aufgaben, die eine Angehörige oder ein Mitarbeiter bereits zuverlässig übernimmt, bleiben dort. Ungelöste Abhängigkeiten erhalten einen konkreten nächsten Schritt. So richtet sich der Auftrag nach dem tatsächlichen Entlastungsbedarf.</p>"
+    },
+    {
+      "id": "kern-2",
+      "title": "Vorhandene Regelungen nutzen und Verpflichtungen betreuen",
+      "layout": "prose",
+      "body": "<p>Wir gehen von deinen vorhandenen Verträgen, Vollmachten, Beratern und Arbeitsabläufen aus. Gemeinsam klären wir, welche Aufgaben bereits geregelt sind und wo noch eine verbindliche Zuständigkeit fehlt. Fehlt dagegen die rechtliche Befugnis zum Handeln, klären wir die nötigen Vollmachten mit den zuständigen Fachstellen. Eine bloße Aufgabenverteilung ersetzt diese Befugnis nicht.</p><p>Eine unbewohnte Immobilie braucht jemanden, der vereinbarte Kontrollen übernimmt, Schäden erkennt und reagieren darf. Wir organisieren Schlüsselübergabe, Kontrollaufgaben, Handwerkerkontakt und die Grenzen für Ausgaben. Dazu gehören erreichbare Versicherungsunterlagen und das Vorgehen bei einem Schaden.</p><p>Wie häufig kontrolliert oder welche Abwesenheit gemeldet werden muss, folgt aus der konkreten Police und Objektsituation. Wir bringen die Anforderungen mit der Betreuungsvereinbarung zusammen. Laufende Rechnungen, Post, vertragliche Fristen und erforderliche Meldungen werden einer zuständigen Person zugeordnet.</p><p>Du entscheidest, was weiterläuft, beendet oder verändert werden soll. Wir übernehmen die vereinbarte Organisation und dokumentieren, welche Stellen die Änderung tatsächlich bestätigt haben.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\" data-route=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\"><span>Vollmachten, Vertretung und Nachfolge im Ausland</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-3",
+      "title": "Schule, Betreuung und Pflege für deine Familie organisieren",
+      "layout": "prose",
+      "body": "<p>Für deine Kinder klären wir den Schul- und Betreuungsbedarf, stellen die benötigten Schulunterlagen und Nachweise zusammen und stimmen Aufnahmeverfahren, Termine und den vorgesehenen Beginn mit den ausgewählten Schulen oder Betreuungseinrichtungen ab. Dazu gehört, wer Anmeldungen und Entscheidungen übernehmen darf und welche Sorge- oder Vertretungsbefugnis dafür nachzuweisen ist. Offene Zustimmungen oder Befugnisse klären wir mit dir und den zuständigen Fachpersonen, bevor die betroffenen Schritte ausgeführt werden.</p><p>Wenn du deine Familie vor Krieg schützen willst, kann die schwierigste Frage bei den Menschen liegen, die nicht einfach mitreisen können. Für pflegebedürftige Eltern unterscheiden wir deshalb zwei Wege: Versorgung am bisherigen Ort verlässlich fortführen oder den Wechsel an einen anderen Ort organisieren.</p><p>Bei einer Verlegung verbinden wir die behandelnden und aufnehmenden Fachpersonen. Medizinische Transportfähigkeit, geeigneter Transport, Arzneimittel, Hilfsmittel, Pflegedokumentation und die bestätigte Übernahme am Ziel müssen zeitlich zusammenpassen. Die medizinischen Entscheidungen treffen die verantwortlichen Fachpersonen. Wir organisieren die Abstimmungen und halten die erforderlichen Zusagen nach.</p><p>Für Verzögerungen wird eine Zwischenversorgung eingeplant: Wer bleibt erreichbar, wer kann befugt entscheiden und wer übernimmt, wenn sich Abreise oder Aufnahme verschieben? Auch wenn Angehörige bleiben, müssen tägliche Hilfe, Finanzierung und Kontakt zu dir geklärt sein.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\" data-route=\"/de/wissen/familie-alltag/kinder-angehoerige/\"><span>Mit Kindern und Angehörigen vorbereitet gehen</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\" data-route=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\"><span>Krankenversicherung und Versorgung im Ausland</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/wissen/familie-alltag/pflege-medikamente/\" data-route=\"/de/wissen/familie-alltag/pflege-medikamente/\"><span>Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-4",
+      "title": "Wer darf morgen im Unternehmen handeln?",
+      "layout": "prose",
+      "body": "<p>Ein Notfallplan für Unternehmer wird an den Abläufen sichtbar: Löhne freigeben, einen Auftrag bestätigen, einen Kunden informieren, auf Geschäftsdaten zugreifen oder eine Frist einhalten. Dafür müssen drei Dinge zusammenpassen: Die Person kennt die Aufgabe, sie darf rechtlich handeln und ihr Zugang funktioniert.</p><p>Wir führen die kritischen Aufgaben mit deiner Geschäftsführung, Steuerberatung, Bank und IT zusammen. Eine Bankvollmacht hilft erst, wenn das Institut sie akzeptiert und der Bevollmächtigte den vorgesehenen Zugang bedienen kann. Ein Mitarbeiter mit Systemzugang darf damit nicht automatisch Verträge unterschreiben. Das <a href=\"https://www.ihk.de/dresden/servicenavigation/presse-publikationen/publikationen/notfall-handbuch-fuer-unternehmen-5911678\">IHK-Notfallhandbuch für Unternehmen</a> bietet hierzu eine fachliche Grundlage für die geordnete Vorbereitung.</p><p>Zur Übergabe gehören auch Vertretungsgrenzen: Welche Zahlung darf allein freigegeben werden, wann braucht es Rücksprache und welche Zusage darf gegenüber Kunden gemacht werden? Ersatzverantwortliche werden mitgedacht, damit nicht die nächste Einzelperson zur neuen Schwachstelle wird.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/auslandsgesellschaft/\" data-route=\"/de/leistungen/auslandsgesellschaft/\" data-link-description=\"Gründung, Unterlagen und laufende Verwaltung einer Auslandsgesellschaft koordinieren.\"><span>Auslandsgesellschaft und laufende Verwaltung organisieren</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-5",
+      "title": "Örtliche Arbeit und Zugänge einrichten, dann erproben",
+      "layout": "prose",
+      "body": "<p>Wir organisieren Termine und Übergaben vor Ort, stimmen Unterkunft und Versorgung mit den zuständigen Anbietern ab und richten mit dir und der zuständigen IT die berechtigten Kontakt- und Wiederzugangswege ein. Dafür werden die vereinbarten örtlichen und technischen Arbeiten als abgegrenzte Aufträge vergeben. Familie und Betreuungspersonen übernehmen die vereinbarten Alltagsaufgaben, Gesundheitsfachstellen die medizinische Versorgung und die Unternehmensberatung die betrieblichen Fachfragen. Anschließend prüfen wir, ob die eingerichteten Abläufe und Zugänge auch ohne deine laufende Hilfe funktionieren.</p><p>Im vereinbarten Probelauf bleibst du zunächst im Hintergrund. Die zuständige Person sucht die benötigten Unterlagen, bereitet eine typische Aufgabe vor und zeigt, wie sie über ihren eigenen berechtigten Weg handeln würde. Für Zahlung und Unterschrift wird vorab festgelegt, ob ein freigegebener echter Vorgang oder eine Prüfung ohne Ausführung geeignet ist.</p><p>Wir halten fest, wo der Ablauf stockt: fehlende Unterlage, unklare Entscheidung, abgelehnte Vollmacht oder ein technischer Zugang, der noch auf dein Telefon verweist. Daraus folgen konkrete Korrekturen und eine erneute Prüfung der betroffenen Stelle.</p><p>Auch die Zusammenarbeit mit EXOBASIS braucht für den vereinbarten Auftrag einen nachvollziehbaren Übergabestand und einen abgestimmten Wiederkontakt. Zusätzliche Erreichbarkeit oder Aktivierungsaufgaben werden mit festen Bedingungen vereinbart.</p><div class=\"exb-section-links\"><a class=\"exb-related-link\" href=\"/de/leistungen/ankunft-organisieren/\" data-route=\"/de/leistungen/ankunft-organisieren/\" data-link-description=\"Unterkunft, Termine, Versorgung und die ersten Schritte nach der Ankunft organisieren.\"><span>Ankunft im Zielland organisieren</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a><a class=\"exb-related-link\" href=\"/de/leistungen/kommunikation-wiederzugang/\" data-route=\"/de/leistungen/kommunikation-wiederzugang/\" data-link-description=\"Geschützte Kommunikation und geregelte Wiederzugangswege einrichten.\"><span>Diskrete Kommunikation und Wiederzugang einrichten</span><svg class=\"exb-icon\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.55\" aria-hidden=\"true\" focusable=\"false\"><use href=\"#exb-i-arrow\"></use></svg></a></div>"
+    },
+    {
+      "id": "kern-6",
+      "title": "Übergaben pflegen, wenn sich dein Leben verändert",
+      "layout": "prose",
+      "body": "<p>Du erhältst eine verständliche Übersicht der Aufgaben, Zuständigkeiten, nötigen Befugnisse und Abläufe. Angehörige und Mitarbeiter bekommen den Teil, den sie tatsächlich benötigen. Sensible Unterlagen werden über den vereinbarten geschützten Weg zugänglich gemacht.</p><p>Neue Mitarbeiter, geänderte Konten, eine andere Pflegesituation oder ein Verkauf können die Vorbereitung verändern. Für die Betreuung legen wir fest, welche Änderungen nachgeführt und welche Abläufe erneut getestet werden. Ein Plan, der heute funktioniert, soll nicht unbemerkt an einer neuen Telefonnummer oder einer ausgeschiedenen Person scheitern.</p>"
+    }
+  ],
+  "working": {
+    "title": "Deine bestehenden Beziehungen bleiben nutzbar",
+    "body": "<p>EXOBASIS führt die organisatorischen Aufgaben und Übergaben zusammen. Rechtliche Vollmachten, steuerliche Folgen und medizinische Entscheidungen werden mit den zuständigen Fachpersonen bearbeitet. Du bestimmst, wer aus Familie, Team oder Beraterkreis beteiligt wird und welche Arbeit wir übernehmen sollen.</p>"
+  },
+  "nextWork": {
+    "title": "Versorgung und Ankunft verbinden",
+    "body": "<p>Wenn ein Ortswechsel folgt, schließen Unterkunft, Ankunft und Versorgung am Ziel an die Übergaben zu Hause an. Bei einem zunächst offenen Ausreisetermin kann die Vorbereitung regelmäßig gepflegt werden.</p>"
+  },
+  "closing": {
+    "id": "auftrag",
+    "title": "Welche Aufgabe würde ohne dich zuerst liegen bleiben?",
+    "body": "Beschreibe den wichtigsten Engpass in Familie oder Unternehmen. Daraus entwickeln wir den konkreten Übergabe- und Organisationsauftrag, auch ohne vorherige Gesamtberatung."
+  },
+  "editorial": {
+    "package": "02",
+    "seeding": [
+      "D24",
+      "D20"
+    ],
+    "sourceScope": "Individual brief and build card, shared delivery model, route-bound seeding. New copy is an editorial draft, not a live service acceptance.",
+    "mappedLinks": [
+      {
+        "line": "303",
+        "label": "Mit Kindern und Angehörigen vorbereitet gehen",
+        "target": "/de/wissen/familie-alltag/kinder-angehoerige/",
+        "position": "Kernabschnitt 3: Schule/Pflege/Vertretung",
+        "purpose": "Reise, Sorge, Schule und Unterstützung für alle betroffenen Personen vorbereiten."
+      },
+      {
+        "line": "304",
+        "label": "Krankenversicherung und Versorgung im Ausland",
+        "target": "/de/wissen/familie-alltag/krankenversicherung-versorgung/",
+        "position": "Kernabschnitt 3: Schule/Pflege/Vertretung",
+        "purpose": "Passende Versicherung mit tatsächlichem Behandlungszugang und Transportbedingungen verbinden."
+      },
+      {
+        "line": "305",
+        "label": "Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug",
+        "target": "/de/wissen/familie-alltag/pflege-medikamente/",
+        "position": "Kernabschnitt 3: Schule/Pflege/Vertretung",
+        "purpose": "Kontinuierliche Versorgung für pflege- oder behandlungsabhängige Angehörige organisieren."
+      },
+      {
+        "line": "306",
+        "label": "Ankunft im Zielland organisieren",
+        "target": "/de/leistungen/ankunft-organisieren/",
+        "position": "Kernabschnitt 5: lokale/technische Arbeit",
+        "purpose": "Erkundung, Unterkunft, Übergabe und einen funktionierenden ersten Alltag vorbereiten lassen."
+      },
+      {
+        "line": "307",
+        "label": "Auslandsgesellschaft und laufende Verwaltung organisieren",
+        "target": "/de/leistungen/auslandsgesellschaft/",
+        "position": "Kernabschnitt 4: Zahlungen und Betrieb",
+        "purpose": "Eine passende Gründung und laufende Pflichten als Teil der Geschäftsfortführung organisieren."
+      },
+      {
+        "line": "308",
+        "label": "Vollmachten, Vertretung und Nachfolge im Ausland",
+        "target": "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/",
+        "position": "Kernabschnitt 2: vorhandene Regelungen",
+        "purpose": "Festlegen, wer rechtlich handeln darf und welche Unterlagen dafür tatsächlich anerkannt werden."
+      },
+      {
+        "line": "309",
+        "label": "Diskrete Kommunikation und Wiederzugang einrichten",
+        "target": "/de/leistungen/kommunikation-wiederzugang/",
+        "position": "Kernabschnitt 5: lokale/technische Arbeit",
+        "purpose": "Berechtigte Kontakt- und Zugangswege einrichten und praktisch testen lassen."
+      }
+    ],
+    "seedingSupporting": [
+      "D19"
+    ],
+    "seedingScope": "Service- or setup-relevant contribution only. The full problem analysis and jurisdiction-specific procedural detail stay with their separately bound knowledge pages."
+  },
+  "scope": {
+    "id": "umfang",
+    "title": "Die Aufgaben übernehmen lassen, die deinen Ausweg blockieren",
+    "body": "<p>Wer eine Auswanderung organisieren lassen will oder zunächst nur auf eine mögliche Ausreise vorbereitet sein möchte, braucht Übergaben im bestehenden Leben. Wir beginnen bei den Vorgängen, die bei deiner Abwesenheit als Erste stocken würden.</p><p>Für diese Aufgaben organisieren wir die erforderlichen Personen, Unterlagen, Befugnisse und Kontakte. Vorhandene Berater, Angehörige und Mitarbeiter werden einbezogen. Das Ergebnis ist ein abgestimmter Ablauf mit klaren Zuständigkeiten und einem vereinbarten Praxistest.</p>",
+    "items": [
+      [
+        "Versorgung fortführen",
+        "Betreuung, Medikamente und konkrete Übernahme am bisherigen oder neuen Ort verbinden."
+      ],
+      [
+        "Verantwortung übergeben",
+        "Aufgabe, Entscheidungsrecht, Geld- und Informationszugang zusammenbringen."
+      ],
+      [
+        "Ausfall erproben",
+        "Wesentliche Abläufe ohne deine ständige Mithilfe kontrolliert durchspielen."
+      ]
+    ],
+    "costs": "Der Umfang richtet sich nach Personen, Standorten, Versorgungsbedarf und kritischen Betriebsaufgaben. Fachhonorare, Betreuung, Transport, örtliche Einsätze und laufende Pflege werden neben der EXOBASIS-Arbeit ausgewiesen."
+  },
+  "displayTitle": "Familie und Unternehmen auf deine Abwesenheit vorbereiten"
+}

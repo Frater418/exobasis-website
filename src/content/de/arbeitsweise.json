@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "route": "/de/arbeitsweise/",
+  "lang": "de",
+  "title": "Wie EXOBASIS arbeitet",
+  "kind": "trust",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-23879e92ac56b6"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-b460814415ba95"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "eyebrow": "EXOBASIS / Verantwortung und Ausführung",
+  "seoTitle": "Wie EXOBASIS arbeitet: vom Auftrag zur nutzbaren Vorbereitung",
+  "description": "EXOBASIS plant und organisiert deinen Ausweg. Erfahre, wie Einzelauftrag, Fachausführung, Kosten, Übergabe und laufende Betreuung zusammenpassen.",
+  "intro": "<p>Du hast erkannt, dass du für deine Familie und dein Erarbeitetes selbst vorsorgen musst. Vielleicht fehlt dir noch der zusammenhängende Plan. Vielleicht weißt du längst, was gebraucht wird, und suchst jemanden, der es erledigt. EXOBASIS übernimmt beides: die persönliche Planung und die beauftragte praktische Arbeit.</p><p>Raphael Rechberger ist dein erster Ansprechpartner. Gemeinsam legen wir fest, was du abgeben willst, welche Entscheidungen du selbst triffst und woran du das fertige Ergebnis erkennst. Vom einzelnen Dokument bis zur vorbereiteten Außenbasis bleiben die Arbeiten in einem Zusammenhang.</p>",
+  "heroImage": "raphael-rechberger-original.png",
+  "heroAlt": "Raphael Rechberger, Gründer von EXOBASIS.",
+  "primary": {
+    "label": "Orientierungsgespräch anfragen",
+    "intent": "Orientierungsgespräch"
+  },
+  "sections": [
+    {
+      "id": "w-auftrag",
+      "title": "Du kannst mit genau der Arbeit beginnen, die fehlt",
+      "body": "<p>Eine Familie ohne Ausweichplan braucht einen anderen Einstieg als ein Unternehmer mit entschiedenem Zielland und fehlendem Bankzugang. Wir nehmen deinen vorhandenen Stand auf und verwenden brauchbare Vorarbeiten weiter. Eine bereits geklärte Aufgabe kannst du direkt über <a href=\"/de/leistungen/\">unsere Leistungen</a> anfragen.</p><p>Wenn die Zuordnung noch offen ist, hilft das kostenlose 20-Minuten-Orientierungsgespräch. Brauchst du eine fundierte persönliche Einordnung, ist die <a href=\"/de/leistungen/erstklaerung/\">Persönliche Erstklärung</a> mit Vorbereitung, 60-Minuten-Gespräch und schriftlichen Prioritäten der passende eigene Auftrag. Du kaufst damit ein Ergebnis, nicht bloß den Zugang zu weiteren Leistungen.</p>",
+      "layout": "prose",
+      "callToAction": true
+    },
+    {
+      "id": "w-umfang",
+      "title": "Du weißt vor dem Start, wofür du bezahlst",
+      "body": "<p>Das Angebot beschreibt die enthaltenen Arbeiten, das Ergebnis, deine Mitwirkung und die Übergabe. Bei einem Dokumentenauftrag kann das eine beschaffte und für die benannte Verwendung vorbereitete Urkunde sein. Bei einem Länderauftrag erhältst du einen begründeten Vergleich; bei einer Einrichtung die vereinbarten tatsächlich erledigten Schritte.</p><p>Wir unterscheiden EXOBASIS-Honorar, eingekaufte Facharbeit, Behörden- und Institutsgebühren, Reisen sowie laufende Kosten. Kaufpreis, Bankguthaben oder Stiftungskapital gehören zu deinem Vorhaben und werden getrennt von unserem Honorar ausgewiesen. Für zusätzliche Arbeit erhältst du vorab eine klare Umfangs- und Kostenabstimmung. Die <a href=\"/de/leistungsbedingungen/\">Leistungs- und Vertragsbedingungen</a> gehören zum Angebot.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "w-ausfuehrung",
+      "title": "Wir führen den Auftrag und organisieren die Facharbeit",
+      "body": "<p>Wir recherchieren, planen, beschaffen Unterlagen, stimmen Termine ab und übernehmen die vereinbarte Einrichtung und Betreuung. Braucht dein Auftrag örtliche Ausführung, Rechts- oder Steuerkompetenz, organisieren wir die passende Facharbeit und führen die Ergebnisse zusammen. Du musst widersprüchliche Rückfragen von Bank, Behörde und Ausführer nicht allein übersetzen.</p><p>Vor dem nächsten Schritt wird geklärt, welche Unterlage oder Entscheidung er voraussetzt. Bei einem Immobilienkauf etwa folgen aus deinem Suchauftrag die Besichtigung, die unabhängige Kaufprüfung und erst danach die freigegebenen Vertragsschritte. Über eine Kontoaufnahme entscheidet das Institut, über ein Aufenthaltsrecht die zuständige Behörde. Wir bereiten diese Verfahren vor und halten Rückfragen und Folgeschritte nach.</p>",
+      "layout": "prose",
+      "roles": [
+        [
+          "EXOBASIS",
+          "Führt deinen Auftrag, erledigt die vereinbarte Organisationsarbeit und stimmt die Ausführung ab."
+        ],
+        [
+          "Beauftragte Fachstellen",
+          "Bearbeiten die juristischen, steuerlichen oder örtlichen Aufgaben in ihrer Zuständigkeit."
+        ],
+        [
+          "Du",
+          "Entscheidest über Ziele, Ausgaben und die Freigaben, die dir vorbehalten bleiben."
+        ]
+      ],
+      "after": "<p>Wo du einen eigenen Vertrag mit einer Bank oder Fachstelle schließt, wird das vorher offengelegt. Für berufliche Kooperationen erläutert <a href=\"/de/zusammenarbeit/\">Zusammenarbeit für Berater und Fachanbieter</a> den passenden Einstieg.</p>"
+    },
+    {
+      "id": "w-arbeitsabschnitte",
+      "title": "Größere Vorhaben werden in sinnvollen Abschnitten erledigt",
+      "body": "<p>Du musst nicht alles gleichzeitig entscheiden. Zuerst kann die persönliche Standortwahl stehen, danach das Aufenthaltsverfahren und anschließend Unterkunft und Geldzugang. Wir legen mit dir die Reihenfolge fest und stimmen den Arbeitsbeginn auf das angenommene Angebot und die vereinbarte Zahlung ab.</p><p>Neue Erkenntnisse können den nächsten Abschnitt verändern: Ein Mietobjekt erfüllt die Anforderungen nicht, ein Nachweis fehlt oder die Familie entscheidet sich für einen anderen Ort. Du erfährst, was das für Ergebnis, Kosten und Zeitplan bedeutet, bevor daraus ein zusätzlicher Auftrag entsteht. Bereits geleistete und nutzbare Arbeit wird weiterverwendet.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "w-uebergabe",
+      "title": "Bei der Übergabe zählt, was du tatsächlich nutzen kannst",
+      "body": "<p>Du erhältst die vereinbarten Ergebnisse mit den zugehörigen Unterlagen und einer verständlichen Erklärung. Ein Antrag wird mit Einreichungsnachweis und noch ausstehender Entscheidung übergeben. Eine Unterkunft mit ihrer bestätigten Buchung und den Zugangsbedingungen. Ein eingerichteter Zahlungsweg mit dem vereinbarten Funktionstest.</p><p>Zum Abschluss gehen wir durch, was erledigt ist, wer im Alltag handeln darf und welche Frist als Nächstes ansteht. Fehlende vereinbarte Arbeit wird nachgehalten und nachgebessert. Deine Familie soll die Vorbereitung auch dann verstehen, wenn du selbst gerade nicht erreichbar bist.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "w-pflege",
+      "title": "Die Vorbereitung muss mit deinem Leben mitgehen",
+      "body": "<p>Ein neuer Pass, ein anderes Telefon, eine Geburt oder eine geänderte Aufenthaltsbedingung können einen funktionierenden Ablauf unterbrechen. In der <a href=\"/de/leistungen/vorbereitung-betreuen/\">laufenden Betreuung</a> prüfen und aktualisieren wir die vereinbarten Teile deiner Vorbereitung.</p><p>Dazu können Dokumentenfristen und Kontakte ebenso gehören wie eine leerstehende Wohnung: Schlüsselzugang, Versorgung, notwendige Wartung und die Vorbereitung deiner nächsten Ankunft. Du erhältst konkrete Ergebnisse und Vorschläge für die nötige Arbeit, statt selbst aus allgemeinen Nachrichten Handlungsbedarf ableiten zu müssen.</p>",
+      "layout": "prose"
+    },
+    {
+      "id": "w-aktivierung",
+      "title": "Für einen Ernstfall legen wir den Ablauf vorher fest",
+      "body": "<p>Wenn du bei einem bestimmten Ereignis Unterstützung brauchst, vereinbaren wir dafür Kontaktweg, erreichbare Personen, Entscheidungsbefugnisse und Ausführung. Die <a href=\"/de/leistungen/aktivierung-notfallkoordination/\">Aktivierung und Notfallkoordination</a> verbindet deine Meldung mit dem bestätigten nächsten Schritt, etwa der Vorbereitung einer Ankunft oder der Abstimmung mit einem beauftragten Fachausführer.</p><p>Kontaktfenster, Vertretung und verfügbare Kapazität werden für diesen Auftrag festgelegt und getestet. Für akute Gefahren nutzt du die örtlichen Notruf- und zuständigen konsularischen Hilfswege; als Bestandskunde erreichst du uns über den vereinbarten Mandatskontakt.</p>",
+      "layout": "prose"
+    }
+  ],
+  "faq": {
+    "question": "Kann ich vorhandene Beratung und Unterlagen mitbringen?",
+    "answer": "Ja. Wir sichten die für deinen Auftrag relevante Vorarbeit und knüpfen daran an. So konzentriert sich der Auftrag auf das, was noch entschieden, eingerichtet oder aktualisiert werden muss."
+  },
+  "closing": {
+    "id": "dein-auftrag",
+    "title": "Welche Arbeit möchtest du abgeben?",
+    "body": "Beschreibe dein Anliegen und einen passenden Rückweg. Ob du einen vollständigen Plan oder eine einzelne Erledigung brauchst, klären wir gemeinsam."
+  },
+  "nextWork": {
+    "title": "Dein nächster Auftrag",
+    "body": "<p>Wähle eine <a href=\"/de/leistungen/\">konkrete Leistung</a> oder lass einen <a href=\"/de/leistungen/flucht-notfallplan/\">persönlichen Flucht- und Notfallplan</a> ausarbeiten. Wie wir persönliche Informationen behandeln, erklärt <a href=\"/de/diskretion/\">Diskretion und geschützte Zusammenarbeit</a>.</p>"
+  },
+  "displayTitle": "Dein Ausweg: geplant, eingerichtet und betreut"
+}

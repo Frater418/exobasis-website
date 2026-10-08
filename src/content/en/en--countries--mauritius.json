@@ -1,0 +1,215 @@
+{
+  "route": "/en/countries/mauritius/",
+  "lang": "en",
+  "title": "Mauritius as a personal alternative",
+  "parent": "/en/countries/",
+  "translation": "/de/laender/mauritius/",
+  "model": "laenderprofil",
+  "schemaVersion": 1,
+  "kind": "country",
+  "reviewStatus": "draft_for_review",
+  "sourceRefs": [
+    {
+      "module": "11_Schreibauftraege_Laender.md",
+      "anchor": "quelle-3be9c3e1e0e651",
+      "startLine": 8747
+    },
+    {
+      "module": "15_Baukarten_Laender.md",
+      "anchor": "quelle-5af6f3b0e43378",
+      "startLine": 11172
+    }
+  ],
+  "eyebrow": "Your Plan B / Countries",
+  "seoTitle": "Moving to Mauritius: visas, homes and family life | EXOBASIS",
+  "description": "Compare Mauritius long-stay and residence routes, renting and foreign property ownership, schools, care and banking. Arrange your household’s practical move.",
+  "intro": "<p>You want somewhere your family can live, your work can continue and your next move remains yours to make. Mauritius may suit an overseas-funded long stay or a more permanent home. The right preparation connects the residence route, location and money with the ordinary things you need to work on the island.</p>",
+  "countryContext": "/en/countries/mauritius/",
+  "linkPlan": [
+    {
+      "sourceLine": 1278,
+      "target": "/en/countries/",
+      "label": "Countries and options",
+      "role": "Parent / Breadcrumb",
+      "placement": "Breadcrumb oberhalb des Hauptinhalts"
+    },
+    {
+      "sourceLine": 1280,
+      "target": "/en/services/country-location-selection/",
+      "label": "Choose suitable countries and locations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt individueller Ländervergleich"
+    },
+    {
+      "sourceLine": 1281,
+      "target": "/en/services/residence-documents/",
+      "label": "Arrange residence and document preparation",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Dokumenten-/Aufenthaltsarbeit organisieren"
+    },
+    {
+      "sourceLine": 1282,
+      "target": "/en/services/arrange-arrival/",
+      "label": "Arrange your arrival abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Unterkunft, Erkundung und Ankunft"
+    },
+    {
+      "sourceLine": 1283,
+      "target": "/en/knowledge/family-life-abroad/children-family/",
+      "label": "Prepare to move abroad with children and family",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Kinder und Angehörige"
+    },
+    {
+      "sourceLine": 1284,
+      "target": "/en/knowledge/family-life-abroad/health-cover-care/",
+      "label": "Health cover and care abroad",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Krankenversicherung und Behandlung"
+    },
+    {
+      "sourceLine": 1285,
+      "target": "/en/services/maintain-preparations/",
+      "label": "Review and maintain your preparations",
+      "role": "Horizontale Aufgabenverbindung",
+      "placement": "Abschnitt Voraussetzungen aktuell halten"
+    },
+    {
+      "sourceLine": 1286,
+      "target": "/en/enquiry/",
+      "label": "Private enquiry",
+      "role": "Conversion",
+      "placement": "Primärer Abschluss-CTA; zusätzlich kontextnah bei konkreter Aufgabenklärung"
+    },
+    {
+      "sourceLine": 1287,
+      "target": "/de/laender/mauritius/",
+      "label": "Deutsch",
+      "role": "Sprachwechsel",
+      "placement": "Sprachwahl im Header"
+    },
+    {
+      "sourceLine": 1509,
+      "target": "/en/countries/namibia/",
+      "label": "Namibia as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    },
+    {
+      "sourceLine": 1511,
+      "target": "/en/countries/dominican-republic/",
+      "label": "Dominican Republic as a personal alternative",
+      "role": "Ländervergleich",
+      "placement": "Abschnitt passende Vergleichsoptionen nach Lebensmodell"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Economic Development Board Mauritius: Work & Live",
+      "url": "https://edbmauritius.org/work-live",
+      "section": 4,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": ""
+    },
+    {
+      "title": "Economic Development Board Mauritius: residence pathways",
+      "url": "https://edbmauritius.org/work-live",
+      "section": 5,
+      "checkedAt": "2026-09-26",
+      "verification": "live_primary_text",
+      "limitation": "Premium Visa und Daueraufenthalts-/Occupation-Wege getrennt. Alte COVID-Formulierung nicht übernommen; keine Beträge oder konkrete Arbeitszulassung zugesagt."
+    }
+  ],
+  "mediaStatus": "geographic_locator_photo_pending",
+  "releaseStatus": "editorial_draft_not_published",
+  "primary": {
+    "label": "Ask us to prepare your Mauritius option",
+    "intent": "General enquiry"
+  },
+  "country": {
+    "name": "Mauritius",
+    "slug": "mauritius",
+    "region": "Africa and the Indian Ocean",
+    "map": "countries/mauritius-locator.svg",
+    "imageAlt": "Map showing the location of Mauritius.",
+    "caption": "Mauritius in its geographical region.",
+    "summary": [
+      [
+        "Try daily life first",
+        "A longer stay can precede a property commitment."
+      ],
+      [
+        "Choose the right permission",
+        "Overseas work, local business, retirement and ownership have distinct conditions."
+      ],
+      [
+        "Prepare for island life",
+        "Build care, transport, payment access and storm preparation into the base."
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "id": "starting-point",
+      "title": "What kind of Mauritius base do you want?",
+      "body": "<p>Mauritius offers a practical distinction that matters if you want room to act: you can explore a longer stay funded from abroad without first buying a property. That can suit a family seeking distance from conflict or an owner-manager who wants another place to live while keeping an overseas business running.</p><p>Start by choosing between a renewable long stay, a move connected to local work or business, and a residence route tied to retirement or eligible property ownership. The answer determines the documents, money movements and commitments that follow. A holiday villa can help you test daily life; a family's second home needs reliable access, school, care and someone to look after it when you are away.</p>"
+    },
+    {
+      "id": "contingency-return",
+      "title": "An island contingency needs more than a flight booking",
+      "body": "<p>If war or worsening restrictions are why you want another base, arrange it while you can still choose your timing. For Mauritius, the flight and any transit airport are critical dependencies. There is no land route to the island if air services are interrupted. Your preparation should cover delayed departure as well as arrival: lawful accommodation where you are, accessible money and the documents for the next workable route.</p><p>Tropical cyclones and heavy rain can disrupt flights, roads and utilities. The cyclone season normally runs from November to May. Before taking a property, ask how water, electricity, storm shutters, drainage and emergency access work there. Agree who checks the home after a warning and who can authorise repairs while you are abroad.</p><p>A reserve base is ready when the household can reach it legally, collect the keys, buy food and continue essential treatment. That is a more useful test than how reassuring an island looks on a map.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.gov.uk/foreign-travel-advice/mauritius/safety-and-security\" rel=\"noreferrer\">UK travel advice: cyclones, flooding and local safety</a>.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/prepare-your-way-out/where-to-go-if-war/\">Assess the country as a usable family refuge</a>, including flight dependence and care on the island. <a class=\"exb-text-link\" href=\"/en/services/departure-contingency-plan/\">Commission a departure and contingency plan</a> that covers a delayed flight as well as the Mauritius arrival.</p>"
+    },
+    {
+      "id": "family-future",
+      "title": "Moving to Mauritius with children or older relatives",
+      "body": "<p>Build the move around the family members with the least flexibility. A child approaching exams needs the right curriculum and entry date; an older relative may need a particular specialist rather than simply a nearby clinic. Confirm those arrangements before choosing the coast you prefer.</p><p>A first rental lets you test the school journey, appointments, work calls and shopping through an ordinary week. For a family that has so far known Mauritius through holidays, that experience can change the preferred location. Keep enough money outside the property budget for school deposits and fees, transport, insurance, care and travel back to relatives.</p><p>Each accompanying person's permission and documents need their own place in the plan. The principal applicant's approval does not organise a child's admission, an adult relative's status or consent for a child travelling with one parent.</p>"
+    },
+    {
+      "id": "mobile-use",
+      "title": "The Premium Visa for an overseas-funded long stay",
+      "body": "<p>The Premium Visa is designed for a stay of more than six months and up to one year, with renewal available. It allows multiple entries during its validity. It suits eligible visitors, retirees and professionals whose principal business or income source remains outside Mauritius; it does not authorise entry into the Mauritian labour market.</p><p>The official checklist requires accommodation for the intended stay, travel and health insurance, recent bank statements and proof of monthly income. It specifies at least USD 1,500 for each adult applicant and USD 500 for each dependent child. These are application thresholds, not an estimate of what your family will spend. Private school, a larger home and recurring care can change the budget substantially.</p><p>UK and UAE nationals appear on the published nationality list for application before arrival. A UAE residence card alone does not put another nationality on that list. Match the application procedure to the passport you will use and keep the permitted duration separate from tax residence.</p><p class=\"exb-source-note\">Source: <a href=\"https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf\" rel=\"noreferrer\">Economic Development Board: Premium Visa conditions and checklist</a>.</p>"
+    },
+    {
+      "id": "rights-routes",
+      "title": "Longer residence: work, retirement and property are different routes",
+      "body": "<p>If you will work in the local economy, the relevant Occupation Permit category follows the activity: investor, professional or self-employed. Each has its own financial, employment or business conditions. Continuing to serve only overseas clients under the Premium Visa and opening a locally trading business are different projects.</p><p>The Retired Non-Citizen route is for people aged 50 or over. The published guidelines require evidence of at least USD 24,000 available, an initial transfer of at least USD 2,000 to a local bank within 60 days of permit issue, and thereafter USD 24,000 annually or USD 2,000 monthly. The permit can run for up to ten years. Ordinary employment is not covered by the retirement permission; a permitted work route is needed for eligible employment.</p><p>Qualifying residential ownership can support a separate residence permit. Establish the property's scheme, acquisition approval and residence threshold before treating a sales brochure as an immigration plan. We organise the relevant professional assessment and the practical sequence around the route you choose.</p><p class=\"exb-source-note\">Source: <a href=\"https://business.edbmauritius.org/wps/wcm/connect/business/d19ef870-5d87-42af-9108-0f494ae4897a/Merged%2BOP%2Band%2BYPOP%2Bguidelines%2B18.08.2026.pdf?CACHE=NONE&amp;ContentCache=NONE&amp;MOD=AJPERES\" rel=\"noreferrer\">Economic Development Board: occupation and residence permit guidelines</a>.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fmauritius%2F#short-enquiry\">Ask us to prepare your Mauritius option</a><p>A defined task can be requested directly. Personal documents follow only through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+    },
+    {
+      "id": "regions-housing",
+      "title": "Where to live, what to rent and how to buy",
+      "body": "<h3>Start with three different daily routines</h3><p>Grand Baie and the northern area deserve a look if you want a coastal base with access to a northern school such as Northfields at Mapou. Moka and the central area provide a different starting point for work around Ebène and a school such as Le Bocage near Mount Ory. Tamarin and Black River form a western-coast comparison. Visit at school and commuting times: the useful question is how your home connects to the places you need every week.</p><h3>Rent with a written handover</h3><p>For an initial stay, a furnished rental reduces what you must buy before you know the area. For a longer lease, agree the term, renewal, notice, deposit, rent currency, utilities, maintenance and furnishings in writing. Photograph the inventory and meter readings at handover. Ask who services air-conditioning, pool equipment or backup systems and how a repair is approved if the owner is abroad. Ask the owner to state the deposit amount, permitted deductions and repayment process in the lease.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.lexpressproperty.com/en/news-advices/accommodation/our-files/rent-tenants/signing-a-lease.html\" rel=\"noreferrer\">LexpressProperty: signing a lease in Mauritius</a>.</p><h3>Foreign ownership needs the correct acquisition route</h3><p>Non-citizens can purchase eligible homes in authorised schemes such as IRS, RES, PDS and Smart City developments, and eligible apartments in buildings with at least two floors above the ground floor, commonly called G+2. These routes have approval requirements. Buying an ordinary house or plot outside them is not interchangeable with buying an eligible scheme property.</p><p>For the G+2 apartment route, the published EDB acquisition guidance sets a minimum price of MUR 6 million. The residence-permit threshold is a separate USD 375,000; the permit remains tied to holding the qualifying property. An apartment can therefore meet an acquisition threshold without meeting the residence threshold.</p><p>Appoint an independent notary to check the seller's title, registered interests, scheme and acquisition permissions, survey and planning documents, and the deed and registration with the Registrar General. For an off-plan apartment, the construction contract, completion protection and relevant financial completion guarantee require their own review. Confirm the common-property rules and charges as well as your private unit.</p><p class=\"exb-source-note\">Source: <a href=\"https://edbmauritius.org/wp-content/uploads/2022/10/Guidelines-acquisition-of-apartments-incl.residency.pdf\" rel=\"noreferrer\">Economic Development Board: apartment acquisition and residence conditions</a>.</p><p>Get a transaction-specific statement of registration duty, notarial and registration charges, any agency fee, financing costs and recurring service charges. For a new first sale to a non-citizen under IRS, RES, IHS, PDS or the Smart City Scheme, EDB's amended rules distinguish the incoming transfer from payment to the developer: funds sent from abroad arrive in a hard convertible foreign currency, while the notary ensures the promoter receives 85% in Mauritian rupees and the remaining 15% in USD, EUR, another permitted hard convertible currency or MUR. These amendments do not apply to resales or G+2 apartments. Coordinate the bank conversion and payment schedule with the notary before releasing funds.</p><p>Already having funds in Mauritius creates distinct cases. A resident non-citizen holding an Occupation Permit, retired permit or another residence permit may use earlier foreign transfers, supported by transfer evidence and a valid bank statement or other relevant documents. EDB also permits Mauritius-derived income, investment returns, dividends, rent and proceeds from a previous property sale. An Occupation or Residence Permit holder working in Mauritius, earning in MUR and holding a local MUR account may fund the whole acquisition in MUR. Eligible local funds do not need an artificial journey through a foreign account first.</p><p>Borrowing follows a separate rule, not the 15% currency balance. For an acquisition funded from abroad under these rules, a price below USD 750,000 must be met from your own funds transferred to Mauritius. Above that price, the first USD 750,000 must still come from your own transferred funds; a bank loan may cover the remainder. Resident non-citizens with an Occupation or Residence Permit also need the first USD 750,000 from their own funds before borrowing the excess locally. Both loan cases require repayment in a hard convertible foreign currency. Establish the bank's actual lending decision and the exchange rate applicable on the instructed payment date before committing your purchase budget.</p><p class=\"exb-source-note\">Source: <a href=\"https://edbmauritius.org/wp-content/uploads/2025/03/FAQ-Amendments-to-Property-Regulations.pdf\" rel=\"noreferrer\">Economic Development Board: property-regulation amendments and payment rules</a>.</p><p>EXOBASIS can run the search and viewing sequence, organise independent title and purchase checks, coordinate the contract and completion, and arrange handover, utilities and care during absence. <a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Arrange your Mauritius home and arrival</a> as a defined task, including purchase coordination where appropriate.</p>"
+    },
+    {
+      "id": "school-health-care",
+      "title": "Schools, healthcare and reliable care on the island",
+      "body": "<h3>Choose the school before the school run</h3><p>Northfields in Mapou has primary and secondary provision; Le Bocage offers the IB programmes and Cambridge IGCSE in the relevant years. Admission depends on the school, year group and available places. Ask for entry requirements, the actual year-group vacancy, support for your child and the full fee schedule. An English-medium school does not remove the value of French and Mauritian Creole in everyday life.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.northfieldsinternational.school/about-us/our-campus\" rel=\"noreferrer\">Northfields: campus and educational stages</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://lebocage.net/\" rel=\"noreferrer\">Le Bocage: programmes and location</a>.</p><p>Obtain birth and marriage records and any required parental consent before the move. <a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare the family move and children’s travel authority</a> alongside the destination arrangements.</p><h3>Separate insurance from the treatment you need</h3><p>The Premium Visa requires travel and health insurance for the intended stay. Mauritius has public and private facilities, but the treatment available locally may not cover a complex condition. The UK's official advice describes private healthcare as expensive and warns that medical evacuation may be necessary for serious cases. Confirm the treating provider, payment or insurer authorisation and evacuation cover before relocating someone who depends on specialist care.</p><p>For ongoing support, arrange the clinician's handover, prescriptions, medicine availability and someone who can accompany the relative to appointments. A policy certificate does not supply a carer or guarantee a particular treatment slot. <a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Plan health cover and continuity of care abroad</a> around the actual condition.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.gov.uk/foreign-travel-advice/mauritius/health\" rel=\"noreferrer\">UK travel advice: healthcare in Mauritius</a>.</p>"
+    },
+    {
+      "id": "income-money-work",
+      "title": "Banking, income and the money you can actually use",
+      "body": "<p>Prepare local banking around your status and payments rather than assuming an offshore account will solve everything. MCB's published personal-account requirements include identity and address evidence; its foreign-currency account guidance also lists birth or marriage documentation. Confirm the account type, eligible status, required tax information and source-of-funds evidence with the chosen bank.</p><p>Keep local rupee spending separate from foreign-currency reserves and a property's completion funds. Test the incoming transfer, card, local bill payment and recovery route before making them essential. A second account is useful only if you can access it when the first bank or your usual phone is unavailable.</p><p class=\"exb-source-note\">Source: <a href=\"https://mcb.mu/personal/accounts-packages/standard-current-account\" rel=\"noreferrer\">MCB: personal current-account documentation</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://mcb.mu/personal/accounts-packages/foreign-currency-account\" rel=\"noreferrer\">MCB: foreign-currency accounts</a>.</p><p>If you are leaving the UK, ask existing providers whether your intended Mauritius address changes the products you can keep. If you are leaving the UAE, resolve the bank's requirements for employment, liabilities and resident-to-non-resident changes before relying on final payments for the move. Fund the first accommodation and household costs from money already available for that purpose.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\">Understand banking and payment continuity</a> explains how to separate a closed account, a blocked payment and unavailable funds. <a class=\"exb-text-link\" href=\"/en/services/banking-liquidity/\">Ask EXOBASIS to prepare your banking and liquidity</a> connects the account requirements, evidence and payment sequence to your household.</p><p>The Premium Visa is not an all-purpose tax exemption. The Mauritius Revenue Authority distinguishes money remitted to Mauritius, spending through foreign cards, accumulated savings and income already taxed elsewhere. A declaration or tax registration may be required depending on the money involved. Record what each transfer represents and have the current rules applied before moving a large sum, particularly where income has not been taxed in another country. Local business activity and other residence categories need their own treatment.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.mra.mu/download/FAQsPremiumVISA.pdf\" rel=\"noreferrer\">Mauritius Revenue Authority: Premium Visa tax treatment</a>.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.mra.mu/download/ITAConsolidated.pdf\" rel=\"noreferrer\">Income Tax Act: sections 73B and 74A</a>.</p>"
+    },
+    {
+      "id": "documents-timing",
+      "title": "Prepare the evidence before making irreversible commitments",
+      "body": "<p>For a Premium Visa application, assemble the passport, accommodation and insurance records, the required recent statements, income evidence and family documents. For an occupation or retirement route, use that category's checklist and timing for medical, police and financial evidence. For a property-linked route, the registered purchase and the residence application are separate steps in the same sequence.</p><p>Agree the order between immigration, bank onboarding, accommodation and transfers. A notary may need financial evidence before completion; a bank may need an acceptable address and the explanation for the transfer. Resolving that sequence early is more useful than collecting documents without knowing who will accept them.</p><p><a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Commission the residence and document preparation</a> so requests, translations, appointments and follow-ups are handled together.</p><p>Keep access to those records independent of the phone used for banking. The <a class=\"exb-text-link\" href=\"/en/knowledge/phone-email-access-failure/\">access-failure guide</a> helps expose shared dependencies; EXOBASIS can <a class=\"exb-text-link\" href=\"/en/services/communications-recovery/\">organise and test recovery access</a> before the household depends on it abroad.</p>"
+    },
+    {
+      "id": "ongoing-obligations",
+      "title": "Keep the base usable when you are elsewhere",
+      "body": "<p>For a coastal or occasionally occupied home, arrange inspections, storm preparation, moisture and pest control, utility payments and a local keyholder. Define the repair spending that the representative can authorise and how the property will be checked before your next arrival.</p><p>Keep visa or permit dates, any required transfers, insurance, school commitments and bank records current. Test what a trusted person can do if you cannot approve a payment or speak to an institution. Legal authority and knowing your passwords are different things. <a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Arrange continuing care of your preparations</a> with named responsibilities and an agreed review schedule.</p>"
+    },
+    {
+      "id": "practical-preparation",
+      "title": "Make Mauritius a working option for your household",
+      "body": "<p>EXOBASIS can take on the whole preparation or a specific assignment: comparing the north, centre and west, organising a reconnaissance visit, coordinating residence documents, finding a rental, arranging an eligible property purchase, or setting up the family's arrival. We agree the deliverable, local professional work, external costs and ongoing support before carrying it out.</p><p>If you still need to decide where to establish the base, <a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">commission the country and location selection</a>. If the task itself is unclear, the free 20-minute orientation helps you choose the next step.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fmauritius%2F#short-enquiry\">Ask us to prepare your Mauritius option</a><p>A defined task can be requested directly. Personal documents follow only through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div><div class=\"exb-country-comparisons\"><h3>Two useful comparisons before committing</h3><article><p><a class=\"exb-text-link\" href=\"/en/countries/namibia/\">Namibia: compare a mainland southern African base</a></p><p>Set the island's flight dependence against a mainland location, then compare the actual residence route, distances to care and the journeys your household would make.</p><p>Namibia's <a href=\"https://www.namibia-botschaft.de/application-for-permanent-residence-2/\" rel=\"noreferrer\">permanent-residence application is assessed on its merits</a>, with requirements varying by circumstances such as work or retirement. That legal file is separate from choosing a workable address. In Windhoek, the <a href=\"https://www.dhps-windhoek.de/de/page/sekundarstufe-ii-diap\" rel=\"noreferrer\">DHPS offers Cambridge as well as a German school-leaving route</a>, while <a href=\"https://www.mediclinic.co.za/en/windhoek/emergency.html\" rel=\"noreferrer\">Mediclinic publishes an emergency contact</a>. Match actual school admission, the treatment you need, daily journeys, supplies and local support to the home. A coastal or remote property needs its own assessment; mainland geography does not by itself replace the service network you would build around your Mauritius home.</p></article><article><p><a class=\"exb-text-link\" href=\"/en/countries/dominican-republic/\">Dominican Republic: compare a Caribbean family base</a></p><p>Compare residence preparation, language, school and care arrangements with your connections to Europe or the Americas. A warmer climate alone does not decide which base your family can use.</p><p>The regional choice changes with the job your family needs the base to do:</p><ul><li><strong>Santo Domingo:</strong> For a school-led move, <a href=\"https://www.cms.edu.do/admissionsoverview\" rel=\"noreferrer\">Carol Morgan School beside Mirador Park</a> provides a specific location around which to assess housing and the school run.</li><li><strong>North coast:</strong> The <a href=\"https://www.issosua.com/\" rel=\"noreferrer\">International School of Sosúa</a> teaches mainly in English. Sosúa is therefore a concrete school-location option; a home in Cabarete or Puerto Plata still has to work for that daily journey.</li><li><strong>Samaná:</strong> El Catey airport and the <a href=\"https://hospitalleopoldopou.gob.do/\" rel=\"noreferrer\">Leopoldo Pou hospital in Santa Bárbara de Samaná</a> anchor different journeys. For a home in Las Terrenas or Las Galeras, assess access to the treatment needed as well as the transfer on arrival.</li><li><strong>Inland:</strong> If regular treatment shapes the move, Santiago's <a href=\"https://homs.com.do/quienes-somos/\" rel=\"noreferrer\">HOMS hospital</a> is a specific point to investigate. A home in Jarabacoa needs its own workable journey to the relevant clinician.</li><li><strong>East:</strong> <a href=\"https://www.godominicanrepublic.com/travel/air-and-sea-travel\" rel=\"noreferrer\">PUJ serves the Punta Cana and Bávaro area</a>, giving you a distinct arrival option to compare with Mauritius. Schooling and treatment still need to fit the chosen home.</li></ul><p>Confirm admission, care arrangements and flights from your actual starting point before committing to the location. These are different household choices, not a ranking of regions.</p></article></div>"
+    }
+  ],
+  "faq": {
+    "question": "Does any property purchase give me residence in Mauritius?",
+    "answer": "No. Foreign acquisition and residence depend on the approved property route and its conditions. For example, the published G+2 apartment rules distinguish a MUR 6 million purchase threshold from the USD 375,000 residence threshold. Establish both before committing."
+  },
+  "displayTitle": "Moving to Mauritius: turn a long stay into a prepared base"
+}

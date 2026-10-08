@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "route": "/en/",
+  "lang": "en",
+  "title": "EXOBASIS: Your own base beyond your home country",
+  "kind": "home",
+  "sourceRefs": [
+    {
+      "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+      "anchor": "quelle-cad1dcd4d29152"
+    },
+    {
+      "module": "13_Baukarten_Leistungen_und_Funktion.md",
+      "anchor": "quelle-7e391b72a1c31e"
+    }
+  ],
+  "reviewStatus": "draft_for_review",
+  "html": "home.html",
+  "seoTitle": "EXOBASIS | Your Prepared Base Abroad",
+  "description": "Prepare a base abroad for your family, assets and business. EXOBASIS organises residence documents, property purchase, arrival and ongoing support.",
+  "displayTitle": "EXOBASIS: Your own base beyond your home country"
+}

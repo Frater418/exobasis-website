@@ -1,0 +1,2909 @@
+[
+  {
+    "module": "01_Unternehmen_und_Businessplan.md",
+    "anchor": "quelle-000d1caf03d8f4",
+    "file": "quelle-000d1caf03d8f4.md",
+    "original": "Plan_B_Projektzentrale/01_Unternehmensgrundlage/01_Projektbriefing.md",
+    "start": 7,
+    "end": 465,
+    "sha256": "d8942ac55e5a452ae9a94ddb95db0f87b8ccf68a9f050a8cfa28f11f0415e3e8"
+  },
+  {
+    "module": "01_Unternehmen_und_Businessplan.md",
+    "anchor": "quelle-3711595ce4709c",
+    "file": "quelle-3711595ce4709c.md",
+    "original": "Plan_B_Projektzentrale/01_Unternehmensgrundlage/02_Businessplan_DE.md",
+    "start": 465,
+    "end": 1461,
+    "sha256": "c9278f3a894ff63bd000ba3070fce0ebfa2f7f9fa0e62c41918df39f07b0836b"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-0a4cf998c34e80",
+    "file": "quelle-0a4cf998c34e80.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/01_Forschung_und_Service_Delivery.md",
+    "start": 7,
+    "end": 1897,
+    "sha256": "7cfae9f6ddaab0dd747ff4efb4e587906283bed056e9292bfd72143d25c07797"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e01",
+    "file": "quelle-e01.md",
+    "original": "",
+    "start": 1897,
+    "end": 1907,
+    "sha256": "a87661801c50478b9dd133319c4a49e690cc957911885022001ea30a08425011"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e02",
+    "file": "quelle-e02.md",
+    "original": "",
+    "start": 1907,
+    "end": 1917,
+    "sha256": "066e660e5b9ad595bea6235f200698bd22222b8f02a96ce716abe7fc92415526"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e03",
+    "file": "quelle-e03.md",
+    "original": "",
+    "start": 1917,
+    "end": 1927,
+    "sha256": "176e16ac659a2b879a98c0cd32792f7c1ed74c400092b2272e8ec5d340aedce2"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e04",
+    "file": "quelle-e04.md",
+    "original": "",
+    "start": 1927,
+    "end": 1937,
+    "sha256": "d8dbd85615ff418da7832f43cd5bd8f9656e3342a2f5070edd90c85d5d898755"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e05",
+    "file": "quelle-e05.md",
+    "original": "",
+    "start": 1937,
+    "end": 1947,
+    "sha256": "32be86a35f0c315a25ef10a286e488f05b2a222a82772a04fef01780d2d46cc5"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e06",
+    "file": "quelle-e06.md",
+    "original": "",
+    "start": 1947,
+    "end": 1957,
+    "sha256": "b32abc8cced5e149e0e05bab406c59ef027a8bc62b4e06a18d98e2003827f036"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e07",
+    "file": "quelle-e07.md",
+    "original": "",
+    "start": 1957,
+    "end": 1967,
+    "sha256": "5831cec21f1d9df656288d8005210e59468b9b5864e7613843abfcdad88575de"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e08",
+    "file": "quelle-e08.md",
+    "original": "",
+    "start": 1967,
+    "end": 1977,
+    "sha256": "d35308b60492e13f6e118d880d96e9c4892f0a5aa31bde13556c4c43912927ea"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e09",
+    "file": "quelle-e09.md",
+    "original": "",
+    "start": 1977,
+    "end": 1987,
+    "sha256": "92063c19e2693dd9b16f2e5b2cd6f58b80e2dd54d6e52189cf4a3fd553fc00de"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e10",
+    "file": "quelle-e10.md",
+    "original": "",
+    "start": 1987,
+    "end": 1997,
+    "sha256": "568ecb1d9643e87d7846f6b38dfaa1aa586e2405c4f4ab4be4ccf19be40d8938"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e11",
+    "file": "quelle-e11.md",
+    "original": "",
+    "start": 1997,
+    "end": 2007,
+    "sha256": "de5b0c30745fa5bc346102ae75a1a52a33b03b0af5aafa667614c5b7c423ed3b"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e12",
+    "file": "quelle-e12.md",
+    "original": "",
+    "start": 2007,
+    "end": 2017,
+    "sha256": "06c15f8939401a636048d298342c04322470003790d735f8a3cedd425d0fc664"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e13",
+    "file": "quelle-e13.md",
+    "original": "",
+    "start": 2017,
+    "end": 2027,
+    "sha256": "c4a0d554f687ad5cbee7c45c8f46acfd138b77884e8ef7bc9c27c88c2116517b"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e14",
+    "file": "quelle-e14.md",
+    "original": "",
+    "start": 2027,
+    "end": 2037,
+    "sha256": "a49983ab1b2fc287a94aab48407eb7f7034d277c43fdac2107485e055ec74cdb"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e15",
+    "file": "quelle-e15.md",
+    "original": "",
+    "start": 2037,
+    "end": 2047,
+    "sha256": "bef281ce04c99806be63425bde6d0066a0e9490ca337e51de0057b4d32307c07"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e16",
+    "file": "quelle-e16.md",
+    "original": "",
+    "start": 2047,
+    "end": 2057,
+    "sha256": "516208eb14969cac11818953a72b3c7ededf08026e7b64bb96cd8e9c7663990f"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e17",
+    "file": "quelle-e17.md",
+    "original": "",
+    "start": 2057,
+    "end": 2067,
+    "sha256": "81aa7e7086bd1c69530e53cdf25240194eca60315563d779e6f8ef9a65068618"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e18",
+    "file": "quelle-e18.md",
+    "original": "",
+    "start": 2067,
+    "end": 2077,
+    "sha256": "6b08f03ffdaa6d9c2c63d536ee4c0283a657cd9b6da407a960b4c21f0fdd2262"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e19",
+    "file": "quelle-e19.md",
+    "original": "",
+    "start": 2077,
+    "end": 2087,
+    "sha256": "523acc7aa6a4d8a7855891dd94cc65400203afcf92a5c6c099d40dbc515ded39"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e20",
+    "file": "quelle-e20.md",
+    "original": "",
+    "start": 2087,
+    "end": 2097,
+    "sha256": "2e667d61ccd68ea34eb23f92f0b4c12ffa0e92739678c6b8c29746004edb35d9"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e21",
+    "file": "quelle-e21.md",
+    "original": "",
+    "start": 2097,
+    "end": 2107,
+    "sha256": "c1573d34503e639a9331d2e42f8f4ee7e971c9c5abab45c8be2b5fb0a951b465"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e22",
+    "file": "quelle-e22.md",
+    "original": "",
+    "start": 2107,
+    "end": 2117,
+    "sha256": "bd1cee80795f750ca4b28cd9256f4324948f5b2f5466c6bfac0d1cdd485d1c0c"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e23",
+    "file": "quelle-e23.md",
+    "original": "",
+    "start": 2117,
+    "end": 2127,
+    "sha256": "8d66d49a945bf95d9d38b47a8686d9fa0105225ecda7a4f6f08385def6033cf6"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e24",
+    "file": "quelle-e24.md",
+    "original": "",
+    "start": 2127,
+    "end": 2137,
+    "sha256": "1540feedd254f5598fe0ceed5b1e71f8eb7e24b7b853053f1f7ead82119cb039"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e25",
+    "file": "quelle-e25.md",
+    "original": "",
+    "start": 2137,
+    "end": 2147,
+    "sha256": "56ab4de8cc5c2363e833d1b5829ffcf0841b577a294a8b27eef15303bd0f4bad"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e26",
+    "file": "quelle-e26.md",
+    "original": "",
+    "start": 2147,
+    "end": 2157,
+    "sha256": "b8a1f7c30aadf6a6ce33be2a88e14e183050f280a9dbb65bbe90e8b59b80fbe6"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e27",
+    "file": "quelle-e27.md",
+    "original": "",
+    "start": 2157,
+    "end": 2167,
+    "sha256": "9a1b9d8e871f61e2553c78813ecb40607f2d5d54399e0e47b816f90b76f780a5"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e28",
+    "file": "quelle-e28.md",
+    "original": "",
+    "start": 2167,
+    "end": 2177,
+    "sha256": "cd202fa33d1c831d991c44f43e1fae61d72bf690971fe674354fb91b63c023d9"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e29",
+    "file": "quelle-e29.md",
+    "original": "",
+    "start": 2177,
+    "end": 2187,
+    "sha256": "2bb331b9ce2053bc4b1c7f34df50ea5c6a709d949e7ba94d6819b50dc41c6bca"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e30",
+    "file": "quelle-e30.md",
+    "original": "",
+    "start": 2187,
+    "end": 2197,
+    "sha256": "0080356cdadbbe9871975335b2b3d30381df7457cb7e731ad67fcfa78c5bf6a4"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e31",
+    "file": "quelle-e31.md",
+    "original": "",
+    "start": 2197,
+    "end": 2207,
+    "sha256": "b77058a1c868f6ffa7a497f916ece5729a9e4b9de767e9cf1c9e28d2ac01d87a"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e32",
+    "file": "quelle-e32.md",
+    "original": "",
+    "start": 2207,
+    "end": 2217,
+    "sha256": "1cb1ce951b65169e3731dafa443a161ea04f030236c7c01e295b3f12ebc61919"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e33",
+    "file": "quelle-e33.md",
+    "original": "",
+    "start": 2217,
+    "end": 2227,
+    "sha256": "5feb78051fac300afffa777cbd0a8ba5f3030d5637567eb5db10eab750e7cceb"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e34",
+    "file": "quelle-e34.md",
+    "original": "",
+    "start": 2227,
+    "end": 2237,
+    "sha256": "34de3932d139abd76e75a279b24c34fef3bdc7f56a3520881eec9475133f733f"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e35",
+    "file": "quelle-e35.md",
+    "original": "",
+    "start": 2237,
+    "end": 2249,
+    "sha256": "83e062bbb31d727b9f0676b5976196c309b030221ccb714b1e173a44e4e199d2"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e36",
+    "file": "quelle-e36.md",
+    "original": "",
+    "start": 2249,
+    "end": 2258,
+    "sha256": "7ee20756d9d8bcffe2f6b1416bf7a9a388cd399e6c11eceab2089519b243ab84"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-03263a6ef6616c",
+    "file": "quelle-03263a6ef6616c.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Daten/Fragen.json",
+    "start": 2258,
+    "end": 3125,
+    "sha256": "032ceda6143c127618a05175cf4bb3cc159a2df872ad38e816c1a0f51cf12d65"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-3d13f5d48700f6",
+    "file": "quelle-3d13f5d48700f6.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Daten/Glossar.json",
+    "start": 3125,
+    "end": 3178,
+    "sha256": "30618c293ed663f376d0788b4f691a0b3a496a385159720397e3f2741a5e615c"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-289643734cc760",
+    "file": "quelle-289643734cc760.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Daten/Leistungen.json",
+    "start": 3178,
+    "end": 3355,
+    "sha256": "21ff52058217581944251919bbba0bf9a1fa82e4893d8c9c67a4c59598b98e49"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-3ac942c19e8803",
+    "file": "quelle-3ac942c19e8803.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Daten/Provider_Kandidaten.json",
+    "start": 3355,
+    "end": 3422,
+    "sha256": "06a9586125f6fc7c31b0ba7f26e8579f1591e834f649fc46216bcb1c0034b230"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-2ed6a811c495b8",
+    "file": "quelle-2ed6a811c495b8.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Daten/Quellen.json",
+    "start": 3422,
+    "end": 3868,
+    "sha256": "85b38c98ff11a7b0299c2b3daf2e7494ac03cab49ebb38d074c1bb0f624136d9"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-14abfe51f91678",
+    "file": "quelle-14abfe51f91678.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Daten/Szenarien.json",
+    "start": 3868,
+    "end": 4091,
+    "sha256": "6f34494848a20230d644009a0f16e1baa15580b6064110cb338f7eb9d898b439"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-f468a7c70efc34",
+    "file": "quelle-f468a7c70efc34.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Daten/Zustaende_und_Freigaben.json",
+    "start": 4091,
+    "end": 4156,
+    "sha256": "8278a24a1b11e5b97de3c710de5a7b10916dce4d5e028091cab554b07e4d03a7"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-7e9a1a4c10f729",
+    "file": "quelle-7e9a1a4c10f729.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Vorlagen/Aktivierungsblatt.md",
+    "start": 4156,
+    "end": 4190,
+    "sha256": "4c3f0a7a4275b4e811557fae461f202f94fff30fe97bf8313d3c701fb71ecafd"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-4b12ff93cf12f1",
+    "file": "quelle-4b12ff93cf12f1.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Vorlagen/Alarm_und_Rueckmeldevereinbarung.md",
+    "start": 4190,
+    "end": 4220,
+    "sha256": "95965d74e57359e3e4031141501a4818db0df2a055ba3aae9af183a31242efdb"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-48d5e410cfae37",
+    "file": "quelle-48d5e410cfae37.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Vorlagen/Entscheidungsbrief.md",
+    "start": 4220,
+    "end": 4269,
+    "sha256": "bb28bd9763e7ae655a22f43a798178206bfa4d920a8b9e80f59bbb5a9221cb6c"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-85434c0b03cb38",
+    "file": "quelle-85434c0b03cb38.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Vorlagen/Kundenkommunikation.md",
+    "start": 4269,
+    "end": 4315,
+    "sha256": "d53a4fd0f696a7229943fa18c27a033e214d21d81cfde2694731238c7db87ab6"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-42c10465000248",
+    "file": "quelle-42c10465000248.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Vorlagen/Offline_Wiederkontaktprofil.md",
+    "start": 4315,
+    "end": 4355,
+    "sha256": "93ed1c5ee9ef6edc8b0251f920f91448992c49c596c49c295121be8d46c0e511"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-2210d6d4967a81",
+    "file": "quelle-2210d6d4967a81.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Vorlagen/SD01_Leistungsblatt.md",
+    "start": 4355,
+    "end": 4408,
+    "sha256": "c9555d3761562967931bc54e7e8ccba44083e5ade85f5e5c9eb0a8a8c678c6e7"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-bc5b7f4f0e2932",
+    "file": "quelle-bc5b7f4f0e2932.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Vorlagen/Uebungsprotokoll.md",
+    "start": 4408,
+    "end": 4438,
+    "sha256": "a711b2404139edb7c4e3f04ea169d7041a8c2f6173f20193987e91279330a1a0"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-1bc92624558315",
+    "file": "quelle-1bc92624558315.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Vorlagen/Unterstuetzungsfall.md",
+    "start": 4438,
+    "end": 4464,
+    "sha256": "4eddd4e2ce27103959d7ecebca9e092708785de552fddef721eea2110ae26aec"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-d5e5a2b5c241c8",
+    "file": "quelle-d5e5a2b5c241c8.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Forschung/2026-09-24_Offshore-Banking-Zugriffsschutz/01_ENTSCHEIDUNG_UND_SCHUTZMATRIX.md",
+    "start": 4464,
+    "end": 4657,
+    "sha256": "8afc12f50469ba40f783263b6eedf0aadea722d54caba6325dcebac330b75394"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-e42f59503f92aa",
+    "file": "quelle-e42f59503f92aa.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Forschung/2026-09-24_Offshore-Banking-Zugriffsschutz/02_BANKEN_UND_KOSTEN.md",
+    "start": 4657,
+    "end": 4804,
+    "sha256": "f58b24cdcf931485749a985762260c21e5aa3c6537046e85e353904a1b667d93"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-d39975d7ee7665",
+    "file": "quelle-d39975d7ee7665.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Forschung/2026-09-24_Offshore-Banking-Zugriffsschutz/03_SERVICE_UND_ANGEBOT.md",
+    "start": 4804,
+    "end": 4974,
+    "sha256": "b386f1f6243ec772e7ec2d9a9d85775329c81c84ed29b888b2c138b6efb17ab3"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-0e56578347adf2",
+    "file": "quelle-0e56578347adf2.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Forschung/2026-09-24_Offshore-Banking-Zugriffsschutz/04_BANKPRUEFUNG_UND_ABNAHME.md",
+    "start": 4974,
+    "end": 5122,
+    "sha256": "f1abe57977cb967f1693df12524f35c864e8fbb32427e7d86122be89d5763ea9"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-45e0ced80011a2",
+    "file": "quelle-45e0ced80011a2.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Forschung/2026-09-24_Offshore-Banking-Zugriffsschutz/05_KUNDENANTWORT.md",
+    "start": 5122,
+    "end": 5169,
+    "sha256": "07afad1ffc75f5382de1aaab81afac80788d82a4d03f972b24afb5840e44a1dd"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-59a21e9001a701",
+    "file": "quelle-59a21e9001a701.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Forschung/2026-09-24_Offshore-Banking-Zugriffsschutz/07_PRUEFUNG_UND_ABSCHLUSS.md",
+    "start": 5169,
+    "end": 5238,
+    "sha256": "7098403c4e7bca05f253ff645ead3e8fa1cba0e45b5e8eb59b23044404e0428b"
+  },
+  {
+    "module": "02_Service_Delivery_Fallbeispiele_und_Vorlagen.md",
+    "anchor": "quelle-f42220a3259e74",
+    "file": "quelle-f42220a3259e74.md",
+    "original": "Plan_B_Projektzentrale/04_Service-Delivery/Forschung/2026-09-24_Offshore-Banking-Zugriffsschutz/QUELLEN.md",
+    "start": 5238,
+    "end": 5575,
+    "sha256": "862869bd5e91c96df2a8d6d94d1250f46d42c4d4ec8d33654a0572c3df27dd0f"
+  },
+  {
+    "module": "03_Betriebsarchitektur.md",
+    "anchor": "quelle-f95d7e6e2c2b72",
+    "file": "quelle-f95d7e6e2c2b72.md",
+    "original": "Plan_B_Projektzentrale/03_Betriebsarchitektur/01_Betriebsarchitektur.md",
+    "start": 7,
+    "end": 731,
+    "sha256": "4807a6f40db39c1bd858f3f2c6e13b96f803e31540d3b52fd7ab9775bda10a9f"
+  },
+  {
+    "module": "04_Strategie_und_Seitenarchitektur.md",
+    "anchor": "quelle-73fad6750f1013",
+    "file": "quelle-73fad6750f1013.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-00/approved.md",
+    "start": 7,
+    "end": 785,
+    "sha256": "8b3b312884a300246260e3bfd5baf693467ee336c34b7e367807697c86898b00"
+  },
+  {
+    "module": "04_Strategie_und_Seitenarchitektur.md",
+    "anchor": "quelle-19d2bb9b31a579",
+    "file": "quelle-19d2bb9b31a579.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01/approved.md",
+    "start": 785,
+    "end": 1241,
+    "sha256": "ea49e415867cdb28e9410efc8f34d2b51294b8f983b622d95d4eeac6b50a5e22"
+  },
+  {
+    "module": "04_Strategie_und_Seitenarchitektur.md",
+    "anchor": "quelle-f13cf1332db1a9",
+    "file": "quelle-f13cf1332db1a9.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01b/abdeckung.csv",
+    "start": 1241,
+    "end": 1337,
+    "sha256": "670ee21f4aa4fe727f353aee2c064e2820ba72258e00bf648c198494ef86ccb2"
+  },
+  {
+    "module": "04_Strategie_und_Seitenarchitektur.md",
+    "anchor": "quelle-2966e13bfc0922",
+    "file": "quelle-2966e13bfc0922.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01b/approved.md",
+    "start": 1337,
+    "end": 1707,
+    "sha256": "085ca3dc61160c179a166313188e7317c8d6de61f05b740bac2fae9b59ffb360"
+  },
+  {
+    "module": "04_Strategie_und_Seitenarchitektur.md",
+    "anchor": "quelle-fb566ff9b70c88",
+    "file": "quelle-fb566ff9b70c88.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01b/keyword_seitenbindung.csv",
+    "start": 1707,
+    "end": 2486,
+    "sha256": "69f4bf4e0837b30afadfaab51cb621457a58c0eaac3fdb9aef9591bd21fbbd7b"
+  },
+  {
+    "module": "04_Strategie_und_Seitenarchitektur.md",
+    "anchor": "quelle-202e9165fda741",
+    "file": "quelle-202e9165fda741.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01b/keyword_zuordnung.csv",
+    "start": 2486,
+    "end": 3265,
+    "sha256": "d0930f5866cfedfa60ec6348f634a9d5a859b2e9021525e3bcdd457d202f2351"
+  },
+  {
+    "module": "04_Strategie_und_Seitenarchitektur.md",
+    "anchor": "quelle-dbe3622510e0cc",
+    "file": "quelle-dbe3622510e0cc.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01b/laenderportfolio.csv",
+    "start": 3265,
+    "end": 3302,
+    "sha256": "d931b9313827fba31ada4a58fd8774e5ebb5d8e0931e7a7c57a77dcb06759c21"
+  },
+  {
+    "module": "04_Strategie_und_Seitenarchitektur.md",
+    "anchor": "quelle-984de184539a75",
+    "file": "quelle-984de184539a75.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01b/leistungsseiten.csv",
+    "start": 3302,
+    "end": 3330,
+    "sha256": "d949e847e6a42fcc26d8b8361a941bae8886adcf3c7d577a268132f4695cca98"
+  },
+  {
+    "module": "04_Strategie_und_Seitenarchitektur.md",
+    "anchor": "quelle-f0c41a9f853af6",
+    "file": "quelle-f0c41a9f853af6.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01b/seitenarchitektur.csv",
+    "start": 3330,
+    "end": 3490,
+    "sha256": "ad0e7f3ce122e50dd9a7b94bb7ba0daae902f4a50073f8f69bf160ff9aa47034"
+  },
+  {
+    "module": "04_Strategie_und_Seitenarchitektur.md",
+    "anchor": "quelle-c29e44406e48ae",
+    "file": "quelle-c29e44406e48ae.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01b/seitenplan.md",
+    "start": 3490,
+    "end": 6919,
+    "sha256": "8ef157d2f4b687ed7b2fcdec0038eb17c6836a4fdf954cbdb23a8778ddde5ddf"
+  },
+  {
+    "module": "04_Strategie_und_Seitenarchitektur.md",
+    "anchor": "quelle-6c6620ebb67c34",
+    "file": "quelle-6c6620ebb67c34.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01b/step-01c-b-scope.csv",
+    "start": 6919,
+    "end": 6942,
+    "sha256": "1f84f28aa3cb4e78637ccca547eec0d7cc83aa5767709a892942835bc85cf176"
+  },
+  {
+    "module": "05_Navigation_und_alle_internen_Verweise.md",
+    "anchor": "quelle-864f38349afc04",
+    "file": "quelle-864f38349afc04.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01b/navigation.csv",
+    "start": 7,
+    "end": 99,
+    "sha256": "386e6e7e27eeca302a4d7cdc15240f47a4475e80640e44c08323c8118ee17b43"
+  },
+  {
+    "module": "05_Navigation_und_alle_internen_Verweise.md",
+    "anchor": "quelle-e90da4f968283c",
+    "file": "quelle-e90da4f968283c.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01b/interne_links.csv",
+    "start": 99,
+    "end": 1643,
+    "sha256": "5b7c853b547a6c6b16b866f8183f99379c13988da81d526fc022b353c301c3d4"
+  },
+  {
+    "module": "05_Navigation_und_alle_internen_Verweise.md",
+    "anchor": "quelle-0ff7b3d58cd92f",
+    "file": "quelle-0ff7b3d58cd92f.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/NAVIGATION.md",
+    "start": 1643,
+    "end": 1798,
+    "sha256": "6ba515a2b75cac580f0c80efa0545a19c801c02659ee0f2fbcc15789d5b864a1"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-8fcc1851c61f61",
+    "file": "quelle-8fcc1851c61f61.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-a/approved.md",
+    "start": 7,
+    "end": 58,
+    "sha256": "66a251d19610d83e176d4d98622871fa159fa999d9f2e5201daeab1599ca05a4"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-959c10188e4817",
+    "file": "quelle-959c10188e4817.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-a/DESIGN.md",
+    "start": 58,
+    "end": 520,
+    "sha256": "0d552c92bb0e8cb4871e4f936d9523ceafc28a84f6d0cdc57c72d17df6db1675"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-73e77864b8d33d",
+    "file": "quelle-73e77864b8d33d.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-a/kontakt-nachpruefung.md",
+    "start": 520,
+    "end": 606,
+    "sha256": "379430560db463aa0e7e01f3ffe2f1bdc1ad32728b8ad1e741256e6ae2320088"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-43956974de7adf",
+    "file": "quelle-43956974de7adf.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-a/tokens.css",
+    "start": 606,
+    "end": 690,
+    "sha256": "5f0ccbe4859cb334e1e7f984e936e759e99250596edfdd81455763b200cd604d"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-d66e87642b9680",
+    "file": "quelle-d66e87642b9680.md",
+    "original": "Umsetzung/Lokal/child-theme/assets/css/exobasis-base.css",
+    "start": 690,
+    "end": 799,
+    "sha256": "c446c057a80308ca07d2b9dea1214896067c898b9f594499973129e967eef273"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-aea7d5a9459602",
+    "file": "quelle-aea7d5a9459602.md",
+    "original": "Umsetzung/Lokal/child-theme/assets/css/exobasis-components.css",
+    "start": 799,
+    "end": 895,
+    "sha256": "ff9dbc7471edb3c1a54776657ee806b9894d16241370ddd925e1dbf0edbc0c77"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-203e4f7e0b3729",
+    "file": "quelle-203e4f7e0b3729.md",
+    "original": "Umsetzung/Lokal/child-theme/assets/css/exobasis-fonts.css",
+    "start": 895,
+    "end": 985,
+    "sha256": "042937b6f350381e78cda41d0da04de31c166ebc2afee0a3423d4cf87ce56ff0"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-f0b3cc94d9aa1c",
+    "file": "quelle-f0b3cc94d9aa1c.md",
+    "original": "Umsetzung/Lokal/child-theme/assets/css/exobasis-layout.css",
+    "start": 985,
+    "end": 1653,
+    "sha256": "b0c479c4255fe23effcd9a466ea67992f45027b16e0000ad29416c3c81a5ad0a"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-d333fde46a7e84",
+    "file": "quelle-d333fde46a7e84.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-b/BAUVERTRAG.md",
+    "start": 1653,
+    "end": 1781,
+    "sha256": "baf1a5ff28f59d8162ff403febd794660f885730dcaadf315ab536407720c369"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-18aa9e09f68aa4",
+    "file": "quelle-18aa9e09f68aa4.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-b/EINGANG_UND_REGRESSION.md",
+    "start": 1781,
+    "end": 1931,
+    "sha256": "691e29bf9448dbaecc220b0e80f5bddc8433dc76fd67b1afee8c33175dc1c6d8"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-e158b16ea74424",
+    "file": "quelle-e158b16ea74424.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-b/anfrage/candidate.md",
+    "start": 1931,
+    "end": 2121,
+    "sha256": "fc956dd43663ddb6d57292f71fc70a7f9098e7bbf6e2fb5de3db6b1b6720cc8d"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-f3a4a5e55ccb9c",
+    "file": "quelle-f3a4a5e55ccb9c.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-b/fachbeitrag/candidate.md",
+    "start": 2121,
+    "end": 4128,
+    "sha256": "fbb3421c9bab69ae0b4a5f539eff429e1b5d859f5bc5d3b962b5a840bb3fcda3"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-622450e4ed3ada",
+    "file": "quelle-622450e4ed3ada.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-b/herkunft/candidate.md",
+    "start": 4128,
+    "end": 4664,
+    "sha256": "cb96b2689f9fa6d79247c836a0b7afe74040e2a723793e9be7a7197eeabd1ff4"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-83309be26e90d7",
+    "file": "quelle-83309be26e90d7.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-b/laenderprofil/candidate.md",
+    "start": 4664,
+    "end": 11281,
+    "sha256": "2f44b78f0345b6d2c51796f9be67c3cc1a06c9e2b38c4bcdf77d7d31c7d53bb8"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-ad17042d111b4a",
+    "file": "quelle-ad17042d111b4a.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-b/laenderuebersicht/candidate.md",
+    "start": 11281,
+    "end": 11585,
+    "sha256": "8b94e01d5d7fef6517056248ce484cf27b71ee562cf33ad543527aec5ac96a75"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-780e4b368a7eb3",
+    "file": "quelle-780e4b368a7eb3.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-b/leistung/candidate.md",
+    "start": 11585,
+    "end": 15530,
+    "sha256": "d027eb3bd988cad284de891517090a234057ec634641fa545d6829bd10ef49e6"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-f3e9c94760eecc",
+    "file": "quelle-f3e9c94760eecc.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-b/leistungsuebersicht/candidate.md",
+    "start": 15530,
+    "end": 15780,
+    "sha256": "42a341719ee02a17c7e94e67eb0945ace11282a40e636f0f7a86ae81eace6365"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-90dfa884f82867",
+    "file": "quelle-90dfa884f82867.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-b/recht-funktion/candidate.md",
+    "start": 15780,
+    "end": 16903,
+    "sha256": "db65e1138c03c322c91f6c79d3547fae2548f8ef45f3a5748695aca68583b003"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-1d3a2bc4840c40",
+    "file": "quelle-1d3a2bc4840c40.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-b/startseite/candidate.md",
+    "start": 16903,
+    "end": 17099,
+    "sha256": "c29511b49de9dd7a0976569faa91ccce8acb4c72bda50fc6b045223ec4d35fd8"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-8ea9ba071165b6",
+    "file": "quelle-8ea9ba071165b6.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-b/themenhub/candidate.md",
+    "start": 17099,
+    "end": 18421,
+    "sha256": "f6d45070ddc339a05a403368c973e48aaf4a9058510a74381d9c05b0c6bda627"
+  },
+  {
+    "module": "06_Design_und_native_Seitenmodelle.md",
+    "anchor": "quelle-754ea5db6993ee",
+    "file": "quelle-754ea5db6993ee.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-01c-b/vertrauen/candidate.md",
+    "start": 18421,
+    "end": 19155,
+    "sha256": "3a484a4a3062857bcf3f42893656a8ec3e3c20574fa3a7fcbdef935ccd122a31"
+  },
+  {
+    "module": "07_Fachrecherche_und_Quellen.md",
+    "anchor": "quelle-5fb6783fc9b57d",
+    "file": "quelle-5fb6783fc9b57d.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-02/approved.md",
+    "start": 7,
+    "end": 264,
+    "sha256": "396fc4e00512ae1cf81efa2528276b207d906b40f25c2aee1bca8e148a0b0e25"
+  },
+  {
+    "module": "07_Fachrecherche_und_Quellen.md",
+    "anchor": "quelle-5e5bd1901b097c",
+    "file": "quelle-5e5bd1901b097c.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-02/cluster-recherche.csv",
+    "start": 264,
+    "end": 627,
+    "sha256": "1e64d870803d630fc3f8ffbcf153636750186cdcfed47b2bf50ec2843c2dccac"
+  },
+  {
+    "module": "07_Fachrecherche_und_Quellen.md",
+    "anchor": "quelle-c03d8090a6f068",
+    "file": "quelle-c03d8090a6f068.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-02/H01.md",
+    "start": 627,
+    "end": 723,
+    "sha256": "8b9b5ee85fce6b45f7c6c88e4a02087975d68323dcdc63d3901f5f5a4b10ebc2"
+  },
+  {
+    "module": "07_Fachrecherche_und_Quellen.md",
+    "anchor": "quelle-98cc9d7fac204d",
+    "file": "quelle-98cc9d7fac204d.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-02/seitenabdeckung.csv",
+    "start": 723,
+    "end": 883,
+    "sha256": "a56a5e8f1252b8e5f7d185eaa02fa070aed8c00428b9fc3e16229123642b196a"
+  },
+  {
+    "module": "07_Fachrecherche_und_Quellen.md",
+    "anchor": "quelle-49528f6e854619",
+    "file": "quelle-49528f6e854619.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-02/SEITENUEBERGREIFENDE_ENTSCHEIDUNGEN.md",
+    "start": 883,
+    "end": 977,
+    "sha256": "f09092a6e4927bdc6dd9f354836deb2747aca1c6752847ccc2f1f6002700d311"
+  },
+  {
+    "module": "07_Fachrecherche_und_Quellen.md",
+    "anchor": "quelle-e6a3f702296ead",
+    "file": "quelle-e6a3f702296ead.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-02/seitenzuordnung.csv",
+    "start": 977,
+    "end": 1340,
+    "sha256": "d04bab93e532f2aeac5279b2a8b1bee7cafbf3474c0d31c10e4052e0bf435af8"
+  },
+  {
+    "module": "07_Fachrecherche_und_Quellen.md",
+    "anchor": "quelle-770b74d19817c3",
+    "file": "quelle-770b74d19817c3.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-02/T01.md",
+    "start": 1340,
+    "end": 1473,
+    "sha256": "5701327a318f86f4cba2c2e995ff760e18a81f2fae3425c6b951391490acec8a"
+  },
+  {
+    "module": "07_Fachrecherche_und_Quellen.md",
+    "anchor": "quelle-fc7667c0639aba",
+    "file": "quelle-fc7667c0639aba.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-02/T02-laenderprofile.md",
+    "start": 1473,
+    "end": 2016,
+    "sha256": "95eea6170533317fe84f32725916053c3bb94bd7c998c14d339d00c70236511e"
+  },
+  {
+    "module": "07_Fachrecherche_und_Quellen.md",
+    "anchor": "quelle-98e968c8d735fc",
+    "file": "quelle-98e968c8d735fc.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-02/T02.md",
+    "start": 2016,
+    "end": 2120,
+    "sha256": "a8fb8475dfd2280af9952cc13b3ed3e7aa43cdd048f7c529701ed732b07867ff"
+  },
+  {
+    "module": "07_Fachrecherche_und_Quellen.md",
+    "anchor": "quelle-e37b182705c78e",
+    "file": "quelle-e37b182705c78e.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-02/T03.md",
+    "start": 2120,
+    "end": 2203,
+    "sha256": "67c39f5a6abdc5713788c3065acdac480e6d802f2d18c9d888808b5b7ccb5a8e"
+  },
+  {
+    "module": "07_Fachrecherche_und_Quellen.md",
+    "anchor": "quelle-be7b4f69cc6f25",
+    "file": "quelle-be7b4f69cc6f25.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-02/T04.md",
+    "start": 2203,
+    "end": 2294,
+    "sha256": "47d037e5f9acaf31079093a385544832311bb940d96d8d92e7a3a4d8aabb7a18"
+  },
+  {
+    "module": "07_Fachrecherche_und_Quellen.md",
+    "anchor": "quelle-df9d4e5a867ca9",
+    "file": "quelle-df9d4e5a867ca9.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-02/T05.md",
+    "start": 2294,
+    "end": 2385,
+    "sha256": "5de18cde0c4b78680ac71834034232d5ab862424f078d00d83b482b5c60afd1b"
+  },
+  {
+    "module": "08_Copywriting_Grundlagen_und_Endtexte.md",
+    "anchor": "quelle-4684516a405f92",
+    "file": "quelle-4684516a405f92.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/EINGANG_UND_UMFANG.md",
+    "start": 7,
+    "end": 210,
+    "sha256": "aaec4923982c9088654cacb13c4e7b0a4351ed9a9ec931465c9032dcee60d9ac"
+  },
+  {
+    "module": "08_Copywriting_Grundlagen_und_Endtexte.md",
+    "anchor": "quelle-c0f2d9a6fa28bd",
+    "file": "quelle-c0f2d9a6fa28bd.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/GEMEINSAME_TEXTE.md",
+    "start": 210,
+    "end": 460,
+    "sha256": "6c6369119551974ed30cd474de94e83351e6bd8e06291090b9438397a180f7ef"
+  },
+  {
+    "module": "08_Copywriting_Grundlagen_und_Endtexte.md",
+    "anchor": "quelle-542086bbf8c53f",
+    "file": "quelle-542086bbf8c53f.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/SCHREIBGRUNDLAGE.md",
+    "start": 460,
+    "end": 574,
+    "sha256": "1906a27a1ea95f615ddbacc0b2c9811e38b9ae61ade076298b301592152e83bf"
+  },
+  {
+    "module": "08_Copywriting_Grundlagen_und_Endtexte.md",
+    "anchor": "quelle-cb3d9e974632e2",
+    "file": "quelle-cb3d9e974632e2.md",
+    "original": "Workflow/BRIEFING_UND_ANSPRACHE.md",
+    "start": 574,
+    "end": 709,
+    "sha256": "dae6ed5bb9033cf6a9131414e35a42661ab60ab8b7c35bf1dd3a43b55f8ba3c8"
+  },
+  {
+    "module": "08_Copywriting_Grundlagen_und_Endtexte.md",
+    "anchor": "quelle-63714f2326a811",
+    "file": "quelle-63714f2326a811.md",
+    "original": "Workflow/Copywriting/EXOBASIS_SCHREIBPROFIL.md",
+    "start": 709,
+    "end": 935,
+    "sha256": "e683758548bb811e465d529463b9c766f57c6d16c94560102cdde3acdc7200b0"
+  },
+  {
+    "module": "08_Copywriting_Grundlagen_und_Endtexte.md",
+    "anchor": "quelle-c578406bad6a01",
+    "file": "quelle-c578406bad6a01.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/erstklaerung/text-de.md",
+    "start": 935,
+    "end": 1038,
+    "sha256": "97c475e42e83c4002411811f7ea22bb06937b2b7a5a267f3e0d6b8a69f07f08e"
+  },
+  {
+    "module": "08_Copywriting_Grundlagen_und_Endtexte.md",
+    "anchor": "quelle-c96c5178f968aa",
+    "file": "quelle-c96c5178f968aa.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/erstklaerung/text-en.md",
+    "start": 1038,
+    "end": 1141,
+    "sha256": "1e808a93e64214ff2001df84e88bf185551594c21a09bab1b677471ae6cb0d7e"
+  },
+  {
+    "module": "08_Copywriting_Grundlagen_und_Endtexte.md",
+    "anchor": "quelle-0a4501c302bcc8",
+    "file": "quelle-0a4501c302bcc8.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/startseite/text-de.md",
+    "start": 1141,
+    "end": 1273,
+    "sha256": "abd44470c0d26dbae6b4ecf267d3f8d91fe8c3c36dfa198f08111936522a006f"
+  },
+  {
+    "module": "08_Copywriting_Grundlagen_und_Endtexte.md",
+    "anchor": "quelle-11bb8c3c270f39",
+    "file": "quelle-11bb8c3c270f39.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/startseite/text-en.md",
+    "start": 1273,
+    "end": 1404,
+    "sha256": "d4b5bbf477009911e0d50af48be9274e6f504b32b42aebbc40e1c1379a7e3c05"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-5062cd5c99b867",
+    "file": "quelle-5062cd5c99b867.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/404/candidate.md",
+    "start": 7,
+    "end": 404,
+    "sha256": "f070257edcbcdb8a41ae1651b0f2e25f25f5de8222ddd0440ac2e797f7f2aea9"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-e77c248e017881",
+    "file": "quelle-e77c248e017881.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/anbieterinformationen/candidate.md",
+    "start": 404,
+    "end": 807,
+    "sha256": "9278f518e8019feb74b6135f8087d40725c960099ceb34c232ab6c579e7a7842"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-20e456d616743a",
+    "file": "quelle-20e456d616743a.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/anfrage/bestaetigung/candidate.md",
+    "start": 807,
+    "end": 1240,
+    "sha256": "2ebfb7591d2187c21c242f93ec694765ec4d4b50c63af95a9686100ac3144fc1"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-c888526408108c",
+    "file": "quelle-c888526408108c.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/anfrage/candidate.md",
+    "start": 1240,
+    "end": 1587,
+    "sha256": "7473ccda7839aa9dbcdc8c25336932ab77912e73e4a21f68bf839808ddefc244"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-23879e92ac56b6",
+    "file": "quelle-23879e92ac56b6.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/arbeitsweise/candidate.md",
+    "start": 1587,
+    "end": 2328,
+    "sha256": "3ce430efa09c1600220c8d2c4e2da6fa89144a7c786da69c53803880e9570a39"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-e8fa52d7106d18",
+    "file": "quelle-e8fa52d7106d18.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/datenschutz/candidate.md",
+    "start": 2328,
+    "end": 2739,
+    "sha256": "98aff10185889801a61bcccea5594374105a65b17b37df0e21a4ad6089d7ee64"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-c029a22992a66e",
+    "file": "quelle-c029a22992a66e.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/diskretion/candidate.md",
+    "start": 2739,
+    "end": 3338,
+    "sha256": "3d4797c51ce894a135822f73b6e228517490b1dbdcdde6a6c26be900cc1696db"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-77da1635c006e9",
+    "file": "quelle-77da1635c006e9.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/aktivierung-notfallkoordination/candidate.md",
+    "start": 3338,
+    "end": 4246,
+    "sha256": "00da172421a84cf426960e40fd51aac53f106fc493b49bc8b18989b4c5413d56"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-0d35c4088828ec",
+    "file": "quelle-0d35c4088828ec.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/ankunft-organisieren/candidate.md",
+    "start": 4246,
+    "end": 4812,
+    "sha256": "87aa92da9ca7765bb195044fb6d581d7b2567b03ef3d52e346e687ab8606cb6a"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-1c9cff828fe023",
+    "file": "quelle-1c9cff828fe023.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/apostillen-uebersetzungen-urkunden/candidate.md",
+    "start": 4812,
+    "end": 5450,
+    "sha256": "6525fec57fdf75169ec7c168e61c2a9508664694e9a0509a2c79ad70a100b634"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-582098b73c7db2",
+    "file": "quelle-582098b73c7db2.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/auslandsgesellschaft/candidate.md",
+    "start": 5450,
+    "end": 6038,
+    "sha256": "1bad72a846a4d05fd5e07277a499cad9958dd64986c2f66f6cc2abe723247e43"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-0b6cfc6cf0ffc0",
+    "file": "quelle-0b6cfc6cf0ffc0.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/bankzugang-liquiditaet/candidate.md",
+    "start": 6038,
+    "end": 6808,
+    "sha256": "68b8ceedc75f80a58f7b55e25e3ece264276e9e707464de82a8318190c788cfa"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-9bc0d761ab786b",
+    "file": "quelle-9bc0d761ab786b.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/candidate.md",
+    "start": 6808,
+    "end": 7287,
+    "sha256": "bbd85ab07a8e9ba923f10e239e5e4ce11d8c05a8c47868f9db8e40ac2da7c6e0"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-6fcabe787b612e",
+    "file": "quelle-6fcabe787b612e.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/dokumente-aufenthalt/candidate.md",
+    "start": 7287,
+    "end": 7903,
+    "sha256": "7301493a2bd147b2aa997d39a75b7969599324027ff2acdf4b4de5e102323d47"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-36be7e8f169d81",
+    "file": "quelle-36be7e8f169d81.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/erstklaerung/candidate.md",
+    "start": 7903,
+    "end": 8498,
+    "sha256": "c1b39fce24e0b1f224cfe07ace810886262ea89d0ee8cdf0473b1210375c16e4"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-88ee12142eaf96",
+    "file": "quelle-88ee12142eaf96.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/familie-unternehmen/candidate.md",
+    "start": 8498,
+    "end": 9610,
+    "sha256": "a3da6c334575c0f2856eb6ebfccc9373cee764823373ef0e5fd4d95a63d562a9"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-9c30898a864dae",
+    "file": "quelle-9c30898a864dae.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/flucht-notfallplan/candidate.md",
+    "start": 9610,
+    "end": 10212,
+    "sha256": "32bd2a3218eff3a97ee1292a64d98c3d12e02a370a1fdfd99d00e4e65604c01d"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-3b4627308bf19f",
+    "file": "quelle-3b4627308bf19f.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/kommunikation-wiederzugang/candidate.md",
+    "start": 10212,
+    "end": 11084,
+    "sha256": "0e9a96b7a5822439651618831dd298d743d521748657421b0a197917cc61b70a"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-45b59d35963b43",
+    "file": "quelle-45b59d35963b43.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/laender-standortauswahl/candidate.md",
+    "start": 11084,
+    "end": 11688,
+    "sha256": "4de8c60c1dbae0771db7b9f4816195688333c9c25a05505c9edad9019d659c8d"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-02ecf41391ebe4",
+    "file": "quelle-02ecf41391ebe4.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/sachwerte-verwahrung/candidate.md",
+    "start": 11688,
+    "end": 12232,
+    "sha256": "2d0423f1e13a02721be1d1078276bdd64b911709a95485c9a6186c5152f68545"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-f98e4cd5fa218b",
+    "file": "quelle-f98e4cd5fa218b.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/stiftung-liechtenstein/candidate.md",
+    "start": 12232,
+    "end": 13100,
+    "sha256": "b3aaabb741cdb6ba8063e9bff1ca7dd01a2da83a0e8e35654b324a35a3852563"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-480f9ea4514b27",
+    "file": "quelle-480f9ea4514b27.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/trust-struktur/candidate.md",
+    "start": 13100,
+    "end": 13978,
+    "sha256": "e7c82b85a0ed37095cf5ffb84e7565e7e6a878d7f0eb08dad6a2a4c40b7f3472"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-8b4a7d04f61ede",
+    "file": "quelle-8b4a7d04f61ede.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/vermoegen-uebertragen/candidate.md",
+    "start": 13978,
+    "end": 14632,
+    "sha256": "98c913c30892bf1190e152b132b098bf7ad583af9bba42af2b76c6ecf6ee152a"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-8bf6d4abdefa1c",
+    "file": "quelle-8bf6d4abdefa1c.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/vermoegensstrukturen/candidate.md",
+    "start": 14632,
+    "end": 15640,
+    "sha256": "e6da99a3cbbff08e8146a9d1afc74be3e0ad91dc592a28041ccfec98207b5b31"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-af7c328d3e7466",
+    "file": "quelle-af7c328d3e7466.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungen/vorbereitung-betreuen/candidate.md",
+    "start": 15640,
+    "end": 16452,
+    "sha256": "a00976a0e64abae82cda6c60f3c8979f741ae91fbfbd55539d5c6f20d02818ef"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-0c8db9f2771216",
+    "file": "quelle-0c8db9f2771216.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/leistungsbedingungen/candidate.md",
+    "start": 16452,
+    "end": 16873,
+    "sha256": "e9b91a19f8be4abba899df19a9a8723624f977845af5807e99f75555eab76b57"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-cad1dcd4d29152",
+    "file": "quelle-cad1dcd4d29152.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/startseite/candidate.md",
+    "start": 16873,
+    "end": 17291,
+    "sha256": "b24cf6f092aab991740e6b280c17c5da93eb69fc90e26ee0c38e4fd4f5f1230b"
+  },
+  {
+    "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
+    "anchor": "quelle-c92f618d7ea1ea",
+    "file": "quelle-c92f618d7ea1ea.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/zusammenarbeit/candidate.md",
+    "start": 17291,
+    "end": 17709,
+    "sha256": "ed2ace349015191f58df4bb673819783fa75ec4f73995a700570981c4cf821be"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-3acad7caf0098b",
+    "file": "quelle-3acad7caf0098b.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/knowledge/prepare-your-way-out/leaving-uae/candidate.md",
+    "start": 7,
+    "end": 284,
+    "sha256": "e05c8cb5e4e9ee5321fd219d4f6050c6cf0ab9021bc2cdfe6ad50f5b8852905b"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-80a7afa6a5cece",
+    "file": "quelle-80a7afa6a5cece.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/knowledge/prepare-your-way-out/leaving-uk/candidate.md",
+    "start": 284,
+    "end": 561,
+    "sha256": "6bffeebd3c858a0d6603342b70b91da6f1e80b95f04ad27ea8be4e51a0e64ccd"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-fa724bb3d8d8e8",
+    "file": "quelle-fa724bb3d8d8e8.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/aufenthalt-dokumente/candidate.md",
+    "start": 561,
+    "end": 1244,
+    "sha256": "e2a753ecc503d0a85031e4cf02b0d4ee49e5bf0deae7b9c6507c110b675d5fc9"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-b1b4358c41078a",
+    "file": "quelle-b1b4358c41078a.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/aufenthalt-dokumente/notfallunterlagen/candidate.md",
+    "start": 1244,
+    "end": 2112,
+    "sha256": "948e5e357f2cd1ad790abd70efafa5af0ed243a317c7d19023e730591c944934"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-7566a8cf2e1da1",
+    "file": "quelle-7566a8cf2e1da1.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/candidate.md",
+    "start": 2112,
+    "end": 2576,
+    "sha256": "08e578e1234b63d2c81f8c0e1320dc5188a34e6ee2e2994ae970e5897993d6f0"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-87126136cea236",
+    "file": "quelle-87126136cea236.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/ausweg-vorbereiten/aus-deutschland/candidate.md",
+    "start": 2576,
+    "end": 2868,
+    "sha256": "35dca7f8e129078325dc00eb1d2fe781995787a2fdb6e88e6264e635e9fa5d15"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-d6022a27200c18",
+    "file": "quelle-d6022a27200c18.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/ausweg-vorbereiten/aus-oesterreich/candidate.md",
+    "start": 2868,
+    "end": 3143,
+    "sha256": "4435c72c936285accfc9af4e5227dae36f032275678cdeacefb516a2ad4f6db8"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-b478cfd454c7dd",
+    "file": "quelle-b478cfd454c7dd.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/ausweg-vorbereiten/aus-schweiz/candidate.md",
+    "start": 3143,
+    "end": 3452,
+    "sha256": "8164e2d493a055ef3fac937d2073b760a0ffc990bf1062c98ab414032bbb5f43"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-7f069bcde54445",
+    "file": "quelle-7f069bcde54445.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/ausweg-vorbereiten/candidate.md",
+    "start": 3452,
+    "end": 4288,
+    "sha256": "95d1f40addeaa3ab8bafdab4c0bb0f0d2a89d8d94391c638ec41245746d93d22"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-e49004e371b57b",
+    "file": "quelle-e49004e371b57b.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/candidate.md",
+    "start": 4288,
+    "end": 4598,
+    "sha256": "cdb1c3798e0728b6dcf3bf73cae3fe807a9a91bb525222cba0fb9f1be6e3a69f"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-cb3db36c6732d0",
+    "file": "quelle-cb3db36c6732d0.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/ausweg-vorbereiten/wohin-bei-krieg/candidate.md",
+    "start": 4598,
+    "end": 5155,
+    "sha256": "86f961c3717b122929d9fa129165d6951eafec387e0a16ab307a9f148b2adb83"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-4a56f8c8faba82",
+    "file": "quelle-4a56f8c8faba82.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/candidate.md",
+    "start": 5155,
+    "end": 5584,
+    "sha256": "50b1a9bafe61dd8db71cc120433ee4bc75e76951cdcbb162b1ab4f5ebc8d8e52"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-d3fc892159bdbd",
+    "file": "quelle-d3fc892159bdbd.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/familie-alltag/candidate.md",
+    "start": 5584,
+    "end": 6427,
+    "sha256": "6c37ffd2604448bd5285ea01dba4909946c0697c0a1c9ed2ac732a870ea51ff4"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-0292b9d1a42d4d",
+    "file": "quelle-0292b9d1a42d4d.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/familie-alltag/kinder-angehoerige/candidate.md",
+    "start": 6427,
+    "end": 7065,
+    "sha256": "cca10334ac6b7828e52c2a1e3c40a43efc1ccb12013fa0bc804d65c18c13feb1"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-90e4e6a344ac37",
+    "file": "quelle-90e4e6a344ac37.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/familie-alltag/krankenversicherung-versorgung/candidate.md",
+    "start": 7065,
+    "end": 7585,
+    "sha256": "32e86a546f850d6317dc4db839a65c334d6526d2a2194fe8483a684f0850b095"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-126e16521eac4a",
+    "file": "quelle-126e16521eac4a.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/familie-alltag/pflege-medikamente/candidate.md",
+    "start": 7585,
+    "end": 8137,
+    "sha256": "3faa026ec33b0abec888ba6ca09fcc4dd9b9365ec01b96a3c4f689dd5c02f0a2"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-e1e712ee436aab",
+    "file": "quelle-e1e712ee436aab.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/unternehmen-einkommen/candidate.md",
+    "start": 8137,
+    "end": 8784,
+    "sha256": "8da3033b08c357c7c992501715b929b27d81b2b405fb166cc440829be38df74b"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-a53e120d221e08",
+    "file": "quelle-a53e120d221e08.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/unternehmen-einkommen/wegzug-steuern/candidate.md",
+    "start": 8784,
+    "end": 9639,
+    "sha256": "8b8fcf29c2a980ccbb9b2350dd1d0b5337abe3f1cc137e56afd5c45331d2c93f"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-e96fc32ccb5314",
+    "file": "quelle-e96fc32ccb5314.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/candidate.md",
+    "start": 9639,
+    "end": 10159,
+    "sha256": "172337ca6cea8c3207b6f461058b7ae0d88631f089f0f3340fe5e148a991cfcd"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-65e49e40abab11",
+    "file": "quelle-65e49e40abab11.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/vermoegen-zugriff/candidate.md",
+    "start": 10159,
+    "end": 11230,
+    "sha256": "ba6388c3640c271c425e0d222f1e0cd9c94a0bf3135546df8f2274693d24c83f"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-b0831c4fe780e7",
+    "file": "quelle-b0831c4fe780e7.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/candidate.md",
+    "start": 11230,
+    "end": 11978,
+    "sha256": "8b1ec118ca9cb35db540e8c7e736dbd0a5fb3a88d690f917a0d2d2d0552c44ab"
+  },
+  {
+    "module": "10_Schreibauftraege_Themen.md",
+    "anchor": "quelle-83b3cda7d24d63",
+    "file": "quelle-83b3cda7d24d63.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/wissen/wiederzugang-telefon-email/candidate.md",
+    "start": 11978,
+    "end": 12903,
+    "sha256": "3e3d2bcaa4ce89701b5303df5164d7f30c0630642d511b08babdb33264c06e17"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-614bc39c63d25f",
+    "file": "quelle-614bc39c63d25f.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/argentinien/candidate.md",
+    "start": 7,
+    "end": 579,
+    "sha256": "337d933a83b2cce75ebeb605a7f1356e896338e1611c5ad483ff74951a0cc5ff"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-fc560f8e2385b1",
+    "file": "quelle-fc560f8e2385b1.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/australien/candidate.md",
+    "start": 579,
+    "end": 1203,
+    "sha256": "061399ee66568765a5604ba2b578fd9cc87d125dee189f9b9cade68eb2b204ce"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-adf51614ed5239",
+    "file": "quelle-adf51614ed5239.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/brasilien/candidate.md",
+    "start": 1203,
+    "end": 1775,
+    "sha256": "174856bbecb4d052c8734e189901ca61e72c6c48ffa0711f6ec70d4fa820aab6"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-dfb0cdb006b620",
+    "file": "quelle-dfb0cdb006b620.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/candidate.md",
+    "start": 1775,
+    "end": 2308,
+    "sha256": "b620c5e1cb042acbdd70d298345fa27bb3ebb71e586d759937b0f8d0b7955d9f"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-a6d5e3f5ccc446",
+    "file": "quelle-a6d5e3f5ccc446.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/chile/candidate.md",
+    "start": 2308,
+    "end": 2880,
+    "sha256": "e6576083aa695bd3d546bb334cba11bc0b3984c5b2c0b03252a5adeace58ca72"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-9afc83d751dea5",
+    "file": "quelle-9afc83d751dea5.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/costa-rica/candidate.md",
+    "start": 2880,
+    "end": 3500,
+    "sha256": "ca03fbee3fc1eeda44350e1761023b460829ae99664efcc5d9a5729fb85df4df"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-960673cfdda5af",
+    "file": "quelle-960673cfdda5af.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/dominikanische-republik/candidate.md",
+    "start": 3500,
+    "end": 4072,
+    "sha256": "ae28d1d71f852a89832669f4bd82da379dbc30c0ca2767f1f66ba9d17c8a2b04"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-1c1d7a380ed2b9",
+    "file": "quelle-1c1d7a380ed2b9.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/georgien/candidate.md",
+    "start": 4072,
+    "end": 4646,
+    "sha256": "724a443f688b46e0d05645e94d47c92dfd06bdb2351e0773fb501287469322b6"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-0455c7a647b948",
+    "file": "quelle-0455c7a647b948.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/griechenland/candidate.md",
+    "start": 4646,
+    "end": 5270,
+    "sha256": "c5cfcf2fc4c1ec868368eecae80516cc243998a127d84656bc980e96c0cb72af"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-908214a70ff013",
+    "file": "quelle-908214a70ff013.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/irland/candidate.md",
+    "start": 5270,
+    "end": 5898,
+    "sha256": "aa587a9354f6d50a79371d13354487e8d74b519d8e997d962490ba887e8f4b4f"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-51703179c82199",
+    "file": "quelle-51703179c82199.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/island/candidate.md",
+    "start": 5898,
+    "end": 6518,
+    "sha256": "ecd012a5a495fd1d54667d98aa9e47bc5e7c5872cb487db292d826d0786c7936"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-bfed48d3e0568a",
+    "file": "quelle-bfed48d3e0568a.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/kanada/candidate.md",
+    "start": 6518,
+    "end": 7172,
+    "sha256": "5af4b10fb536dd77ae77f3fd8c911e882631426ef3d9a4db7a572c2280bbca84"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-25dfd8a3551ad8",
+    "file": "quelle-25dfd8a3551ad8.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/malaysia/candidate.md",
+    "start": 7172,
+    "end": 7782,
+    "sha256": "7607cad53951f963b507d217f6f903f6a2d58d759d79f0daeb8fa5863853f845"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-1c9650012bf6ef",
+    "file": "quelle-1c9650012bf6ef.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/malta/candidate.md",
+    "start": 7782,
+    "end": 8394,
+    "sha256": "75fa5a93b29f5032b92f60177374c9692c8142ec4ca63b9b9165f605e218cd5a"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-3be9c3e1e0e651",
+    "file": "quelle-3be9c3e1e0e651.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/mauritius/candidate.md",
+    "start": 8394,
+    "end": 9010,
+    "sha256": "afe64614d1363790bdd577d6f5c7687ec64af288f15ae0cba63eab180b99e491"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-ce454afdc4e3b9",
+    "file": "quelle-ce454afdc4e3b9.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/mexiko/candidate.md",
+    "start": 9010,
+    "end": 9582,
+    "sha256": "fb1910902ac9cff2b6929536c06c6cad96716831deb1702e7f51c35d23adf22d"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-d8cd232cfbafbe",
+    "file": "quelle-d8cd232cfbafbe.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/namibia/candidate.md",
+    "start": 9582,
+    "end": 10160,
+    "sha256": "bad638c01c3e03163aafc6dc9eb2423dd99ff5d74a2922ab0682acf2c515f763"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-4d3829ade4760c",
+    "file": "quelle-4d3829ade4760c.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/neuseeland/candidate.md",
+    "start": 10160,
+    "end": 10818,
+    "sha256": "608134e021ba79292b11789743deb289686dfa20b0dccb1c78751e24f7b41278"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-5d8b37142edc25",
+    "file": "quelle-5d8b37142edc25.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/panama/candidate.md",
+    "start": 10818,
+    "end": 11426,
+    "sha256": "48b024d2ed88f15d5f02f7125a0778ebf1373559f2e9ae019f153423334c0c12"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-562278779e284f",
+    "file": "quelle-562278779e284f.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/paraguay/candidate.md",
+    "start": 11426,
+    "end": 11998,
+    "sha256": "9870fc828d78be8f193be510d144a79c0f1d31aa227dd36f9af4a020fe72d9e4"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-3c27bc0e55caef",
+    "file": "quelle-3c27bc0e55caef.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/portugal/candidate.md",
+    "start": 11998,
+    "end": 12616,
+    "sha256": "55c3a37d54644dc0504b2759fabf1ae58de6ffee0db4704114dbf7b450daa5d3"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-f6a2369ad85f0a",
+    "file": "quelle-f6a2369ad85f0a.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/schweiz/candidate.md",
+    "start": 12616,
+    "end": 13196,
+    "sha256": "03636e279dc5cb4b884cad20ab9e65a6cd1078be95f7674ed850582ade90da6a"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-a9dbaf3e536813",
+    "file": "quelle-a9dbaf3e536813.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/spanien/candidate.md",
+    "start": 13196,
+    "end": 13814,
+    "sha256": "53469002873227f5e39f9c8c7b83ddfb09efab90d3df0b6fcbe12845055c6c09"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-4bb598aaa0d352",
+    "file": "quelle-4bb598aaa0d352.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/suedafrika/candidate.md",
+    "start": 13814,
+    "end": 14394,
+    "sha256": "0158c44fbcb3ee493b698d613b313af507ce6a911fea8ddf162f889aaaa62991"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-d5c4d2eea0bd82",
+    "file": "quelle-d5c4d2eea0bd82.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/thailand/candidate.md",
+    "start": 14394,
+    "end": 14964,
+    "sha256": "bea82fa17891b7fd13d56eac6718731fbd0a5ff3a0c277efbe00949857e99faf"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-864d9fe7f52fef",
+    "file": "quelle-864d9fe7f52fef.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/uruguay/candidate.md",
+    "start": 14964,
+    "end": 15534,
+    "sha256": "5ded86b7a8cc2d8f8cd33ef079b63882ea9a60f0c7a410c5b2bbbe5f60cf5a02"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-b6257fc454042c",
+    "file": "quelle-b6257fc454042c.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/vae/candidate.md",
+    "start": 15534,
+    "end": 16140,
+    "sha256": "b3a8bdcf8cca43f9f22184d1897101d9f7354ea8cdfce476154e4f4ff0ecd902"
+  },
+  {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-1bec19c07c91e0",
+    "file": "quelle-1bec19c07c91e0.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04a/laender/zypern/candidate.md",
+    "start": 16140,
+    "end": 16715,
+    "sha256": "1d092ebcbf4dec01f1d7bd1f280ad24ce12d9409a34050e6264341b60a8ad7ac"
+  },
+  {
+    "module": "12_Baugrundlagen_Formulare_und_SEO.md",
+    "anchor": "quelle-a1943b6fed5137",
+    "file": "quelle-a1943b6fed5137.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/BAUGRUNDLAGEN.md",
+    "start": 7,
+    "end": 210,
+    "sha256": "a82932bf6726619bfcb261e8e8e74dba6d95fc239afd32033627c5e01ad7af4e"
+  },
+  {
+    "module": "12_Baugrundlagen_Formulare_und_SEO.md",
+    "anchor": "quelle-2011e0565a5d23",
+    "file": "quelle-2011e0565a5d23.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/EINGANG_UND_UMFANG.md",
+    "start": 210,
+    "end": 431,
+    "sha256": "9d5b50877067af986f9f75aaeeeff450db1b72f40ad9700414b3f38b6431d40a"
+  },
+  {
+    "module": "12_Baugrundlagen_Formulare_und_SEO.md",
+    "anchor": "quelle-f48e7e3390cbde",
+    "file": "quelle-f48e7e3390cbde.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/FUNKTIONSVERTRAG.md",
+    "start": 431,
+    "end": 674,
+    "sha256": "27cb5737472db6621d02db8b6ae0ce38329562b332d2a9fa1af6e52589c97a61"
+  },
+  {
+    "module": "12_Baugrundlagen_Formulare_und_SEO.md",
+    "anchor": "quelle-ca2780ddd7b08f",
+    "file": "quelle-ca2780ddd7b08f.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/LLM_BAUEINSTIEG.md",
+    "start": 674,
+    "end": 791,
+    "sha256": "d3c94ddedff79099383f700066caf3381713f638650c80a4a3861dac642c72c7"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-6b8f8cea474a45",
+    "file": "quelle-6b8f8cea474a45.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/404/candidate.md",
+    "start": 7,
+    "end": 561,
+    "sha256": "e1791ca1768687445b9a0b8ea2afbebede3eadc3639bf424bf8b6dd04081df43"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-caee7211af0c0f",
+    "file": "quelle-caee7211af0c0f.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/anbieterinformationen/candidate.md",
+    "start": 561,
+    "end": 1128,
+    "sha256": "1247dd94ddd75d9cf2003c6fd192ce3fc94a55e5ec5febc0f06ea9297fdac5af"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-5ec509ae1fc260",
+    "file": "quelle-5ec509ae1fc260.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/anfrage/bestaetigung/candidate.md",
+    "start": 1128,
+    "end": 1716,
+    "sha256": "6e607fe12f2a1ec66bf012d045116b9258f71197d9053d24f592af4c15c68c7c"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-6c8907c39297e7",
+    "file": "quelle-6c8907c39297e7.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/anfrage/candidate.md",
+    "start": 1716,
+    "end": 2314,
+    "sha256": "6f19e524491542c0da642b988fe2e5f6530f4e3a13cbc57fbaf10d90911fab8c"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-b460814415ba95",
+    "file": "quelle-b460814415ba95.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/arbeitsweise/candidate.md",
+    "start": 2314,
+    "end": 3226,
+    "sha256": "9c646c92e0da35dfaf62859cfa86d058a03627389112b457868f13175a30831f"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-2dc42f47e43ad4",
+    "file": "quelle-2dc42f47e43ad4.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/datenschutz/candidate.md",
+    "start": 3226,
+    "end": 3805,
+    "sha256": "f22667c52bec75f390fcdc965c805756bfb9e7976878ef4c04b402299deee51d"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-20b4957c9ce01f",
+    "file": "quelle-20b4957c9ce01f.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/diskretion/candidate.md",
+    "start": 3805,
+    "end": 4565,
+    "sha256": "52b1d724751b5887e0d927a5edc9ccff756fadf90fd6af060f270fcf49544c91"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-d03e5bd99fd1a4",
+    "file": "quelle-d03e5bd99fd1a4.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/aktivierung-notfallkoordination/candidate.md",
+    "start": 4565,
+    "end": 4840,
+    "sha256": "cea96602995876ba69383826a14d78d78ec5efaefb9e4287d0094a701102015d"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-60a02e4164d95a",
+    "file": "quelle-60a02e4164d95a.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/ankunft-organisieren/candidate.md",
+    "start": 4840,
+    "end": 5125,
+    "sha256": "b936bb0c5547368bed20e690f88ce0cc900dfec8446cad8fa2f168258db3fc2e"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-b1925b4404aa8c",
+    "file": "quelle-b1925b4404aa8c.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/apostillen-uebersetzungen-urkunden/candidate.md",
+    "start": 5125,
+    "end": 5394,
+    "sha256": "fb19925ff394b546ac34e322fa792b01b1c00585aff64a8cc336029d9e68ec18"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-d965575a147a85",
+    "file": "quelle-d965575a147a85.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/auslandsgesellschaft/candidate.md",
+    "start": 5394,
+    "end": 5673,
+    "sha256": "8cb3db64191ebe6e481c689dee1b484087026d713ebb11dac428f85700af347a"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-b5540d6813ad63",
+    "file": "quelle-b5540d6813ad63.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/bankzugang-liquiditaet/candidate.md",
+    "start": 5673,
+    "end": 5946,
+    "sha256": "c4a04dbf1ab3631520b4800ec876dde9cf0283478a30c5b0c148b3c62e7bcc3f"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-1f0a01d2104715",
+    "file": "quelle-1f0a01d2104715.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/candidate.md",
+    "start": 5946,
+    "end": 6613,
+    "sha256": "5c8beda3483cdca24c21cb3dca6e5634fe67fb8b5b082e08a6d05b9274dd8d25"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-825f30ea215f1f",
+    "file": "quelle-825f30ea215f1f.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/dokumente-aufenthalt/candidate.md",
+    "start": 6613,
+    "end": 6890,
+    "sha256": "39e365a0237fd76b710bc93d8856e36fb2d5a06575ffa715c1c25fdea16c5c4e"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-31e33d2ae561b1",
+    "file": "quelle-31e33d2ae561b1.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/erstklaerung/candidate.md",
+    "start": 6890,
+    "end": 7151,
+    "sha256": "a9dac5e29510d1d1d6b0db724ae58684be05a3108aaa92cbeb4560ac7eb61fda"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-5d539c659edd22",
+    "file": "quelle-5d539c659edd22.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/familie-unternehmen/candidate.md",
+    "start": 7151,
+    "end": 7436,
+    "sha256": "1214f9d6a681ba6cf7ba8a1bc9c1985bcd0034deee7f1c65c2711e9462d163fe"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-dd48943fbb7b1e",
+    "file": "quelle-dd48943fbb7b1e.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/flucht-notfallplan/candidate.md",
+    "start": 7436,
+    "end": 7721,
+    "sha256": "a7c6319ccc4c47d6ec0db480844fd2d4153a6a0417377bcdb3480c61c8d20e76"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-77b6f8b72c8326",
+    "file": "quelle-77b6f8b72c8326.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/kommunikation-wiederzugang/candidate.md",
+    "start": 7721,
+    "end": 7998,
+    "sha256": "98e72424ac97da81d12e53127ffc47ef2c469e331b98fb8ee6bde9b3d5a09e24"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-bc1f283d917295",
+    "file": "quelle-bc1f283d917295.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/laender-standortauswahl/candidate.md",
+    "start": 7998,
+    "end": 8267,
+    "sha256": "5d80e5f1d19cfbc3875f1327f21a1cf68aa1b6fae868ea7ec508b4a5bb5559ab"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-7302e245d30087",
+    "file": "quelle-7302e245d30087.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/sachwerte-verwahrung/candidate.md",
+    "start": 8267,
+    "end": 8536,
+    "sha256": "81b5d31fa4158bb359ef5100547c86055fecf356d941a53b8b4ff1552db2a8b5"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-12aea16f5a6a97",
+    "file": "quelle-12aea16f5a6a97.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/stiftung-liechtenstein/candidate.md",
+    "start": 8536,
+    "end": 8809,
+    "sha256": "f20594d595582b22cf608d8c3bfd846aee15bb34864bf089e7f50e77dd381fd7"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-dd3a4d19dd987f",
+    "file": "quelle-dd3a4d19dd987f.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/trust-struktur/candidate.md",
+    "start": 8809,
+    "end": 9088,
+    "sha256": "d404b56943f2a59772c099e69400868c8f51fbab45c1b28a6c8ebf4179e4f976"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-33a3dd05c7bf6b",
+    "file": "quelle-33a3dd05c7bf6b.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/vermoegen-uebertragen/candidate.md",
+    "start": 9088,
+    "end": 9365,
+    "sha256": "103008157b06974b4ee60d943a95e1f9a040e9c72478ed36c93a4500ae14e428"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-c883647cf42d93",
+    "file": "quelle-c883647cf42d93.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/vermoegensstrukturen/candidate.md",
+    "start": 9365,
+    "end": 9646,
+    "sha256": "4e8f6a9f4c856b40f5814017e53bda23837de59d32e7363624c272edbaf7f234"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-c0e39e62f20640",
+    "file": "quelle-c0e39e62f20640.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungen/vorbereitung-betreuen/candidate.md",
+    "start": 9646,
+    "end": 9923,
+    "sha256": "38c5f7b2d2c9057ba9f160af639db4437086a679247c58f4cc21001ffa5a6edf"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-a79e5fabb2bd09",
+    "file": "quelle-a79e5fabb2bd09.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/leistungsbedingungen/candidate.md",
+    "start": 9923,
+    "end": 10516,
+    "sha256": "876c3cf11c4f265cf728d950ec2d57abf58dbc5e1d44b81ec229d4bdf4522bff"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-7e391b72a1c31e",
+    "file": "quelle-7e391b72a1c31e.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/startseite/candidate.md",
+    "start": 10516,
+    "end": 10861,
+    "sha256": "85daf1cfc436c013c9564b6b53681c283ea13b54fed442854d64e5e7bd1764af"
+  },
+  {
+    "module": "13_Baukarten_Leistungen_und_Funktion.md",
+    "anchor": "quelle-0e2298025a427e",
+    "file": "quelle-0e2298025a427e.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/zusammenarbeit/candidate.md",
+    "start": 10861,
+    "end": 11438,
+    "sha256": "f16641eee7b17e9780eef494e4f7d800de543e4ef288922d84a716e957bf23c1"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-54847ff20ef0d9",
+    "file": "quelle-54847ff20ef0d9.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/knowledge/prepare-your-way-out/leaving-uae/candidate.md",
+    "start": 7,
+    "end": 388,
+    "sha256": "55ddcf1cbf67a8f26d7c93497404e69cbd953dac11342999dc5349ed279bc8c5"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-f814f18f26cbc3",
+    "file": "quelle-f814f18f26cbc3.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/knowledge/prepare-your-way-out/leaving-uk/candidate.md",
+    "start": 388,
+    "end": 769,
+    "sha256": "12eb3bf6643442535478b2061896d3739fdae1c534e5b2b82f76a6a368717413"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-14c23480192f12",
+    "file": "quelle-14c23480192f12.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/aufenthalt-dokumente/candidate.md",
+    "start": 769,
+    "end": 1624,
+    "sha256": "04012ab4451abae7228134f9143a8fdf48a57ebca010b0f48e339584b2c92528"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-84dc1bf419f1cf",
+    "file": "quelle-84dc1bf419f1cf.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/aufenthalt-dokumente/notfallunterlagen/candidate.md",
+    "start": 1624,
+    "end": 2661,
+    "sha256": "14120375ffcc47df11df9481817bd0353c2621fbb131c5c80308db466a4cb41c"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-8e3e113de02a37",
+    "file": "quelle-8e3e113de02a37.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/candidate.md",
+    "start": 2661,
+    "end": 3290,
+    "sha256": "266687db1971bb23eff6f03f933ca80ead973ad4e69feddd98ee87f9e886d492"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-541b2d50853869",
+    "file": "quelle-541b2d50853869.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/ausweg-vorbereiten/aus-deutschland/candidate.md",
+    "start": 3290,
+    "end": 3686,
+    "sha256": "c886b690f68b58caa3e4fd508a04ccadf92bd6cf4567267760fb6aa35424ff70"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-5a7c16c50cdba2",
+    "file": "quelle-5a7c16c50cdba2.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/ausweg-vorbereiten/aus-oesterreich/candidate.md",
+    "start": 3686,
+    "end": 4065,
+    "sha256": "a5d7d8e843a357df5ae8cdd3501fc222a5014164e7bf59acb1709f3435496957"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-b64b91ab942fa9",
+    "file": "quelle-b64b91ab942fa9.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/ausweg-vorbereiten/aus-schweiz/candidate.md",
+    "start": 4065,
+    "end": 4478,
+    "sha256": "dc406f7f4bce665fccfdcd43de3bbff47a37399ee196dadf136d97a5279b01d6"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-3cf35cab33b542",
+    "file": "quelle-3cf35cab33b542.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/ausweg-vorbereiten/candidate.md",
+    "start": 4478,
+    "end": 5491,
+    "sha256": "09db7bb6c61372b433e699081c8a0861f0103dce0d22976b0459eeed12f83b93"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-e369c3af320785",
+    "file": "quelle-e369c3af320785.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/candidate.md",
+    "start": 5491,
+    "end": 5894,
+    "sha256": "af16d3b9273735042e19f25b69b615df062a0e24fea44d84a4fe675e1f1f4442"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-5f309316222311",
+    "file": "quelle-5f309316222311.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/ausweg-vorbereiten/wohin-bei-krieg/candidate.md",
+    "start": 5894,
+    "end": 6615,
+    "sha256": "6e011a4c88d0714e461165f4dd1ade859dcd8affd2f5fd0daf6ae0bde16ca987"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-fae6731a624c6f",
+    "file": "quelle-fae6731a624c6f.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/candidate.md",
+    "start": 6615,
+    "end": 7220,
+    "sha256": "5dc690acb20032051a8532ebbc028bb19fc08f4d6dfbf72c17192f98fabb3da0"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-2e2ede0ee6e48c",
+    "file": "quelle-2e2ede0ee6e48c.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/familie-alltag/candidate.md",
+    "start": 7220,
+    "end": 8237,
+    "sha256": "03f48e043d92b0ed3c1c6c6fcf325ed20cc2744b5e9d4a8f67edb89ff450d34a"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-02b6751b0c8b04",
+    "file": "quelle-02b6751b0c8b04.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/familie-alltag/kinder-angehoerige/candidate.md",
+    "start": 8237,
+    "end": 9042,
+    "sha256": "69791c67e814248be06d98b95d4d288be459de3e56ff97f8281df9cd36c0acb7"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-3bc0ec82293695",
+    "file": "quelle-3bc0ec82293695.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/familie-alltag/krankenversicherung-versorgung/candidate.md",
+    "start": 9042,
+    "end": 9727,
+    "sha256": "7eb7cd4ca8eab1a4e7e67e9a61b4cb242a6c04630fd8492ebe7b940a15dbdf38"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-74f0fcc5325c1d",
+    "file": "quelle-74f0fcc5325c1d.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/familie-alltag/pflege-medikamente/candidate.md",
+    "start": 9727,
+    "end": 10442,
+    "sha256": "0c09e8f3e33bb3da37da9cbfb62fc329016d631abefcaab458b9d64f6334cf9a"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-6f7ece84003bbd",
+    "file": "quelle-6f7ece84003bbd.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/unternehmen-einkommen/candidate.md",
+    "start": 10442,
+    "end": 11259,
+    "sha256": "4fd77ae4497b48b85ee7a964b552aaf32dd5b00927fb4bc7ec7c4cdb85e4ff4c"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-956dba2f6c3454",
+    "file": "quelle-956dba2f6c3454.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/unternehmen-einkommen/wegzug-steuern/candidate.md",
+    "start": 11259,
+    "end": 12282,
+    "sha256": "6fdf23ad32c35948dadd1e0b0315e74b9e26878f61451c9d8bfd74cda7d2effe"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-be1938b12975bb",
+    "file": "quelle-be1938b12975bb.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/candidate.md",
+    "start": 12282,
+    "end": 12965,
+    "sha256": "951c3780129ece2e43cacc38d89adf69b23c009c2b56d48284c3f51d2610dffa"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-6d1619e0300971",
+    "file": "quelle-6d1619e0300971.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/vermoegen-zugriff/candidate.md",
+    "start": 12965,
+    "end": 14210,
+    "sha256": "e404432e0d87b7ea6c880dca44bc74400b6822e43469dd6d9134f21619fc72dd"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-2742a7c4989121",
+    "file": "quelle-2742a7c4989121.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/candidate.md",
+    "start": 14210,
+    "end": 15123,
+    "sha256": "c77ffee26bd89afb9be76be7d497ac0f5d09a349036104640e2d32b6e28f3503"
+  },
+  {
+    "module": "14_Baukarten_Themen.md",
+    "anchor": "quelle-9c582a81fcdcdb",
+    "file": "quelle-9c582a81fcdcdb.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/wissen/wiederzugang-telefon-email/candidate.md",
+    "start": 15123,
+    "end": 16213,
+    "sha256": "a464d401a93e39d82098806af7b3f6b9b44f28d8eaecf81a7b305f91cdac4bc9"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-d4ecb6570039d2",
+    "file": "quelle-d4ecb6570039d2.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/argentinien/candidate.md",
+    "start": 7,
+    "end": 737,
+    "sha256": "5c87eabefae9194d92e137648b7aff996342e18b9e27b8a7326276e1f34b5a5d"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-9c37cebe53aedc",
+    "file": "quelle-9c37cebe53aedc.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/australien/candidate.md",
+    "start": 737,
+    "end": 1519,
+    "sha256": "4ac31935b493e01c189914f2e3a4554541cd23b4e21b699260439cc8ece03bf8"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-1ff9ae700ae673",
+    "file": "quelle-1ff9ae700ae673.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/brasilien/candidate.md",
+    "start": 1519,
+    "end": 2249,
+    "sha256": "a8c1adc6c7bcfb4b68b4a78f727a79d5cead5e2729a66e35c4645a39193f33fe"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-8df4757249b7fa",
+    "file": "quelle-8df4757249b7fa.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/candidate.md",
+    "start": 2249,
+    "end": 3115,
+    "sha256": "df53131654335d4adc8c59e3a9ac805fa92a29d8db5f1828dc33caa71a38e9b4"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-bda511dad020a1",
+    "file": "quelle-bda511dad020a1.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/chile/candidate.md",
+    "start": 3115,
+    "end": 3845,
+    "sha256": "6517c8cefe18c47e60acca95d4df6013ab4596eda97265240fbcb4b46e33ae64"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-8cdc94cfe64939",
+    "file": "quelle-8cdc94cfe64939.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/costa-rica/candidate.md",
+    "start": 3845,
+    "end": 4623,
+    "sha256": "b5733510ad3e5931ab66598c51e99e76fa2780379d83c385ae171d10034bc840"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-acc7fa00548aa6",
+    "file": "quelle-acc7fa00548aa6.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/dominikanische-republik/candidate.md",
+    "start": 4623,
+    "end": 5353,
+    "sha256": "25d2855f93ad32d31b74268ef0ac9fe71d067dd0aa59200a0415d1918b6234ef"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-3fcec8661dc007",
+    "file": "quelle-3fcec8661dc007.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/georgien/candidate.md",
+    "start": 5353,
+    "end": 6085,
+    "sha256": "6e73774a2a55d01bc7f59b06aba3face323d06a3f868def709b745dd124b8874"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-d97ae737184f9c",
+    "file": "quelle-d97ae737184f9c.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/griechenland/candidate.md",
+    "start": 6085,
+    "end": 6867,
+    "sha256": "d94d58942d213b83618e5794baa0469d3960274a553d49c8defe7e13506e4b87"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-65af01b2ccb13f",
+    "file": "quelle-65af01b2ccb13f.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/irland/candidate.md",
+    "start": 6867,
+    "end": 7653,
+    "sha256": "2b6bafa86b52da2f6f16243b369daba3ee934292a268a216a6dec5625b579d68"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-658034109f0d0a",
+    "file": "quelle-658034109f0d0a.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/island/candidate.md",
+    "start": 7653,
+    "end": 8431,
+    "sha256": "14c1468dbfd604de471e56f59bdb812fd224b6b8cb647453d08afcf420299f75"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-bb9a2f19ea818f",
+    "file": "quelle-bb9a2f19ea818f.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/kanada/candidate.md",
+    "start": 8431,
+    "end": 9243,
+    "sha256": "0ac3101bea5915cae82e915102ea5bc209548f77bc43e8ff605dff12a465673b"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-5296e670472ce4",
+    "file": "quelle-5296e670472ce4.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/malaysia/candidate.md",
+    "start": 9243,
+    "end": 10011,
+    "sha256": "c77f2e030b6bf1538f7d9bddeb7f6a42297a6c7142d65bdd006aa53b37062948"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-52e5c59d438a21",
+    "file": "quelle-52e5c59d438a21.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/malta/candidate.md",
+    "start": 10011,
+    "end": 10781,
+    "sha256": "6f570e64f2adee2518294bd46762e21a71a2447ad231ca343d8ad6cb1c4b2ee9"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-5af6f3b0e43378",
+    "file": "quelle-5af6f3b0e43378.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/mauritius/candidate.md",
+    "start": 10781,
+    "end": 11555,
+    "sha256": "59d7aa7ee82f5e0864db20433268e37e58b405bcb27fbb7905294e8670df48b4"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-6b5529cc4750d7",
+    "file": "quelle-6b5529cc4750d7.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/mexiko/candidate.md",
+    "start": 11555,
+    "end": 12285,
+    "sha256": "344a8f20ef966dbfc221033d43b09d719c6145b914670e3b5db631201b3639aa"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-1f2227817a8513",
+    "file": "quelle-1f2227817a8513.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/namibia/candidate.md",
+    "start": 12285,
+    "end": 13021,
+    "sha256": "efdc984528c24c5804982124cd1199b15ed662dc2914d24fd936e130f6a41719"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-e51964f15fa97f",
+    "file": "quelle-e51964f15fa97f.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/neuseeland/candidate.md",
+    "start": 13021,
+    "end": 13837,
+    "sha256": "f087645f054f17fcae6a4a25707baeacc31d3c8e9de8e3cc660da0201fa4a02f"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-d615b8fe4f73ab",
+    "file": "quelle-d615b8fe4f73ab.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/panama/candidate.md",
+    "start": 13837,
+    "end": 14603,
+    "sha256": "1dc19b5f5364b100be478316abb81b97229f417963d585950515401bda64d4be"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-21f6742ce03581",
+    "file": "quelle-21f6742ce03581.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/paraguay/candidate.md",
+    "start": 14603,
+    "end": 15333,
+    "sha256": "e78a5e0949e169457308d48d7262f9fe60a0f04ac6103a0abf1f0d0692a315b4"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-e029e4e197a60b",
+    "file": "quelle-e029e4e197a60b.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/portugal/candidate.md",
+    "start": 15333,
+    "end": 16109,
+    "sha256": "50cdafc8b32c51680f3f3375496c86e36e58c1db4ea338ac68091441165e7ea9"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-c4b886b7b0ffbb",
+    "file": "quelle-c4b886b7b0ffbb.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/schweiz/candidate.md",
+    "start": 16109,
+    "end": 16847,
+    "sha256": "d7eb98e16094ada2b0e3300675a7bec85037bb0414aee647f32a0308497d7d09"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-20db6c5297fbc7",
+    "file": "quelle-20db6c5297fbc7.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/spanien/candidate.md",
+    "start": 16847,
+    "end": 17623,
+    "sha256": "4f6cd6e1586ce0a980cd66e72ea0a72f45c32f814ad9b9086b6664cd4ed28c7b"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-253feaf7d5e546",
+    "file": "quelle-253feaf7d5e546.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/suedafrika/candidate.md",
+    "start": 17623,
+    "end": 18361,
+    "sha256": "f6806cefe632f4ec5e1388259a788cb29db74b7bf261eec0df729db8cb78eb97"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-66cef29b50af12",
+    "file": "quelle-66cef29b50af12.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/thailand/candidate.md",
+    "start": 18361,
+    "end": 19089,
+    "sha256": "c102a62d62d73f4d1140ccea98fa5bc62e5930559b4643293d4195bda5c3ffe0"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-6cfe68947a9bff",
+    "file": "quelle-6cfe68947a9bff.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/uruguay/candidate.md",
+    "start": 19089,
+    "end": 19817,
+    "sha256": "616d2d841533bd8570ba92703e2e43f8c7d45eaf70d4fcabf1ed91d619f23af6"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-9d9051691ae7bd",
+    "file": "quelle-9d9051691ae7bd.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/vae/candidate.md",
+    "start": 19817,
+    "end": 20581,
+    "sha256": "2fed97e32b1a7e5b58185a379447d978da77d3c026e300c1d1e4b90c66bf4d88"
+  },
+  {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-8e35d888aba839",
+    "file": "quelle-8e35d888aba839.md",
+    "original": "Laeufe/2026-09-22-konzept/outputs/step-04b/laender/zypern/candidate.md",
+    "start": 20581,
+    "end": 21314,
+    "sha256": "7346532f666395cfed2b3e1d044e8f27234fd63ea73a0a545f055fec07ffe875"
+  },
+  {
+    "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+    "anchor": "quelle-45b3e27d8143ff",
+    "file": "quelle-45b3e27d8143ff.md",
+    "original": "Umsetzung/Redaktion/SEEDING_DE_EN_UEBERNAHME.md",
+    "start": 7,
+    "end": 62,
+    "sha256": "13b6221485c9d601c1b7b5f6aa917724008b5f81c1e6649c06f84b7f8f68e64c"
+  },
+  {
+    "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+    "anchor": "quelle-5fc06a856ca5aa",
+    "file": "quelle-5fc06a856ca5aa.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/01_BESTAND_UND_LUECKEN.md",
+    "start": 62,
+    "end": 141,
+    "sha256": "82aad25b1e345140ce7756064cb5e3616e031ea3d184ac364a5496efc4810d7f"
+  },
+  {
+    "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+    "anchor": "quelle-1a959aee2aad04",
+    "file": "quelle-1a959aee2aad04.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/02A_MEDIEN_UND_COMMUNITIES.md",
+    "start": 141,
+    "end": 640,
+    "sha256": "aa8dd3f00a62dfb17b156d07cf7ec84d7bd3da54c50c09ddf90fbbade8ee0e35"
+  },
+  {
+    "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+    "anchor": "quelle-310f8bf482d7cd",
+    "file": "quelle-310f8bf482d7cd.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/02B_ZUWEISER_UND_PARTNER.md",
+    "start": 640,
+    "end": 926,
+    "sha256": "56a64c53699ec8c408053b8e451af1c5def0061f1432ba3dd55ed6c8e7f837e0"
+  },
+  {
+    "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+    "anchor": "quelle-205110882fa611",
+    "file": "quelle-205110882fa611.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/03_THEMENBANK.md",
+    "start": 926,
+    "end": 1717,
+    "sha256": "cb52495c385699c1ca433a33ec9d0b0665af89fc5e465504206805c6ed95aed4"
+  },
+  {
+    "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+    "anchor": "quelle-48d6f8236fbfef",
+    "file": "quelle-48d6f8236fbfef.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/04_REDAKTIONS_UND_SEEDINGPLAN.md",
+    "start": 1717,
+    "end": 1854,
+    "sha256": "63a20ebd11a72453c0139737e068220ca2d1bf599d2420c3c92c18b2bd62b769"
+  },
+  {
+    "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+    "anchor": "quelle-a37d3dd5caf2cd",
+    "file": "quelle-a37d3dd5caf2cd.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/05_RECHERCHEBEFUNDE.md",
+    "start": 1854,
+    "end": 1965,
+    "sha256": "a6ee41bf13c60b089a81b888a54a8f0c416ee2f28c9228b9ba0dbe3d617ba396"
+  },
+  {
+    "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+    "anchor": "quelle-d9d165390929ea",
+    "file": "quelle-d9d165390929ea.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/keyworddaten-dach.csv",
+    "start": 1965,
+    "end": 2209,
+    "sha256": "93b5d578986d2ec580a8484534a35a9d5d3ef82bde9273547be64f6cb90ec844"
+  },
+  {
+    "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+    "anchor": "quelle-9f9182205a05d9",
+    "file": "quelle-9f9182205a05d9.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/longtail-themenzuordnung.csv",
+    "start": 2209,
+    "end": 2291,
+    "sha256": "f1828fd4a723da675b989ca6eeb3ff4f17c8cb5feb5598f360efdb5bf5d68c74"
+  },
+  {
+    "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+    "anchor": "quelle-238d3e2f0286ea",
+    "file": "quelle-238d3e2f0286ea.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/QUELLENPAKETE.md",
+    "start": 2291,
+    "end": 2336,
+    "sha256": "33ffce4eb61b1f9f6300603a284d317c1a9090630c661a0875f0f386a3e2432e"
+  },
+  {
+    "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+    "anchor": "quelle-9e4f98367c2230",
+    "file": "quelle-9e4f98367c2230.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/seeding-kontakte.csv",
+    "start": 2336,
+    "end": 2366,
+    "sha256": "38df5c05c2c5551614e968f405dd40c42a8469000e930cd776cc892d82ee506b"
+  },
+  {
+    "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+    "anchor": "quelle-aab00e6fec5bab",
+    "file": "quelle-aab00e6fec5bab.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/themenbank.csv",
+    "start": 2366,
+    "end": 2400,
+    "sha256": "1750cbe9b5de47cf2683c044af433c7dd9538134adc3655704d6669dabe4cede"
+  },
+  {
+    "module": "16_Seeding_DE_und_gemeinsame_Uebernahme.md",
+    "anchor": "quelle-327568101d023a",
+    "file": "quelle-327568101d023a.md",
+    "original": "Umsetzung/Redaktion/SEEDING_DE_BAUAUFTRAG.md",
+    "start": 2400,
+    "end": 3337,
+    "sha256": "562b7966b7b421ae6ee050709a4ca3aeae5a7d8d9dad05990c158b9414cbc98f"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-909b8da2525a0d",
+    "file": "quelle-909b8da2525a0d.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/00_RECHERCHEBINDUNG.md",
+    "start": 7,
+    "end": 37,
+    "sha256": "74141b40718d67e1dc16d96be2c160d865eb017fc3c0a004f1146ab88f38d85c"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-ae628a9d478da9",
+    "file": "quelle-ae628a9d478da9.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/01_MARKTBEFUNDE.md",
+    "start": 37,
+    "end": 150,
+    "sha256": "2ca3071230bc7a166147ebc8c4b3718e699fc62cc6d0d11eafc2a8becbe761eb"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-6ad943b2db9d84",
+    "file": "quelle-6ad943b2db9d84.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/02A_MEDIA_AND_COMMUNITIES.md",
+    "start": 150,
+    "end": 801,
+    "sha256": "15084fad940f7a74b839438205cb5df11c2dd5d44be27b09308c6ad7904f26a4"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-a94b3a57be0560",
+    "file": "quelle-a94b3a57be0560.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/02B_SPECIALIST_PARTNERS.md",
+    "start": 801,
+    "end": 1410,
+    "sha256": "28d95b3a19d1ae2c3194e0a53220725bc6c9a59c2e010f9bc02c1bd8ed7ce1d5"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-61eebe5c3fe909",
+    "file": "quelle-61eebe5c3fe909.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/03_TOPIC_BRIEFS.md",
+    "start": 1410,
+    "end": 2229,
+    "sha256": "5b0366c51bcebcf035181ba2d16539fb10ae883d5bd8c9d26aed6771bf9c4dc9"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-450f948177eed5",
+    "file": "quelle-450f948177eed5.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/04_EDITORIAL_AND_SEEDING_SEQUENCE.md",
+    "start": 2229,
+    "end": 2329,
+    "sha256": "b93e0eb703467a4e859bd709a065ed8c54f732444ccc93e5e24911a2f953d175"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-2e90b95a6dc4ec",
+    "file": "quelle-2e90b95a6dc4ec.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/05_SOURCES_AND_RESEARCH_LIMITS.md",
+    "start": 2329,
+    "end": 2623,
+    "sha256": "65e3b8104926b6134330b79439901f14bea67657e331abd62e7c0e2ae0a27034"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-786a79300a943f",
+    "file": "quelle-786a79300a943f.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/06_CONTACT_TOPIC_MAP.md",
+    "start": 2623,
+    "end": 2894,
+    "sha256": "420b2ac38c9b38832bf8453406751ab71bf92a63347a5809dde7a15bd43df264"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-85c53814408cb1",
+    "file": "quelle-85c53814408cb1.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/keyword-metrics.csv",
+    "start": 2894,
+    "end": 2978,
+    "sha256": "1d1434bac67d43cc7fe557868164f57b2f5cb091537b3515628180057a54a946"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-36174a730b834a",
+    "file": "quelle-36174a730b834a.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/observed-search-questions.csv",
+    "start": 2978,
+    "end": 3034,
+    "sha256": "ce3635cb11ad85b09d9a56d8ddc89408bceeeae4a0f3e648f347f657450b3f42"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-eabfe4c5b68b81",
+    "file": "quelle-eabfe4c5b68b81.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/page-additions.csv",
+    "start": 3034,
+    "end": 3058,
+    "sha256": "a82faa163857331f9d76726a97597f61ecb0036c18dfd8d2b555141a3801d734"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-dd78ffddbfd5ef",
+    "file": "quelle-dd78ffddbfd5ef.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/seeding-contacts.csv",
+    "start": 3058,
+    "end": 3103,
+    "sha256": "767c7d6d37178eeb77d14fe73908599d13b3c36a3c56c4f0b5efad0d24aa43c8"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-e5e6e8605ed16e",
+    "file": "quelle-e5e6e8605ed16e.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/seitenbestand.csv",
+    "start": 3103,
+    "end": 3187,
+    "sha256": "6edfab36341c3220b1c9460ef012eab776ca8e79bd5e029e69a7c68ef1a995c0"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-9951b8b34dc662",
+    "file": "quelle-9951b8b34dc662.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/source-register.csv",
+    "start": 3187,
+    "end": 3224,
+    "sha256": "1895437e61a4b0686d3276a0caa1b1698fc27c68675f73fccd9c1b5463c556db"
+  },
+  {
+    "module": "17_Seeding_EN_Maerkte_Texte_Kontakte_Quellen.md",
+    "anchor": "quelle-b6ad778f830e4e",
+    "file": "quelle-b6ad778f830e4e.md",
+    "original": "Plan_B_Projektzentrale/10_Seeding_und_Themenrecherche/EN/topic-keyword-bindings.csv",
+    "start": 3224,
+    "end": 3313,
+    "sha256": "556c3ba3be3589c026fce1b7c0342c0717d2f80d68c804a7d053fe8f41e775c6"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-b1a78f49ca4b75",
+    "file": "quelle-b1a78f49ca4b75.md",
+    "original": "Umsetzung/Lokal/pakete/kontakt-funktion/404-de.html",
+    "start": 7,
+    "end": 52,
+    "sha256": "eab3f5ce8e6de275000bd8690ef9946db7958b24cd0ba1e493f924e9e8039444"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-977e48cf1cea55",
+    "file": "quelle-977e48cf1cea55.md",
+    "original": "Umsetzung/Lokal/pakete/kontakt-funktion/404-en.html",
+    "start": 52,
+    "end": 97,
+    "sha256": "3f0f2e840cf916b5dcb5844e95e7802ba166c336c0469705d4bb12440764eb79"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-405e5f776458ac",
+    "file": "quelle-405e5f776458ac.md",
+    "original": "Umsetzung/Lokal/pakete/kontakt-funktion/anfrage-de.html",
+    "start": 97,
+    "end": 173,
+    "sha256": "ac2a5e8a7dc367a2aef9c9e717b708f650d255c8e16339d0108103596467711d"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-57b93f8ae1ebb1",
+    "file": "quelle-57b93f8ae1ebb1.md",
+    "original": "Umsetzung/Lokal/pakete/kontakt-funktion/anfrage-en.html",
+    "start": 173,
+    "end": 249,
+    "sha256": "ba8626f3e8a67cc6fcdad71e5e6ecd1d3bef481764c1f362fd9d58afef25e46a"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-48d55297c8959b",
+    "file": "quelle-48d55297c8959b.md",
+    "original": "Umsetzung/Lokal/pakete/kontakt-funktion/bestaetigung-de.html",
+    "start": 249,
+    "end": 303,
+    "sha256": "a720a8e688fdd34233e4cda85b2769951e201c1f83db820add10b7eaa8049c3d"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-c06dde6f0b6433",
+    "file": "quelle-c06dde6f0b6433.md",
+    "original": "Umsetzung/Lokal/pakete/kontakt-funktion/bestaetigung-en.html",
+    "start": 303,
+    "end": 357,
+    "sha256": "1b569e76465d25e5a3af461efdae606f45a4fadc0c7fcb4d5949f970d74b8639"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-102a89831fdbca",
+    "file": "quelle-102a89831fdbca.md",
+    "original": "Umsetzung/Lokal/pakete/kontakt-funktion/cf7-de.html",
+    "start": 357,
+    "end": 385,
+    "sha256": "566b48800112eebcf8ab51d5a40b254805fc712615b0b51953dc3852732a6acd"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-04c84b0fa95c57",
+    "file": "quelle-04c84b0fa95c57.md",
+    "original": "Umsetzung/Lokal/pakete/kontakt-funktion/cf7-en.html",
+    "start": 385,
+    "end": 413,
+    "sha256": "8f9413f0aeea9dfc1257d6428cd5d6633680c4d69bbf89cbbc0c4b8153d612e7"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-c8e03bc2c125c6",
+    "file": "quelle-c8e03bc2c125c6.md",
+    "original": "Umsetzung/Lokal/pakete/kontakt-funktion/forms.json",
+    "start": 413,
+    "end": 690,
+    "sha256": "c82bd4d7653a9e5bcef3df90d543343594ec107174bab163e37cf8046015c16d"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-8d3ce098028e20",
+    "file": "quelle-8d3ce098028e20.md",
+    "original": "Umsetzung/Lokal/pakete/kontakt-funktion/pages.json",
+    "start": 690,
+    "end": 937,
+    "sha256": "88b9f0eecef6ac8d0043bb7a7c8d73a43efc1dded6e442f7355838c18138e8cc"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-9b202267bb7e54",
+    "file": "quelle-9b202267bb7e54.md",
+    "original": "Umsetzung/Lokal/pakete/kontakt-funktion/PRUEFERGEBNIS.json",
+    "start": 937,
+    "end": 1680,
+    "sha256": "bbbc4fc9d3ae90efa100d0a2cafe91113a386a805271a645726f06e496f8a9d0"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-d48f2e6f22680c",
+    "file": "quelle-d48f2e6f22680c.md",
+    "original": "Umsetzung/Lokal/pakete/kontakt-funktion/states.json",
+    "start": 1680,
+    "end": 2111,
+    "sha256": "c65b2dcdc2b6d6df1b45389795e7c292ff32acd752649763090bde5459c0dfe0"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-17dc39c733ec5c",
+    "file": "quelle-17dc39c733ec5c.md",
+    "original": "Umsetzung/Lokal/pakete/referenz/erstklaerung-de.ux.html",
+    "start": 2111,
+    "end": 2309,
+    "sha256": "89bfd4edd7b420eaeb44ff86a669d522a753271370eaa267859876c2055dc369"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-fe2ff042d4b877",
+    "file": "quelle-fe2ff042d4b877.md",
+    "original": "Umsetzung/Lokal/pakete/referenz/erstklaerung-en.ux.html",
+    "start": 2309,
+    "end": 2507,
+    "sha256": "9c81a6b13c7cb9f2de75dbe1ddbd48af850324e91ca08afee906ade56593a706"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-4868940aab9840",
+    "file": "quelle-4868940aab9840.md",
+    "original": "Umsetzung/Lokal/pakete/referenz/pages.json",
+    "start": 2507,
+    "end": 2630,
+    "sha256": "917d92e7a4304f44157dd8cfc14154f4a3b55bb5bd1eaaaadbb28e8dc339c9b4"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-e43d8e6eb0058e",
+    "file": "quelle-e43d8e6eb0058e.md",
+    "original": "Umsetzung/Lokal/pakete/referenz/startseite-de.ux.html",
+    "start": 2630,
+    "end": 2825,
+    "sha256": "0ccb9c1f6d9bef479c93c54303d9e8cd793b11dc59c38d8a9fe8e4348db214d0"
+  },
+  {
+    "module": "18_Vorhandene_native_Seitenkompositionen.md",
+    "anchor": "quelle-7e751159ff9d12",
+    "file": "quelle-7e751159ff9d12.md",
+    "original": "Umsetzung/Lokal/pakete/referenz/startseite-en.ux.html",
+    "start": 2825,
+    "end": 3019,
+    "sha256": "6ff5ba84f35993f1fbc2e62cfff7eff9efc8e7e8caa070dcde8ff3b530c85294"
+  }
+]
