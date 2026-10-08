@@ -32,6 +32,15 @@ export function toFileHref(target,from) {
   const result=path.posix.relative(path.posix.dirname(from+'index.html'),file);
   return (result||'index.html')+extra;
 }
+/** Static responsive asset candidates; unsupported or unsafe syntax fails explicitly. */
+export function parseSrcset(value) {
+  if (/\b(?:javascript|data|vbscript|file):/i.test(value)) throw new Error('Unsafe responsive asset source.');
+  return value.split(',').map(candidate=>{
+    const match=candidate.trim().match(/^(\S+?)(?:\s+((?:\d+w)|(?:\d+(?:\.\d+)?x)))?$/);
+    if(!match || (match[2] && Number.parseFloat(match[2])<=0))throw new Error('Malformed static asset srcset.');
+    return {url:match[1].replaceAll('&amp;','&'),descriptor:match[2]||''};
+  });
+}
 /** One compiler pass. Pending routes stay as labelled text, not fake pages or dead anchors. */
 export function resolveHTML(html,from,built,{mode='preview'}={}) {
   if(!['preview','production'].includes(mode))throw new Error('Unknown link output mode: '+mode);
@@ -58,6 +67,10 @@ export function resolveHTML(html,from,built,{mode='preview'}={}) {
     return `<a${updated.replace(/href="[^"]*"/,`href="${e(outputHref(target))}"`)} data-route="${e(target)}">${body}</a>`;
   });
   html=html.replace(/\b(src|href)="((?:\/)?(?:assets|logo|css|js)\/[^\"]+)"/g,(_,attr,target)=>`${attr}="${e(outputHref('/'+target.replace(/^\//,'').replaceAll('&amp;','&')))}"`);
+  html=html.replace(/\ssrcset="([^"]*)"/g,(_,value)=>` srcset="${parseSrcset(value).map(({url,descriptor})=>{
+    const target=/^\/?(?:assets|logo)\//.test(url)?outputHref('/'+url.replace(/^\//,'')):url;
+    return e(target)+(descriptor?' '+descriptor:'');
+  }).join(', ')}"`);
   return html.replaceAll('viewbox=','viewBox=');
 }
 export function assertRoute(route) {

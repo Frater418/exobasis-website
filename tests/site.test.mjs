@@ -5,6 +5,7 @@ import path from 'node:path';
 import { ROOT,registry,routeIndex,assertRoute,resolveHTML,toFileHref,loadJSON } from '../src/lib/site.mjs';
 import { readContent } from '../scripts/build.mjs';
 import { createPreviewServer } from '../scripts/serve.mjs';
+import { approvedFontIssue, brandAssets } from '../src/lib/brand.mjs';
 const pages=await readContent();const built=new Set(pages.map(p=>p.route));
 test('150 exact source identities, 76 DE and 74 EN',()=>{assert.equal(registry.length,150);assert.equal(new Set(registry.map(r=>r.route)).size,150);assert.equal(registry.filter(r=>r.lang==='de').length,76);});
 test('72 explicit language pairs and six unpaired variants',()=>{assert.equal(registry.filter(r=>r.translation).length,144);for(const r of registry)if(r.translation)assert.equal(routeIndex.get(r.translation).translation,r.route);});
@@ -23,7 +24,7 @@ test('Assessment has 6, plan 8 and country selection 6 core sections',()=>{for(c
 test('Three general and eighteen commercial enquiry choices stay intact in both languages',()=>{const c=loadJSON('src/data/contact.json');for(const lang of ['de','en']){assert.equal(c.languages[lang].options.length,21);assert.equal(new Set(c.languages[lang].options).size,21);}});
 test('No accidental automatic translation of six unpaired country-of-origin cases',()=>{const r=routeIndex.get('/en/knowledge/prepare-your-way-out/leaving-uae/');assert.equal(r.translation,null);});
 test('Portrait is a nonempty file asset rather than a generated text placeholder',async()=>{const f=path.join(ROOT,'public/assets/raphael-rechberger-original.png');assert.ok((await stat(f)).size>10000);});
-test('Outputs contain no font payload or private editorial files',async()=>{async function walk(d){let out=[];for(const e of await readdir(d,{withFileTypes:true})){const p=path.join(d,e.name);out.push(...e.isDirectory()?await walk(p):[p]);}return out;}const files=await walk(path.join(ROOT,'dist'));assert.ok(files.every(f=>!(/\.(woff2?|ttf|otf|md|csv)$/i.test(f))));});
+test('Outputs contain only the approved self-hosted fonts and no private editorial files',async()=>{async function walk(d){let out=[];for(const e of await readdir(d,{withFileTypes:true})){const p=path.join(d,e.name);out.push(...e.isDirectory()?await walk(p):[p]);}return out;}const output=path.join(ROOT,'dist'),files=await walk(output);assert.ok(files.every(f=>!(/\.(md|csv)$/i.test(f))));const fonts=files.filter(f=>/\.(woff2?|ttf|otf|eot)$/i.test(f));assert.equal(fonts.length,brandAssets.fonts.length);for(const f of fonts)assert.equal(approvedFontIssue(path.relative(output,f).split(path.sep).join('/'),await readFile(f)),null);});
 test('Preview confirmation never treats a query flag as delivery proof',async()=>{for(const lang of ['de','en']){const p=pages.find(p=>p.lang===lang&&p.kind==='confirmation');const h=await readFile(path.join(ROOT,'dist',p.route,'index.html'),'utf8');assert.doesNotMatch(h,/localStorage|sessionStorage|searchParams\.get\(['"]success/);assert.match(h,/name="robots" content="noindex,nofollow"/);}});
 test('Loopback HTTP server: 150 routes, genuine 404s, no private files or sender',async()=>{
  const server=await createPreviewServer(0);const port=server.address().port;const base='http://127.0.0.1:'+port;

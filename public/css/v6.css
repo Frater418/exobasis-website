@@ -60,7 +60,7 @@ p+p { margin-top: 15px; }
 /* Header */
 .exb-header { position: relative; z-index: 30; background: var(--exb-deep); color: var(--exb-paper); border-bottom: 1px solid #ffffff0e; }
 .exb-header-inner { min-height: 82px; display: flex; align-items: center; gap: 28px; }
-.exb-brand { display: inline-block; font-family: var(--exb-font-heading); font-size: 21px; line-height: 1; font-weight: 800; letter-spacing: .075em; text-decoration: none; }
+:where(a).exb-brand { display: inline-block; font-family: var(--exb-font-heading); font-size: 21px; line-height: 1; font-weight: 800; letter-spacing: .075em; text-decoration: none; }
 .exb-nav { margin-right: auto; }
 .exb-nav-list { list-style: none; display: flex; gap: 17px; padding: 0; margin: 0; }
 .exb-nav-head { display: flex; align-items: center; }
@@ -91,8 +91,8 @@ p+p { margin-top: 15px; }
 .exb-inline-link { color:var(--exb-copper); text-decoration:underline; text-decoration-thickness:1px; text-underline-offset:3px; }
 .exb-inline-link:hover { color:var(--exb-copper-hover); }
 .exb-dark .exb-inline-link { color:var(--exb-light-copper); }
-.exb-brand { display:inline-flex; align-items:center; flex:0 0 auto; }
-.exb-brand .exb-logo { width:206px; height:auto; }
+:where(a).exb-brand { display:inline-flex; align-items:center; flex:0 0 auto; }
+:where(a).exb-brand .exb-logo { width:206px; height:auto; }
 .exb-header-actions { gap:18px; }
 .exb-dropdown { max-height:calc(100dvh - 100px); overflow-y:auto; overscroll-behavior:contain; }
 .exb-section { padding-block:clamp(52px,5.6vw,84px); }
@@ -341,7 +341,7 @@ p+p { margin-top: 15px; }
  .exb-eyebrow { font-size:11px; letter-spacing:.11em; }
  .exb-header-inner { min-height:72px; gap:16px; }
  .exb-header-actions { gap:12px; }
- .exb-brand .exb-logo { width:180px; }
+ :where(a).exb-brand .exb-logo { width:180px; }
  .exb-hero { display:flex; flex-direction:column; }
  .exb-hero-inner { order:1; padding-block:40px 30px; }
  .exb-hero-copy { width:100%; }
@@ -511,7 +511,7 @@ p+p { margin-top: 15px; }
 /* V6: navigation, service value, and a unified contact section.
    All other sections use the approved V5 rules above. */
 .exb6-header-inner { min-height:82px; display:flex; align-items:center; gap:28px; }
-.exb6-header-inner>.exb-brand .exb-logo { width:196px; }
+.exb6-header-inner>:where(a).exb-brand .exb-logo { width:196px; }
 .exb6-nav { margin-left:auto; }
 .exb6-nav-list { display:flex; align-items:center; gap:13px; list-style:none; margin:0; padding:0; }
 .exb6-nav-head { display:flex; align-items:center; }
@@ -683,7 +683,7 @@ p+p { margin-top: 15px; }
 
 @media(min-width:1200px) and (max-width:1330px) {
  .exb6-header-inner { gap:19px; }
- .exb6-header-inner>.exb-brand .exb-logo { width:176px; }
+ .exb6-header-inner>:where(a).exb-brand .exb-logo { width:176px; }
  .exb6-nav-list { gap:5px; }
  .exb6-root-link { font-size:13px; }
  .exb6-menu-toggle { width:30px; }
@@ -712,7 +712,7 @@ p+p { margin-top: 15px; }
 }
 @media(max-width:760px) {
  .exb6-header-inner { min-height:72px; gap:15px; }
- .exb6-header-inner>.exb-brand .exb-logo { width:172px; }
+ .exb6-header-inner>:where(a).exb-brand .exb-logo { width:172px; }
  .exb6-header-cta { display:none; }
  .exb6-actions { gap:11px; }
  .exb6-flag { width:35px; min-width:35px; }
@@ -746,7 +746,7 @@ p+p { margin-top: 15px; }
  .exb6-channel-grid { grid-template-columns:1fr; }
 }
 @media(max-width:390px) {
- .exb6-header-inner>.exb-brand .exb-logo { width:145px; }
+ .exb6-header-inner>:where(a).exb-brand .exb-logo { width:145px; }
  .exb6-actions { gap:8px; }
  .exb6-header-inner { gap:9px; }
  .exb6-contact-choice,.exb6-contact-trust { padding:23px 19px; }
@@ -789,5 +789,5 @@ p+p { margin-top: 15px; }
  .exb-results-v6 .exb-results-action { grid-column:1; grid-row:2; align-self:start; padding-top:0; border-top:0; }
  .exb-results-v6 .exb-results-intro { max-width:none; }
 }
-@media(max-width:390px) { .exb6-header-inner>.exb-brand .exb-logo { width:139px; } }
-@media(max-width:360px) { .exb6-header-inner>.exb-brand .exb-logo { width:123px; } .exb6-actions { gap:6px; } }
+@media(max-width:390px) { .exb6-header-inner>:where(a).exb-brand .exb-logo { width:139px; } }
+@media(max-width:360px) { .exb6-header-inner>:where(a).exb-brand .exb-logo { width:123px; } .exb6-actions { gap:6px; } }

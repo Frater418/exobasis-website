@@ -25,8 +25,8 @@ test('Both country directories contain all 27 active country targets',()=>{
 test('No registered website target is left disabled by an old package boundary',()=>{
  for(const p of pages){const h=html(p);for(const tag of h.matchAll(/<(?:span|a)\b[^>]*>/g))if(tag[0].includes('data-route='))assert.doesNotMatch(tag[0],/aria-disabled="true"|data-package-dependency/);}
 });
-test('Shared footer is identical across every page of the same language',()=>{
- for(const lang of ['de','en']){const variants=pages.filter(p=>p.lang===lang);const signatures=new Set(variants.map(p=>html(p).match(/<footer\b[\s\S]*?<\/footer>/)?.[0].replace(/(?:href|src)="[^"]*"/g,'href="route-resolved"').replace(/exb-static-desc-\d+/g,'description-id')));assert.equal(signatures.size,1,lang);assert.ok(!signatures.has(undefined));}
+test('Shared footer stays identical apart from the approved non-home logo dimensions',()=>{
+ for(const lang of ['de','en']){const variants=pages.filter(p=>p.lang===lang);const signatures=new Set(variants.map(p=>html(p).match(/<footer\b[\s\S]*?<\/footer>/)?.[0].replace(/(?:href|src)="[^"]*"/g,'href="route-resolved"').replace(/exb-static-desc-\d+/g,'description-id').replace(/(<img\b[^>]*class="exb-logo"[^>]*width=")460(" height=")104(")/g,(_,a,b,c)=>a+'454'+b+'96'+c)));assert.equal(signatures.size,1,lang);assert.ok(!signatures.has(undefined));}
 });
 test('All page types use one V6 stylesheet and one common site stylesheet',()=>{
  for(const p of pages){const h=html(p);assert.equal((h.match(/href="[^"]*css\/v6.css"/g)||[]).length,1);assert.equal((h.match(/href="[^"]*css\/site.css"/g)||[]).length,1);assert.equal((h.match(/href="[^"]*css\/countries.css"/g)||[]).length,['country','country-hub'].includes(p.kind)?1:0);}

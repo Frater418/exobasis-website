@@ -2,3 +2,7 @@
 * -text
 # CRLF and existing empty final lines are intentional; real trailing spaces remain checked.
 * whitespace=blank-at-eol,space-before-tab,cr-at-eol,-blank-at-eof
+# Upstream licence text remains byte-identical to the accepted delivery.
+public/assets/fonts/LICENSE-Manrope.txt whitespace=-blank-at-eol,space-before-tab,cr-at-eol,-blank-at-eof
+public/assets/fonts/LICENSE-SourceSans3.txt whitespace=-blank-at-eol,space-before-tab,cr-at-eol,-blank-at-eof
+public/assets/fonts/SCHRIFTLIZENZEN.txt whitespace=-blank-at-eol,space-before-tab,cr-at-eol,-blank-at-eof

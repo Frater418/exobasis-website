@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "name": "EXOBASIS B / Präzise",
+  "sourceEdition": "EXOBASIS Markenpaket B, Ausgabe 2026-10-07",
+  "styles": [
+    "css/exobasis-b-fonts.css",
+    "css/exobasis-b-tokens.css",
+    "css/exobasis-b-components.css",
+    "css/exobasis-b-motion.css",
+    "css/exobasis-b-integration.css"
+  ],
+  "fonts": [
+    {
+      "path": "assets/fonts/manrope-latin-ext.woff2",
+      "sha256": "3911b66d9f2e005a4b989223405d0e5032619c668597ba467cc76a23c8fffcfb",
+      "license": "assets/fonts/LICENSE-Manrope.txt"
+    },
+    {
+      "path": "assets/fonts/manrope-latin.woff2",
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+      "license": "assets/fonts/LICENSE-Manrope.txt"
+    },
+    {
+      "path": "assets/fonts/source-sans-3-latin-ext.woff2",
+      "sha256": "a85a7459bdb3cdc1136751e151a506bae653fc29ada3ca86237477df6f1b59e6",
+      "license": "assets/fonts/LICENSE-SourceSans3.txt"
+    },
+    {
+      "path": "assets/fonts/source-sans-3-latin.woff2",
+      "sha256": "19143dca075972bc84e3fd9eab7416dd40cc565dccb2435a044bdfabe060c7d5",
+      "license": "assets/fonts/LICENSE-SourceSans3.txt"
+    }
+  ],
+  "licenses": [
+    {
+      "path": "assets/fonts/LICENSE-Manrope.txt",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+    },
+    {
+      "path": "assets/fonts/SCHRIFTLIZENZEN.txt",
+      "sha256": "17065cc3bc1815bf918e543d88ae9715e1f5c586a8f8d942c7421b5391392ad6"
+    },
+    {
+      "path": "assets/fonts/LICENSE-SourceSans3.txt",
+      "sha256": "56af9b9c6715597e458284a474dc118a50a4150e9d547c70f7b4a33c3e6a9328"
+    }
+  ],
+  "logos": {
+    "horizontal": "logo/exobasis-b-horizontal-hell.svg",
+    "wordmark": "logo/exobasis-b-wortmarke-hell.svg"
+  },
+  "icons": {
+    "svg": "logo/exobasis-b-favicon.svg",
+    "ico": "logo/exobasis-b-favicon.ico",
+    "apple": "logo/exobasis-b-icon-180.png"
+  }
+}

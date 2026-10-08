@@ -1,0 +1,23 @@
+/* Kurze Zustandsrueckmeldung, keine Seiten-Eingangsanimation. */
+.exb-brand[data-exb-system] {
+  --exb-motion-fast: 120ms;
+  --exb-motion-standard: 180ms;
+  --exb-motion-ease: cubic-bezier(.2, .7, .25, 1);
+}
+.exb-brand[data-exb-system] .exb-button {
+  transition: background-color var(--exb-motion-fast) var(--exb-motion-ease),
+              border-color var(--exb-motion-fast) var(--exb-motion-ease),
+              color var(--exb-motion-fast) var(--exb-motion-ease),
+              transform var(--exb-motion-standard) var(--exb-motion-ease);
+}
+.exb-brand[data-exb-system] .exb-button:not(:disabled):not([aria-disabled="true"]):hover { transform: translateY(-1px); }
+.exb-brand[data-exb-system] .exb-button:active { transform: translateY(0); }
+.exb-brand[data-exb-system] :is(.exb-prose, .exb-caption) a,
+.exb-brand[data-exb-system] .exb-field { transition: color var(--exb-motion-fast) var(--exb-motion-ease), border-color var(--exb-motion-fast) var(--exb-motion-ease); }
+@media (prefers-reduced-motion: reduce) {
+  .exb-brand[data-exb-system] .exb-button,
+  .exb-brand[data-exb-system] :is(.exb-prose, .exb-caption) a,
+  .exb-brand[data-exb-system] .exb-field { transition: none; }
+  .exb-brand[data-exb-system] .exb-button:not(:disabled):not([aria-disabled="true"]):hover,
+  .exb-brand[data-exb-system] .exb-button:active { transform: none; }
+}

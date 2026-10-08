@@ -1,7 +1,9 @@
+import { createHash } from 'node:crypto';
 import { readFile,readdir,writeFile,stat } from 'node:fs/promises';
 import path from 'node:path';
-import { ROOT,registry,routeIndex,loadJSON } from '../src/lib/site.mjs';
+import { ROOT,registry,routeIndex,loadJSON,parseSrcset } from '../src/lib/site.mjs';
 import { readContent,countWords } from './build.mjs';
+import { approvedFontIssue, brandAssets, usesBrandSystem } from '../src/lib/brand.mjs';
 import { renderedPageIssues } from './render-contract.mjs';
 import { assertProductionReady, canonicalURL, isIndexable, sitemapXML, productionOrigin } from '../src/lib/seo.mjs';
 import { fileURLToPath,pathToFileURL } from 'node:url';
@@ -45,8 +47,9 @@ export async function check(options={mode:'preview'}){
   for(const match of html.matchAll(/\b(?:aria-labelledby|aria-describedby|aria-controls)="([^"]+)"/g))for(const id of match[1].split(/\s+/)){if(!ids.includes(id))errors.push(`Missing ARIA target ${id} on ${m.route}`);}
   if((html.match(/<h1\b/g)||[]).length!==1)errors.push('H1 count '+m.route);
   if((html.match(/<title>/g)||[]).length!==1)errors.push('Title count '+m.route);
-  for(const match of html.matchAll(/\b(?:src|href)="([^"]+)"/g)){
-   let value=match[1].replaceAll('&amp;','&');
+  for(const match of html.matchAll(/\b(src|href|srcset)="([^"]+)"/g)){
+   for(let value of match[1]==='srcset'?parseSrcset(match[2]).map(x=>x.url):[match[2]]){
+   value=value.replaceAll('&amp;','&');
    if(/^(?:https?:|mailto:|data:)/.test(value))continue;
    if(mode==='production' && /(?:^|\/)index\.html(?:[?#]|$)/.test(value))errors.push('Nicht konsolidierter index.html-Link '+value+' auf '+m.route);
    const u=new URL(value,mode==='production'?new URL(m.route,productionOrigin(config)):pathToFileURL(file));
@@ -55,13 +58,15 @@ export async function check(options={mode:'preview'}){
    try{if(!(await stat(target)).isFile())errors.push('Not a file '+value+' on '+m.route);}catch{errors.push('Missing '+value+' on '+m.route);continue;}
    if(u.hash){counts.fragments++;if(path.extname(target)==='.html'){const targetHTML=await get(target);if(!targetHTML.includes(`id="${decodeURIComponent(u.hash.slice(1))}"`))errors.push('Missing fragment '+value+' on '+m.route);}}
    else if(path.extname(target)==='.html')counts.localLinks++;else counts.assets++;
+   }
   }
   counts.plannedLinkOccurrences+=(html.match(/aria-disabled="true"/g)||[]).length;
   counts.pendingInternalTargets+=[...html.matchAll(/<(?:a|span)\b[^>]*>/g)].filter(m=>m[0].includes('data-route=')&&m[0].includes('aria-disabled="true"')).length;
   if(countWords(html.match(/<main\b[\s\S]*?<\/main>/)?.[0]||'')<80)warnings.push('Very short page '+m.route);
  }
- async function walk(dir){for(const ent of await readdir(dir,{withFileTypes:true})){const f=path.join(dir,ent.name);if(ent.isDirectory())await walk(f);else if(/\.(?:woff2?|ttf|otf|eot)$/i.test(ent.name))errors.push('Font file in output: '+f);}}
+ async function walk(dir){for(const ent of await readdir(dir,{withFileTypes:true})){const f=path.join(dir,ent.name);if(ent.isDirectory())await walk(f);else if(/\.(?:woff2?|ttf|otf|eot)$/i.test(ent.name)){const issue=approvedFontIssue(path.relative(output,f).split(path.sep).join('/'),await readFile(f));if(issue)errors.push(issue);}}}
  await walk(output);
+ if(pages.some(usesBrandSystem))for(const item of [...brandAssets.fonts,...brandAssets.licenses]){try{const raw=await readFile(path.join(output,item.path));if(createHash('sha256').update(raw).digest('hex')!==item.sha256)errors.push('Approved B asset checksum mismatch: '+item.path);}catch{errors.push('Approved B asset missing: '+item.path);}}
  const robots=await get(path.join(output,'robots.txt'));
  if(mode==='preview'?!/Disallow: \/\s*$/.test(robots):robots!==`User-agent: *\nAllow: /\nSitemap: ${productionOrigin(config)}/sitemap.xml\n`)errors.push('Robots.txt mismatch');
  if(mode==='production' && await get(path.join(output,'sitemap.xml'))!==sitemapXML(pages,config))errors.push('Sitemap mismatch');

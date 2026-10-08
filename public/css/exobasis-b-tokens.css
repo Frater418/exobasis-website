@@ -1,0 +1,75 @@
+/* EXOBASIS B. Nur isolierte Markenflaechen mit class="exb-brand" data-exb-system. */
+/* Das Zusatzattribut verhindert eine Kollision mit dem bestehenden Logo-Link .exb-brand. */
+.exb-brand[data-exb-system] {
+  --exb-graphite: #171c1d;
+  --exb-paper: #f5f3ee;
+  --exb-ink: #202625;
+  --exb-copper: #b64f2b;
+  --exb-copper-hover: #9e3f20;
+  --exb-copper-light: #e6a382;
+  --exb-surface-light: #fffefa;
+  --exb-muted-light: #5c655f;
+  --exb-line-light: #d3d6cf;
+  --exb-selection-row: #eae8e1;
+  --exb-deep: #101617;
+  --exb-muted-dark: #cbd0c9;
+  --exb-line-dark: #5c655f;
+  --exb-error-light: #a2281e;
+  --exb-error-dark: #e6a382;
+  --exb-bg: var(--exb-paper);
+  --exb-surface: var(--exb-surface-light);
+  --exb-text: var(--exb-ink);
+  --exb-muted: var(--exb-muted-light);
+  --exb-line: var(--exb-line-light);
+  --exb-action: var(--exb-copper);
+  --exb-action-hover: var(--exb-copper-hover);
+  --exb-action-text: var(--exb-surface-light);
+  --exb-link: var(--exb-copper);
+  --exb-focus: var(--exb-copper-hover);
+  --exb-error: var(--exb-error-light);
+  --exb-selected: #e6a382;
+  --exb-selected-text: var(--exb-graphite);
+  --exb-font-display: 'EXB Manrope', Arial, sans-serif;
+  --exb-font-body: 'EXB Source Sans 3', 'Segoe UI', Arial, sans-serif;
+  --exb-measure: 65ch;
+  --exb-content-width: 1240px;
+  --exb-gutter: clamp(20px, 4.5vw, 64px);
+  --exb-space-1: 8px;
+  --exb-space-2: 16px;
+  --exb-space-3: 24px;
+  --exb-space-4: 40px;
+  --exb-space-5: 64px;
+  --exb-stroke: 1px;
+  --exb-radius: 2px;
+  color-scheme: light;
+  display: block;
+  letter-spacing: normal;
+  background: var(--exb-bg);
+  color: var(--exb-text);
+  font: 400 18px/1.65 var(--exb-font-body);
+}
+.exb-brand[data-exb-system][data-theme="dark"],
+.exb-brand[data-exb-system] [data-theme="dark"] {
+  --exb-bg: var(--exb-graphite);
+  --exb-surface: var(--exb-deep);
+  --exb-text: var(--exb-paper);
+  --exb-muted: var(--exb-muted-dark);
+  --exb-line: var(--exb-line-dark);
+  --exb-action: var(--exb-copper-light);
+  --exb-action-hover: var(--exb-paper);
+  --exb-action-text: var(--exb-graphite);
+  --exb-link: var(--exb-copper-light);
+  --exb-focus: var(--exb-copper-light);
+  --exb-error: var(--exb-error-dark);
+  --exb-selected: var(--exb-copper-light);
+  --exb-selected-text: var(--exb-graphite);
+  color-scheme: dark;
+  background: var(--exb-bg);
+  color: var(--exb-text);
+}
+.exb-brand[data-exb-system],
+.exb-brand[data-exb-system] *,
+.exb-brand[data-exb-system] *::before,
+.exb-brand[data-exb-system] *::after { box-sizing: border-box; }
+.exb-brand[data-exb-system] ::selection { background: var(--exb-selected); color: var(--exb-selected-text); }
+.exb-brand[data-exb-system]::selection { background: var(--exb-selected); color: var(--exb-selected-text); }
