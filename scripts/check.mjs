@@ -1,18 +1,20 @@
 import { createHash } from 'node:crypto';
+import { prepareRelease } from '../src/lib/release-readiness.mjs';
 import { readFile,readdir,writeFile,stat } from 'node:fs/promises';
 import path from 'node:path';
 import { ROOT,registry,routeIndex,loadJSON,parseSrcset } from '../src/lib/site.mjs';
 import { readContent,countWords } from './build.mjs';
 import { approvedFontIssue, brandAssets, usesBrandSystem } from '../src/lib/brand.mjs';
 import { renderedPageIssues } from './render-contract.mjs';
-import { assertProductionReady, canonicalURL, isIndexable, sitemapXML, productionOrigin } from '../src/lib/seo.mjs';
+import { canonicalURL, isIndexable, sitemapXML, productionOrigin } from '../src/lib/seo.mjs';
 import { fileURLToPath,pathToFileURL } from 'node:url';
-export async function check(options={mode:'preview'}){
+import { assertScopedDocuments,readAssetPolicy,assertPublicOutput } from '../src/lib/release-scope.mjs';
+export async function check(options={mode:'preview'},contentReader=readContent){
  const mode=options.mode;
  if(!['preview','production'].includes(mode))throw new Error('Unbekannter Check-Modus: '+mode);
- const pages=await readContent(),byRoute=new Map(pages.map(p=>[p.route,p]));
+ const allPages=await contentReader();
  const config=mode==='production'?{...loadJSON('src/data/publication.json'),mode}:null;
- if(mode==='production')assertProductionReady(config,pages);
+ const release=prepareRelease(config||{mode},allPages,registry,{root:ROOT}),pages=release.pages,byRoute=new Map(pages.map(p=>[p.route,p]));
  const output=path.join(ROOT,mode==='preview'?'dist':'dist-release');
  const errors=[],warnings=[];
  const manifests=mode==='preview'?loadJSON('editorial/checks/render-manifest.json'):pages.map(p=>({route:p.route,lang:p.lang,file:p.route.slice(1)+'index.html'}));
@@ -53,6 +55,7 @@ export async function check(options={mode:'preview'}){
    if(/^(?:https?:|mailto:|data:)/.test(value))continue;
    if(mode==='production' && /(?:^|\/)index\.html(?:[?#]|$)/.test(value))errors.push('Nicht konsolidierter index.html-Link '+value+' auf '+m.route);
    const u=new URL(value,mode==='production'?new URL(m.route,productionOrigin(config)):pathToFileURL(file));
+   if(mode==='production' && u.pathname.startsWith('/api/')){if(!['/api/enquiry','/api/enquiry/confirmation'].includes(u.pathname))errors.push('Unknown public API '+value);continue;}
    const target=mode==='production'?path.join(output,u.pathname.slice(1),u.pathname.endsWith('/')?'index.html':''):fileURLToPath(u);
    if(!target.startsWith(output+path.sep)){errors.push('Escaping relative path '+value+' on '+m.route);continue;}
    try{if(!(await stat(target)).isFile())errors.push('Not a file '+value+' on '+m.route);}catch{errors.push('Missing '+value+' on '+m.route);continue;}
@@ -65,7 +68,13 @@ export async function check(options={mode:'preview'}){
   if(countWords(html.match(/<main\b[\s\S]*?<\/main>/)?.[0]||'')<80)warnings.push('Very short page '+m.route);
  }
  async function walk(dir){for(const ent of await readdir(dir,{withFileTypes:true})){const f=path.join(dir,ent.name);if(ent.isDirectory())await walk(f);else if(/\.(?:woff2?|ttf|otf|eot)$/i.test(ent.name)){const issue=approvedFontIssue(path.relative(output,f).split(path.sep).join('/'),await readFile(f));if(issue)errors.push(issue);}}}
- await walk(output);
+ if(mode==='preview')await walk(output);
+ if(mode==='production'){
+  const documents=new Map([['index.html',await get(path.join(output,'index.html'))]]);
+  for(const m of manifests)documents.set(m.file,await get(path.join(output,m.file)));
+  assertScopedDocuments(documents,release,{origin:productionOrigin(config)});
+  assertPublicOutput(output,documents,path.join(ROOT,'public'),readAssetPolicy(ROOT,release));
+ }
  if(pages.some(usesBrandSystem))for(const item of [...brandAssets.fonts,...brandAssets.licenses]){try{const raw=await readFile(path.join(output,item.path));if(createHash('sha256').update(raw).digest('hex')!==item.sha256)errors.push('Approved B asset checksum mismatch: '+item.path);}catch{errors.push('Approved B asset missing: '+item.path);}}
  const robots=await get(path.join(output,'robots.txt'));
  if(mode==='preview'?!/Disallow: \/\s*$/.test(robots):robots!==`User-agent: *\nAllow: /\nSitemap: ${productionOrigin(config)}/sitemap.xml\n`)errors.push('Robots.txt mismatch');

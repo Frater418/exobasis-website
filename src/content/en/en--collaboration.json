@@ -7,7 +7,7 @@
   "model": "vertrauen",
   "schemaVersion": 1,
   "kind": "collaboration",
-  "reviewStatus": "draft_for_review",
+  "reviewStatus": "approved",
   "releaseStatus": "editorial_draft_not_published",
   "sourceRefs": [
     {

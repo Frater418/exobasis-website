@@ -202,6 +202,8 @@
 .exb-brand[data-exb-system="B"]:not(.exb-page-home) :is(.exb-criteria-table,.exb-country-table) thead th { color: var(--exb-paper); }
 .exb-brand[data-exb-system="B"]:not(.exb-page-home) :is(.exb-criteria-table,.exb-country-table) tbody th { background: var(--exb-bg); }
 .exb-brand[data-exb-system="B"]:not(.exb-page-home) :is(.exb-country-life,.exb-country-action,.exb-origin-alternatives,.exb-context-offer,.exb-next-work) { background: var(--exb-selection-row); border-color: var(--exb-action); border-radius: var(--exb-radius); }
+/* R1: selection surfaces need the existing darker B link role; actions stay unchanged. */
+.exb-brand[data-exb-system="B"]:not(.exb-page-home) :is(.exb-country-action,.exb-next-work) { --exb-link: var(--exb-copper-hover); }
 .exb-brand[data-exb-system="B"]:not(.exb-page-home) :is(.exb-method-example,.exb-simple-question,.exb-country-comparisons article,.exb-role-grid>div,.exb-service-card,.exb-state-grid article,.exb-context-link,.exb-related-link,.exb-contact-write) { background: var(--exb-surface); border-color: var(--exb-line); border-radius: var(--exb-radius); }
 .exb-brand[data-exb-system="B"]:not(.exb-page-home) .exb-country-group>h3 { border-color: var(--exb-action); }
 .exb-brand[data-exb-system="B"]:not(.exb-page-home) :is(.exb-country-directory-item,.exb-country-groups-nav,.exb-country-comparisons,.exb-country-extra,.exb-catalogue-group,.exb-existing-client,.exb-next-steps li) { border-color: var(--exb-line); }
@@ -258,6 +260,8 @@
   .exb-brand[data-exb-system="B"]:not(.exb-page-home) .exb6-actions { gap: 8px; }
 }
 @media (max-width: 639px) {
+  /* R1: only the two German legal titles, bound to their existing section IDs. */
+  .exb-brand[data-exb-system="B"]:not(.exb-page-home).exb-page-legal:lang(de) .exb-content-page:has(#i-anbieter,#t-vertrag) .exb-page-hero h1 { font-size: clamp(1.625rem,8vw,2.25rem); }
   .exb-brand[data-exb-system="B"]:not(.exb-page-home) .exb-page-lead { font-size: 1.0625rem; line-height: 1.66; }
   .exb-brand[data-exb-system="B"]:not(.exb-page-home) :is(.exb-page-scope,.exb-page-closing,.exb-enquiry-form-section,.exb-enquiry-next) { padding-block: var(--exb-space-4); }
   .exb-brand[data-exb-system="B"]:not(.exb-page-home) .exb-country-summary { grid-template-columns: minmax(0,1fr); padding-block: var(--exb-space-1); }

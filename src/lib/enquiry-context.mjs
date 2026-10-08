@@ -1,23 +1,25 @@
 import { e,loadJSON,routeIndex } from './site.mjs';
+import {scopedContexts} from './release-scope.mjs';
 
 const knowledgeModels=new Set(['themenhub','fachbeitrag','herkunft']);
-export function publicContexts(lang){
+export function publicContexts(lang,{routes}={}){
  if(!['de','en'].includes(lang))throw new Error('Unsupported context language: '+lang);
  const contexts={};
  for(const page of routeIndex.values()){
-  if(page.lang!==lang||!knowledgeModels.has(page.model))continue;
+  if(page.lang!==lang||!knowledgeModels.has(page.model)||routes&&!routes.has(page.route))continue;
   const label=page.model==='herkunft'?(lang==='de'?'Herkunftsbezug: ':'Departure context: '):(lang==='de'?'Themenbezug: ':'Topic: ');
   contexts[page.route]=label+page.title;
  }
  const countries=loadJSON('src/data/country-contexts.json');
  for(const [route,message] of Object.entries(countries)){
   const page=routeIndex.get(route);
+  if(routes&&page&&!routes.has(route))continue;
   if(!page||page.model!=='laenderprofil'||typeof message!=='string'||!message.trim()||message.length>300)throw new Error('Invalid country context: '+route);
   if(page.lang===lang)contexts[route]=message;
  }
- for(const page of routeIndex.values())if(page.lang===lang&&page.model==='laenderprofil'&&!Object.hasOwn(contexts,page.route))throw new Error('Missing country context: '+page.route);
+ for(const page of routeIndex.values())if(page.lang===lang&&page.model==='laenderprofil'&&(!routes||routes.has(page.route))&&!Object.hasOwn(contexts,page.route))throw new Error('Missing country context: '+page.route);
  for(const [route,message] of Object.entries(contexts))if(message.length>300)throw new Error('Public context exceeds field limit: '+route);
- return contexts;
+ return scopedContexts(contexts,routes);
 }
 
 /** Bind only main-content enquiry links. Navigation stays general and never carries private input. */

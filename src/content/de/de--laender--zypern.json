@@ -7,7 +7,7 @@
   "model": "laenderprofil",
   "schemaVersion": 1,
   "kind": "country",
-  "reviewStatus": "draft_for_review",
+  "reviewStatus": "approved",
   "sourceRefs": [
     {
       "module": "11_Schreibauftraege_Laender.md",
@@ -21,9 +21,9 @@
     }
   ],
   "eyebrow": "Dein Plan B / Länder",
-  "seoTitle": "Zypern als Plan B | EXOBASIS",
-  "description": "Prüfe Zypern für deine Familie: passende Aufenthaltswege, Wohnort, Versorgung und konkrete Vorbereitung mit EXOBASIS.",
-  "intro": "<p>Du willst eine andere Grundlage für Familie und Unternehmen schaffen. Zypern verlangt dabei einen nüchternen Blick auf Aufenthaltsrechte, Inselversorgung und das regionale Konfliktumfeld. Steuerliche oder unternehmerische Vorteile werden mit deinem tatsächlichen Lebens- und Sicherheitsziel abgeglichen.</p>",
+  "seoTitle": "Auswandern nach Zypern: Familie, Aufenthalt und Wohnen | EXOBASIS",
+  "description": "Zypern als zweite Basis oder neues Zuhause: Aufenthaltsrechte, Larnaca und Nicosia, Schule, Gesundheit und Immobilienkauf. Vorbereitung mit EXOBASIS.",
+  "intro": "<p>Du willst deine Familie schützen, dein Erarbeitetes erhalten und gehen können, bevor Krieg oder politische Entwicklungen deine Entscheidungen enger machen. Vielleicht suchst du einen vorbereiteten Rückzugsort mit späterer Rückkehr. Vielleicht soll aus Zypern ein dauerhaftes Zuhause werden. Beides beginnt mit einem Ort, den ihr rechtlich und praktisch nutzen könnt.</p><p>EXOBASIS verbindet den passenden Aufenthaltsweg mit Wohnung, Schulaufnahme, Versorgung und nutzbarem Geldzugang. Wir organisieren die vereinbarte Vorbereitung bis zur Ankunft und betreuen auf Auftrag auch eine Basis, während du noch woanders lebst.</p>",
   "countryContext": "/de/laender/zypern/",
   "linkPlan": [
     {
@@ -106,20 +106,260 @@
   ],
   "sources": [
     {
-      "title": "Your Europe: Residence rights",
-      "url": "https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm",
-      "section": 5,
-      "checkedAt": "2026-09-26",
-      "verification": "live_primary_text",
+      "title": "Kapnos: reguläre Flughafenverbindungen",
+      "url": "https://kapnosairportshuttle.com/",
+      "section": 2,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
       "limitation": ""
     },
     {
-      "title": "Republic of Cyprus: Immigration permits for investors",
+      "title": "Innenministerium: ordentliche Einbürgerung nach Aufenthaltsjahren",
+      "url": "https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/",
+      "section": 3,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Migrationsbehörde: MEU1",
+      "url": "https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Migrationsbehörde: MEU2",
+      "url": "https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member-2/entry-and-residence-of-third-country-nationals-who-are-family-members-of-an-e-u-e-e-a-citizen-meu2/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Migrationsbehörde: britische Bestandsrechte",
+      "url": "https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/u-k-nationals-and-family-members-with-free-movement/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Migrationsbehörde: Visitor-Verfahren",
+      "url": "https://www.gov.cy/mip-md/en/documents/visitors-and-family-members/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Amtliche Visitor-Unterlagenliste",
+      "url": "https://www.gov.cy/app/uploads/sites/174/2025/12/SUPPORTING-DOCUMENTS-VISITOR-PERMIT-1a.docx",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Migrationsbehörde: Digital Nomads und Familie",
+      "url": "https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Migrationsbehörde: Investoren-Aufenthalt nach Regulation 6(2), einschließlich späterer Klarstellungen",
       "url": "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/",
       "section": 5,
-      "checkedAt": "2026-09-26",
-      "verification": "official_indexed_text",
-      "limitation": "Direktabruf 403; offizieller indexierter Text gelesen. Nur Regulation-6(2)-Kategorienlogik übernommen, keine Beträge, Laufzeit- oder aktuelle Detailzusage."
+      "checkedAt": "2026-09-24",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "American Academy Larnaca: Aufnahmebedingungen",
+      "url": "https://www.academy.ac.cy/wp-content/uploads/2026/06/Admissions-Policy-and-Procedures_Website.pdf",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Nicosia General Hospital: Patienteninformation",
+      "url": "https://www.shso.org.cy/en/patient-and-visitor/geniko-nosokomeio-lefkosias/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Kap. 109: Erwerbsgesetz",
+      "url": "https://cylaw.org/nomoi/enop/non-ind/0_109/full.html",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Kap. 109: Flächen- und Zweckschwelle",
+      "url": "https://cylaw.org/nomoi/enop/non-ind/0_109/full.html",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Innenministerium: Erwerbsverfahren",
+      "url": "https://www.gov.cy/moi/en/documents/purchasing-property/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "DLS: Kaufvertragsdeponierung",
+      "url": "https://portal.dls.moi.gov.cy/en/application_forms/symvasis-polisis-antiparochis-antallagis/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "DLS: Hypothekenfreigabe",
+      "url": "https://portal.dls.moi.gov.cy/en/application_forms/symvasis-polisis-antiparochis-antallagis/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "DLS: Eigentumsübertragung",
+      "url": "https://portal.dls.moi.gov.cy/en/application_forms/polisi-antallagi/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "VAT-Gesetz: Wohnbegünstigung",
+      "url": "http://www.cylaw.org/nomoi/enop/non-ind/2000_1_95/full.html",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Steuerbehörde: Übergang für bestimmte Bau-/Planungsfälle 2026",
+      "url": "https://www.gov.cy/oikonomia/exetasi-ypefthynon-diloseon-gia-tin-epivoli-meiomenou-syntelesti-fpa-5-gia-tin-agora-i-anegersi-katoikias-apo-ton-eforo-forologias-mechri-31-dekemvriou-2026/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "DLS: Transfergebühren",
+      "url": "https://portal.dls.moi.gov.cy/en/application_forms/polisi-antallagi/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "N.239(I)/2025: Aufhebung der Stempelsteuer",
+      "url": "https://www.cylaw.org/nomoi/arith/2025_1_239.pdf",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Steuerbehörde: elektronische Mietzahlungen",
+      "url": "https://www.gov.cy/oikonomia/ypochreotiki-katavoli-enoikiou-me-ilektronika-mesa-pliromis-apo-tin-1i-iouliou-2026/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Bildungsministerium: Primarschulanmeldung",
+      "url": "http://moec.gov.cy/dde/en/infoserv_primary_registrations.html",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "American Academy Larnaca: Aufnahmeverfahren",
+      "url": "https://www.academy.ac.cy/wp-content/uploads/2026/06/Admissions-Policy-and-Procedures_Website.pdf",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "HIO: GESY-Berechtigung",
+      "url": "https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "HIO: Finanzierung und Zuzahlungen",
+      "url": "https://www.gesy.org.cy/en-us/hiofinancing",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "PASYKAF: häusliche unterstützende und palliative Versorgung",
+      "url": "https://pasykaf.org/en/supportive-home-palliative-care/",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Steuerbehörde: elektronische Miete",
+      "url": "https://www.gov.cy/oikonomia/ypochreotiki-katavoli-enoikiou-me-ilektronika-mesa-pliromis-apo-tin-1i-iouliou-2026/",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "N.244(I)/2025: Steuerreform ab 2026",
+      "url": "https://www.cylaw.org/nomoi/arith/2025_1_244.pdf",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Steuerbehörde: Ansässigkeit und domicile",
+      "url": "https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "HIO: GHS-Beiträge",
+      "url": "https://www.gesy.org.cy/en-us/hiofinancing",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Migrationsbehörde: Fortbestand und aktualisierte Monitoringregeln",
+      "url": "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/",
+      "section": 10,
+      "checkedAt": "2026-09-24",
+      "verification": "accepted_source_text",
+      "limitation": ""
     }
   ],
   "mediaStatus": "geographic_locator_photo_pending",
@@ -137,16 +377,16 @@
     "caption": "Geografische Orientierung. Keine Reise-, Sicherheits- oder Grenzbewertung.",
     "summary": [
       [
-        "Familie und Unternehmen",
-        "Wohn- und Geschäftsaufgaben gemeinsam planen, rechtlich getrennt prüfen."
+        "Vorhandene Rechte zuerst",
+        "EU-/EWR-/Schweizer Aufenthalt und Familienrechte vor einem neuen Investorenweg einordnen."
       ],
       [
-        "Insel im Mittelmeer",
-        "Regionales Konfliktumfeld und tatsächliche Erreichbarkeit berücksichtigen."
+        "Zwei konkrete Suchräume",
+        "Larnaca und Nicosia nach Schulaufnahme, Behandlung und tatsächlichen Alltagswegen vergleichen."
       ],
       [
-        "Passender Rechtsweg",
-        "Vorhandene Personenrechte vor einem neuen Investitionsauftrag prüfen."
+        "Drei verschiedene Vorhaben",
+        "Krisenbasis mit Rückkehr, dauerhafte Familie und mobiles Leben verlangen unterschiedliche Vorbereitung."
       ]
     ]
   },
@@ -154,61 +394,62 @@
     {
       "id": "ausgangslage",
       "title": "Passende Ausgangslage",
-      "body": "<p>Zypern ist zu prüfen, wenn du einen Wohn- oder Unternehmensstandort im europäischen Umfeld suchst. Der Nutzen eines Geschäftsstandorts ist dabei nicht automatisch der Nutzen einer Familienbasis. Entscheidend sind dein konkreter Aufenthaltsweg, die Rechte deiner Angehörigen und ein Wohnort mit verlässlicher Versorgung. Eine Gesellschaftsadresse oder ein Steuerargument allein stellt diese Voraussetzungen nicht her.</p>"
+      "body": "<p>Wenn du nach Zypern auswandern oder einen zweiten Wohnsitz vorbereiten möchtest, sind drei Entscheidungen zu treffen: Wer darf dort wie lange leben und arbeiten? Welcher Wohnort trägt euren Alltag? Und welches Szenario soll die Insel für euch auffangen?</p><p>Für Deutsche und Österreicher erleichtern vorhandene EU-Rechte den Einstieg; Schweizer Staatsangehörige haben ebenfalls einen begünstigten Aufenthaltsweg. Das kann eine erste längere Mietphase sinnvoll machen, bevor du Kapital in einen Kauf bindest. Ein deutschsprachiger Haushalt mit verschiedenen Pässen bleibt jedoch eine Familie mit unterschiedlichen Rechtsgrundlagen.</p><p>Zypern liegt im östlichen Mittelmeer. Als europäische Familien- oder Unternehmensbasis kann es passen; als Zuflucht vor einer regionalen Eskalation braucht es einen eigenen Vergleich. Ein steuerlicher Vorteil beantwortet diese Sicherheitsfrage nicht. Dieses Profil behandelt die Republik Zypern und die von ihr kontrollierten Gebiete, nicht Nordzypern.</p>"
     },
     {
       "id": "krisenbasis-rueckkehr",
       "title": "Krisenbasis und Rückkehr",
-      "body": "<p>Eine Basis auf Zypern bleibt mit dem regionalen Umfeld des östlichen Mittelmeers verbunden. Betrachte deshalb Anreise, mögliche Störungen der Verbindungen und Inselversorgung ausdrücklich in deinem Szenario. Eine vorhandene Immobilie hilft erst, wenn alle Angehörigen rechtmäßig ankommen und den Haushalt tatsächlich nutzen können. Plane auch den Rückweg und die nötigen Mittel für einen längeren Aufenthalt, nicht nur die erste Einreise. Die Insel liegt im östlichen Mittelmeer und muss daher gegen dein konkretes Krisenszenario geprüft werden, auch wenn EU-Rechte die rechtliche Niederlassung erleichtern. Plane Flugzugang, Versorgung, Unterkunft und eine alternative Rückreise zusammen. Der Standort einer Gesellschaft gibt der Familie keinen zusätzlichen Reiseweg.</p>"
+      "body": "<p>Eine vorbereitete Krisenbasis soll dir Zeit und Entscheidungsfreiheit geben. Dafür muss die ganze Familie ankommen können, nicht nur der Eigentümer einer Wohnung. Prüfe Einreise und Aufenthalt für jeden Pass, die tatsächlich nutzbare Verbindung, die Übergabe der Unterkunft und die Versorgung ab dem ersten Tag.</p><p>Im normalen Reisebetrieb kannst du einen Flug nach Larnaca oder Paphos mit dem Weitertransport verbinden. Kapnos veröffentlicht unter anderem Shuttle-Verbindungen zu Larnaca und Nicosia. Für viel Gepäck, kleine Kinder oder eingeschränkte Mobilität organisieren wir den passenden Transfer bis zur Unterkunft. Schlüssel, Strom, Wasser, erreichbare Hilfe und die erste notwendige Behandlung werden dabei mit vorbereitet.</p><p>Ein normaler Flug- oder Shuttleplan ist keine garantierte Verbindung bei Krieg oder Luftraumsperre. Lege deshalb vorher fest, welche Entwicklung deine Abreiseentscheidung auslöst und welche andere tatsächlich erreichbare Option du dann prüfen lässt. Eine zweite Ankunftsmöglichkeit hilft nur, wenn auch Transit, Aufenthalt und Weiterweg funktionieren.</p><p>Für eine spätere Rückkehr hältst du die nötigen Rechte und Unterlagen am bisherigen Ort aufrecht und erfüllst die weiterlaufenden Verpflichtungen. Ein in Deutschland lebender Drittstaatsangehöriger kann dabei einen anderen Fall haben als ein deutscher Staatsbürger. Die Herkunftsaufgaben findest du getrennt für <a href=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\">Deutschland</a>, <a href=\"/de/wissen/ausweg-vorbereiten/aus-oesterreich/\">Österreich</a> und die <a href=\"/de/wissen/ausweg-vorbereiten/aus-schweiz/\">Schweiz</a>. Auch persönliche Wehr- oder Ausreiseverpflichtungen gehören dorthin; ein zyprischer Wohnsitz hebt sie nicht auf.</p><p class=\"exb-citation\">Quellen: <a href=\"https://kapnosairportshuttle.com/\" rel=\"noreferrer\">Kapnos: reguläre Flughafenverbindungen</a>.</p>"
     },
     {
       "id": "familienzukunft",
       "title": "Dauerhafte Zukunft für die Familie",
-      "body": "<p>Die Familienentscheidung beginnt bei den Personen, die dort leben sollen. Schule, Sprache, medizinischer Bedarf und erreichbare Betreuung bilden gemeinsam den Suchrahmen für den Wohnort. Ein längerfristiger Mietvertrag oder Kauf sollte erst zu dieser Auswahl passen. Auch zeitversetzte Ankunft und weiterlaufende Verpflichtungen im bisherigen Land müssen organisiert werden, damit nicht ein Elternteil sämtliche offenen Aufgaben allein auffängt. Für berechtigte EU-Bürger und ihre Familien ist zuerst der vorhandene Rechtsrahmen zu klären; ein Investorenprogramm ist dafür keine Pflicht. Drittstaatsangehörige benötigen eine andere Zuordnung. Erst mit Schulaufnahme, erreichbarer Fachbehandlung und passender Wohnlage wird aus einem rechtlichen Weg ein tragfähiger Familienalltag.</p>"
+      "body": "<p>Ein dauerhafter Umzug beginnt bei den Menschen, die dort leben sollen. Für dein Kind können Unterrichtssprache und Abschlussweg entscheiden. Für einen Angehörigen ist vielleicht eine regelmäßig erreichbare Fachbehandlung ausschlaggebend. Für dich müssen Einkommen, Arbeit und die Führung eines bestehenden Unternehmens mit dem neuen Alltag zusammenpassen. Verzögert sich eure Weiter- oder Rückreise, müssen Wohnung, Betreuung, Medikamente und notwendige Behandlungen vor Ort weiter verfügbar sein. Vereinbare mit EXOBASIS, wer die örtlichen Anschlüsse organisiert und ab wann eine andere erreichbare Option nötig wird, weil der Bedarf dort nicht mehr gedeckt werden kann.</p><p>Für EU-/EWR-/Schweizer Staatsangehörige mit passendem Erwerbs- oder Selbstversorgerrecht und ihre berechtigten Angehörigen stehen diese Personen- und Familienrechte vor einem Investorenkauf. Ein Investorenkauf ist dafür nicht erforderlich. Fehlt ein solcher Zugang, braucht jedes Familienmitglied den passenden Drittstaatstitel; etwa beim Investorenweg sind Angehörigenkreis und erlaubte Tätigkeit eigene Bedingungen. Gehe in dieser Reihenfolge vor: Aufenthaltsgrund jedes Familienmitglieds zuordnen, Schul- und Versorgungsbedarf klären, passende Wohnlagen besichtigen und erst dann den langfristigen Miet- oder Kaufvertrag wählen. Eine zeitversetzte Ankunft kann sinnvoll sein, wenn ein Elternteil zunächst die Wohnung einrichtet. Sorge, Zustimmung zum dauerhaften Umzug und die Begleitung der Kinder müssen dabei vor der Buchung geklärt sein.</p><p>Die Alltagssprache gehört in den Ortsvergleich. Ein englischsprachiger Schulweg erleichtert den Einstieg für manche Familien; er ersetzt nicht die Entscheidung, wie ihr im griechischsprachigen Umfeld Kontakte, Behördenwege und alltägliche Hilfe organisiert. Lass dir von Schule und Behandlungsteam bestätigen, in welcher Sprache die Zusammenarbeit tatsächlich möglich ist.</p><p>Wer sehr langfristig plant, kann später eine ordentliche Einbürgerung prüfen. Sie setzt unter anderem zwölf unmittelbar vorausgehende rechtmäßige Aufenthaltsmonate voraus; bis zu 90 Abwesenheitstage sind dabei zulässig. Im davorliegenden Zehnjahreszeitraum sind mindestens sieben Jahre rechtmäßiger Aufenthalt erforderlich. Hinzu kommen unter anderem Griechisch B1, Landeskenntnisse, guter Charakter, geeignete Wohnung, stabile Mittel und Bleibeabsicht. Ein Immobilienkauf verschafft keinen zyprischen Pass.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/\" rel=\"noreferrer\">Innenministerium: ordentliche Einbürgerung nach Aufenthaltsjahren</a>.</p>"
     },
     {
       "id": "mobile-nutzung",
       "title": "Mobile Nutzung",
-      "body": "<p>Bei wechselnden Wohnorten zählen Aufenthaltsdauer, zulässige Tätigkeit, Wiederkehr und laufende Verpflichtungen. Ein zyprischer Firmenbezug macht deinen persönlichen Aufenthalt nicht automatisch dauerhaft nutzbar. Ordne berufliche Tätigkeit und Familienleben dem richtigen rechtlichen Rahmen zu. Wer die Insel nur phasenweise nutzt, braucht außerdem eine geregelte Betreuung der Unterkunft und erreichbare Hilfe während eigener Abwesenheit.</p>"
+      "body": "<p>Wenn du zwischen Zypern und einem anderen Land leben möchtest, lege zuerst euren wirklichen Jahresrhythmus fest: Aufenthalte, Arbeitstage, Schule, Behandlung und längere Abwesenheiten. Eine Gesellschaftsadresse macht weder deinen Aufenthalt noch die Fernarbeit automatisch zulässig.</p><p>Mit vorhandenen Freizügigkeitsrechten ordnest du die längeren Aufenthalte und die tatsächliche Tätigkeit dem passenden Registrierungsgrund zu. Für Drittstaatsangehörige mit Fernarbeit für ausländische Arbeitgeber oder Kunden ist der Digital-Nomad-Weg getrennt vom Visitor-Titel zu betrachten. Eine mitreisende Partnerin oder ein Partner erhält darüber kein eigenes Arbeitsrecht in Zypern.</p><p>Auch ein Daueraufenthaltstitel ist nicht beliebig unabhängig vom eigenen Leben nutzbar: Beim Investorenweg nach Regulation 6(2) kann eine zweijährige Abwesenheit ebenso zum Verlust führen wie der Erwerb eines dauerhaften Aufenthalts im Ausland. Nach Bewilligung aus dem Ausland muss der Wohnsitz in Zypern innerhalb eines Jahres aufgenommen werden. Das gehört vor einem Kauf zu deinem tatsächlichen Nutzungsmodell.</p><p>Für die Wohnung brauchst du während deiner Abwesenheit eine klare Zuständigkeit: Schlüssel, Kontrollen, Rechnungen, Wartung und Vorbereitung vor dem nächsten Aufenthalt. Ein leerer Haushalt mit einer ungeklärten Versicherung oder gesperrter Stromversorgung ist keine verfügbare Basis. Die laufende Betreuung verbinden wir mit den persönlichen Fristen und deinem Ankunftsplan.</p>"
     },
     {
       "id": "rechte-programme",
       "title": "Vorhandene Rechte und passende Wege",
-      "body": "<p>Für berechtigte Personen kommen vorhandene EU-Rechte vor einem neu zu beschaffenden Investorenweg. Die Migrationsbehörde der Republik Zypern beschreibt daneben eine Investoren-Aufenthaltsgenehmigung nach Regulation 6(2). Ihre Kapital-, Nachweis- und Angehörigenbedingungen sind als eigener Weg zu prüfen. Eine Beteiligung oder ein Immobilienerwerb allein ist keine allgemeine Erlaubnis für jede Tätigkeit. Rechtliche Zuständigkeit und Objektlage müssen eindeutig sein; Aussagen über die Republik werden nicht auf andere Verwaltungsgebiete übertragen. Die EU-Freizügigkeit für tatsächlich Berechtigte und der zyprische Investorenweg nach Regulation 6(2) haben verschiedene Voraussetzungen und Adressaten. Der amtliche Investorenhinweis beschreibt Kapital-, Einkommens- und Angehörigennachweise; eine eingereichte Bewerbung allein ist noch keine Aufenthaltsentscheidung. Beziehe Aussagen der Republik Zypern nur auf deren zuständige Rechtsordnung.</p><p class=\"exb-citation\">Fachquelle: <a href=\"https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm\" rel=\"noreferrer\">Your Europe: Residence rights</a></p><p class=\"exb-citation\">Fachquelle: <a href=\"https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/\" rel=\"noreferrer\">Republic of Cyprus: Immigration permits for investors</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fzypern%2F#kurzanfrage\">Vorbereitung für Zypern anfragen</a><p>Eine konkrete Teilaufgabe ist direkt anfragbar. Persönliche Unterlagen folgen erst im vereinbarten geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+      "body": "<h3>EU-/EWR-/Schweizer Staatsangehörige und ihre Familien</h3><p>Bis zu drei Monate ist der Aufenthalt mit gültigem Pass oder Personalausweis möglich. Für längeres Bleiben kommt Erwerbstätigkeit oder Selbstständigkeit infrage, andernfalls ausreichende Mittel und umfassender Krankenversicherungsschutz. Die Registrierung MEU1 erfolgt innerhalb von vier Monaten nach Einreise und kostet 20 EUR; die Bescheinigung läuft nicht ab. Der begünstigte Personenkreis hat Zugang zu Beschäftigung und Selbstständigkeit.</p><p>Ein drittstaatsangehöriger Ehe- oder eingetragener Lebenspartner kann über MEU2 als Familienmitglied eines berechtigten EU-/EWR-/Schweizer Bürgers erfasst werden. Dasselbe gilt für direkte Nachkommen unter 21 Jahren oder mit Unterhaltsabhängigkeit sowie abhängige direkte Vorfahren. Die Karte wird innerhalb von vier Monaten beantragt, kostet 20 EUR und gilt grundsätzlich fünf Jahre oder entsprechend der kürzeren vorgesehenen Aufenthaltsdauer. Sie eröffnet Arbeitsmarktzugang. Die freizügigkeitsberechtigte EU-/EWR-/Schweizer Bezugsperson muss bei der Einreichung anwesend sein; Verwandtschaft, Voraussetzungen und Biometrie sind nachzuweisen.</p><p>Für britische Angehörige ist zu unterscheiden: Fortbestehende Rechte aus einem Aufenthalt vor Ende der Brexit-Übergangszeit können unter das Austrittsabkommen fallen. Ein heute neu zuziehender Brite ohne solchen Bestand, zweiten begünstigten Pass oder passende EU-Familienbeziehung benötigt einen Drittstaatsweg. Wohnsitz in Deutschland, der Schweiz, Großbritannien oder den VAE ist für sich keine Staatsangehörigkeit.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/\" rel=\"noreferrer\">Migrationsbehörde: MEU1</a>; <a href=\"https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member-2/entry-and-residence-of-third-country-nationals-who-are-family-members-of-an-e-u-e-e-a-citizen-meu2/\" rel=\"noreferrer\">Migrationsbehörde: MEU2</a>; <a href=\"https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/u-k-nationals-and-family-members-with-free-movement/\" rel=\"noreferrer\">Migrationsbehörde: britische Bestandsrechte</a>.</p><h3>Visitor: wohnen aus eigenen Mitteln, ohne wirtschaftliche Tätigkeit</h3><p>Der Visitor-Titel kann für einen längeren Aufenthalt aus eigenen Mitteln passen. Er untersagt wirtschaftliche Tätigkeit in der Republik und ist keine pauschale Erlaubnis für Remote Work. Nach rechtmäßiger Einreise wird MVIS8 vor Ablauf des Visums mit übersetzten und beglaubigten Unterlagen eingereicht. Der erste Titel gilt gewöhnlich ein Jahr und ist bei erfüllten Bedingungen verlängerbar. Die Gebühr beträgt 70 EUR, bei erstmaliger Registrierung kommen 70 EUR hinzu.</p><p>Die amtliche Unterlagenliste verlangt stabile Mittel grundsätzlich aus dem Ausland und belegte Eingänge bei einem Finanzinstitut in Zypern: mindestens 2.000 EUR monatlich beziehungsweise 24.000 EUR jährlich für eine Person, zusätzlich 20 Prozent für den Ehepartner und 15 Prozent je Kind. Für den Erstantrag wird auch ein Transfer oder eine Bareinzahlung von mindestens 10.000 EUR akzeptiert; bei Bargeld ist der Zollnachweis nötig. Das ersetzt nicht die übrigen Einkommensbedingungen. Für die Verlängerung sind mindestens 6.000 EUR Kontostand vorgesehen, unabhängig von der Familiengröße.</p><p>Zum ersten Dossier gehören unter anderem Strafregister- und medizinische Nachweise, geeigneter Wohnraum, eine zehnjährige Bankgarantie zur Rückführung mit herkunftsabhängigem Betrag und die geforderte Plan-A-Krankenversicherung für stationäre und ambulante Versorgung sowie Überführung. Ehepartner und minderjährige Kinder erhalten eigene passende Anträge mit Familien- und gegebenenfalls Sorge- oder Schulnachweisen.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.gov.cy/mip-md/en/documents/visitors-and-family-members/\" rel=\"noreferrer\">Migrationsbehörde: Visitor-Verfahren</a>; <a href=\"https://www.gov.cy/app/uploads/sites/174/2025/12/SUPPORTING-DOCUMENTS-VISITOR-PERMIT-1a.docx\" rel=\"noreferrer\">Amtliche Visitor-Unterlagenliste</a>.</p><h3>Digital Nomad: Fernarbeit mit eigenem Status</h3><p>Der gesonderte Weg richtet sich an Nicht-EU-/Nicht-EWR-Staatsangehörige, die ortsunabhängig für einen Arbeitgeber im Ausland oder ausländische Kunden arbeiten. Er verlangt mindestens 3.500 EUR stabiles monatliches Nettoeinkommen nach Steuern und Beiträgen. Der erste Titel gilt ein Jahr; eine Verlängerung ist für bis zu zwei weitere Jahre möglich. Ehe-/Civil-Union-Partner und minderjährige Kinder benötigen eigene begleitende Titel und dürfen darüber in Zypern keiner wirtschaftlichen Tätigkeit nachgehen.</p><p>Der Antrag ist innerhalb von drei Monaten nach Ankunft in Nicosia einzureichen; Biometrie gehört zum Verfahren. Verlängerungsunterlagen werden mindestens einen Monat vor Ablauf vorgelegt. Titel und erstmalige Registrierung kosten jeweils 70 EUR. Die Behörde nimmt Anträge an, das Programm bleibt jedoch auf 500 Genehmigungen begrenzt. Plane Krankenabsicherung für jede Person: Eine Nomad-Karte allein verschafft keinen GESY-Zugang.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/\" rel=\"noreferrer\">Migrationsbehörde: Digital Nomads und Familie</a>.</p><h3>Regulation 6(2): Daueraufenthalt über einen qualifizierten Wohnkauf</h3><p>Für passende Drittstaatsangehörige kann ein Erstverkaufs-Haus oder eine Erstverkaufs-Wohnung eines Bauträgers den Immobilienweg tragen. Der erforderliche Gesamtwert beträgt mindestens 300.000 EUR zuzüglich VAT. Beim Antrag müssen ein Titel oder ein beim Department of Lands and Surveys deponierter Kaufvertrag und offizielle Zahlungsbelege über mindestens 300.000 EUR ohne VAT vorliegen. Das Investitionsgeld muss nachweislich aus dem Ausland stammen, nicht aus einer inländischen Kreditaufnahme. Die restliche Kaufsumme wird auf das Verkäuferkonto bei einem Finanzinstitut in Zypern gezahlt. Bis zu zwei qualifizierte Wohneinheiten können zusammen den Mindestwert erfüllen; die Familie braucht zugleich ausreichend geeigneten Wohnraum.</p><p>Zusätzlich sind mindestens 50.000 EUR gesichertes Jahreseinkommen erforderlich, zuzüglich 15.000 EUR für den Ehepartner und 10.000 EUR je abhängigem minderjährigem Kind. Beim Wohnkauf stammt dieses Einkommen aus dem Ausland. Als Nachweis kommen nach der amtlichen Präzisierung die Steuererklärung des angegebenen Ansässigkeitslands oder offizielle Bescheinigungen eines unabhängigen Certified Accountant infrage; das Einkommen des Ehepartners kann mitgerechnet werden.</p><p>Der Kernfamilienweg umfasst Ehepartner und Kinder unter 18 Jahren. Volljährige Kinder und Eltern benötigen eine eigene Zuordnung und sind nicht pauschal eingeschlossen. Antragsteller und Ehepartner legen ein sauberes Strafregister aus Herkunfts- und gegebenenfalls abweichendem Wohnsitzland vor. Die Familienabsicherung umfasst stationäre und ambulante Behandlung. Eine gewöhnliche Beschäftigung wird durch diesen Titel nicht erlaubt; beim Wohninvestitionsweg sind Beteiligungen an zyprischen Gesellschaften und eine unbezahlte Director-Funktion unter den beschriebenen Bedingungen möglich.</p><p>Die Antragsgebühr beträgt 500 EUR, zusätzlich 70 EUR je eingeschlossener Person, falls noch keine ARC-Registrierung besteht. Die Behörde nennt ungefähr zwei Monate ab vollständigem Antrag als Prüfungsabschätzung. Das Aufenthaltsrecht ist bei fortbestehenden Voraussetzungen unbefristet, die Karte für Erwachsene muss nach zehn Jahren ersetzt werden; die Kinderkarte gilt bis zur Volljährigkeit. Erste Wohnsitzaufnahme, Abwesenheiten, Erhalt der Investition und die laufenden Nachweise gehören dazu. Ein Kauf mit beantragtem Titel ist deshalb eine andere Entscheidung als eine sofort verfügbare Familienbasis.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/\" rel=\"noreferrer\">Migrationsbehörde: Investoren-Aufenthalt nach Regulation 6(2), einschließlich späterer Klarstellungen</a>.</p><div class=\"exb-country-table\" role=\"region\" tabindex=\"0\" aria-label=\"Drei Nutzungen von Zypern vergleichen\"><table><caption>Zypern: Rechte, Voraussetzungen und Ausführung nach deinem Vorhaben</caption><thead><tr><th scope=\"col\">Nutzung</th><th scope=\"col\">Vorhandene Rechte</th><th scope=\"col\">Was noch herzustellen ist</th><th scope=\"col\">Konkrete Ausführung</th></tr></thead><tbody><tr><th scope=\"row\">Krisenbasis mit Rückkehr</th><td>EU-/EWR-/Schweizer Rechte und passende Familienrechte zuerst nutzen. Britische Bestandsrechte gesondert belegen. Sonst tatsächliche Einreise und zulässigen Aufenthalt für jede Person bestimmen.</td><td>Für längeres Bleiben passende Registrierung oder erteilten Titel, Versicherung, verfügbare Mittel und rechtzeitig nutzbare Wohnung vorbereiten. Ein laufender Kauf-/Aufenthaltsantrag und die Zweijahresgrenze eines Investorenstatus ersetzen keine Ankunftsplanung.</td><td>EXOBASIS organisiert Personenakte, Unterkunft, Zahlung und Ankunftskette. Flug und Transfer werden mit Schlüsselübergabe und Versorgung verbunden; Rückkehrrechte und eine weitere erreichbare Option werden getrennt vorbereitet.</td></tr><tr><th scope=\"row\">Dauerhafte Familienzukunft</th><td>EU-/EWR-/Schweizer Staatsangehörige können ein passendes Erwerbs-/Selbstversorgerrecht nutzen, qualifizierte Angehörige ihr Familienrecht; britische Bestandsberechtigte ihre fortbestehenden Rechte. Ein vorhandenes Erwerbs-/Selbstversorgerrecht macht ein Investorenprogramm entbehrlich; bei Drittstaatsfällen müssen auch die Angehörigentitel passen.</td><td>Wohnadressnachweis, Schulaufnahme, Sprachweg, Krankenabsicherung und konkrete Behandlung herstellen. Bei Visitor oder Wohninvestition Einkommen, Mittelherkunft, Versicherung und Tätigkeitsgrenzen erfüllen.</td><td>Wir vergleichen Larnaca und Nicosia anhand eures Bedarfs, organisieren Schul-/Fachtermine und die Dokumentenarbeit und führen Miet- oder Kaufsuche, Fachprüfung und eingerichtete Ankunft zusammen.</td></tr><tr><th scope=\"row\">Mobiles Leben</th><td>EU-/EWR-/Schweizer Staatsangehörige und qualifizierte Angehörige nutzen ihre passenden Personen-/Familienrechte; britische Bestandsberechtigte ihr fortbestehendes Recht. Aufenthalts- und Arbeitstage müssen dazu passen. Ohne solchen Zugang ist ein eigener Drittstaatsweg erforderlich.</td><td>Für qualifizierte Drittstaats-Fernarbeit den Digital-Nomad-Titel beantragen statt eine Visitor-Erlaubnis vorauszusetzen; Angehörigenarbeit separat lösen. Präsenz, zulässige Tätigkeit, Titelgültigkeit, Steueransässigkeit und Absicherung aufeinander abstimmen. Bei 6(2) erste Niederlassung, dauerhaften Auslandsaufenthalt und Zweijahresabwesenheit berücksichtigen.</td><td>Wir organisieren passende Unterlagen und persönliche Termine, eine zum Rhythmus passende Wohnung und ihre Betreuung während der Abwesenheit. Zahlung und Wiederzugang werden vor dem nächsten Aufenthalt geprüft.</td></tr></tbody></table></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fzypern%2F#kurzanfrage\">Vorbereitung für Zypern anfragen</a><p>Nenne zunächst dein Vorhaben und die Arbeit, die wir übernehmen sollen. Persönliche Unterlagen folgen im vereinbarten geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/#kontaktbeginn\">Diskrete Anfrage</a></div>"
     },
     {
       "id": "regionen-wohnen",
       "title": "Regionen und Wohnen",
-      "body": "<p>Vergleiche konkrete Wohnlagen nach Alltag und Erreichbarkeit: Schule, Fachmedizin, Arbeitsplatz und verlässliche Versorgung müssen zur Unterkunft passen. Bei einem Kauf gehören Eigentum, Belastungen und die zuständige Rechtsordnung in eine unabhängige Objektprüfung. Die Organisationsaufgabe ist davon getrennt: geeignete Auswahl, vorbereitete Besichtigungen, Übergabe und ein funktionierender Haushalt bei Ankunft.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Ankunft im Zielland organisieren</a></p>"
+      "body": "<h3>Larnaca oder Nicosia: den Alltag vor dem Objekt wählen</h3><p><strong>Larnaca</strong> ist ein konkreter Suchraum für eine Familie, die Ankunft, internationale Schule und Bezirksversorgung zusammenführen will. Die American Academy bietet einen englischsprachigen Schulweg; ihr Aufnahmeverfahren und die Unterstützung für dein Kind gehören vor der Wohnentscheidung geklärt. Das Larnaca General Hospital nennt unter anderem Notaufnahme, Intensivmedizin, Dialyse und Physiotherapie. Besichtige Wohnungen entlang eurer wirklichen Wege statt nur nach Strandnähe. Prüfe auch, ob die Unterkunft bei verzögerter Weiterreise länger nutzbar bleibt und die nötige Versorgung von dort erreichbar ist. EXOBASIS stimmt im vereinbarten Ankunftsauftrag die Verlängerung oder Ersatzunterkunft mit den zuständigen Anbietern ab; lässt sich euer Bedarf vor Ort nicht decken, gehört eine andere tatsächlich erreichbare Option in die Entscheidung.</p><p><strong>Nicosia</strong> gehört besonders dann in den Vergleich, wenn spezialisierte Medizin wichtig ist. Das General Hospital weist unter anderem Neurologie, Onkologie, Transplantation und diagnostische Bildgebung aus. The English School bietet einen eigenständigen englischsprachigen Bildungsweg mit Aufnahmeverfahren. Vergleiche den passenden Schulstandort, die zuständige Klinik und den Flughafenweg gemeinsam. Ein Ort mit mehr Fachangebot kann für euren Bedarf sinnvoller sein als eine Küstenwohnung.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.academy.ac.cy/wp-content/uploads/2026/06/Admissions-Policy-and-Procedures_Website.pdf\" rel=\"noreferrer\">American Academy Larnaca: Aufnahmebedingungen</a>; <a href=\"https://www.shso.org.cy/en/patient-and-visitor/geniko-nosokomeio-lefkosias/\" rel=\"noreferrer\">Nicosia General Hospital: Patienteninformation</a>.</p><h3>Erkundung und Miete</h3><p>Eine möblierte erste Unterkunft lässt euch Schule, Wohnlagen und medizinische Wege testen. Für die längere Miete klärst du Eigentümer beziehungsweise Vertretungsbefugnis, genaue Wohnung, erlaubte Nutzung, Laufzeit, Kündigung und Verlängerung. Kaution und Rückzahlung, Inventar, Reparaturen, Gemeinschaftskosten sowie Strom, Wasser und Klimatisierung gehören schriftlich vereinbart. Der Adressnachweis muss für Aufenthaltsverfahren und Schulbezirk passen.</p><p>Seit 1. Juli 2026 werden zyprische Mieten per Überweisung, Debit-/Kreditkarte oder anderem anerkannten elektronischen Zahlungsmittel bezahlt. Stimme Empfänger, Zahlungsreferenz und Belege vor dem Einzug ab. Eine hohe Barreserve allein löst diese Mietaufgabe nicht. Beim Einzug dokumentierst du Zustand, Inventar, Zählerstände, Schlüssel und Versorgerwechsel.</p><h3>Kaufen: erst Berechtigung und Objekt, dann Bindung und Zahlung</h3><p>EU-/EWR-Staatsangehörige sind im Erwerbsgesetz Kap. 109 vom dortigen Ausländerbegriff ausgenommen. Die aufenthaltsrechtliche Begünstigung von Schweizern ist keine gleichlautende Erwerbsausnahme. Für nicht ausgenommene Käufer wird die Genehmigung nach Person, Objekt und Zweck zugeordnet. Das Innenministerium beschreibt etwa bis zu zwei Einheiten für eine Person beziehungsweise ein Ehepaar insgesamt; daraus folgt kein allgemeiner Anspruch, beliebige Wohnungen oder Grundstücke zu erwerben.</p><p>Beim Grundstück für eine selbstgenutzte Wohnung nennt die aktuelle Verfahrensseite bis zu 4.000 m². Das Gesetz enthält eine zusätzliche Bedingungsschwelle oberhalb von zwei skales, vom DLS mit 2.676 m² wiedergegeben; die Verordnung nennt für den Eigentümerwohnzweck bis drei skales beziehungsweise 4.014 m². Das sind unterschiedliche Regelungsebenen. Für ein Grundstück zwischen 4.001 und 4.014 m² lässt du die konkrete Genehmigungsfähigkeit vor einer Bindung durch die zuständige Stelle klären.</p><ol><li><strong>Unabhängige Prüfung beauftragen.</strong> Eigentümer, Verfügungsrecht, Titel, Belastungen, Verbote, Lage, Genehmigungen und tatsächlichen Bauzustand prüfen lassen. Ein erforderlicher Erwerbsantrag COMM145 geht an die zuständige District Administration.</li><li><strong>Vertrag und Belastungsstand verbinden.</strong> Für seit 12. Dezember 2023 geschlossene Kaufverträge ist ein Search Certificate innerhalb des Fünf-Arbeitstage-Fensters um den Vertragsabschluss beizufügen. Lass den Stand vor Unterschrift und Zahlung prüfen. Bei späterer Eigentumsübertragung wird der schriftliche Vertrag grundsätzlich binnen sechs Monaten beim District Lands Office deponiert.</li><li><strong>Eine bestehende Hypothek sauber freigeben.</strong> Im passenden Form-A-Verfahren vereinbaren Kreditgeber, Verkäufer und Käufer Freigabebetrag und Verkäuferkonto. Nach der entsprechenden Zahlung stellt der Kreditgeber Form B aus und gibt die Hypothek frei. Form C bedeutet Deponierung ohne Form A und ist kein gleichwertiger Ersatzschutz. Weitere Belastungen können dieses besondere Verfahren ausschließen.</li><li><strong>Zahlung und Registertransfer abschließen.</strong> Zahlungen folgen den geprüften Vertrags- und Freigabebedingungen. Für den DLS-Transfer werden unter anderem die Steuerfreigabe N313 und die einschlägigen kommunalen, Wasser- und Abwasserfreigaben, Ausweise beziehungsweise Vertretungsunterlagen und Gebühren zusammengeführt.</li><li><strong>Besitz tatsächlich übernehmen.</strong> Schlüssel, Zustand, Mängelliste, Zähler und Versorger werden gesondert übergeben. Schlüsselbesitz und registriertes Eigentum sind verschiedene Abschlussnachweise.</li></ol><p class=\"exb-citation\">Quellen: <a href=\"https://cylaw.org/nomoi/enop/non-ind/0_109/full.html\" rel=\"noreferrer\">Kap. 109: Erwerbsgesetz</a>; <a href=\"https://cylaw.org/nomoi/enop/non-ind/0_109/full.html\" rel=\"noreferrer\">Kap. 109: Flächen- und Zweckschwelle</a>; <a href=\"https://www.gov.cy/moi/en/documents/purchasing-property/\" rel=\"noreferrer\">Innenministerium: Erwerbsverfahren</a>; <a href=\"https://portal.dls.moi.gov.cy/en/application_forms/symvasis-polisis-antiparochis-antallagis/\" rel=\"noreferrer\">DLS: Kaufvertragsdeponierung</a>; <a href=\"https://portal.dls.moi.gov.cy/en/application_forms/symvasis-polisis-antiparochis-antallagis/\" rel=\"noreferrer\">DLS: Hypothekenfreigabe</a>; <a href=\"https://portal.dls.moi.gov.cy/en/application_forms/polisi-antallagi/\" rel=\"noreferrer\">DLS: Eigentumsübertragung</a>.</p><h3>Kaufbudget: VAT, Transfer und Fachkosten auseinanderhalten</h3><p>Bei einer VAT-pflichtigen Transaktion gilt grundsätzlich 19 Prozent. Die 5-Prozent-Begünstigung betrifft einen Haupt- und Dauerwohnsitz, nicht automatisch eine Ferien- oder Krisenwohnung und nicht allein ein 300.000-EUR-Investment. Die aktuelle Grundregel begünstigt die ersten 130 m² bis zu einem begünstigten Wert von 350.000 EUR, sofern Gesamtwert und Gesamtfläche 475.000 EUR beziehungsweise 190 m² nicht überschreiten. Für ältere Planungsfälle unterscheidet die Mitteilung der Steuerbehörde vom 4. Mai 2026 zwei Zeitgrenzen: Wurde die Planungsgenehmigung bis 31. Oktober 2023 beantragt oder erteilt und die Baugenehmigung erst nach dem 1. Januar 2025 ausgestellt oder bleibt sie bis 31. Dezember 2026 aus, kann die Behörde wegen Planungsverzögerungen nicht rechtzeitig abgeschlossene Anträge bis 31. Dezember 2026 prüfen. Das ist eine behördliche Prüfgrenze, keine allgemeine Einreichungsfrist. Bei bis 31. Oktober 2023 beantragter Planung und bereits bis 31. Dezember 2024 erteilter Baugenehmigung mussten die Erklärungen für die frühere Begünstigung der ersten 200 m² dagegen bis 15. Juni 2026 eingereicht werden. Die Einreichung erfolgt ausschließlich über Tax For All (TFA). Weitere Sonderfälle werden gesondert zugeordnet; die Nutzung wird innerhalb des Zehnjahreszeitraums kontrolliert.</p><p>Wo dieselbe Transaktion VAT trägt und der Nachweis vorliegt, fällt keine DLS-Transfergebühr an. Andernfalls gilt grundsätzlich die um 50 Prozent reduzierte Staffel aus 3 Prozent bis 85.000 EUR, 5 Prozent für den nächsten Anteil bis 170.000 EUR und 8 Prozent darüber; Sonderfälle werden am Objekt geprüft. Für die Vertragsdeponierung fallen 50 EUR an. Die Stempelsteuer wurde zum 1. Januar 2026 aufgehoben. Hat jedoch mindestens eine Partei bereits davor unterschrieben, bleibt die Stempelung nach der Übergangsregel relevant.</p><p>Plane unabhängige Rechts- und Bauprüfung, Finanzierung, gegebenenfalls Vermittlung und die laufenden Objektkosten zusätzlich ein. EXOBASIS organisiert Suche, Besichtigungen, Fachaufträge, Vertragsfolge und Übergabe. Mit <a href=\"/de/leistungen/ankunft-organisieren/\">Ankunft im Zielland organisieren</a> verbinden wir daraus eine bezugsfertige Unterkunft mit Transfer und ersten Alltagsanschlüssen.</p><p class=\"exb-citation\">Quellen: <a href=\"http://www.cylaw.org/nomoi/enop/non-ind/2000_1_95/full.html\" rel=\"noreferrer\">VAT-Gesetz: Wohnbegünstigung</a>; <a href=\"https://www.gov.cy/oikonomia/exetasi-ypefthynon-diloseon-gia-tin-epivoli-meiomenou-syntelesti-fpa-5-gia-tin-agora-i-anegersi-katoikias-apo-ton-eforo-forologias-mechri-31-dekemvriou-2026/\" rel=\"noreferrer\">Steuerbehörde: Übergang für bestimmte Bau-/Planungsfälle 2026</a>; <a href=\"https://portal.dls.moi.gov.cy/en/application_forms/polisi-antallagi/\" rel=\"noreferrer\">DLS: Transfergebühren</a>; <a href=\"https://www.cylaw.org/nomoi/arith/2025_1_239.pdf\" rel=\"noreferrer\">N.239(I)/2025: Aufhebung der Stempelsteuer</a>; <a href=\"https://www.gov.cy/oikonomia/ypochreotiki-katavoli-enoikiou-me-ilektronika-mesa-pliromis-apo-tin-1i-iouliou-2026/\" rel=\"noreferrer\">Steuerbehörde: elektronische Mietzahlungen</a>.</p>"
     },
     {
       "id": "schule-gesundheit-pflege",
       "title": "Schule, Gesundheit und Pflege",
-      "body": "<h3>Kinder und Angehörige</h3><p>Schulplätze, Sprache und Betreuungszeiten müssen zur Wohnlage passen. Die Berechtigung einzelner Angehöriger wird nicht aus dem Titel des Hauptantragstellers geraten. Eine Schuladresse ohne bestätigte Aufnahme und passenden Weg von der Wohnung hilft der Familie nicht. Für Behandlung und Pflege prüfen wir erreichbare Einrichtungen, Versicherungsbedingungen und individuelle Aufnahme. Inselversorgung und die tatsächliche Wohnlage gehören dabei zusammen, nicht in eine abstrakte Lebensqualitätswertung.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a></p><h3>Versicherung und Behandlung</h3><p>Kläre Leistungsdeckung und konkrete Behandlungsmöglichkeiten am Ort getrennt.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a></p><h3>Pflege und Begleitung</h3><p>Medikamente, regelmäßige Hilfe und bei Bedarf weitere medizinische Wege gehören vor dem Umzug in den Ablauf.</p>"
+      "body": "<h3>Kinder und Angehörige</h3><p>Öffentliche Primarschulen nehmen Anmeldungen von in Zypern lebenden Kindern unabhängig von ihrer Staatsangehörigkeit und der Aufenthaltslegalität der Eltern entgegen. Regulärer Schulbeginn ist mit sechs Jahren vor dem 1. September. Die Anmeldung erfolgt normalerweise im Januar nach Wohn-Schulbezirk; späte Anmeldungen und Wechsel laufen über das District Education Office und die verfügbaren Plätze. Bereite Geburts-/Identitätsnachweis, Wohnbelege und Impfunterlagen vor. Bei einer Mietwohnung können Mietvertrag und Stromrechnung den Wohnnachweis tragen. Die Anmeldung wird gewöhnlich im April bestätigt.</p><p>Ein öffentlicher Schulplatz bedeutet keinen englischsprachigen Unterricht. Bei der American Academy Larnaca gehören für internationale Bewerber in Senior Year 1 Englisch und Mathematik zur Aufnahmeprüfung. Andere Jahrgänge hängen von Platz, Unterlagen und Einstufung ab; Lern- oder Gesundheitsbedarf muss mit der Schule tragfähig vereinbart werden. The English School in Nicosia hat ebenfalls ein Auswahlverfahren und begrenzte Aufnahme während des Bildungsgangs. Ein Wohnungskauf sichert keinen Platz.</p><p>Für getrennte Ankunft, Zustimmung zum Umzug und die Rechte jedes Kindes vertieft <a href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a> den Familienablauf. Wir organisieren auf Auftrag die Anfragen, Unterlagen, Schultermine und ihre Verbindung zur Wohnung.</p><p class=\"exb-citation\">Quellen: <a href=\"http://moec.gov.cy/dde/en/infoserv_primary_registrations.html\" rel=\"noreferrer\">Bildungsministerium: Primarschulanmeldung</a>; <a href=\"https://www.academy.ac.cy/wp-content/uploads/2026/06/Admissions-Policy-and-Procedures_Website.pdf\" rel=\"noreferrer\">American Academy Larnaca: Aufnahmeverfahren</a>.</p><h3>GESY, Versicherung und konkrete Behandlung</h3><p>GESY setzt gewöhnlichen Aufenthalt im von der Republik kontrollierten Gebiet und eine berechtigte Kategorie voraus. Für EU-Bürger zählen beispielsweise tatsächliche Arbeit oder der einschlägige Daueraufenthaltsstatus; Familien- und S1-Konstellationen werden gesondert zugeordnet. Bei Drittstaatsangehörigen sind Daueraufenthalt oder ein gesetzliches Gleichbehandlungsrecht maßgeblich. Eine Ferienwohnung, MEU1 oder eine Visitor-/Nomad-Karte allein begründet keinen Anspruch. Auch ein gezahlter GHS-Beitrag ist keine Einschreibung.</p><p>Nach geklärter Berechtigung folgen Registrierung, persönlicher Arzt, Überweisung und Termin bei der benötigten Einrichtung. Ein S1-Weg setzt das tatsächlich vorhandene zuständige Dokument voraus. Die Krankenversicherung wird bis zum bestätigten Anschluss und für nicht gedeckte Aufgaben passend gehalten. Vergleiche dafür <a href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a>: Deckung, Vorerkrankungen, private Behandlung und Transport sind eigene Fragen.</p><p>GESY ist nicht vollständig zuzahlungsfrei. Die HIO nennt beispielsweise 1 EUR je Medikament sowie 1 EUR je Labortest oder Testgruppe, höchstens 10 EUR je Laborkategorie, und 10 EUR für Radiologie oder Notaufnahme. Die regulären jährlichen Zuzahlungsgrenzen betragen 150 EUR beziehungsweise 75 EUR für bestimmte geschützte Gruppen. Gesonderte Kosten wie der Direktzugang zum ambulanten Spezialisten ohne Überweisung oder nicht gedeckte private Leistungen fallen nicht pauschal unter diese Grenze.</p><p>Für geplante Behandlung in Larnaca klärst du Termin und gegebenenfalls Überweisung. Für eine stationäre Aufnahme in Nicosia gehören ärztliche Einweisung, Registrierung, Befunde und Medikamentenliste zusammen. Die konkrete Fachabteilung und tatsächliche Aufnahme zählen mehr als die Entfernung zum nächsten Krankenhaus.</p><h3>Pflege und regelmäßige Unterstützung</h3><p>Bei einem pflegebedürftigen Angehörigen beschreibst du den täglichen Bedarf: Hilfe, Medikamente, Hilfsmittel, Mobilität und Unterstützung nachts. PASYKAF bietet diagnosebezogene häusliche unterstützende und palliative Versorgung für Menschen mit Krebs nach Bedarfsabklärung und ärztlicher Überweisung. Das ist ein konkreter möglicher Anschluss, aber keine allgemeine 24-Stunden-Altenpflege.</p><p>Aufnahme, täglicher Umfang, Sprache und Finanzierung müssen vor der Abreise feststehen. <a href=\"/de/wissen/familie-alltag/pflege-medikamente/\">Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug</a> verbindet die bisherige Betreuung mit der Übernahme am Ziel. EXOBASIS organisiert die entsprechenden Fachkontakte, Unterlagen, Termine, Wohnanforderungen und die vereinbarte Übergabe. Lass das Behandlungsteam vor einem Weitertransport die Transportfähigkeit klären und mit dem übernehmenden Dienst vereinbaren, wie Medikamente, Behandlung und tägliche Hilfe bei Verzögerungen überbrückt werden. EXOBASIS verbindet die abgestimmten Termine und Unterkunft mit dieser Übernahme; reicht die örtliche Versorgung nicht aus, wird mit den Fachverantwortlichen eine erreichbare Alternative geklärt.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility\" rel=\"noreferrer\">HIO: GESY-Berechtigung</a>; <a href=\"https://www.gesy.org.cy/en-us/hiofinancing\" rel=\"noreferrer\">HIO: Finanzierung und Zuzahlungen</a>; <a href=\"https://pasykaf.org/en/supportive-home-palliative-care/\" rel=\"noreferrer\">PASYKAF: häusliche unterstützende und palliative Versorgung</a>.</p>"
     },
     {
       "id": "einkommen-geld-arbeit",
       "title": "Einkommen, Geld und Arbeitsplatz",
-      "body": "<p>Trenne Unternehmensstruktur, persönliche Tätigkeit, Steuerpflichten und die Zahlungen des Haushalts. Ein wirtschaftlicher Vorteil kann neben zusätzlichen Anforderungen an tatsächliche Leitung, Nachweise oder Verwaltung stehen. Diese Fragen brauchen passende Fachzuständigkeit. Organisatorisch muss sichergestellt sein, dass Miete, Schule und Versorgung bezahlt werden können und dein laufendes Einkommen während des Standortwechsels erreichbar bleibt. Unternehmensstandort, persönliche Erwerbstätigkeit und verfügbare Haushaltsmittel werden getrennt kalkuliert. Ob eine Gesellschaft ihren tatsächlichen Leitungspflichten entspricht und welche Steuern anfallen, gehört in den jeweiligen Fachauftrag. Weder eine zyprische Aufenthaltsgenehmigung noch eine Firmenadresse bestimmt allein deine Steueransässigkeit.</p>"
+      "body": "<h3>Miete und Versorgung schon vor der Ankunft bezahlen können</h3><p>Plane laufende Haushaltseingänge und fällige Zahlungen getrennt vom Kaufkapital. Seit Juli 2026 muss die Miete elektronisch bezahlt werden. Kläre daher vor dem Einzug Kontoinhaber, akzeptierten Zahlweg, Empfänger, Währung, Limits und verfügbare Mittel. Eine Testzahlung zeigt, ob der vorgesehene Weg funktioniert. Ein bestimmtes zyprisches Bankprodukt wird durch die Mietregel nicht vorgeschrieben; ein Aufenthaltsverfahren kann eigene lokale Nachweise verlangen.</p><p>Bei Debanking, Kontokündigung oder einer Sperre laufen zwei Aufgaben nebeneinander: den tatsächlichen Grund und den zulässigen Klärungsweg bearbeiten und Miete, Schule und Medikamente aus rechtmäßig verfügbaren Mitteln weiterbezahlen. Eine zweite Karte am selben Konto und Telefon beseitigt die gemeinsamen Abhängigkeiten nicht. Bankannahme, Aktivierung und angenommene Vertretung werden für dein konkretes Konto bestätigt.</p><p><a href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Kontozugang und Zahlungsfähigkeit im Ausland</a> erklärt diese Unterschiede. Mit <a href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität vorbereiten</a> organisieren wir geeignete Kontoanfragen, Mittelherkunft, Zahlungseinrichtung und den vereinbarten Zugriffstest. Haushaltskonto, Firmenbank und betrieblicher Zahlungsverkehr bleiben getrennte Aufgaben.</p><h3>Steueransässigkeit, Tätigkeit und Gesellschaft nicht vermischen</h3><p>Persönliche Steueransässigkeit entsteht nach der 183-Tage-Regel bei mehr als 183 Tagen im Steuerjahr. Der alternative 60-Tage-Weg verlangt kumulativ mindestens 60 Tage in Zypern, nicht mehr als 183 Tage in einem anderen Staat, eine zyprische Geschäftstätigkeit, Beschäftigung oder ein Amt bei einer zyprischen steueransässigen Person sowie eine dauerhaft verfügbare eigene oder gemietete Wohnung. Wird die betreffende Tätigkeit, Beschäftigung oder das Amt im Jahr beendet, ist diese Bedingung nicht erfüllt. Die Neufassung ab 2026 enthält nicht mehr den früheren pauschalen Ausschluss einer Steueransässigkeit anderswo. Andere Steueransprüche und ein möglicher Abkommenskonflikt bleiben trotzdem zu lösen.</p><p>Non-Dom betrifft die Special Defence Contribution, nicht sämtliche Steuern. Herkunfts- und Wahldomizil sowie die gesetzliche 17-aus-20-Jahren-Zurechnung sind eigene Kriterien. Seit 2026 entfällt SDC auf Miete; mögliche Einkommensteuer und GHS entfallen dadurch nicht. GHS-Beiträge sind wiederum von der GESY-Leistungsberechtigung getrennt: Für Arbeitnehmer und bestimmte Einkommensempfänger nennt die HIO 2,65 Prozent, für Selbstständige 4 Prozent, mit einer persönlichen jährlichen Beitragsgrundlage bis 180.000 EUR. Die tatsächliche Beitragskategorie und einschlägige Koordinierung bestimmen den Fall.</p><p>Der reguläre zyprische Körperschaftsteuersatz beträgt seit 1. Januar 2026 15 Prozent. Das ist kein Gesamtsteuersatz für Unternehmer und Ausschüttungen. Die tatsächliche Gesellschaftsleitung, deine persönliche Arbeit und Herkunftspflichten werden eigenständig zugeordnet. So bleibt ein sinnvoller Unternehmensstandort eine konkrete Fachaufgabe und wird nicht mit Steuerfreiheit oder einer fertigen Familienbasis verwechselt.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.gov.cy/oikonomia/ypochreotiki-katavoli-enoikiou-me-ilektronika-mesa-pliromis-apo-tin-1i-iouliou-2026/\" rel=\"noreferrer\">Steuerbehörde: elektronische Miete</a>; <a href=\"https://www.cylaw.org/nomoi/arith/2025_1_244.pdf\" rel=\"noreferrer\">N.244(I)/2025: Steuerreform ab 2026</a>; <a href=\"https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/\" rel=\"noreferrer\">Steuerbehörde: Ansässigkeit und domicile</a>; <a href=\"https://www.gesy.org.cy/en-us/hiofinancing\" rel=\"noreferrer\">HIO: GHS-Beiträge</a>.</p>"
     },
     {
       "id": "dokumente-vorlauf",
       "title": "Dokumente und Vorlauf",
-      "body": "<p>Wähle zuerst den konkreten Aufenthaltsgrund. Danach lassen sich persönliche Nachweise, Familienunterlagen, Versicherungs- und gegebenenfalls Investitionsdokumente zielgerichtet beschaffen. Bestätige die akzeptierte Fassung und die nötige Anwesenheit, bevor du Reisen und Termine verbindlich verknüpfst. Objektprüfung, Antrag und eingerichtete Ankunft erhalten eigene Nachweise. Keiner dieser Schritte ersetzt die Entscheidung der zuständigen Stelle. Wir beginnen mit der persönlichen EU-Berechtigung oder dem konkret passenden Drittstaatsweg und ordnen danach Familien-, Versicherungs- und gegebenenfalls Investitionsnachweise. Ein Immobilienvertrag wird erst nach Prüfung von Eigentum, Belastungen und zuständigem Recht als Teil dieses Wegs behandelt. Reise und persönliche Termine folgen den behördlichen Anforderungen.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a></p>"
+      "body": "<ol><li><strong>Personen und Rechtsweg festlegen.</strong> Gültige Pässe, vorhandene Rechte, Wohnsitz, Tätigkeit und beabsichtigte Aufenthaltsdauer je Person zusammenführen. EU-/Familienregistrierung, Visitor, Nomad und Investorenantrag haben verschiedene Unterlagen und Fristen.</li><li><strong>Familiennachweise verwendbar machen.</strong> Geburt, Ehe, Namensänderungen, Sorge und erforderliche Zustimmung mit den tatsächlichen Beteiligten abgleichen. Für einen 6(2)-Antrag mit minderjährigen Kindern ohne beide Eltern akzeptiert die Behörde die betreffende Zustimmung zur dauerhaften Niederlassung nur mit Unterschrift vor einem zyprischen Konsularbeamten.</li><li><strong>Mittel, Wohnung und Versicherung verbinden.</strong> Einkommensbelege und Geldherkunft müssen zur jeweiligen Aufenthaltskategorie passen. Der Visitor-Fall braucht die verlangten zyprischen Finanznachweise; beim Wohninvestment werden Auslandszahlung, Vertrag und Deponierung dokumentiert. Bankfreigabe, Hypothekenfreigabe und Aufenthaltsentscheidung sind verschiedene Vorgänge.</li><li><strong>Form und Termine vorbereiten.</strong> Erforderliche Übersetzungen, Beglaubigungen, medizinische Nachweise und Strafregister rechtzeitig beschaffen. Beim Visitor-Antrag vor Visumsablauf, beim Nomadenweg innerhalb drei Monaten und bei MEU1/MEU2 innerhalb vier Monaten nach Einreise handeln. Persönliche Anwesenheit und Biometrie in die Reise einplanen.</li><li><strong>Ankunft mit einem nutzbaren Aktenstand verbinden.</strong> Originale, Einreichungsbelege, vorhandene Entscheidungen, nächste Termine und die für Wohnung, Schule und Behandlung nötigen Kopien geordnet übergeben. Für die Familie muss klar sein, wer auf welche Unterlage zugreifen darf.</li></ol><p>Die Behörde nennt für vollständige Visitor-Anträge gewöhnlich einen Prüfzeitraum unter vier Monaten, für Digital Nomads fünf bis sieben Wochen und beim beschriebenen Investorenweg ungefähr zwei Monate. Diese Bearbeitungsschätzungen sind kein Einzugstermin. Reise, bereits gesicherter Aufenthalt und Schulbeginn werden so abgestimmt, dass eine ausstehende Entscheidung nicht den gesamten Haushalt blockiert.</p><p>Mit <a href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a> übernehmen wir die vereinbarte Beschaffung, Fachabstimmung, Terminorganisation und Nachverfolgung. Du erhältst die Unterlagen und den tatsächlichen Verfahrensstand mit den nächsten Fristen.</p>"
     },
     {
       "id": "laufende-pflichten",
       "title": "Laufende Pflichten",
-      "body": "<p>Pflege Aufenthaltsnachweise, gegebenenfalls fortbestehende Investitionsbedingungen und die tatsächliche Unterkunft getrennt. Halte fest, welche Änderungen der Familie, Tätigkeit oder Vermögenssituation eine erneute Prüfung auslösen. Eine zweite Basis braucht laufende Betreuung auch dann, wenn sie gerade nicht genutzt wird. Dazu gehören erreichbare Kontakte, Rechnungen, Haustechnik und bestätigte Vorbereitung vor dem nächsten Aufenthalt. Bei einem Investorenweg können fortbestehende Bedingungen zu prüfen sein; bei EU-Rechten ändern Familien- oder Erwerbsverhältnisse die erforderlichen Nachweise. Für die zeitweise Basis bleiben Unterkunft und Inselzugang einsatzfähig zu halten. Die Rückkehr in das bisherige Land verlangt eine eigene Prüfung von Wohnung, Arbeit und Steuern.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a></p>"
+      "body": "<p>Eine vorbereitete Basis braucht Pflege, auch wenn du sie gerade nicht nutzt. Lege für Titel, Versicherung, Wohnung und Geldzugriff fest, wer Änderungen verfolgt und bis wann gehandelt werden muss. Geburt, Trennung, neuer Pass, andere Arbeit oder veränderter Pflegebedarf können mehrere Teile gleichzeitig betreffen.</p><p>Beim Investorenweg bleibt der jährliche Nachweis des fortbestehenden Investments erforderlich. Bei fehlendem fortbestehendem GESY-Anschluss wird der Krankenversicherungsnachweis weitergeführt. Antragsteller und erwachsene Angehörige legen nach der späteren Klarstellung alle drei Jahre ein sauberes Strafregister aus Herkunfts- und Wohnsitzland vor; der jährliche Einkommensnachweis wurde aufgehoben. Eine Veräußerung ohne unmittelbaren passenden Ersatz kann den Titel gefährden. Hinzu kommen erste Niederlassung, Abwesenheitsgrenze und Kartentausch.</p><p>Visitor-Verlängerungen benötigen erneut passende Mittel, Versicherung und die übrigen Nachweise. Beim Nomadenweg wird mindestens einen Monat vor Ablauf eingereicht. Bei einer MEU2-Familienkarte sind längere Abwesenheiten gesondert zu berücksichtigen; vorübergehende Abwesenheiten bis sechs Monate im Jahr und benannte Ausnahmen erhalten die Karte.</p><p>Für die Unterkunft vereinbarst du Schlüsselverwaltung, Kontrollen, Wartung, zulässige Reparaturausgaben und die Vorbereitung vor einer Ankunft. Rechnungen und elektronische Mietzahlungen müssen auch bei Telefonverlust funktionieren. Prüfe den vom Institut zugelassenen Wiederzugang und die tatsächlich eingerichtete Befugnis eines Vertreters. Eine private Vollmacht allein belegt noch keine Bankannahme. Im vereinbarten Betreuungsauftrag prüft die benannte verantwortliche Person bei EXOBASIS vor der nächsten Reise oder bei gemeldeten Änderungen an Verbindungen oder Versorgungsbedarf Anreise, Weiterweg und erreichbare Behandlung erneut mit den zuständigen Anbietern. Du erhältst den festgestellten Stand, die örtliche Überbrückung und die nötige Entscheidung für eine andere erreichbare Option, falls Reiseweg oder Versorgung nicht mehr passen.</p><p>Mit <a href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a> übernehmen wir den benannten Bestand, vereinbarte Kontrollen und die dazugehörigen Erledigungen. Du erhältst den festgestellten Zustand, erledigte Arbeiten und die nächste notwendige Entscheidung.</p><p class=\"exb-citation\">Quellen: <a href=\"https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/\" rel=\"noreferrer\">Migrationsbehörde: Fortbestand und aktualisierte Monitoringregeln</a>.</p>"
     },
     {
       "id": "konkrete-vorbereitung",
       "title": "Konkrete Vorbereitung",
-      "body": "<p>EXOBASIS kann deinen zyprischen Standortvergleich und die anschließende Vorbereitung organisatorisch führen. Wir verbinden Dokumentenarbeit, Fachtermine, Wohnraumauswahl und Ankunft mit deinen familiären und wirtschaftlichen Anforderungen. Juristische und steuerliche Entscheidungen bleiben klar zugeordnet. Du beauftragst die konkrete Arbeit, die dir fehlt, nicht automatisch ein Unternehmen, einen Immobilienkauf oder eine vollständige Auswanderung.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen</a></p><h3>Passende Vergleichsoptionen</h3><div class=\"exb-country-related\"><article><a class=\"exb-text-link\" href=\"/de/laender/griechenland/\">Griechenland als persönliche Ausweichoption</a><p>Griechenland erweitert den Vergleich um Festlands- und Inselstandorte mit eigenen Aufenthalts- und Objektbedingungen.</p></article><article><a class=\"exb-text-link\" href=\"/de/laender/malta/\">Malta als persönliche Ausweichoption</a><p>Malta stellt andere Anforderungen an Wohnraum, Kostenbestandteile und Familienversorgung auf einer kleinen Insel.</p></article></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fzypern%2F#kurzanfrage\">Vorbereitung für Zypern anfragen</a><p>Eine konkrete Teilaufgabe ist direkt anfragbar. Persönliche Unterlagen folgen erst im vereinbarten geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+      "body": "<p>Du kannst EXOBASIS mit dem fehlenden Teil deiner Zypern-Vorbereitung beauftragen: einem begründeten Ortsvergleich, der Aufenthaltsakte, der Miet- oder Kaufsuche, dem Geldzugang oder einer eingerichteten Ankunft. Soll die gesamte Familie vorbereitet werden, führen wir diese Aufgaben zusammen und organisieren die erforderlichen Fachleistungen.</p><p>Das Ergebnis folgt deinem Auftrag: eine begründete Standortentscheidung, erledigte Dokumentenarbeit mit nachvollziehbarem Verfahrensstand, eine geprüfte Wohnlösung mit Übergabe oder eine betreute Basis mit klaren Zuständigkeiten und dem vereinbart erneut geprüften Reise- und Versorgungsstand samt Überbrückung und nötiger Ausweichentscheidung. Eigene Leistungen, örtliche Fachkosten, Reisen und gebundenes Kapital werden im Angebot getrennt. Eine vorgelagerte Beratung ist kein Pflichtkauf für einen bereits klaren Umsetzungsauftrag.</p><h3>Individueller Ländervergleich</h3><p>Wenn Zypern noch nicht feststeht, verbindet <a href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen</a> eure Rechte, Versorgung, Erreichbarkeit und Kosten mit konkreten Orten. Zwei passende Vergleichsfragen sind:</p><div class=\"exb-country-related\"><article><h3><a href=\"/de/laender/griechenland/\">Griechenland als persönliche Ausweichoption</a></h3><p>Griechenland erweitert die Wahl um Festlandsstandorte wie Athen oder Thessaloniki und eigene Inseloptionen. Das ist relevant, wenn du europäische Familienrechte nutzen, aber Wohn- und Reisewege nicht ausschließlich von einer Insel aus organisieren möchtest. EU-/EWR-/Schweizer Rechte und ein gesonderter Drittstaats-Investorenweg bleiben verschiedene Zugänge; die konkrete Region entscheidet über Schule und Behandlung.</p></article><article><h3><a href=\"/de/laender/malta/\">Malta als persönliche Ausweichoption</a></h3><p>Malta gehört in den Vergleich, wenn ein englischsprachiger Alltag und ein anderer kompakter europäischer Inselstandort wichtig sind. Prüfe Wohnlage, Versorgung und das Zusammenspiel von Malta und Gozo. Für bereits Berechtigte stehen vorhandene Personenrechte vor einem MPRP-Antrag; dessen Immobilien-, Vermögens- und Kostenbedingungen sind ein eigenständiger Drittstaatsweg, kein Gegenstück zu jedem zyprischen Haushalt.</p></article></div><p>Steht die Aufgabe fest, frage sie direkt an. Wenn du erst einordnen möchtest, welche Unterstützung du brauchst, ist die kostenlose 20-Minuten-Orientierung über den allgemeinen Kontaktweg eine nachgeordnete Möglichkeit.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fzypern%2F#kurzanfrage\">Vorbereitung für Zypern anfragen</a><p>Nenne zunächst dein Vorhaben und die Arbeit, die wir übernehmen sollen. Persönliche Unterlagen folgen im vereinbarten geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/#kontaktbeginn\">Diskrete Anfrage</a></div>"
     }
   ],
   "faq": {
     "question": "Reicht eine Gesellschaft auf Zypern als vorbereitete Familienbasis?",
-    "answer": "Nein. Gesellschaft, persönliche Aufenthaltsrechte, zulässige Tätigkeit und tatsächliche Unterkunft sind getrennte Voraussetzungen. Sie werden erst im persönlichen Plan zusammengeführt."
-  }
+    "answer": "Nein. Du brauchst zusätzlich den passenden Aufenthalts- und Tätigkeitsgrund für jede Person, eine nutzbare Wohnung, Schulaufnahme, Krankenabsicherung und konkrete Versorgung. Unternehmensleitung und Steuerfragen werden mitgeplant, ersetzen aber weder den Familienalltag noch eine erreichbare Ankunft im Krisenszenario."
+  },
+  "displayTitle": "Zypern als zweite Basis oder neues Zuhause"
 }

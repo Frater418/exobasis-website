@@ -59,6 +59,7 @@ export function resolveHTML(html,from,built,{mode='preview'}={}) {
     // Keep existing copy; use the target's approved draft description only where no help text exists.
     if (descriptions[base]&&!/data-link-description=|exb6-flag|exb-logo/.test(updated)) updated+=` data-link-description="${e(descriptions[base])}"`;
     if (base!=='/'&&!built.has(base)) {
+      if(mode==='production')throw new Error(`RELEASE_REQUIRED_TARGET: ${from} -> ${target}`);
       let a=updated.replace(/\s?href="[^"]*"/,'').replace(/\saria-current="[^"]*"/,'');
       a=a.replace(/class="([^"]*)"/,(m,c)=>`class="${c} exb-pending"`);
       if(!/class=/.test(a))a+=' class="exb-pending"';

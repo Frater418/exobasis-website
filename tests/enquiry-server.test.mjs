@@ -4,6 +4,7 @@ import { SMTPServer } from 'smtp-server';
 import nodemailer from 'nodemailer';
 import { routeIndex,loadJSON } from '../src/lib/site.mjs';
 import { createEnquiryServer, readEnquiryConfig } from '../src/server/enquiry.mjs';
+import { assertContactRecipient } from '../src/lib/contact.mjs';
 
 // Every address is an explicit local test fixture. No external mail is sent.
 async function fixture(t, options={}) {
@@ -17,7 +18,7 @@ async function fixture(t, options={}) {
  await new Promise((resolve,reject)=>{smtp.once('error',reject);smtp.listen(0,'127.0.0.1',resolve);});
  const transport=nodemailer.createTransport({host:'127.0.0.1',port:smtp.server.address().port,secure:false,ignoreTLS:true});
  let now=1_000_000;
- const config={origin:'http://127.0.0.1',sender:'sender@exobasis.invalid',recipient:'inbox@exobasis.invalid',secureCookies:false,confirmationSeconds:30,rateLimit:options.rateLimit||100,trustProxy:options.trustProxy||false};
+ const config={origin:'http://127.0.0.1',sender:options.sender||'sender@exobasis.invalid',recipient:options.recipient||'inbox@exobasis.invalid',secureCookies:false,confirmationSeconds:30,rateLimit:options.rateLimit||100,trustProxy:options.trustProxy||false};
  const server=createEnquiryServer(config,transport,{now:()=>now});
  await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
  const origin=`http://127.0.0.1:${server.address().port}`;
@@ -58,13 +59,29 @@ test('direct, invented, expired and unrelated visitor confirmations remain neutr
  assert.equal((await f.request('/api/enquiry/confirmation?lang=de',{headers:{Cookie:cookie,'X-EXOBASIS-Receipt-Ref':f.ref}})).status,404);
 });
 
+test('confirmed mail roles send one internal message with visitor Reply-To and no acknowledgement email',async t=>{
+ const roles={sender:'noreply@exobasis.com',recipient:'forminbox@exobasis.com'};
+ assert.doesNotThrow(()=>assertContactRecipient(roles,{email:'info@exobasis.com'}));
+ const f=await fixture(t,roles),response=await f.send();assert.equal(response.status,202);
+ const result=await response.json();assert.doesNotMatch(JSON.stringify(result),/forminbox|noreply/);
+ assert.equal(f.messages.length,1);
+ const mail=f.messages[0];
+ assert.equal(mail.envelope.mailFrom.address,'noreply@exobasis.com');
+ assert.deepEqual(mail.envelope.rcptTo.map(x=>x.address),['forminbox@exobasis.com']);
+ assert.match(mail.text,/From: noreply@exobasis\.com/);assert.match(mail.text,/To: forminbox@exobasis\.com/);
+ assert.match(mail.text,/Reply-To: visitor@exobasis\.invalid/);assert.doesNotMatch(mail.text,/Reply-To: info@exobasis\.com/);
+ const cookie=response.headers.get('set-cookie').split(';')[0];
+ const confirmation=await f.request('/api/enquiry/confirmation?lang=de',{headers:{Cookie:cookie,'X-EXOBASIS-Receipt-Ref':f.ref}});
+ assert.equal(confirmation.status,200);assert.equal(f.messages.length,1);
+});
+
 test('SMTP rejection never sets a success cookie or claims acceptance',async t=>{
  const f=await fixture(t,{rejectMail:true});const r=await f.send();assert.equal(r.status,502);assert.deepEqual(await r.json(),{status:'error',code:'TRANSPORT_REJECTED'});assert.equal(r.headers.get('set-cookie'),null);assert.equal(f.messages.length,0);
 });
 
 test('invalid fields, headers, enums and private query data cannot change mail routing',async t=>{
  const f=await fixture(t);
- for(const change of [{email:'victim@exobasis.invalid\r\nBcc: other@exobasis.invalid'},{intent:'invented'},{lang:'xx'},{replyLanguage:'xx'},{name:'x'.repeat(121)},{message:'x'.repeat(4001)},{context:'https://outside.invalid/?secret=x'},{recipient:'attacker@exobasis.invalid'},{sender:'attacker@exobasis.invalid'},{name:{nested:true}}]) {
+ for(const change of [{email:'victim@exobasis.invalid\r\nBcc: other@exobasis.invalid'},{intent:'invented'},{lang:'xx'},{replyLanguage:'xx'},{name:'x'.repeat(121)},{message:'x'.repeat(4001)},{context:'https://outside.invalid/?secret=x'},{recipient:'attacker@exobasis.invalid'},{sender:'attacker@exobasis.invalid'},{to:'attacker@exobasis.invalid'},{from:'attacker@exobasis.invalid'},{cc:'attacker@exobasis.invalid'},{bcc:'attacker@exobasis.invalid'},{replyTo:'attacker@exobasis.invalid'},{envelope:{to:['attacker@exobasis.invalid']}},{name:{nested:true}}]) {
   const r=await f.send({...f.payload,...change});assert.equal(r.status,422,JSON.stringify(change));assert.equal(r.headers.get('set-cookie'),null);
  }
  assert.equal(f.messages.length,0);

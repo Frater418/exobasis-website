@@ -22,7 +22,10 @@ function confirmedTarget(value,key){
 }
 
 export function assertContactRecipient(config, publicContact){
- if(config.recipient!==publicContact.email)throw new Error('EXOBASIS_MAIL_TO stimmt nicht mit der öffentlichen Anfrageadresse überein.');
+ // EXOBASIS-MAILROLLEN-20261008: bind trusted startup configuration, not inbound mail filters.
+ if(publicContact.email!=='info@exobasis.com')throw new Error('Die öffentliche Kontaktadresse muss der bestätigten info-Adresse entsprechen.');
+ if(config.recipient!=='forminbox@exobasis.com')throw new Error('EXOBASIS_MAIL_TO muss den bestätigten internen Formularempfänger verwenden.');
+ if(config.sender!=='noreply@exobasis.com')throw new Error('EXOBASIS_MAIL_FROM muss den bestätigten automatischen Absender verwenden.');
 }
 
 export function contactSettings(config={mode:'preview'}){

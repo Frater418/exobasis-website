@@ -2,12 +2,28 @@
   "route": "/en/countries/malaysia/",
   "lang": "en",
   "title": "Malaysia as a personal alternative",
-  "parent": "/en/countries/",
-  "translation": "/de/laender/malaysia/",
   "model": "laenderprofil",
-  "schemaVersion": 1,
+  "brief": {
+    "module": "11_Schreibauftraege_Laender.md",
+    "anchor": "quelle-25dfd8a3551ad8"
+  },
+  "build": {
+    "module": "15_Baukarten_Laender.md",
+    "anchor": "quelle-5296e670472ce4"
+  },
+  "legacyCMSStatus": "Noch nicht als gebundenes CMS-Objekt angelegt",
+  "translation": "/de/laender/malaysia/",
   "kind": "country",
-  "reviewStatus": "draft_for_review",
+  "parent": "/en/countries/",
+  "intent": "Die Eignung von Malaysia für das eigene Lebensmodell beurteilen und konkrete Vorbereitung beauftragen.",
+  "role": "Länder-/Optionsprofil",
+  "sectionOrder": "Passende Ausgangslage > Krisenbasis/Rückkehr > dauerhafte Familie > mobile Nutzung > vorhandene Rechte/Programme > Regionen/Wohnen > Schule/Gesundheit/Pflege > Einkommen/Geld/Arbeitsplatz > Dokumente/Vorlauf > laufende Pflichten > konkrete Vorbereitung",
+  "topic": "T02;T04",
+  "clusters": "",
+  "status": "planned",
+  "editorialApproval": false,
+  "schemaVersion": 1,
+  "reviewStatus": "approved",
   "sourceRefs": [
     {
       "module": "11_Schreibauftraege_Laender.md",
@@ -21,9 +37,9 @@
     }
   ],
   "eyebrow": "Your Plan B / Countries",
-  "seoTitle": "Malaysia as your Plan B | EXOBASIS",
-  "description": "Assess Malaysia for your family: residence routes, housing, essential services and practical preparation with EXOBASIS.",
-  "intro": "<p>You want a second base your family can actually use. In Malaysia, the appropriate MM2H category, dependant rights, committed capital and presence requirements must fit how you intend to live. A general nomad recommendation does not answer those questions.</p>",
+  "seoTitle": "Moving to Malaysia: residence, family and housing | EXOBASIS",
+  "description": "Plan a usable base in Malaysia: federal MM2H or Sarawak, Kuala Lumpur, Penang or Kuching, rental and purchase, schooling, care and money you can actually use.",
+  "intro": "<p>You want somewhere your family could go, stay and get on with life. That may mean an alternative to the UK, another base alongside your life in the UAE, or a permanent move. Malaysia offers different ways to approach that decision. The useful choice connects your residence rights with a particular home, school, healthcare provider and a payment arrangement that works when you arrive.</p>",
   "countryContext": "/en/countries/malaysia/",
   "linkPlan": [
     {
@@ -106,20 +122,228 @@
   ],
   "sources": [
     {
-      "title": "Ministry of Tourism Malaysia: MM2H category overview",
-      "url": "https://www.mm2h.gov.my/category/overview",
-      "section": 4,
-      "checkedAt": "2026-09-26",
-      "verification": "live_primary_text",
-      "limitation": ""
+      "title": "KLIA Ekspres: airport and city connection",
+      "url": "https://www.kliaekspres.com/products-fares/klia-ekspres/",
+      "section": 1,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
     },
     {
-      "title": "Ministry of Tourism Malaysia: MM2H guidelines",
-      "url": "https://www.mm2h.gov.my/apply/guidelines",
+      "title": "Sarawak: application guide amended 31 July 2025",
+      "url": "https://mtcp.sarawak.gov.my/web/attachment/show/?docid=REt0S0kvVFpidEtubkZUT09mcWFSZz09OjpeOuewhViH0oQ6MBHzQtpV",
+      "section": 3,
+      "checkedAt": "2026-10-05",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "MOTAC: category summary",
+      "url": "https://www.motac.gov.my/wp-content/uploads/2025/12/Insights-on-The-Categories.pdf",
+      "section": 3,
+      "checkedAt": "2026-10-05",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "MOTAC: MM2H and SEZ/SFZ guide",
+      "url": "https://www.motac.gov.my/wp-content/uploads/2025/12/Guide-Malaysia-My-Second-Home.pdf",
+      "section": 3,
+      "checkedAt": "2026-10-05",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "Sarawak: application guide amended 31 July 2025",
+      "url": "https://mtcp.sarawak.gov.my/web/attachment/show/?docid=REt0S0kvVFpidEtubkZUT09mcWFSZz09OjpeOuewhViH0oQ6MBHzQtpV",
+      "section": 3,
+      "checkedAt": "2026-10-05",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "ISKL: location and admission",
+      "url": "https://www.iskl.edu.my/admissions",
       "section": 5,
-      "checkedAt": "2026-09-26",
-      "verification": "live_primary_text",
-      "limitation": ""
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "Tenby Penang: admissions",
+      "url": "https://www.tenby.edu.my/penang/admissions/how-to-apply",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "Tunku Putra-HELP: location",
+      "url": "https://tphs.edu.my/admission/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "Gleneagles Kuala Lumpur: visit information",
+      "url": "https://gleneagles.com.my/kuala-lumpur/plan-your-visit",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "Island Hospital: location and admission",
+      "url": "https://islandhospital.com/plan-a-visit/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "Normah: location and screening",
+      "url": "https://normah.com.my/health-screening-packages/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "PTG Penang: acquisition rules, updated 1 August 2024",
+      "url": "https://ptg.penang.gov.my/images/artikel/Pembangunan_Tanah/PerolehanTanahOlehWarganegaraAsing.pdf",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "Ministry of Economy: acquisition framework of 13 July 2022",
+      "url": "https://ekonomi.gov.my/sites/default/files/2025-01/GPPH%2013%20Julai%202022.pdf",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "Malaysian Bar: tenancy and handover practice",
+      "url": "https://www.malaysianbar.org.my/article/about-us/committees/conveyancing-practice/law-realty-tenancy-agreement",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "LHDN: tenancy and lease, 30 June 2026",
+      "url": "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "LHDN: stamping process from 1 January 2026",
+      "url": "https://www.hasil.gov.my/wp-content/uploads/Stamp_Duty_FAQ.pdf",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "PTG Penang: acquisition rules, updated 1 August 2024",
+      "url": "https://ptg.penang.gov.my/images/artikel/Pembangunan_Tanah/PerolehanTanahOlehWarganegaraAsing.pdf",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "PTG Penang: titles and caveats",
+      "url": "https://ptg.penang.gov.my/index.php/en/information/faq/registration",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "Borneo Medical Centre: services",
+      "url": "https://borneomedicalcentre.com/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "Sarawak Land Code, amendments through 31 December 2024",
+      "url": "https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_2025%20LANDCODE%20LAWNET%20%20%281%29.pdf",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Amtliche Online-Kompilation mit Änderungen bis 31.12.2024. Historische RM300.000-Fußnote 1998 nicht als heutiger Preis verwendet."
+    },
+    {
+      "title": "Gleneagles Kuala Lumpur: rehabilitation",
+      "url": "https://gleneagles.com.my/kuala-lumpur/facilities-services/rehabilitation",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "Gleneagles Penang: rehabilitation and daily-living support",
+      "url": "https://gleneagles.com.my/penang/facilities-services/physiotherapy-rehabilitation-centre",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "CIMB: MM2H fixed deposit",
+      "url": "https://www.cimb.com.my/en/personal/day-to-day-banking/accounts/fixed-term-deposit/fixed-deposit-mm2h.html",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "CIMB: foreign-individual account-opening requirements",
+      "url": "https://www.cimb.com.my/en/personal/day-to-day-banking/accounts/other-information/documents-for-identity-verification.html",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "CIMB: savings account payment facilities",
+      "url": "https://www.cimb.com.my/en/personal/day-to-day-banking/accounts/savings-account/regular-savings-account.html",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "LHDN: employment of foreign nationals, Public Ruling 2/2026",
+      "url": "https://www.hasil.gov.my/wp-content/uploads/pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+      "section": 7,
+      "checkedAt": "2026-10-05",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "LHDN: residence status of individuals",
+      "url": "https://www.hasil.gov.my/wp-content/uploads/PR_11_2017.pdf",
+      "section": 7,
+      "checkedAt": "2026-10-05",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
+    },
+    {
+      "title": "LHDN: foreign-income guideline, 20 June 2024",
+      "url": "https://www.hasil.gov.my/wp-content/uploads/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf",
+      "section": 7,
+      "checkedAt": "2026-10-05",
+      "verification": "accepted_source_text_reused",
+      "limitation": "Quelle trägt nur die zitierten Bedingungen und ihren angegebenen Personen-/Zeitumfang, keine persönliche Annahme oder Verfügbarkeit."
     }
   ],
   "mediaStatus": "geographic_locator_photo_pending",
@@ -137,78 +361,79 @@
     "caption": "Geographic orientation. Not a travel, safety or border assessment.",
     "summary": [
       [
-        "A category, not a slogan",
-        "MM2H is not one identical route for every family."
+        "A base for your way of living",
+        "A reserve location, a lasting family home and recurring stays need different preparation."
       ],
       [
-        "Funds and presence",
-        "Tier, age and household circumstances affect the conditions."
+        "Rights and available funds",
+        "Federal MM2H and Sarawak bring different presence, capital and housing commitments."
       ],
       [
-        "A usable location",
-        "Align the home, education, treatment and workplace."
+        "Ready for ordinary life",
+        "Choose the actual home, school and care, then connect them to your arrival and payments."
       ]
     ]
   },
   "sections": [
     {
       "id": "starting-point",
-      "title": "Your starting point",
-      "body": "<p>Malaysia may suit a second home when the residence category and family life align. MM2H alone does not tell you which funds will be committed, who can be included or what use is permitted. Start with your household, intended stays and work. That produces an assessable route rather than a general recommendation for mobile living.</p>"
+      "title": "Decide what your Malaysia base must do",
+      "body": "<p>If war, political pressure or losing control of your finances is driving the decision, start with the arrangements that give you room to act. A property and a long-validity pass serve different purposes. Your family needs both the right to use the location and the practical means to live there.</p><p>Malaysia is a more workable option when you can sustain the household from savings, a pension or income that fits the permitted activity. The main MM2H routes require committed capital; federal categories also require a residential purchase. If your move depends on taking a local full-time job, the appropriate work and residence route comes first.</p><p>Choose between a reserve base you can activate, a lasting family home and a place for recurring stays. Kuala Lumpur, Penang and Kuching then become specific housing and care decisions rather than interchangeable names on a shortlist.</p>"
     },
     {
       "id": "contingency-return",
-      "title": "Contingency base and return",
-      "body": "<p>A prepared alternative connects entry, housing and essential services before they are needed. Distance is only one criterion; travel dependencies and delays remain. Plan assistance if one person arrives first and the arrangements for the rest of the household to follow. Residence eligibility without a functioning place to arrive is not a complete contingency base. For temporary refuge, a multiple-entry permission is only one component. Check whether the selected category survives a long absence, who maintains housing and payments locally, and whether the family can travel together. Long-distance access and regional care also belong in the return plan.</p>"
+      "title": "Prepare the journey, the first week and the way back",
+      "body": "<p>A base in Malaysia can put distance between your family and the situation you want to leave. Its usefulness still depends on the route you can travel. Regional conflict may affect transit, air services and supplies beyond the immediate area involved. Agree what would prompt you to leave, who makes that decision and what you would do if the planned connection became unavailable.</p><p>For Kuala Lumpur, the KLIA Ekspres links the airport with KL Sentral. Reaching a home in Ampang Hilir adds another leg. A move to Kuching includes the journey to Sarawak; a Penang arrival must connect to the chosen address. With children or a relative needing assistance, arrange the right vehicle, luggage capacity and handover rather than leaving the last part of the journey to chance.</p><p>The first week needs accessible money, keys, communications, food and continuity of medication. Keep enough accommodation and funding at your present location to handle a delayed departure. If a return to the UK or UAE is part of your plan, preserve the relevant rights and obligations deliberately. The status of each person in your household matters, particularly where family members hold different passports.</p><p>A standby home may require planned visits long before you need to activate it. The <a href=\"https://www.motac.gov.my/wp-content/uploads/2025/12/Insights-on-The-Categories.pdf\" rel=\"noreferrer\">federal MM2H summary</a> assigns 90 days a year to ages 25 to 49, met by the principal and/or spouse and dependants; the <a href=\"https://www.motac.gov.my/wp-content/uploads/2025/12/Guide-Malaysia-My-Second-Home.pdf\" rel=\"noreferrer\">SEZ/SFZ provisions</a> allow this shared arrangement for ages 21 to 49. From age 50, establish the actual condition for the chosen category before setting the travel calendar. Under the <a href=\"https://mtcp.sarawak.gov.my/web/attachment/show/?docid=REt0S0kvVFpidEtubkZUT09mcWFSZz09OjpeOuewhViH0oQ6MBHzQtpV\" rel=\"noreferrer\">S-MM2H new-application rules</a>, the principal personally needs at least 30 days in Sarawak each year. Budget and schedule those visits while the home is still a reserve. If you rely on existing Malaysian rights instead, maintain the validity and re-entry conditions attached to that status rather than treating MM2H requirements as automatically applicable.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.kliaekspres.com/products-fares/klia-ekspres/\" rel=\"noreferrer\">KLIA Ekspres: airport and city connection</a>.</p>"
     },
     {
       "id": "family-future",
-      "title": "A lasting future for your family",
-      "body": "<p>Identify who will live there and the education, language and treatment requirements involved. Then compare actual locations and admissions. Parents or adult children may face different programme and care conditions from the main applicant. Make those distinctions before long-term property or capital commitments. Inclusion of a partner, children or parents depends on the particular MM2H category; sharing a home does not itself give everyone residence rights. A property meeting a programme condition also needs to work as a home: assess school travel, treatment, language and available support before committing.</p>"
+      "title": "Build the family move around the person with the tightest requirements",
+      "body": "<p>A British passport, a UAE residence card and a dependant's permission are different starting positions. Record the rights already held by each person, including any Malaysian citizenship, residence or family entitlement. Existing usable rights should shape the plan before a new programme is selected.</p><p>Choose a new programme against the years of family life it needs to support. <a href=\"https://www.motac.gov.my/wp-content/uploads/2025/12/Guide-Malaysia-My-Second-Home.pdf\" rel=\"noreferrer\">Federal MM2H</a> includes spouses and parents, and allows unmarried, non-working children aged 21 to 34 as dependants. S-MM2H lists children aged 21 and under, with a separate provision for medically certified disabled children of any age. An older student therefore needs individual consideration. For a principal aged at least 25, Silver, Gold and Platinum offer renewable terms of 5, 15 and 20 years. Silver alone requires a USD150,000 deposit and a home purchase from RM600,000, with higher state acquisition thresholds still relevant; Gold and Platinum commit more capital. Match that term and renewal planning to the child's remaining education or a parent's continuing care, as well as the home you can fund. <a href=\"https://mtcp.sarawak.gov.my/web/attachment/show/?docid=REt0S0kvVFpidEtubkZUT09mcWFSZz09OjpeOuewhViH0oQ6MBHzQtpV\" rel=\"noreferrer\">S-MM2H from age 30</a> combines RM500,000 in fixed deposit with the income or savings evidence, but makes purchase optional. Its 5+5-year structure requires an extension for the second period, supported by passport validity and fresh medical documentation. A Kuching household can build the principal's 30 annual Sarawak days around school and care; living on the peninsula would still require those visits.</p><p>For children, the school can determine the neighbourhood. Match the curriculum, year group, language and learning support to the next stage of their education. Arrange admission and the child's residence position alongside the parent or guardian's status. A long lease near the preferred school should follow a workable school outcome.</p><p>Arrange how the family will communicate outside lessons too. Confirm the working language for school administration, the landlord or building manager and the relevant public office, including documents they need. An English-medium classroom does not settle those separate conversations. Book suitable language assistance where needed and establish which documents require translation before the appointment.</p><p>For an older parent, regular treatment or daily care may set the location instead. Consider who travels first, whether a supported journey follows later and who will continue caring for anyone who remains behind. If travel links or essential supplies are interrupted, children and dependent relatives still need care. Identify a reachable person or suitable alternative place to stay, then agree how contact, collection and the care handover would work. We bring those needs into the housing brief and organise the agreed school, medical and arrival work as one connected assignment.</p>"
     },
     {
       "id": "mobile-use",
-      "title": "Mobile living",
-      "body": "<p>The official national MM2H overview differentiates presence requirements by age and specifies which family members can fulfil a stated stay requirement. A blanket claim that everyone must remain for 90 days is therefore unsuitable. National categories and regional programmes also need separate treatment. Check the chosen category against the travel and work pattern you intend.</p><p class=\"exb-citation\">Source: <a href=\"https://www.mm2h.gov.my/category/overview\" rel=\"noreferrer\">Ministry of Tourism Malaysia: MM2H category overview</a></p>"
+      "title": "Use Malaysia between stays elsewhere",
+      "body": "<p>For mobile living, put the programme's presence requirement into your real calendar. The federal summary specifies 90 days a year for ages 25 to 49, fulfilled by the principal and/or spouse and dependants. The dedicated SEZ/SFZ section describes the shared presence arrangement for ages 21 to 49. If you are planning from age 50, have the applicable condition for your chosen category confirmed before relying on an absence pattern.</p><p>S-MM2H has a different geographical commitment. Under the new-application guide, the principal must spend at least 30 days each year in Sarawak. Stays elsewhere in Malaysia do not fulfil those Sarawak days. That distinction matters if most of your business or family visits would be on the peninsula.</p><p>Check that the pass, passport validity, re-entry arrangements and permitted activity support the way you intend to use the base. Then plan who looks after the home between stays, how bills are paid and how it will be ready for your next arrival.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.motac.gov.my/wp-content/uploads/2025/12/Insights-on-The-Categories.pdf\" rel=\"noreferrer\">MOTAC: category summary</a>; <a href=\"https://www.motac.gov.my/wp-content/uploads/2025/12/Guide-Malaysia-My-Second-Home.pdf\" rel=\"noreferrer\">MOTAC: MM2H and SEZ/SFZ guide</a>; <a href=\"https://mtcp.sarawak.gov.my/web/attachment/show/?docid=REt0S0kvVFpidEtubkZUT09mcWFSZz09OjpeOuewhViH0oQ6MBHzQtpV\" rel=\"noreferrer\">Sarawak: application guide amended 31 July 2025</a>.</p>"
     },
     {
       "id": "rights-routes",
-      "title": "Existing rights and suitable routes",
-      "body": "<p>The national MM2H framework distinguishes Platinum, Gold, Silver and a special economic-zone category. Fixed deposits, property requirements and other payments have different functions. The appropriate tier depends on eligibility, capital, family and intended activity. Residence is neither unrestricted permission to work nor a complete tax assessment. Compare the category as a whole before an attractive isolated feature drives the decision. The official MM2H information separates Silver, Gold, Platinum and the special economic-zone route. Committed capital, property conditions, dependant rules and presence vary by category and age; permitted activity also needs checking. A visitor stay cannot replace those conditions, and the programme requires an authorised application channel.</p><p class=\"exb-citation\">Source: <a href=\"https://www.mm2h.gov.my/apply/guidelines\" rel=\"noreferrer\">Ministry of Tourism Malaysia: MM2H guidelines</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fmalaysia%2F#short-enquiry\">Ask us to prepare your Malaysia option</a><p>A defined task can be requested directly. Personal documents follow only through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+      "title": "Choose the residence route before committing the capital",
+      "body": "<h3>Federal MM2H: different categories, different commitments</h3><p>Silver, Gold and Platinum accept eligible principal applicants from age 25. Their published fixed deposits are USD 150,000, USD 500,000 and USD 1 million respectively. Each also requires residential ownership: the programme minimum is RM600,000 for Silver, RM1 million for Gold and RM2 million for Platinum. The state's acquisition rules must also be satisfied for the actual property.</p><p>The published programme terms are five, fifteen and twenty years, with renewal available. Participation and processing charges sit alongside the deposit and purchase. The one-off participation fee alone is RM1,000 for Silver, RM3,000 for Gold and RM200,000 for Platinum. Compare the complete commitment against the life you intend to maintain, including the cash needed before any deposit withdrawal becomes possible.</p><p>SEZ/SFZ is a separate route from age 21. Its fixed deposit is USD 65,000 for ages 21 to 49 and USD 32,000 from age 50. It is tied to the designated economic or financial zone and its residential acquisition framework. Those figures do not describe a general low-cost way to establish any chosen home in Kuala Lumpur or Penang.</p><p>The federal activity matrix permits business, investment and career activities in Platinum. It lists those activities as not allowed in Silver, Gold and SEZ/SFZ. Match your actual work or business role to the correct permission before applying; any required professional or business approvals are dealt with alongside it.</p><p>The guide includes spouses, children below 21, single and unemployed children aged 21 to 34, and parents or parents-in-law as dependant categories. Medically certified disabled children have a separate provision without an age limit. The application follows the evidence for each person. Federal applications are submitted through a MOTAC-licensed MM2H operator, with the immigration decision made by the responsible authority.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.motac.gov.my/wp-content/uploads/2025/12/Insights-on-The-Categories.pdf\" rel=\"noreferrer\">MOTAC: deposits, terms and fees</a>; <a href=\"https://www.motac.gov.my/wp-content/uploads/2025/12/Guide-Malaysia-My-Second-Home.pdf\" rel=\"noreferrer\">MOTAC: activities, dependants and application route</a>.</p><h3>S-MM2H: a Sarawak-based alternative</h3><p>The new-application guide amended on 31 July 2025 sets a minimum age of 30 and a mandatory RM500,000 fixed deposit with a panel bank in Sarawak. In addition, applicants provide pension or offshore-employment-income evidence, or the specified savings evidence. The income amounts are RM10,000 a month for an individual and RM15,000 with dependants. The savings alternative is RM100,000 or RM200,000 respectively, held as the month-end closing balance for each of the latest three months and subject to panel approval. It replaces the income evidence, not the fixed deposit.</p><p>Residential purchase is optional under this new-application route. The guide gives house-purchase values of at least RM600,000 in Kuching Division and RM500,000 in other Divisions, subject to Sarawak's land legislation. Full-time work is excluded. Approved part-time professional work in the permitted sectors is limited to 20 hours a week and requires the specified state approval. An existing participant's extension or renewal is handled against that person's existing permission rather than assumed to follow this new-application checklist.</p><p class=\"exb-citation\">Sources: <a href=\"https://mtcp.sarawak.gov.my/web/attachment/show/?docid=REt0S0kvVFpidEtubkZUT09mcWFSZz09OjpeOuewhViH0oQ6MBHzQtpV\" rel=\"noreferrer\">Sarawak: new applications, funds and work</a>; <a href=\"https://mtcp.sarawak.gov.my/web/attachment/show/?docid=REt0S0kvVFpidEtubkZUT09mcWFSZz09OjpeOuewhViH0oQ6MBHzQtpV\" rel=\"noreferrer\">Sarawak: optional house purchase and conditions</a>.</p><h3>What each way of using Malaysia requires</h3><div class=\"exb-criteria-table\" role=\"region\" aria-label=\"Compare uses of a Malaysia base, horizontally scrollable\" tabindex=\"0\"><table><caption>From rights already held to the arrangements still needed</caption><thead><tr><th scope=\"col\">Intended use</th><th scope=\"col\">Rights and starting position</th><th scope=\"col\">Requirements and consequences</th><th scope=\"col\">Work you can commission</th></tr></thead><tbody><tr><th scope=\"row\">Reserve base with a return option</th><td>Establish the permission each traveller can use for the intended arrival and duration, including any rights already held. Malaysian citizenship, Malaysian permanent residence and an existing valid residence or dependant pass are distinct starting points. Establish the holder's duration, re-entry and permitted activity under that actual status for a standby stay. Any missing permission requires the appropriate application before relying on the base.</td><td>A usable address, lawful payment reserve and uninterrupted essential care must be ready. An MM2H choice can require capital and a property commitment well before activation.</td><td>Organise the route, temporary home, keys, first payments and care. Include a delayed departure and the rights needed to return.</td></tr><tr><th scope=\"row\">Long-term family home</th><td>Match the principal, partner, children and parents to their residence routes; establish the permissions for schooling and work. Distinguish Malaysian citizenship or permanent residence from a valid residence or dependant pass for each family member. The status held determines that person's duration, re-entry and position for education or work. Apply through a suitable route wherever existing rights do not cover the intended family life.</td><td>School admission and recurring care shape the location. Federal compulsory purchase and S-MM2H's optional purchase produce different housing and funding decisions.</td><td>Coordinate family documents, applications, school enquiries, home search, independent rental or purchase checks and handover.</td></tr><tr><th scope=\"row\">Mobile use / second home</th><td>Pass validity, re-entry and permitted activity must accommodate the actual pattern of stays. Start with each person's Malaysian citizenship or permanent residence, or an already valid residence or dependant pass. Determine duration, repeated entry and activity from the particular status held; if it does not cover the mobile arrangement, a suitable new permission must be sought.</td><td>Federal presence follows category and age. S-MM2H requires the principal to spend at least 30 days each year in Sarawak. Housing costs and upkeep continue during absence.</td><td>Maintain the calendar, home and payment arrangements, check authorised recovery access and prepare the next arrival.</td></tr></tbody></table></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fmalaysia%2F#short-enquiry\">Ask us to prepare your Malaysia option</a><p>Start with the task, such as a Malaysia home search or family arrival. Personal documents follow through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/#contact-start\">Private enquiry</a></div>"
     },
     {
       "id": "regions-housing",
-      "title": "Regions and housing",
-      "body": "<p>Compare specific locations for education, treatment, access and work. A programme-qualifying property and a suitable family home require separate assessment. Viewings should test everyday journeys and available services, not only interiors. Prepared temporary accommodation may help with first arrival while a longer-term choice is completed.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Arrange your arrival abroad</a></p>"
+      "title": "Find a home along the right school and healthcare routes",
+      "body": "<h3>Kuala Lumpur: Ampang Hilir and the Jalan Ampang connection</h3><p>The International School of Kuala Lumpur is in Ampang Hilir. Gleneagles Kuala Lumpur on Jalan Ampang provides a concrete healthcare reference for a household considering that part of the city. Look at homes against both journeys, including school-day traffic and the needs of the person attending treatment. The airport journey remains a separate part of the arrival plan.</p><h3>Penang: weigh the northern school area against George Town treatment</h3><p>For a search around Tanjung Tokong and Tanjung Bungah, Tenby Schools Penang provides a specific school reference. Island Hospital is on Macalister Road in George Town. A suitable home connects the school run with the treatment you actually need. View the building's access, lifts and surroundings as carefully as the apartment itself, particularly if an older relative will live with you.</p><h3>Kuching: The NorthBank, Tabuan and the chosen medical provider</h3><p>Tunku Putra-HELP lists its location at The NorthBank on the Kuching-Samarahan Expressway in Tabuan. Borneo Medical Centre on Jalan Tun Jugah publishes emergency, dialysis and rehabilitation services, among others. That gives a family a practical school-home-treatment comparison. Normah in Petra Jaya is a different healthcare location and changes the housing search if it is the provider you need.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.iskl.edu.my/admissions\" rel=\"noreferrer\">ISKL: location and admission</a>; <a href=\"https://www.tenby.edu.my/penang/admissions/how-to-apply\" rel=\"noreferrer\">Tenby Penang: admissions</a>; <a href=\"https://tphs.edu.my/admission/\" rel=\"noreferrer\">Tunku Putra-HELP: location</a>; <a href=\"https://gleneagles.com.my/kuala-lumpur/plan-your-visit\" rel=\"noreferrer\">Gleneagles Kuala Lumpur: visit information</a>; <a href=\"https://islandhospital.com/plan-a-visit/\" rel=\"noreferrer\">Island Hospital: location and admission</a>; <a href=\"https://borneomedicalcentre.com/\" rel=\"noreferrer\">Borneo Medical Centre: services</a>; <a href=\"https://normah.com.my/health-screening-packages/\" rel=\"noreferrer\">Normah: location and screening</a>.</p><h3>Use an exploratory visit to test ordinary life</h3><p>We organise viewings around the journeys you would make every week, with school and relevant medical appointments where commissioned. At the property, inspect damp, maintenance, noise, internet, building rules and access. If the home will stand empty between visits, establish who can enter, what will be inspected and how repairs are approved.</p><p>Ask the owner or building management what remains usable if power, water or communications fail. Where someone depends on a lift, powered entrance or refrigerated medicine, inspect the actual backup arrangements and their limits. Agree how to reach help without the usual connection and, if necessary, move to suitable alternative accommodation. Make those arrangements part of selecting the home rather than discovering the dependency after moving in.</p><p>Before paying a rental deposit, establish the owner and the authority of the person offering the home. Agree the term, break and renewal provisions, deposit return, repair responsibilities, utilities and permitted use. A furnished handover should record inventory, equipment, existing damage and meter readings.</p><p>The stamping process is part of the transaction. On the peninsula, the published framework distinguishes a tenancy of up to three years from a longer lease requiring registration. Sarawak has its own land legislation. A rental can provide an arrival base while you choose a home; it sits alongside any later federal MM2H purchase obligation. Under the described S-MM2H new-application route, purchase remains optional.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.malaysianbar.org.my/article/about-us/committees/conveyancing-practice/law-realty-tenancy-agreement\" rel=\"noreferrer\">Malaysian Bar: tenancy and handover practice</a>; <a href=\"https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf\" rel=\"noreferrer\">LHDN: tenancy and lease, 30 June 2026</a>; <a href=\"https://www.hasil.gov.my/wp-content/uploads/Stamp_Duty_FAQ.pdf\" rel=\"noreferrer\">LHDN: stamping process from 1 January 2026</a>.</p><h3>Buying on Penang Island: a workable ordinary-case reference</h3><p>For an ordinary foreign purchase of a strata apartment on Penang Island, the published federal and state minimums align at RM1 million. State consent is still required. Penang's published island threshold for landed or landed-strata property is RM3 million. The title category matters more than the wording of an advertisement.</p><p>MM2H concessions and permanent-resident provisions are distinct acquisition cases. A lower figure in a mainland table is not a general clearance for an ordinary foreign purchase. In Sarawak, the Land Code and eligible property category govern acquisition; reaching a programme value alone does not make every plot available to buy.</p><p>Before reservation and binding commitments, we arrange independent local checks on the owner, title, charges, caveats, use restrictions and required state consent. The sale agreement then needs a coordinated approval, payment and completion sequence, including what happens if consent is refused. Funds move against the agreed transaction steps, followed by registration, possession, utilities and the commissioned care of the property.</p><p>Penang's published rules generally restrict resale until three years after the sale agreement. A federal MM2H purchase also carries the programme's ten-year holding condition, with its specified upgrade exception for a higher-value residence. Consider that commitment before selecting a property for a base you may only use intermittently.</p><p class=\"exb-citation\">Sources: <a href=\"https://ekonomi.gov.my/sites/default/files/2025-01/GPPH%2013%20Julai%202022.pdf\" rel=\"noreferrer\">Ministry of Economy: acquisition framework of 13 July 2022</a>; <a href=\"https://ptg.penang.gov.my/images/artikel/Pembangunan_Tanah/PerolehanTanahOlehWarganegaraAsing.pdf\" rel=\"noreferrer\">PTG Penang: acquisition rules, updated 1 August 2024</a>; <a href=\"https://ptg.penang.gov.my/index.php/en/information/faq/registration\" rel=\"noreferrer\">PTG Penang: titles and caveats</a>; <a href=\"https://lawnet.sarawak.gov.my/lawnet_file/Ordinance/ORD_2025%20LANDCODE%20LAWNET%20%20%281%29.pdf\" rel=\"noreferrer\">Sarawak Land Code, amendments through 31 December 2024</a>; <a href=\"https://www.motac.gov.my/wp-content/uploads/2025/12/Guide-Malaysia-My-Second-Home.pdf\" rel=\"noreferrer\">MOTAC: residential ownership and holding condition</a>.</p><h3>Budget beyond the purchase price</h3><p>For a residential acquisition by a foreign individual, Penang's published fee schedule lists RM10,000 per title or parcel as the application fee. For island strata property in the RM1 million to RM1.5 million band, the approval levy is 1.5 per cent for sale agreements from 1 July 2017. Other property and value bands have their own rates.</p><p>Separately, the LHDN guideline dated 30 June 2026 specifies transfer duty of RM8 for every RM100 or part thereof for covered residential-property sales from 1 January 2026 to foreign companies or individuals who are neither Malaysian citizens nor permanent residents. The basis is the consideration or market value, whichever is higher. Legal work, registration, banking, any financing and continuing ownership costs also need funding.</p><p>Through <a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Arrange your arrival abroad</a>, you can commission the search and viewings, rental or purchase preparation, independent professional checks, completion coordination and a ready-to-use handover. We connect that work to the household's school, care and payment dates.</p><p class=\"exb-citation\">Sources: <a href=\"https://ptg.penang.gov.my/images/artikel/Pembangunan_Tanah/PerolehanTanahOlehWarganegaraAsing.pdf\" rel=\"noreferrer\">PTG Penang: application fees and levy, updated 1 August 2024</a>; <a href=\"https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf\" rel=\"noreferrer\">LHDN: transfer duty, 30 June 2026</a>.</p>"
     },
     {
       "id": "school-health-care",
-      "title": "Schooling, healthcare and care",
-      "body": "<h3>Children and relatives</h3><p>Confirm inclusion under the residence route separately from actual education and care arrangements. A child’s inclusion as a dependant does not establish school admission. Confirm teaching language, the appropriate year group and travel from the chosen home. Regular treatment or care requires acceptance, payment cover and a reachable backup contact.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare to move abroad with children and family</a></p><h3>Cover and treatment</h3><p>Check required insurance, existing conditions and the facilities needed. A general claim about healthcare quality is not a case assessment.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and care abroad</a></p><h3>Continuing care</h3><p>Arrange regular assistance and medication access around the proposed home.</p>"
+      "title": "Confirm who will teach, treat and care for your family",
+      "body": "<h3>School admission and family permissions</h3><p>ISKL considers previous school records, programme fit, age placement and available places. Its published admission requirements say the student must live with at least one parent or legal guardian holding a valid work permit or resident pass. Tenby Penang's process moves from enquiry and a visit to application review, any assessment and an offer. Registration fees, the deposit and outstanding records then secure the offered place.</p><p>For Tunku Putra-HELP, approach the school about the child's actual stage and needs. Children continuing their studies in Sarawak are required by the S-MM2H guide to apply for a Student Pass. Bring birth and school records, the relevant parental documents and travel or decision-making authority into the same preparation. Resolve relocation consent under the applicable UK or UAE family-law framework before booking the move; the passport, actual orders and any travel restriction must be addressed for that child. <a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare to move abroad with children and family</a> explains the individual rights and handovers behind that work.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.iskl.edu.my/admissions\" rel=\"noreferrer\">ISKL: admissions for 2026-2027</a>; <a href=\"https://www.tenby.edu.my/penang/admissions/how-to-apply\" rel=\"noreferrer\">Tenby Penang: application and enrolment</a>; <a href=\"https://tphs.edu.my/admission/\" rel=\"noreferrer\">Tunku Putra-HELP: admissions</a>; <a href=\"https://mtcp.sarawak.gov.my/web/attachment/show/?docid=REt0S0kvVFpidEtubkZUT09mcWFSZz09OjpeOuewhViH0oQ6MBHzQtpV\" rel=\"noreferrer\">Sarawak: dependant documents and Student Pass</a>.</p><h3>Healthcare admission and payment</h3><p>Gleneagles Kuala Lumpur asks patients to prepare identification, referral material and previous medical records, with an insurer's Guarantee Letter where relevant. Island Hospital distinguishes self-payment with a procedure-dependent deposit from admission backed by an accepted insurer or corporate guarantee. Arrange the specialist appointment, records and payment route before making the home dependent on that provider.</p><p>Check which language the receiving clinician needs for medical records and arrange any required translation. Book qualified language support when the patient needs it to understand the consultation, explanation of treatment and consent. Daily care needs its own communication arrangement: agree a shared language or appropriate assistance with the actual carer, alongside instructions they and the patient can understand.</p><p>The medical examination required for the residence programme has a separate purpose from treatment you need throughout the year. <a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and care abroad</a> connects policy acceptance, existing conditions, treatment and transport. Keep a usable payment reserve for the period in which authorisation or a final guarantee is being processed.</p><p class=\"exb-citation\">Sources: <a href=\"https://gleneagles.com.my/kuala-lumpur/plan-your-visit\" rel=\"noreferrer\">Gleneagles Kuala Lumpur: visit documents and Guarantee Letter</a>; <a href=\"https://islandhospital.com/plan-a-visit/\" rel=\"noreferrer\">Island Hospital: admission, deposits and insurance</a>.</p><h3>Daily care needs a named handover</h3><p>Gleneagles Kuala Lumpur and Gleneagles Penang publish rehabilitation services. Borneo Medical Centre in Kuching also lists rehabilitation alongside other clinical services. Use those as starting points for the required care, then arrange the specific therapy, daily assistance, equipment and medication supply.</p><p>Plan for a break in medication or equipment supplies and for an essential treatment site becoming unreachable. Agree suitable quantities and storage with the clinician and pharmacy, identify another supply route, and arrange a reachable alternative provider for treatment that cannot wait, including admission, transport and payment. For a dependent relative, the work continues beyond a hospital appointment. We organise the commissioned contact between current and receiving professionals, the suitable home, travel assistance and the first care arrangements. Record who takes responsibility at arrival and who steps in if that person becomes unavailable. <a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/care-medication/\">Prepare care, medication and medical dependencies for the move</a> sets out that continuous handover.</p><p class=\"exb-citation\">Sources: <a href=\"https://gleneagles.com.my/kuala-lumpur/facilities-services/rehabilitation\" rel=\"noreferrer\">Gleneagles Kuala Lumpur: rehabilitation</a>; <a href=\"https://gleneagles.com.my/penang/facilities-services/physiotherapy-rehabilitation-centre\" rel=\"noreferrer\">Gleneagles Penang: rehabilitation and daily-living support</a>; <a href=\"https://borneomedicalcentre.com/\" rel=\"noreferrer\">Borneo Medical Centre: services</a>.</p>"
     },
     {
       "id": "income-money-work",
-      "title": "Income, money and work",
-      "body": "<p>Distinguish committed deposits, property, non-refundable fees and available living funds. Money used to meet a programme condition is not necessarily free to spend on daily needs. Permitted work, income source and tax connections need separate advice. The household also requires confirmed payments and a functioning workplace during the move. A committed deposit serves a different purpose from liquid rent, school fees and business reserves. Budget property purchase, fees and ongoing maintenance separately before judging a category affordable. An MM2H pass establishes neither tax residence nor unrestricted permission to work locally.</p>"
+      "title": "Keep committed funds separate from money for everyday life",
+      "body": "<p>A deposit may qualify you for a programme while doing nothing to pay the next school invoice. Allocate funds separately for the programme, the property and its charges, arrival and household spending, and continuing family or business obligations. Some bills will fall due before the residence and banking work is complete.</p><h3>Plan deposit withdrawals by category</h3><p>The general federal guide allows withdrawal of up to 50 per cent from the second year after approval for the specified housing, education, medical and tourism purposes in Malaysia. That is the general Silver, Gold and Platinum sequence. The dedicated SEZ/SFZ section states withdrawal after participant approval; implement that category's provision with the bank rather than importing the general timing.</p><p>For S-MM2H, a partial withdrawal of up to half can be requested after one year for a house, car, medical expenses or children's education in Sarawak. The ministry requires the request, programme and account evidence, and payment or other supporting documents. At least RM250,000 remains on fixed deposit. Until the required programme and bank release is in place, use the separately available reserve.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.motac.gov.my/wp-content/uploads/2025/12/Guide-Malaysia-My-Second-Home.pdf\" rel=\"noreferrer\">MOTAC: general and SEZ/SFZ withdrawal provisions</a>; <a href=\"https://mtcp.sarawak.gov.my/web/attachment/show/?docid=REt0S0kvVFpidEtubkZUT09mcWFSZz09OjpeOuewhViH0oQ6MBHzQtpV\" rel=\"noreferrer\">Sarawak: withdrawal application and evidence</a>.</p><h3>Arrange an account you can use</h3><p>CIMB publishes an MM2H fixed-deposit product separately from its everyday account facilities. Its foreign-applicant checklist distinguishes an MM2H application still in process with funds pledged at CIMB from an approved MM2H visa whose deposit is elsewhere. Approval or acknowledgement documents, passport and pass requirements, and Malaysian address evidence follow the applicable case.</p><p>Confirm the receiving bank's requirements and prepare the source-of-funds records before transferring substantial money. An agreed test payment then checks the path that will fund rent, school or treatment. Card access, online banking and recovery after a lost phone are separate practical checks. Keep an independent lawful route for essential spending.</p><p>If you retain UK accounts, ask each bank which specific products it will maintain at your real Malaysian address, including joint accounts, cards and lending. Update residence and tax information accurately. For a UAE departure, reconcile final salary or end-of-service benefits with outstanding credit, establish any hold and release process with your bank, and confirm the required residence or identity updates and resulting account type. Rely on the released, usable amount for arrival, rather than the expected benefit.</p><p>An existing freeze needs its own resolution with the bank and appropriate professional support; household continuity is funded from money lawfully available to you. Coordinate that work with the Malaysian receiving setup before the main transfer.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/assets-and-access/banking-payments/\">Banking and payment access abroad</a> explains acceptance, authority and usable access. With <a class=\"exb-text-link\" href=\"/en/services/banking-liquidity/\">Prepare banking access and liquidity</a>, you can commission the application records, bank coordination, transfer sequence and agreed payment and recovery checks.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.cimb.com.my/en/personal/day-to-day-banking/accounts/fixed-term-deposit/fixed-deposit-mm2h.html\" rel=\"noreferrer\">CIMB: MM2H fixed deposit</a>; <a href=\"https://www.cimb.com.my/en/personal/day-to-day-banking/accounts/other-information/documents-for-identity-verification.html\" rel=\"noreferrer\">CIMB: foreign-individual account-opening requirements</a>; <a href=\"https://www.cimb.com.my/en/personal/day-to-day-banking/accounts/savings-account/regular-savings-account.html\" rel=\"noreferrer\">CIMB: savings account payment facilities</a>.</p><h3>Work location and tax residence follow the real activity</h3><p>LHDN's Public Ruling 2/2026, published on 27 March 2026, explains that employment exercised in Malaysia can produce Malaysian employment income, regardless of where the contract is signed or remuneration paid. An overseas employer or foreign bank account therefore does not settle the source of your salary. Establish the permitted activity and tax treatment together before continuing work from the new home.</p><p>If you are self-employed or run your own company, the tasks you carry out, the source of income and the place from which the business is managed require their own assessment. Arrange that professional work before moving the activity or management to Malaysia.</p><p>Tax residence follows physical presence and the statutory linking rules. The commonly cited 182 days is one criterion rather than the whole test. Your own presence is assessed separately from programme days credited through family members. For genuine foreign income received by resident individuals, LHDN's published guideline describes a conditional exemption for 1 January 2022 to 31 December 2026, excluding partnership income. It includes origin-tax conditions or recognised exceptions, declaration and supporting-record requirements. Planning for later years needs the applicable rule for those years.</p><p>Connect the Malaysian analysis to your departure case. <a class=\"exb-text-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uk/\">Leaving the UK with a prepared alternative</a> covers the British residence, tax, family and continuing-business side. <a class=\"exb-text-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\">Leaving the UAE or preparing a second option</a> brings sponsorship, dependants, final salary, banking and the intended return into the sequence. A UAE-based family may have several nationalities and different rights to return.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.hasil.gov.my/wp-content/uploads/pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf\" rel=\"noreferrer\">LHDN: employment of foreign nationals, Public Ruling 2/2026</a>; <a href=\"https://www.hasil.gov.my/wp-content/uploads/PR_11_2017.pdf\" rel=\"noreferrer\">LHDN: residence status of individuals</a>; <a href=\"https://www.hasil.gov.my/wp-content/uploads/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf\" rel=\"noreferrer\">LHDN: foreign-income guideline, 20 June 2024</a>.</p>"
     },
     {
       "id": "documents-timing",
-      "title": "Documents and preparation time",
-      "body": "<p>Determine the category and family scope first. Check current requirements with the responsible programme body and required licensed application channel. Put identity, relationship, financial and insurance evidence into a clear sequence. Align appointments, entry and setup conditions. A general provider checklist cannot replace the personal eligibility assessment. Start with the category, age and family scope against the current official guidance. Only then prepare banking, identity and relationship evidence and the accepted document versions through the required licensed application channel. We procure suitable assistance for the agreed assignment; we do not claim an existing exclusive partner.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a></p>"
+      "title": "Put documents, approvals and arrival in the right order",
+      "body": "<ol><li><strong>Define the case.</strong> Match existing passports and rights, dependants, intended work and the pattern of stays to the federal or Sarawak route. Arrange the appropriate licensed or specialist work.</li><li><strong>Build the records.</strong> Collect family and guardianship documents, income or savings evidence, source-of-funds material, and required police and medical records. Translation and certification follow the receiving procedure.</li><li><strong>Coordinate applications and local appointments.</strong> Align the licensed federal submission or Sarawak process with bank placement, examinations and required attendance. Carry a conditional approval forward with the tasks it still requires.</li><li><strong>Confirm the home and household commitments.</strong> Bring school admission, treatment, contract checks and payment dates together. The tenancy stamping process now includes the phased self-assessment system introduced in 2026; organise the tax-identification and representation steps and retain the stamp certificate.</li><li><strong>Hand over something usable.</strong> Record the permission and its conditions, complete the home handover, connect utilities and communications, and confirm the school and care arrangements for arrival.</li></ol><p>The S-MM2H new-application guide, for example, requires at least 24 months' passport validity at submission, certified passport copies and a Sarawak medical report with the prescribed endorsements. Arrange those dependencies before fixing the trip.</p><p><a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a> puts the commissioned procurement, appointments and follow-up into one organised assignment. You receive the records, the actual position reached and the dates that must be maintained.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.motac.gov.my/wp-content/uploads/2025/12/Guide-Malaysia-My-Second-Home.pdf\" rel=\"noreferrer\">MOTAC: application and examination requirements</a>; <a href=\"https://mtcp.sarawak.gov.my/web/attachment/show/?docid=REt0S0kvVFpidEtubkZUT09mcWFSZz09OjpeOuewhViH0oQ6MBHzQtpV\" rel=\"noreferrer\">Sarawak: new-application documents</a>; <a href=\"https://www.hasil.gov.my/wp-content/uploads/Stamp_Duty_FAQ.pdf\" rel=\"noreferrer\">LHDN: STSDS Phase 1 from 1 January 2026</a>.</p>"
     },
     {
       "id": "ongoing-obligations",
-      "title": "Ongoing obligations",
-      "body": "<p>Track the conditions of the category actually selected: evidence, applicable presence, housing and renewal. Changes in age, family, activity or committed capital may affect the arrangement. Keep education, treatment, payments and contacts current as well. Maintenance should distinguish programme requirements from local preparations already established. At renewal, review the capital and property conditions and any presence rule that applies to this category. If the family spends time elsewhere, maintain the home, treatment contacts and re-entry position; obligations and tax connections at the former home require their own assessment.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Review and maintain your preparations</a></p>"
+      "title": "Keep the base ready while you are elsewhere",
+      "body": "<p>Give each continuing requirement an owner and a date: pass and passport validity, presence records, fixed-deposit conditions, insurance and school arrangements. A new business role, a child's changing status or a different family situation can alter the original basis. Have those changes followed through with the relevant institution.</p><p>Turning a mobile base into your permanent home is a separate reason to reassess the arrangements. Review each person's existing rights, permitted work, actual days in Malaysia and individual tax position, then revisit the rental or purchase commitment, available funds and year-round schooling, insurance and care. The programme name alone does not resolve those questions. Coordinate the required changes with the relevant institutions and advisers before the switch.</p><p>For the home, agree inspections, keyholding, repair authority and spending limits. Include damp, air conditioning, water, electricity and unpaid bills, then specify what is prepared before the next stay. The commissioned caretaker's work should leave you knowing what has been done and which decisions need your approval.</p><p>Someone also needs valid authority if you are in hospital or cannot be reached. <a class=\"exb-text-link\" href=\"/en/knowledge/assets-and-access/powers-representation-succession/\">Powers of attorney, representation and succession abroad</a> connects the legal authority with the institution that must accept it. Pair that work with agreed access and payment checks; sharing a password is not the same as appointing a representative.</p><p>You can commission <a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Review and maintain your preparations</a> for a defined continuing scope, including practical follow-up, local tasks and preparation for your next arrival.</p>"
     },
     {
       "id": "practical-preparation",
-      "title": "Practical preparation",
-      "body": "<p>EXOBASIS can compare Malaysia against your family and intended use, then coordinate the preparation. We connect category assessment, documents, specialist arrangements and a usable place to arrive. Defined tasks can be commissioned directly. The purpose is not to obtain any MM2H tier quickly, but to establish a foundation that fits your circumstances.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Choose suitable countries and locations</a></p><h3>Options to compare</h3><div class=\"exb-country-related\"><article><a class=\"exb-text-link\" href=\"/en/countries/thailand/\">Thailand as a personal alternative</a><p>Thailand uses different residence and work categories. Compare personal eligibility and family life rather than programme names.</p></article><article><a class=\"exb-text-link\" href=\"/en/countries/mauritius/\">Mauritius as a personal alternative</a><p>Mauritius changes travel, island supplies and the transition between temporary use and a lasting family base.</p></article></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fmalaysia%2F#short-enquiry\">Ask us to prepare your Malaysia option</a><p>A defined task can be requested directly. Personal documents follow only through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+      "title": "Commission the part of your Malaysia move that needs doing",
+      "body": "<p>EXOBASIS takes on agreed work from location selection to an organised arrival: exploratory visits, home search and viewings, residence documents, banking preparation, rental or purchase coordination, independent professional checks, completion, handover and continuing care. You can commission a defined task directly, including work on arrangements you already have. If your Malaysian base is becoming your permanent home, you can also commission a focused reassessment of the existing preparation for that change.</p><p>If the destination remains open, start with <a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Choose suitable countries and locations</a>. If Malaysia is settled, the assignment might be a school-led housing search, an organised Penang purchase review or a connected family arrival in Kuching. The proposal separates our work, the required professional mandates and external costs.</p><h3>Two useful comparisons before you commit</h3><p><a class=\"exb-text-link\" href=\"/en/countries/thailand/\">Thailand as a personal alternative</a> is worth examining where your income, pension, assets or professional role fits a specific LTR category. Compare that eligibility, dependant position and permitted work with the Malaysian route first. The next comparison is between actual school, healthcare and housing locations, rather than between popular expatriate destinations.</p><p><a class=\"exb-text-link\" href=\"/en/countries/mauritius/\">Mauritius as a personal alternative</a> offers another starting point for an overseas-funded longer stay through the renewable Premium Visa. A lasting family residence needs its own route. Compare the island's flights, weather, imported supplies and medical needs against a peninsula or Sarawak household, including how each option would remain usable while you are away.</p><p>For the first enquiry, choose the task and, if useful, add Malaysia as the destination. Personal case details come later through the agreed protected exchange. You can also request a free 20-minute orientation call if you need to establish which work to commission. A paid assessment is not a prerequisite for a clear individual assignment.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fmalaysia%2F#short-enquiry\">Ask us to prepare your Malaysia option</a><p>Start with the task, such as a Malaysia home search or family arrival. Personal documents follow through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/#contact-start\">Private enquiry</a></div>"
     }
   ],
   "faq": {
-    "question": "Does every MM2H participant have the same presence requirement?",
-    "answer": "No. Check the category, age and permitted fulfilment by family members against the current rules. Regional programmes require separate assessment."
-  }
+    "question": "Does MM2H impose the same presence rule on everyone?",
+    "answer": "The rule depends on programme, category and age. The federal summary specifies 90 days a year for ages 25 to 49 through the principal and/or dependants; the dedicated SEZ/SFZ section covers ages 21 to 49. For mobile planning from age 50, establish the applicable category condition first. Under the S-MM2H new-application route, the principal spends at least 30 days each year in Sarawak."
+  },
+  "displayTitle": "Moving to Malaysia: prepare a second base or a new family home"
 }

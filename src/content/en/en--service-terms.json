@@ -7,8 +7,8 @@
   "model": "recht-funktion",
   "schemaVersion": 1,
   "kind": "legal",
-  "reviewStatus": "blocked_required_facts",
-  "releaseStatus": "blocked_required_facts",
+  "reviewStatus": "approved",
+  "releaseStatus": "approved",
   "sourceRefs": [
     {
       "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
@@ -24,67 +24,49 @@
   "eyebrow": "EXOBASIS / Legal information",
   "seoTitle": "Service and contract terms | EXOBASIS",
   "description": "Assignments, payment, participation, specialist contracts, handover and consumer rights.",
-  "intro": "<p>What work is included, who does what and when do costs arise? These terms explain the path from enquiry to an agreed result. Before an assignment is binding, the actual offer must identify the provider, scope, price and applicable consumer information.</p>",
+  "intro": "<p>These terms explain how you work with Exobasis LLC, from the offer and delivery through to handover and ending an assignment. Your individual offer sets out the work you commission, its price and the agreed timetable. An enquiry or orientation call does not commit you to an assignment.</p>",
   "sections": [
     {
       "id": "t-vertrag",
       "title": "Offer and contract",
-      "body": "<p>An enquiry and a free orientation call do not place an order. If you already know the task, you can ask about a specific service directly; a paid assessment is not a prerequisite. The accepted offer identifies the contracting party, scope, result, necessary participation, price and currency. Selecting a topic in the enquiry form is not acceptance.</p><p><a href=\"/en/services/\">Practical help</a> describes the types of work, while <a href=\"/en/how-we-work/\">How EXOBASIS works</a> explains the sequence. The legal provider must match the <a href=\"/en/provider-information/\">Provider information</a>. The agreed offer version and confirmed acceptance route determine the commission.</p><p>If the scope or contracting party for your particular task is unclear, make a <a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a> before an offer is accepted.</p>",
-      "reviewRequirements": [
-        "Legal provider, actual proposal/acceptance process and contract documents",
-        "Applicable law and customer categories"
-      ]
+      "body": "<p>Your contracting party is Exobasis LLC, 131 Continental Dr, Suite 305, Newark, DE 19713, United States, represented by Raphael Rechberger. The public contact for contract enquiries is <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a>. You can reach the representative at <a href=\"mailto:raphael@exobasis.com\">raphael@exobasis.com</a>. Further details appear in the <a href=\"/en/provider-information/\">Provider information</a>.</p><p>An enquiry helps establish your task and the appropriate next step. The free orientation call lasts 20 minutes and is optional. If you already know the task, you can enquire about an individual service directly. A paid initial assessment or comprehensive plan is not a prerequisite.</p><p>The offer identifies the people and countries covered, the work, the result to be delivered, required documents and decisions, responsibilities, price and currency, payment terms and delivery timetable. Ongoing support also specifies its scope, duration and terms for ending it. Before you commit, you receive the offer, these terms and the consumer information required for your contract in a form you can save.</p><p>The assignment is agreed when you accept the specific offer using the acceptance method stated in it. The agreed version determines the scope. Selecting a topic in the enquiry form, requesting a call or receiving an acknowledgement of your enquiry does not accept a paid offer. Payment and the start of work are separate steps governed by the agreed terms.</p><p><a href=\"/en/services/\">Practical help</a> sets out the services you can commission individually. <a href=\"/en/how-we-work/\">How EXOBASIS works</a> explains preparation, execution and handover. To discuss a particular task, make a <a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a>.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "t-zahlung",
       "title": "Payment and work stages",
-      "body": "<p>The offer distinguishes fees for EXOBASIS work, procured execution, direct specialist fees, official charges and necessary travel or material costs. Each commissioned stage needs an identifiable result, due date, currency and expenditure approval. Costs outside the scope are agreed before they are incurred; an internal planning figure is not a published total price.</p><p>Payment finances the agreed stage. It does not prove that an appointment was booked, an authority decided, a bank approved an application or delivery was completed.</p>",
-      "reviewRequirements": [
-        "Approved pricing, currencies, due dates and payment channels",
-        "Third-party costs and cancelled stages"
-      ]
+      "body": "<p>The fee follows the scope offered and accepted. Advice, a personal plan, setting up an individual arrangement and ongoing support are separate services. Fees already paid are credited towards a later assignment where the offer provides for that credit. Work already included is not charged a second time.</p><p>The offer identifies the EXOBASIS work and procured execution included in the price. Fees payable directly to specialists, official charges, travel and other expenses are distinguished from that price. A consumer offer states the total price including applicable taxes and unavoidable charges. Where the nature of the task prevents a cost being calculated in advance, the calculation method and possible additional charge are explained before you accept.</p><p>Currency, amount, due date and payment method are set for the particular assignment. Where work is divided into stages, the offer allocates payments to those stages. If an advance payment is agreed for a stage, that stage starts once payment and the other start requirements are satisfied. There is no single advance-payment percentage for every service.</p><p>Additional expenditure is agreed with you before it is incurred. Approval of one expense does not authorise unrelated purchases. Payment does not itself establish that an appointment has been booked, a bank has accepted you, an authority has approved an application or delivery is complete.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "t-mitwirkung",
       "title": "Your participation",
-      "body": "<p>For the particular assignment, you provide accurate information and the evidence actually required, and make decisions reserved to you. Previously verified information may be reused where its purpose and currency still fit. Changes affecting your family, residence or financial circumstances may change the work required.</p><p>If a document or personal appointment is missing, we clarify the effect on the particular step rather than assigning every delay to you. Private records are requested only through the protected channel agreed for the work. Passwords and sole-access recovery keys do not belong in ordinary case intake.</p>",
-      "reviewRequirements": [
-        "Contractual cooperation duties and consequences of delay"
-      ]
+      "body": "<p>You provide accurate information and the evidence required for your assignment. Depending on the task, this may include identity and residence records, family information, existing contracts, powers of attorney or evidence of the source of funds. EXOBASIS identifies what is needed for each step. Previously checked information can be reused where its purpose and currency remain appropriate.</p><p>Decisions about countries, expenditure, applications and contracts remain yours. An organisational assignment does not replace a required signature, identity check, personal appearance or specific authorisation. You tell EXOBASIS about changes in your family, legal or financial circumstances where they affect the commissioned work.</p><p>If information, approval or a necessary appointment is missing, EXOBASIS identifies the affected step and the consequences for the timetable. A revised date or additional work is agreed specifically. Missing participation does not automatically trigger a flat extra charge or make you responsible for every delay.</p><p>Personal records are requested for the particular purpose through the protected channel agreed for the work. Passwords and sole-access recovery keys do not belong in ordinary case intake. Setting up an account or authorisation must not replace your own control and recovery arrangements with an undisclosed dependence on EXOBASIS.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "t-fachvertraege",
       "title": "Specialist agreements",
-      "body": "<p>EXOBASIS is responsible for its own commissioned coordination. Procured execution and a contract you sign directly with a bank, law firm, insurer or other specialist are distinct. Before the relevant step, it should be clear who performs the work, who pays for it and who decides whether to accept an application.</p><p>An authority or institution makes its own decision. An EXOBASIS commission neither replaces a necessary specialist contract nor guarantees a third party’s decision.</p>",
-      "reviewRequirements": [
-        "Actual EXOBASIS, procured and direct mandates with responsibility boundaries"
-      ]
+      "body": "<p>EXOBASIS undertakes the planning, setup, organisation, execution or support promised in the offer. This can include its own work and procured execution. Where EXOBASIS commissions a supplier to fulfil its own promised service, that service remains part of your EXOBASIS assignment. Bringing in a supplier does not retrospectively turn it into your direct specialist contract.</p><p>Contracts you enter into directly with a law firm, tax adviser, bank, insurer, custody provider or another supplier are distinct. Before that step, the provider, task, fee, necessary authority and continuing coordination are identified. Where a personal professional engagement or account opening is required, you make the necessary declarations yourself or provide a suitable specific authorisation.</p><p>Legal and tax opinions and other activities requiring professional authorisation are assigned to an appropriately authorised specialist. EXOBASIS prepares documents and decisions and undertakes the coordination and execution commissioned from it. A bank decides whether to accept a customer, an authority decides an application and an insurer decides whether to enter into its contract. Organising that process and obtaining the other party’s approval are different outcomes.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "t-zusatzarbeit",
       "title": "Additional work and changes",
-      "body": "<p>Another country, changed family requirements, an additional review, travel or ongoing maintenance may change the agreed scope. The costs, schedule, provider and outcome are confirmed in an appropriate amendment before work expands. Work already included is not charged again.</p><p>A question about the delivered result does not become a new assignment merely because you sent another message. Whether it falls within agreed follow-up or calls for new work depends on the actual scope.</p>",
-      "reviewRequirements": [
-        "Binding change approval and remuneration rules"
-      ]
+      "body": "<p>Another country, additional family members, new legal requirements, a further assessment or travel can change the scope. EXOBASIS then identifies the additional work, its intended result and its effect on price and timing. That extension is agreed with you and recorded against the assignment before it is performed. A new enquiry does not automatically expand an existing commission.</p><p>Included follow-up, explaining a handover and correcting a discrepancy for which EXOBASIS is responsible are not treated as a new assignment simply because another message is needed. New planning prompted by changed personal circumstances is different.</p><p>Continuing updates, availability and activating a prepared plan each require an agreed scope. Preparing a plan does not create an unlimited support commitment. Where activation is commissioned, its triggers, contact arrangements, available execution and additional costs are specified for that step.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "t-uebergabe",
       "title": "Handover and corrections",
-      "body": "<p>Handover records what was actually completed, which evidence is available and what remains open. A decision brief, arrangements made, a test performed and acceptance by a third party are different outcomes. Only work actually performed within the commissioned scope is described as delivered.</p><p>You can report a discrepancy against the agreed result for specific review. The actual commission must set out the appropriate handover method, follow-up and treatment of defects; ongoing maintenance does not follow automatically from a single handover.</p>",
-      "reviewRequirements": [
-        "Legally reviewed handover, warranty and correction provisions"
-      ]
+      "body": "<p>You receive the agreed results with a record of the actual position: completed steps, available evidence, outstanding decisions and the people or organisations responsible for them. Planning includes the agreed basis for your decisions and next steps. For setup or organisational work, handover distinguishes what has been configured, submitted, tested or confirmed by another party. A prepared application is not presented as an approval already granted.</p><p>Handover explains how to use the results, continuing access and the follow-up included in your assignment. A records, access or recovery assignment documents the agreed handover and recovery arrangements. A test actually carried out is distinguished from a check that is merely planned.</p><p>If a service does not match the agreed scope or result, you can report the particular discrepancy to <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a>. EXOBASIS checks it against the assignment and agrees the necessary remedy with you. Your statutory rights for defective or non-conforming performance remain available. Merely sending documents, or your silence, is not treated by these terms as acceptance of the work or a waiver of claims.</p><p>Continuing maintenance, new checks and later adjustments are included only to the extent commissioned.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "t-beendigung",
       "title": "Ending the assignment and consumer rights",
-      "body": "<p>The actual contract and applicable law determine what happens to completed work, approved third-party costs, documents and possible refunds when an assignment is cancelled or ended. Statutory consumer rights depend on the provider, client status and sales channel, not the language of this page. Any right of withdrawal and consequences of an expressly requested early start require the appropriate information before a binding purchase.</p><p>For questions about scope or cancellation, use <a href=\"/en/enquiry/\">Private enquiry</a>. A question is not an order.</p>",
-      "reviewRequirements": [
-        "Specific termination, refunds and statutory consumer rights",
-        "Required withdrawal information for the actual sales route where applicable",
-        "No publication before contract review"
-      ]
+      "body": "<p>You can notify EXOBASIS of a cancellation, a requested change or termination at <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a>. Please identify the assignment and relevant stage. EXOBASIS records the work completed, outstanding matters, third-party work already authorised and the handover of your documents. Avoidable expenditure is distinguished from commitments already made.</p><p>Outside a statutory cooling-off cancellation, the final account follows the agreed assignment, work performed and applicable law. It distinguishes payments received, completed work, any further remuneration legally due and attributable third-party costs. Any resulting credit is repaid. Advance payments are not automatically forfeited in full. The duration and ordinary termination terms for ongoing support are stated in the accepted offer; statutory termination rights remain available.</p><h3>Cancellation where UK consumer rules apply</h3><p>For a distance contract for our paid advisory, planning or organisational services covered by the Consumer Contracts Regulations 2013, you can cancel as a consumer without giving a reason. The normal cancellation period ends 14 days after the day the contract is entered into. Failure to provide the required cancellation information can extend that period. Before you commit, you receive the information applicable to your assignment and the model cancellation form.</p><p>You can cancel by a clear statement to Exobasis LLC, 131 Continental Dr, Suite 305, Newark, DE 19713, United States, for example by email to <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a>. You do not have to use the model form or give a reason. Sending your cancellation before the deadline is sufficient. Following valid cancellation of that service contract, payments received are repaid without undue delay and no later than 14 days after EXOBASIS is informed. The original payment method is used unless you expressly agree otherwise, and no refund fee is charged.</p><h3>If you want work to start during the cancellation period</h3><p>An early start requires your express request and the required information about its consequences. If you then cancel, any permitted charge is limited to the proportionate value of services supplied up to cancellation. That charge requires both the prescribed information and your express request; for an off-premises contract the request must be on a durable medium. If the agreed total price is excessive, the calculation uses the market value of the service supplied instead.</p><p>Starting work does not by itself end your cancellation right. For a fully performed service, the right can end only when the legal conditions are met, including your prior express request to start and acknowledgement that you would lose the right on full performance. An enquiry, urgency or payment does not replace those declarations.</p><p>This service rule is not automatically applied to a separate banking, insurance, travel, goods or digital-content contract. If you are based in the UAE or another country, the particular contract and applicable law determine your consumer rights. English-language copy and the LLC’s US address do not select the governing law. Service or contract question? <a href=\"/en/enquiry/?anliegen=General%20enquiry#short-enquiry\">Ask about your assignment</a>. The form opens with “General enquiry” selected. You can change the selection and explain your question in the optional message field. For the general contact route, use <a href=\"/en/enquiry/\">Private enquiry</a>. You can find the services available individually under <a href=\"/en/services/\">Practical help</a>. A question is not an order.</p>",
+      "reviewRequirements": []
     }
   ],
   "linkPlan": [
@@ -132,17 +114,5 @@
     }
   ],
   "legalType": "terms",
-  "releaseBlockers": [
-    "Legal provider, actual proposal/acceptance process and contract documents",
-    "Applicable law and customer categories",
-    "Approved pricing, currencies, due dates and payment channels",
-    "Third-party costs and cancelled stages",
-    "Contractual cooperation duties and consequences of delay",
-    "Actual EXOBASIS, procured and direct mandates with responsibility boundaries",
-    "Binding change approval and remuneration rules",
-    "Legally reviewed handover, warranty and correction provisions",
-    "Specific termination, refunds and statutory consumer rights",
-    "Required withdrawal information for the actual sales route where applicable",
-    "No publication before contract review"
-  ]
+  "releaseBlockers": []
 }

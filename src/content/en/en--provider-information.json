@@ -7,8 +7,8 @@
   "model": "recht-funktion",
   "schemaVersion": 1,
   "kind": "legal",
-  "reviewStatus": "blocked_required_facts",
-  "releaseStatus": "blocked_required_facts",
+  "reviewStatus": "approved",
+  "releaseStatus": "approved",
   "sourceRefs": [
     {
       "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
@@ -23,47 +23,32 @@
   ],
   "eyebrow": "EXOBASIS / Legal information",
   "seoTitle": "Provider information | EXOBASIS",
-  "description": "EXOBASIS provider identity, contact and legal particulars.",
-  "intro": "<p>EXOBASIS is the brand for arranging a prepared base abroad. For legal notices and contractual questions, the identity of the provider responsible for the actual assignment is what matters.</p>",
+  "description": "Exobasis LLC operates EXOBASIS and is represented by Raphael Rechberger. Find its address for legal correspondence and direct email contacts.",
+  "intro": "<p>EXOBASIS is operated by Exobasis LLC. This page identifies the provider and gives its address for legal correspondence and direct contact details.</p>",
   "sections": [
     {
       "id": "i-anbieter",
       "title": "Responsible provider",
-      "body": "<p>EXOBASIS is a brand for arranging international preparations. The brand alone is not a contracting party or a legal form. What matters is the legal entity named in the actual offer, accepting the assignment and issuing the invoice.</p><p>A reliable provider identification requires that entity’s full legal name, legal form and authorised representative. An operational base in a country does not establish that identity.</p>",
-      "reviewRequirements": [
-        "Full legal name and legal form",
-        "Authorised representative(s)",
-        "Confirmation of the entity entering contracts and issuing invoices"
-      ]
+      "body": "<p><strong>Exobasis LLC</strong><br>Legal form: LLC<br>Authorised representative: Raphael Rechberger</p><p>Exobasis LLC operates EXOBASIS and is your contracting party for the services agreed with EXOBASIS. Raphael Rechberger acts on behalf of the company.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "i-anschrift",
       "title": "Address for legal correspondence",
-      "body": "<p>The operational base in the Dominican Republic describes where the project works. It is not automatically the address for legal notices. A complete address for service, including locality and country, must belong to the responsible provider and be used with authority. A specialist’s address or a post box does not replace it without a relevant legal basis.</p>",
-      "reviewRequirements": [
-        "Verified address for legal notices, including country",
-        "Confirmation that this address may be used"
-      ]
+      "body": "<p>Legal notices and postal correspondence can be sent to:</p><p>Exobasis LLC<br>131 Continental Dr, Suite 305<br>Newark, DE 19713<br>United States</p>",
+      "reviewRequirements": []
     },
     {
       "id": "i-kontakt",
       "title": "Direct contact",
-      "body": "<p>For organisational questions, use <a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a>. Asking a legal question does not require an orientation call or a purchase. A public, copyable way to contact the responsible provider directly must also be available independently of the enquiry form.</p><p>The <a href=\"/en/service-terms/\">Service and contract terms</a> explain the contractual steps. Information about personal data belongs in the <a href=\"/en/privacy/\">Privacy notice</a>.</p>",
-      "reviewRequirements": [
-        "Actual public email address",
-        "Any further required direct contact channel",
-        "A successful test of the chosen enquiry route"
-      ]
+      "body": "<p>For legal notices, questions about the provider or contractual matters, contact Exobasis LLC at <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a>. You do not need to purchase a consultation, book an appointment or use an encrypted messenger.</p><p>You can also send privacy requests to <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a>. The <a href=\"/en/privacy/\">Privacy notice</a> explains the processing of personal data and your rights.</p><p>Representative contact: Raphael Rechberger, <a href=\"mailto:raphael@exobasis.com\">raphael@exobasis.com</a>.</p><p>The <a href=\"/en/service-terms/\">Service and contract terms</a> explain the working relationship and how an assignment is agreed. For general organisational questions, see <a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a>.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "i-register",
       "title": "Registration and competent authorities",
-      "body": "<p>Registration, tax and professional details, where applicable, must refer to the actual legal provider. A separate specialist’s registration or licence is not the EXOBASIS provider’s registration. Only verified, applicable authorities and identifiers for that provider can be published here.</p><p>For a specific question about the provider, use <a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a>. An enquiry cannot replace a required legal particular.</p>",
-      "reviewRequirements": [
-        "Applicable registry and registration number",
-        "Tax/VAT information where legally applicable",
-        "Relevant licences and competent bodies, or confirmed non-applicability"
-      ]
+      "body": "<p>Exobasis LLC is responsible for the agreed advice on personal preparations, planning, organisation, implementation and ongoing support. Where part of an assignment requires a specific professional qualification or regulatory authorisation, the responsible specialist or company and their role are identified in that assignment. A specialist’s authorisation is not an authorisation held by Exobasis LLC.</p><p>For questions about the identity or role of the provider, write directly to <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a>. You can also use <a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a> for an organisational question.</p><p>If your question concerns the provider or your contract, go to <a class=\"exb-text-link\" href=\"/en/enquiry/?anliegen=General%20enquiry#short-enquiry\">Private enquiry</a>.</p>",
+      "reviewRequirements": []
     }
   ],
   "linkPlan": [
@@ -104,17 +89,5 @@
     }
   ],
   "legalType": "provider",
-  "releaseBlockers": [
-    "Full legal name and legal form",
-    "Authorised representative(s)",
-    "Confirmation of the entity entering contracts and issuing invoices",
-    "Verified address for legal notices, including country",
-    "Confirmation that this address may be used",
-    "Actual public email address",
-    "Any further required direct contact channel",
-    "A successful test of the chosen enquiry route",
-    "Applicable registry and registration number",
-    "Tax/VAT information where legally applicable",
-    "Relevant licences and competent bodies, or confirmed non-applicability"
-  ]
+  "releaseBlockers": []
 }

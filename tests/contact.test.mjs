@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { loadJSON } from '../src/lib/site.mjs';
 import { renderPage } from '../src/templates/page.mjs';
+import { readContent } from '../scripts/build.mjs';
 import { contactSettings,assertContactRecipient,contactMarkup } from '../src/lib/contact.mjs';
 const page=lang=>loadJSON(`src/content/${lang}/${lang==='de'?'anfrage':'enquiry'}.json`);
 const confirmed=url=>({url,confirmed:true});
@@ -21,10 +22,32 @@ test('draft URLs and per-language unconfirmed channels stay blocked while enquir
  assert.equal(contactSettings({mode:'production',contact:draft}).booking.de,null);
  assert.equal(contactSettings({mode:'production',contact:draft}).booking.en,active.booking.en.url);
 });
-test('startup recipient must exactly equal public mailbox',()=>{
- const publicContact=contactSettings({mode:'production',contact:active});
- assert.doesNotThrow(()=>assertContactRecipient({recipient:active.email},publicContact));
- assert.throws(()=>assertContactRecipient({recipient:'other@exobasis.org'},publicContact),/EXOBASIS_MAIL_TO/);
+test('startup binds the confirmed public, internal recipient and sender roles separately',()=>{
+ const publicContact=contactSettings({mode:'production',contact:{...active,email:'info@exobasis.com'}});
+ const runtime={recipient:'forminbox@exobasis.com',sender:'noreply@exobasis.com'};
+ assert.doesNotThrow(()=>assertContactRecipient(runtime,publicContact));
+ for(const recipient of ['info@exobasis.com','legal@exobasis.com','other@exobasis.org','visitor@exobasis.com','forminbox@exobasis.com,other@example.org','',undefined]){
+  assert.throws(()=>assertContactRecipient({...runtime,recipient},publicContact),/EXOBASIS_MAIL_TO/);
+ }
+ for(const sender of ['info@exobasis.com','billing@exobasis.com','visitor@example.org','',undefined]){
+  assert.throws(()=>assertContactRecipient({...runtime,sender},publicContact),/EXOBASIS_MAIL_FROM/);
+ }
+ for(const email of ['legal@exobasis.com','forminbox@exobasis.com','info@exobasis,com',null]){
+  assert.throws(()=>assertContactRecipient(runtime,{...publicContact,email}),/öffentliche Kontaktadresse/);
+ }
+});
+test('confirmed public mail is configured without exposing internal mail roles',async()=>{
+ const configured=loadJSON('src/data/contact.json');
+ assert.equal(configured.email,'info@exobasis.com');
+ const pages=await readContent();
+ const config={mode:'production',domain:'https://exobasis.com',contact:{...configured,enabled:true,formEndpoint:'/api/enquiry'}};
+ for(const entry of pages){
+  const html=renderPage(entry,config,pages);
+  assert.doesNotMatch(html,/(?:forminbox|noreply|billing)@exobasis\.com/i,entry.route);
+  if(['home','enquiry'].includes(entry.kind))assert.ok(html.includes('mailto:info@exobasis.com'),entry.route);
+ }
+ const publication=loadJSON('src/data/publication.json');
+ assert.ok(JSON.stringify(publication).includes('legal@exobasis.com'));
 });
 
 const home=lang=>loadJSON(`src/content/${lang}/home.json`);

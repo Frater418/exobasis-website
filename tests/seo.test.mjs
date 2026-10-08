@@ -60,15 +60,16 @@ test('Release-Gate verlangt echte Domain, Fakten, Freigaben und gelöste Rechtsa
   assert.throws(()=>assertProductionReady(good,[{...approved,translation:null,reviewStatus:'draft_for_review'}]),/nicht tatsächlich freigegeben/);
 });
 
-test('Aktive Rechtsquellen blockieren die Produktion und Fehlversuch lässt die Vorschau bytegleich',async()=>{
+test('Echte offene Rechtsanforderungen blockieren weiterhin und lassen die Vorschau bytegleich',async()=>{
   const actual=await readContent();
   const legal=actual.filter(p=>p.kind==='legal');
   assert.equal(legal.length,6);
-  assert.ok(legal.every(p=>p.reviewStatus==='blocked_required_facts' && p.releaseBlockers.length));
+  // Isolated negative input: the current user-approved sources are never downgraded.
+  const blocked=actual.map(p=>p.kind==='legal'?{...p,releaseBlockers:['Unresolved fact in negative fixture']}:p);
   const target=path.join(ROOT,'dist','index.html');
   const before=await readFile(target);
   const previous=await stat(target);
-  await assert.rejects(build({mode:'production'}),/Produktionsdomain fehlt/);
+  await assert.rejects(build({mode:'production'},async()=>blocked),/Unresolved fact in negative fixture/);
   assert.deepEqual(await readFile(target),before);
   assert.equal((await stat(target)).mtimeMs,previous.mtimeMs);
 });

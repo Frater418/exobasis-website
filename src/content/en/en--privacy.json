@@ -7,8 +7,8 @@
   "model": "recht-funktion",
   "schemaVersion": 1,
   "kind": "legal",
-  "reviewStatus": "blocked_required_facts",
-  "releaseStatus": "blocked_required_facts",
+  "reviewStatus": "approved",
+  "releaseStatus": "approved",
   "sourceRefs": [
     {
       "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
@@ -23,65 +23,44 @@
   ],
   "eyebrow": "EXOBASIS / Legal information",
   "seoTitle": "Privacy notice | EXOBASIS",
-  "description": "Data paths for visits, first enquiries and assignments, and your rights.",
-  "intro": "<p>Visiting the website, making a short enquiry and later working together involve different data paths. This notice explains the scope of first contact and rights that may apply under the relevant law.</p>",
+  "description": "Exobasis LLC: privacy contact, website and enquiry data, technical status storage, your rights and retention.",
+  "intro": "<p>This notice explains what is processed when you visit the website or first contact us, why it is needed and how to exercise your privacy rights with Exobasis LLC.</p>",
   "sections": [
     {
       "id": "p-verantwortlicher",
       "title": "Responsibility for processing",
-      "body": "<p>A website visit, an organisational enquiry and later confidential records are separate activities. The controller for each must be clearly linked to the actual provider. Its full identity, address and reachable privacy contact belong here and must match the <a href=\"/en/provider-information/\">Provider information</a>.</p><p>A technical host or mail service does not become the controller for the advisory service merely by handling data. The role of any specialist engaged directly needs separate consideration.</p>",
-      "reviewRequirements": [
-        "Legal controller, address and privacy contact",
-        "Applicable jurisdictions and any required representative or data protection officer"
-      ]
+      "body": "<p>The controller responsible for personal data processed through this website and when handling your enquiry is:</p><p><strong>Exobasis LLC</strong><br>131 Continental Dr, Suite 305<br>Newark, DE 19713<br>United States</p><p>The LLC is represented by Raphael Rechberger, who can be reached at <a href=\"mailto:raphael@exobasis.com\">raphael@exobasis.com</a>. For privacy questions and requests to exercise your rights, contact <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a> directly. This is also the LLC's general public contact address. Further details appear in the <a href=\"/en/provider-information/\">Provider information</a>.</p><p>This notice covers website visits, initial organisational contact and the associated technical processing. Before you provide personal records for an assignment, you will receive information about the data arrangements agreed for that work.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "p-kontaktformular",
       "title": "When you send an enquiry",
-      "body": "<p>The ordinary <a href=\"/en/enquiry/\">Private enquiry</a> requires a reachable email address and a broad choice of topic. Name and message are optional. Do not use this route for identity documents, medical information, financial records or access keys. First contact serves to classify and answer an enquiry; it is not automatically a full case intake.</p><p>A separate server-side mail delivery to the staffed enquiry inbox is planned for the short form. Its body is not also kept in a form log or full-text archive. Confirmed transport produces a short-lived, language-bound, one-use confirmation; that does not prove inbox delivery or create an assignment. Opening the confirmation page directly does not prove a submission.</p><p>Direct email, a deliberately opened booking page and optional encrypted first contact have different recipients and data paths. A separate protected exchange is agreed for later personal records. The purposes, legal bases and recipients of each contact route actually activated must be specified before public use.</p>",
-      "reviewRequirements": [
-        "Actual form/email recipient and the purpose/legal basis for each processing activity",
-        "Real delivery, status handling and selected optional channels"
-      ]
+      "body": "<p>The short form on <a href=\"/en/enquiry/\">Private enquiry</a> is not currently enabled for sending. Its intended data flow is separate from direct email. You can send an email to <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a>.</p><p>The short form requires an email address we can reply to, an enquiry topic and your preferred reply language. A name or alias and a short message are optional. The form language and, where selected, a public page or service reference are also transmitted. Without an email address we cannot reply through this form route; without a topic the form cannot be submitted. Your message is used to identify and answer your question or prepare an assignment you have requested.</p><p>Do not send identity documents, health information, bank statements, asset schedules, passwords or recovery codes through ordinary email or the short form. The form does not accept files. An appropriate protected channel will be agreed for any confidential records needed later.</p><p>Once connected, the form service passes these details to the enquiry mailbox configured for EXOBASIS. Your email address is used as the reply address. The enquiry process does not create a separate permanent message database. A submission confirmation means the mail transport has accepted the message; it does not confirm arrival in the destination inbox, book an appointment or establish an assignment.</p><h3>Purpose and legal basis</h3><p>Where the EU GDPR or UK GDPR applies, necessary steps towards a contract at your request, and performance of your contract, rely on Article 6(1)(b). General questions and correspondence with a company's contact person are handled under Article 6(1)(f): our legitimate interest is to answer incoming enquiries appropriately and manage business contacts. Contacting us is not blanket consent to marketing or other uses.</p><p>Processing covered by the Swiss Federal Act on Data Protection must, in particular, be lawful, in good faith, proportionate and consistent with its purpose. Processing that infringes personality rights requires a justification under Article 31. Where the UAE federal personal data protection law applies, Article 4(9) permits necessary steps towards a contract at your request and performance of that contract. Other purposes require a separate statutory exception or valid consent.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "p-technik",
       "title": "Technical website processing",
-      "body": "<p>Content pages are static HTML with locally supplied presentation files. The short-form connection is a separate server-side process. Its ordinary operation does not call for advertising pixels, CAPTCHA services, session replay or recording the form body. External source links open only when selected and are not embedded in the background.</p><p>A production host may keep technical access or error logs. The actual data, legal basis and deletion rules depend on the host and its configuration. The local website does not establish that the operating service keeps no logs or cookies at all.</p>",
-      "reviewRequirements": [
-        "Production host, logs, purposes and retention",
-        "Actual necessary cookies/sessions and any additional processing"
-      ]
+      "body": "<p>Content pages use static HTML and locally supplied presentation files. When a page is requested, the serving infrastructure receives connection data, including the IP address, the requested address and HTTP information sent by the browser. This allows the page to be delivered and technical faults to be identified. The current website does not embed advertising pixels, external CAPTCHA services, session replay or externally loaded fonts. External source links open their destination only when you select them.</p><p>The planned form submission uses two limited status stores. Your browser keeps a random confirmation reference in the current tab's session storage. After the mail transport accepts a message, the server sets a cookie containing a random status token. The cookie is restricted to the confirmation path, cannot be read by page scripts and, in HTTPS operation, uses Secure and SameSite=Strict. It is valid for five minutes. The status records contain a reference, the form language and an expiry time, not your message or email address. The reference is removed after confirmation is successfully displayed; closing the tab ends its session storage. An expired confirmation or one without the matching binding remains neutral.</p><p>To protect the form against excessive submissions, the server derives a check value from the connection address using a secret process key. Its associated counter is valid for ten minutes. This is pseudonymised data, not proven anonymous data. These counters and confirmation records are held in the enquiry process's working memory. Expired entries are removed on the next request or during regular cleanup; ending the process clears its memory.</p><p>Under the EU GDPR and UK GDPR, proportionate security and reliable delivery of the requested function are legitimate interests under Article 6(1)(f). Storing or reading information on your device is also subject to the applicable device-access rules. An exception from consent requires the particular storage to be strictly necessary for a function you expressly request; a general security interest alone does not satisfy that test.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "p-dienstleister",
       "title": "Providers, recipients and countries",
-      "body": "<p>Serving the website, sending a first enquiry by SMTP, opening a booking page deliberately and using an optional protected channel are distinct processing operations. A later specialist should receive only the information needed for the commissioned task. <a href=\"/en/discretion/\">Discretion and protected collaboration</a> explains how confidential exchange differs from first contact.</p><p>For each service actually used, the operator, role, processing location and any basis for an international transfer must be established. A calendar not yet activated, an unverified CryptPad instance or a merely proposed mail service is not represented here as a current recipient.</p>",
-      "reviewRequirements": [
-        "Specific providers, instances and recipient countries",
-        "Processing arrangements and transfer safeguards",
-        "Verified data flows, not only an intended architecture"
-      ]
+      "body": "<p>Exobasis LLC is the controller identified at the US address above. The installed server infrastructure is operated with Hostinger. Neither the LLC's US address nor the hosting brand determines the country of every individual access or storage operation.</p><p>For email correspondence, the mail services used for sending and receiving also process the message and the necessary address and transport data. The planned short form uses a separately connected mail transport. Mailbox storage and possible transport logs are distinct from the enquiry process's short-lived status records.</p><p>The short form does not automatically pass your information to CryptPad, SimpleX, a calendar or a customer workspace. Installing a system does not by itself make it an available customer channel. For a separately agreed protected exchange, recipients and access permissions are limited to the particular task. <a href=\"/en/discretion/\">Discretion and protected collaboration</a> explains how first contact is separated from personal case work.</p><p>Technical processors act on instructions for the agreed purpose. A specialist acting under their own professional obligations may instead be a controller in their own right. Before information is shared for an assignment, the recipient, the information needed and the purpose of the disclosure must therefore be established.</p><p>Where the EU GDPR applies, sharing data with another recipient outside the EEA is also subject to its international transfer rules. This requires, for example, an applicable adequacy decision or appropriate safeguards, such as suitable standard contractual clauses and any supplementary measures needed for the circumstances. Transfers covered by UK, Swiss or UAE federal data protection law must meet the relevant rules of that jurisdiction. An ordinary enquiry does not replace this assessment. You can ask <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a> about the basis used for your case and how to obtain an accessible copy of applicable safeguards.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "p-rechte",
       "title": "Your rights and how to exercise them",
-      "body": "<p>Where the General Data Protection Regulation applies to a particular activity, its conditions may give you rights of access, rectification, erasure, restriction, portability and objection. Withdrawal only concerns processing based on consent; it does not erase a separate obligation to retain records such as invoices. A requester’s authority and identity should be checked with as little additional information as possible.</p><p class=\"exb-citation\">Legal framework: <a href=\"https://commission.europa.eu/law/law-topic/data-protection/information-individuals_en\" rel=\"noreferrer\">European Commission: individual data-protection rights</a>.</p><p>The relevant complaints authority depends on the responsible provider and applicable law, not the language of your request. A reachable privacy contact must be specified before public use.</p>",
-      "reviewRequirements": [
-        "Actual rights-request and complaint contacts",
-        "Competent supervisory authority and applicable rights",
-        "Identity checks and the real handling process"
-      ]
+      "body": "<p>The applicable rules depend on the processing activity and its connection to the people and markets concerned. Offering services specifically to people in Germany and Austria can bring an overseas provider within the EU GDPR; the UK offer similarly engages the UK GDPR. The Swiss Act covers circumstances with effects in Switzerland. The UAE federal law covers, among other situations, overseas controllers processing data of individuals in the UAE. Free zones with their own data protection legislation, and certain health and banking data, are subject to separate rules.</p><h3>EU/EEA and United Kingdom</h3><p>Subject to the relevant legal conditions, you can request access to and a copy of your information, correction, erasure or restriction of processing. Data portability may also apply to information you provided where automated processing is based on your consent or a contract.</p><p><strong>Right to object:</strong> Where processing relies on legitimate interests, you can object for reasons relating to your particular situation. Continued processing must then meet the statutory conditions. You can object to direct marketing at any time. You can withdraw consent for the future; this does not affect the lawfulness of earlier processing.</p><p>We normally respond to a rights request within one month. We will tell you about any legally permitted extension or necessary clarification. If a request is refused, you will receive an explanation. You can complain to the relevant supervisory authority. In the EU this may, in particular, be the authority where you habitually live, work or consider an infringement to have occurred. In the UK you can complain to the ICO.</p><p>If you believe our handling of your personal data breaches the UK GDPR, you can make a complaint directly to Exobasis LLC at <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a>. We acknowledge complaints within 30 days of receiving them. We investigate and provide the outcome without undue delay, keeping you informed of progress. This 30-day acknowledgement period is separate from the one-month response period for rights requests described above. You may also complain to the ICO independently of this process.</p><h3>Switzerland</h3><p>You can request information about your data, the purposes, recipients and retention, and correction of inaccurate information. Subject to the Act's conditions, you may also request data delivery or transfer and pursue remedies against unlawful processing, including deletion or an order to stop processing. You can report suspected infringements to the Federal Data Protection and Information Commissioner (FDPIC); civil claims follow the applicable legal process.</p><h3>United Arab Emirates</h3><p>Where the UAE federal law applies, you can request information about processing and, subject to its conditions, correction, erasure, transfer, restriction or cessation of processing. You can withdraw consent you have given. Article 24 provides for complaints to the UAE Data Bureau under its procedures.</p><h3>Processing in the Dominican Republic</h3><p>Where processing falls within Law 172-13, rights include access, correction, updating or deletion under that law's conditions. You can also contact our privacy address about these rights.</p><p>The website and enquiry process described here does not make solely automated decisions about a contract or a similarly significant personal matter. Its technical spam checks and submission limits protect the form.</p><p class=\"exb-citation\">Further information: <a href=\"https://commission.europa.eu/law/law-topic/data-protection/information-individuals_en\" rel=\"noreferrer\">European Commission: individual data-protection rights</a>; <a href=\"https://ico.org.uk/for-the-public/what-rights-do-i-have-over-my-personal-information/\" rel=\"noreferrer\">ICO: your information rights in the UK</a>.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "p-aufbewahrung",
       "title": "Retention and privacy contact",
-      "body": "<p>An initial enquiry without an assignment, ongoing work, an invoice, a protected case file and a technical log serve different purposes. Data is handled according to its purpose, necessary evidence and applicable retention obligations; backups also require defined handling. The operated service must specify actual periods or defensible deletion criteria for each category. A generic number of days would not be reliable.</p><p>Ask an initial privacy question through <a href=\"/en/enquiry/\">Private enquiry</a> without sending a copy of your identity document. If identity evidence is needed for a request, an appropriate route can be agreed. Sensitive follow-up records belong in <a href=\"/en/discretion/\">protected collaboration</a>.</p>",
-      "reviewRequirements": [
-        "Retention/deletion periods or justified criteria by category",
-        "Statutory retention and backup handling",
-        "Verified privacy contact"
-      ]
+      "body": "<p>Retention depends on why the particular information is still needed. The following criteria apply to the first contact described here and to later assignments:</p><ul><li><strong>Enquiries without a subsequent assignment:</strong> Contact details and correspondence are needed until the question has been answered and agreed follow-up has concluded. The handling purpose then ends. Further retention requires a specific legal reason or a necessary evidential purpose.</li><li><strong>Ongoing assignments:</strong> Necessary information remains available for delivery, handover and agreed ongoing support. On completion, records are assessed separately to establish what is still needed to fulfil the contract or establish, exercise or defend legal claims.</li><li><strong>Invoices and other mandatory records:</strong> The relevant statutory duties depend on the legal entity and the particular transaction. An obligation to retain an invoice does not automatically justify keeping every personal case document.</li><li><strong>Technical status records:</strong> The five-minute confirmation binding and ten-minute abuse counter apply only to the enquiry process described above. They are not deletion periods for emails, server logs or backups.</li><li><strong>Logs and backups:</strong> Error and security data may only be retained as long as necessary for their purpose. A specific security incident may require a defined set of records to be preserved for longer. Backups need their own deletion cycle; restoring a backup must not permanently undo deletions already carried out.</li></ul><p>Send a privacy question or rights request directly to <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a>. Briefly identify the contact or transaction concerned and explain what you are requesting. Do not send a copy of your identity document as a precaution. If there are reasonable doubts about your identity or authority to act for someone else, we will agree an appropriate check using as little additional information as possible. You do not need to buy a service or have an active assignment to make a privacy request.</p><p><a href=\"/en/enquiry/\">Private enquiry</a> remains the entry point for general questions. The page on <a href=\"/en/discretion/\">protected collaboration</a> explains how sensitive follow-up records are separated from ordinary first contact.</p>",
+      "reviewRequirements": []
     }
   ],
   "linkPlan": [
@@ -122,21 +101,5 @@
     }
   ],
   "legalType": "privacy",
-  "releaseBlockers": [
-    "Legal controller, address and privacy contact",
-    "Applicable jurisdictions and any required representative or data protection officer",
-    "Actual form/email recipient and the purpose/legal basis for each processing activity",
-    "Real delivery, status handling and selected optional channels",
-    "Production host, logs, purposes and retention",
-    "Actual necessary cookies/sessions and any additional processing",
-    "Specific providers, instances and recipient countries",
-    "Processing arrangements and transfer safeguards",
-    "Verified data flows, not only an intended architecture",
-    "Actual rights-request and complaint contacts",
-    "Competent supervisory authority and applicable rights",
-    "Identity checks and the real handling process",
-    "Retention/deletion periods or justified criteria by category",
-    "Statutory retention and backup handling",
-    "Verified privacy contact"
-  ]
+  "releaseBlockers": []
 }

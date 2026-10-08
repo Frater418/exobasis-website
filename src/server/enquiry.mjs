@@ -7,7 +7,6 @@ import { publicContexts } from '../lib/enquiry-context.mjs';
 const contact=loadJSON('src/data/contact.json');
 const fields=new Set(['lang','replyLanguage','email','intent','name','message','context','website']);
 const languages=new Set(['de','en']);
-const allowedContexts={de:new Set(Object.keys(publicContexts('de'))),en:new Set(Object.keys(publicContexts('en')))};
 const emailOK=value=>typeof value==='string'&&value.length<=254&&/^[^\s@<>\x00-\x1f\x7f]+@[^\s@<>\x00-\x1f\x7f]+\.[^\s@<>\x00-\x1f\x7f]+$/.test(value);
 const confirmationPath=lang=>lang==='de'?'/de/anfrage/bestaetigung/':'/en/enquiry/confirmation/';
 const cookiePath='/api/enquiry/confirmation';
@@ -27,7 +26,7 @@ export function readEnquiryConfig(env=process.env) {
  return {origin,sender,recipient,secureCookies:true,confirmationSeconds:300,rateLimit:5,trustProxy:env.EXOBASIS_TRUST_PROXY==='true',smtp:{host:required('EXOBASIS_SMTP_HOST'),port,secure:port===465,requireTLS:port!==465,auth:{user:required('EXOBASIS_SMTP_USER'),pass:required('EXOBASIS_SMTP_PASSWORD')},connectionTimeout:10_000,greetingTimeout:10_000,socketTimeout:20_000,disableFileAccess:true,disableUrlAccess:true,tls:{minVersion:'TLSv1.2'}}};
 }
 
-function validate(data) {
+function validate(data,allowedContexts) {
  if(!data||typeof data!=='object'||Array.isArray(data)||Object.keys(data).some(k=>!fields.has(k)))return ['form'];
  const errors=[];
  if(!languages.has(data.lang))errors.push('lang');
@@ -49,7 +48,8 @@ async function readBody(req) {
 }
 
 /** One process, transient receipt/rate metadata only. No message database or body logs. */
-export function createEnquiryServer(config,transport,{now=Date.now,event=()=>{}}={}) {
+export function createEnquiryServer(config,transport,{now=Date.now,event=()=>{},routes}={}) {
+ const allowedContexts={de:new Set(Object.keys(publicContexts('de',{routes}))),en:new Set(Object.keys(publicContexts('en',{routes})))};
  const receipts=new Map(),rates=new Map(),rateKey=randomBytes(32);
  const write=(res,status,data,headers={})=>{res.writeHead(status,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store, private','X-Content-Type-Options':'nosniff','Referrer-Policy':'no-referrer',...headers});res.end(JSON.stringify(data));};
  const cookie=(ref,token)=>`${cookieName(ref)}=${token}; Path=${cookiePath}; Max-Age=${config.confirmationSeconds}; HttpOnly; SameSite=Strict${config.secureCookies?'; Secure':''}`;
@@ -86,7 +86,7 @@ export function createEnquiryServer(config,transport,{now=Date.now,event=()=>{}}
    const rate=rates.get(key)||{count:0,expires:now()+600_000};
    if(rate.count>=(config.rateLimit||5)||rates.size>=10_000&&!rates.has(key)){write(res,429,{status:'rejected',code:'RATE_LIMIT'},{'Retry-After':'600'});return;}
    rate.count++;rates.set(key,rate);
-   const data=await readBody(req),errors=validate(data);
+   const data=await readBody(req),errors=validate(data,allowedContexts);
    if(errors.length){write(res,422,{status:'invalid',fields:errors});return;}
    if(data.website){write(res,429,{status:'rejected',code:'SPAM'});return;}
    if(receipts.size>=10_000){write(res,503,{status:'error',code:'CAPACITY'});return;}

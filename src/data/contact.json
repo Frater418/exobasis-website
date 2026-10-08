@@ -1,10 +1,10 @@
 {
-  "enabled": false,
-  "email": null,
+  "enabled": true,
+  "email": "info@exobasis.com",
   "calendar": null,
   "cryptpad": null,
   "simplex": null,
-  "formEndpoint": null,
+  "formEndpoint": "/api/enquiry",
   "languages": {
     "de": {
       "options": [

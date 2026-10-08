@@ -29,7 +29,15 @@ test('Country title spans preserve the complete heading including punctuation an
       const html = renderMain({...page, displayTitle});
       assert.equal(h1(html), e(displayTitle), page.route + ' ' + displayTitle);
       assert.doesNotMatch(html, /<test>/);
-      if (displayTitle.startsWith(page.country.name)) assert.match(html, /class="exb-country-name"/);
+      if (displayTitle.startsWith(page.country.name)) {
+        assert.match(html, /class="exb-country-name"/);
+        const name = html.match(/class="exb-country-name">([^<]*)<\/span>/)?.[1];
+        if (displayTitle === `${page.country.name}: Wohnen & Kauf`) {
+          assert.equal(name, e(`${page.country.name}:`), 'Colon belongs to the country name: ' + page.route);
+        } else {
+          assert.equal(name, e(page.country.name), page.route);
+        }
+      }
     }
   }
 });

@@ -1,0 +1,462 @@
+{
+  "version": 1,
+  "assets": {
+    "assets/abschluss-kueste.webp": {
+      "sha256": "0866a06cb08858b4c357a948468e85b466ae85e36e164f15a76f7bef4c59efe9",
+      "rightsEvidence": "Raphaels ausdrückliche Rechte-/Nutzungsbestätigung EXOBASIS-LIVEFREIGABE-20261008 für den aktuellen gelieferten Websitebestand, einschließlich W066. Beleg: Umsetzung/Release/LIVEFREIGABE_20261008.md. Nutzerbestätigung zur Verwendung dieses konkreten Assets, kein behaupteter unabhängiger Lizenz- oder Urhebernachweis.",
+      "licenseFiles": []
+    },
+    "assets/countries/argentinien-locator.svg": {
+      "sha256": "6fc42f51fd9aec343c7dd621d9dec324aabf0249c17abb3c18c237d8464912d8",
+      "rightsEvidence": "W002; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/argentinien.webp": {
+      "sha256": "7c60d358431549d03e2e5ef093b99be48245eacfbe5c6f57d1b13bd3fd1d7a21",
+      "rightsEvidence": "W003; CC BY 3.0; Michelle Maria; https://commons.wikimedia.org/wiki/File:Buenos_Aires,_Argentina_Skyline_-_panoramio_(1).jpg; https://creativecommons.org/licenses/by/3.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/australien-locator.svg": {
+      "sha256": "f9539438cb7d1e512b2a56d13afd61600175c130cb59b58c3476df82df0b5984",
+      "rightsEvidence": "W004; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/australien.webp": {
+      "sha256": "325f248b72c113ffefa00b83654d0029cce93379e8df3bb01c3b3bfa22faf197",
+      "rightsEvidence": "W005; CC BY-SA 4.0; Gracchus250; https://commons.wikimedia.org/wiki/File:City_of_Melbourne_skyline_view_from_Southbank_with_Princes_Bridge_and_Flinders_St,_2018.jpg; https://creativecommons.org/licenses/by-sa/4.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/brasilien-locator.svg": {
+      "sha256": "e8515415d99de6efddcd72fbc45c812dc7896e174fea853669c34e63f770a700",
+      "rightsEvidence": "W006; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/brasilien.webp": {
+      "sha256": "52d3666265601df062c55fbcde206508095a9fe4f0ed4020ad6ce549015292a2",
+      "rightsEvidence": "W007; CC0; Wilfredor; https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro_cityscape_across_Guanabara_Bay,_Brazil.jpg; http://creativecommons.org/publicdomain/zero/1.0/deed.en; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/chile-locator.svg": {
+      "sha256": "096525e6d96494359146aed45bb00c2f13431be1e7676ca901de9603158e8129",
+      "rightsEvidence": "W008; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/chile.webp": {
+      "sha256": "b9ab14e1a5ae7549f4a4077532b5570995796c07d423e9c006f00844e45ddb50",
+      "rightsEvidence": "W009; CC BY 2.0; Marco Nürnberger; https://commons.wikimedia.org/wiki/File:Blue_hour_in_Santiago_de_Chile.jpg; https://creativecommons.org/licenses/by/2.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/costa-rica-locator.svg": {
+      "sha256": "645853e26af81e405a1043aed3c791a95bc34595082cd74b29e1599f7d8b4cf4",
+      "rightsEvidence": "W010; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/costa-rica.webp": {
+      "sha256": "2db52168c2b0405bc498c0365859716c98ca0700cde2e1d2db9e8995cd29b2a7",
+      "rightsEvidence": "W011; CC BY-SA 4.0; Tico73; https://commons.wikimedia.org/wiki/File:San_Jos%C3%A9_Uno.jpg; https://creativecommons.org/licenses/by-sa/4.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/dominikanische-republik-locator.svg": {
+      "sha256": "e4a9892ef0e57307405e3126fea7598f5617b6be4ac4e300080251b2347f94dc",
+      "rightsEvidence": "W012; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/dominikanische-republik.webp": {
+      "sha256": "e16051891271624452ccab533496526f1609aaf8449d986d81ab38afa964d914",
+      "rightsEvidence": "W013; CC BY-SA 2.0; Miguel Discart (Flickr: miguel_discart_vrac_3); https://commons.wikimedia.org/wiki/File:Santo_Domingo_Dominican_Republic_Neighborhoods.jpg; https://creativecommons.org/licenses/by-sa/2.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/georgien-locator.svg": {
+      "sha256": "faeee6a641e0c8d5b2ea0b2b9701eac9d5fff615b312fb4d737b88baf966205c",
+      "rightsEvidence": "W014; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/georgien.webp": {
+      "sha256": "33c393a1c2d2268aeede59847a0f32aaf4578fb0d022445fc05b82a15ff54317",
+      "rightsEvidence": "W015; CC BY-SA 2.0; Alf Altendorf; https://commons.wikimedia.org/wiki/File:Cityscape_of_central_Tbilisi,_2022.jpg; https://creativecommons.org/licenses/by-sa/2.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/griechenland-locator.svg": {
+      "sha256": "522e0dd6131f16847ba01e0e82f5d94f3edb2475dfadf1222dd68edf21d27731",
+      "rightsEvidence": "W016; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/griechenland.webp": {
+      "sha256": "60e746df2bb636dce238cb942a8067a2269d76c34c993cb375b5d36e33f7f49f",
+      "rightsEvidence": "W017; CC BY-SA 3.0; G Da; https://commons.wikimedia.org/wiki/File:Cityscape_of_ancient_and_modern_Athens_-_panoramio.jpg; https://creativecommons.org/licenses/by-sa/3.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/irland-locator.svg": {
+      "sha256": "abb23b8477654e3f5fb8f81677ddb1939aeb73e489073e579548ed3392be6588",
+      "rightsEvidence": "W018; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/irland.webp": {
+      "sha256": "687bbb292622e9258b2022fa68a4a320e1d962bfaa05e1117fbf425eb36078af",
+      "rightsEvidence": "W019; CC BY 2.0; John Flanagan; https://commons.wikimedia.org/wiki/File:Dublin_7,_Ireland_cityscape.jpg; https://creativecommons.org/licenses/by/2.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/island-locator.svg": {
+      "sha256": "093fc636405ebb7cd919d1a4a5162709fa91e05068b29d6dfc2278ce3ab1b95b",
+      "rightsEvidence": "W020; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/island.webp": {
+      "sha256": "5022889cec0d2f141afb28947ddeb363871aaf00c1db20c491621fbff81b0dd6",
+      "rightsEvidence": "W021; CC0; Andrew Smales bn2b; https://commons.wikimedia.org/wiki/File:Reykjavik,_Iceland_aerial_cityscape_(Unsplash).jpg; http://creativecommons.org/publicdomain/zero/1.0/deed.en; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/kanada-locator.svg": {
+      "sha256": "e76466248e69ccc41fb1f8ce33e388f93bbe66da645bc6b4aa73b2ccae9b2053",
+      "rightsEvidence": "W022; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/kanada.webp": {
+      "sha256": "08de531a56e30ef0024d8fe7a6a866ecd768935191d20144d3f6d839e5d7ee30",
+      "rightsEvidence": "W023; CC BY-SA 4.0; Dietmar Rabich; https://commons.wikimedia.org/wiki/File:Vancouver_(BC,_Canada),_Waterfront_--_2022_--_1851.jpg; https://creativecommons.org/licenses/by-sa/4.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/malaysia-locator.svg": {
+      "sha256": "5d77fe8e5a21753fd99c3ce226004235c4b18958e5befee905effd22e8796823",
+      "rightsEvidence": "W024; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/malaysia.webp": {
+      "sha256": "b9073e691295d636c6810322ab8ba415f8fdda55aab81ef2883ce7a9f09e3ebd",
+      "rightsEvidence": "W025; CC BY-SA 3.0; Saad Abdullah; https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Cityscape.jpg; https://creativecommons.org/licenses/by-sa/3.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/malta-locator.svg": {
+      "sha256": "01ada3dc5e0c4f4894b6fb48a6557472b9465b1b2bfe81e5693f40803eab4698",
+      "rightsEvidence": "W026; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/malta.webp": {
+      "sha256": "dfa7a1c8cfbc8b4ff9884455af10e5a19a7ef56434aec437d7d85897ea749b6d",
+      "rightsEvidence": "W027; CC BY-SA 3.0; Mstyslav Chernov; https://commons.wikimedia.org/wiki/File:Cityscape_of_Valletta,_Malta,_Mediterranean_Sea.jpg; https://creativecommons.org/licenses/by-sa/3.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/mauritius-locator.svg": {
+      "sha256": "db95725c96d1a2f243e72b9bbdc62f78146f39ce7f4e9c0a8f8a5569397bf86f",
+      "rightsEvidence": "W028; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/mauritius.webp": {
+      "sha256": "5dee3ccccbc3d98e15b0372cee97c747914726122db26e0509a753aa1011bf26",
+      "rightsEvidence": "W029; CC BY-SA 3.0; Peter Kuchar (pkuchar); https://commons.wikimedia.org/wiki/File:Evening_Port_Louis.jpg; https://creativecommons.org/licenses/by-sa/3.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/mexiko-locator.svg": {
+      "sha256": "e6a45320150c6388eaeb76da90733f7c9f1d082b566a9432c8bd1b7554fcb132",
+      "rightsEvidence": "W030; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/mexiko.webp": {
+      "sha256": "9a026728075603cbb9503ec90e71554a6fc1fa40c17d4eef5604b190533bdc6b",
+      "rightsEvidence": "W031; CC BY-SA 4.0; Jonathan Salvador; https://commons.wikimedia.org/wiki/File:Mexico_City_Reforma_skyline.jpg; https://creativecommons.org/licenses/by-sa/4.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/namibia-locator.svg": {
+      "sha256": "48ca484d1f3fbf73abb8006c6d3fe92a6a88b11a8a03e71587c87a855fd60eb8",
+      "rightsEvidence": "W032; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/namibia.webp": {
+      "sha256": "3f1f160c99008a6a739db964657721db6ad970d6cd11b4b89d0dfa25fa6c4e07",
+      "rightsEvidence": "W033; CC BY-SA 2.5; Bries; https://commons.wikimedia.org/wiki/File:Windhoek-Skyline.jpg; https://creativecommons.org/licenses/by-sa/2.5; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/neuseeland-locator.svg": {
+      "sha256": "9adbbf2d1c58506faa5ffbd6e62fa4952a76ccdfcc4db40aaab7d77735b20d84",
+      "rightsEvidence": "W034; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/neuseeland.webp": {
+      "sha256": "99f2813d17c110f5ee33a52eb5977653a00aaa5e71d0e6e9aa3e5e7cac291e74",
+      "rightsEvidence": "W035; CC BY-SA 4.0; Krzysztof Golik; https://commons.wikimedia.org/wiki/File:Cityscape_of_Wellington.jpg; https://creativecommons.org/licenses/by-sa/4.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/panama-locator.svg": {
+      "sha256": "b8a9f249fb5d78979c63e62550e61e77190d4eb2c79f519417cb9d1e4b37db7d",
+      "rightsEvidence": "W036; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/panama.webp": {
+      "sha256": "8d9b294ef9c1673db5f145d084540148afb3369802cf05f55a0050be8823746c",
+      "rightsEvidence": "W037; CC BY 2.0; Marissa Strniste; https://commons.wikimedia.org/wiki/File:Panama_City_Skyline.jpg; https://creativecommons.org/licenses/by/2.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/paraguay-locator.svg": {
+      "sha256": "01cb6d99fc41660a60c14b97b5f22dfb66ea0711b2be7cfdfe339c6b10566970",
+      "rightsEvidence": "W038; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/paraguay.webp": {
+      "sha256": "7c21a44f24622f5ab016f91c483931f43ce464da20ab25018f7867e5352b0a62",
+      "rightsEvidence": "W039; CC BY-SA 4.0; W. Bulach; https://commons.wikimedia.org/wiki/File:00_3819_Asunci%C3%B3n_-_Paraguay_(S%C3%BCdamerika).jpg; https://creativecommons.org/licenses/by-sa/4.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/portugal-locator.svg": {
+      "sha256": "f157b1dc675034f4b9234fc2b243aeb956eb5e18a323975ca99c79900fa35949",
+      "rightsEvidence": "W040; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/portugal.webp": {
+      "sha256": "4b83b50a5f73ad9dde0df967000232e3f205e75ba028ce3ce38d90b47470af4f",
+      "rightsEvidence": "W041; CC BY 4.0; Michael Gaylard from Horsham, UK; https://commons.wikimedia.org/wiki/File:A_vibrant_panorama_of_Porto,_Portugal,_showcasing_the_Douro_River,_historic_Ribeira_district,_and_the_Dom_Lu%C3%ADs_I_Bridge._(55247151390).jpg; https://creativecommons.org/licenses/by/4.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/schweiz-locator.svg": {
+      "sha256": "89ec175481f7e2a88cf5c9849f95ee5269fc0cdd3f16681df90c513ecfe3a2d1",
+      "rightsEvidence": "W042; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/schweiz.webp": {
+      "sha256": "0f4109add39bb6ee0f3b4a5bf416c7454f8796e10cb000a21c47ffbe5396a0cd",
+      "rightsEvidence": "W043; CC BY-SA 3.0 de; Thomas Wolf , www.foto-tw.de; https://commons.wikimedia.org/wiki/File:Altstadt_Z%C3%BCrich_2015.jpg; https://creativecommons.org/licenses/by-sa/3.0/de/deed.en; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/spanien-locator.svg": {
+      "sha256": "9147103d6ea7d47fd981782f35330e9c7ee7c8a237c735a5db2a674ee01d943b",
+      "rightsEvidence": "W044; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/spanien.webp": {
+      "sha256": "01476943ab75f1e6c357cc59d698328d10cc43e4e6d9f33a42a4aeaf3056e099",
+      "rightsEvidence": "W045; CC BY 4.0; Mukeber; https://commons.wikimedia.org/wiki/File:Valencia_Skyline.jpg; https://creativecommons.org/licenses/by/4.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/suedafrika-locator.svg": {
+      "sha256": "c6ce9544839152f90815d8caf3b47241c49a0c5864a2d3c755767c86a787430f",
+      "rightsEvidence": "W046; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/suedafrika.webp": {
+      "sha256": "2096ef7be18391ed3dedbfe1e4628bfef8f4101d67e59a49594de0a9755a3d59",
+      "rightsEvidence": "W047; CC BY-SA 4.0; Josep M. Gracia; https://commons.wikimedia.org/wiki/File:CT_-_Table_Mountain_and_Cape_Town_cityscape,_South_Africa,_2017.jpg; https://creativecommons.org/licenses/by-sa/4.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/thailand-locator.svg": {
+      "sha256": "340a470d00b2045b15b885d9d8f37dda6c1be8382e8200fe5253274518332e41",
+      "rightsEvidence": "W048; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/thailand.webp": {
+      "sha256": "26a9113b87ed959f628501ac8635939efc84e0b4f94f33f2b8dea30b27b75a81",
+      "rightsEvidence": "W049; CC BY-SA 3.0; Stefan Fussan; https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_Chiang_Mai_Moat_-_0002.jpg; https://creativecommons.org/licenses/by-sa/3.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/uruguay-locator.svg": {
+      "sha256": "e0b8c766de7cfc79f88bb39c04b49e59c4a9cb29be4d7ba3f61495f452670da1",
+      "rightsEvidence": "W050; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/uruguay.webp": {
+      "sha256": "1efb2c9b2e088b0d469a471a2304f6a8ed245499f7397475fefe546b511aeaee",
+      "rightsEvidence": "W051; CC BY-SA 2.0; Marcelo Campi; https://commons.wikimedia.org/wiki/File:Montevideo_desde_arriba.jpg; https://creativecommons.org/licenses/by-sa/2.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/vae-locator.svg": {
+      "sha256": "7108564a4693c77285b0dc366407306f4b0b789dc4434ef1c02691077ba70fa4",
+      "rightsEvidence": "W052; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/vae.webp": {
+      "sha256": "8c8849b6fd9bd5cbb41d8bee0a2f8e52a4d42bf91abc5c011f3b34062ac50c4c",
+      "rightsEvidence": "W053; CC BY 3.0; Ralf Roletschek; https://commons.wikimedia.org/wiki/File:13-08-06-abu-dhabi-by-RalfR-077.jpg; https://creativecommons.org/licenses/by/3.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/zypern-locator.svg": {
+      "sha256": "30b537f5eb8a5005620d59d6324d424a4297f2f2dd58c2bc9466d60d21af1b93",
+      "rightsEvidence": "W054; Natural Earth public domain (data); own rendering per historical record; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/countries/zypern.webp": {
+      "sha256": "c2b7b8ca2f76a6880303722c77cb807976b483ff46a9c09497f6304356abc6ab",
+      "rightsEvidence": "W055; CC BY-SA 3.0; NicosiaEurope; https://commons.wikimedia.org/wiki/File:View_of_Nicosia_the_capital_of_Republic_of_Cyprus.jpg; https://creativecommons.org/licenses/by-sa/3.0; Wikimedia-Commons-Vorschaubild auf 3:2-Mittelausschnitt beschnitten, auf 1200 × 800 Pixel skaliert und als WebP komprimiert; kein weiterer Eingriff.; Gebundener Herkunftsbeleg: Umsetzung/Designintegration/parallel-pbd89/kernrelease-integration-20261008/evidence/RIGHTS_RECEIPTS.json; Quellen- und Lizenzangaben an der sichtbaren Länderabbildung bleiben erhalten.",
+      "licenseFiles": []
+    },
+    "assets/einstieg-ausweg.webp": {
+      "sha256": "0866a06cb08858b4c357a948468e85b466ae85e36e164f15a76f7bef4c59efe9",
+      "rightsEvidence": "Raphaels ausdrückliche Rechte-/Nutzungsbestätigung EXOBASIS-LIVEFREIGABE-20261008 für den aktuellen gelieferten Websitebestand, einschließlich W066. Beleg: Umsetzung/Release/LIVEFREIGABE_20261008.md. Nutzerbestätigung zur Verwendung dieses konkreten Assets, kein behaupteter unabhängiger Lizenz- oder Urhebernachweis.",
+      "licenseFiles": []
+    },
+    "assets/einstieg-hilfe.webp": {
+      "sha256": "c57db58486c9ba08e2cef681ac2e338eba0e1fd9a9a980266b1f07d199bbba8f",
+      "rightsEvidence": "Raphaels ausdrückliche Rechte-/Nutzungsbestätigung EXOBASIS-LIVEFREIGABE-20261008 für den aktuellen gelieferten Websitebestand, einschließlich W066. Beleg: Umsetzung/Release/LIVEFREIGABE_20261008.md. Nutzerbestätigung zur Verwendung dieses konkreten Assets, kein behaupteter unabhängiger Lizenz- oder Urhebernachweis.",
+      "licenseFiles": []
+    },
+    "assets/einstieg-laender.webp": {
+      "sha256": "cccc69b7fbe30718728ba1c78c594ae17f2783eddcb0aa12576451d085c8fa49",
+      "rightsEvidence": "Raphaels ausdrückliche Rechte-/Nutzungsbestätigung EXOBASIS-LIVEFREIGABE-20261008 für den aktuellen gelieferten Websitebestand, einschließlich W066. Beleg: Umsetzung/Release/LIVEFREIGABE_20261008.md. Nutzerbestätigung zur Verwendung dieses konkreten Assets, kein behaupteter unabhängiger Lizenz- oder Urhebernachweis.",
+      "licenseFiles": []
+    },
+    "assets/flag-de.svg": {
+      "sha256": "6a9888699f1622862065cdd6e257c8f967757a63bc9cc33645fc1c8c01b6c9bf",
+      "rightsEvidence": "Raphaels ausdrückliche Rechte-/Nutzungsbestätigung EXOBASIS-LIVEFREIGABE-20261008 für den aktuellen gelieferten Websitebestand, einschließlich W066. Beleg: Umsetzung/Release/LIVEFREIGABE_20261008.md. Nutzerbestätigung zur Verwendung dieses konkreten Assets, kein behaupteter unabhängiger Lizenz- oder Urhebernachweis.",
+      "licenseFiles": []
+    },
+    "assets/flag-en.svg": {
+      "sha256": "d3f05e2cb35de18d8518381d49279abaa81636eacbd3c631d456f07617192810",
+      "rightsEvidence": "Raphaels ausdrückliche Rechte-/Nutzungsbestätigung EXOBASIS-LIVEFREIGABE-20261008 für den aktuellen gelieferten Websitebestand, einschließlich W066. Beleg: Umsetzung/Release/LIVEFREIGABE_20261008.md. Nutzerbestätigung zur Verwendung dieses konkreten Assets, kein behaupteter unabhängiger Lizenz- oder Urhebernachweis.",
+      "licenseFiles": []
+    },
+    "assets/fonts/LICENSE-Manrope.txt": {
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "rightsEvidence": "Unchanged SIL OFL 1.1 licence bytes in src/data/brand-assets.json and server handoff; accompanying supplied B fonts",
+      "licenseFiles": []
+    },
+    "assets/fonts/LICENSE-SourceSans3.txt": {
+      "sha256": "56af9b9c6715597e458284a474dc118a50a4150e9d547c70f7b4a33c3e6a9328",
+      "rightsEvidence": "Unchanged SIL OFL 1.1 licence bytes in src/data/brand-assets.json and server handoff; accompanying supplied B fonts",
+      "licenseFiles": []
+    },
+    "assets/fonts/manrope-latin-ext.woff2": {
+      "sha256": "3911b66d9f2e005a4b989223405d0e5032619c668597ba467cc76a23c8fffcfb",
+      "rightsEvidence": "SIL OFL 1.1: exact delivered font/licence pair in src/data/brand-assets.json; see public/assets/fonts/LICENSE-Manrope.txt and ANSCHLUSS_SERVERSTRANG.md",
+      "licenseFiles": [
+        "assets/fonts/LICENSE-Manrope.txt",
+        "assets/fonts/SCHRIFTLIZENZEN.txt"
+      ]
+    },
+    "assets/fonts/manrope-latin.woff2": {
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+      "rightsEvidence": "SIL OFL 1.1: exact delivered font/licence pair in src/data/brand-assets.json; see public/assets/fonts/LICENSE-Manrope.txt and ANSCHLUSS_SERVERSTRANG.md",
+      "licenseFiles": [
+        "assets/fonts/LICENSE-Manrope.txt",
+        "assets/fonts/SCHRIFTLIZENZEN.txt"
+      ]
+    },
+    "assets/fonts/SCHRIFTLIZENZEN.txt": {
+      "sha256": "17065cc3bc1815bf918e543d88ae9715e1f5c586a8f8d942c7421b5391392ad6",
+      "rightsEvidence": "Unchanged SIL OFL 1.1 licence bytes in src/data/brand-assets.json and server handoff; accompanying supplied B fonts",
+      "licenseFiles": []
+    },
+    "assets/fonts/source-sans-3-latin-ext.woff2": {
+      "sha256": "a85a7459bdb3cdc1136751e151a506bae653fc29ada3ca86237477df6f1b59e6",
+      "rightsEvidence": "SIL OFL 1.1: exact delivered font/licence pair in src/data/brand-assets.json; see public/assets/fonts/LICENSE-SourceSans3.txt and ANSCHLUSS_SERVERSTRANG.md",
+      "licenseFiles": [
+        "assets/fonts/LICENSE-SourceSans3.txt",
+        "assets/fonts/SCHRIFTLIZENZEN.txt"
+      ]
+    },
+    "assets/fonts/source-sans-3-latin.woff2": {
+      "sha256": "19143dca075972bc84e3fd9eab7416dd40cc565dccb2435a044bdfabe060c7d5",
+      "rightsEvidence": "SIL OFL 1.1: exact delivered font/licence pair in src/data/brand-assets.json; see public/assets/fonts/LICENSE-SourceSans3.txt and ANSCHLUSS_SERVERSTRANG.md",
+      "licenseFiles": [
+        "assets/fonts/LICENSE-SourceSans3.txt",
+        "assets/fonts/SCHRIFTLIZENZEN.txt"
+      ]
+    },
+    "assets/hero-kueste.webp": {
+      "sha256": "2f2fae4531f2cf923c6c6eac9b09f2bd552187d0b530ac32ef62abddb20062f5",
+      "rightsEvidence": "Raphaels ausdrückliche Rechte-/Nutzungsbestätigung EXOBASIS-LIVEFREIGABE-20261008 für den aktuellen gelieferten Websitebestand, einschließlich W066. Beleg: Umsetzung/Release/LIVEFREIGABE_20261008.md. Nutzerbestätigung zur Verwendung dieses konkreten Assets, kein behaupteter unabhängiger Lizenz- oder Urhebernachweis.",
+      "licenseFiles": []
+    },
+    "assets/namenszug-raphael.svg": {
+      "sha256": "64036e0a9efa8e8012ae042f9cbfa58fff36e4dd101c5599542aff8e99dba784",
+      "rightsEvidence": "Raphaels ausdrückliche Rechte-/Nutzungsbestätigung EXOBASIS-LIVEFREIGABE-20261008 für den aktuellen gelieferten Websitebestand, einschließlich W066. Beleg: Umsetzung/Release/LIVEFREIGABE_20261008.md. Nutzerbestätigung zur Verwendung dieses konkreten Assets, kein behaupteter unabhängiger Lizenz- oder Urhebernachweis.",
+      "licenseFiles": []
+    },
+    "assets/raphael-rechberger-original.png": {
+      "sha256": "82aade3600fc72b90a16747d459f4db0bf789030cda6aef2300d97abfaebdbba",
+      "rightsEvidence": "Raphaels ausdrückliche Rechte-/Nutzungsbestätigung EXOBASIS-LIVEFREIGABE-20261008 für den aktuellen gelieferten Websitebestand, einschließlich W066. Beleg: Umsetzung/Release/LIVEFREIGABE_20261008.md. Nutzerbestätigung zur Verwendung dieses konkreten Assets, kein behaupteter unabhängiger Lizenz- oder Urhebernachweis.",
+      "licenseFiles": []
+    },
+    "css/countries.css": {
+      "sha256": "6ce18110430a2877f28140995487019ec57e9d413813000c3e137a4449eafeb8",
+      "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
+      "licenseFiles": []
+    },
+    "css/exobasis-b-components.css": {
+      "sha256": "d01722855d143bfd8ca59645d62b4e207def80d62cfe20cdb467d04177b7228c",
+      "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
+      "licenseFiles": []
+    },
+    "css/exobasis-b-fonts.css": {
+      "sha256": "3e26b9f63d5d9fba9a96d0e435bcf127bb80c0b9e77dc2dc88ff7419712885c9",
+      "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
+      "licenseFiles": []
+    },
+    "css/exobasis-b-home.css": {
+      "sha256": "1ba4d4192940e479a701f2f5ce0c6b4041a46a11d1780c7784c5acfbf6f6cb20",
+      "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
+      "licenseFiles": []
+    },
+    "css/exobasis-b-integration.css": {
+      "sha256": "f4c8e190da8942c888d70782db214ea06b1d1ec07e84dccf03da9a9f76619e29",
+      "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
+      "licenseFiles": []
+    },
+    "css/exobasis-b-motion.css": {
+      "sha256": "f5b5e5984ebda8ae775f26844e15ba27da568e79c3990edd878f5645d251ecf9",
+      "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
+      "licenseFiles": []
+    },
+    "css/exobasis-b-tokens.css": {
+      "sha256": "2505ef94e07fc600e6f34eb91c9304a2d520006c70f7e3caff0bd478aa625288",
+      "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
+      "licenseFiles": []
+    },
+    "css/site.css": {
+      "sha256": "4eb36877b2b6c8bc55654329fd8806cb08e79f8fd2c9d4d9d3d6a0bb1090cec6",
+      "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
+      "licenseFiles": []
+    },
+    "css/supplemental.css": {
+      "sha256": "1c3a3a9a215d51b3bb7626dcc909f1000e2323f3c0124546e40ffba95a28996b",
+      "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
+      "licenseFiles": []
+    },
+    "css/v6.css": {
+      "sha256": "b3f2e628618e4575cde4a8704cb6284f1ad95b2514cecb5ca6ade4f66da29adf",
+      "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
+      "licenseFiles": []
+    },
+    "js/confirmation.js": {
+      "sha256": "383084e5165ba71d8f2c80e64aa5f9181175439d13b1e682db8eb84be7407d51",
+      "rightsEvidence": "Projektbezogener Website-Quellcode von Raphael Rechberger für die bestehende HTTP-Bestätigungsanzeige. Durch die ausdrücklich freigegebene Formularaktivierung tatsächlich benötigt; keine neue E-Mail oder externe Bibliothek.",
+      "licenseFiles": []
+    },
+    "js/departure-context.js": {
+      "sha256": "6841049b26f2bff0766574629bfa448acce4d54087675fe0d78f97b7c9ce1693",
+      "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
+      "licenseFiles": []
+    },
+    "js/enquiry.js": {
+      "sha256": "998bbcf9a96702a7723b3ba4a7c5e20206bc15eb0f9c91c76130413eaf821c8c",
+      "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
+      "licenseFiles": []
+    },
+    "js/navigation.js": {
+      "sha256": "d388b89fe101e4d4c0335e7cb1f51763693a855cfd5b1865311cc32b591a59bb",
+      "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
+      "licenseFiles": []
+    },
+    "logo/exobasis-b-favicon.ico": {
+      "sha256": "3a856dabe2c2a9661a97c3516c0d498fd6769ebd3687db0742d6cd53b64b5576",
+      "rightsEvidence": "Für EXOBASIS im eigenen Projekt ausgearbeiteter B-Logo-/Iconmaster aus EXOBASIS-Markenpaket-B-2026-10-07, persönlich gewählte Richtung PB-D79 und übernommene Lieferung PB-D84. Technische Bindung: src/data/brand-assets.json; keine Übernahme eines fremden Unternehmenslogos.",
+      "licenseFiles": []
+    },
+    "logo/exobasis-b-favicon.svg": {
+      "sha256": "25fe25bf906b14cd889de9f5956099e767d8c5e1c26b3e0bd5aaca4c7dc603b1",
+      "rightsEvidence": "Für EXOBASIS im eigenen Projekt ausgearbeiteter B-Logo-/Iconmaster aus EXOBASIS-Markenpaket-B-2026-10-07, persönlich gewählte Richtung PB-D79 und übernommene Lieferung PB-D84. Technische Bindung: src/data/brand-assets.json; keine Übernahme eines fremden Unternehmenslogos.",
+      "licenseFiles": []
+    },
+    "logo/exobasis-b-horizontal-hell.svg": {
+      "sha256": "623f22fbc026cba68c76ffa284f53c3e3c46e233e8bd966d41ac1afebd5b8942",
+      "rightsEvidence": "Für EXOBASIS im eigenen Projekt ausgearbeiteter B-Logo-/Iconmaster aus EXOBASIS-Markenpaket-B-2026-10-07, persönlich gewählte Richtung PB-D79 und übernommene Lieferung PB-D84. Technische Bindung: src/data/brand-assets.json; keine Übernahme eines fremden Unternehmenslogos.",
+      "licenseFiles": []
+    },
+    "logo/exobasis-b-icon-180.png": {
+      "sha256": "781dbdd579954d8bb05378490942cd6004cf0fba18515cafb40bc2525d377e32",
+      "rightsEvidence": "Für EXOBASIS im eigenen Projekt ausgearbeiteter B-Logo-/Iconmaster aus EXOBASIS-Markenpaket-B-2026-10-07, persönlich gewählte Richtung PB-D79 und übernommene Lieferung PB-D84. Technische Bindung: src/data/brand-assets.json; keine Übernahme eines fremden Unternehmenslogos.",
+      "licenseFiles": []
+    },
+    "logo/exobasis-b-wortmarke-hell.svg": {
+      "sha256": "2d958a90287a50dc8cac7b52320f28baff5d3c172bb589c6ca06dddb3cb12c1e",
+      "rightsEvidence": "Für EXOBASIS im eigenen Projekt ausgearbeiteter B-Logo-/Iconmaster aus EXOBASIS-Markenpaket-B-2026-10-07, persönlich gewählte Richtung PB-D79 und übernommene Lieferung PB-D84. Technische Bindung: src/data/brand-assets.json; keine Übernahme eines fremden Unternehmenslogos.",
+      "licenseFiles": []
+    }
+  }
+}

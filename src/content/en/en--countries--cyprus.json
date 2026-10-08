@@ -7,7 +7,7 @@
   "model": "laenderprofil",
   "schemaVersion": 1,
   "kind": "country",
-  "reviewStatus": "draft_for_review",
+  "reviewStatus": "approved",
   "sourceRefs": [
     {
       "module": "11_Schreibauftraege_Laender.md",
@@ -21,9 +21,9 @@
     }
   ],
   "eyebrow": "Your Plan B / Countries",
-  "seoTitle": "Cyprus as your Plan B | EXOBASIS",
-  "description": "Assess Cyprus for your family: residence routes, housing, essential services and practical preparation with EXOBASIS.",
-  "intro": "<p>You want a different foundation for your family and business. Cyprus calls for a clear assessment of residence rights, island supplies and the regional conflict environment. Tax or business considerations must be tested against your actual living and contingency objectives.</p>",
+  "seoTitle": "Moving to Cyprus: residency, family life and property | EXOBASIS",
+  "description": "Plan a Cyprus home from the UK or UAE: residence routes, Larnaca and Nicosia, schools, healthcare, property and money access. EXOBASIS prepares the practical steps.",
+  "intro": "<p>You want somewhere your family can go and build a life beyond the arrangements you depend on today. Perhaps fear of war is making a second base urgent. Perhaps you are ready to leave Britain, or want a European home that does not depend on your current UAE job and residence permission.</p><p>Cyprus becomes a useful option when your family can enter, stay, pay for daily life and move into a home with the right school and care arrangements. EXOBASIS organises that preparation, from residence documents and a housing search to arrival and the agreed continuing care of your base.</p>",
   "countryContext": "/en/countries/cyprus/",
   "linkPlan": [
     {
@@ -106,20 +106,260 @@
   ],
   "sources": [
     {
-      "title": "Your Europe: Residence rights",
-      "url": "https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm",
-      "section": 5,
-      "checkedAt": "2026-09-26",
-      "verification": "live_primary_text",
+      "title": "Kapnos: normal airport transport connections",
+      "url": "https://kapnosairportshuttle.com/",
+      "section": 2,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
       "limitation": ""
     },
     {
-      "title": "Republic of Cyprus: Immigration permits for investors",
+      "title": "Ministry of Interior: naturalisation through years of residence",
+      "url": "https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/",
+      "section": 3,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Migration Department: UK protected residence",
+      "url": "https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/u-k-nationals-and-family-members-with-free-movement/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Migration Department: MEU1 registration",
+      "url": "https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Migration Department: MEU2 family residence",
+      "url": "https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member-2/entry-and-residence-of-third-country-nationals-who-are-family-members-of-an-e-u-e-e-a-citizen-meu2/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Migration Department: Visitors and family",
+      "url": "https://www.gov.cy/mip-md/en/documents/visitors-and-family-members/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Official Visitor supporting-document checklist",
+      "url": "https://www.gov.cy/app/uploads/sites/174/2025/12/SUPPORTING-DOCUMENTS-VISITOR-PERMIT-1a.docx",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Migration Department: Digital Nomads and family members",
+      "url": "https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Migration Department: Regulation 6(2) investor residence and subsequent clarifications",
       "url": "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/",
       "section": 5,
-      "checkedAt": "2026-09-26",
-      "verification": "official_indexed_text",
-      "limitation": "Direktabruf 403; offizieller indexierter Text gelesen. Nur Regulation-6(2)-Kategorienlogik übernommen, keine Beträge, Laufzeit- oder aktuelle Detailzusage."
+      "checkedAt": "2026-09-24",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "American Academy Larnaca: admissions policy",
+      "url": "https://www.academy.ac.cy/wp-content/uploads/2026/06/Admissions-Policy-and-Procedures_Website.pdf",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Nicosia General Hospital: patient information",
+      "url": "https://www.shso.org.cy/en/patient-and-visitor/geniko-nosokomeio-lefkosias/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Chapter 109: property-acquisition law",
+      "url": "https://cylaw.org/nomoi/enop/non-ind/0_109/full.html",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Chapter 109: area and purpose conditions",
+      "url": "https://cylaw.org/nomoi/enop/non-ind/0_109/full.html",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Ministry of Interior: purchase-permission process",
+      "url": "https://www.gov.cy/moi/en/documents/purchasing-property/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "DLS: sale-contract deposit",
+      "url": "https://portal.dls.moi.gov.cy/en/application_forms/symvasis-polisis-antiparochis-antallagis/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "DLS: mortgage-release procedure",
+      "url": "https://portal.dls.moi.gov.cy/en/application_forms/symvasis-polisis-antiparochis-antallagis/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "DLS: ownership transfer",
+      "url": "https://portal.dls.moi.gov.cy/en/application_forms/polisi-antallagi/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "VAT law: main-residence relief",
+      "url": "http://www.cylaw.org/nomoi/enop/non-ind/2000_1_95/full.html",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Tax Department: specified 2026 planning and permit transitional cases",
+      "url": "https://www.gov.cy/oikonomia/exetasi-ypefthynon-diloseon-gia-tin-epivoli-meiomenou-syntelesti-fpa-5-gia-tin-agora-i-anegersi-katoikias-apo-ton-eforo-forologias-mechri-31-dekemvriou-2026/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "DLS: transfer fees",
+      "url": "https://portal.dls.moi.gov.cy/en/application_forms/polisi-antallagi/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Law 239(I)/2025: stamp-duty repeal",
+      "url": "https://www.cylaw.org/nomoi/arith/2025_1_239.pdf",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Tax Department: electronic rent payments",
+      "url": "https://www.gov.cy/oikonomia/ypochreotiki-katavoli-enoikiou-me-ilektronika-mesa-pliromis-apo-tin-1i-iouliou-2026/",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Ministry of Education: primary-school registration",
+      "url": "http://moec.gov.cy/dde/en/infoserv_primary_registrations.html",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "American Academy Larnaca: admission requirements",
+      "url": "https://www.academy.ac.cy/wp-content/uploads/2026/06/Admissions-Policy-and-Procedures_Website.pdf",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "HIO: GESY beneficiary eligibility",
+      "url": "https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "HIO: financing and co-payments",
+      "url": "https://www.gesy.org.cy/en-us/hiofinancing",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "PASYKAF: supportive home and palliative care",
+      "url": "https://pasykaf.org/en/supportive-home-palliative-care/",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Tax Department: electronic rent payments",
+      "url": "https://www.gov.cy/oikonomia/ypochreotiki-katavoli-enoikiou-me-ilektronika-mesa-pliromis-apo-tin-1i-iouliou-2026/",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Law 244(I)/2025: tax changes from 2026",
+      "url": "https://www.cylaw.org/nomoi/arith/2025_1_244.pdf",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Tax Department: tax residence and domicile",
+      "url": "https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "HIO: GHS contribution categories",
+      "url": "https://www.gesy.org.cy/en-us/hiofinancing",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Migration Department: continuing investment conditions and revised monitoring",
+      "url": "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/",
+      "section": 10,
+      "checkedAt": "2026-09-24",
+      "verification": "accepted_source_text",
+      "limitation": ""
     }
   ],
   "mediaStatus": "geographic_locator_photo_pending",
@@ -137,16 +377,16 @@
     "caption": "Geographic orientation. Not a travel, safety or border assessment.",
     "summary": [
       [
-        "Family and business",
-        "Plan living and business needs together while checking their legal bases separately."
+        "Start with your actual rights",
+        "British protected residence, EU family rights and a new third-country application lead to different preparation."
       ],
       [
-        "Mediterranean island",
-        "Include regional exposure and actual access in the decision."
+        "Choose around everyday life",
+        "Compare Larnaca and Nicosia through school admission, clinical needs and the journeys your household will make."
       ],
       [
-        "An appropriate route",
-        "Check existing personal rights before commissioning an investment route."
+        "Prepare the intended use",
+        "A refuge with a return plan, permanent relocation and a mobile base need different arrangements."
       ]
     ]
   },
@@ -154,61 +394,62 @@
     {
       "id": "starting-point",
       "title": "Your starting point",
-      "body": "<p>Cyprus is an option when you are considering a European-area home or business base. A useful business location is not automatically a suitable family base. The applicable residence route, each relative’s rights and a home with workable services need to align. A company address or a tax argument does not establish those arrangements on its own.</p>"
+      "body": "<p>Moving to Cyprus is not the same decision as buying property there. A family home needs to support school, work and healthcare throughout the year. A second base needs lawful access and someone to keep it ready while you live elsewhere. A business location can be useful without being the place where your family should live.</p><p>For a UK- or UAE-based household, start with each person's nationality and existing status. One partner may hold an Irish or another EU passport; another may be British with no protected Cypriot residence. A UAE residence card describes a present immigration arrangement, not a nationality or permission to settle in Cyprus.</p><p>This profile concerns the Republic of Cyprus and the areas it controls. It does not treat Northern Cyprus as the same property, residence or entry jurisdiction. Cyprus is in the eastern Mediterranean, so choosing it as a European family base and choosing it as an answer to a particular war scenario need separate reasoning.</p>"
     },
     {
       "id": "contingency-return",
       "title": "Contingency base and return",
-      "body": "<p>A Cypriot base remains connected to the eastern Mediterranean’s regional environment. Include travel disruption and island supplies explicitly in the scenario you are preparing for. A property is useful only when everyone can arrive lawfully and use it. Prepare the route back and funds for a longer stay, rather than treating first entry as completion of the plan. The island sits in the eastern Mediterranean and needs testing against your actual contingency scenario even if EU rights make legal residence easier. Plan air access, supplies, accommodation and an alternative return journey together. A company address gives the family no additional travel route.</p>"
+      "body": "<p>If war or fear of war is driving your decision, define what you need the alternative to do. Is it somewhere to stay while retaining your current home, somewhere to establish the children permanently, or a location available if your existing residence arrangement ends? That answer changes what must remain in place in Britain or the UAE.</p><p>For a normal arrival, connect a flight to Larnaca or Paphos with the actual onward journey and handover. Kapnos publishes airport shuttle connections including Larnaca and Nicosia. A family with a dependent parent, young children or substantial luggage may need an individually arranged transfer. The important endpoint is the usable home: keys, essential supplies, electricity, water, payment access and any care needed on arrival.</p><p>Published transport routes do not establish availability during war, airspace closure or regional escalation. Decide in advance what would prompt an earlier departure and what other reachable option you would assess if the planned connection failed. A residence permit cannot make a cancelled flight operate.</p><p>Preserve the return you actually intend. A UK immigration permission is not interchangeable with British citizenship. For a UAE-based family, cancellation, absence conditions and the underlying residence category can change the ability to return. <a href=\"/en/knowledge/prepare-your-way-out/leaving-uk/\">Leaving the UK with a prepared alternative</a> and <a href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\">Leaving the UAE or preparing a second option</a> explain those distinct departure tasks. Resolve any individual exit, court or service obligation through the relevant jurisdiction before relying on travel.</p><p class=\"exb-citation\">Sources: <a href=\"https://kapnosairportshuttle.com/\" rel=\"noreferrer\">Kapnos: normal airport transport connections</a>.</p>"
     },
     {
       "id": "family-future",
       "title": "A lasting future for your family",
-      "body": "<p>Start with the people who will live there. Education, language, medical needs and reachable support define the housing search. A lease or purchase should follow that assessment. Staggered arrival and continuing responsibilities in the previous country also need arrangements, so that one parent is not left managing every unresolved task during the move. For eligible EU citizens and their families, start with the rights they already have; an investor programme is not mandatory for them. Third-country nationals need a different assessment. School admission, reachable specialist treatment and a suitable home turn a legal route into workable family life.</p>"
+      "body": "<p>A lasting move needs a school and care plan before a property commitment. Decide which curriculum the children need, what language they can learn in, and which treatment or daily support cannot be interrupted. Those requirements give the housing search a useful boundary. If an onward or return journey is delayed, the home, daily support, medicines and essential treatment must remain usable on the island. Agree who will coordinate the local arrangements with EXOBASIS and when a gap in that support would require a different, reachable option.</p><p>Larnaca can connect an English-language school option with district hospital services and an airport arrival. Nicosia deserves a separate assessment where specialist hospital access leads the decision. Visit the actual school, relevant neighbourhoods and receiving medical service. Test the ordinary journeys rather than choosing from a holiday impression of the island.</p><p>For a family leaving the UK or UAE, identify EU/EEA/Swiss citizenship, qualifying family rights and any retained British residence rights under the Withdrawal Agreement first. An eligible EU/EEA/Swiss family can build on employment, self-employment or sufficient resources with health cover, without an investor purchase. A new British or other third-country arrival without those entitlements needs a suitable permit, with its own dependant and work conditions; an investor route is one separate option, not a requirement for an already entitled family. If one parent arrives first, arrange both the children's lawful relocation and the support for whoever remains behind. Cyprus residence documents do not settle a UK or UAE dispute over parental responsibility. A child with a different passport may also need a different application. <a href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare to move abroad with children and family</a> connects those rights with permission, education and the practical family transition.</p><p>English-language education can support the first stage, while life in a Greek-speaking environment remains part of settling in. Confirm the language used by the school, clinicians and people helping the household. Budget time for the children's adjustment and for adults to establish their own local relationships.</p><p>For a longer horizon, ordinary naturalisation is a separate route. It requires twelve immediately preceding months of lawful residence, with up to 90 days of absence permitted, and at least seven years of lawful residence within the preceding ten-year period. Conditions also include Greek at B1, knowledge of the country's political and social life, good character, suitable housing, stable resources and an intention to remain. Purchasing a home does not purchase citizenship.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/\" rel=\"noreferrer\">Ministry of Interior: naturalisation through years of residence</a>.</p>"
     },
     {
       "id": "mobile-use",
       "title": "Mobile living",
-      "body": "<p>For a base used intermittently, check permitted work, presence, return and ongoing obligations. A Cypriot company connection does not establish a permanent personal right to live there. Match the work and household arrangement to the correct legal framework. Periodic use also requires agreed property care and someone reachable while you are away.</p>"
+      "body": "<p>For a home used between other countries, put the actual calendar on paper: days in Cyprus, work carried out there, school terms, treatment, travel and long absences. Match that pattern to residence permission before assuming that an overseas employer or company makes the arrangement lawful.</p><p>Eligible EU, EEA and Swiss citizens start with their existing rights and the basis for longer residence. For a qualifying third-country remote worker serving an overseas employer or clients, Digital Nomad residence is a distinct route. A Visitor permit is not a general remote-work permission. An accompanying Nomad partner does not receive a right to work in Cyprus through that status.</p><p>The property-investor route has its own limits on mobile use. Residence must be taken up within a year of approval when the applicant is abroad. Acquiring permanent residence abroad or being absent from Cyprus for two years can end the immigration permit. Plan those conditions against the life you intend to keep, not just the dates on a card.</p><p>A partly empty home also needs a practical agreement: inspections, a keyholder, payment of bills, maintenance authority and preparation before your return. We can organise that continuing work so the next stay starts with a ready household rather than a list of repairs and access problems.</p>"
     },
     {
       "id": "rights-routes",
       "title": "Existing rights and suitable routes",
-      "body": "<p>Eligible individuals should consider existing EU rights before a new investment route. The Republic of Cyprus also describes investor immigration permits under Regulation 6(2), with separate investment, evidence and family conditions. Ownership of property or a business is not permission for every activity. Confirm the relevant jurisdiction and the property’s position; rules for the Republic cannot simply be extended to other administered areas. EU free movement for those entitled to it and the Cypriot investor route under Regulation 6(2) have different applicants and requirements. Official investor information describes investment, income and dependant evidence; filing an application is not itself a residence decision. Apply statements about the Republic of Cyprus only within its competent jurisdiction.</p><p class=\"exb-citation\">Source: <a href=\"https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm\" rel=\"noreferrer\">Your Europe: Residence rights</a></p><p class=\"exb-citation\">Source: <a href=\"https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/\" rel=\"noreferrer\">Republic of Cyprus: Immigration permits for investors</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fcyprus%2F#short-enquiry\">Ask us to prepare your Cyprus option</a><p>A defined task can be requested directly. Personal documents follow only through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+      "body": "<h3>British residents: protected rights or a new move?</h3><p>British nationals who exercised residence rights in Cyprus before the end of the Brexit transition period and retain them may fall under the Withdrawal Agreement, together with qualifying family members. The UKW documents concern those protected cases. A new British arrival without that entitlement normally needs a suitable third-country route. A second EU passport or a qualifying EU family relationship should be identified first.</p><h3>EU, EEA and Swiss rights, including mixed-nationality families</h3><p>Eligible citizens can stay for up to three months with a valid passport or identity card. A longer stay can be based on employment, self-employment, or sufficient resources with comprehensive health insurance. MEU1 registration is required within four months of entry and costs EUR 20; the certificate does not expire. Employment and self-employment are accessible under those rights.</p><p>MEU2 covers qualifying third-country family members of an eligible EU, EEA or Swiss citizen: a spouse or civil-union partner, direct descendants under 21 or dependent, and dependent direct ancestors. Apply within four months with the family and supporting evidence and biometrics; the sponsor must attend submission. The card costs EUR 20 and is normally valid for five years or the sponsor's shorter planned residence. It allows labour-market access. Other relatives cannot simply be added under the same assumption.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/u-k-nationals-and-family-members-with-free-movement/\" rel=\"noreferrer\">Migration Department: UK protected residence</a>; <a href=\"https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/\" rel=\"noreferrer\">Migration Department: MEU1 registration</a>; <a href=\"https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member-2/entry-and-residence-of-third-country-nationals-who-are-family-members-of-an-e-u-e-e-a-citizen-meu2/\" rel=\"noreferrer\">Migration Department: MEU2 family residence</a>.</p><h3>Visitor residence: living from resources without working locally</h3><p>The non-investment Visitor route can suit a longer stay funded from established resources. It prohibits economic activity in the Republic. Submit MVIS8 after lawful entry and before the visa expires, with officially translated and certified records. The first permit is normally for one year and can be renewed if the criteria remain met. Issuing the permit costs EUR 70, with a further EUR 70 for first registration.</p><p>The official checklist calls for stable resources generally from abroad and evidence of receipts at a financial institution in Cyprus of at least EUR 2,000 a month or EUR 24,000 a year for one person. Add 20% for a spouse and 15% for each child. For a first application, a transfer or cash deposit of at least EUR 10,000 is also accepted, with a customs declaration where cash is used; it does not replace the other stable-resource conditions. Renewal requires a balance of at least EUR 6,000, irrespective of family size.</p><p>The initial file also includes criminal-record and medical evidence, housing, a ten-year repatriation bank guarantee with an amount dependent on origin, and the specified Plan A insurance covering inpatient and outpatient care and repatriation. Dependent spouses and minor children have their own supporting files. For a child, these can include custody or the other parent's consent and school evidence. Do not use this route on the assumption that overseas remote work is automatically permitted.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.gov.cy/mip-md/en/documents/visitors-and-family-members/\" rel=\"noreferrer\">Migration Department: Visitors and family</a>; <a href=\"https://www.gov.cy/app/uploads/sites/174/2025/12/SUPPORTING-DOCUMENTS-VISITOR-PERMIT-1a.docx\" rel=\"noreferrer\">Official Visitor supporting-document checklist</a>.</p><h3>Digital Nomad residence for overseas remote work</h3><p>This route is designed for non-EU and non-EEA nationals working remotely through telecommunications for an employer registered abroad or clients abroad. The published minimum is stable net income of EUR 3,500 a month after tax and contributions. The initial permit lasts one year, with renewal for up to two further years. A spouse or civil-union partner and minor children can obtain accompanying residence for the same period, without permission to work or carry out economic activity in Cyprus.</p><p>Apply in Nicosia within three months of arrival and arrange biometrics. Renewals are submitted at least one month before expiry. Permit issuance and initial registration each cost EUR 70. Applications are being accepted, but the programme remains capped at 500 permits; that is not a count of spaces available to your household. Arrange health cover for each family member, because temporary Nomad status alone does not establish GESY eligibility.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/\" rel=\"noreferrer\">Migration Department: Digital Nomads and family members</a>.</p><h3>Regulation 6(2): the qualifying residential-property route</h3><p>For an eligible third-country family, the residential route requires a first-sale house or apartment from a developer with a total value of at least EUR 300,000 plus VAT. The application needs the title or a sale contract officially lodged with the Department of Lands and Surveys, together with official receipts showing payment of at least EUR 300,000 excluding VAT. Investment funds must be evidenced as coming from abroad, not domestic borrowing. The remaining purchase amount is paid to the seller's account at a Cyprus financial institution. Up to two qualifying residential units can meet the combined threshold, including for a couple.</p><p>The household also needs secure annual income of at least EUR 50,000, increased by EUR 15,000 for a spouse and EUR 10,000 for each dependent minor child. For this residential investment category, income comes from abroad. The later official clarification accepts the tax return from the declared tax-residence country or official certificates from an independent Certified Accountant; a spouse's income may also count. This matters for a UAE-based applicant whose income records differ from a UK tax-return file.</p><p>The core family coverage is a spouse and children under 18. Adult children and parents require their own assessment rather than automatic inclusion. The applicant and spouse provide clean criminal records from the country of origin and the country of residence where different. The family needs inpatient and outpatient medical insurance and suitable accommodation; if the investment home's bedrooms do not meet the dependants' needs, another suitable home must be evidenced.</p><p>The permit does not authorise ordinary employment. In this residential-investment case, shareholding in a Cyprus company and an unpaid director role can be permitted under the stated conditions. Do not equate that with unrestricted permission to run any paid activity from the island.</p><p>The application fee is EUR 500, with EUR 70 for each included person who does not already have ARC registration. The published assessment estimate is approximately two months from a complete application. The residence right has unlimited validity while its conditions continue; an adult card needs replacement after ten years and a minor's card runs to age 18. Taking up residence, absence, continued investment and ongoing evidence are substantive parts of the arrangement, not paperwork to consider after buying.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/\" rel=\"noreferrer\">Migration Department: Regulation 6(2) investor residence and subsequent clarifications</a>.</p><div class=\"exb-country-table\" role=\"region\" tabindex=\"0\" aria-label=\"Compare three ways to use a Cyprus base\"><table><caption>What each use of Cyprus requires</caption><thead><tr><th scope=\"col\">Your intended use</th><th scope=\"col\">Rights already available</th><th scope=\"col\">What must be put in place</th><th scope=\"col\">Work EXOBASIS can carry through</th></tr></thead><tbody><tr><th scope=\"row\">A contingency base with a return option</th><td>Identify any protected British residence, EU/EEA/Swiss rights or qualifying family entitlement. Otherwise establish each person's lawful entry and length of stay. A UAE residence card is not Cyprus permission.</td><td>A suitable longer-stay registration or granted permit, health cover, available money and accommodation ready to use. Preserve the separate UK or UAE return right. An application or property contract is not a completed arrival arrangement.</td><td>Organise the personal files, usable housing and payment route, then connect the airport journey to handover and care. Keep another genuinely reachable option and the intended return under separate consideration.</td></tr><tr><th scope=\"row\">A permanent family home</th><td>Eligible EU/EEA/Swiss citizens can use employment, self-employment or self-supporting residence, with qualifying relatives using family rights. British beneficiaries can use retained Withdrawal Agreement rights. These routes do not require an investor purchase; a household outside them needs a suitable third-country route with its own dependant and work conditions.</td><td>Address evidence, school admission, language support, health cover and receiving care. Meet the applicable income, investment and insurance requirements rather than assuming a home purchase settles residence.</td><td>Compare Larnaca and Nicosia around actual school and clinical needs, arrange the residence and family documents, organise a rental or purchase with independent checks and prepare the household for arrival.</td></tr><tr><th scope=\"row\">Living between Cyprus and another country</th><td>EU/EEA/Swiss citizens and qualifying relatives can use the personal or family rights matching their stay and work; protected British residents can use their retained rights. Without those entitlements, establish a suitable third-country route.</td><td>For eligible overseas remote work, apply for Digital Nomad residence; Visitor status and accompanying Nomad status do not confer general work permission. Align permitted activity, renewals, presence and cover. For 6(2), account for first residence, permanent residence abroad and the two-year absence limit. Assess personal tax residence independently.</td><td>Schedule the required documents and personal appointments, secure housing for the intended pattern and arrange care while away. Test payment and access arrangements before the next stay.</td></tr></tbody></table></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fcyprus%2F#short-enquiry\">Ask us to prepare your Cyprus option</a><p>Start with what you want ready and the work you need us to carry out. Personal records follow through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/#contact-start\">Private enquiry</a></div>"
     },
     {
       "id": "regions-housing",
       "title": "Regions and housing",
-      "body": "<p>Compare particular locations by daily use: education, specialist medicine, work and essential services should fit the home. A purchase requires independent checks of title, encumbrances and jurisdiction. The organisational work remains distinct: a suitable shortlist, prepared viewings, handover and a household ready to function on arrival.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/arrange-arrival/\">Arrange your arrival abroad</a></p>"
+      "body": "<h3>Larnaca: connect the school, district hospital and arrival</h3><p>Larnaca is a useful starting point where your family wants an English-language school option alongside district hospital services and an airport arrival. American Academy Larnaca publishes an admissions process for its senior school, including English and mathematics examinations for international Year 1 applicants. Larnaca General Hospital lists emergency care, intensive care, dialysis and physiotherapy among its services. Choose the neighbourhood around the actual school place and treatment needed, not just proximity to the coast. Include the possibility of a delayed onward journey in the housing decision: can you stay longer and still reach the care you need? Under the agreed arrival assignment, EXOBASIS coordinates an extension or replacement accommodation with the providers. If essential care cannot be maintained locally, another reachable location becomes part of the decision.</p><h3>Nicosia: compare the specialist-care requirement</h3><p>Nicosia General Hospital lists services including neurology, oncology, transplantation and diagnostic imaging. The English School provides a separate English-language education option with selection and limited entry during the programme. For a household needing specialised care, this can make Nicosia a more useful comparison than another coastal district. Test the home-to-school, home-to-clinic and airport journeys without assuming that any address in the city will work equally well.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.academy.ac.cy/wp-content/uploads/2026/06/Admissions-Policy-and-Procedures_Website.pdf\" rel=\"noreferrer\">American Academy Larnaca: admissions policy</a>; <a href=\"https://www.shso.org.cy/en/patient-and-visitor/geniko-nosokomeio-lefkosias/\" rel=\"noreferrer\">Nicosia General Hospital: patient information</a>.</p><h3>Rent first when the family location is still being tested</h3><p>A furnished exploratory stay gives you time for school visits, medical appointments and meaningful viewings. Before a longer lease, establish the owner's or representative's authority and agree the property, residential use, term, termination, renewal, deposit and repayment. Record furnishings, repairs, common-building charges and the additional cost of electricity, water and air conditioning. The address evidence needs to support the relevant residence and school-district processes.</p><p>From 1 July 2026, Cyprus rent must be paid by bank transfer, debit or credit card, or another recognised electronic payment method. Agree the recipient, reference and receipt trail before moving in. At handover, record the condition, inventory, meter readings, keys and utility transfers. A cash reserve alone cannot fulfil this rental-payment requirement.</p><h3>Buying: establish the buyer's position before choosing the transaction</h3><p>Chapter 109 excludes EU and EEA nationals from its definition of an alien. A Swiss national's favourable residence treatment is not the same statutory property exemption. For a buyer outside the relevant exceptions, acquisition permission depends on the person, property and purpose. The Ministry's process describes up to two units for an individual or married couple in total, with specified combinations; it is not unrestricted permission to buy any property.</p><p>For land on which to build an owner-occupied home, the present administrative guidance refers to up to 4,000 m². The law has a separate additional-condition threshold above two skales, expressed by DLS as 2,676 m²; the regulation provides for owner housing up to three skales, or 4,014 m². Those figures serve different legal and procedural roles. Obtain the competent authority's position before committing to a parcel between 4,001 and 4,014 m².</p><ol><li><strong>Commission independent title and technical checks.</strong> Establish the registered owner, authority to sell, title, encumbrances, prohibitions, planning permissions and the building's actual condition. Where required, COMM145 acquisition permission is handled by the relevant District Administration.</li><li><strong>Connect the sale contract to a current search.</strong> For contracts concluded from 12 December 2023, the accompanying Search Certificate must fall within the five-working-day window around signing. Have the position examined before commitment and payment. Where transfer is deferred, lodge the written contract with the District Lands Office within six months.</li><li><strong>Resolve an existing mortgage through the actual release process.</strong> In an eligible Form A arrangement, lender, seller and buyer agree the release amount and seller's account. Following payment, the lender issues Form B and releases the mortgage. Form C is deposit without Form A, not equivalent buyer protection. Other prior encumbrances can prevent use of the special protection route.</li><li><strong>Complete payment, clearances and registered transfer.</strong> Tie payments to the reviewed contract and release mechanism. The DLS transfer file includes the relevant N313 tax clearance, local authority, sewerage and water clearances, identity or representation documents and fees.</li><li><strong>Take possession separately.</strong> Record keys, condition, defects, meters and utility accounts. Receiving the keys and becoming the registered owner are different events.</li></ol><p class=\"exb-citation\">Sources: <a href=\"https://cylaw.org/nomoi/enop/non-ind/0_109/full.html\" rel=\"noreferrer\">Chapter 109: property-acquisition law</a>; <a href=\"https://cylaw.org/nomoi/enop/non-ind/0_109/full.html\" rel=\"noreferrer\">Chapter 109: area and purpose conditions</a>; <a href=\"https://www.gov.cy/moi/en/documents/purchasing-property/\" rel=\"noreferrer\">Ministry of Interior: purchase-permission process</a>; <a href=\"https://portal.dls.moi.gov.cy/en/application_forms/symvasis-polisis-antiparochis-antallagis/\" rel=\"noreferrer\">DLS: sale-contract deposit</a>; <a href=\"https://portal.dls.moi.gov.cy/en/application_forms/symvasis-polisis-antiparochis-antallagis/\" rel=\"noreferrer\">DLS: mortgage-release procedure</a>; <a href=\"https://portal.dls.moi.gov.cy/en/application_forms/polisi-antallagi/\" rel=\"noreferrer\">DLS: ownership transfer</a>.</p><h3>Budget the transaction, not just the asking price</h3><p>The standard rate for a VAT-liable purchase or construction is 19%. The 5% housing relief is for a main and permanent residence, not an automatic benefit of a EUR 300,000 residence investment or a holiday base. The current ordinary rule covers the first 130 m² up to EUR 350,000 of qualifying value, provided total value and area do not exceed EUR 475,000 and 190 m². The Tax Department notice of 4 May 2026 separates two older-planning cases. Where planning permission was applied for or obtained by 31 October 2023 and the building permit was issued after 1 January 2025 or remains unissued by 31 December 2026, the authority can examine applications delayed by the planning authorities up to 31 December 2026. This is the deadline for official examination, not a general filing extension. For planning applications made by 31 October 2023 with a building permit already issued by 31 December 2024, declarations for the former relief on the first 200 m² had to be submitted by 15 June 2026. Submission is exclusively through Tax For All (TFA). Other special cases still require their own assessment; the authority checks actual use within the ten-year period.</p><p>There is no DLS transfer fee where the same transaction bears VAT and the required evidence is supplied. Otherwise, the ordinary transfer-fee scale is 3% on the first EUR 85,000, 5% on the next portion up to EUR 170,000 and 8% above, generally reduced by 50%, subject to the transaction's exceptions. Contract deposit costs EUR 50. Stamp duty was abolished from 1 January 2026, but DLS still requires stamping where at least one party signed before that date.</p><p>Keep legal review, a building assessment, finance, any agreed agency charge and continuing ownership expenses outside the quoted purchase price. EXOBASIS can organise the search, viewings, independent professional work and the contract-to-handover sequence. <a href=\"/en/services/arrange-arrival/\">Arrange your arrival abroad</a> then connects the property to utilities, access, the transfer and the first days of family life.</p><p class=\"exb-citation\">Sources: <a href=\"http://www.cylaw.org/nomoi/enop/non-ind/2000_1_95/full.html\" rel=\"noreferrer\">VAT law: main-residence relief</a>; <a href=\"https://www.gov.cy/oikonomia/exetasi-ypefthynon-diloseon-gia-tin-epivoli-meiomenou-syntelesti-fpa-5-gia-tin-agora-i-anegersi-katoikias-apo-ton-eforo-forologias-mechri-31-dekemvriou-2026/\" rel=\"noreferrer\">Tax Department: specified 2026 planning and permit transitional cases</a>; <a href=\"https://portal.dls.moi.gov.cy/en/application_forms/polisi-antallagi/\" rel=\"noreferrer\">DLS: transfer fees</a>; <a href=\"https://www.cylaw.org/nomoi/arith/2025_1_239.pdf\" rel=\"noreferrer\">Law 239(I)/2025: stamp-duty repeal</a>; <a href=\"https://www.gov.cy/oikonomia/ypochreotiki-katavoli-enoikiou-me-ilektronika-mesa-pliromis-apo-tin-1i-iouliou-2026/\" rel=\"noreferrer\">Tax Department: electronic rent payments</a>.</p>"
     },
     {
       "id": "school-health-care",
       "title": "Schooling, healthcare and care",
-      "body": "<h3>Children and relatives</h3><p>Education, language and care schedules need to fit the home. Do not infer each relative’s eligibility from the main applicant’s permission. A school address without confirmed admission and a workable journey from home is little use to the family. For treatment and care, establish reachable providers, insurance conditions and individual acceptance. Island supplies and the actual home location belong in that assessment, not an abstract quality-of-life score.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare to move abroad with children and family</a></p><h3>Insurance and treatment</h3><p>Confirm coverage separately from the care actually available at the location.</p><p><a class=\"exb-text-link\" href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and care abroad</a></p><h3>Continuing support</h3><p>Arrange medication, regular assistance and any further medical journeys before relocation.</p>"
+      "body": "<h3>Obtain a school decision, not just a nearby address</h3><p>Public primary-school registration is open to children living in Cyprus regardless of nationality or their parents' residence legality. Normal entry is at age six before 1 September. Registration usually takes place in January according to the home school district, with confirmation normally in April. Late registration and transfers go through the District Education Office and available places. Prepare the child's official identity or birth records, vaccination information and residential evidence; for a rental, the lease and electricity bill can be used as the relevant address evidence.</p><p>A public-school place does not promise English-medium teaching. American Academy Larnaca requires the relevant entrance or placement process; entry to other years depends on vacancies and records. Learning or health needs must be supportable by the school. The English School in Nicosia has its own admission examinations and limited mid-programme entry. Obtain the actual admission decision and fee information before committing to the home around it.</p><p><a href=\"/en/knowledge/family-life-abroad/children-family/\">Prepare to move abroad with children and family</a> explains how school, parental authority, travel and each person's rights fit together. We can carry through the agreed school enquiries, records and appointments as part of your family arrival.</p><p class=\"exb-citation\">Sources: <a href=\"http://moec.gov.cy/dde/en/infoserv_primary_registrations.html\" rel=\"noreferrer\">Ministry of Education: primary-school registration</a>; <a href=\"https://www.academy.ac.cy/wp-content/uploads/2026/06/Admissions-Policy-and-Procedures_Website.pdf\" rel=\"noreferrer\">American Academy Larnaca: admission requirements</a>.</p><h3>GESY eligibility, enrolment and the care you need</h3><p>GESY requires ordinary residence in the Republic's controlled areas and an eligible category. For EU citizens, actual employment or the relevant permanent-residence position can matter; family and S1 arrangements have their own requirements. For third-country nationals, permanent residence or a statutory social-security equal-treatment right is relevant. A holiday property, MEU1 certificate or temporary Visitor/Nomad card alone is insufficient. Paying a GHS contribution does not itself enrol you for benefits.</p><p>Establish eligibility, complete registration and arrange a personal doctor, referral and the relevant appointment. Use an S1 route only where you actually hold the appropriate document. For a family leaving an employer-sponsored UAE policy or changing UK cover, confirm the end of the existing arrangement and the start of the accepted Cyprus cover. <a href=\"/en/knowledge/family-life-abroad/health-cover-care/\">Health cover and care abroad</a> helps connect insurance, private treatment and the receiving provider.</p><p>GESY is not universally free at the point of use. Published co-payments include EUR 1 per medicine, EUR 1 per lab test or group of tests up to EUR 10 per laboratory category, and EUR 10 for radiology or emergency-department care. Ordinary annual co-payment caps are EUR 150, or EUR 75 for specified protected groups. Separate charges, such as direct outpatient specialist access without referral, and uncovered private treatment are not all absorbed into that cap.</p><p>For planned care in Larnaca, confirm the appointment and referral where required. Nicosia hospital admission involves medical referral and registration; bring the clinical records and medication list. Department, appointment, actual acceptance and cost coverage are the useful answers, rather than a general claim that a hospital is close.</p><h3>Arrange the whole care handover</h3><p>If a parent needs daily support, identify assistance, medicines, equipment, mobility and overnight needs before selecting the property. PASYKAF provides supportive and palliative home care for people with cancer, following assessment and an updated medical referral. It is a concrete diagnosis-specific service to explore, not evidence of general round-the-clock elderly care.</p><p>Confirm the receiving arrangement, start date, language, daily coverage and funding before the existing care ends. <a href=\"/en/knowledge/family-life-abroad/care-medication/\">Care needs, medication and medical dependencies when moving</a> explains the uninterrupted handover. EXOBASIS organises the agreed provider enquiries, clinical records, appointments, accommodation requirements and practical transfer of responsibility. Ask the clinical team to establish fitness for onward transport and agree with the receiving service how medicines, treatment and daily assistance will continue during a delay. EXOBASIS coordinates the agreed accommodation and appointments around that handover; if local support cannot meet the need, the clinical and care teams must help establish a reachable alternative.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility\" rel=\"noreferrer\">HIO: GESY beneficiary eligibility</a>; <a href=\"https://www.gesy.org.cy/en-us/hiofinancing\" rel=\"noreferrer\">HIO: financing and co-payments</a>; <a href=\"https://pasykaf.org/en/supportive-home-palliative-care/\" rel=\"noreferrer\">PASYKAF: supportive home and palliative care</a>.</p>"
     },
     {
       "id": "income-money-work",
       "title": "Income, money and work",
-      "body": "<p>Separate the company structure, personal work, taxation and household payments. An economic advantage may coexist with requirements for actual management, evidence or administration. Appropriate specialists determine those questions. The practical plan must keep housing, schooling and care payable and your income accessible while the location changes. Budget the company location, personal work and available household funds separately. Whether a company meets management requirements and what taxes follow belong with the relevant specialist assignment. Neither a Cypriot residence permit nor a business address alone determines your tax residence.</p>"
+      "body": "<h3>Make the first Cyprus payments before relying on the new base</h3><p>Rent, school, medical care and the property purchase draw on different parts of your money. Identify what is available now, which receipts are expected, and what remains tied to a business, investment or employment settlement. Cyprus's electronic-rent requirement makes a functioning payment route part of the housing preparation.</p><p>Before arrival, agree the payee, currency, reference, limits and receipts and test an authorised payment. The rental rule does not prescribe a particular Cyprus bank product. Your residence application may separately require records from a Cyprus financial institution. Bank acceptance, activation and any representative's authority need confirmation for the actual account; an online application is not proof that the household can use it.</p><p>For a UK departure, ask the existing provider how the true overseas address and tax-residence change affect the product before assuming the account can remain as it is. For a UAE departure, connect visa cancellation and final-salary or end-of-service arrangements with the bank's actual treatment and any borrowing. Preserve the evidence of income and lawful funds required for the Cyprus application. Do not count a payment still awaiting release as the money for your first rent.</p><p>If an account is closed, frozen or inaccessible, identify the actual restriction while organising essential payments from legally available funds. Two accounts depending on the same phone can still leave you without access. <a href=\"/en/knowledge/assets-and-access/banking-payments/\">Banking access and payments abroad</a> explains the distinctions. Through <a href=\"/en/services/banking-liquidity/\">Prepare banking access and liquidity</a>, we organise the agreed applications, source-of-funds records, payment transition and access tests. Household banking, company accounts and merchant services remain separate assignments.</p><h3>Personal tax residence is a different question from permission to stay</h3><p>The 183-day route applies where you spend more than 183 days in Cyprus in the tax year. The alternative 60-day route requires at least 60 days in Cyprus, no more than 183 days in any other country, a Cyprus business, employment or office with a Cyprus tax-resident person, and a permanently available owned or rented home. Ending the relevant business, employment or office during the year defeats that condition. The 2026 wording removed the former blanket condition of not being tax-resident elsewhere. Another country's tax claim or a treaty-residence conflict still requires its own resolution.</p><p>Non-Dom relates to Special Defence Contribution, not a general exemption from tax. Domicile of origin or choice and the statutory 17-out-of-20-years attribution are separate matters. SDC on rent was removed from 2026; income tax and GHS can still be relevant. GHS contributions are also distinct from access to GESY benefits. HIO publishes 2.65% for employees and specified income recipients and 4% for self-employed people, with a personal annual contribution-base ceiling of EUR 180,000. Apply the correct category and any relevant coordination arrangements.</p><p>The ordinary corporation-tax rate became 15% from 1 January 2026. It is not an all-in rate for an owner and their distributions. Actual company management, the work you perform and UK or other origin-country obligations must be addressed on their own facts. Establishing a Cyprus company does not by itself end those obligations or determine your personal tax residence.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.gov.cy/oikonomia/ypochreotiki-katavoli-enoikiou-me-ilektronika-mesa-pliromis-apo-tin-1i-iouliou-2026/\" rel=\"noreferrer\">Tax Department: electronic rent payments</a>; <a href=\"https://www.cylaw.org/nomoi/arith/2025_1_244.pdf\" rel=\"noreferrer\">Law 244(I)/2025: tax changes from 2026</a>; <a href=\"https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/\" rel=\"noreferrer\">Tax Department: tax residence and domicile</a>; <a href=\"https://www.gesy.org.cy/en-us/hiofinancing\" rel=\"noreferrer\">HIO: GHS contribution categories</a>.</p>"
     },
     {
       "id": "documents-timing",
       "title": "Documents and preparation time",
-      "body": "<p>Establish the residence basis first. Then obtain the relevant identity, family, insurance and investment evidence. Confirm document formats and attendance requirements before linking travel and appointments. Property assessment, the application and a prepared arrival each need their own evidence of completion. None substitutes for a decision by the responsible authority. Begin with personal EU eligibility or the appropriate third-country route, then match family, insurance and any investment records to it. Treat a property contract as part of the route only after reviewing title, encumbrances and competent law. Travel and in-person appointments follow the authority’s requirements.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a></p>"
+      "body": "<ol><li><strong>Identify the route for every person.</strong> Bring passports, present immigration status and any protected Cyprus or EU-family rights together with the intended stay and work. A family moving from the UAE may have several different nationality and document-origin cases.</li><li><strong>Prepare relationship and relocation evidence.</strong> Match births, marriage, name changes, custody and required consent to the people travelling. For a 6(2) application involving minors without both parents, the Department accepts the relevant consent to permanent Cyprus residence only when signed before a Cypriot consular officer. Keep the origin-country relocation permission distinct from this Cyprus document.</li><li><strong>Document resources, housing and cover.</strong> Use records appropriate to the selected category. Visitor residence needs its prescribed local financial evidence; a residential investor application needs the foreign source, payment trail and title or deposited sale contract. The later 6(2) income clarification is relevant where an independent accountant's official certification is used.</li><li><strong>Arrange formality and attendance.</strong> Obtain the required translations, certification, medical and criminal-record evidence. Submit Visitor applications before visa expiry, Digital Nomad applications within three months of arrival and MEU1/MEU2 within four. Schedule biometrics and any required family attendance rather than assuming that a representative can complete every personal step.</li><li><strong>Hand over a usable position.</strong> Keep original records, submission receipts, decisions, expiry dates and school or clinical documents organised. The family needs to know what has been granted, what is pending and who is authorised to use the records.</li></ol><p>The published assessment estimates for complete applications are normally under four months for Visitors, five to seven weeks for Digital Nomads and approximately two months for the residential-investor route. They are not move-in dates. Coordinate school terms, lawful stay and housing commitments around the stage actually reached.</p><p><a href=\"/en/services/residence-documents/\">Arrange residence and document preparation</a> lets you commission the procurement, professional input, appointments and follow-up directly. We deliver the organised records and the actual procedural position with the next actions.</p>"
     },
     {
       "id": "ongoing-obligations",
       "title": "Ongoing obligations",
-      "body": "<p>Maintain residence evidence, any continuing investment conditions and the home as distinct workstreams. Record which changes to family, work or assets require reassessment. A second base needs attention even when unused: contacts, payments, utilities and readiness should be checked before the next stay. An investor route may have continuing conditions; under EU rights, changes in family or work can alter the supporting evidence. Maintain the home and island access for intermittent use. Returning to the former country requires a separate review of housing, work and tax.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/maintain-preparations/\">Review and maintain your preparations</a></p>"
+      "body": "<p>Agree who maintains the preparation while you are busy elsewhere. A new passport, separation, changed employment or a parent's care needs can affect residence, banking and the home at the same time. Dates need an owner and an action, not just a reminder.</p><p>For Regulation 6(2), evidence that the investment is maintained remains annual. Insurance evidence is required where the family no longer continues as GESY beneficiaries. Under the later clarification, the applicant and adult family members submit clean criminal records from origin and residence countries every three years; annual income evidence was abolished. Disposing of the investment without immediate qualifying replacement can lead to cancellation. First residence, absence and replacement of the card remain separate requirements.</p><p>A Visitor renewal requires the applicable resources, insurance and other supporting records. A Nomad renewal is filed at least one month before expiry. MEU2 family-card continuity has its own absence rules, including temporary absences up to six months a year and specified exceptions. Keep the conditions of the actual status in the family file.</p><p>For the property, agree inspections, keys, utilities, repair authority and a readiness check before arrival. For payments, prepare the institution's accepted recovery route if the usual phone fails and confirm what an authorised substitute can actually do. Company representation and filing responsibilities belong to the real business arrangements, not an assumption that a private authority letter will be accepted everywhere. Name the person at EXOBASIS responsible for the agreed travel and care recheck, before your next journey or when a change in connections or care needs is reported. They check the arrival and onward route and accessible treatment with the relevant providers, then give you the current position, local bridging arrangements and any decision needed on a different reachable option.</p><p><a href=\"/en/services/maintain-preparations/\">Review and maintain your preparations</a> can carry out the agreed checks and follow-up. You receive the work completed, the condition found and the next decision needed.</p><p class=\"exb-citation\">Sources: <a href=\"https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/\" rel=\"noreferrer\">Migration Department: continuing investment conditions and revised monitoring</a>.</p>"
     },
     {
       "id": "practical-preparation",
       "title": "Practical preparation",
-      "body": "<p>EXOBASIS can coordinate your Cyprus location assessment and practical preparation. We connect documents, specialist appointments, housing and arrival to your family and business requirements. Legal and tax responsibilities remain explicit. Commission the work you need without an automatic company formation, property purchase or commitment to permanent relocation.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/en/services/country-location-selection/\">Choose suitable countries and locations</a></p><h3>Options to compare</h3><div class=\"exb-country-related\"><article><a class=\"exb-text-link\" href=\"/en/countries/greece/\">Greece as a personal alternative</a><p>Greece adds mainland and island choices with their own residence and property requirements.</p></article><article><a class=\"exb-text-link\" href=\"/en/countries/malta/\">Malta as a personal alternative</a><p>Malta presents different housing, cost and family-service considerations on a small island.</p></article></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fcyprus%2F#short-enquiry\">Ask us to prepare your Cyprus option</a><p>A defined task can be requested directly. Personal documents follow only through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/\">Private enquiry</a></div>"
+      "body": "<p>You can put a defined Cyprus assignment in our hands: compare the locations, organise the residence file, prepare banking, find a rental, coordinate a property purchase or arrange the first family arrival. Where several parts depend on each other, EXOBASIS brings the work and the required specialists into one sequence.</p><p>Your handover follows the assignment: a reasoned location choice, completed document work with its actual application position, a home taken through the agreed checks and handover, or a maintained base with named responsibilities and the current travel and care position established by the agreed recheck, including bridging arrangements and any decision on an alternative location. Our work, external professional fees, travel, property costs and the funds you need to commit are identified separately. A preliminary consultation is not a compulsory purchase when the execution task is already clear.</p><h3>Two useful comparisons before committing</h3><p><a href=\"/en/services/country-location-selection/\">Choose suitable countries and locations</a> tests Cyprus against the family's actual rights, care, travel and budget. The two existing comparison options answer different questions:</p><div class=\"exb-country-related\"><article><h3><a href=\"/en/countries/greece/\">Greece as a personal alternative</a></h3><p>Greece adds mainland city locations as well as islands. Athens or Thessaloniki may be worth comparing if you want a European home without making every journey an island connection. Existing EU/EEA/Swiss rights, British protected residence and a new third-country route remain distinct; a Greek investment permit has its own property and work conditions. Compare the location and school or treatment plan, not just the investment threshold.</p></article><article><h3><a href=\"/en/countries/malta/\">Malta as a personal alternative</a></h3><p>Malta provides a different compact island setting where English can be central to everyday life. Compare the actual housing, school and clinical arrangement, including whether life on Gozo would add a crossing to essential journeys. Existing residence rights come before a new programme; the MPRP has separate eligibility, property, asset and fee requirements. It is a different family and financial decision from the Cyprus residential route.</p></article></div><p>If you know what you want prepared, ask for that work directly. If the first task is still unclear, the general contact route also offers a free 20-minute orientation.</p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/en/enquiry/?anliegen=General%20enquiry&amp;kontext=%2Fen%2Fcountries%2Fcyprus%2F#short-enquiry\">Ask us to prepare your Cyprus option</a><p>Start with what you want ready and the work you need us to carry out. Personal records follow through the agreed protected exchange.</p><a class=\"exb-text-link\" href=\"/en/enquiry/#contact-start\">Private enquiry</a></div>"
     }
   ],
   "faq": {
     "question": "Does a Cyprus company amount to a prepared family base?",
-    "answer": "No. A company, personal residence rights, permitted work and usable accommodation are separate requirements. They need to be connected in the personal plan."
-  }
+    "answer": "No. The family still needs the right residence and work position for each person, a usable home, school admission, accepted health cover and actual care arrangements. Company management and tax work can be part of the preparation, but they do not provide a family arrival or a route through disrupted travel."
+  },
+  "displayTitle": "Cyprus: prepare a second base or a new family home"
 }

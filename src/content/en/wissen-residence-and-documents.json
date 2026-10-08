@@ -26,29 +26,29 @@
       "anchor": "quelle-61eebe5c3fe909"
     }
   ],
-  "reviewStatus": "draft_for_review",
+  "reviewStatus": "approved",
   "eyebrow": "Your Plan B / Knowledge",
-  "seoTitle": "Prepare residence rights and documents | EXOBASIS",
-  "description": "Establish residence rights, citizenship, family evidence and document requirements. Connect the right records with practical preparation and authorised access.",
-  "intro": "<p>A usable residence option begins with the rights of each person and the records the receiving authority will actually accept. A passport does not by itself grant permission to stay or work, and an authenticated record does not replace the authority’s decision on the underlying right.</p><p>Establish the rights you already hold before choosing additional programmes. Then organise the records and procedures that make those rights usable for your household.</p>",
+  "seoTitle": "Residence rights and documents abroad | EXOBASIS",
+  "description": "Prepare the rights and documents your family needs to enter, stay and return: passports, residence, family evidence and usable emergency records.",
+  "intro": "<p>A move can stall because one person has the right to live abroad and another does not, or because the document proving that right cannot be obtained in time. When you are preparing a way out for your family, those details determine whether everyone can go together.</p><p>Build from the rights you already hold, then organise the evidence and applications that make them usable. This guide connects the legal position with the paperwork, deadlines and access your family will need.</p>",
   "primary": {
-    "label": "Discuss your next step",
+    "label": "Arrange my residence and document preparation",
     "intent": "General enquiry"
   },
   "knowledgeSummary": {
-    "title": "Existing rights. Accepted evidence. Usable access.",
+    "title": "Residence rights and documents: make your family’s next move possible",
     "facts": [
       [
-        "People",
-        "The position of each family member"
+        "Rights",
+        "A separate position for each member of the family."
       ],
       [
-        "Acceptance",
-        "Requirements of the receiving institution"
+        "Documents",
+        "The required record, accepted form and correct sequence."
       ],
       [
-        "Practical use",
-        "Current records and an authorised access route"
+        "Use",
+        "Entry, return and authorised access prepared together."
       ]
     ],
     "image": "einstieg-hilfe.webp",
@@ -57,74 +57,90 @@
   "sections": [
     {
       "id": "section-1",
-      "title": "Which rights do you already hold?",
-      "body": "<p>Record nationality, current residence status, family relationships and intended use for each person. A main applicant's position does not automatically establish the same rights for a partner, child or dependent adult.</p><p>Existing citizenship or family-based rights may provide a route before any additional programme is considered. EU residence categories, for example, have their own conditions; they do not apply simply because a person lives in the UK or UAE or reads an English-language page.<p class=\"exb-source-note\"><a href=\"https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm\" rel=\"noopener noreferrer\">Your Europe: residence rights</a></p></p>"
+      "title": "Start with the rights each person already holds",
+      "body": "<p>Put every intended traveller on the same record: nationality, passports, current residence, family relationship and the countries in which they may already have a right to live. Include children with a different nationality, a partner whose permit depends on yours and any older relative you intend to bring.</p><p>Existing citizenship or a family-based route may be more useful than starting with a new investment programme. A family connection needs a traceable legal basis. For example, the UK citizenship-by-parent process depends on when and where the child was born and the parent’s circumstances. Establish those facts before treating a passport application as the next step.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.gov.uk/apply-citizenship-british-parent\">GOV.UK: citizenship through a British parent</a>.</p><p>The <a href=\"/en/knowledge/residence-and-documents/rights-citizenship/\">guide to residence and citizenship</a> separates existing rights, descent, investment routes and additional passport documents.</p>"
     },
     {
       "id": "section-2",
-      "title": "Separate residence, citizenship and tax status",
-      "body": "<p>Residence status establishes permission to stay and the conditions for retaining it. Citizenship establishes legal nationality and its associated rights. Tax residence follows its own legal tests and the actual facts. Permission to work must also be established separately.</p><p>Do not let one certificate stand in for all four answers. An overseas residence card does not prove that your previous tax obligations ended. A second passport does not settle where a business is managed or whether a particular activity is authorised.<p class=\"exb-source-note\"><a href=\"https://www.oecd.org/en/networks/global-forum-tax-transparency/resources/aeoi-implementation-portal/tax-residency.html\" rel=\"noopener noreferrer\">OECD: Tax residency</a></p></p>",
+      "title": "Residence, citizenship, ownership and tax status",
+      "body": "<p>A property deed shows ownership. A residence permit establishes a defined immigration status. A tax-residence certificate addresses a different set of rules. Citizenship is your legal membership of a country, with the rights attached to that status under its law. It differs from permission to stay as a foreign resident and does not, by itself, establish tax residence. Arrange the combination your intended life needs rather than assuming one document performs all four jobs.</p><p>This matters for a reserve base as much as for permanent relocation. A right that requires regular presence, a continuing sponsor or recurring evidence must remain maintainable while you live elsewhere.</p>",
       "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/residence-and-documents/rights-citizenship/\" data-route=\"/en/knowledge/residence-and-documents/rights-citizenship/\"><span>Residence, existing rights and second citizenship</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/countries/\" data-route=\"/en/countries/\"><span>Countries and options</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/services/country-location-selection/\" data-route=\"/en/services/country-location-selection/\"><span>Choose suitable countries and locations</span><span aria-hidden=\"true\">→</span></a></div>",
       "criteria": {
-        "title": "Separate the legal questions",
+        "title": "Five questions that need separate answers",
         "headers": [
-          "Area",
-          "What it establishes",
-          "What it does not establish by itself"
+          "Question",
+          "What the status establishes",
+          "What must apply to you and how to show it",
+          "What it does not establish"
         ],
         "rows": [
           [
-            "Residence",
-            "Permission to stay and maintain status",
-            "Citizenship or unrestricted work rights"
+            "Can you enter?",
+            "Whether you can seek admission for the intended journey and purpose.",
+            "Your nationality and recognised travel document must meet the destination’s entry conditions, including any required visa. Check validity, permitted purpose and the evidence required for that journey.",
+            "Admission for a visit is not permission to settle or work. A visa does not itself guarantee admission at the border."
           ],
           [
-            "Citizenship",
-            "Nationality and associated rights",
-            "The end of previous tax obligations"
+            "Can you remain?",
+            "The basis and duration of your permitted stay or residence.",
+            "You must personally qualify for the status and continue to meet its conditions. Keep the required permit or proof of an existing right, with the applicable expiry, renewal, presence and sponsorship requirements.",
+            "Permission to remain does not make you a citizen or determine your tax residence by itself. Check separately which work or business activity your status permits."
           ],
           [
-            "Tax residence",
-            "Applicable fiscal tests and factual connections",
-            "Immigration permission"
+            "Can you work?",
+            "Which employment or business activity you may carry out under the relevant status and local rules.",
+            "Your status must cover the activity you plan to undertake. Obtain any required work authorisation and evidence that you meet the applicable employer, sponsor or activity conditions; a job offer alone does not answer the permission question.",
+            "Permission to work does not by itself settle your tax residence or remove tax and reporting obligations."
+          ],
+          [
+            "What does your citizenship establish?",
+            "Your legal membership of a country and the rights attached to that status under its law.",
+            "You must actually hold that citizenship under the country’s law. Use a citizenship record or a passport accepted as evidence for the purpose concerned; proof of a residence right is not proof of citizenship.",
+            "Citizenship does not, by itself, establish tax residence or end a previous tax residence. It does not confer a right to settle in every other country."
+          ],
+          [
+            "Where are you tax resident?",
+            "Which country or countries treat you as resident under their tax laws.",
+            "Apply the relevant rules to your actual residence history and circumstances. Document time spent, homes, work and family ties, and obtain any residence evidence required for the tax procedure. More than one country may treat you as resident.",
+            "Tax residence is not permission to enter, remain or work, and does not make you a citizen. It is not a general exemption from tax."
           ]
         ]
       }
     },
     {
       "id": "section-3",
-      "title": "From a required document to a usable record",
-      "body": "<p>Work backwards from the receiving authority or institution. Confirm the required document, permitted age, accepted language and form of certification. Then organise issue, authentication, translation and submission in the appropriate order.</p><p>An apostille addresses formal origin, not the substantive validity of everything written in a record. Its use also depends on the applicable treaty and document arrangements. Confirm acceptance before paying for a bundle of documents that the intended recipient cannot use.<p class=\"exb-source-note\"><a href=\"https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille\" rel=\"noopener noreferrer\">HCCH: Apostille Convention</a></p></p><p>For every required record, work from the receiving decision backwards: name the institution and procedure, the required issue date or form, language, issuing body, any authentication and the person responsible for submission. Confirm those requirements before ordering multiple translations. The Hague apostille framework concerns the origin of eligible public documents; it does not make an unrelated record acceptable for a different immigration procedure.</p>",
+      "title": "Organise documents in the order the receiving authority needs",
+      "body": "<p>Ask the receiving authority or appointed specialist for the exact document type, issue-date requirements, authentication and translation. Then work backwards to the issuing registry. A full birth certificate, a short certificate and a certified copy can serve different purposes; ordering the wrong form at the start can delay everything that follows.</p><ul><li><strong>Obtain the record:</strong> confirm names, dates and the correct issuing authority. Resolve discrepancies against the underlying records.</li><li><strong>Authenticate it:</strong> establish whether the destination requires an apostille or another legalisation chain for that document.</li><li><strong>Translate it:</strong> use the language, translator qualification and certification accepted by the receiving body.</li><li><strong>Submit it:</strong> retain the acknowledgement, reference, originals and the next deadline.</li></ul><p>An apostille authenticates the origin of a public document: its signature or seal and the capacity in which it was signed. The receiving authority still decides whether the underlying record meets the requirements of the application.</p><p class=\"exb-source-note\">Source: <a href=\"https://assets.hcch.net/upload/abc12e.pdf\">HCCH: what an apostille certifies</a>.</p><p>EXOBASIS organises the chain, delivery and follow-up through the <a href=\"/en/services/apostilles-translations-documents/\">document preparation service</a>.</p>",
       "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/apostilles-translations-documents/\" data-route=\"/en/services/apostilles-translations-documents/\"><span>Arrange apostilles, translations and documents</span><span aria-hidden=\"true\">→</span></a></div>"
     },
     {
       "id": "section-4",
-      "title": "Support family rights with the right evidence",
-      "body": "<p>Names and family relationships must be supported by consistent records. Where children travel, establish who has parental responsibility, who accompanies them and whether consent or a court decision is needed. Permission for a short trip is not necessarily permission to relocate.</p><p>The UK guidance distinguishes parental permissions and court orders. Other jurisdictions require their own assessment. A family with mixed nationalities or dependent residence status needs a person-by-person sequence rather than one checklist copied from the main applicant.<p class=\"exb-source-note\"><a href=\"https://www.gov.uk/permission-take-child-abroad\" rel=\"noopener noreferrer\">GOV.UK: Permission to take a child abroad</a></p></p>",
+      "title": "Prove the relationships on which your family depends",
+      "body": "<p>A shared surname is not a complete family record. Link each child to the relevant birth or adoption record, and each partner to the marriage or other evidence the destination accepts. A divorce, guardianship arrangement or court order can change who must consent to travel or make decisions.</p><p>For a mixed-nationality household, give each person a separate application and permission check. An adult child or parent may need a different route from a spouse or young child. In the UAE, dependent residence is tied to the applicable sponsorship conditions; a sponsor’s cancellation has consequences for the family sequence.</p><p class=\"exb-source-note\">Source: <a href=\"https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/general-provisions-for-the-residence-visa\">UAE Government: residence for family members</a>.</p><p>Gather school records and medical summaries alongside the legal evidence. They serve a different purpose, but they allow the family’s daily life to begin once you arrive.</p>",
       "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/family-life-abroad/children-family/\" data-route=\"/en/knowledge/family-life-abroad/children-family/\"><span>Prepare to move abroad with children and family</span><span aria-hidden=\"true\">→</span></a></div>"
     },
     {
       "id": "section-5",
-      "title": "Prepare entry and re-entry in practice",
-      "body": "<p>Check travel-document validity, the link to any digital residence record, transit permissions and the terms for returning. A temporary second base can still create absence and status-maintenance questions at the existing base.</p><p>For UK eVisa holders, keep the travel document connected to the correct UKVI account and check access before travel. For UAE residents, distinguish the actual residence category, validity, sponsor and applicable absence rules. Neither example can be substituted for the other's procedure.<p class=\"exb-source-note\"><a href=\"https://www.gov.uk/evisa/travel-with-evisa\" rel=\"noopener noreferrer\">UKVI: Travel with your eVisa</a> · <a href=\"https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/general-provisions-for-the-residence-visa\" rel=\"noopener noreferrer\">UAE Government: General provisions for residence visas</a></p></p>"
+      "title": "Prepare the journey out and the right to return",
+      "body": "<p>Read the itinerary as a chain: departure, each transit point, arrival and any planned return. Check the travel document actually being used by each person, its validity and the permission required for every stage. A route available to one passport holder may not be available to the whole household.</p><p>For UK digital immigration status, keep the passport linked to the UKVI account current. The official eVisa guidance says the carrier can check status against those details. Resolve mismatches before travel, and keep the permitted backup proof available.</p><p class=\"exb-source-note\">Source: <a href=\"https://www.gov.uk/evisa/travel-with-evisa\">GOV.UK: travelling with an eVisa</a>.</p><p>For a retained UAE residence, separately record the permit expiry and relevant absence conditions. A grace period after cancellation is not permission to remain abroad and return on an expired or cancelled title.</p><p><strong>EES:</strong> The Entry/Exit System records non-EU nationals entering or leaving participating European countries for short stays, whether they need a visa or travel visa-free. It has been fully operational since 10 April 2026. EU, Icelandic, Liechtenstein, Norwegian and Swiss nationals are outside its scope. A valid residence permit or long-stay visa issued by an EES country also provides an exemption; an ordinary Irish or Cypriot residence permit does not. A British citizen or UAE national visiting on their passport alone will normally be recorded. Living in the UK or UAE does not determine the answer for someone with a different nationality or European residence status.</p><p><strong>ETIAS:</strong> This planned travel authorisation concerns visa-exempt short-stay visitors, including British citizens and UAE nationals. As checked on 5 October 2026, it is not operating and no applications are being accepted. The EU schedules launch for the last quarter of 2026 but has not announced an exact date. EU, EEA and Swiss nationals do not need ETIAS. Qualifying European residence documents and long-stay visas can also exempt a traveller. For UK Withdrawal Agreement beneficiaries, check the issuing country and document: an Irish residence document does not provide an exemption; a Cypriot one does not exempt visits to the other ETIAS countries. A UK or UAE residence permit alone is not an exemption either. ETIAS will be linked to the passport used, not replace residence rights or guarantee admission. Check each person's passport, status and destination separately; these European entry systems are not permission to leave the UK or UAE.</p><p class=\"exb-source-note\">Sources: <a href=\"https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en\">European Commission: EES operation and exemptions</a>; <a href=\"https://travel-europe.europa.eu/en/etias\">EU: current ETIAS status</a>; <a href=\"https://travel-europe.europa.eu/en/etias/about-etias/who-should-apply\">EU: ETIAS nationality and residence rules</a>; <a href=\"https://home-affairs.ec.europa.eu/news/main-differences-between-ees-and-etias-what-travellers-need-know-2026-04-28_en\">European Commission: timetable and differences</a>.</p>"
     },
     {
       "id": "section-6",
-      "title": "Make documents usable by authorised family members",
-      "body": "<p>An authorised person needs more than a folder link. They must locate the current record, know which action it supports and demonstrate their own authority. Keep access secrets separate from the documents needed to establish a right.</p><p>Rehearse a realistic permitted route without the main device. Encrypted storage is useful only if the intended people can use it under the agreed conditions. Do not send passwords, banking approval codes or private keys through a public enquiry.</p><p>Give authorised relatives an action map rather than an indiscriminate document dump. If a child’s record or residence evidence is needed during a delayed journey, specify who may present it, how that person proves their authority and how they reach the current version without using your personal login.</p>",
+      "title": "Make the records usable when you are not there",
+      "body": "<p>Keep a controlled set of originals and a protected digital copy with a clear index. The person authorised to help should know which documents exist, where the originals are and how to reach the relevant institution. Give them only the access their task requires.</p><p>Test a realistic failure: your phone is missing and you cannot answer immediately. Can the authorised person locate the insurance details, identify the correct passport record and contact the adviser? Can you recover the digital account through an independently available method?</p><p>A copy of a power of attorney helps somebody find the authority; it does not create it. The <a href=\"/en/knowledge/residence-and-documents/emergency-documents/\">emergency-document file</a> should connect the legal instrument, its accepted form and the practical contact route.</p>",
       "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/knowledge/residence-and-documents/emergency-documents/\" data-route=\"/en/knowledge/residence-and-documents/emergency-documents/\"><span>Emergency documents your family can actually use</span><span aria-hidden=\"true\">→</span></a></div>"
     },
     {
       "id": "section-7",
-      "title": "Have the preparation organised",
-      "body": "<p>EXOBASIS can coordinate the document inventory, recipient requirements, procurement, translations, appointments and follow-up. The output is a usable sequence of agreed preparation, with outstanding decisions clearly assigned rather than hidden.</p><p>Authorities and directly mandated professionals retain responsibility for their decisions. We connect their work with the preparation you need. Commission an individual document task directly, or have the wider residence and family preparation organised together.</p>",
+      "title": "Have the document and residence work carried through",
+      "body": "<p>EXOBASIS identifies the required records with the receiving organisations, obtains or organises them within the agreed scope, coordinates translations and authentication, arranges appointments and follows up missing items. We connect the document work to the residence and arrival timetable.</p><p>The handover sets out the records obtained, applications submitted, decisions received, expiry dates and remaining actions. If you already know what you need, commission that task directly. If the route is still undecided, country and residence selection can come first.</p>",
       "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/en/services/residence-documents/\" data-route=\"/en/services/residence-documents/\"><span>Arrange residence and document preparation</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/enquiry/\" data-route=\"/en/enquiry/\"><span>Private enquiry</span><span aria-hidden=\"true\">→</span></a></div>",
       "knowledgeCTA": true
     }
   ],
   "editorial": {
     "package": "03",
-    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "origin": "Independent English redraft for PB-D65 from original briefs, market research and cited primary sources.",
     "sourceSectionOrder": [
       {
         "id": "section-1",
@@ -132,7 +148,7 @@
       },
       {
         "id": "section-2",
-        "title": "Separate residence, citizenship and tax status"
+        "title": "Residence, citizenship, ownership and tax status"
       },
       {
         "id": "section-3",
@@ -227,7 +243,8 @@
       "EN12"
     ],
     "sourceDate": "2026-09-25",
-    "draftDate": "2026-09-26",
+    "draftDate": "2026-09-27",
     "noPublication": true
-  }
+  },
+  "displayTitle": "Residence rights and documents: make your family’s next move possible"
 }

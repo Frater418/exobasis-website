@@ -26,17 +26,17 @@
       "anchor": "quelle-45b3e27d8143ff"
     }
   ],
-  "reviewStatus": "draft_for_review",
+  "reviewStatus": "approved",
   "eyebrow": "Dein Plan B / Wissen",
-  "seoTitle": "Aufenthalt und Dokumente vorbereiten | EXOBASIS",
-  "description": "Kläre bestehende Aufenthaltsrechte, benötigte Urkunden, Familiennachweise und Wiederzugang. Bereite Dokumente vor, die am Ziel tatsächlich verwendbar sind.",
-  "intro": "<p>Ein nutzbarer Ausweichort beginnt mit den Rechten jeder einzelnen Person und den Unterlagen, die die zuständige Stelle dafür tatsächlich annimmt. Ein Pass allein schafft weder einen Aufenthaltstitel noch eine Arbeitserlaubnis; eine korrekt beglaubigte Urkunde ersetzt nicht die materielle Entscheidung der Behörde.</p><p>Kläre zuerst eure vorhandenen Rechte. Danach lässt sich entscheiden, welche Unterlagen fehlen und welche zusätzlichen Schritte überhaupt notwendig sind.</p>",
+  "seoTitle": "Dokumente für Auswanderung vorbereiten | EXOBASIS",
+  "description": "Welche Dokumente brauchst du für Ausreise und Aufenthalt? Rechte, Urkunden, Familiennachweise und Ersatzwege rechtzeitig zusammenbringen.",
+  "intro": "<p>Wenn du gehen willst, sollen deine Papiere bereitliegen. Für dich, für deine Kinder und für Angehörige, die später nachkommen. Gerade bei Sorge vor Krieg oder eingeschränkter Ausreise kostet es wertvolle Zeit, erst dann nach einer Geburtsurkunde, einem gültigen Pass oder einer fehlenden Zustimmung zu suchen.</p><p>Welche Dokumente du für eine Auswanderung brauchst, ergibt sich aus eurem Aufenthaltsweg. Beginne deshalb mit den Rechten jeder Person. Daraus entsteht eine überschaubare Vorbereitung: was ihr schon habt, was die Zielstelle verlangt und was vor der Abreise beschafft werden muss.</p>",
   "primary": {
-    "label": "Deinen nächsten Schritt klären",
+    "label": "Dokumentenarbeit anfragen",
     "intent": "Allgemeine Anfrage"
   },
   "knowledgeSummary": {
-    "title": "Rechte zuerst. Dann die richtigen Unterlagen.",
+    "title": "Rechte kennen. Unterlagen beschaffen. Rechtzeitig bereit sein.",
     "facts": [
       [
         "Personen",
@@ -57,102 +57,112 @@
   "sections": [
     {
       "id": "abschnitt-1",
-      "title": "Welche Rechte bestehen bereits?",
-      "body": "<p>Erstelle für jede mitreisende Person eine eigene Übersicht: Staatsangehörigkeit, bestehender Aufenthaltstitel, familiäre Beziehung und geplante Nutzung am Ziel. Ein Recht des Hauptverdieners deckt den Partner oder erwachsene Angehörige nicht automatisch ab.</p><p>Prüfe dabei auch Rechte, die bereits aus Staatsangehörigkeit, Familie oder einem früheren Aufenthalt bestehen. Ein zusätzlich angebotenes Programm ist nicht zwangsläufig der beste erste Schritt. Bei EU-Freizügigkeit kommt es auf den konkreten Personenkreis und die Voraussetzungen der jeweiligen Aufenthaltskategorie an.<p class=\"exb-source-note\"><a href=\"https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm\" rel=\"noopener noreferrer\">Your Europe: residence rights</a></p></p>"
+      "title": "Welche Rechte kann deine Familie schon nutzen?",
+      "body": "<p>Lege die gültigen Pässe und Aufenthaltstitel aller Mitreisenden nebeneinander. Trage dazu ein, wer welche Staatsangehörigkeit besitzt, wer mit wem verwandt ist und wie lange ihr am Ziel bleiben wollt. So wird sichtbar, ob ihr denselben Weg nutzen könnt oder ob etwa dein Partner ein Visum und eigene Familiennachweise braucht.</p><p>Als deutscher oder österreichischer Staatsbürger kannst du dich mit gültigem Ausweis zunächst bis zu drei Monate in einem anderen EU-Staat aufhalten. Für eine längere Niederlassung zählt deine Situation: Beschäftigung, Selbstständigkeit, Studium oder ausreichende Mittel mit umfassender Krankenversicherung. Für Schweizer Staatsangehörige und Familienmitglieder mit einem anderen Pass gelten eigene Rechtsgrundlagen. Euer heutiger Wohnort allein beantwortet diese Frage nicht.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://europa.eu/youreurope/citizens/residence/residence-rights/index_de.htm\" rel=\"noopener noreferrer\">Your Europe: Aufenthaltsrechte und Familienangehörige</a></p>"
     },
     {
       "id": "abschnitt-2",
-      "title": "Aufenthalt, Staatsangehörigkeit und Steuerpflicht auseinanderhalten",
-      "body": "<p>Aufenthalt beantwortet, ob und unter welchen Bedingungen du bleiben darfst. Staatsangehörigkeit betrifft die rechtliche Zugehörigkeit und daraus folgende Rechte. Steuerliche Ansässigkeit folgt ihren eigenen Regeln und deiner tatsächlichen Situation. Auch die Erlaubnis zur Erwerbstätigkeit braucht eine eigene Antwort.</p><p>Diese Trennung schützt vor teuren Fehlentscheidungen: Eine Aufenthaltskarte ist kein Nachweis, dass alle steuerlichen Bindungen am alten Wohnsitz beendet sind. Ein zweiter Pass sagt noch nichts darüber, ob eine konkrete berufliche Tätigkeit am Ziel zulässig ist.<p class=\"exb-source-note\"><a href=\"https://www.oecd.org/en/networks/global-forum-tax-transparency/resources/aeoi-implementation-portal/tax-residency.html\" rel=\"noopener noreferrer\">OECD: Tax residency</a></p></p>",
+      "title": "Aufenthalt, Staatsangehörigkeit, Wohnen und Steuern",
+      "body": "<p>Ein Aufenthaltsrecht ermöglicht dir, im Land zu leben. Staatsangehörigkeit bezeichnet deine rechtliche Zugehörigkeit zu einem Staat und die damit verbundenen Bürgerrechte. Sie unterscheidet sich von der Erlaubnis, als ausländischer Einwohner dort zu bleiben, und bestimmt für sich allein nicht deine steuerliche Ansässigkeit. Ein Mietvertrag oder Immobilienkauf verschafft dir eine Unterkunft. Steuerliche Ansässigkeit bestimmt, welchem Staat gegenüber welche Steuerpflichten bestehen. Für einen brauchbaren zweiten Standort müssen diese vier Ebenen zusammenpassen.</p><p>Bevor du eine Wohnung langfristig bindest, sollte feststehen, wie du und deine Familie sie nutzen dürft. Vor dem ersten Arbeitstag am neuen Ort gehören außerdem die zulässige Tätigkeit und ihre steuerlichen Folgen geklärt. Die Unterlagen dafür können sich überschneiden, ihre Wirkung tut es nicht.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.oecd.org/en/networks/global-forum-tax-transparency/resources/aeoi-implementation-portal/tax-residency.html\" rel=\"noopener noreferrer\">OECD: steuerliche Ansässigkeit</a></p>",
       "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\" data-route=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\"><span>Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/laender/\" data-route=\"/de/laender/\"><span>Länder und Möglichkeiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/laender-standortauswahl/\" data-route=\"/de/leistungen/laender-standortauswahl/\"><span>Passende Länder und Standortoptionen</span><span aria-hidden=\"true\">→</span></a></div>",
       "criteria": {
-        "title": "Drei unterschiedliche Fragen",
+        "title": "Was du für deine Außenbasis zusammenbringst",
         "headers": [
           "Bereich",
-          "Was geklärt wird",
-          "Was daraus nicht automatisch folgt"
+          "Funktion",
+          "Persönliche Voraussetzung und Nachweis",
+          "Was daraus nicht folgt"
         ],
         "rows": [
           [
             "Aufenthalt",
-            "Einreise, Bleiben und Erhaltung des Status",
-            "Staatsangehörigkeit oder allgemeines Arbeitsrecht"
+            "Regelt, auf welcher Grundlage du einreisen und wie lange du im Land bleiben darfst.",
+            "Der Aufenthaltsgrund muss für jede Person gelten und erhalten bleiben. Belege ihn mit gültigem Pass, erforderlichem Visum, Aufenthaltstitel oder Nachweis eines bestehenden Rechts. Beachte die für deinen Status geltenden Anwesenheits-, Ablauf- und Verlängerungsbedingungen.",
+            "Ein Aufenthaltsrecht macht dich nicht zum Staatsbürger und bestimmt allein keine steuerliche Ansässigkeit. Ob du arbeiten darfst, ist für die konkrete Tätigkeit gesondert zu klären."
           ],
           [
             "Staatsangehörigkeit",
-            "Rechtliche Zugehörigkeit und zugehörige Rechte",
-            "Beendigung alter steuerlicher Pflichten"
+            "Bezeichnet deine rechtliche Zugehörigkeit zu einem Staat und die damit verbundenen Bürgerrechte.",
+            "Die Staatsangehörigkeit muss nach dem Recht dieses Staates tatsächlich für dich bestehen. Belege sie mit einem Staatsangehörigkeitsnachweis oder einem dafür anerkannten Pass; ein Aufenthaltstitel weist etwas anderes nach.",
+            "Daraus folgen weder automatisch steuerliche Ansässigkeit noch ein Aufenthaltsrecht in jedem anderen Staat. Eine bisherige Steueransässigkeit endet dadurch nicht von selbst."
+          ],
+          [
+            "Wohnen",
+            "Klärt, welche Unterkunft dir tatsächlich zur Verfügung steht.",
+            "Du brauchst einen wirksamen Vertrag oder ein Nutzungsrecht sowie eine geregelte Übergabe und Zugang zur Unterkunft.",
+            "Miete oder Eigentum allein erteilen kein Aufenthalts- oder Arbeitsrecht. Sie entscheiden auch nicht allein über deine steuerliche Ansässigkeit."
           ],
           [
             "Steuerliche Ansässigkeit",
-            "Anwendbare Regeln und tatsächliche Bindungen",
-            "Ein Aufenthaltsrecht allein aus der Steuerzuordnung"
+            "Bestimmt nach den jeweiligen Steuerregeln, welche Staaten dich als dort ansässig behandeln.",
+            "Maßgeblich sind die Regeln des jeweiligen Staates und deine tatsächlichen Verhältnisse. Dokumentiere Aufenthaltszeiten sowie Wohn-, Arbeits- und Familienverhältnisse und beschaffe die im konkreten Verfahren verlangten Nachweise. Mehrere Staaten können dich als steuerlich ansässig behandeln.",
+            "Steuerliche Ansässigkeit verleiht weder Staatsangehörigkeit noch Einreise-, Aufenthalts- oder Arbeitsrecht. Sie bedeutet keine pauschale Steuerfreiheit."
           ]
         ]
       }
     },
     {
       "id": "abschnitt-3",
-      "title": "Vom benötigten Dokument zur verwendbaren Urkunde",
-      "body": "<p>Beginne bei der empfangenden Stelle: Welche Urkunde verlangt sie für welches Verfahren, in welcher Fassung und Sprache? Danach folgen Beschaffung, gegebenenfalls Beglaubigung oder Apostille, Übersetzung und Einreichung in der richtigen Reihenfolge.</p><p>Eine Apostille bestätigt bestimmte formelle Herkunftsmerkmale einer öffentlichen Urkunde. Sie entscheidet nicht über den Inhalt und ersetzt keine materielle Anerkennungsprüfung. Lass die Anforderungen deshalb vor der Bestellung mehrerer Übersetzungen und Bescheinigungen abgleichen. Das spart doppelte Arbeit und unbrauchbare Fassungen.<p class=\"exb-source-note\"><a href=\"https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille\" rel=\"noopener noreferrer\">HCCH: Apostille Convention</a></p></p><p>Lege für jede benötigte Urkunde eine kleine Vorgangskette an: empfangende Stelle, konkretes Verfahren, verlangte Fassung und Sprache, ausstellende Stelle, nötige Echtheitsbestätigung, verantwortliche Person und Einreichungsweg. Erst wenn die empfangende Stelle ihre Anforderungen bestätigt hat, lohnt sich die Beschaffung. Das verhindert, dass eine alte Personenstandsurkunde oder eine Übersetzung für das falsche Verfahren bestellt wird.</p>",
+      "title": "Welche Urkunden brauchst du und in welcher Form?",
+      "body": "<p>Für Aufenthalt und Familiennachzug werden je nach Verfahren etwa Geburts- und Heiratsurkunden, Nachweise über Sorgeberechtigung, Einkommen, Versicherung oder den bisherigen Wohnsitz benötigt. Bestelle sie anhand der Unterlagenliste der tatsächlich zuständigen Behörde. Entscheidend sind Ausstellungsdatum, Original oder Kopie, Sprache und der verlangte Echtheitsnachweis.</p><p>Bei öffentlichen Urkunden kann eine Apostille die Bestätigung der Unterschrift, der Funktion des Unterzeichners und des Siegels übernehmen, wenn das Haager Übereinkommen zwischen den beteiligten Staaten anwendbar ist. Für bestimmte öffentliche Urkunden innerhalb der EU entfällt diese Beglaubigung; mehrsprachige Formulare können zusätzlich eine Übersetzung ersparen. Für eine deutsche Geburtsurkunde in einem anderen EU-Staat ist deshalb ein anderer Weg möglich als für eine Bankvollmacht in einem Drittstaat.</p><p>Lass zuerst die benötigte Fassung bestätigen. Danach folgen Beschaffung, erforderliche Echtheitsbestätigung, passende Übersetzung und Einreichung. So bezahlst du nicht zweimal für Unterlagen, die am Schalter in der falschen Form vorliegen.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://assets.hcch.net/upload/conventions/txt12en.pdf\" rel=\"noopener noreferrer\">Haager Apostille-Übereinkommen, Artikel 1-5</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://e-justice.europa.eu/551/EN/public_documents?init=true\" rel=\"noopener noreferrer\">Europäisches Justizportal: öffentliche Urkunden</a></p>",
       "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/apostillen-uebersetzungen-urkunden/\" data-route=\"/de/leistungen/apostillen-uebersetzungen-urkunden/\"><span>Apostillen, Übersetzungen und Urkunden organisieren</span><span aria-hidden=\"true\">→</span></a></div>"
     },
     {
       "id": "abschnitt-4",
-      "title": "Familienrechte brauchen passende Nachweise",
-      "body": "<p>Namen, Geburtsdaten und familiäre Beziehungen müssen in den verwendeten Unterlagen nachvollziehbar zusammenpassen. Bei Kindern kommen Sorgeberechtigung, Begleitung und gegebenenfalls Zustimmung anderer Berechtigter hinzu. Eine Reisevollmacht ersetzt keine Entscheidung über einen dauerhaften Wohnsitzwechsel.</p><p>Auch Angehörige, die später nachkommen sollen, gehören in die Vorbereitung. Halte fest, welche Rechte für sie bestehen, welche Nachweise noch fehlen und wer die Beschaffung übernimmt. Die Reisedokumente der Familie sind eine zusammenhängende Aufgabe, aber keine identische Checkliste für alle.<p class=\"exb-source-note\"><a href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/travel-documents-minors/index_en.htm\" rel=\"noopener noreferrer\">Your Europe: documents for minors travelling in the EU</a></p></p>",
+      "title": "Kinder und nachreisende Angehörige brauchen eigene Nachweise",
+      "body": "<p>Jedes Kind braucht ein eigenes, am Ziel anerkanntes Reisedokument. Bei unterschiedlichen Nachnamen helfen passende Personenstandsurkunden, die Familienbeziehung nachvollziehbar zu belegen. Reist nur ein Elternteil, können Ausreise-, Transit- und Zielland sowie die Fluggesellschaft zusätzliche Zustimmungen verlangen.</p><p>Kläre bei gemeinsamer Sorge auch den geplanten Wohnsitzwechsel. Die Zustimmung zu einer Ferienreise und die Entscheidung, dauerhaft mit dem Kind im Ausland zu leben, betreffen unterschiedliche Situationen. Halte die dazugehörigen Vereinbarungen und Entscheidungen zusammen mit den Reisedokumenten bereit.</p><p>Wer später nachkommt, erhält einen eigenen Ablauf: benötigte Unterlagen, zuständige Person, Erreichbarkeit und frühestmögliche Reise. Das ist besonders wichtig, wenn ein Angehöriger seine Dokumente nicht selbst beschaffen kann.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/travel-documents-minors/index_en.htm\" rel=\"noopener noreferrer\">Your Europe: Reisedokumente für Minderjährige</a></p>",
       "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\" data-route=\"/de/wissen/familie-alltag/kinder-angehoerige/\"><span>Mit Kindern und Angehörigen vorbereitet gehen</span><span aria-hidden=\"true\">→</span></a></div>"
     },
     {
       "id": "abschnitt-5",
-      "title": "Einreise und Wiedereinreise praktisch vorbereiten",
-      "body": "<p>Prüfe Dokumentengültigkeit, Verbindung zwischen Titel und Reisedokument, erforderliche Einreiseerlaubnisse und die Regeln relevanter Transitländer. Auch bei einer nur vorbereiteten Zweitbasis ist wichtig, unter welchen Bedingungen du erneut einreisen und den Status erhalten kannst.</p><p>Digitale Nachweise brauchen einen funktionierenden Zugang. Für Inhaber einer britischen eVisa gehört beispielsweise die korrekte Verbindung des Reisedokuments mit dem UKVI-Konto zur Reisevorbereitung. Ein Foto einer Anzeige ist kein allgemeiner Ersatz für den vorgesehenen Nachweisweg.<p class=\"exb-source-note\"><a href=\"https://www.gov.uk/evisa/travel-with-evisa\" rel=\"noopener noreferrer\">UKVI: Travel with your eVisa</a></p></p>"
+      "title": "Reisedokumente im Notfall: auch Transit und Ersatz vorbereiten",
+      "body": "<p>Prüfe nicht nur das Ablaufdatum des Passes. Das Ziel kann eine bestimmte Restgültigkeit verlangen, ein Transitland ein Visum und der Beförderer zusätzliche Nachweise. Ändert sich nach einer Passerneuerung die Dokumentnummer, müssen damit verbundene elektronische Einreise- oder Aufenthaltsdaten angepasst werden.</p><p>Notiere für jedes Reisedokument Aussteller, Gültigkeit und den zuständigen Ersatzweg. Bei Verlust im Ausland führt der Weg zur zuständigen Auslandsvertretung; zusätzlich können örtliche Verlustanzeigen nötig sein. Ein Ersatzdokument muss zur geplanten Route passen. Eine digitale Passkopie hilft bei der Identitätsklärung, die Beförderung und Einreise richten sich nach dem tatsächlich vorgelegten Dokument.</p><p>Bewahre erreichbare Kopien getrennt von den Originalen auf. Für eine kurzfristige Abreise gehört außerdem festgelegt, wer die Originale mitnimmt und wie ihr sie bekommt, wenn du selbst gerade nicht zu Hause bist.</p><p><strong>EES:</strong> Das Entry/Exit System erfasst Ein- und Ausreisen von Drittstaatsangehörigen für Kurzaufenthalte an den Außengrenzen der teilnehmenden europäischen Staaten, mit oder ohne Visumpflicht. Es ist seit 10. April 2026 vollständig in Betrieb. Deutsche und österreichische EU-Bürger sowie Schweizer Staatsangehörige werden nicht erfasst. Auch ein gültiger Aufenthaltstitel oder ein langfristiges Visum eines EES-Staates kann dich ausnehmen; ein gewöhnlicher Titel aus Irland oder Zypern tut das nicht. Entscheidend sind dein Pass und dein konkreter Status, nicht allein dein heutiger Wohnsitz.</p><p><strong>ETIAS:</strong> Diese geplante elektronische Reisegenehmigung betrifft visumfreie Kurzreisen bestimmter Drittstaatsangehöriger, darunter britische und emiratische Staatsangehörige. Stand 5. Oktober 2026 ist ETIAS noch nicht in Betrieb; Anträge werden nicht angenommen. Die EU plant den Start für das vierte Quartal 2026, nennt aber noch keinen genauen Termin. EU-, EWR- und Schweizer Staatsangehörige benötigen kein ETIAS. Bestimmte europäische Aufenthaltsdokumente und langfristige Visa begründen ebenfalls Ausnahmen; ein britischer oder VAE-Aufenthaltstitel allein genügt dafür nicht. Prüfe deshalb die amtliche Regel für genau deinen Titel und dein Reiseziel. ETIAS ist an den verwendeten Pass gebunden, ersetzt kein Aufenthaltsrecht und garantiert keine Einreise. EES und ETIAS sind europäische Grenz- beziehungsweise Einreiseregeln, keine allgemeine Ausreisegenehmigung für Menschen aus dem DACH-Raum.</p><p class=\"exb-source-note\">Quellen: <a href=\"https://home-affairs.ec.europa.eu/news/entry-exit-system-fully-operational-10-april-2026-who-exempt-2026-07-27_en\">Europäische Kommission: EES-Betrieb und Ausnahmen</a>; <a href=\"https://travel-europe.europa.eu/en/etias\">EU: aktueller ETIAS-Betriebsstand</a>; <a href=\"https://travel-europe.europa.eu/en/etias/about-etias/who-should-apply\">EU: ETIAS-Personenkreise und Aufenthaltsdokumente</a>; <a href=\"https://home-affairs.ec.europa.eu/news/main-differences-between-ees-and-etias-what-travellers-need-know-2026-04-28_en\">Europäische Kommission: Zeitplan und Unterschiede</a>.</p>"
     },
     {
       "id": "abschnitt-6",
-      "title": "Unterlagen so hinterlegen, dass Berechtigte handeln können",
-      "body": "<p>Lege nicht alles einfach in einen gemeinsamen Cloudordner. Unterscheide Unterlagen, zulässige Empfänger und geheime Zugangsmittel. Eine berechtigte Person muss wissen, welche Fassung gilt, wie sie sie findet und wie sie ihre eigene Rolle nachweist.</p><p>Prüfe den vorgesehenen Ablauf auch ohne dein Haupttelefon. Eine verschlüsselte Ablage hilft wenig, wenn nur du den einzigen Zugang bedienen kannst und kein zulässiger Wiederzugangsweg besteht. Passwörter, Bankfreigaben und private Schlüssel gehören nicht in das öffentliche Kontaktformular.</p><p>Eine sinnvolle Übergabe ist handlungsbezogen: Welche berechtigte Person benötigt im Fall einer Reiseverzögerung die Geburtsurkunde, wer darf gegenüber der Behörde antworten und welche Identifikation verlangt diese Stelle? Die Dokumentenliste enthält deshalb eine Zuständigkeit und einen erlaubten Wiederzugang, nicht nur einen Speicherort.</p>",
+      "title": "Deine Unterlagen müssen auch ohne dich auffindbar sein",
+      "body": "<p>Eine brauchbare Dokumentenmappe erklärt, welches Dokument aktuell ist, wofür es gebraucht wird und wer es verwenden darf. Sie enthält die Kontakte zu Behörden, Versicherern und beauftragten Fachstellen sowie anstehende Fristen. Überholte Fassungen werden klar getrennt, damit niemand versehentlich die falsche Vollmacht verschickt.</p><p>Teste den Zugriff mit einer berechtigten Person: Kann sie ohne dein Haupttelefon die benötigte Urkunde finden und den zuständigen Ansprechpartner erreichen? Persönliche Passwörter und Bankfreigaben bleiben getrennt. Wo jemand dich vertreten soll, braucht er die passende Befugnis und einen für ihn vorgesehenen Zugang.</p>",
       "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\" data-route=\"/de/wissen/aufenthalt-dokumente/notfallunterlagen/\"><span>Notfallunterlagen, die Angehörige tatsächlich nutzen können</span><span aria-hidden=\"true\">→</span></a></div>"
     },
     {
       "id": "abschnitt-7",
-      "title": "Die Vorbereitung organisieren lassen",
-      "body": "<p>EXOBASIS kann den Unterlagenbestand aufnehmen, die Anforderungen der beteiligten Stellen zusammenführen und die vereinbarte Beschaffung, Übersetzung und Einreichungsfolge organisieren. Fehlende Nachweise, Termine und Rückfragen werden nachgehalten.</p><p>Die zuständige Behörde entscheidet über Aufenthalt, die befugte Fachstelle über ihre Fachaufgabe. Unsere Organisationsleistung besteht darin, diese Entscheidungen und Unterlagen in einen brauchbaren Ablauf zu bringen. Du kannst die gesamte Vorbereitung oder einen bereits klaren Dokumentenauftrag anfragen.</p>",
+      "title": "Dokumenten- und Aufenthaltsvorbereitung ausführen lassen",
+      "body": "<p>EXOBASIS nimmt eure Ausgangslage auf, ordnet den passenden Aufenthaltsweg und organisiert die vereinbarte Dokumentenarbeit. Dazu gehören Behördenanforderungen, Urkundenbeschaffung, Apostillen und Übersetzungen, Termine, Einreichungsfolgen und die Nachverfolgung von Rückfragen. Erforderliche rechtliche Fachklärung binden wir in diesen Ablauf ein.</p><p>Du erhältst einen verwendbaren Unterlagenbestand mit klaren Fristen und Zuständigkeiten. Wenn nur eine bestimmte Urkunde oder ein bereits festgelegter Antrag fehlt, kannst du auch diesen Einzelauftrag direkt anfragen. Beschreibe zunächst Herkunft, Ziel und Aufgabe; persönliche Dokumente werden anschließend gezielt über den vereinbarten Weg angefordert.</p>",
       "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/dokumente-aufenthalt/\" data-route=\"/de/leistungen/dokumente-aufenthalt/\"><span>Dokumente und Aufenthalt vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
       "knowledgeCTA": true
     }
   ],
   "editorial": {
     "package": "03",
-    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "origin": "Eigenständige deutsche Neuredaktion nach PB-D65 aus Originalbriefing, DACH-Recherche und gelesenen Fachquellen.",
     "sourceSectionOrder": [
       {
         "id": "abschnitt-1",
-        "title": "Welche Rechte bestehen bereits?"
+        "title": "Welche Rechte kann deine Familie schon nutzen?"
       },
       {
         "id": "abschnitt-2",
-        "title": "Aufenthalt, Staatsangehörigkeit und Steuerpflicht auseinanderhalten"
+        "title": "Aufenthalt, Staatsangehörigkeit, Wohnen und Steuern"
       },
       {
         "id": "abschnitt-3",
-        "title": "Vom benötigten Dokument zur verwendbaren Urkunde"
+        "title": "Welche Urkunden brauchst du und in welcher Form?"
       },
       {
         "id": "abschnitt-4",
-        "title": "Familienrechte brauchen passende Nachweise"
+        "title": "Kinder und nachreisende Angehörige brauchen eigene Nachweise"
       },
       {
         "id": "abschnitt-5",
-        "title": "Einreise und Wiedereinreise praktisch vorbereiten"
+        "title": "Reisedokumente im Notfall: auch Transit und Ersatz vorbereiten"
       },
       {
         "id": "abschnitt-6",
-        "title": "Unterlagen so hinterlegen, dass Berechtigte handeln können"
+        "title": "Deine Unterlagen müssen auch ohne dich auffindbar sein"
       },
       {
         "id": "abschnitt-7",
-        "title": "Die Vorbereitung organisieren lassen"
+        "title": "Dokumenten- und Aufenthaltsvorbereitung ausführen lassen"
       }
     ],
     "mappedLinks": [
@@ -221,13 +231,10 @@
         "position": "#abschnitt-7"
       }
     ],
-    "seeding": [
-      "D19",
-      "D20",
-      "D21"
-    ],
+    "seeding": [],
     "sourceDate": "2026-09-25",
     "draftDate": "2026-09-26",
     "noPublication": true
-  }
+  },
+  "displayTitle": "Dokumente für Auswanderung und einen vorbereiteten Ausweg"
 }

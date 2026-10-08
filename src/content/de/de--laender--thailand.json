@@ -7,7 +7,7 @@
   "model": "laenderprofil",
   "schemaVersion": 1,
   "kind": "country",
-  "reviewStatus": "draft_for_review",
+  "reviewStatus": "approved",
   "sourceRefs": [
     {
       "module": "11_Schreibauftraege_Laender.md",
@@ -21,9 +21,9 @@
     }
   ],
   "eyebrow": "Dein Plan B / Länder",
-  "seoTitle": "Thailand als Plan B | EXOBASIS",
-  "description": "Prüfe Thailand für deine Familie: passende Aufenthaltswege, Wohnort, Versorgung und konkrete Vorbereitung mit EXOBASIS.",
-  "intro": "<p>Du willst deiner Familie einen eigenen Standort aufbauen, der mehr ist als ein langer Aufenthalt. Thailand muss dafür mit dem passenden Aufenthaltsgrund, Angehörigenrechten und einem funktionierenden Wohn- und Arbeitsalltag geplant werden. Die Region folgt eurem Bedarf.</p>",
+  "seoTitle": "Thailand als Plan B: Aufenthalt und Alltag | EXOBASIS",
+  "description": "Thailand als zweite Basis oder Familienwohnsitz: LTR, DTV, Wohnen, Geldzugriff und Versorgung konkret vergleichen und mit EXOBASIS vorbereiten.",
+  "intro": "<p>Du willst deiner Familie einen eigenen Standort aufbauen, der mehr ist als ein langer Aufenthalt. Vielleicht, weil du Angst vor Krieg hast und rechtzeitig gehen können möchtest. Vielleicht, weil du auf Dauer anders leben willst. In beiden Fällen brauchst du einen Ort, an dem Aufenthalt, Geld, Wohnen und Versorgung tatsächlich funktionieren.</p><p>Thailand bietet unterschiedliche Wege für vermögende Personen, Ruheständler, bestimmte Berufstätige und mobiles Arbeiten. Welcher davon dich und deine Angehörigen trägt, entscheidet sich vor der Wohnungswahl. EXOBASIS verbindet diese Klärung mit der konkreten Vorbereitung deiner zweiten Basis.</p>",
   "countryContext": "/de/laender/thailand/",
   "linkPlan": [
     {
@@ -106,11 +106,275 @@
   ],
   "sources": [
     {
-      "title": "Thailand Board of Investment: Long-Term Resident Visa",
+      "title": "FCDO: Verkehr, Luftqualität und Naturgefahren in Thailand",
+      "url": "https://www.gov.uk/foreign-travel-advice/thailand/print",
+      "section": 2,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "BOI: Angehörigenkreis nach Por.3/2568",
+      "url": "https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_%28EN%29.pdf",
+      "section": 3,
+      "checkedAt": "2026-10-05",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Thai eVisa: DTV-Familienkategorie",
+      "url": "https://www.thaievisa.go.th/visa/dtv-visa",
+      "section": 3,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Thailändische Botschaft London: DTV-Gültigkeit, Aufenthalt und Verlängerung",
+      "url": "https://london.thaiembassy.org/en/page/destination-thailand-visa",
+      "section": 4,
+      "checkedAt": "2026-10-05",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "BOI: LTR-Aufenthalt und Wiedereinreise",
+      "url": "https://ltr.boi.go.th/documents/BOI-brochure%202025-LTR.pdf",
+      "section": 4,
+      "checkedAt": "2026-10-05",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "BOI Por.3/2568: Hauptgruppen, Investitionen und persönliche Voraussetzungen",
+      "url": "https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_%28EN%29.pdf",
+      "section": 5,
+      "checkedAt": "2026-10-05",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "BOI: Versicherungs- und Guthabennachweise für Angehörige",
+      "url": "https://ltr.boi.go.th/documents/Required-docs-Dependents-30-06-2025.pdf",
+      "section": 5,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "BOI: LTR und Arbeitserlaubnis",
       "url": "https://ltr.boi.go.th/",
       "section": 5,
-      "checkedAt": "2026-09-26",
-      "verification": "live_primary_text",
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "FCDO: Straßenverkehr, saisonaler Rauch und Wetterfolgen",
+      "url": "https://www.gov.uk/foreign-travel-advice/thailand/print",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Department of Lands: Mietdauer, Registrierung und Berechtigung",
+      "url": "https://www.dol.go.th/media/813280667562545152/2026/03/SsHU09xuVdkiz5LbKfB8A7ey.pdf",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "OCPB: Schutz bei Wohnraummietverträgen",
+      "url": "https://www.ocpb.go.th/news_view.php?nid=17149",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Condominium Act: Käuferkategorien, 49-Prozent-Quote und Geldnachweis",
+      "url": "https://www.dol.go.th/media/813280140573413376/2026/03/eRnikra3ZKfuY4BhCzg6t1x5.pdf",
+      "section": 6,
+      "checkedAt": "2026-10-05",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Department of Lands: enge Landkaufausnahme für Ausländer",
+      "url": "https://www.dol.go.th/media/716929789247754240/migration/2025/10/fZViaJ7Tn98PG3XDygRUAtC6.pdf",
+      "section": 6,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "ISB: Schulgebühren 2026/27",
+      "url": "https://www.isb.ac.th/admissions/fees",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Prem: Gebühren und Aufnahmebedingungen 2026/27",
+      "url": "https://ptis.ac.th/wp-content/uploads/2026/08/Tuition-Fee-AY2026-27-Prem-International-School.pdf",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "BISP: Schulgebühren 2026/27",
+      "url": "https://www.bisphuket.ac.th/admissions/school-fees/",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Chiva: medizinisch betreute Übergangsrehabilitation",
+      "url": "https://www.bangkokhospital.com/en/bangkok/center-clinic/recovery-rehabilitation/chiva-transitional-care-hospital/overview",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Bangkok Hospital Chiang Mai: Rehabilitation Clinic",
+      "url": "https://www.bangkokhospital.com/en/chiangmai/center-clinic/recovery-rehabilitation/rehabilitation-clinic-bcm/overview",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Bangkok Hospital Phuket: Aufnahme, Versicherung und Zahlung",
+      "url": "https://www.bangkokhospital.com/en/phuket/page/international-patient-services-bpk",
+      "section": 7,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "KASIKORNBANK: Konten und Unterlagen für ausländische Kunden",
+      "url": "https://www.kasikornbank.com/en/personal/services/guides/pages/foreigncustomer.aspx",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Revenue Department: Auslandseinkünfte, Ansässigkeit und Überweisung",
+      "url": "https://www.rd.go.th/fileadmin/user%5Fupload/porphor/GuideTaxFromAbroad%5FEN.pdf",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Royal Decree 743: LTR-Kategorien und Steuerbedingungen",
+      "url": "https://ltr.boi.go.th/documents/Royal%20Decree%20issued%20under%20the%20Revenue%20Code%20No.743%20%28EN%29.pdf",
+      "section": 8,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "BOI: Verfahren, Fristen, Gebühren und TIESC",
+      "url": "https://ltr.boi.go.th/documents/BOI-brochure%202025-LTR.pdf",
+      "section": 9,
+      "checkedAt": "2026-10-05",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "BOI: erforderliche Unterlagen für Angehörige",
+      "url": "https://ltr.boi.go.th/documents/Required-docs-Dependents-30-06-2025.pdf",
+      "section": 9,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Thai eVisa: DTV-Kategorien und Grundunterlagen",
+      "url": "https://www.thaievisa.go.th/visa/dtv-visa",
+      "section": 9,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Thailändische Botschaft Berlin: konsularische Bezirke",
+      "url": "https://berlin.thaiembassy.org/de/page/e-visa-e-visa-system",
+      "section": 9,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Thailändisches Generalkonsulat Frankfurt: DTV-Unterlagen und Gebühr",
+      "url": "https://frankfurt.thaiembassy.org/de/page/destination-thailand-visa",
+      "section": 9,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Thailändische Botschaft Wien: eVisa-Zuständigkeit und Dokumente",
+      "url": "https://www.thaiembassy.at/en/e-visa.html",
+      "section": 9,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Thailändische Botschaft Bern: eVisa und Vorlauf",
+      "url": "https://www.thaiembassy.ch/Content/Embassy/55.html",
+      "section": 9,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Bern: DTV1-Unterlagen",
+      "url": "https://thaiembassy.ch/files_upload/editor_upload/1788181352_required-documents---dtv1-digital-nomad.pdf",
+      "section": 9,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Bangkok Inspect: Kontrollen und abgegrenzter Leistungsumfang",
+      "url": "https://bangkokinspect.com/owners/monitoring",
+      "section": 10,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Chiang Mai Property Angel: Property Services",
+      "url": "https://chiangmaipropertyangel.com/property-services/",
+      "section": 10,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Pearl Property Management: Hausbetreuung auf Phuket",
+      "url": "https://thepropertymanagementcompanyphuket.com/house-management/",
+      "section": 10,
+      "checkedAt": "2026-10-07",
+      "verification": "accepted_source_text",
+      "limitation": ""
+    },
+    {
+      "title": "Revenue Department: Anlage für Auslandseinkünfte",
+      "url": "https://www.rd.go.th/fileadmin/download/english_form/2026/incomeforeign_eng_040869.pdf",
+      "section": 8,
+      "checkedAt": "2026-10-05",
+      "verification": "accepted_source_text",
       "limitation": ""
     }
   ],
@@ -129,16 +393,16 @@
     "caption": "Geografische Orientierung. Keine Reise-, Sicherheits- oder Grenzbewertung.",
     "summary": [
       [
-        "Lebensmodell zuerst",
-        "Familienwohnsitz und mobile Nutzung brauchen passende eigene Voraussetzungen."
+        "Dein Lebensmodell",
+        "Krisenbasis mit Rückkehr, Familienwohnsitz oder mobile Nutzung getrennt vorbereiten."
       ],
       [
-        "Konkrete Kategorie",
-        "LTR und andere Wege nach Tätigkeit, Einkommen und Angehörigen prüfen."
+        "Der passende Aufenthaltsweg",
+        "LTR-Kategorie oder DTV mit eigenen Nachweisen, Familienrechten und erlaubter Tätigkeit verbinden."
       ],
       [
-        "Regional nutzbar",
-        "Wohnort, Schule, Medizin und Arbeitsplatz zusammen auswählen."
+        "Ein nutzbarer Standort",
+        "Bangkok, Chiang Mai/Mae Rim und Phuket nach Schule, Behandlung, Wegen und Wohnbedarf auswählen."
       ]
     ]
   },
@@ -146,61 +410,62 @@
     {
       "id": "ausgangslage",
       "title": "Passende Ausgangslage",
-      "body": "<p>Thailand kann als Familienbasis passen, wenn der Aufenthaltsgrund und dein tatsächlicher Alltag zusammenkommen. Ein langer Aufenthalt ist noch keine eingerichtete Existenzgrundlage. Du brauchst einen passenden Status für die betroffenen Personen, eine tragfähige Wohnregion und eine klare berufliche Lösung. Die Vorbereitung beginnt deshalb nicht mit einem Lieblingsort, sondern mit den Anforderungen deiner Familie und der geplanten Nutzung.</p>"
+      "body": "<p>Ein vorhandenes Visum, ausreichendes Vermögen und eine passende Wohnung lösen verschiedene Aufgaben. Ein Visum bestimmt, wie du bleiben darfst. Verfügbares Haushaltsgeld bezahlt euren Alltag. Die Wohnung muss zu Schule, Behandlung und Arbeit passen. Für eine belastbare Entscheidung werden diese Voraussetzungen gemeinsam betrachtet.</p><ul><li><strong>Du willst im Ernstfall ausweichen und später zurück:</strong> Die Familie braucht einen bereits nutzbaren Reise- und Aufenthaltsweg, eine zugängliche Unterkunft und jemanden, der sie während eurer Abwesenheit betreut.</li><li><strong>Du möchtest nach Thailand auswandern:</strong> Ein tragfähiger Familienstatus, Schulaufnahme, medizinischer Anschluss und laufendes Einkommen bestimmen den Standort.</li><li><strong>Du lebst zwischen mehreren Ländern:</strong> Erlaubte Tätigkeit, Aufenthaltsfristen, Wiedereinreise und laufende Fixkosten müssen zu deinem Reisemuster passen.</li></ul><p>Wir beginnen bei euren tatsächlichen Pässen, bestehenden Rechten und Verpflichtungen. So wird aus der Frage nach dem besten Land eine konkrete Entscheidung für deinen Haushalt.</p>"
     },
     {
       "id": "krisenbasis-rueckkehr",
       "title": "Krisenbasis und Rückkehr",
-      "body": "<p>Ein vorbereiteter Standort muss erreichbar sein, bevor das betrachtete Szenario deine Reise erschwert. Plane Anreise, Unterkunft und Versorgung ebenso wie einen Rückweg oder weiteren Aufenthalt bei Verzögerungen. Aus Entfernung zum Herkunftsland folgt keine bestimmte Verfügbarkeit von Flügen, Behandlung oder Geldzugriff. Die Basis wird an ihren konkreten Voraussetzungen beurteilt, nicht an der Bekanntheit eines Ferienorts. Ein vorbereiteter Zufluchtsort muss auch nach einer langen Anreise vom Flughafen bis zur Unterkunft nutzbar sein. Für die Rückkehr hältst du Dokumente, Mittel und weiterlaufende Aufgaben im bisherigen Land bereit. Ob Thailand bei erneuter Einreise nutzbar bleibt, entscheidet der konkrete Status und nicht die Zahl früherer Reisen.</p>"
+      "body": "<p>Die Entfernung zu Europa allein macht Thailand noch nicht zur vorbereiteten Zuflucht. Wenn Krieg oder die Angst vor Krieg deinen Zeitrahmen verkürzt, müssen Abreise, Transit, Einreise und der Weg bis zur Wohnung bereits durchdacht sein. Lege fest, bei welchem persönlichen Auslöser du handeln willst und wer Kinder, Angehörige oder betriebliche Aufgaben übernimmt.</p><p>Für die Ankunft gehören erreichbare Schlüssel, ein bezahlbarer erster Aufenthalt, ein funktionierender Zahlungsweg und benötigte Medikamente zusammen. Eine zweite Verbindung oder Zwischenstation wird mit ihren eigenen Einreiserechten geplant. Grenzwarnungen und gesperrte Wege können einen vorgesehenen Landweg unbrauchbar machen; eine schnelle Fahrt ins Nachbarland ist deshalb kein allgemeiner Ersatz für einen ausgefallenen Flug.</p><p>Am Wohnort sind Starkregen, Überflutung, unterbrochene Straßen und Stromausfälle Teil der Vorbereitung. Für Bangkok und Chiang Mai kommt saisonal belastete Luft hinzu. Kläre am konkreten Objekt Notstrom für benötigte Geräte, Trinkwasser, erreichbare Vorräte und den Ersatzweg zur Behandlung. Bei importierten Medikamenten oder Hilfsmitteln werden Vorrat, Lieferzeit und ein medizinisch geeigneter Ersatzbezug vor der Reise organisiert.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.gov.uk/foreign-travel-advice/thailand/print\">FCDO: Verkehr, Luftqualität und Naturgefahren in Thailand</a>.</p><p>Die Rückkehr wird mit vorbereitet: Welche Pflichten laufen am bisherigen Wohnort weiter, wer verwahrt Unterlagen und wer hält deine Wohnung in Thailand nutzbar? Wenn du zunächst allein gehst, braucht auch das spätere Nachkommen der Familie einen eigenen Ablauf. <a href=\"/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/\">Wohin bei Krieg: einen erreichbaren Ausweg vorbereiten</a> ordnet die Länderfrage ein. Mit dem <a href=\"/de/leistungen/flucht-notfallplan/\">persönlichen Flucht- und Notfallplan</a> verbinden wir Auslöser, Reise, Verantwortung und konkrete Alternativen.</p>"
     },
     {
       "id": "familienzukunft",
       "title": "Dauerhafte Zukunft für die Familie",
-      "body": "<p>Vergleiche Wohnregionen nach Schule, Sprache, medizinischem Bedarf und deinen beruflichen Anforderungen. Prüfe auch die rechtliche Einbeziehung von Partner und Kindern. Ein Status, der für einen einzelnen Antragsteller geeignet ist, muss nicht alle Angehörigen oder dieselbe Tätigkeit abdecken. Erkundung, Aufnahmegespräche und konkrete Wohnangebote gehören in eine gemeinsame Entscheidung, bevor du den bisherigen Alltag aufgibst. Das BOI-LTR-Modell kann einen Hauptantrag und bestimmte Angehörige umfassen; daraus folgt noch kein Platz an einer Schule oder ein passender Pflegeweg. Vergleiche die Region mit Unterrichtssprache, erreichbarer Behandlung und beruflichem Alltag. Ein Ruhestandsweg und eine arbeitsbezogene Kategorie lösen für dieselbe Familie unterschiedliche Aufgaben.</p>"
+      "body": "<p>Für eine dauerhafte Zukunft braucht jedes Familienmitglied einen eigenen geklärten Aufenthaltsweg. Der LTR-Status des Hauptantragstellers ist der Ausgangspunkt, nicht die fertige Familienakte. Die BOI-Regel Por.3/2568 umfasst rechtmäßige Ehepartner, Eltern, Kinder unter 20 Jahren und rechtlich abhängige Angehörige. Beim DTV ist der abgeleitete Familienweg enger: Ehepartner und Kinder unter 20 Jahren.</p><p class=\"exb-citation\">Quelle: <a href=\"https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_%28EN%29.pdf\">BOI: Angehörigenkreis nach Por.3/2568</a>.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.thaievisa.go.th/visa/dtv-visa\">Thai eVisa: DTV-Familienkategorie</a>.</p><p>Ein erwachsenes Kind, ein unverheirateter Partner oder ein Elternteil passt deshalb nicht automatisch in denselben Antrag. Unterschiedliche Pässe, Sorgeberechtigung und getrennte Reisewege werden je Person geklärt. Dazu kommen Versicherung und gegebenenfalls ein belegter Unterstützungsbedarf.</p><p>Erst danach lässt sich der Familienalltag festlegen: passende Jahrgangsstufe und Unterrichtssprache, Schulweg, Berufstätigkeit beider Erwachsenen, Behandlung und Pflege. Ein LTR-Aufenthalt ist ein verlängerbarer Programmstatus und kein bereits erworbenes Daueraufenthaltsrecht. Die langfristige Planung enthält daher auch die Bedingungen für seinen Fortbestand.</p><p>Bleiben Angehörige oder ein Unternehmen im bisherigen Land zurück, organisieren wir auf Auftrag Betreuung, befugte Vertretung und die notwendigen Übergaben. So hängt eure Entscheidung nicht dauerhaft an deiner persönlichen Anwesenheit: <a href=\"/de/leistungen/familie-unternehmen/\">Familie und Unternehmen handlungsfähig halten</a>.</p>"
     },
     {
       "id": "mobile-nutzung",
       "title": "Mobile Nutzung",
-      "body": "<p>Bei mobilen Aufenthalten sind Wiederkehr, Tätigkeitsrecht, Versicherungsdeckung und fortbestehende Nachweise zu klären. Eine touristische Aufenthaltsfolge ist keine allgemeine Grundlage für dauerhaftes Familienleben oder jede Form von Arbeit. Plane die tatsächliche Nutzung mit deinen Geschäfts- und Familienpflichten. Eine zweite Unterkunft braucht außerdem Betreuung und erreichbare Ansprechpartner, solange du nicht vor Ort bist.</p>"
+      "body": "<h3>DTV: fünf Jahre Visagültigkeit, begrenzter Aufenthalt je Einreise</h3><p>Das Destination Thailand Visa erlaubt innerhalb seiner fünfjährigen Gültigkeit mehrere Einreisen. Je Einreise sind bis zu 180 Tage Aufenthalt vorgesehen. Du kannst dafür bei Immigration einmal eine Verlängerung um höchstens weitere 180 Tage beantragen. Danach steht die Ausreise an; eine neue Einreise ist mit dem weiterhin gültigen DTV möglich. Die Gültigkeitsdauer des Visums ist also kein durchgehender Fünfjahresaufenthalt.</p><p>DTV1 richtet sich an Remote-Arbeit und Freelancer im Workcation-Modell. DTV2 setzt die belegte Teilnahme an einer zugelassenen Aktivität oder medizinischen Behandlung voraus. Für Ehepartner und Kinder unter 20 gibt es DTV3. Eine Tätigkeit für den thailändischen Arbeitsmarkt muss gesondert zum dafür vorgesehenen Arbeits- und Aufenthaltsrecht passen.</p><p class=\"exb-citation\">Quelle: <a href=\"https://london.thaiembassy.org/en/page/destination-thailand-visa\">Thailändische Botschaft London: DTV-Gültigkeit, Aufenthalt und Verlängerung</a>.</p><h3>LTR: den längeren Rahmen richtig nutzen</h3><p>LTR ist auf zehn Jahre angelegt. Zunächst wird ein Aufenthalt von fünf Jahren erteilt, höchstens bis zum Passablauf. Weitere fünf Jahre setzen voraus, dass die Bedingungen fortbestehen. Zum Programm gehören mehrfache Wiedereinreise und eine jährliche statt der üblichen 90-Tage-Meldung. Welche Arbeit du ausüben darfst, folgt deiner konkreten Kategorie.</p><p class=\"exb-citation\">Quelle: <a href=\"https://ltr.boi.go.th/documents/BOI-brochure%202025-LTR.pdf\">BOI: LTR-Aufenthalt und Wiedereinreise</a>.</p><p>Plane deine Reisen anhand des tatsächlichen Einreisestempels, der Passgültigkeit und der nächsten Meldung. Bei wiederkehrenden Aufenthalten kommen Wohnkosten während der Abwesenheit, die Betreuung des Objekts und eure Tage in den jeweiligen Steuerjahren hinzu. Ein Laptop ersetzt weder die Arbeitserlaubnis für eine örtliche Beschäftigung noch die Aufnahme deiner Angehörigen.</p>"
     },
     {
       "id": "rechte-programme",
       "title": "Vorhandene Rechte und passende Wege",
-      "body": "<p>Das thailändische Board of Investment beschreibt beim Long-Term Resident Visa unterschiedliche Zielgruppen, darunter vermögende Personen, bestimmte Ruheständler, geeignete aus dem Ausland arbeitende Fachkräfte und hochqualifizierte Spezialisten. Jede Kategorie hat eigene Voraussetzungen. Angehörige, Absicherung und die konkrete Tätigkeit sind zusätzlich zuzuordnen. LTR ist damit ein möglicher passender Weg, aber kein einheitliches Angebot für jeden, der in Thailand leben möchte. Das Board of Investment benennt getrennte LTR-Kategorien für vermögende Personen, bestimmte Pensionäre, geeignete aus dem Ausland arbeitende Fachkräfte und hochqualifizierte Spezialisten. Einkommen, berufliche Rolle, Absicherung und Angehörige werden nur für den tatsächlich passenden Weg geprüft. Der Programmname gibt weder jedem Antragsteller ein Arbeitsrecht noch ersetzt er die behördliche Prüfung seiner Qualifikation.</p><p class=\"exb-citation\">Fachquelle: <a href=\"https://ltr.boi.go.th/\" rel=\"noreferrer\">Thailand Board of Investment: Long-Term Resident Visa</a></p><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fthailand%2F#kurzanfrage\">Vorbereitung für Thailand anfragen</a><p>Eine konkrete Teilaufgabe ist direkt anfragbar. Persönliche Unterlagen folgen erst im vereinbarten geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+      "body": "<h3>Was ist bereits nutzbar, was muss erst entstehen?</h3><div class=\"exb-country-table\" role=\"region\" aria-label=\"Vergleich der drei Thailand-Nutzungen\" tabindex=\"0\"><table><caption>Dein Lebensmodell, vorhandene Rechte und konkrete Vorbereitung</caption><thead><tr><th scope=\"col\">Nutzung</th><th scope=\"col\">Bereits vorhandene Rechte prüfen</th><th scope=\"col\">Noch zu beschaffende Voraussetzungen</th><th scope=\"col\">Konkrete Ausführung</th></tr></thead><tbody><tr><th scope=\"row\">Krisenbasis mit Rückkehr</th><td>Für jede Person: gültiger Pass, bestehender Thai-Titel, erlaubter Aufenthalt und Wiedereinreise. Ein bereits erteilter Titel wird mit Ablaufdatum und Bedingungen erfasst; eine bloße Eignung für LTR oder DTV bleibt ein offener Antrag.</td><td>Fehlender passender Titel, Familiennachweise, Versicherungsdeckung und finanzielle Nachweise. Der Aufenthalt muss die geplante Ausweichzeit tragen.</td><td>Anreise, verfügbare Unterkunft, Schlüssel, erste Zahlung und Versorgung einrichten; Abwesenheitsbetreuung und Rückkehr abstimmen.</td></tr><tr><th scope=\"row\">Dauerhafter Familienwohnsitz</th><td>Rechte des Hauptinhabers und jedes Angehörigen getrennt erfassen, einschließlich zulässiger Arbeit. Ein vorhandener Ehe- oder Verwandtschaftsnachweis ist noch kein erteilter Angehörigenstatus.</td><td>Geeignete Hauptkategorie und eigene Angehörigenanträge, Versicherung, erforderliche Arbeitsberechtigung sowie bestätigte Schul- und Versorgungsaufnahme.</td><td>Wohnlage aus Schul- und Behandlungswegen ableiten, Vertrag und Ankunft organisieren, Haushaltskosten und laufende Pflichten übernehmen lassen.</td></tr><tr><th scope=\"row\">Mobile Nutzung</th><td>Bestehenden DTV- oder LTR-Status gegen Einreisestempel, Wiedereinreise und tatsächlich erlaubte Tätigkeit prüfen. Ein ausländischer Arbeitgeber allein begründet keinen LTR-Anspruch.</td><td>DTV-Tätigkeitsnachweis oder vollständige LTR-Work-from-Thailand-Voraussetzungen; gesonderter Familienstatus und nötige Verlängerungen.</td><td>Reisekalender, Arbeitsplatz, Zahlwege und Wohnung verbinden; Ausreise, steuerliche Aufenthaltstage und Betreuung während Abwesenheit planen.</td></tr></tbody></table></div><h3>Die vier LTR-Hauptgruppen</h3><ul><li><strong>Wealthy Global Citizen:</strong> mindestens 1 Million USD Vermögen und mindestens 500.000 USD bereits getätigte qualifizierende Investition in Thailand in eigenem Namen. Die BOI-Norm nennt dafür bestimmte Staatsanleihen, Direktinvestitionen und Immobilien. Das Vermögen und die anrechenbare Investition werden getrennt nachgewiesen.</li><li><strong>Wealthy Pensioner:</strong> ab 50 Jahren, bei Antragstellung im Ruhestand und mit Pension beziehungsweise festem persönlichem Einkommen von mindestens 80.000 USD jährlich. Bei mindestens 40.000 und weniger als 80.000 USD kommt eine qualifizierende Thailandinvestition von mindestens 250.000 USD hinzu.</li><li><strong>Work-from-Thailand Professional:</strong> durchschnittlich mindestens 80.000 USD persönliches Jahreseinkommen in den zwei Jahren vor Antrag. Der Weg ab 40.000 USD verlangt zusätzlich einen Masterabschluss oder höher, geistiges Eigentum oder die geforderte Series-A-Finanzierung von mindestens 1 Million USD. Der ausländische Arbeitgeber muss börsennotiert sein oder seit mindestens drei Jahren tätig sein und zusammen mindestens 50 Millionen USD Umsatz in drei Jahren nachweisen; die Norm berücksichtigt auch dessen hundertprozentige Tochtergesellschaft.</li><li><strong>Highly Skilled Professional:</strong> qualifizierte Tätigkeit in Thailand in einem erfassten Zielbereich oder einer anerkannten Einrichtung, belegt durch Arbeits-/Dienstvertrag oder entsprechende Beschäftigung. Regelmäßig sind durchschnittlich mindestens 80.000 USD Jahreseinkommen in den zwei Vorjahren nötig. Ab 40.000 USD verlangt die Norm einen einschlägigen höheren Abschluss in Wissenschaft/Technologie oder passende Fachkenntnis. Für bestimmte öffentliche Hochschulen, Forschung, Ausbildung und Behörden entfällt die Mindesteinkommensanforderung. Pensionierte Fachleute aus Wissenschaft und Technologie können dafür durchschnittlich mindestens 40.000 USD pro Jahr in den zwei Jahren vor dem Ruhestand nachweisen.</li></ul><p class=\"exb-citation\">Quelle: <a href=\"https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_%28EN%29.pdf\">BOI Por.3/2568: Hauptgruppen, Investitionen und persönliche Voraussetzungen</a>.</p><p>In jeder der vier Hauptgruppen verlangt die jeweilige BOI-Regel entweder mindestens 50.000 USD Krankenversicherungsschutz für Thailand mit mindestens zehn Monaten Restdeckung bei Ausstellung der Qualifikationsbestätigung, einschlägige Sozialversicherung oder mindestens 100.000 USD Bankguthaben, das seit zwölf Monaten gehalten wird. Bei Angehörigen gilt eine eigene Alternative: zusätzlich 25.000 USD Guthaben je Person seit zwölf Monaten auf dem Konto des Hauptinhabers oder Angehörigen. Die jeweilige Versicherung muss den einzelnen Angehörigen tragen; Reiseversicherung wird in der BOI-Angehörigencheckliste nicht akzeptiert.</p><p class=\"exb-citation\">Quelle: <a href=\"https://ltr.boi.go.th/documents/Required-docs-Dependents-30-06-2025.pdf\">BOI: Versicherungs- und Guthabennachweise für Angehörige</a>.</p><h3>Die Tätigkeit gehört zur Kategorie</h3><p>Der Work-from-Thailand-LTR ist für Remote-Arbeit beim ausländischen Arbeitgeber bestimmt; BOI erteilt dafür keine thailändische Arbeitserlaubnis. Für eine Beschäftigung bei einer Einheit in Thailand wird der entsprechende Arbeitserlaubnisantrag im LTR-System vor Arbeitsaufnahme eingeordnet. BOI nennt für das Verfahren drei bis fünf Werktage bei vollständiger Grundlage und 3.000 THB jährlich; Nachforderungen verlängern die Bearbeitung. Eine örtliche Beschäftigung, Kundenarbeit oder ein neuer Geschäftsfall wird deshalb vor Beginn mit dem passenden Fachmandat geklärt.</p><p class=\"exb-citation\">Quelle: <a href=\"https://ltr.boi.go.th/\">BOI: LTR und Arbeitserlaubnis</a>.</p><div class=\"exb-country-action\"><p><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fthailand%2F#kurzanfrage\">Vorbereitung für Thailand anfragen</a></p><p>Beschreibe zunächst dein Anliegen: etwa Familienaufenthalt, Wohnungssuche oder einen verwendbaren Geldzugang. Persönliche Unterlagen besprechen wir anschließend im geschützten Austausch. Für dein übergreifendes Anliegen: <a href=\"/de/anfrage/#kontaktbeginn\">Diskrete Anfrage</a>.</p></div>"
     },
     {
       "id": "regionen-wohnen",
       "title": "Regionen und Wohnen",
-      "body": "<p>Wähle die Region anhand tatsächlicher Wege zu Schule, Medizin und Arbeitsplatz. Ein touristischer Ort und ein dauerhaft funktionierender Haushalt sind unterschiedliche Maßstäbe. Prüfe Wohnen, Internet, Transport und erreichbare Unterstützung an der konkreten Unterkunft. Organisierte Besichtigungen und Termine helfen, die Auswahl vor dem Einzug zu klären; eine allgemeine Ortsbeschreibung ersetzt diese praktische Prüfung nicht.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/ankunft-organisieren/\">Ankunft im Zielland organisieren</a></p>"
+      "body": "<p>Die Wohnentscheidung folgt dem geklärten Familienaufenthalt. Ein Angehörigenstatus ermöglicht den passenden Aufenthalt; Schulplatz, Wohnung und aufnehmende Versorgung werden gesondert organisiert. Verbinde deren tatsächliche Zusagen mit dem Mietbeginn oder der Kaufübergabe.</p><h3>Bangkok, Chiang Mai/Mae Rim oder Phuket?</h3><ul><li><strong>Bangkok:</strong> eine Prüfoption, wenn internationale Schule und spezialisierte Behandlung den Alltag bestimmen. Lege die Wohnung anhand der tatsächlichen Fahrten fest: Schulbeginn, regelmäßiger Kliniktermin und Arbeitsplatz. Eine gute Verbindung auf der Karte kann im Berufsverkehr viel Zeit kosten. Bei Atemwegsproblemen gehören Luftfilterung und eine nutzbare Alternative für Tage mit hoher Luftbelastung zur Wohnprüfung. Für Wohnoptionen in Nonthaburi prüfst du zusätzlich am konkreten Objekt die Zufahrt und Ausweichwege zu Schule, Behandlung und Versorgung bei Starkregen. Der FCDO-Reisehinweis vom 28. September 2026 nannte auch Nonthaburi als von Überflutungen betroffen und warnte vor möglichen Straßensperren.</li><li><strong>Chiang Mai und Mae Rim:</strong> passend für eine Prüfung zwischen städtischer Versorgung und einem weiter außerhalb liegenden Schulstandort. Prem liegt in Huay Sai, Mae Rim; der Weg dorthin und zur Rehabilitation in Chiang Mai sind unterschiedliche Strecken. Teste beide. Saisonaler Rauch ist besonders bei Kindern oder Atemwegserkrankungen eine konkrete Nutzungsfrage: Wie lange könnt ihr am Ort bleiben, und wohin weicht ihr bei Bedarf aus?</li><li><strong>Phuket:</strong> prüfe eine Wohnlage im Verhältnis zur gewählten Schule, Bangkok Hospital Phuket und den Alltagsfahrten. Strandnähe kann lange Wege bedeuten. Starkregen, überflutete Zufahrten und raue See gehören in die Entscheidung; eine auf Boote angewiesene Versorgung ist etwas anderes als eine auf der Straße erreichbare Wohnung.</li></ul><p class=\"exb-citation\">Quelle: <a href=\"https://www.gov.uk/foreign-travel-advice/thailand/print\">FCDO: Straßenverkehr, saisonaler Rauch und Wetterfolgen</a>.</p><p>Besichtige nicht nur Zimmer und Aussicht. Prüfe Zufahrt nach Regen, Entwässerung, Feuchtigkeit, Klimaanlage, Internet und die Stromversorgung wichtiger Geräte. Bei einem Haus kommen Garten, Pool und laufende Wartung hinzu. Eine möblierte Übergangswohnung lässt euch diese Wege erproben, bevor ihr euch lange bindet.</p><h3>Mieten: Kosten und Rechte vor der Kaution klären</h3><p>In den Vertrag gehören Vermietungsberechtigung, genaues Objekt, Laufzeit, Kündigung, Kaution und Rückgabe, Reparaturen, Nebenkosten und erlaubte Nutzung während deiner Abwesenheit. Möbel, Schäden und Zählerstände werden bei Übergabe dokumentiert. Für Untervermietung oder Übertragung braucht es eine passende vertragliche Grundlage beziehungsweise Zustimmung.</p><p>Eine Immobilienmiete über drei Jahre muss schriftlich abgeschlossen und registriert werden. Die reguläre registrierbare Laufzeit beträgt höchstens 30 Jahre. Eine angebotene spätere Verlängerung wird als gesonderte Verpflichtung geprüft, nicht als bereits gesichertes Eigentum für 60 oder 90 Jahre behandelt.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.dol.go.th/media/813280667562545152/2026/03/SsHU09xuVdkiz5LbKfB8A7ey.pdf\">Department of Lands: Mietdauer, Registrierung und Berechtigung</a>.</p><p>Für erfasste Wohnraummietverträge gilt seit 4. September 2025 die OCPB-Regelung zum Vertragsschutz. Dazu gehören unzulässige Kautions-/Vorauszahlungsverluste und überhöhte Strom- oder Wasserabrechnungen; im erfassten Bereich dürfen die vorgegebenen Versorgertarife nicht überschritten werden. Lass den konkreten Vertrag samt Anbieter und Abrechnung auf diese Regelung prüfen und Rückzahlung sowie einzelne Kosten schriftlich beziffern.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.ocpb.go.th/news_view.php?nid=17149\">OCPB: Schutz bei Wohnraummietverträgen</a>.</p><h3>Immobilien kaufen: Condo und Grundstück unterscheiden</h3><p>Ausländer können unter den Voraussetzungen des Condominium Act Wohnungseigentum erwerben. Die ausländische Quote darf insgesamt höchstens 49 Prozent der Wohnungsflächen des registrierten Condominiums betragen. Gemeint ist die Fläche, nicht die Zahl der Wohnungen. Vor einer verbindlichen Reservierung werden die Käuferkategorie, der Titel, Belastungen und die verfügbare Quote geprüft.</p><p>Beim üblichen Erwerbsweg über eingeführte Fremdwährung muss der geeignete Geldnachweis mindestens den Kaufpreis abdecken. Das Gesetz nennt daneben bestimmte Abhebungen von Nonresident-Baht- oder Fremdwährungskonten. Stimme deshalb mit Bank und Kaufprüfung den zulässigen Zahlungsweg und die auszustellenden Belege ab, bevor du Geld transferierst.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.dol.go.th/media/813280140573413376/2026/03/eRnikra3ZKfuY4BhCzg6t1x5.pdf\">Condominium Act: Käuferkategorien, 49-Prozent-Quote und Geldnachweis</a>.</p><p>Für die Übertragung am Land Office werden der Wohnungseigentumstitel und grundsätzlich die aktuelle Bescheinigung über bezahlte Gemeinschaftskosten benötigt. Der Manager der Condo-Juristic-Person stellt diese nach Antrag und vollständiger Zahlung innerhalb von 15 Tagen aus. Kaufvertrag, Zahlung und Registrierung müssen zeitlich zusammenpassen; ein unterschriebener privater Kaufvertrag ersetzt den Registerabschluss nicht.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.dol.go.th/media/813280140573413376/2026/03/eRnikra3ZKfuY4BhCzg6t1x5.pdf\">Condominium Act: Titel und Schuldenfreiheitsbescheinigung</a>.</p><p>Für Land gibt es kein entsprechendes allgemeines Ausländerkaufrecht. Die enge Ausnahme nach Section 96 bis verlangt unter anderem mindestens 40 Millionen THB in gesetzlich zugelassenen Investitionen, eine Ministergenehmigung und weitere Orts-/Nutzungsbedingungen; sie betrifft höchstens ein Rai Wohnland. Die Investition ist mindestens fünf Jahre zu halten und jährlich nachzuweisen. Der Kaufpreis eines Hauses ist nicht automatisch die geforderte Investition. Wir planen keinen Erwerb über vorgeschobene thailändische Eigentümer.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.dol.go.th/media/716929789247754240/migration/2025/10/fZViaJ7Tn98PG3XDygRUAtC6.pdf\">Department of Lands: enge Landkaufausnahme für Ausländer</a>.</p><h3>Unterkunft, Erkundung und Ankunft</h3><p>EXOBASIS übernimmt auf Auftrag Suchprofil, Objektauswahl und Besichtigungsorganisation, beschafft eine unabhängige örtliche Vertrags-/Titelprüfung und koordiniert Abschluss, Zahlung und Übergabe. Im Budget trennen wir eigene Organisationsarbeit, Fachhonorare und Besichtigungen von Miete, Kaution oder Kaufpreis, Erwerbsabgaben, Registerkosten und laufender Betreuung. Danach werden Schlüssel, Einrichtung, Versorger und der erste Aufenthalt verbunden: <a href=\"/de/leistungen/ankunft-organisieren/\">Ankunft im Zielland organisieren</a>.</p>"
     },
     {
       "id": "schule-gesundheit-pflege",
       "title": "Schule, Gesundheit und Pflege",
-      "body": "<h3>Kinder und Angehörige</h3><p>Aufenthaltsberechtigung, Schulaufnahme und Betreuungsbedarf werden personengenau verbunden. Bei Kindern gehören Aufenthaltsrecht, tatsächliche Schulaufnahme und Fahrweg zusammen. Für medizinischen Bedarf klären wir, ob Versicherung und konkrete Einrichtung die benötigte Behandlung tragen. Bei Pflege oder regelmäßiger Medikation ist ein erreichbarer Ersatzweg am ausgewählten Wohnort wichtiger als ein allgemeiner Klinikruf.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a></p><h3>Versicherung und Behandlung</h3><p>Kläre die Anforderungen des Aufenthaltswegs und die benötigte Versorgung am tatsächlichen Wohnort. Deckung, Ausschlüsse und Aufnahme sind verschiedene Fragen.</p><p><a class=\"exb-text-link\" href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a></p><h3>Pflege und Medikamente</h3><p>Regelmäßige Unterstützung und Nachversorgung müssen vor dem längeren Aufenthalt vereinbart werden.</p>"
+      "body": "<h3>Kinder und Angehörige: Schule vor der langfristigen Wohnbindung</h3><p>Frage mit Alter, bisherigen Zeugnissen, gewünschtem Eintrittstermin und benötigter Lernunterstützung an. Die Schule klärt Jahrgang, Aufnahmeschritte und Unterrichtssprache. Für einen Wechsel in englischsprachigen Unterricht muss der konkrete Sprachstand zur Aufnahme passen; Förderunterricht kann eine eigene Kostenposition sein. Bestätige den Platz und den tatsächlichen Schulweg, bevor ihr die langfristige Wohnung gerade um diese Schule herum auswählt.</p><ul><li><strong>Bangkok, International School Bangkok (ISB):</strong> Die Gebühren 2026/27 nennen jährlich 1.015.000 THB für Kindergarten bis Klasse 5, 1.137.000 THB für Klassen 6 bis 8 und 1.197.000 THB für Klassen 9 bis 12. Hinzu kommen 4.700 THB Antragsgebühr, einmalig 260.000 THB Registrierung und eine jährliche Gebühr von 22.000 THB. Schultransport liegt nach Entfernung bei 111.300 bis 178.000 THB im Jahr. Aufnahme und passender Jahrgang werden mit Admissions unter +66 2 963 5800 geklärt.</li><li><strong>Chiang Mai/Mae Rim, Prem:</strong> Tagesschule und Wochen-/Vollinternat sind unterschiedliche Wohn- und Kostenmodelle. Die Unterlage 2026/27 weist unter anderem 50.000 THB rückzahlbare Security Deposit, 130.000 THB Foundation Fee, 17.100 bis 20.700 THB Transport je Term für Tagesschüler und 25.000 bis 30.000 THB monatlich für individuelle Lernunterstützung aus. Fordere dazu das vollständige Angebot für Unterricht, Jahrgang und gegebenenfalls Internat an. Eine bezahlte Antragsgebühr ist noch keine Aufnahme.</li><li><strong>Phuket, British International School Phuket (BISP):</strong> Für 2026/27 werden beispielsweise 750.000 THB jährlich für Year 1 bis 3, 977.900 THB für Year 7 bis 8 und 982.700 THB für Year 9 bis 10 beziehungsweise Year 12 ausgewiesen. Internat ist separat. Weitere Jahrespositionen sind 99.900 THB Transport und, wenn benötigt, 147.000 THB Intensive English. Admissions unter admissions@bisphuket.ac.th klärt Aufnahme, Sprachförderung und eure vollständige Kostenaufstellung.</li></ul><p class=\"exb-citation\">Quelle: <a href=\"https://www.isb.ac.th/admissions/fees\">ISB: Schulgebühren 2026/27</a>.</p><p class=\"exb-citation\">Quelle: <a href=\"https://ptis.ac.th/wp-content/uploads/2026/08/Tuition-Fee-AY2026-27-Prem-International-School.pdf\">Prem: Gebühren und Aufnahmebedingungen 2026/27</a>.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.bisphuket.ac.th/admissions/school-fees/\">BISP: Schulgebühren 2026/27</a>.</p><p>Der Familienstatus erlaubt nicht automatisch den Schulbesuch an einer bestimmten Einrichtung. Aufenthaltsunterlagen, Sorge-/Reisebefugnisse und tatsächliche Aufnahme laufen deshalb nebeneinander. <a href=\"/de/wissen/familie-alltag/kinder-angehoerige/\">Mit Kindern und Angehörigen vorbereitet gehen</a> erklärt diese personengenaue Vorbereitung.</p><h3>Krankenversicherung und Behandlung</h3><p>Lege vor der Ortswahl den tatsächlichen Bedarf fest: Fachgebiet, Diagnosen, laufende Therapie, Medikamente und Kontrollrhythmus. Die geforderte LTR-Versicherungssumme beantwortet noch nicht, ob Vorerkrankungen, ambulante Behandlung oder ein Transport bezahlt werden. Versicherung und aufnehmende Einrichtung müssen denselben Fall bestätigen.</p><p>In Bangkok bietet Chiva Transitional Care Hospital medizinisch betreute Rehabilitation nach Operation oder akuter Erkrankung an. Aufnahme und vorgesehene Dauer werden unter +66 2 310 3997 oder +66 2 310 3998 angefragt. In Chiang Mai behandelt die Rehabilitation Clinic des Bangkok Hospital Verletzungs-, Operations- und chronischen Rehabilitationsbedarf; sie nennt täglich 08 bis 20 Uhr und +66 52 089 780. Wähle die Wohnung so, dass diese Termine auch tatsächlich erreichbar sind.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.bangkokhospital.com/en/bangkok/center-clinic/recovery-rehabilitation/chiva-transitional-care-hospital/overview\">Chiva: medizinisch betreute Übergangsrehabilitation</a>.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.bangkokhospital.com/en/chiangmai/center-clinic/recovery-rehabilitation/rehabilitation-clinic-bcm/overview\">Bangkok Hospital Chiang Mai: Rehabilitation Clinic</a>.</p><p>Auf Phuket koordiniert Bangkok Hospital Phuket über International Patient Services Termine und Versicherungsunterlagen. Vorher werden Freigabe, gedeckte Leistung, Selbstbehalt und Zahlungszusage des Versicherers geklärt. Fehlt eine akzeptierte Kostenübernahme, kann eine erhebliche Vorauszahlung nötig sein; ambulante Nachsorge kann ebenfalls Vorfinanzierung verlangen. Halte dafür verfügbares Geld bereit, statt dich ausschließlich auf die Versicherungskarte zu verlassen.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.bangkokhospital.com/en/phuket/page/international-patient-services-bpk\">Bangkok Hospital Phuket: Aufnahme, Versicherung und Zahlung</a>.</p><p>Für die Verbindung von Police, Aufnahme, Zahlung und Ersatzbehandlung: <a href=\"/de/wissen/familie-alltag/krankenversicherung-versorgung/\">Krankenversicherung und Versorgung im Ausland</a>.</p><h3>Pflege, Medikamente und Sprache</h3><p>Eine Rehaklinik ist eine zeitlich und medizinisch bestimmte Leistung. Für langfristige Pflege braucht ihr zusätzlich eine konkret angenommene Versorgung: Betreuung zu den benötigten Zeiten, Hilfsmittel, Medikamentengabe, Nachtbedarf, Vertretung und eine Ersatzperson. Kläre auch, in welcher Sprache Angehöriger und Betreuung zuverlässig kommunizieren können. Ein englischsprachiger Krankenhauskontakt ersetzt diese Verständigung zu Hause nicht.</p><p>Mit Wirkstoffliste, Dosierung und Rezept wird vor der Reise geklärt, was vor Ort verfügbar ist und welche Einfuhrunterlagen nötig sind. Für importierte Präparate und Spezialhilfsmittel gehören Nachbestellzeit und Ersatzversorgung in denselben Ablauf. Bei Atemwegsbedarf beeinflusst die Rauchbelastung im Norden die Ortswahl; auf Phuket werden Regenwege und Kliniktransport erprobt. EXOBASIS organisiert auf Auftrag die konkreten Rückfragen und Übergaben. Die fachliche Vorbereitung vertieft <a href=\"/de/wissen/familie-alltag/pflege-medikamente/\">Pflege, Medikamente und medizinische Abhängigkeiten beim Wegzug</a>.</p>"
     },
     {
       "id": "einkommen-geld-arbeit",
       "title": "Einkommen, Geld und Arbeitsplatz",
-      "body": "<p>Bringe Einkommensnachweise, berufliche Tätigkeit und nutzbare Geldzugänge zusammen, ohne ihre rechtlichen Funktionen zu vermischen. Die passende Kategorie kann bestimmte Anforderungen an Einkommen, Arbeitgeber oder Qualifikation stellen. Steuerfragen werden nach deiner tatsächlichen Konstellation beurteilt. Halte Haushalt, Einrichtung und zusätzliche Fachkosten getrennt kalkulierbar, damit das Vorhaben auch bei längerer Vorbereitung zahlungsfähig bleibt. Für eine LTR-Kategorie verlangte Vermögens- oder Einkommensbelege sind nicht mit frei verfügbaren Haushaltsmitteln gleichzusetzen. Ein ausländischer Arbeitgeber beantwortet noch nicht, welche Arbeit im konkreten Status von Thailand aus zulässig ist. Wohnsitz, Tätigkeit und steuerliche Ansässigkeit folgen unterschiedlichen Regeln und brauchen getrennte Fachprüfung.</p>"
+      "body": "<h3>Kapitalnachweis und verwendbares Haushaltsgeld</h3><p>Stelle drei Beträge getrennt auf: Geld beziehungsweise Anlagen für den Aufenthaltsweg, einmalige Einrichtungskosten und frei verfügbares Haushaltsgeld. Eine LTR-Investition oder ein seit zwölf Monaten gehaltenes Versicherungsguthaben ist nicht dieselbe Reserve wie das Geld für Miete, Schule, Klinikvorauszahlung und Rückreise. Auch die beim DTV verlangten 500.000 THB Finanznachweis sind keine Berechnung eurer Lebenshaltungskosten.</p><p>Zum laufenden Haushalt gehören Wohnkosten, Schule und Förderung, Mobilität, Versicherung, mögliche Selbstzahlungen, Betreuung und Verpflichtungen im bisherigen Land. Fremdwährungseinkommen wird mit Transferkosten und Wechselkursbewegungen geplant. Lege fest, welche Zahlungen auch dann weiterlaufen müssen, wenn die Hauptbank kündigt oder ein Konto während einer Prüfung gesperrt ist.</p><h3>Ein thailändisches Konto bis zur ersten Zahlung vorbereiten</h3><p>KASIKORNBANK beschreibt für ausländische Kunden ein in der Filiale eröffnetes Savings Account beziehungsweise Fixed Deposit mit Pass, Non-Immigrant Visa und zum Einreisezweck passenden Unterlagen, etwa einer Arbeitserlaubnis bei Beschäftigung. Touristenvisum, Visa on Arrival und visafreie touristische Einreise sind für dieses Angebot ausgeschlossen. Die allgemeine Kontoeröffnung hat dort keinen Mindesteinzahlungsbetrag; ein Fremdwährungskonto ist ein anderes Produkt.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.kasikornbank.com/en/personal/services/guides/pages/foreigncustomer.aspx\">KASIKORNBANK: Konten und Unterlagen für ausländische Kunden</a>.</p><p>Die veröffentlichte Non-Immigrant-Voraussetzung ist keine bestätigte Annahme mit DTV. Vor einem Filialtermin werden deshalb euer wirklicher Status und der Verwendungszweck mit dem konkreten Institut abgestimmt. Anschließend folgen vollständige Aufnahmeunterlagen, nachvollziehbare Mittelherkunft und nach Annahme der Funktionstest: Login, Karte, kleine Zahlung, Transfer und Wiederzugang.</p><p>Bis dieser Weg funktioniert, braucht ihr einen bereits nutzbaren Zugang für Kaution und erste Rechnungen. Konto, Telefon und E-Mail sollten nicht gleichzeitig den einzigen Ersatzweg bilden. Drohende Kapitalverkehrskontrollen oder staatlicher Vermögenszugriff sind ein Anlass, legale Transfermöglichkeiten und bestehende Pflichten rechtzeitig einzuordnen; ein Thai-Konto hebt Regeln im Herkunftsland nicht auf.</p><p><a href=\"/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/\">Kontozugang und Zahlungsfähigkeit im Ausland</a> erklärt die Abhängigkeiten eines nutzbaren Geldzugangs. Mit <a href=\"/de/leistungen/bankzugang-liquiditaet/\">Bankzugang und Liquidität vorbereiten</a> organisieren wir die passende Aufnahmevorbereitung und die vereinbarte Einrichtung bis zur getesteten Zahlung.</p><h3>Arbeit und Steuern im tatsächlichen Lebensmodell</h3><p>Unterscheide Remote-Arbeit für einen ausländischen Arbeitgeber, eigene Aufträge und Beschäftigung in Thailand. Der LTR-Work-from-Thailand-Weg und DTV1 haben unterschiedliche Nachweisbedingungen. Für einen Wechsel in örtliche Beschäftigung wird die entsprechende Arbeitsberechtigung vor Beginn geklärt. Der Sitz des Zahlers allein beantwortet außerdem noch nicht, wo eine Einkunft steuerlich entsteht.</p><p>Der RD-Leitfaden zählt zu Auslandseinkünften beispielsweise außerhalb Thailands ausgeübte Beschäftigung und Dienstleistungen, den Verkauf dortiger Immobilien sowie Dividenden, Zinsen und Miete aus ausländischem Vermögen. Der tatsächliche Entstehungsort steht deshalb vor der Prüfung des Überweisungszeitpunkts.</p><p>Das thailändische Steuerjahr ist das Kalenderjahr. Der Revenue-Department-Leitfaden behandelt dich ab insgesamt 180 Tagen im betreffenden Jahr als steuerlich ansässig. Bei Auslandseinkünften werden Entstehungsjahr und Überweisungsjahr getrennt: Seit 1. Januar 2024 entstandene steuerpflichtige Auslandseinkünfte eines im Entstehungsjahr thailändischen Resident werden bei Überweisung nach Thailand im Jahr der Remittance einbezogen. Vor diesem Datum entstandene Auslandseinkünfte fallen nach dem Leitfaden nicht unter diese neue Erfassung.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.rd.go.th/fileadmin/user%5Fupload/porphor/GuideTaxFromAbroad%5FEN.pdf\">Revenue Department: Auslandseinkünfte, Ansässigkeit und Überweisung</a>.</p><p>Bewahre deshalb Herkunft, Art und Entstehungszeitpunkt der Mittel sowie Transfers getrennt auf. Bereits im Ausland bezahlte Steuer wird anhand des anwendbaren Doppelbesteuerungsabkommens und der konkreten Anrechnungsbedingungen behandelt. Dafür dienen Steuerbescheide, Zahlungsbelege und nachvollziehbare Einkommensunterlagen.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.rd.go.th/fileadmin/user%5Fupload/porphor/GuideTaxFromAbroad%5FEN.pdf\">Revenue Department: Doppelbesteuerung und Steueranrechnung</a>.</p><p>Auch die RD-Anlage für Auslandseinkünfte trennt Einkunftsart, Herkunftsland, Entstehungsjahr und nach Thailand überwiesenen Betrag für Steuerpflichtigen und Ehepartner. Richte die Belegsammlung nach diesen Angaben aus.</p><p>Quelle: <a href=\"https://www.rd.go.th/fileadmin/download/english_form/2026/incomeforeign_eng_040869.pdf\">Revenue Department: Anlage für Auslandseinkünfte</a>.</p><p>Royal Decree 743 sieht für LTR-Inhaber der Gruppen Wealthy Global Citizen, Wealthy Pensioner und Work-from-Thailand Professional eine Befreiung bestimmter im vorherigen Steuerjahr erzielter und nach Thailand gebrachter Auslandseinkünfte unter den vorgeschriebenen Bedingungen vor. Für Highly Skilled Professionals enthält das Dekret stattdessen eine 17-Prozent-Regel für qualifizierende Beschäftigungseinkünfte samt Verfahrens- und Erklärungsvoraussetzungen. Diese Regel erfasst weder jedes Einkommen noch automatisch Angehörige oder DTV-Inhaber.</p><p class=\"exb-citation\">Quelle: <a href=\"https://ltr.boi.go.th/documents/Royal%20Decree%20issued%20under%20the%20Revenue%20Code%20No.743%20%28EN%29.pdf\">Royal Decree 743: LTR-Kategorien und Steuerbedingungen</a>.</p><p>Für deinen Umzug wird daraus eine konkrete Steuerprüfung über beide Länder: Tätigkeit und Einkunftsquelle, Aufenthaltstage, Entstehung der Mittel, Transferzeitpunkt und einschlägige Ausnahme. Die Geldbewegung für einen Condo-Kauf wird zusätzlich mit dem nötigen Erwerbsnachweis verbunden.</p>"
     },
     {
       "id": "dokumente-vorlauf",
       "title": "Dokumente und Vorlauf",
-      "body": "<p>Prüfe zuerst Kategorie, Angehörige und zuständige Antragsstelle. Danach werden die konkreten Einkommens-, Qualifikations-, Familien- und Versicherungsnachweise zusammengestellt. Übersetzungen, Bestätigungen und persönliche Termine folgen den tatsächlichen Anforderungen. Plane Reise und Wohnungsübergabe anhand bestätigter Voraussetzungen; eine eingereichte Prüfung oder ein positives Zwischenergebnis ist nicht mit jedem weiteren Verfahrensschritt gleichzusetzen. Nach Wahl der LTR-Kategorie ordnen wir Einkommens-, Beschäftigungs-, Familien- und Versicherungsunterlagen dem amtlichen Verfahren zu. Wenn LTR nicht passt, wird nicht stillschweigend ein Besucheraufenthalt zur Dauerlösung erklärt. Erst ein tragfähiger Weg gibt Wohn- und Schulvorbereitung ihre richtige Reihenfolge.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a></p>"
+      "body": "<h3>Die Familienakte nach dem Verfahren aufbauen</h3><p>LTR beginnt mit der Qualifikationsprüfung durch BOI. Dafür werden Vermögen und qualifizierende Investition, Pension, Arbeitgeber-/Umsatzunterlagen oder fachliche Beschäftigung passend zur Hauptgruppe belegt. BOI nennt rund 20 Arbeitstage nach vollständigen Unterlagen; das Endorsement ist gebührenfrei. Innerhalb von 60 Tagen nach Empfang der Qualifikationsbestätigung musst du die Visumerteilung beantragen. Bei Erteilung in Thailand beträgt die Gebühr 50.000 THB je Person, bei einer Auslandsvertretung gilt deren eigener Tarif. Anlaufstelle ist TIESC, One Bangkok, PARADE, 6./7. Stock, 1877 Rama IV Road, Bangkok; BOI +66 (0) 2209 1100, Durchwahl 1109 bis 1110.</p><p class=\"exb-citation\">Quelle: <a href=\"https://ltr.boi.go.th/documents/BOI-brochure%202025-LTR.pdf\">BOI: Verfahren, Fristen, Gebühren und TIESC</a>.</p><p>Für LTR-Angehörige nennt die Checkliste unter anderem Pass mit mindestens sechs Monaten Gültigkeit und zwei freien Seiten, vorhandene Thai-Aufenthaltsstempel, Foto, Familiennachweise in Thai/Englisch beziehungsweise notarielle Übersetzung, Sponsorship Consent sowie den passenden Versicherungs- oder Guthabennachweis. Reiseversicherung ist nicht ausreichend. Weitere Nachweise, etwa ein aktuelles Führungszeugnis oder ein Pflegebedarfszeugnis, können fallbezogen hinzukommen; vorhandene Urkunden werden auf die verlangte Aktualität geprüft.</p><p class=\"exb-citation\">Quelle: <a href=\"https://ltr.boi.go.th/documents/Required-docs-Dependents-30-06-2025.pdf\">BOI: erforderliche Unterlagen für Angehörige</a>.</p><p>DTV wird über Thai eVisa mit Pass, Foto, tatsächlichem Aufenthaltsort, Finanznachweis und dem Grund der gewählten Kategorie beantragt: Beschäftigung/Portfolio, belegte Aktivität/Behandlung oder Familienbeziehung und Status des Hauptinhabers. Die zuständige Vertretung konkretisiert diese Anforderungen.</p><p class=\"exb-citation\">Quelle: <a href=\"https://www.thaievisa.go.th/visa/dtv-visa\">Thai eVisa: DTV-Kategorien und Grundunterlagen</a>.</p><h3>Deutschland, Österreich und Schweiz sind eigene Antragswege</h3><ul><li><strong>Deutschland:</strong> Berlin ist für Berlin, Brandenburg, Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Sachsen, Sachsen-Anhalt und Schleswig-Holstein zuständig; Frankfurt für Hessen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Thüringen; München für Bayern und Baden-Württemberg. Frankfurt veröffentlicht für DTV 350 EUR, den Nachweis von 500.000 THB über drei Monate Kontoauszüge beziehungsweise Sponsor und Wohnsitzbelege nach Pass. Deutsche legen ID und Meldebescheinigung vor, EU-/EWR-/Schweizer Staatsangehörige die Meldebescheinigung, andere Pässe zusätzlich den Aufenthaltstitel. Die Meldung darf höchstens sechs Monate alt sein. Das dort verlangte BfJ-Führungszeugnis darf ebenfalls höchstens sechs Monate alt sein; für DTV3 gilt es ab 14 Jahren.</li></ul><p class=\"exb-citation\">Quelle: <a href=\"https://berlin.thaiembassy.org/de/page/e-visa-e-visa-system\">Thailändische Botschaft Berlin: konsularische Bezirke</a>.</p><p class=\"exb-citation\">Quelle: <a href=\"https://frankfurt.thaiembassy.org/de/page/destination-thailand-visa\">Thailändisches Generalkonsulat Frankfurt: DTV-Unterlagen und Gebühr</a>.</p><ul><li><strong>Österreich:</strong> Wien verlangt bei Einreichung und Zahlung einen tatsächlichen Aufenthalt in Österreich, der Slowakei oder Slowenien und den Nachweis des rechtmäßigen Wohnsitzes. Nicht-EU-Staatsangehörige benötigen beide Seiten ihrer gültigen Aufenthaltskarte. Fremdsprachige Dokumente folgen den Wiener Übersetzungs-/Bestätigungsregeln: ins Thai durch entsprechend gerichtlich beeidete Übersetzer oder für englische Übersetzungen mit der verlangten Außenministeriumsbestätigung. Der anzuwendende Tarif wird im Wiener Verfahren geklärt.</li></ul><p class=\"exb-citation\">Quelle: <a href=\"https://www.thaiembassy.at/en/e-visa.html\">Thailändische Botschaft Wien: eVisa-Zuständigkeit und Dokumente</a>.</p><ul><li><strong>Schweiz und Liechtenstein:</strong> Bern nimmt eVisa-Anträge von dort wohnhaften Personen mit Wohnsitznachweis an, nicht von bereits in Thailand befindlichen Antragstellern. DTV kostet dort 350 CHF. Gefordert sind unter anderem Pass mit mindestens sechs Monaten Gültigkeit, aktuelles Foto, Finanznachweis von 500.000 THB mit drei Monaten Kontoauszügen beziehungsweise Sponsor sowie Tätigkeits- oder Familienbelege und Strafregisterbescheinigung. Plane mindestens 30 Tage Vorlauf. Die übliche Bearbeitung von zehn Geschäftstagen kann bei bestimmten Pässen acht bis zwölf Wochen betragen.</li></ul><p class=\"exb-citation\">Quelle: <a href=\"https://www.thaiembassy.ch/Content/Embassy/55.html\">Thailändische Botschaft Bern: eVisa und Vorlauf</a>.</p><p class=\"exb-citation\">Quelle: <a href=\"https://thaiembassy.ch/files_upload/editor_upload/1788181352_required-documents---dtv1-digital-nomad.pdf\">Bern: DTV1-Unterlagen</a>.</p><p>Ein deutscher Pass bei tatsächlichem Wohnsitz in Dubai folgt damit nicht automatisch dem deutschen Einreichungsweg. Dasselbe gilt umgekehrt für einen anderen Pass bei Wohnsitz in Wien oder Zürich. Zuständigkeit, Aufenthaltsnachweis und Familienurkunden werden zuerst zusammengeführt.</p><h3>Dokumenten- und Aufenthaltsarbeit organisieren</h3><p>EXOBASIS erstellt daraus die personengenaue Unterlagenfolge, organisiert vereinbarte Beschaffung, Übersetzungen und Fachabstimmung und hält Rückfragen sowie Fristen zusammen. Du siehst für jede Person, was vorhanden ist, was beantragt wird und welcher Schritt als Nächstes ansteht: <a href=\"/de/leistungen/dokumente-aufenthalt/\">Dokumente und Aufenthalt vorbereiten</a>. Pässe und Vermögensnachweise gehören in den vereinbarten geschützten Austausch.</p>"
     },
     {
       "id": "laufende-pflichten",
       "title": "Laufende Pflichten",
-      "body": "<p>Halte die laufenden Bedingungen deines Status einschließlich erforderlicher Meldungen und weiterer Prüfungen aktuell. Änderungen von Arbeitgeber, Einkommen oder Familienlage müssen in die Betreuung eingehen. Daneben zählen Unterkunft, Behandlung, Zahlung und Wiederzugang zu deinen praktischen Voraussetzungen. Vereinbarte Pflege verbindet diese Aufgaben, ohne automatische Verlängerung oder unbeschränkte Einsatzbereitschaft zu versprechen. Eine Änderung von Arbeitgeber, Erwerbsart oder Angehörigenkonstellation kann die Voraussetzungen der ursprünglichen Kategorie berühren. Halte Dokumente, Meldungen und erreichbare Behandlung während Abwesenheit aktuell. Wer zurückkehrt, benötigt auch im bisherigen Land weiterhin geklärte Unternehmens- und Steuerpflichten.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a></p>"
+      "body": "<h3>Status, Familie und Zugriff aktuell halten</h3><p>Führe Passablauf, Aufenthalt, Wiedereinreise, Meldungen und Versicherungsdeckung in einem gemeinsamen Kalender. Beim LTR kommt die erneute Prüfung für die zweite Fünfjahresphase hinzu; beim DTV die Frist der einzelnen Einreise samt beantragter Verlängerung. Änderungen von Arbeitgeber, Einkommen, Familienlage oder Alter eines Kindes können den bisherigen Weg verändern und werden rechtzeitig eingeordnet.</p><p>Schuljahreswechsel, Mietlaufzeit, Versorgungstermine und Steuerunterlagen gehören daneben. Teste den Geldzugriff nach Telefon-/Adresswechsel und halte Visa- sowie Versicherungsnachweise auch unabhängig vom Haupttelefon erreichbar. <a href=\"/de/wissen/wiederzugang-telefon-email/\">Wenn Telefon, SIM und Haupt-E-Mail ausfallen</a> vertieft den Ausfallfall; <a href=\"/de/leistungen/kommunikation-wiederzugang/\">Diskrete Kommunikation und Wiederzugang einrichten</a> führt zur konkreten Einrichtung und zum vereinbarten Funktionstest. Befugnisse werden gesondert geregelt: <a href=\"/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/\">Vollmachten, Vertretung und Nachfolge im Ausland</a>.</p><h3>Die Wohnung während deiner Abwesenheit betreuen</h3><p>Vereinbare Schlüsselübergabe, Kontrollrhythmus, Foto-/Zustandsberichte, Reparaturfreigaben und ein Ausgabenlimit. Dazu gehört, wer bei einem Wasserschaden, Stromausfall oder einer Wetterwarnung kontaktiert wird und welche Reaktionszeit tatsächlich beauftragt ist.</p><ul><li><strong>Bangkok:</strong> Bangkok Inspect bietet vierteljährliche Objektkontrollen mit Fotos, System-/Zustandsprüfung und englischem Bericht innerhalb von zwei Geschäftstagen. Veröffentlicht sind 4.600 THB je Besuch oder 16.700 THB für vier Inspektionen. Handwerkerbeschaffung und Reparaturmanagement gehören ausdrücklich nicht zu diesem Inspektionsumfang.</li><li><strong>Chiang Mai:</strong> Property Angel beschreibt Reinigung, Garten, Pool, Reparaturen und Sicherheits-/Schadenskontrollen sowie Betreuung von Internet und Kameras. Ein Paket wird für Bedarf und Zeitraum angeboten. Definiere deshalb Besuche, Bericht und einzelne Erledigungen im Auftrag.</li><li><strong>Phuket:</strong> Pearl Property Management beschreibt Schlüsselverwahrung, Leerstands-/Feuchtigkeitskontrolle, Lüftung, Reinigung, Pool/Garten, Ankunftsvorbereitung, Reparaturkoordination und Monatsberichte. Die Pauschale hängt vom Umfang ab; Versorger, Handwerker und Teile sind getrennte Kosten.</li></ul><p class=\"exb-citation\">Quelle: <a href=\"https://bangkokinspect.com/owners/monitoring\">Bangkok Inspect: Kontrollen und abgegrenzter Leistungsumfang</a>.</p><p class=\"exb-citation\">Quelle: <a href=\"https://chiangmaipropertyangel.com/property-services/\">Chiang Mai Property Angel: Property Services</a>.</p><p class=\"exb-citation\">Quelle: <a href=\"https://thepropertymanagementcompanyphuket.com/house-management/\">Pearl Property Management: Hausbetreuung auf Phuket</a>.</p><p>Diese Angebote helfen bei der Auswahl des benötigten Umfangs. Für deine Wohnung werden Auftrag, Zutritt, Zuständigkeit und Berichtsweg konkret vereinbart. EXOBASIS kann diese Betreuung mit den übrigen Fristen und Erledigungen verbinden: <a href=\"/de/leistungen/vorbereitung-betreuen/\">Vorbereitung prüfen und aktuell halten</a>.</p>"
     },
     {
       "id": "konkrete-vorbereitung",
       "title": "Konkrete Vorbereitung",
-      "body": "<p>EXOBASIS kann Thailand für deinen konkreten Haushalt vergleichen und die abgestimmte Vorbereitung organisieren. Wir verbinden Aufenthalts- und Dokumentenarbeit, regionale Auswahl, vorbereitete Termine und Ankunft. Du kannst dabei eine bereits geklärte Teilaufgabe direkt vergeben. Der Wert liegt in der zusammengeführten Durchführung und den nachvollziehbaren nächsten Schritten, nicht allein in der Benennung eines Visums.</p><p class=\"exb-country-context\"><a class=\"exb-text-link\" href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen</a></p><h3>Passende Vergleichsoptionen</h3><div class=\"exb-country-related\"><article><a class=\"exb-text-link\" href=\"/de/laender/malaysia/\">Malaysia als persönliche Ausweichoption</a><p>Malaysia hat andere Programm-, Kapital- und Präsenzbedingungen. Vergleiche den passenden Weg samt Familienalltag.</p></article><article><a class=\"exb-text-link\" href=\"/de/laender/mauritius/\">Mauritius als persönliche Ausweichoption</a><p>Mauritius stellt andere Fragen zu Inselversorgung, beruflicher Tätigkeit und längerfristigem Familienaufenthalt.</p></article></div><div class=\"exb-country-action\"><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fthailand%2F#kurzanfrage\">Vorbereitung für Thailand anfragen</a><p>Eine konkrete Teilaufgabe ist direkt anfragbar. Persönliche Unterlagen folgen erst im vereinbarten geschützten Austausch.</p><a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a></div>"
+      "body": "<h3>Vom Länderwunsch zur nutzbaren Basis</h3><p>Du kannst einen konkreten Teilauftrag vergeben oder die Vorbereitung zusammenführen lassen. EXOBASIS klärt zunächst das Ergebnis: etwa eine Wohnung mit geregelter Schlüsselübergabe, eine vollständige Familienakte oder einen verwendbaren zweiten Zahlungsweg. Danach organisieren wir die vereinbarten Schritte und die nötigen örtlichen Fachleistungen.</p><ol><li><strong>Rechte und Bedarf:</strong> Lebensmodell, Familienmitglieder, erlaubte Tätigkeit, Versorgungsbedarf und Zeitrahmen zuordnen.</li><li><strong>Ort und Kosten:</strong> Bangkok, Chiang Mai/Mae Rim oder Phuket an realen Wegen, Schul-/Behandlungsaufnahme und vollständigem Haushaltsbudget vergleichen.</li><li><strong>Umsetzung:</strong> Dokumente, Fachmandate, Kontoaufnahme, Wohnsuche, Vertrags-/Kaufprüfung, Abschluss und Ankunft organisieren.</li><li><strong>Nutzbarkeit:</strong> Erste Zahlung, Schlüsselzugang, Erreichbarkeit und Versorgung kontrollieren; laufende Fristen und Betreuung übergeben.</li></ol><p>Unser Angebot trennt die eigene Arbeit von externen Honoraren, Gebühren, Reisen sowie Wohn- und laufenden Haushaltskosten. Welche Länder und Orte die passende Ausgangsbasis bilden, klären wir über <a href=\"/de/leistungen/laender-standortauswahl/\">Passende Länder und Standortoptionen</a>.</p><h3>Malaysia als eigene Vergleichsoption</h3><p>Wenn du einen langfristigen Familienstandort suchst, lohnt der Vergleich mit Malaysia. Dort werden die jeweilige MM2H-Kategorie, Kapitalbindung, Immobilienanforderungen, Anwesenheit und erlaubte Tätigkeit zusammen betrachtet. Welche Familienmitglieder die vorgeschriebene Präsenz erfüllen können, hängt dabei von Kategorie und Alter ab: Bestimmte föderale MM2H-Regeln lassen die Anrechnung von Aufenthalten der Hauptperson, des Ehepartners und der Angehörigen zu; beim S-MM2H-Neuantrag muss die Hauptperson ihre jährlichen Aufenthaltstage selbst in Sarawak verbringen. Beim DTV richtet ihr eure Aufenthalte dagegen nach den Einreise- und Verlängerungsfristen; beim LTR nach dem erteilten Status und seinen Fortbestandsbedingungen. Vergleiche diese Bedingungen mit deinem tatsächlichen Thai-Weg und euren Schul-/Versorgungsanforderungen: <a href=\"/de/laender/malaysia/\">Malaysia als persönliche Ausweichoption</a>.</p><h3>Mauritius als eigene Vergleichsoption</h3><p>Mauritius ist eine weitere Option, wenn du mobiles Arbeiten für das Ausland, Ruhestand oder einen anderen Familienwohnsitz prüfen willst. Die Aufenthaltswege sind anders aufgebaut; auf der Insel erhalten Wetter, importierte Versorgung und gegebenenfalls weiterführende Behandlung besonderes Gewicht. Das Premium Visa ermöglicht einen verlängerbaren Aufenthalt von mehr als sechs Monaten bis zu einem Jahr. Für langfristig gesicherten Familienaufenthalt muss die weitere Aufenthaltsplanung über dieses erneuerbare Jahr hinausreichen; auch euer LTR- oder DTV-Weg ist dabei an seine jeweiligen Fortbestandsbedingungen gebunden. Vergleiche den vorgesehenen Status mit eurem konkreten Alltag: <a href=\"/de/laender/mauritius/\">Mauritius als persönliche Ausweichoption</a>.</p><p>Du musst nicht erst sämtliche Fragen selbst lösen. Benenne das Vorhaben, an dem deine Thailand-Option gerade hängt.</p><div class=\"exb-country-action\"><p><a class=\"exb-btn\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage&amp;kontext=%2Fde%2Flaender%2Fthailand%2F#kurzanfrage\">Vorbereitung für Thailand anfragen</a></p><p>Beschreibe zunächst dein Anliegen: etwa Familienaufenthalt, Wohnungssuche oder einen verwendbaren Geldzugang. Persönliche Unterlagen besprechen wir anschließend im geschützten Austausch. Für dein übergreifendes Anliegen: <a href=\"/de/anfrage/#kontaktbeginn\">Diskrete Anfrage</a>.</p></div>"
     }
   ],
   "faq": {
-    "question": "Ist LTR die passende Lösung für jeden, der länger bleiben möchte?",
-    "answer": "Nein. Die Kategorien richten sich an bestimmte Personen- und Tätigkeitsgruppen. Eignung, Angehörige und der tatsächliche Alltag müssen gemeinsam geprüft werden."
-  }
+    "question": "Was unterscheidet LTR und DTV für meine Familie?",
+    "answer": "LTR richtet sich an vier definierte Vermögens-, Einkommens- und Berufsgruppen. Der zehnjährige Rahmen wird zunächst für fünf Jahre erteilt und bei fortbestehenden Voraussetzungen verlängert. Der Angehörigenkreis nach Por.3/2568 umfasst auch Eltern und rechtlich abhängige Angehörige. DTV ist fünf Jahre als Mehrfacheinreisevisum gültig, erlaubt je Einreise bis zu 180 Tage und eine beantragbare Verlängerung um höchstens weitere 180 Tage; danach ist eine Ausreise nötig. Der DTV-Familienweg umfasst Ehepartner und Kinder unter 20. Schulaufnahme, Versicherung, erlaubte Arbeit und verwendbares Haushaltsgeld werden zusätzlich für jede Person vorbereitet."
+  },
+  "displayTitle": "Thailand als Plan B: Aufenthalt, Familie und zweite Basis"
 }

@@ -1,5 +1,10 @@
 {
-  "domain": null,
+  "domain": "https://exobasis.com",
+  "releaseScope": {
+    "version": 1,
+    "id": "erstrelease-20261008-v1",
+    "source": "src/data/release-20261008-v1.json"
+  },
   "operatorFacts": {
     "legalName": "Exobasis LLC",
     "legalForm": "LLC",
@@ -9,8 +14,8 @@
     "privacyContact": "legal@exobasis.com"
   },
   "approvals": {
-    "content": false,
-    "legal": false,
-    "publication": false
+    "content": true,
+    "legal": true,
+    "publication": true
   }
 }

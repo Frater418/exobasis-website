@@ -7,8 +7,8 @@
   "model": "recht-funktion",
   "schemaVersion": 1,
   "kind": "legal",
-  "reviewStatus": "blocked_required_facts",
-  "releaseStatus": "blocked_required_facts",
+  "reviewStatus": "approved",
+  "releaseStatus": "approved",
   "sourceRefs": [
     {
       "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
@@ -23,47 +23,32 @@
   ],
   "eyebrow": "EXOBASIS / Rechtliche Informationen",
   "seoTitle": "Anbieterinformationen | EXOBASIS",
-  "description": "Anbieteridentität, Kontakt und rechtliche Angaben zu EXOBASIS.",
-  "intro": "<p>EXOBASIS ist die Marke für die Organisation einer vorbereiteten Basis im Ausland. Für rechtliche Erklärungen und Vertragsfragen ist die Identität des tatsächlich verantwortlichen Anbieters maßgeblich.</p>",
+  "description": "Exobasis LLC: Anbieter von EXOBASIS, vertreten durch Raphael Rechberger. Anschrift für rechtliche Erklärungen und direkter E-Mail-Kontakt.",
+  "intro": "<p>EXOBASIS wird von Exobasis LLC betrieben. Hier findest du die Anbieterangaben, die Anschrift für rechtliche Erklärungen und den direkten Kontakt.</p>",
   "sections": [
     {
       "id": "i-anbieter",
       "title": "Verantwortlicher Anbieter",
-      "body": "<p>EXOBASIS ist eine Marke für die Organisation internationaler Vorbereitung. Die Marke allein bezeichnet keinen Vertragspartner und keine Rechtsform. Verbindlich ist die Identität des Rechtsträgers, der im konkreten Angebot genannt wird, den Auftrag annimmt und die Rechnung stellt.</p><p>Für eine rechtlich belastbare Anbieterzuordnung sind dessen vollständiger Name, Rechtsform und vertretungsberechtigte Person erforderlich. Eine operative Basis in einem Land ist keine solche Zuordnung.</p>",
-      "reviewRequirements": [
-        "Vollständiger Rechtsträgername und Rechtsform",
-        "Vertretungsberechtigte Person(en)",
-        "Bestätigung, wer Verträge schließt und Rechnungen ausstellt"
-      ]
+      "body": "<p><strong>Exobasis LLC</strong><br>Rechtsform: LLC<br>Vertretungsberechtigt: Raphael Rechberger</p><p>Exobasis LLC ist die Betreiberin von EXOBASIS und deine Vertragspartnerin für die mit EXOBASIS vereinbarten Leistungen. Raphael Rechberger handelt als Vertreter der Gesellschaft.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "i-anschrift",
       "title": "Anschrift für rechtliche Erklärungen",
-      "body": "<p>Die operative Basis in der Dominikanischen Republik beschreibt den Arbeitsbezug des Projekts, nicht automatisch die Anschrift für rechtliche Erklärungen. Maßgeblich ist eine vollständige, berechtigt genutzte Zustellanschrift des verantwortlichen Anbieters mit Ort und Land. Die Anschrift eines Fachausführers oder ein bloßes Postfach ersetzt sie nicht ohne entsprechende rechtliche Grundlage.</p>",
-      "reviewRequirements": [
-        "Zustellfähige Anschrift mit Straße, Ort, Postleitzahl und Land",
-        "Bestätigung des Verwendungsrechts dieser Anschrift"
-      ]
+      "body": "<p>Rechtliche Erklärungen und postalische Korrespondenz kannst du an folgende Anschrift richten:</p><p>Exobasis LLC<br>131 Continental Dr, Suite 305<br>Newark, DE 19713<br>United States</p>",
+      "reviewRequirements": []
     },
     {
       "id": "i-kontakt",
       "title": "Direkter Kontakt",
-      "body": "<p>Organisatorische Fragen kannst du über die Seite <a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a> stellen. Eine rechtliche Rückfrage setzt weder ein Orientierungsgespräch noch einen Beratungskauf voraus. Ein öffentlicher direkter Kontakt zum verantwortlichen Anbieter muss zusätzlich zur Anfragefunktion erreichbar und kopierbar sein.</p><p>Die <a href=\"/de/leistungsbedingungen/\">Leistungs- und Vertragsbedingungen</a> ordnen die vertraglichen Schritte ein. Hinweise zur Verarbeitung persönlicher Angaben stehen im <a href=\"/de/datenschutz/\">Datenschutz</a>.</p>",
-      "reviewRequirements": [
-        "Tatsächliche öffentliche E-Mail-Adresse",
-        "Weiterer erforderlicher unmittelbarer Kontaktweg",
-        "Funktionsnachweis des gewählten Anfragewegs"
-      ]
+      "body": "<p>Für rechtliche Mitteilungen, Fragen zur Anbieteridentität und Vertragsfragen erreichst du Exobasis LLC unter <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a>. Dafür sind weder eine Beratungsbuchung noch ein Termin oder ein verschlüsselter Messenger erforderlich.</p><p>Datenschutzanliegen kannst du ebenfalls an <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a> richten. Informationen zur Verarbeitung personenbezogener Daten und zu deinen Rechten findest du im <a href=\"/de/datenschutz/\">Datenschutz</a>.</p><p>Vertreterkontakt: Raphael Rechberger, <a href=\"mailto:raphael@exobasis.com\">raphael@exobasis.com</a>.</p><p>Die <a href=\"/de/leistungsbedingungen/\">Leistungs- und Vertragsbedingungen</a> erläutern die Zusammenarbeit und den Weg zum Auftrag. Für allgemeine organisatorische Fragen steht die Seite <a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a> zur Verfügung.</p>",
+      "reviewRequirements": []
     },
     {
       "id": "i-register",
       "title": "Register und zuständige Stellen",
-      "body": "<p>Register-, Steuer- und berufsrechtliche Angaben beziehen sich, soweit einschlägig, auf den tatsächlich verantwortlichen Rechtsträger. Eine etwaige Eintragung oder Fachzulassung eines selbständigen Dienstleisters ist nicht die des Anbieters von EXOBASIS. Nur geprüfte, für diesen Anbieter geltende Stellen und Kennnummern können hier veröffentlicht werden.</p><p>Wenn du zur Anbieterzuordnung eine konkrete Frage hast, nutze die <a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a>. Eine rechtliche Pflichtangabe kann dadurch nicht ersetzt werden.</p>",
-      "reviewRequirements": [
-        "Register und Registernummer, soweit einschlägig",
-        "Steuer-/Umsatzsteuerangaben nach tatsächlicher Anwendbarkeit",
-        "Etwaige Fachzulassungen und zuständige Stellen oder bestätigte Nichtanwendbarkeit"
-      ]
+      "body": "<p>Exobasis LLC verantwortet die vereinbarte Beratung zur persönlichen Vorbereitung sowie Planung, Organisation, Umsetzung und Betreuung. Erfordert ein Teil des Auftrags eine besondere berufliche Befugnis oder behördliche Zulassung, wird die dafür zuständige Fachperson oder Gesellschaft mit ihrer Rolle im jeweiligen Auftrag benannt. Eine Zulassung dieser Fachstelle ist keine eigene Zulassung der Exobasis LLC.</p><p>Fragen zur Anbieterzuordnung kannst du direkt an <a href=\"mailto:legal@exobasis.com\">legal@exobasis.com</a> richten. Für eine organisatorische Rückfrage steht dir auch die <a class=\"exb-text-link\" href=\"/de/anfrage/\">Diskrete Anfrage</a> offen.</p><p>Für eine Anbieter- oder Vertragsfrage: <a class=\"exb-text-link\" href=\"/de/anfrage/?anliegen=Allgemeine%20Anfrage#kurzanfrage\">Diskrete Anfrage</a>.</p>",
+      "reviewRequirements": []
     }
   ],
   "linkPlan": [
@@ -104,17 +89,5 @@
     }
   ],
   "legalType": "provider",
-  "releaseBlockers": [
-    "Vollständiger Rechtsträgername und Rechtsform",
-    "Vertretungsberechtigte Person(en)",
-    "Bestätigung, wer Verträge schließt und Rechnungen ausstellt",
-    "Zustellfähige Anschrift mit Straße, Ort, Postleitzahl und Land",
-    "Bestätigung des Verwendungsrechts dieser Anschrift",
-    "Tatsächliche öffentliche E-Mail-Adresse",
-    "Weiterer erforderlicher unmittelbarer Kontaktweg",
-    "Funktionsnachweis des gewählten Anfragewegs",
-    "Register und Registernummer, soweit einschlägig",
-    "Steuer-/Umsatzsteuerangaben nach tatsächlicher Anwendbarkeit",
-    "Etwaige Fachzulassungen und zuständige Stellen oder bestätigte Nichtanwendbarkeit"
-  ]
+  "releaseBlockers": []
 }

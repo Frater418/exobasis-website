@@ -4,6 +4,7 @@
   "lang": "de",
   "title": "EXOBASIS: Eine eigene Basis außerhalb des Herkunftslands",
   "kind": "home",
+  "brandSystem": "B",
   "sourceRefs": [
     {
       "module": "09_Schreibauftraege_Leistungen_und_Funktion.md",
@@ -14,7 +15,7 @@
       "anchor": "quelle-7e391b72a1c31e"
     }
   ],
-  "reviewStatus": "draft_for_review",
+  "reviewStatus": "approved",
   "html": "home.html",
   "seoTitle": "Plan B im Ausland: vorbereiten und umsetzen | EXOBASIS",
   "description": "Bereite deinen Plan B im Ausland vor: Fluchtvorsorge, Vermögensschutz, Aufenthalt und Wohnen. EXOBASIS plant, setzt um und betreut deine Vorbereitung.",

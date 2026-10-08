@@ -8,10 +8,18 @@ if (!Array.isArray(brandAssets.fonts) || brandAssets.fonts.length !== 4 ||
   throw new Error('Invalid approved B font manifest.');
 }
 
-export const usesBrandSystem = page => Boolean(page?.kind && page.kind !== 'home');
+export const usesBrandSystem = page => {
+  if (page?.kind === 'home') {
+    if (page.brandSystem != null && page.brandSystem !== 'B') throw new Error('Unknown homepage brand system.');
+    return page.brandSystem === 'B';
+  }
+  return Boolean(page?.kind);
+};
 
 export function brandStyleLinks(page) {
-  return usesBrandSystem(page) ? brandAssets.styles.map(file => `<link rel="stylesheet" href="/${e(file)}"/>`).join('') : '';
+  if (!usesBrandSystem(page)) return '';
+  const styles = page.kind === 'home' ? [...brandAssets.styles, 'css/exobasis-b-home.css'] : brandAssets.styles;
+  return styles.map(file => `<link rel="stylesheet" href="/${e(file)}"/>`).join('');
 }
 
 export function brandLogo(page, { responsive = false, mobile = false } = {}) {

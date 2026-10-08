@@ -38,7 +38,12 @@ test('Every knowledge section has useful body content and an explicit review sta
  for(const c of contracts){const p=index.get(c.route);assert.ok(p.reviewStatus?.trim(),c.route);for(const s of p.sections)assert.ok(s.body.replace(/<[^>]+>/g,' ').trim().length>100,c.route+' '+s.id);assert.doesNotMatch(JSON.stringify(p),/Lorem ipsum|TODO:|INSERT HERE/i);}
 });
 test('Swiss origin page keeps all eight differentiated insurance and pension cases',()=>{
- const p=index.get('/de/wissen/ausweg-vorbereiten/aus-schweiz/');const s=p.sections.find(s=>s.id==='abschnitt-3');assert.equal(s.criteria.rows.length,8);assert.equal(s.criteria.headers.length,4);assert.ok(s.criteria.rows.every(r=>r.length===4));assert.match(s.body,/AHV\/IV/);assert.match(s.body,/berufliche Vorsorge/);
+ const p=index.get('/de/wissen/ausweg-vorbereiten/aus-schweiz/');const s=p.sections.find(s=>s.id==='abschnitt-3');
+ // PB-D86 binds five comparison roles while preserving all eight cases.
+ assert.equal(s.criteria.rows.length,8);assert.equal(s.criteria.headers.length,5);assert.ok(s.criteria.rows.every(r=>r.length===5&&r.every(c=>typeof c==='string'&&c.trim())));
+ const roles=[/Konstellation.*Ziel/,/Frage/,/Wer.*bestätigt/,/Anschlussnachweis/,/Quelle.*Geltungsbereich/];roles.forEach((role,i)=>assert.match(s.criteria.headers[i],role));
+ const cases=[/Erwerbstätigkeit.*EU-\/EFTA/,/Erwerbstätige.*außerhalb/,/Entsandte/,/Schweizer Rente/,/Rentenbezug.*außerhalb/,/Nichterwerbstätige.*Haushaltsmitglieder/,/freiwillig.*AHV\/IV/,/Pensionskassen.*Freizügigkeitsguthaben/];cases.forEach((kind,i)=>assert.match(s.criteria.rows[i][0],kind));
+ assert.match(s.body,/AHV\/IV/);assert.match(s.body,/beruflichen? Vorsorge/);
 });
 test('German military article presents statute and exception together, not blanket restriction',()=>{
  const s=index.get('/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/').sections[0];for(const word of ['§ 3','Allgemeinverfügung','Ausnahme','Erfassung','Musterung','Einberufung'])assert.ok(s.body.includes(word),word);

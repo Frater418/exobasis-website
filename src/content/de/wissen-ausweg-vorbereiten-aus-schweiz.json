@@ -26,17 +26,17 @@
       "anchor": "quelle-45b3e27d8143ff"
     }
   ],
-  "reviewStatus": "draft_for_review",
+  "reviewStatus": "approved",
   "eyebrow": "Dein Plan B / Wissen",
-  "seoTitle": "Wegzug aus der Schweiz vorbereiten | EXOBASIS",
-  "description": "Wegzug aus der Schweiz: Gemeinde, Versicherung, AHV, Vorsorge, Bank und Familienrechte vor dem Übergang in eine nutzbare Außenbasis abstimmen.",
-  "intro": "<p>Ein Wegzug aus der Schweiz ist kein einzelner Abmeldetermin. Kläre je Person die Schweizer Bewilligung oder Staatsangehörigkeit, die Zuständigkeit von Gemeinde und Kanton sowie den Anschluss von Krankenversicherung, Vorsorge und Aufenthaltsrecht am Ziel, bevor du bestehende Verhältnisse beendest.</p><p>Bereite die Übergänge deshalb vor dem Wegzug vor. Die Schweiz ist hier dein heutiger Wohnsitz, nicht automatisch deine Staatsangehörigkeit und auch nicht die Antwort auf die Frage, wo dein künftiger Lebensmittelpunkt liegen wird.</p>",
+  "seoTitle": "Wegzug aus der Schweiz: Ablauf und Checkliste | EXOBASIS",
+  "description": "Abmeldung, Auslandurlaub, Versicherung, Vorsorge und Bankzugang: So bereitest du den Wegzug aus der Schweiz und die Ankunft mit deiner Familie vor.",
+  "intro": "<p>Ein Wegzug aus der Schweiz betrifft mehr als die Abmeldung bei der Gemeinde. Deine Versicherung muss am richtigen Tag anschließen, das Konto mit neuer Adresse nutzbar bleiben und deine Familie am Ziel ein Aufenthaltsrecht und eine Unterkunft haben. Bei Stellungs- oder Militärdienstpflicht ist der Auslandurlaub nach deinem tatsächlichen Aufenthalts- und Arbeitsfall zu klären; für Grenzgänger mit Arbeitsort Schweiz wird er nicht bewilligt.</p><p>Ob du einen dauerhaften Umzug planst oder wegen Krieg und politischer Entwicklungen eine vorbereitete Alternative schaffen willst: Trenne zunächst, was sich tatsächlich ändern soll. Eine Zweitbasis bei fortbestehendem Schweizer Wohnsitz und eine definitive Auswanderung führen zu unterschiedlichen Aufgaben.</p>",
   "primary": {
-    "label": "Deinen Wegzug aus der Schweiz vorbereiten lassen",
+    "label": "Wegzug aus der Schweiz anfragen",
     "intent": "Allgemeine Anfrage"
   },
   "knowledgeSummary": {
-    "title": "Die Schweiz verlassen. Übergänge absichern.",
+    "title": "Dein Wegzug, mit geklärten Übergängen.",
     "facts": [
       [
         "Herkunft",
@@ -44,7 +44,7 @@
       ],
       [
         "Absicherung",
-        "Acht konkrete Prüfkonstellationen statt Pauschalregeln."
+        "Versicherung, Vorsorge und Dienstpflicht zusammen klären."
       ],
       [
         "Ankunft",
@@ -57,126 +57,135 @@
   "sections": [
     {
       "id": "abschnitt-1",
-      "title": "Schweizer Wohnsitz und persönliche Zugehörigkeit trennen",
-      "body": "<p>Erfasse für jede Person Staatsangehörigkeit, Schweizer Aufenthaltsbewilligung, vorhandene Rechte am Ziel und gewünschte Rückkehrmöglichkeit. Wer in der Schweiz wohnt, besitzt nicht automatisch einen Schweizer Pass oder dieselben grenzüberschreitenden Rechte wie andere Mitglieder des Haushalts.</p><p>Viele EDA-Hinweise richten sich ausdrücklich an Schweizer Staatsangehörige. Für ausländische Einwohner brauchen insbesondere das Fortbestehen einer Bewilligung und die spätere Rückkehr eine eigene Abklärung. Eine zunächst eingerichtete Zweitbasis ist außerdem von einem tatsächlich vollzogenen Wegzug zu unterscheiden.<p class=\"exb-source-note\"><a href=\"https://www.eda.admin.ch/de/auswandern\" rel=\"noopener noreferrer\">EDA: Auswandern aus der Schweiz</a></p></p>",
+      "title": "Wohnsitz Schweiz: Welcher persönliche Fall bist du?",
+      "body": "<p>Du kannst Schweizer Bürger sein, mit deutschem oder österreichischem Pass in der Schweiz leben oder einen anderen Aufenthaltstitel besitzen. Für den Wegzug ist deine heutige Gemeinde zuständig; für Rechte am Ziel ist unter anderem deine Staatsangehörigkeit entscheidend. Die beiden Fragen gehören zusammen, haben aber unterschiedliche Ansprechpartner.</p><p>Bei einer nur vorübergehenden Abwesenheit klärst du außerdem, unter welchen Bedingungen dein Schweizer Aufenthaltsstatus und deine Wohnsituation erhalten bleiben. Kündige daher nicht vorschnell Wohnung, Versicherung und Verträge, bevor Zielrecht, Abreisedatum und Rückkehrmöglichkeit zusammenpassen.</p>",
       "after": "<div class=\"exb-origin-alternatives\"><h3>Anderer heutiger Wohnsitz</h3><p>Diese Seiten behandeln andere Ausgangslagen. Sie sind keine Übersetzungen dieses Beitrags.</p><div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-deutschland/\"><span>Aus Deutschland einen Ausweg vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/ausweg-vorbereiten/aus-oesterreich/\" data-route=\"/de/wissen/ausweg-vorbereiten/aus-oesterreich/\"><span>Aus Österreich einen Ausweg vorbereiten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uk/\" data-route=\"/en/knowledge/prepare-your-way-out/leaving-uk/\"><span>Leaving the UK with a prepared alternative (English)</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/en/knowledge/prepare-your-way-out/leaving-uae/\" data-route=\"/en/knowledge/prepare-your-way-out/leaving-uae/\"><span>Leaving the UAE or preparing a second option (English)</span><span aria-hidden=\"true\">→</span></a></div></div>"
     },
     {
       "id": "abschnitt-2",
-      "title": "Gemeinde, Kanton und Abmeldung koordinieren",
-      "body": "<p>Die konkreten Vorgaben zur Einwohnerkontrolle hängen auch von Gemeinde und Kanton ab. Kläre den Auszug mit deiner zuständigen Gemeinde, einschließlich einer beibehaltenen Unterkunft und einer möglichen Rückkehr. Sammle die benötigten Nachweise und die Bestätigung.</p><p>Für Schweizer Staatsangehörige gehört gegebenenfalls die Anmeldung bei der zuständigen Schweizer Auslandvertretung dazu. Individuelle militärische oder andere Dienstpflichten werden mit der tatsächlich zuständigen schweizerischen Stelle geklärt. Eine deutsche Ausnahme ist dafür ohne Bedeutung.</p><p>Plane Wohnungsübergabe, Post, Versicherungsänderungen und wichtige Kündigungen in derselben Reihenfolge. Keine bisher benötigte Leistung sollte auslaufen, bevor ihr Anschluss geklärt ist.<p class=\"exb-source-note\"><a href=\"https://www.eda.admin.ch/de/auswandern\" rel=\"noopener noreferrer\">EDA: Auswandern aus der Schweiz</a></p></p>"
+      "title": "Abmeldung und militärischen Auslandurlaub rechtzeitig erledigen",
+      "body": "<p>Die Vorschriften der Einwohnerkontrolle unterscheiden sich kantonal. Das EDA nennt als Grundfall eine Abmeldung, wenn du länger als drei Monate ins Ausland gehst, deine Unterkunft aufgibst und keine Rückkehr in absehbarer Zeit beabsichtigst. Behältst du die Wohnung und kehrst zwischendurch zurück, klärst du deine konkrete Meldepflicht vorab mit der Gemeinde. Lass dir die Abmeldung bestätigen.</p><p>Schweizer Staatsangehörige melden sich nach der Abmeldung ins Ausland innerhalb von 90 Tagen bei der zuständigen Schweizer Vertretung an. Benötigt werden insbesondere Pass oder ID, Abmeldebescheinigung und gegebenenfalls Heimatschein. Wer nicht Schweizer Bürger ist, nutzt die konsularischen Wege seiner eigenen Staatsangehörigkeit.</p><p><strong>Wehrpflicht und Auslandschweizer:</strong> Wenn du militärdienstpflichtig bist, dich zivilrechtlich abmeldest und mehr als zwölf Monate ununterbrochen ins Ausland ziehen willst, beantragst du militärischen Auslandurlaub beim zuständigen kantonalen Kreiskommando. Nach Art. 43 Abs. 3 VMDP musst du das Gesuch spätestens zwei Monate vor dem vorgesehenen Ausreisedatum oder dem Arbeitsbeginn im Ausland schriftlich beim Kreiskommando einreichen. Noch fällige Dienst-, Schieß- und Ersatzpflichten gehören vor der Abreise geklärt. Bei Zivildienst ist die zuständige Regionalstelle der eigene Ansprechpartner.</p><p>Art. 4 MG befreit Auslandschweizer in Friedenszeiten grundsätzlich von Rekrutierung und Militärdienstpflicht und erlaubt dem Bundesrat Ausnahmen. Auslandschweizer und militärdienstpflichtige Auslandschweizerinnen mit Arbeitsort in der Schweiz unterstehen nach Art. 42 VMDP grundsätzlich der militärischen Meldepflicht beim für den Arbeitsort zuständigen Kreiskommando. Abs. 2 sieht eine Ausnahme für bestimmte vorübergehende Erwerbs-, Studien- oder Ausbildungsaufenthalte nach mehr als zwölf Monaten rechtmäßigem Auslandswohnsitz vor. Grenzgängern und Grenzgängerinnen wird nach Art. 44 Abs. 3 Bst. c VMDP kein Auslandurlaub bewilligt. Welche Dienstpflichten dich persönlich treffen, muss davon getrennt anhand deines Status geklärt werden. Eine dauerhafte Rückkehr kann altersabhängig wieder Pflichten auslösen. Bei Doppelbürgern zählen geleisteter Dienst und das betreffende bilaterale Abkommen. Dokumentiere deshalb Staatsangehörigkeiten, Dienststatus, Urlaubsgesuch und Auskunft zur Rückkehr in derselben Akte.</p><p class=\"exb-source-note\">Quellen: <a href=\"https://www.fedlex.admin.ch/eli/cc/2017/810/de#art_43\" rel=\"noopener noreferrer\">VMDP: Art. 42 bis 44</a>; <a href=\"https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/de#art_4\" rel=\"noopener noreferrer\">Militärgesetz: Art. 4</a>.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.eda.admin.ch/de/auswandern\" rel=\"noopener noreferrer\">EDA: Meldepflichten und militärischer Auslandurlaub</a></p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.schweiz-deutschland.eda.admin.ch/de/militaerdienstpflicht\" rel=\"noopener noreferrer\">Schweizer Vertretung: Militärdienstpflicht und Doppelbürger</a></p>"
     },
     {
       "id": "abschnitt-3",
-      "title": "Versicherung und Vorsorge vor dem Übergang regeln",
-      "body": "<p>Krankenversicherung, AHV/IV und berufliche Vorsorge sind drei verschiedene Aufgaben. Ob eine Schweizer Bindung fortbesteht, richtet sich nach der tatsächlichen Personenkonstellation und dem Zielland. Das BAG beschreibt Ausnahmen vom grundsätzlichen Ende der obligatorischen Krankenpflegeversicherung beim Wegzug, etwa für bestimmte Renten-, Erwerbs- oder Entsendefälle.<p class=\"exb-source-note\"><a href=\"https://www.bag.admin.ch/de/krankenversicherung-versicherungspflicht\" rel=\"noopener noreferrer\">BAG: Krankenversicherung beim Wegzug und Ausnahmen</a></p><p>Die folgende Prüfmatrix ist keine pauschale Versicherungsentscheidung. Sie zeigt, von welcher Stelle du vor einer Änderung eine Bestätigung brauchst. Bei anderen Staatsangehörigkeiten wird die persönliche Berechtigung gesondert geprüft; die Abkommenslage zum Vereinigten Königreich ist zusätzlich zu EU/EFTA zu beachten.</p><p>Eine Kündigung, ein Antrag und eine tatsächlich angenommene Anschlussversicherung sind nicht dasselbe. Bewahre die Bestätigung mit Beginn, Geltungsbereich, zuständiger Stelle und offenen Aufgaben auf.</p><h3>Welche Absicherung muss vor deinem Wegzug bestätigt sein?</h3></p><p>Für die Krankenversicherung, AHV/IV und berufliche Vorsorge brauchst du getrennte Antworten: Welche bisherige Bindung besteht für diese Person und dieses Zielland, welche Ausnahme oder Weiterführung kommt in Betracht, welche Stelle entscheidet und ab wann gilt der neue Anschluss? Eine Bestätigung der Gemeinde über den Wegzug beantwortet diese Versicherungs- und Vorsorgefragen nicht. Halte den bisherigen Schutz aufrecht, bis die zuständige Stelle den Übergang für die tatsächliche Konstellation geklärt hat.</p>",
+      "title": "Krankenversicherung, AHV und Pensionskasse: den Übergang schließen",
+      "body": "<p>Mit einer Wohnsitzverlegung kann die Schweizer obligatorische Krankenversicherung enden. Für bestimmte Personengruppen, etwa Entsandte oder Rentenbeziehende mit Wohnsitz in bestimmten Staaten, bestehen andere Zuständigkeiten. Entscheidend ist der bestätigte Anschluss pro Person: Wer trägt ab welchem Datum Behandlungskosten, und wie erhältst du am neuen Ort Leistungen? Kündige den bisherigen Schutz erst mit geklärtem Übergang.</p><p>Auslandsjahre können AHV-Beitragslücken verursachen. Lass dir von der zuständigen Ausgleichskasse erklären, welchem System du künftig unterstehst und wie sich der Wechsel auf nichterwerbstätige Familienmitglieder auswirkt. Für berechtigte Schweizer Staatsangehörige außerhalb EU/EFTA nennt das EDA beim Beitritt zur freiwilligen AHV/IV fünf unmittelbar vorangehende Versicherungsjahre und eine Anmeldefrist von einem Jahr.</p><p>Bei der beruflichen Vorsorge zählen Guthaben und Risikoschutz getrennt. Eine Auszahlung beim Wegzug ist nicht für jeden Anteil und jedes Ziel möglich. Lass dir von Pensionskasse und Freizügigkeitseinrichtung den obligatorischen und überobligatorischen Teil, eine mögliche Übertragung und den verbleibenden Schutz bei Invalidität oder Tod schriftlich ausweisen. So entscheidest du mit den tatsächlichen Beträgen und Bedingungen statt mit der Vorstellung, die gesamte Vorsorge sei sofort frei verfügbar.</p><p class=\"exb-source-note\">Quelle: <a href=\"https://www.eda.admin.ch/de/auswandern\" rel=\"noopener noreferrer\">EDA: soziale Sicherheit, Krankenversicherung und Altersvorsorge</a></p>",
       "criteria": {
-        "title": "Prüfmatrix: Versicherung und Vorsorge vor dem Wegzug",
+        "title": "Welche Absicherung muss vor deinem Wegzug bestätigt sein?",
         "headers": [
-          "Deine Konstellation",
-          "Was zu klären ist",
-          "Wer bestätigt",
-          "Benötigter Anschlussnachweis"
+          "Deine Konstellation und dein Ziel",
+          "Welche Frage klärst du?",
+          "Wer bestätigt dir das?",
+          "Welchen Anschlussnachweis brauchst du?",
+          "Quelle und Geltungsbereich"
         ],
         "rows": [
           [
-            "Erwerbstätig in einem EU-/EFTA-Staat",
-            "Zuständiges Sozialversicherungssystem, Arbeitsort und mögliche Ausnahmen wie Entsendung klären.",
-            "Arbeitgeber, zuständige Sozialversicherungsstelle, AHV-Ausgleichskasse und Versicherer.",
-            "Bestätigter Beginn und Umfang der Deckung; Zugang zur Behandlung und Übergangsdatum."
+            "Schweizer Staatsangehörige mit Erwerbstätigkeit im EU-/EFTA-Zielstaat",
+            "Welchem Sozialversicherungssystem unterstehst du am tatsächlichen Arbeitsort? Ausgangspunkt ist das Erwerbsortsprinzip. Kläre Krankenversicherung und AHV-/Rentenbeiträge jeweils; Entsendung und andere Sonderfälle brauchen eine eigene Zuordnung.",
+            "Dein Arbeitgeber bzw. der zuständige Sozialversicherungsträger am Arbeitsort, deine bisherige AHV-Ausgleichskasse und die betroffene Krankenversicherung. Bei ungeklärter Zuständigkeit: Bundesamt für Sozialversicherungen (BSV) oder Bundesamt für Gesundheit (BAG).",
+            "Bestätigte Unterstellung mit Beginn und dem Ende oder Fortbestand bisheriger Pflichten. Dazu der Nachweis, ab wann und wie du Behandlung am Ziel in Anspruch nehmen kannst.",
+            "EDA, Auswandern: Soziale Sicherheit und Altersvorsorge; ch.ch, Aus der Schweiz auswandern: Krankenversicherung bei Umzug in die EU/EFTA. Beide erläutern den Schweizerbürgerfall, nicht pauschal alle Einwohner der Schweiz."
           ],
           [
-            "Erwerbstätig außerhalb EU/EFTA",
-            "Ziellandrecht und gegebenenfalls Sozialversicherungsabkommen sowie verbleibende Schweizer Pflichten prüfen.",
-            "Arbeitgeber, zuständige AHV-Stelle und tatsächlich aufnehmender Versicherer am Ziel.",
-            "Bestätigte Aufnahme, Geltungsbereich und Beginn; dokumentierte Zuständigkeit."
+            "Erwerbstätige mit Ziel außerhalb EU/EFTA",
+            "Welches Ziellandsystem und welches Sozialversicherungsabkommen gelten für dich? Kläre die verbleibenden Schweizer Pflichten und vergleiche lokale, private oder internationale Krankenversicherung nach den tatsächlichen Aufnahmebedingungen. Entsendung ist ein eigener Fall.",
+            "Der zuständige Träger im Zielland, deine bisherige AHV-Ausgleichskasse sowie bisheriger und aufnehmender Versicherer; bei Beschäftigung auch dein Arbeitgeber.",
+            "Bestätigung der tatsächlichen Aufnahme, des Versicherungsbeginns und Geltungsbereichs sowie der verbleibenden Schweizer Pflichten. Lass Beitragsbeginn und Leistungsbeginn getrennt ausweisen.",
+            "EDA, Auswandern: Soziale Sicherheit; ch.ch: Krankenversicherung außerhalb EU/EFTA. Die Hinweise für Schweizer Staatsangehörige ersetzen weder die Zuordnung nach deinem Abkommen noch die Annahme durch einen privaten Versicherer."
           ],
           [
-            "Vorübergehend durch einen Schweizer Arbeitgeber entsandt",
-            "Entsendung von gewöhnlichem Wegzug unterscheiden; Dauer und mitreisende Familie prüfen.",
-            "Arbeitgeber, AHV-Ausgleichskasse, Kranken- und Unfallversicherer.",
-            "Erforderliche Entsendebescheinigung und bestätigter Versicherungszeitraum."
+            "Von einem Schweizer Arbeitgeber vorübergehend Entsandte, EU/EFTA oder anderes Ziel",
+            "Gilt für dich tatsächlich eine Entsendung mit fortbestehender Schweizer Unterstellung? Lass Abkommen, Dauer, Kranken-/Unfallschutz und den erfassten Kreis deiner Angehörigen für Staatsangehörigkeit und Ziel bestätigen.",
+            "Dein entsendender Arbeitgeber, die zuständige AHV-Ausgleichskasse und die Kranken-/Unfallversicherer. BAG oder BSV helfen bei der jeweiligen Zuständigkeitsfrage.",
+            "Persönliche Unterstellungs- bzw. Entsendebestätigung und bestätigte Deckung für das tatsächliche Ziel und den gesamten Zeitraum. Mitreisende Angehörige müssen im jeweils bestätigten Umfang erfasst sein.",
+            "EDA, Auswandern: Altersvorsorge und Krankenversicherung; ch.ch: Entsandte Arbeitnehmende. Der Fortbestand hängt vom persönlichen Entsendefall ab; Dauer und Familienumfang sind nicht für jede Staatsangehörigkeit und jedes Ziel gleich."
           ],
           [
-            "Schweizer Rente, Wohnsitz EU/EFTA",
-            "Zuständigkeit nach Renten- und Wohnstaat sowie ein mögliches Optionsrecht individuell feststellen. Für UK gilt ein eigener Abkommensbezug.",
-            "Gemeinsame Einrichtung KVG, Versicherer und zuständige Rentenstelle.",
-            "Schriftliche Zuordnung, gegebenenfalls Befreiungsentscheidung und örtlicher Leistungszugang."
+            "Bezug einer Schweizer Rente mit Wohnsitz im EU-/EFTA-Raum",
+            "Besteht für dich Schweizer Krankenversicherungspflicht, und gibt es für dein Wohnland ein Wahlrecht? Erfasse alle Rentenherkünfte und deine weiteren Versicherungsumstände statt die Regel für Erwerbstätige zu übernehmen.",
+            "Deine Krankenversicherung und die Gemeinsame Einrichtung KVG bzw. die zuständige BAG-Stelle. Angaben zu deinen Renten bestätigt die jeweilige Rentenstelle.",
+            "Schriftlich geklärte Versicherungsunterstellung, ein erforderlicher Wahlentscheid und der Nachweis, mit dem du Behandlung im Wohnstaat nutzen kannst.",
+            "EDA, Auswandern: Krankenversicherung bei Schweizer Rente im EU/EFTA-Staat; ch.ch: Bezügerinnen und Bezüger einer Schweizer Rente. Rentenherkunft, Wohnland und persönlicher Versicherungsfall bestimmen die Zuordnung; die Rente allein belegt nicht sämtliche Leistungsrechte."
           ],
           [
-            "Rente, Wohnsitz außerhalb EU/EFTA",
-            "Tatsächlich aufnehmende Krankenversicherung und laufende Rentenzahlung getrennt klären; UK nicht pauschal wie jeden Drittstaat behandeln.",
-            "Zuständige Rentenstelle und gewählter Versicherer beziehungsweise Stelle am Wohnort.",
-            "Zahlungsweg sowie bestätigter Versicherungsbeginn, Umfang und Ausschlüsse."
+            "Rentenbezug mit Ziel außerhalb EU/EFTA",
+            "Welche Krankenversicherung nimmt dich für das neue Wohnland tatsächlich auf? Prüfe lokale, private oder internationale Deckung und kläre zusätzlich die Rentenzahlung ins Ausland sowie fortbestehende Nachweispflichten.",
+            "Die zuständige Rentenstelle, dein bisheriger und künftiger Versicherer bzw. der zuständige Träger im Zielland.",
+            "Bestätigung des Zahlungswegs und der weiter benötigten Rentennachweise. Dazu die tatsächliche Annahme deiner Krankenversicherung mit Beginn, versicherten Leistungen und räumlichem Geltungsbereich.",
+            "EDA, Auswandern: Altersvorsorge und Krankenversicherung; ch.ch: Krankenversicherung außerhalb EU/EFTA. Der Rentenbezug ersetzt keine Versicherungsaufnahme. Zahlungs- und Anschlussbestätigungen klären deinen konkreten Fall."
           ],
           [
-            "Nichterwerbstätige Partner oder Kinder",
-            "Eigene oder abgeleitete Deckung pro Person, Beitragsfragen und mögliche AHV-Lücken prüfen.",
-            "Zuständige AHV-Stelle, Versicherer, lokale Stelle und gegebenenfalls entsendender Arbeitgeber.",
-            "Personenbezogene Bestätigung der Absicherung und nötiger Beiträge."
+            "Nichterwerbstätige Partner, Kinder und andere mitziehende Haushaltsmitglieder, jedes Ziel",
+            "Wer ist aufgrund welcher eigenen oder abgeleiteten Regel versichert? Kläre für jede Person Beiträge und mögliche AHV-/IV-Lücken. Bei Angehörigen entsandter Personen gehört der besondere Mitversicherungsfall ausdrücklich bestätigt.",
+            "Die zuständige AHV-Ausgleichskasse, die betroffenen Versicherer und der zuständige Träger am Ziel; bei Entsendung zusätzlich der Arbeitgeber.",
+            "Eine personenbezogene Bestätigung: wer ab wann und wo versichert ist, welche Beiträge anfallen und wer einen eigenen Anschluss braucht.",
+            "EDA, Auswandern: Altersvorsorge und Krankenversicherung, insbesondere nichterwerbstätige Ehepartner und Angehörige Entsandter; ch.ch: Ausnahmen nach Personengruppe. Ein gemeinsamer Haushalt begründet für sich keine Mitversicherung."
           ],
           [
-            "Möglicher freiwilliger AHV-/IV-Beitritt außerhalb EU/EFTA",
-            "Persönliche Berechtigung, Vorversicherung und Antragsfrist feststellen. Kein automatisches Recht aller Wegziehenden.",
-            "Für die freiwillige Versicherung zuständige AHV-/IV-Stelle.",
-            "Bestätigte Annahme, Beitragsbeginn und Beitragspflichten."
+            "Schweizer Staatsangehörige mit möglicher freiwilliger AHV/IV außerhalb EU/EFTA",
+            "Kannst du freiwillig beitreten, oder bleibst du bereits obligatorisch unterstellt? Lass bisherige Versicherungsdauer, persönliche Beitrittsberechtigung, Anmeldung und Frist klären. Für einen EU-/EFTA-Wohnsitz ist dies nicht die entsprechende Beitrittsoption.",
+            "Deine AHV-Ausgleichskasse und die für deinen Auslandsfall zuständige Anmeldestelle. Die Schweizer Vertretung hilft bei der vom EDA beschriebenen Zuständigkeitsklärung.",
+            "Bestätigte Berechtigung, wirksame Anmeldung und Beitragsbeginn. Falls der Beitritt ausscheidet, brauchst du einen konkret geklärten anderen Vorsorgeanschluss statt einer ungeklärten Beitragslücke.",
+            "EDA, Auswandern: Freiwillige AHV/IV und Altersvorsorge. Die Option richtet sich an berechtigte Schweizer Staatsangehörige außerhalb EU/EFTA; Versicherungsverlauf und Anmeldefrist sind mit der zuständigen Stelle zu bestätigen."
           ],
           [
-            "Berufliche Vorsorge und Freizügigkeitsguthaben",
-            "Obligatorischen und überobligatorischen Anteil, zulässige Auszahlung oder Übertragung sowie Risikoschutz unterscheiden.",
-            "Eigene Pensionskasse und zuständige Freizügigkeitseinrichtung.",
-            "Schriftliche Auskunft je Guthabenbestandteil; Übertragungsweg und verbleibender Invaliditäts-/Todesfallschutz."
+            "Schweizer Pensionskassen- oder Freizügigkeitsguthaben, EU/EFTA oder anderes Ziel",
+            "Was geschieht mit dem obligatorischen und dem überobligatorischen Guthaben bei Ende deines Arbeitsverhältnisses und Wegzug? Kläre Freizügigkeit, eine zulässige Barauszahlung und den Schutz bei Invalidität oder Tod jeweils getrennt.",
+            "Deine Pensionskasse und gegebenenfalls die Freizügigkeitseinrichtung. Benennt sie eine weitere Stelle zur Unterstellungsprüfung, folgst du dem für deinen Fall angegebenen Verfahren.",
+            "Schriftliche Aufteilung der Guthaben und Bestätigung des zulässigen Übertragungs- oder Auszahlungswegs für jeden Anteil. Zusätzlich das tatsächliche Ende oder den Anschluss des Invaliditäts-/Todesfallschutzes festhalten.",
+            "EDA, Auswandern: Berufliche Vorsorge. Der Überblick unterscheidet Guthabenanteile und Zielkonstellationen; er belegt keine Auszahlung der gesamten Vorsorge bei jedem Wegzug. Den geltenden Weg und Risikoschutz bestätigt deine Einrichtung."
           ]
         ]
       }
     },
     {
       "id": "abschnitt-4",
-      "title": "Steuerliche Bindungen, Bank und Dokumente vorbereiten",
-      "body": "<p>Stelle tatsächlichen Wohnsitz, Einkommen, Beteiligungen und weiterlaufende Tätigkeit für die steuerliche Prüfung zusammen. Eine Bank-Selbstauskunft muss die zutreffenden Ansässigkeiten abbilden; eine neue Adresse entscheidet sie nicht automatisch.<p class=\"exb-source-note\"><a href=\"https://www.oecd.org/en/networks/global-forum-tax-transparency/resources/aeoi-implementation-portal/tax-residency.html\" rel=\"noopener noreferrer\">OECD: Tax residency</a></p><p>Sprich vor der Abreise mit deiner Bank über den vorgesehenen Auslandswohnsitz. Kläre, welche Produkte fortgeführt werden können, welche Nachweise oder Konditionen sich ändern und wie du dich ohne die bisherige SIM legitimierst. Die EDA-Hinweise empfehlen die frühe Bankabstimmung, nicht die Annahme, jedes Schweizer Konto werde geschlossen.</p><p>Daneben müssen Reise-, Personenstands- und Vertretungsdokumente sowie eventuell Umzugsgut und Zollformalitäten organisiert werden. Unterlagen für ein Zielverfahren sind nach dessen Anforderungen zu beschaffen, nicht nach einer allgemeinen Auswandererliste.</p><p class=\"exb-source-note\"><a href=\"https://www.eda.admin.ch/de/auswandern\" rel=\"noopener noreferrer\">EDA: Auswandern aus der Schweiz</a></p></p><p>Ein praktischer Wechselplan nennt deshalb neben dem Abmeldeschritt auch die noch offene Bankentscheidung und den ersten Tag, an dem Zahlungen am neuen Wohnort nötig sind. Prüfe am eigenen Institut, ob Kontoart, Korrespondenzadresse und Authentifizierung nach dem Umzug funktionieren; ein bloß mitgenommener Schweizer Bankkarte ist kein getesteter Zahlungsweg.</p>",
+      "title": "Steuern, Bankverbindung und Unterlagen vor dem Abflug ordnen",
+      "body": "<p>Vereinbare mit dem kantonalen Steueramt, welche Erklärung, Zustelladresse und Abrechnung zum Wegzug erforderlich sind. Immobilien oder wirtschaftliche Tätigkeiten in der Schweiz können auch nach dem Umzug relevante Anknüpfungen bleiben. Die Behandlung im Zielstaat wird parallel geklärt, damit derselbe Vorgang nicht auf beiden Seiten unterschiedlich eingeplant wird.</p><p>Informiere deine Bank über das tatsächliche neue Wohnsitzland. Frage konkret nach Kontoführung, Anlageprodukten, Gebühren, Kartenversand und akzeptierter Vollmacht bei Auslandswohnsitz. Ein bisher problemlos genutztes Konto ist erst dann Bestandteil deines Auswegs, wenn diese neue Konstellation angenommen ist.</p><p>Sichere Steuer- und Vorsorgeauskünfte, Kontoauszüge, Arbeitszeugnisse und Personenstandsurkunden vor dem Verlust eines bisherigen Zugangs. Für spätere Bankzahlungen braucht eine bevollmächtigte Person eine akzeptierte Berechtigung und ihren eigenen zugelassenen Zugang.</p>",
       "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\" data-route=\"/de/wissen/unternehmen-einkommen/wegzug-steuern/\"><span>Wegzug, Steuern und Unternehmenspflichten</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/auslandsgesellschaft/\" data-route=\"/de/leistungen/auslandsgesellschaft/\"><span>Auslandsgesellschaft und laufende Verwaltung organisieren</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/leistungen/dokumente-aufenthalt/\" data-route=\"/de/leistungen/dokumente-aufenthalt/\"><span>Dokumente und Aufenthalt vorbereiten</span><span aria-hidden=\"true\">→</span></a></div>"
     },
     {
       "id": "abschnitt-5",
-      "title": "Zielrechte und Ankunft passend zum Haushalt klären",
-      "body": "<p>Prüfe Schweizer, EU-/EWR- und andere Rechte der einzelnen Familienmitglieder getrennt. Ein gutes Ziel ist für euch erreichbar, rechtlich nutzbar und im Alltag tragfähig. Schule, medizinische Versorgung, Unterkunft und Geldzugriff sind dafür konkrete Auswahlkriterien.</p><p>Die Unterstützung einer Schweizer Vertretung hängt von ihrer Zuständigkeit und dem Fall ab. Sie ist kein Ersatz für einen vereinbarten Ankunftsablauf oder privat organisierte Hilfe. Prüfe daher vor dem Schritt, wo ihr tatsächlich aufgenommen werdet und wer euch vor Ort bei den ersten Aufgaben unterstützt.</p><p>Auch eine Rückkehr ist zu planen: fortbestehende Rechte, Zugang zu einer Unterkunft und die dafür nötige Absicherung müssen zusammenpassen.<p class=\"exb-source-note\"><a href=\"https://www.eda.admin.ch/de/auswandern\" rel=\"noopener noreferrer\">EDA: Auswandern aus der Schweiz</a> · <a href=\"https://europa.eu/youreurope/citizens/residence/residence-rights/index_en.htm\" rel=\"noopener noreferrer\">Your Europe: residence rights</a></p></p>",
+      "title": "Ankunft vorbereiten: Rechte, Wohnung und Alltag gehören zusammen",
+      "body": "<p>Lege vor der endgültigen Abreise fest, wo ihr zunächst wohnt und wie daraus bei Bedarf ein längerer Aufenthalt wird. Eine möblierte Übergangswohnung verschafft Zeit für die Standortprüfung. Eine langfristige Miete oder ein Immobilienkauf folgt, wenn Aufenthaltsweg, Schule, Gesundheitsversorgung und laufende Kosten zum Haushalt passen.</p><p>Beim Kauf organisiert EXOBASIS auf Auftrag Suche und Besichtigungen, die unabhängige Prüfung von Eigentumstitel und Kaufbedingungen durch die örtlich befugten Stellen, Abschluss und Übergabe. Bei längerer Abwesenheit gehören Schlüssel, Versicherungsbedingungen, Instandhaltung und lokale Betreuung dazu. Die Erwerbsrechte und Kosten richten sich nach dem konkreten Zielland.</p><p>Probiere während einer Erkundung den Alltag aus: Weg zur Schule, erreichbare Arztpraxis, Arbeitsverbindung und Zahlungen. Ein Ort, der im Urlaub angenehm war, muss auch deinen normalen Familien- und Arbeitstag tragen.</p>",
       "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\" data-route=\"/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/\"><span>Aufenthalt, vorhandene Rechte und zweite Staatsangehörigkeit</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/wissen/familie-alltag/kinder-angehoerige/\" data-route=\"/de/wissen/familie-alltag/kinder-angehoerige/\"><span>Mit Kindern und Angehörigen vorbereitet gehen</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/laender/\" data-route=\"/de/laender/\"><span>Länder und Möglichkeiten</span><span aria-hidden=\"true\">→</span></a></div>"
     },
     {
       "id": "abschnitt-6",
-      "title": "Die Übergänge als einen Auftrag organisieren",
-      "body": "<p>EXOBASIS bringt die Schweizer Abklärungen und die Zielvorbereitung in eine gemeinsame Arbeitsfolge. Wir koordinieren die vereinbarten Aufgaben, halten Rückfragen und Nachweise nach und machen sichtbar, welche fachliche Entscheidung noch fehlt.</p><p>Du kannst einen persönlichen Flucht- und Notfallplan, die Dokumentenorganisation oder eine konkrete Ankunftsvorbereitung beauftragen. Die Entscheidung der zuständigen Steuer-, Versicherungs- oder Vorsorgeeinrichtung bleibt dabei erkennbar. Deine erste Anfrage braucht weder Versicherungsakten noch Vermögensunterlagen; solche Nachweise folgen erst im passenden geschützten Austausch.</p>",
+      "title": "Deine Wegzugs-Checkliste als zusammenhängenden Ablauf umsetzen",
+      "body": "<p>Die sinnvolle Reihenfolge lautet: Zielrecht und Familienbedarf klären; Wohnung und Versorgung am Ziel vorbereiten; Versicherungs- und Vorsorgeübergang bestätigen; Bank und Vertretung einrichten; Abmeldung und gegebenenfalls Auslandurlaub termingerecht erledigen; Ankunft und ausstehende Nachmeldungen organisieren. Einzelne Aufgaben laufen parallel, ihre Stichtage müssen zusammenpassen.</p><p>EXOBASIS plant diesen Ablauf und führt die beauftragten organisatorischen Arbeiten aus. Wir koordinieren Anforderungen, Fachstellen, Unterlagen und Termine bis zur Übergabe. Du kannst die gesamte Vorbereitung oder klar abgegrenzte Aufgaben wie Dokumente, Standortsuche oder Einrichtung beauftragen.</p>",
       "after": "<div class=\"exb-related-links\"><a class=\"exb-context-link\" href=\"/de/leistungen/flucht-notfallplan/\" data-route=\"/de/leistungen/flucht-notfallplan/\"><span>Persönlicher Flucht- und Notfallplan</span><span aria-hidden=\"true\">→</span></a><a class=\"exb-context-link\" href=\"/de/anfrage/\" data-route=\"/de/anfrage/\"><span>Diskrete Anfrage</span><span aria-hidden=\"true\">→</span></a></div>",
       "knowledgeCTA": true
     }
   ],
   "editorial": {
     "package": "03",
-    "origin": "Neu ausgearbeitet aus den originalen individuellen Schreib- und Baukarten; verlorene Dateien wurden nicht als wiederhergestellt behauptet.",
+    "origin": "Eigenständige deutsche Neuredaktion nach PB-D65 aus Originalbriefing, DACH-Recherche und gelesenen Fachquellen.",
     "sourceSectionOrder": [
       {
         "id": "abschnitt-1",
-        "title": "Schweizer Wohnsitz und persönliche Zugehörigkeit trennen"
+        "title": "Wohnsitz Schweiz: Welcher persönliche Fall bist du?"
       },
       {
         "id": "abschnitt-2",
-        "title": "Gemeinde, Kanton und Abmeldung koordinieren"
+        "title": "Abmeldung und militärischen Auslandurlaub rechtzeitig erledigen"
       },
       {
         "id": "abschnitt-3",
-        "title": "Versicherung und Vorsorge vor dem Übergang regeln"
+        "title": "Krankenversicherung, AHV und Pensionskasse: den Übergang schließen"
       },
       {
         "id": "abschnitt-4",
-        "title": "Steuerliche Bindungen, Bank und Dokumente vorbereiten"
+        "title": "Steuern, Bankverbindung und Unterlagen vor dem Abflug ordnen"
       },
       {
         "id": "abschnitt-5",
-        "title": "Zielrechte und Ankunft passend zum Haushalt klären"
+        "title": "Ankunft vorbereiten: Rechte, Wohnung und Alltag gehören zusammen"
       },
       {
         "id": "abschnitt-6",
-        "title": "Die Übergänge als einen Auftrag organisieren"
+        "title": "Deine Wegzugs-Checkliste als zusammenhängenden Ablauf umsetzen"
       }
     ],
     "mappedLinks": [
@@ -278,12 +287,12 @@
       }
     ],
     "seeding": [
-      "D18",
-      "D19"
+      "D16"
     ],
     "sourceDate": "2026-09-25",
     "draftDate": "2026-09-26",
     "noPublication": true
   },
-  "departureContext": "/de/wissen/ausweg-vorbereiten/aus-schweiz/"
+  "departureContext": "/de/wissen/ausweg-vorbereiten/aus-schweiz/",
+  "displayTitle": "Auswandern aus der Schweiz: deinen Wegzug vorbereiten"
 }
