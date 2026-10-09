@@ -1,4 +1,5 @@
 import { loadJSON } from '../lib/site.mjs';
+import {designHero} from '../lib/page-design.mjs';
 const photographs=loadJSON('src/data/country-photos.json').photos;
 const photoByRoute=new Map(photographs.flatMap(photo=>[[photo.deRoute,photo],[photo.enRoute,photo]]));
 if(photoByRoute.size!==photographs.length*2)throw new Error('Doppelte Sprachzuordnung bei Ortsfotografien.');
@@ -18,7 +19,7 @@ export function countryHero(page,{e,anchor,icon}) {
 }
 export function countryHubHero(page,{e,anchor,icon}) {
  const de=page.lang==='de';
- return `<section class="exb-country-hub-hero" id="${e(page.openingId)}"><div class="exb-wrap exb-country-hub-grid"><div><p class="exb-eyebrow">${e(page.eyebrow)}</p><h1>${e(page.displayTitle||page.title)}</h1><div class="exb-page-lead">${page.intro}</div><div class="exb-country-jumps">${anchor('#'+(de?'lebensmodell':'life-model'),(de?'Länder nach deinem Bedarf vergleichen':'Compare countries for your needs')+icon('arrow'),'exb-text-link')}${anchor('#'+(de?'laenderprofile':'country-profiles'),de?'Zu den Länderprofilen':'Explore the country profiles','exb-text-link')}</div></div><aside class="exb-country-hub-statement"><p class="exb-eyebrow">${de?'Dein Standort muss funktionieren':'Your location needs to work'}</p><p>${de?'Erreichbar.<br>Rechtlich nutzbar.<br>Für deine Familie vorbereitet.':'Reachable.<br>Lawfully usable.<br>Prepared for your family.'}</p><span>${de?'Nicht die beste Platzierung auf einer Liste. Sondern die passende Antwort auf deine Situation.':'Not the highest position on a list. The right answer to your circumstances.'}</span></aside></div></section>`;
+ return `<section class="exb-country-hub-hero" id="${e(page.openingId)}"><div class="exb-wrap"><div class="exb-country-hub-grid exb-hero-frame"><div><p class="exb-eyebrow">${e(page.eyebrow)}</p><h1>${e(page.displayTitle||page.title)}</h1><div class="exb-page-lead">${page.intro}</div><div class="exb-country-jumps">${anchor('#'+(de?'lebensmodell':'life-model'),(de?'Länder nach deinem Bedarf vergleichen':'Compare countries for your needs')+icon('arrow'),'exb-text-link')}${anchor('#'+(de?'laenderprofile':'country-profiles'),de?'Zu den Länderprofilen':'Explore the country profiles','exb-text-link')}</div></div>${designHero(page)}</div><aside class="exb-country-hub-statement"><p class="exb-eyebrow">${de?'Dein Standort muss funktionieren':'Your location needs to work'}</p><p>${de?'<span>Erreichbar.</span><span>Rechtlich nutzbar.</span><span>Für deine Familie vorbereitet.</span>':'<span>Reachable.</span><span>Lawfully usable.</span><span>Prepared for your family.</span>'}</p><span>${de?'Nicht die beste Platzierung auf einer Liste. Sondern die passende Antwort auf deine Situation.':'Not the highest position on a list. The right answer to your circumstances.'}</span></aside></div></section>`;
 }
 /** Preserve the inherited reading layout; extend only the country hub's local outline. */
 export function countryContent(page,html,{e}) {

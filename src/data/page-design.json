@@ -1,0 +1,702 @@
+{
+  "schemaVersion": 1,
+  "assets": {
+    "basis": {
+      "src": "assets/hero-basis-1600.webp",
+      "width": 1600,
+      "height": 900,
+      "srcset": [
+        {
+          "src": "assets/hero-basis-800.webp",
+          "width": 800
+        },
+        {
+          "src": "assets/hero-basis-1600.webp",
+          "width": 1600
+        }
+      ],
+      "alt": {
+        "de": "Offener Wohnraum mit einem weiten Blick auf die Küste.",
+        "en": "An open living space looking out towards the coast."
+      }
+    },
+    "wege": {
+      "src": "assets/hero-wege-1600.webp",
+      "width": 1600,
+      "height": 900,
+      "srcset": [
+        {
+          "src": "assets/hero-wege-800.webp",
+          "width": 800
+        },
+        {
+          "src": "assets/hero-wege-1600.webp",
+          "width": 1600
+        }
+      ],
+      "alt": {
+        "de": "Zwei offene Durchgänge führen auf unterschiedliche Wege.",
+        "en": "Two open doorways lead towards different paths."
+      }
+    },
+    "familie": {
+      "src": "assets/hero-familie-1600.webp",
+      "width": 1600,
+      "height": 900,
+      "srcset": [
+        {
+          "src": "assets/hero-familie-800.webp",
+          "width": 800
+        },
+        {
+          "src": "assets/hero-familie-1600.webp",
+          "width": 1600
+        }
+      ],
+      "alt": {
+        "de": "Eine Familie blickt gemeinsam aus einem geschützten Raum auf den Horizont.",
+        "en": "A family looks towards the horizon together from a sheltered space."
+      }
+    },
+    "umsetzung": {
+      "src": "assets/hero-umsetzung-1600.webp",
+      "width": 1600,
+      "height": 900,
+      "srcset": [
+        {
+          "src": "assets/hero-umsetzung-800.webp",
+          "width": 800
+        },
+        {
+          "src": "assets/hero-umsetzung-1600.webp",
+          "width": 1600
+        }
+      ],
+      "alt": {
+        "de": "Eine geordnete Dokumentenmappe wird persönlich übergeben.",
+        "en": "An organised document folder is handed over in person."
+      }
+    },
+    "notfallunterlagen": {
+      "src": "assets/hero-notfallunterlagen-1448.webp",
+      "width": 1448,
+      "height": 1086,
+      "srcset": [
+        {
+          "src": "assets/hero-notfallunterlagen-800.webp",
+          "width": 800
+        },
+        {
+          "src": "assets/hero-notfallunterlagen-1448.webp",
+          "width": 1448
+        }
+      ],
+      "alt": {
+        "de": "Zwei Personen gehen gemeinsam Unterlagen am Küchentisch durch.",
+        "en": "Two people work through documents together at a kitchen table."
+      }
+    }
+  },
+  "pages": {
+    "/de/": {
+      "family": "home-geschuetzte-referenz",
+      "hero": null
+    },
+    "/de/404/": {
+      "family": "status-404",
+      "hero": null
+    },
+    "/de/anbieterinformationen/": {
+      "family": "recht-lesedokument",
+      "hero": null
+    },
+    "/de/anfrage/": {
+      "family": "kontakt-handlung",
+      "hero": null
+    },
+    "/de/anfrage/bestaetigung/": {
+      "family": "status-bestaetigung",
+      "hero": null
+    },
+    "/de/arbeitsweise/": {
+      "family": "vertrauen-arbeitsweise",
+      "hero": "existing-portrait"
+    },
+    "/de/datenschutz/": {
+      "family": "recht-lesedokument",
+      "hero": null
+    },
+    "/de/diskretion/": {
+      "family": "vertrauen-diskretion",
+      "hero": "umsetzung"
+    },
+    "/de/laender/": {
+      "family": "laender-hub",
+      "hero": "wege"
+    },
+    "/de/laender/argentinien/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/australien/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/brasilien/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/chile/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/costa-rica/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/dominikanische-republik/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/georgien/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/griechenland/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/irland/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/island/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/kanada/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/malaysia/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/malta/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/mauritius/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/mexiko/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/namibia/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/neuseeland/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/panama/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/paraguay/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/portugal/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/schweiz/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/spanien/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/suedafrika/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/thailand/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/uruguay/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/vae/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/laender/zypern/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/de/leistungen/": {
+      "family": "leistungen-katalog",
+      "hero": "umsetzung"
+    },
+    "/de/leistungen/aktivierung-notfallkoordination/": {
+      "family": "leistung-aktivierung",
+      "hero": "wege"
+    },
+    "/de/leistungen/ankunft-organisieren/": {
+      "family": "leistung-ankunft",
+      "hero": "basis"
+    },
+    "/de/leistungen/apostillen-uebersetzungen-urkunden/": {
+      "family": "leistung-ausfuehrung",
+      "hero": "umsetzung"
+    },
+    "/de/leistungen/auslandsgesellschaft/": {
+      "family": "leistung-struktur",
+      "hero": "umsetzung"
+    },
+    "/de/leistungen/bankzugang-liquiditaet/": {
+      "family": "leistung-ausfuehrung",
+      "hero": "umsetzung"
+    },
+    "/de/leistungen/dokumente-aufenthalt/": {
+      "family": "leistung-ausfuehrung",
+      "hero": "umsetzung"
+    },
+    "/de/leistungen/erstklaerung/": {
+      "family": "leistung-erstklaerung",
+      "hero": "umsetzung"
+    },
+    "/de/leistungen/familie-unternehmen/": {
+      "family": "leistung-fortfuehrung",
+      "hero": "familie"
+    },
+    "/de/leistungen/flucht-notfallplan/": {
+      "family": "leistung-plan",
+      "hero": "familie"
+    },
+    "/de/leistungen/kommunikation-wiederzugang/": {
+      "family": "leistung-wiederzugang",
+      "hero": "umsetzung"
+    },
+    "/de/leistungen/laender-standortauswahl/": {
+      "family": "leistung-auswahl",
+      "hero": "wege"
+    },
+    "/de/leistungen/sachwerte-verwahrung/": {
+      "family": "leistung-struktur",
+      "hero": "umsetzung"
+    },
+    "/de/leistungen/stiftung-liechtenstein/": {
+      "family": "leistung-struktur",
+      "hero": "umsetzung"
+    },
+    "/de/leistungen/trust-struktur/": {
+      "family": "leistung-struktur",
+      "hero": "umsetzung"
+    },
+    "/de/leistungen/vermoegen-uebertragen/": {
+      "family": "leistung-ausfuehrung",
+      "hero": "umsetzung"
+    },
+    "/de/leistungen/vermoegensstrukturen/": {
+      "family": "leistung-struktur",
+      "hero": "umsetzung"
+    },
+    "/de/leistungen/vorbereitung-betreuen/": {
+      "family": "leistung-pflege",
+      "hero": "wege"
+    },
+    "/de/leistungsbedingungen/": {
+      "family": "recht-lesedokument",
+      "hero": null
+    },
+    "/de/wissen/": {
+      "family": "wissen-hub",
+      "hero": "wege"
+    },
+    "/de/wissen/aufenthalt-dokumente/": {
+      "family": "wissen-themenhub",
+      "hero": "umsetzung"
+    },
+    "/de/wissen/aufenthalt-dokumente/notfallunterlagen/": {
+      "family": "wissen-praxisuebergabe",
+      "hero": "notfallunterlagen"
+    },
+    "/de/wissen/aufenthalt-dokumente/rechte-staatsangehoerigkeit/": {
+      "family": "wissen-fachartikel",
+      "hero": "umsetzung"
+    },
+    "/de/wissen/ausweg-vorbereiten/": {
+      "family": "wissen-themenhub",
+      "hero": "basis"
+    },
+    "/de/wissen/ausweg-vorbereiten/aus-deutschland/": {
+      "family": "wissen-herkunft",
+      "hero": "wege"
+    },
+    "/de/wissen/ausweg-vorbereiten/aus-oesterreich/": {
+      "family": "wissen-herkunft",
+      "hero": "wege"
+    },
+    "/de/wissen/ausweg-vorbereiten/aus-schweiz/": {
+      "family": "wissen-herkunft",
+      "hero": "wege"
+    },
+    "/de/wissen/ausweg-vorbereiten/einberufung-ausreise-deutschland/": {
+      "family": "wissen-fachartikel",
+      "hero": "wege"
+    },
+    "/de/wissen/ausweg-vorbereiten/wohin-bei-krieg/": {
+      "family": "wissen-fachartikel",
+      "hero": "wege"
+    },
+    "/de/wissen/familie-alltag/": {
+      "family": "wissen-themenhub",
+      "hero": "familie"
+    },
+    "/de/wissen/familie-alltag/kinder-angehoerige/": {
+      "family": "wissen-fachartikel",
+      "hero": "familie"
+    },
+    "/de/wissen/familie-alltag/krankenversicherung-versorgung/": {
+      "family": "wissen-fachartikel",
+      "hero": "familie"
+    },
+    "/de/wissen/familie-alltag/pflege-medikamente/": {
+      "family": "wissen-fachartikel",
+      "hero": "familie"
+    },
+    "/de/wissen/unternehmen-einkommen/": {
+      "family": "wissen-themenhub",
+      "hero": "umsetzung"
+    },
+    "/de/wissen/unternehmen-einkommen/wegzug-steuern/": {
+      "family": "wissen-fachartikel",
+      "hero": "umsetzung"
+    },
+    "/de/wissen/vermoegen-zugriff/": {
+      "family": "wissen-themenhub",
+      "hero": "umsetzung"
+    },
+    "/de/wissen/vermoegen-zugriff/bankkonto-zahlungsfaehigkeit/": {
+      "family": "wissen-fachartikel",
+      "hero": "umsetzung"
+    },
+    "/de/wissen/vermoegen-zugriff/vollmachten-vertretung-nachfolge/": {
+      "family": "wissen-fachartikel",
+      "hero": "umsetzung"
+    },
+    "/de/wissen/wiederzugang-telefon-email/": {
+      "family": "wissen-vergleich",
+      "hero": "umsetzung"
+    },
+    "/de/zusammenarbeit/": {
+      "family": "zusammenarbeit-fachpartner",
+      "hero": "umsetzung"
+    },
+    "/en/": {
+      "family": "home-geschuetzte-referenz",
+      "hero": null
+    },
+    "/en/404/": {
+      "family": "status-404",
+      "hero": null
+    },
+    "/en/collaboration/": {
+      "family": "zusammenarbeit-fachpartner",
+      "hero": "umsetzung"
+    },
+    "/en/countries/": {
+      "family": "laender-hub",
+      "hero": "wege"
+    },
+    "/en/countries/argentina/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/australia/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/brazil/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/canada/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/chile/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/costa-rica/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/cyprus/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/dominican-republic/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/georgia/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/greece/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/iceland/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/ireland/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/malaysia/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/malta/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/mauritius/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/mexico/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/namibia/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/new-zealand/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/panama/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/paraguay/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/portugal/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/south-africa/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/spain/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/switzerland/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/thailand/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/uae/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/countries/uruguay/": {
+      "family": "land-profil",
+      "hero": "existing-country"
+    },
+    "/en/discretion/": {
+      "family": "vertrauen-diskretion",
+      "hero": "umsetzung"
+    },
+    "/en/enquiry/": {
+      "family": "kontakt-handlung",
+      "hero": null
+    },
+    "/en/enquiry/confirmation/": {
+      "family": "status-bestaetigung",
+      "hero": null
+    },
+    "/en/how-we-work/": {
+      "family": "vertrauen-arbeitsweise",
+      "hero": "existing-portrait"
+    },
+    "/en/knowledge/": {
+      "family": "wissen-hub",
+      "hero": "wege"
+    },
+    "/en/knowledge/assets-and-access/": {
+      "family": "wissen-themenhub",
+      "hero": "umsetzung"
+    },
+    "/en/knowledge/assets-and-access/banking-payments/": {
+      "family": "wissen-vergleich",
+      "hero": "umsetzung"
+    },
+    "/en/knowledge/assets-and-access/powers-representation-succession/": {
+      "family": "wissen-fachartikel",
+      "hero": "umsetzung"
+    },
+    "/en/knowledge/business-and-income/": {
+      "family": "wissen-themenhub",
+      "hero": "umsetzung"
+    },
+    "/en/knowledge/business-and-income/departure-tax/": {
+      "family": "wissen-fachartikel",
+      "hero": "umsetzung"
+    },
+    "/en/knowledge/family-life-abroad/": {
+      "family": "wissen-themenhub",
+      "hero": "familie"
+    },
+    "/en/knowledge/family-life-abroad/care-medication/": {
+      "family": "wissen-fachartikel",
+      "hero": "familie"
+    },
+    "/en/knowledge/family-life-abroad/children-family/": {
+      "family": "wissen-fachartikel",
+      "hero": "familie"
+    },
+    "/en/knowledge/family-life-abroad/health-cover-care/": {
+      "family": "wissen-fachartikel",
+      "hero": "familie"
+    },
+    "/en/knowledge/phone-email-access-failure/": {
+      "family": "wissen-vergleich",
+      "hero": "umsetzung"
+    },
+    "/en/knowledge/prepare-your-way-out/": {
+      "family": "wissen-themenhub",
+      "hero": "basis"
+    },
+    "/en/knowledge/prepare-your-way-out/leaving-uae/": {
+      "family": "wissen-herkunft",
+      "hero": "wege"
+    },
+    "/en/knowledge/prepare-your-way-out/leaving-uk/": {
+      "family": "wissen-herkunft",
+      "hero": "wege"
+    },
+    "/en/knowledge/prepare-your-way-out/where-to-go-if-war/": {
+      "family": "wissen-fachartikel",
+      "hero": "wege"
+    },
+    "/en/knowledge/residence-and-documents/": {
+      "family": "wissen-themenhub",
+      "hero": "umsetzung"
+    },
+    "/en/knowledge/residence-and-documents/emergency-documents/": {
+      "family": "wissen-praxisuebergabe",
+      "hero": "notfallunterlagen"
+    },
+    "/en/knowledge/residence-and-documents/rights-citizenship/": {
+      "family": "wissen-fachartikel",
+      "hero": "umsetzung"
+    },
+    "/en/privacy/": {
+      "family": "recht-lesedokument",
+      "hero": null
+    },
+    "/en/provider-information/": {
+      "family": "recht-lesedokument",
+      "hero": null
+    },
+    "/en/service-terms/": {
+      "family": "recht-lesedokument",
+      "hero": null
+    },
+    "/en/services/": {
+      "family": "leistungen-katalog",
+      "hero": "umsetzung"
+    },
+    "/en/services/activation-emergency-coordination/": {
+      "family": "leistung-aktivierung",
+      "hero": "wege"
+    },
+    "/en/services/apostilles-translations-documents/": {
+      "family": "leistung-ausfuehrung",
+      "hero": "umsetzung"
+    },
+    "/en/services/arrange-arrival/": {
+      "family": "leistung-ankunft",
+      "hero": "basis"
+    },
+    "/en/services/asset-structures/": {
+      "family": "leistung-struktur",
+      "hero": "umsetzung"
+    },
+    "/en/services/asset-transfers/": {
+      "family": "leistung-ausfuehrung",
+      "hero": "umsetzung"
+    },
+    "/en/services/banking-liquidity/": {
+      "family": "leistung-ausfuehrung",
+      "hero": "umsetzung"
+    },
+    "/en/services/communications-recovery/": {
+      "family": "leistung-wiederzugang",
+      "hero": "umsetzung"
+    },
+    "/en/services/country-location-selection/": {
+      "family": "leistung-auswahl",
+      "hero": "wege"
+    },
+    "/en/services/departure-contingency-plan/": {
+      "family": "leistung-plan",
+      "hero": "familie"
+    },
+    "/en/services/family-business-continuity/": {
+      "family": "leistung-fortfuehrung",
+      "hero": "familie"
+    },
+    "/en/services/initial-assessment/": {
+      "family": "leistung-erstklaerung",
+      "hero": "umsetzung"
+    },
+    "/en/services/liechtenstein-foundation/": {
+      "family": "leistung-struktur",
+      "hero": "umsetzung"
+    },
+    "/en/services/maintain-preparations/": {
+      "family": "leistung-pflege",
+      "hero": "wege"
+    },
+    "/en/services/overseas-company/": {
+      "family": "leistung-struktur",
+      "hero": "umsetzung"
+    },
+    "/en/services/residence-documents/": {
+      "family": "leistung-ausfuehrung",
+      "hero": "umsetzung"
+    },
+    "/en/services/tangible-asset-custody/": {
+      "family": "leistung-struktur",
+      "hero": "umsetzung"
+    },
+    "/en/services/trust-structure/": {
+      "family": "leistung-struktur",
+      "hero": "umsetzung"
+    }
+  }
+}

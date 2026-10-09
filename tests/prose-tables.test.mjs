@@ -13,7 +13,7 @@ function section(body,after){
  const page=structuredClone(base);
  page.sections=[{id:'qa-table-scope',title:label,body,...(after?{after}:{})}];
  const html=renderMain(page);
- return html.match(/<section class="exb-editorial-section" id="qa-table-scope">([\s\S]*?)<\/section>/)[1];
+ return html.match(/<section class="exb-editorial-section(?: [^"]*)?" id="qa-table-scope">([\s\S]*?)<\/section>/)[1];
 }
 
 test('An authored table uses the existing labelled keyboard-scrollable component',()=>{

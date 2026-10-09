@@ -384,7 +384,7 @@
       "licenseFiles": []
     },
     "css/exobasis-b-integration.css": {
-      "sha256": "f4c8e190da8942c888d70782db214ea06b1d1ec07e84dccf03da9a9f76619e29",
+      "sha256": "8909123c8921fd8ed6bdb4e5bf71b270cbcffbebb127e5e84ae0f0840a469aeb",
       "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
       "licenseFiles": []
     },
@@ -413,6 +413,11 @@
       "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
       "licenseFiles": []
     },
+    "js/root-locale.js": {
+      "sha256": "ca07e1d4d3523f564b49ab14703a3fa76489d2e32eacdd0e1afaa6a1b5062022",
+      "rightsEvidence": "Projektbezogener Website-Quellcode von Raphael Rechberger für die ausdrücklich beauftragte automatische Browser-Sprachwahl. Selbstgehosteter CSP-kompatibler Anschluss; keine externe Bibliothek, Speicherung oder Tracking.",
+      "licenseFiles": []
+    },
     "js/confirmation.js": {
       "sha256": "383084e5165ba71d8f2c80e64aa5f9181175439d13b1e682db8eb84be7407d51",
       "rightsEvidence": "Projektbezogener Website-Quellcode von Raphael Rechberger für die bestehende HTTP-Bestätigungsanzeige. Durch die ausdrücklich freigegebene Formularaktivierung tatsächlich benötigt; keine neue E-Mail oder externe Bibliothek.",
@@ -429,7 +434,7 @@
       "licenseFiles": []
     },
     "js/navigation.js": {
-      "sha256": "d388b89fe101e4d4c0335e7cb1f51763693a855cfd5b1865311cc32b591a59bb",
+      "sha256": "c2a4cd13b388f0ad09b066737f3ef104db9f520269f37052eb39f828e4e2ca32",
       "rightsEvidence": "Projektbezogener Website-Quellcode aus dem beauftragten EXOBASIS-Bau; Autor Raphael Rechberger. B-Basis aus der angenommenen Markenlieferung, lokale Integrationsänderungen im privaten Quellverlauf gebunden. Keine externe Script-, CSS- oder Iconbibliothek in dieser Datei.",
       "licenseFiles": []
     },
@@ -456,6 +461,56 @@
     "logo/exobasis-b-wortmarke-hell.svg": {
       "sha256": "2d958a90287a50dc8cac7b52320f28baff5d3c172bb589c6ca06dddb3cb12c1e",
       "rightsEvidence": "Für EXOBASIS im eigenen Projekt ausgearbeiteter B-Logo-/Iconmaster aus EXOBASIS-Markenpaket-B-2026-10-07, persönlich gewählte Richtung PB-D79 und übernommene Lieferung PB-D84. Technische Bindung: src/data/brand-assets.json; keine Übernahme eines fremden Unternehmenslogos.",
+      "licenseFiles": []
+    },
+    "assets/hero-basis-1600.webp": {
+      "sha256": "ab67089ec9d72a5d03cabd36b82b6b59f4b68f22031d617037a1118270e810ff",
+      "rightsEvidence": "Angenommene EXOBASIS-Markenpaket-B-Lieferung 2026-10-07, bestehende Rechte-/Nutzungsfreigabe und ausdrücklicher Unterseiten-Bildauftrag. Quelle H01.png, SHA256 b7e1603321357368e2112cb102489e9f5361358eddc458bf9e3fe94647e2fd02. Ganzbild als responsive WebP-Datei, kein neuer Crop oder neu generiertes Motiv. Gebundener Nachweis: Umsetzung/Designintegration/template-korrektur-20261008/ASSETUEBERNAHME.json.",
+      "licenseFiles": []
+    },
+    "assets/hero-basis-800.webp": {
+      "sha256": "728de21937fbab9f265bbc507dd6f311873cd56ef96b4eead50c0738df939ae6",
+      "rightsEvidence": "Angenommene EXOBASIS-Markenpaket-B-Lieferung 2026-10-07, bestehende Rechte-/Nutzungsfreigabe und ausdrücklicher Unterseiten-Bildauftrag. Quelle H01.png, SHA256 b7e1603321357368e2112cb102489e9f5361358eddc458bf9e3fe94647e2fd02. Ganzbild als responsive WebP-Datei, kein neuer Crop oder neu generiertes Motiv. Gebundener Nachweis: Umsetzung/Designintegration/template-korrektur-20261008/ASSETUEBERNAHME.json.",
+      "licenseFiles": []
+    },
+    "assets/hero-wege-1600.webp": {
+      "sha256": "12b47ebe82c6666f103f8d842af665c5f7ca9bd745b863faa52ed8c48de2186e",
+      "rightsEvidence": "Angenommene EXOBASIS-Markenpaket-B-Lieferung 2026-10-07, bestehende Rechte-/Nutzungsfreigabe und ausdrücklicher Unterseiten-Bildauftrag. Quelle H02.png, SHA256 71516d095650e33ea696a84e6b53f020785b1a174fcef5e2a27a8492f550bc02. Ganzbild als responsive WebP-Datei, kein neuer Crop oder neu generiertes Motiv. Gebundener Nachweis: Umsetzung/Designintegration/template-korrektur-20261008/ASSETUEBERNAHME.json.",
+      "licenseFiles": []
+    },
+    "assets/hero-wege-800.webp": {
+      "sha256": "1a39505f05c3402f67469fb7450b9b005b99d7a4a845a2d8f62af8ea9df1f22c",
+      "rightsEvidence": "Angenommene EXOBASIS-Markenpaket-B-Lieferung 2026-10-07, bestehende Rechte-/Nutzungsfreigabe und ausdrücklicher Unterseiten-Bildauftrag. Quelle H02.png, SHA256 71516d095650e33ea696a84e6b53f020785b1a174fcef5e2a27a8492f550bc02. Ganzbild als responsive WebP-Datei, kein neuer Crop oder neu generiertes Motiv. Gebundener Nachweis: Umsetzung/Designintegration/template-korrektur-20261008/ASSETUEBERNAHME.json.",
+      "licenseFiles": []
+    },
+    "assets/hero-familie-1600.webp": {
+      "sha256": "5997ae8aefaf117a1bf166acc0d239b8593e150df22c69645bb5dee761530383",
+      "rightsEvidence": "Angenommene EXOBASIS-Markenpaket-B-Lieferung 2026-10-07, bestehende Rechte-/Nutzungsfreigabe und ausdrücklicher Unterseiten-Bildauftrag. Quelle H03.png, SHA256 1eb2dbbac9022a7de2a39146c7fe74a7cdb024c213f6be11250e67bcb74e4a89. Ganzbild als responsive WebP-Datei, kein neuer Crop oder neu generiertes Motiv. Gebundener Nachweis: Umsetzung/Designintegration/template-korrektur-20261008/ASSETUEBERNAHME.json.",
+      "licenseFiles": []
+    },
+    "assets/hero-familie-800.webp": {
+      "sha256": "ac35bb452b9344a3922fd330d3bdb4cddca10619c7f4d1b3dad673ba28569942",
+      "rightsEvidence": "Angenommene EXOBASIS-Markenpaket-B-Lieferung 2026-10-07, bestehende Rechte-/Nutzungsfreigabe und ausdrücklicher Unterseiten-Bildauftrag. Quelle H03.png, SHA256 1eb2dbbac9022a7de2a39146c7fe74a7cdb024c213f6be11250e67bcb74e4a89. Ganzbild als responsive WebP-Datei, kein neuer Crop oder neu generiertes Motiv. Gebundener Nachweis: Umsetzung/Designintegration/template-korrektur-20261008/ASSETUEBERNAHME.json.",
+      "licenseFiles": []
+    },
+    "assets/hero-umsetzung-1600.webp": {
+      "sha256": "ea089546d53816e67c4d887b55ab0672fab199a31e5f6822f3a2010b83f1359b",
+      "rightsEvidence": "Angenommene EXOBASIS-Markenpaket-B-Lieferung 2026-10-07, bestehende Rechte-/Nutzungsfreigabe und ausdrücklicher Unterseiten-Bildauftrag. Quelle H04.png, SHA256 49891ef2545e458b17ebee8d270c1e2b751fa12a69746ead1362dd432408d9da. Ganzbild als responsive WebP-Datei, kein neuer Crop oder neu generiertes Motiv. Gebundener Nachweis: Umsetzung/Designintegration/template-korrektur-20261008/ASSETUEBERNAHME.json.",
+      "licenseFiles": []
+    },
+    "assets/hero-umsetzung-800.webp": {
+      "sha256": "7dfff1f0a8da4a0efada29831c20db580311255809de1aa4b00dd323e02a0325",
+      "rightsEvidence": "Angenommene EXOBASIS-Markenpaket-B-Lieferung 2026-10-07, bestehende Rechte-/Nutzungsfreigabe und ausdrücklicher Unterseiten-Bildauftrag. Quelle H04.png, SHA256 49891ef2545e458b17ebee8d270c1e2b751fa12a69746ead1362dd432408d9da. Ganzbild als responsive WebP-Datei, kein neuer Crop oder neu generiertes Motiv. Gebundener Nachweis: Umsetzung/Designintegration/template-korrektur-20261008/ASSETUEBERNAHME.json.",
+      "licenseFiles": []
+    },
+    "assets/hero-notfallunterlagen-1448.webp": {
+      "sha256": "2226b44cc9303897277301be11123c9c5a11b2adace723f9ade35625d1b26ffe",
+      "rightsEvidence": "Angenommene EXOBASIS-Markenpaket-B-Lieferung 2026-10-07, bestehende Rechte-/Nutzungsfreigabe und ausdrücklicher Unterseiten-Bildauftrag. Quelle N03-notfallunterlagen-alltag.png, SHA256 5d3d42b25ad824328c69a8c50a12df4173e2b7fc04ad7aec26385c3e85998571. Ganzbild als responsive WebP-Datei, kein neuer Crop oder neu generiertes Motiv. Gebundener Nachweis: Umsetzung/Designintegration/template-korrektur-20261008/ASSETUEBERNAHME.json.",
+      "licenseFiles": []
+    },
+    "assets/hero-notfallunterlagen-800.webp": {
+      "sha256": "4fd0d2f782b842842cbe2eb8fd737ce56b7858e468e6d1aa180a3f22277bda5f",
+      "rightsEvidence": "Angenommene EXOBASIS-Markenpaket-B-Lieferung 2026-10-07, bestehende Rechte-/Nutzungsfreigabe und ausdrücklicher Unterseiten-Bildauftrag. Quelle N03-notfallunterlagen-alltag.png, SHA256 5d3d42b25ad824328c69a8c50a12df4173e2b7fc04ad7aec26385c3e85998571. Ganzbild als responsive WebP-Datei, kein neuer Crop oder neu generiertes Motiv. Gebundener Nachweis: Umsetzung/Designintegration/template-korrektur-20261008/ASSETUEBERNAHME.json.",
       "licenseFiles": []
     }
   }

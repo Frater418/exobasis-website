@@ -188,6 +188,10 @@
     if (dismissed === link) return;
     timer = window.setTimeout(() => {
       if (!link.isConnected || link.getClientRects().length === 0) return;
+      // Desktop menu cards already expose their description beside the destination.
+      const description = link.closest('.exb6-nav') && link.querySelector('.exb6-menu-link-description, .exb6-choice-description');
+      if (description?.textContent.trim() && description.getClientRects().length &&
+          !['hidden', 'collapse'].includes(window.getComputedStyle(description).visibility)) { hide(); return; }
       const modal = link.closest('dialog[open]');
       (modal || document.body).append(tip);
       owner = link;
