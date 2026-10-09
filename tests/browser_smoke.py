@@ -86,13 +86,25 @@ class Page:
         self.settle()
 
     def click(self, selector):
-        coord = self.js('''(() => {
-          const e=[...document.querySelectorAll(%s)].find(e=>{const r=e.getBoundingClientRect();return r.width&&r.height});
-          if(!e)throw Error('Kein sichtbares Klickziel');
-          e.scrollIntoView({block:'center',behavior:'instant'});
-          const r=e.getBoundingClientRect();return {x:r.x+r.width/2,y:r.y+r.height/2};
-        })()''' % json.dumps(selector))
-        self.settle()
+        target = '''[...document.querySelectorAll(%s)].find(e=>{const r=e.getBoundingClientRect();return r.width&&r.height})''' % json.dumps(selector)
+        self.js('(()=>{const e=' + target + ';if(!e)throw Error("Kein sichtbares Klickziel");e.scrollIntoView({block:"center",behavior:"instant"})})()')
+        # Focus and validation can still move the viewport after the first scroll.
+        # Read settled coordinates and verify the hit target before dispatching input.
+        previous, stable = None, 0
+        for _ in range(30):
+            self.settle()
+            point = self.js('''(()=>{const e=''' + target + ''';const r=e.getBoundingClientRect();
+              const x=r.x+r.width/2,y=r.y+r.height/2,hit=document.elementFromPoint(x,y);
+              return {x,y,hit:hit===e||e.contains(hit)};})()''')
+            current = (round(point['x'],1),round(point['y'],1))
+            stable = stable+1 if current==previous and point['hit'] else 0
+            if stable>=2:
+                break
+            previous=current
+            time.sleep(0.03)
+        else:
+            raise RuntimeError('Klickziel wurde nicht stabil sichtbar: '+selector)
+        coord = {'x':point['x'],'y':point['y']}
         for kind in ('mousePressed', 'mouseReleased'):
             self.call('Input.dispatchMouseEvent', type=kind, button='left', clickCount=1, **coord)
         self.settle()
@@ -187,6 +199,21 @@ def run(args):
                     screenshot(route.strip('/').replace('/', '-') + '-' + str(width) + '-overflow')
                 assert data['scrollWidth'] <= data['width'], data
                 assert not data['brokenImages'] and not data['exceptions'] and not data['failures'] and not data['external'], data
+                if route not in ('/de/', '/en/'):
+                    # Full-section edges must stay on the same rails, including supplementary
+                    # sections and forms. Reading columns and intentionally nested cards may differ.
+                    data['alignment'] = page.js('''(()=>{
+                      const rect=e=>{const r=e.getBoundingClientRect();return {left:r.left,right:r.right,width:r.width}};
+                      const rail=rect(document.querySelector('main .exb-wrap'));
+                      const nodes=[...new Set([...document.querySelectorAll('main .exb-wrap, .exb-editorial-main > *, .exb-form-container, .exb-state-content, .exb-hero-text, .exb-legal-warning, .exb-state-note')])];
+                      const sections=nodes.filter(e=>e.getBoundingClientRect().height&&getComputedStyle(e).visibility!=='hidden').map(e=>({id:e.id,cls:e.className,...rect(e)}));
+                      const drift=sections.filter(r=>Math.abs(r.left-rail.left)>1||Math.abs(r.right-rail.right)>1);
+                      const disclosure=document.querySelector('.exb-page-toc summary');
+                      return {rail,sections,drift,disclosureHeight:disclosure?.getBoundingClientRect().height??null};
+                    })()''')
+                    assert not data['alignment']['drift'], {'route':route,'width':width,'alignment':data['alignment']}
+                    if data['alignment']['disclosureHeight'] is not None:
+                        assert data['alignment']['disclosureHeight'] >= 48, data['alignment']
                 if args.all and width in (390, 1440):
                     screenshot(route.strip('/').replace('/', '-') + '-' + str(width) + '-top')
                 if route in ('/de/', '/en/') and width in (390, 1440):

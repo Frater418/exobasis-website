@@ -25,5 +25,7 @@ test('Editorial wrapper no longer constrains whole table regions to prose measur
  const css=await readFile(path.join(ROOT,'public/css/exobasis-b-integration.css'),'utf8');
  assert.match(css,/\.exb-editorial-layout\s*\{[^}]*display:\s*block/);
  assert.match(css,/\.exb-editorial-main\s+\.exb-prose-content\s*\{[^}]*max-inline-size:\s*none/);
- assert.match(css,/\.exb-page-toc\s+summary\s*\{[^}]*min-height:\s*48px/);
+ const summaryHeights=[...css.matchAll(/\.exb-page-toc\s+summary\s*\{[^}]*min-height:\s*(\d+)px/g)].map(match=>Number(match[1]));
+ assert.ok(summaryHeights.length>0);
+ assert.ok(summaryHeights.every(height=>height>=48),'The contents disclosure must retain a usable touch target at every breakpoint');
 });
